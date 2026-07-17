@@ -1,0 +1,2838 @@
+{
+  "version": 2,
+  "country": "San Marino",
+  "published": true,
+  "cities": [
+    {
+      "city": "San Marino City",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "San Marino City",
+      "seo": {
+        "title": "Top 10 Things to Do in San Marino City, San Marino",
+        "description": "Discover 10 must-see landmarks in San Marino City, San Marino. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to San Marino City? Explore the best places to visit in San Marino City, San Marino.",
+        "keywords": [
+          "things to do in San Marino City",
+          "San Marino City San Marino travel guide",
+          "best places to visit in San Marino City",
+          "San Marino City landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Guaita Tower",
+          "wiki_title": "Guaita",
+          "lat": 43.9352,
+          "lng": 12.4497,
+          "order_index": 0,
+          "description": "The oldest and most famous of the three towers overlooking San Marino.",
+          "seo_phrase": "Visit Guaita Tower: The Iconic First Tower of San Marino",
+          "seo_keywords": [
+            "Guaita Tower",
+            "San Marino fortress",
+            "First Tower",
+            "Monte Titano history"
+          ],
+          "commons_file": "San Marino Rocca Guaita.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/San_Marino_Rocca_Guaita.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Cesta Tower",
+            "Palazzo Pubblico"
+          ]
+        },
+        {
+          "name": "Palazzo Pubblico",
+          "wiki_title": "Palazzo Pubblico (San Marino)",
+          "lat": 43.9367,
+          "lng": 12.4465,
+          "order_index": 1,
+          "description": "The official town hall and main government building of San Marino.",
+          "seo_phrase": "Palazzo Pubblico San Marino: Government Building & Town Hall",
+          "seo_keywords": [
+            "Palazzo Pubblico",
+            "San Marino town hall",
+            "Piazza della Liberta"
+          ],
+          "commons_file": "Palazzo Pubblico San Marino.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Palazzo_Pubblico_San_Marino.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Piazza della Liberta",
+            "Basilica di San Marino"
+          ]
+        },
+        {
+          "name": "Cesta Tower",
+          "wiki_title": "Cesta (San Marino)",
+          "lat": 43.9343,
+          "lng": 12.4514,
+          "order_index": 2,
+          "description": "The highest peak of Mount Titano, home to an ancient weapons museum.",
+          "seo_phrase": "Cesta Tower San Marino: Second Tower & Weapons Museum",
+          "seo_keywords": [
+            "Cesta Tower",
+            "Second Tower San Marino",
+            "Museum of Ancient Arms"
+          ],
+          "commons_file": "San Marino Rocca Cesta.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/San_Marino_Rocca_Cesta.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Guaita Tower",
+            "Montale Tower"
+          ]
+        },
+        {
+          "name": "Basilica di San Marino",
+          "wiki_title": "Basilica di San Marino",
+          "lat": 43.9369,
+          "lng": 12.4471,
+          "order_index": 3,
+          "description": "The principal Catholic church of the capital city.",
+          "seo_phrase": "Basilica di San Marino: Neo-Classical Masterpiece",
+          "seo_keywords": [
+            "Basilica di San Marino",
+            "San Marino cathedral",
+            "Saint Marinus relics"
+          ],
+          "commons_file": "San Marino 034.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/San_Marino_034.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Palazzo Pubblico",
+            "Church of San Pietro"
+          ]
+        },
+        {
+          "name": "Piazza della Libertà",
+          "wiki_title": "Palazzo Pubblico (San Marino)",
+          "lat": 43.9366,
+          "lng": 12.4464,
+          "order_index": 4,
+          "description": "The iconic main public square of San Marino's capital.",
+          "seo_phrase": "Piazza della Liberta: The Vibrant Main Square of San Marino",
+          "seo_keywords": [
+            "Piazza della Liberta",
+            "San Marino square",
+            "Statue of Liberty San Marino"
+          ],
+          "commons_file": "Piazza della Libertà San Marino.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Piazza_della_Libert%C3%A0_San_Marino.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Palazzo Pubblico",
+            "State Museum"
+          ]
+        },
+        {
+          "name": "Cava dei Balestrieri",
+          "wiki_title": "San Marino Academy",
+          "lat": 43.9363,
+          "lng": 12.4475,
+          "order_index": 5,
+          "description": "A historic quarry transformed into an arena for traditional crossbow tournaments.",
+          "seo_phrase": "Cava dei Balestrieri: The Crossbowmen's Quarry in San Marino",
+          "seo_keywords": [
+            "Cava dei Balestrieri",
+            "Crossbowmens Quarry",
+            "San Marino cultural events"
+          ],
+          "commons_file": "San Marino - Cava dei Balestrieri.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/San_Marino_-_Cava_dei_Balestrieri.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Palazzo Pubblico",
+            "Funivia Terminal"
+          ]
+        },
+        {
+          "name": "State Museum",
+          "wiki_title": "Museo di Stato (San Marino)",
+          "lat": 43.9372,
+          "lng": 12.4461,
+          "order_index": 6,
+          "description": "The premier repository of historical artifacts and national heritage.",
+          "seo_phrase": "State Museum of San Marino: National History & Fine Art",
+          "seo_keywords": [
+            "State Museum San Marino",
+            "Museo di Stato",
+            "San Marino archaeology"
+          ],
+          "commons_file": "Palazzo pergami belluzzi museo di stato.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Palazzo_pergami_belluzzi_museo_di_stato.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Piazza della Liberta",
+            "Basilica di San Marino"
+          ]
+        },
+        {
+          "name": "Church of San Francesco",
+          "wiki_title": "San Francesco, San Marino",
+          "lat": 43.9358,
+          "lng": 12.4452,
+          "order_index": 7,
+          "description": "A historic Franciscan convent and church dating to the 14th century.",
+          "seo_phrase": "Church of San Francesco: San Marino's Oldest Extant Church",
+          "seo_keywords": [
+            "Church of San Francesco",
+            "San Francesco San Marino",
+            "Franciscan convent"
+          ],
+          "commons_file": "San Marino Chiesa San Francesco.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/San_Marino_Chiesa_San_Francesco.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Porta San Francesco",
+            "State Museum"
+          ]
+        },
+        {
+          "name": "Porta San Francesco",
+          "wiki_title": "San Francesco, San Marino",
+          "lat": 43.9356,
+          "lng": 12.445,
+          "order_index": 8,
+          "description": "The ancient fortified gateway guarding the city entrance.",
+          "seo_phrase": "Porta San Francesco: The Medieval Gateway to the Capital",
+          "seo_keywords": [
+            "Porta San Francesco",
+            "San Marino city gate",
+            "medieval entrance"
+          ],
+          "commons_file": "Porta San Francesco San Marino.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Porta_San_Francesco_San_Marino.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church of San Francesco",
+            "State Museum"
+          ]
+        },
+        {
+          "name": "Montale Tower",
+          "wiki_title": "Montale (San Marino)",
+          "lat": 43.9317,
+          "lng": 12.4542,
+          "order_index": 9,
+          "description": "The smallest and most remote of the three iconic fortresses.",
+          "seo_phrase": "Montale Tower: The Secluded Third Tower of San Marino",
+          "seo_keywords": [
+            "Montale Tower",
+            "Third Tower",
+            "San Marino hiking trails"
+          ],
+          "commons_file": "San Marino Rocca Montale.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/San_Marino_Rocca_Montale.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Cesta Tower"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Borgo Maggiore",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Borgo Maggiore",
+      "seo": {
+        "title": "Top 10 Things to Do in Borgo Maggiore, San Marino",
+        "description": "Discover 10 must-see landmarks in Borgo Maggiore, San Marino. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Borgo Maggiore? Explore the best places to visit in Borgo Maggiore, San Marino.",
+        "keywords": [
+          "things to do in Borgo Maggiore",
+          "Borgo Maggiore San Marino travel guide",
+          "best places to visit in Borgo Maggiore",
+          "Borgo Maggiore landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Borgo Maggiore Cable Car",
+          "wiki_title": "Borgo Maggiore",
+          "lat": 43.9415,
+          "lng": 12.4462,
+          "order_index": 0,
+          "description": "A scenic aerial tramway linking the lower market town to the high castle peaks.",
+          "seo_phrase": "San Marino Cable Car: Funivia Ride from Borgo Maggiore",
+          "seo_keywords": [
+            "San Marino cable car",
+            "Funivia Borgo Maggiore",
+            "aerial tramway"
+          ],
+          "commons_file": "Funivia San Marino.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Funivia_San_Marino.jpg",
+          "seo_priority": 97,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Piazza Grande",
+            "Clock Tower"
+          ]
+        },
+        {
+          "name": "Piazza Grande",
+          "wiki_title": "Borgo Maggiore",
+          "lat": 43.9412,
+          "lng": 12.4468,
+          "order_index": 1,
+          "description": "The traditional economic and historical marketplace of Borgo Maggiore.",
+          "seo_phrase": "Piazza Grande Borgo Maggiore: Historic Market Square",
+          "seo_keywords": [
+            "Piazza Grande",
+            "Borgo Maggiore square",
+            "San Marino markets"
+          ],
+          "commons_file": "Borgo Maggiore 03.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Borgo_Maggiore_03.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Borgo Maggiore Cable Car",
+            "Clock Tower"
+          ]
+        },
+        {
+          "name": "Santuario della Consolazione",
+          "wiki_title": "Santuario della Beata Vergine della Consolazione",
+          "lat": 43.945,
+          "lng": 12.4491,
+          "order_index": 2,
+          "description": "A landmark modernist church known for its expressive architecture.",
+          "seo_phrase": "Santuario della Consolazione: Modern Architectural Marvel",
+          "seo_keywords": [
+            "Santuario della Consolazione",
+            "Giovanni Michelucci San Marino",
+            "modernist church"
+          ],
+          "commons_file": "Santuario della Beata Vergine della Consolazione exterior.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Santuario_della_Beata_Vergine_della_Consolazione_exterior.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Piazza Grande",
+            "Old Train Tunnel"
+          ]
+        },
+        {
+          "name": "Old Train Tunnel Walkway",
+          "wiki_title": "San Marino and Rimini railway",
+          "lat": 43.9431,
+          "lng": 12.4485,
+          "order_index": 3,
+          "description": "A walking path built inside a preserved WWII-era railway tunnel.",
+          "seo_phrase": "Old Train Tunnel Borgo Maggiore: Historic Railway Trail",
+          "seo_keywords": [
+            "Old Train Tunnel",
+            "Rimini San Marino railway",
+            "historic tunnel walkway"
+          ],
+          "commons_file": "San marino treno bianco azzurro.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/San_marino_treno_bianco_azzurro.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Santuario della Consolazione",
+            "Piazza Grande"
+          ]
+        },
+        {
+          "name": "Antica Cantina di San Marino",
+          "wiki_title": "Borgo Maggiore",
+          "lat": 43.9442,
+          "lng": 12.4435,
+          "order_index": 4,
+          "description": "The dedicated historical wine production cooperative of the microstate.",
+          "seo_phrase": "Antica Cantina: San Marino Traditional Wine Heritage",
+          "seo_keywords": [
+            "Antica Cantina",
+            "San Marino wine",
+            "Consorzio Vini Tipici"
+          ],
+          "commons_file": "Borgo Maggiore 03.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Borgo_Maggiore_03.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Piazza Grande",
+            "Borgo Maggiore Cable Car"
+          ]
+        },
+        {
+          "name": "Torre dell'Orologio",
+          "wiki_title": "Borgo Maggiore",
+          "lat": 43.9413,
+          "lng": 12.447,
+          "order_index": 5,
+          "description": "A beautifully preserved town clock tower commanding the main plaza.",
+          "seo_phrase": "Torre dell'Orologio: The Historic Clock Tower of Borgo Maggiore",
+          "seo_keywords": [
+            "Torre dell Orologio",
+            "Clock Tower Borgo Maggiore",
+            "San Marino landmarks"
+          ],
+          "commons_file": "Borgo Maggiore, Torre dell'Orologio.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Borgo_Maggiore%2C_Torre_dell%27Orologio.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Piazza Grande",
+            "Borgo Maggiore Cable Car"
+          ]
+        },
+        {
+          "name": "Serravalle",
+          "wiki_title": "Serravalle, San Marino",
+          "lat": 43.97166667,
+          "lng": 12.48166667,
+          "order_index": 6,
+          "description": "Serravalle, San Marino — a notable landmark in Borgo Maggiore, San Marino.",
+          "seo_phrase": "Serravalle",
+          "seo_keywords": [
+            "Borgo Maggiore",
+            "San Marino",
+            "travel"
+          ],
+          "commons_file": "1f/SerravalleRSMCastello2.JPG/800px-SerravalleRSMCastello2.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/SerravalleRSMCastello2.JPG/800px-SerravalleRSMCastello2.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Domagnano",
+          "wiki_title": "Domagnano",
+          "lat": 43.95,
+          "lng": 12.46666667,
+          "order_index": 7,
+          "description": "Domagnano — a notable landmark in Borgo Maggiore, San Marino.",
+          "seo_phrase": "Domagnano",
+          "seo_keywords": [
+            "Borgo Maggiore",
+            "San Marino",
+            "travel"
+          ],
+          "commons_file": "6e/DomagnanoBorgoMaggioreRSMPanorama.JPG/800px-DomagnanoBorgoMaggioreRSMPanorama.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/DomagnanoBorgoMaggioreRSMPanorama.JPG/800px-DomagnanoBorgoMaggioreRSMPanorama.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Acquaviva",
+          "wiki_title": "Acquaviva, San Marino",
+          "lat": 43.9457,
+          "lng": 12.41846667,
+          "order_index": 8,
+          "description": "Acquaviva, San Marino — a notable landmark in Borgo Maggiore, San Marino.",
+          "seo_phrase": "Acquaviva",
+          "seo_keywords": [
+            "Borgo Maggiore",
+            "San Marino",
+            "travel"
+          ],
+          "commons_file": "6a/AcquavivaRSM.JPG/800px-AcquavivaRSM.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/AcquavivaRSM.JPG/800px-AcquavivaRSM.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Faetano",
+          "wiki_title": "Faetano",
+          "lat": 43.92555556,
+          "lng": 12.49833333,
+          "order_index": 9,
+          "description": "Faetano — a notable landmark in Borgo Maggiore, San Marino.",
+          "seo_phrase": "Faetano",
+          "seo_keywords": [
+            "Borgo Maggiore",
+            "San Marino",
+            "travel"
+          ],
+          "commons_file": "cf/FaetanoChiesaSanPaoloApostoloCasaDelCastello.JPG/800px-FaetanoChiesaSanPaoloApostoloCasaDelCastello.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/FaetanoChiesaSanPaoloApostoloCasaDelCastello.JPG/800px-FaetanoChiesaSanPaoloApostoloCasaDelCastello.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Serravalle",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Serravalle",
+      "seo": {
+        "title": "Top 10 Things to Do in Serravalle, San Marino",
+        "description": "Discover 10 must-see landmarks in Serravalle, San Marino. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Serravalle? Explore the best places to visit in Serravalle, San Marino.",
+        "keywords": [
+          "things to do in Serravalle",
+          "Serravalle San Marino travel guide",
+          "best places to visit in Serravalle",
+          "Serravalle landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "San Marino Stadium",
+          "wiki_title": "San Marino Stadium",
+          "lat": 43.9686,
+          "lng": 12.4781,
+          "order_index": 0,
+          "description": "The multi-use national sports stadium of San Marino.",
+          "seo_phrase": "San Marino Stadium Serravalle: National Football Arena",
+          "seo_keywords": [
+            "San Marino Stadium",
+            "Serravalle stadium",
+            "Stadio Olimpico Serravalle"
+          ],
+          "commons_file": "Stadio Olimpico di Serravalle.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stadio_Olimpico_di_Serravalle.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Multieventi Sport Domus",
+            "Parco Ausa"
+          ]
+        },
+        {
+          "name": "Castello di Serravalle Historic Center",
+          "wiki_title": "Serravalle (San Marino)",
+          "lat": 43.9698,
+          "lng": 12.473,
+          "order_index": 1,
+          "description": "The medieval neighborhood core of San Marino's largest municipality.",
+          "seo_phrase": "Historic Serravalle: Ancient Defensive Square",
+          "seo_keywords": [
+            "Castello di Serravalle",
+            "Olnano history",
+            "San Marino fortifications"
+          ],
+          "commons_file": "Festa del Castello di Serravalle.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Festa_del_Castello_di_Serravalle.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Church of Sant Andrea",
+            "Piazza Bertoldi"
+          ]
+        },
+        {
+          "name": "Parco Ausa",
+          "wiki_title": "Serravalle (San Marino)",
+          "lat": 43.9665,
+          "lng": 12.4795,
+          "order_index": 2,
+          "description": "A beautifully landscaped modern green corridor in the city center.",
+          "seo_phrase": "Parco Ausa Serravalle: Urban Green Space & Trails",
+          "seo_keywords": [
+            "Parco Ausa",
+            "Serravalle park",
+            "San Marino green spaces"
+          ],
+          "commons_file": "Stadio Olimpico di Serravalle.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stadio_Olimpico_di_Serravalle.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "San Marino Stadium",
+            "Multieventi Sport Domus"
+          ]
+        },
+        {
+          "name": "Church of Sant'Andrea",
+          "wiki_title": "Serravalle (San Marino)",
+          "lat": 43.9702,
+          "lng": 12.4725,
+          "order_index": 3,
+          "description": "The central Catholic parish church of Serravalle.",
+          "seo_phrase": "Church of Sant'Andrea Serravalle: Neo-Classical Heritage",
+          "seo_keywords": [
+            "Church of Sant Andrea",
+            "Serravalle parish",
+            "San Marino neo classical architecture"
+          ],
+          "commons_file": "Festa del Castello di Serravalle.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Festa_del_Castello_di_Serravalle.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Castello di Serravalle Historic Center",
+            "Piazza Bertoldi"
+          ]
+        },
+        {
+          "name": "World Trade Center San Marino",
+          "wiki_title": "Serravalle (San Marino)",
+          "lat": 43.961,
+          "lng": 12.482,
+          "order_index": 4,
+          "description": "A landmark contemporary office complex designed by Foster + Partners.",
+          "seo_phrase": "World Trade Center San Marino: Modernist Architecture",
+          "seo_keywords": [
+            "World Trade Center San Marino",
+            "Norman Foster San Marino",
+            "modern architecture"
+          ],
+          "commons_file": "Stadio Olimpico di Serravalle.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stadio_Olimpico_di_Serravalle.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Parco Ausa",
+            "San Marino Stadium"
+          ]
+        },
+        {
+          "name": "Montegiardino",
+          "wiki_title": "Montegiardino",
+          "lat": 43.90888889,
+          "lng": 12.48444444,
+          "order_index": 5,
+          "description": "Montegiardino — a notable landmark in Serravalle, San Marino.",
+          "seo_phrase": "Montegiardino",
+          "seo_keywords": [
+            "Serravalle",
+            "San Marino",
+            "travel"
+          ],
+          "commons_file": "Montegiardino vue.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Montegiardino_vue.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Multieventi Sport Domus",
+          "wiki_title": "Serravalle (San Marino)",
+          "lat": 43.9678,
+          "lng": 12.4775,
+          "order_index": 6,
+          "description": "A major multi-sport indoor stadium complex located in Serravalle.",
+          "seo_phrase": "Multieventi Sport Domus: Indoor Athletic Complex",
+          "seo_keywords": [
+            "Multieventi Sport Domus",
+            "San Marino basketball arena",
+            "Olympic pool San Marino"
+          ],
+          "commons_file": "Stadio Olimpico di Serravalle.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stadio_Olimpico_di_Serravalle.jpg",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "San Marino Stadium",
+            "Parco Ausa"
+          ]
+        },
+        {
+          "name": "Colle di Serravalle Viewpoint",
+          "wiki_title": "Serravalle (San Marino)",
+          "lat": 43.9715,
+          "lng": 12.471,
+          "order_index": 7,
+          "description": "A scenic elevated vantage point over northern San Marino.",
+          "seo_phrase": "Colle di Serravalle: Panoramic Northern Vista",
+          "seo_keywords": [
+            "Colle di Serravalle",
+            "Serravalle view",
+            "San Marino landscape"
+          ],
+          "commons_file": "Festa del Castello di Serravalle.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Festa_del_Castello_di_Serravalle.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Castello di Serravalle Historic Center",
+            "Church of Sant Andrea"
+          ]
+        },
+        {
+          "name": "Piazza Bertoldi",
+          "wiki_title": "Serravalle (San Marino)",
+          "lat": 43.9695,
+          "lng": 12.4735,
+          "order_index": 8,
+          "description": "The historic central plaza of the Serravalle community.",
+          "seo_phrase": "Piazza Bertoldi Serravalle: Community Civic Square",
+          "seo_keywords": [
+            "Piazza Bertoldi",
+            "Serravalle town square",
+            "San Marino public spaces"
+          ],
+          "commons_file": "Festa del Castello di Serravalle.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Festa_del_Castello_di_Serravalle.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Castello di Serravalle Historic Center",
+            "Church of Sant Andrea"
+          ]
+        },
+        {
+          "name": "Galleria d'Arte Moderna Olnano",
+          "wiki_title": "Serravalle (San Marino)",
+          "lat": 43.9691,
+          "lng": 12.474,
+          "order_index": 9,
+          "description": "A curated local community exhibit room celebrating modern fine arts.",
+          "seo_phrase": "Olnano Modern Art Collection: Fine Local Masterpieces",
+          "seo_keywords": [
+            "Olnano Art Collection",
+            "Serravalle modern art",
+            "Sammarinese painters"
+          ],
+          "commons_file": "Festa del Castello di Serravalle.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Festa_del_Castello_di_Serravalle.jpg",
+          "seo_priority": 81,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Piazza Bertoldi",
+            "Castello di Serravalle Historic Center"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Domagnano",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Domagnano",
+      "seo": {
+        "title": "Top 10 Things to Do in Domagnano, San Marino",
+        "description": "Discover 10 must-see landmarks in Domagnano, San Marino. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Domagnano? Explore the best places to visit in Domagnano, San Marino.",
+        "keywords": [
+          "things to do in Domagnano",
+          "Domagnano San Marino travel guide",
+          "best places to visit in Domagnano",
+          "Domagnano landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Domagnano Fortress Archeological Site",
+          "wiki_title": "Domagnano",
+          "lat": 43.949,
+          "lng": 12.4695,
+          "order_index": 0,
+          "description": "The historic location where a famous Ostrogothic treasure was unearthed.",
+          "seo_phrase": "Domagnano Treasure Site: Ancient Gothic History",
+          "seo_keywords": [
+            "Domagnano Treasure",
+            "Gothic archaeology San Marino",
+            "ancient ruins Domagnano"
+          ],
+          "commons_file": "Domagnano 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Domagnano_01.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Church of San Michele Arcangelo",
+            "Piazza Filippo da Sterpeto"
+          ]
+        },
+        {
+          "name": "Torraccia Viewpoint",
+          "wiki_title": "Domagnano",
+          "lat": 43.9535,
+          "lng": 12.496,
+          "order_index": 1,
+          "description": "A picturesque hilltop viewpoint in the community of Domagnano.",
+          "seo_phrase": "Torraccia Domagnano Overlook: Scenic Alpine Vistas",
+          "seo_keywords": [
+            "Torraccia Domagnano",
+            "Domagnano overlook",
+            "San Marino landscapes"
+          ],
+          "commons_file": "Domagnano 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Domagnano_01.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church of San Michele Arcangelo",
+            "Domagnano Fortress Site"
+          ]
+        },
+        {
+          "name": "Church of San Michele Arcangelo",
+          "wiki_title": "Domagnano",
+          "lat": 43.9482,
+          "lng": 12.4688,
+          "order_index": 2,
+          "description": "The principal religious building within the Domagnano township.",
+          "seo_phrase": "Church of San Michele Arcangelo Domagnano: Historic Parish",
+          "seo_keywords": [
+            "San Michele Arcangelo",
+            "Domagnano church",
+            "San Marino classic parishes"
+          ],
+          "commons_file": "Domagnano 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Domagnano_01.jpg",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Domagnano Fortress Site",
+            "Piazza Filippo da Sterpeto"
+          ]
+        },
+        {
+          "name": "Strada dei Boschi Overlook",
+          "wiki_title": "Domagnano",
+          "lat": 43.955,
+          "lng": 12.472,
+          "order_index": 3,
+          "description": "A rural panoramic stop showcasing typical microstate agriculture.",
+          "seo_phrase": "Strada dei Boschi Viewpoint: Rural San Marino Landscape",
+          "seo_keywords": [
+            "Strada dei Boschi",
+            "Domagnano scenic view",
+            "San Marino countryside"
+          ],
+          "commons_file": "Domagnano 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Domagnano_01.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Torraccia Viewpoint",
+            "Domagnano Fortress Site"
+          ]
+        },
+        {
+          "name": "Parco di Domagnano",
+          "wiki_title": "Domagnano",
+          "lat": 43.9472,
+          "lng": 12.4699,
+          "order_index": 4,
+          "description": "A compact, tranquil park serving neighborhood residents.",
+          "seo_phrase": "Parco di Domagnano: Relaxing Community Greenspace",
+          "seo_keywords": [
+            "Parco di Domagnano",
+            "Domagnano park",
+            "San Marino urban nature"
+          ],
+          "commons_file": "Domagnano 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Domagnano_01.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church of San Michele Arcangelo",
+            "Piazza Filippo da Sterpeto"
+          ]
+        },
+        {
+          "name": "Centro d'Arte Spazio Oltre",
+          "wiki_title": "Domagnano",
+          "lat": 43.9495,
+          "lng": 12.467,
+          "order_index": 5,
+          "description": "A cultural gallery highlighting contemporary regional handicrafts.",
+          "seo_phrase": "Spazio Oltre Domagnano: Independent Art Venue",
+          "seo_keywords": [
+            "Spazio Oltre Domagnano",
+            "San Marino ceramics",
+            "local art galleries"
+          ],
+          "commons_file": "Domagnano 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Domagnano_01.jpg",
+          "seo_priority": 81,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Domagnano Fortress Site",
+            "Church of San Michele Arcangelo"
+          ]
+        },
+        {
+          "name": "Piazza Filippo da Sterpeto",
+          "wiki_title": "Domagnano",
+          "lat": 43.948,
+          "lng": 12.4682,
+          "order_index": 6,
+          "description": "The central focal point of Domagnano's community life.",
+          "seo_phrase": "Piazza Filippo da Sterpeto: Domagnano Center",
+          "seo_keywords": [
+            "Piazza Filippo da Sterpeto",
+            "Domagnano plaza",
+            "San Marino public squares"
+          ],
+          "commons_file": "Domagnano 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Domagnano_01.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church of San Michele Arcangelo",
+            "Domagnano Fortress Site"
+          ]
+        },
+        {
+          "name": "Monumento ai Caduti di Domagnano",
+          "wiki_title": "Domagnano",
+          "lat": 43.9479,
+          "lng": 12.468,
+          "order_index": 7,
+          "description": "A historical stone monument dedicated to civic resilience.",
+          "seo_phrase": "Domagnano Civic Monument: Tribute to Freedom",
+          "seo_keywords": [
+            "Monumento Domagnano",
+            "San Marino sculpture",
+            "civic monuments"
+          ],
+          "commons_file": "Domagnano 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Domagnano_01.jpg",
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Piazza Filippo da Sterpeto",
+            "Church of San Michele Arcangelo"
+          ]
+        },
+        {
+          "name": "Casa del Castello di Domagnano",
+          "wiki_title": "Domagnano",
+          "lat": 43.9485,
+          "lng": 12.4685,
+          "order_index": 8,
+          "description": "The administrative headquarters and community hall of the Castello.",
+          "seo_phrase": "Domagnano Municipal Hall: Civic Architecture",
+          "seo_keywords": [
+            "Casa del Castello Domagnano",
+            "Domagnano governance",
+            "San Marino municipal buildings"
+          ],
+          "commons_file": "Domagnano 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Domagnano_01.jpg",
+          "seo_priority": 77,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Piazza Filippo da Sterpeto",
+            "Church of San Michele Arcangelo"
+          ]
+        },
+        {
+          "name": "Biblioteca Popolare di Domagnano",
+          "wiki_title": "Domagnano",
+          "lat": 43.9483,
+          "lng": 12.4681,
+          "order_index": 9,
+          "description": "A historic neighborhood educational reading room open to the public.",
+          "seo_phrase": "Domagnano Community Library: Local Literary Archives",
+          "seo_keywords": [
+            "Biblioteca Domagnano",
+            "San Marino archives",
+            "historic books"
+          ],
+          "commons_file": "Domagnano 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Domagnano_01.jpg",
+          "seo_priority": 76,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Piazza Filippo da Sterpeto",
+            "Church of San Michele Arcangelo"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Fiorentino",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Fiorentino",
+      "seo": {
+        "title": "Top 10 Things to Do in Fiorentino, San Marino",
+        "description": "Discover 10 must-see landmarks in Fiorentino, San Marino. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Fiorentino? Explore the best places to visit in Fiorentino, San Marino.",
+        "keywords": [
+          "things to do in Fiorentino",
+          "Fiorentino San Marino travel guide",
+          "best places to visit in Fiorentino",
+          "Fiorentino landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Castellaccio Pennarossa Site",
+          "wiki_title": "Fiorentino",
+          "lat": 43.9112,
+          "lng": 12.455,
+          "order_index": 0,
+          "description": "The rocky summit ruins of an early strategic boundary fortress.",
+          "seo_phrase": "Pennarossa Archaeological Site: Medieval Fortress Ruins",
+          "seo_keywords": [
+            "Castellaccio Pennarossa",
+            "Fiorentino ruins",
+            "Malatesta fortresses"
+          ],
+          "commons_file": "Fiorentino San Marino.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Fiorentino_San_Marino.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church of San Bartolomeo",
+            "Piazza XII Ottobre"
+          ]
+        },
+        {
+          "name": "Church of San Bartolomeo Apostolo",
+          "wiki_title": "Fiorentino",
+          "lat": 43.9125,
+          "lng": 12.4562,
+          "order_index": 1,
+          "description": "The historic parish church serving the Fiorentino district.",
+          "seo_phrase": "Church of San Bartolomeo Fiorentino: Classic Architecture",
+          "seo_keywords": [
+            "San Bartolomeo Apostolo",
+            "Fiorentino church",
+            "San Marino religious buildings"
+          ],
+          "commons_file": "Fiorentino San Marino.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Fiorentino_San_Marino.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Castellaccio Pennarossa Site",
+            "Piazza XII Ottobre"
+          ]
+        },
+        {
+          "name": "Fiorentino",
+          "wiki_title": "Fiorentino",
+          "lat": 43.91055556,
+          "lng": 12.45555556,
+          "order_index": 2,
+          "description": "Fiorentino — a notable landmark in Borgo Maggiore, San Marino.",
+          "seo_phrase": "Fiorentino",
+          "seo_keywords": [
+            "Borgo Maggiore",
+            "San Marino",
+            "travel"
+          ],
+          "commons_file": "f2/FiorentinoPanorama2.JPG/800px-FiorentinoPanorama2.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FiorentinoPanorama2.JPG/800px-FiorentinoPanorama2.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Chiesanuova",
+          "wiki_title": "Chiesanuova",
+          "lat": 43.90446667,
+          "lng": 12.42085,
+          "order_index": 3,
+          "description": "Chiesanuova — a notable landmark in Fiorentino, San Marino.",
+          "seo_phrase": "Chiesanuova",
+          "seo_keywords": [
+            "Fiorentino",
+            "San Marino",
+            "travel"
+          ],
+          "commons_file": "41/ChiesanuovaChiesa.JPG/800px-ChiesanuovaChiesa.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ChiesanuovaChiesa.JPG/800px-ChiesanuovaChiesa.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Piazza XII Ottobre",
+          "wiki_title": "Fiorentino",
+          "lat": 43.9121,
+          "lng": 12.4558,
+          "order_index": 4,
+          "description": "The spacious central civic square of Fiorentino.",
+          "seo_phrase": "Piazza XII Ottobre: The Civic Heart of Fiorentino",
+          "seo_keywords": [
+            "Piazza XII Ottobre",
+            "Fiorentino square",
+            "San Marino public spaces"
+          ],
+          "commons_file": "Fiorentino San Marino.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Fiorentino_San_Marino.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church of San Bartolomeo",
+            "Castellaccio Pennarossa Site"
+          ]
+        },
+        {
+          "name": "Casa del Castello di Fiorentino",
+          "wiki_title": "Fiorentino",
+          "lat": 43.9123,
+          "lng": 12.4555,
+          "order_index": 5,
+          "description": "The formal local administrative hall of the municipality.",
+          "seo_phrase": "Fiorentino Town Hall: Local Governance Heritage",
+          "seo_keywords": [
+            "Casa del Castello Fiorentino",
+            "Fiorentino governance",
+            "San Marino public architecture"
+          ],
+          "commons_file": "Fiorentino San Marino.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Fiorentino_San_Marino.jpg",
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Piazza XII Ottobre",
+            "Church of San Bartolomeo"
+          ]
+        },
+        {
+          "name": "City of San Marino",
+          "wiki_title": "City of San Marino",
+          "lat": 43.9346,
+          "lng": 12.4473,
+          "order_index": 6,
+          "description": "City of San Marino — a notable landmark in San Marino City, San Marino.",
+          "seo_phrase": "City of San Marino",
+          "seo_keywords": [
+            "San Marino City",
+            "San Marino",
+            "travel"
+          ],
+          "commons_file": "23/Basilica del Santo Marino, San Marino, 2022-09-20, DD 11.jpg/800px-Basilica del Santo Marino, San Marino, 2022-09-20, DD 11.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Basilica_del_Santo_Marino%2C_San_Marino%2C_2022-09-20%2C_DD_11.jpg/800px-Basilica_del_Santo_Marino%2C_San_Marino%2C_2022-09-20%2C_DD_11.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Monte Titano",
+          "wiki_title": "Monte Titano",
+          "lat": 43.935,
+          "lng": 12.45,
+          "order_index": 7,
+          "description": "Monte Titano — a notable landmark in San Marino City, San Marino.",
+          "seo_phrase": "Monte Titano",
+          "seo_keywords": [
+            "San Marino City",
+            "San Marino",
+            "travel"
+          ],
+          "commons_file": "2f/Monte Titano Panorama.jpg/800px-Monte Titano Panorama.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Monte_Titano_Panorama.jpg/800px-Monte_Titano_Panorama.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Three Towers of San Marino",
+          "wiki_title": "Three Towers of San Marino",
+          "lat": 43.935,
+          "lng": 12.45,
+          "order_index": 8,
+          "description": "Three Towers of San Marino — a notable landmark in San Marino City, San Marino.",
+          "seo_phrase": "Three Towers of San Marino",
+          "seo_keywords": [
+            "San Marino City",
+            "San Marino",
+            "travel"
+          ],
+          "commons_file": "3d/View of Mount Titano - San Marino.jpg/800px-View of Mount Titano - San Marino.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/View_of_Mount_Titano_-_San_Marino.jpg/800px-View_of_Mount_Titano_-_San_Marino.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Sammarinese Museum of Ancient Arms",
+          "wiki_title": "Sammarinese Museum of Ancient Arms",
+          "lat": 43.933,
+          "lng": 12.4517,
+          "order_index": 9,
+          "description": "Sammarinese Museum of Ancient Arms — a notable landmark in San Marino City, San Marino.",
+          "seo_phrase": "Sammarinese Museum of Ancient Arms",
+          "seo_keywords": [
+            "San Marino City",
+            "San Marino",
+            "travel"
+          ],
+          "commons_file": "cd/La Cesta o Fratta of San Marino.jpg/800px-La Cesta o Fratta of San Marino.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/La_Cesta_o_Fratta_of_San_Marino.jpg/800px-La_Cesta_o_Fratta_of_San_Marino.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Acquaviva",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Acquaviva",
+      "seo": {
+        "title": "Top 10 Things to Do in Acquaviva, San Marino",
+        "description": "Discover 10 must-see landmarks in Acquaviva, San Marino. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Acquaviva? Explore the best places to visit in Acquaviva, San Marino.",
+        "keywords": [
+          "things to do in Acquaviva",
+          "Acquaviva San Marino travel guide",
+          "best places to visit in Acquaviva",
+          "Acquaviva landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "San Francesco",
+          "wiki_title": "San Francesco, San Marino",
+          "lat": 43.9353,
+          "lng": 12.4471,
+          "order_index": 0,
+          "description": "San Francesco, San Marino — a notable landmark in San Marino City, San Marino.",
+          "seo_phrase": "San Francesco",
+          "seo_keywords": [
+            "San Marino City",
+            "San Marino",
+            "travel"
+          ],
+          "commons_file": "5c/San Francesco - Exterior.jpg/800px-San Francesco - Exterior.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/San_Francesco_-_Exterior.jpg/800px-San_Francesco_-_Exterior.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Statua della Libertà",
+          "wiki_title": "Statua della Libertà",
+          "lat": 43.9366,
+          "lng": 12.4469,
+          "order_index": 1,
+          "description": "Statua della Libertà — a notable landmark in San Marino City, San Marino.",
+          "seo_phrase": "Statua della Libertà",
+          "seo_keywords": [
+            "San Marino City",
+            "San Marino",
+            "travel"
+          ],
+          "commons_file": "a7/Liberty statue.jpg/800px-Liberty statue.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Liberty_statue.jpg/800px-Liberty_statue.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Museo delle Cere (San Marino)",
+          "wiki_title": "Museo delle Cere (San Marino)",
+          "lat": 43.93536111,
+          "lng": 12.44875,
+          "order_index": 2,
+          "description": "Museo delle Cere (San Marino) — a notable landmark in San Marino City, San Marino.",
+          "seo_phrase": "Museo delle Cere (San Marino)",
+          "seo_keywords": [
+            "San Marino City",
+            "San Marino",
+            "travel"
+          ],
+          "commons_file": "46/Muzej voštanih figura u Svetom Marinu.jpg/800px-Muzej voštanih figura u Svetom Marinu.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Muzej_vo%C5%A1tanih_figura_u_Svetom_Marinu.jpg/800px-Muzej_vo%C5%A1tanih_figura_u_Svetom_Marinu.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Torture Museum (San Marino)",
+          "wiki_title": "Torture Museum (San Marino)",
+          "lat": 43.93519444,
+          "lng": 12.44697222,
+          "order_index": 3,
+          "description": "Torture Museum (San Marino) — a notable landmark in San Marino City, San Marino.",
+          "seo_phrase": "Torture Museum (San Marino)",
+          "seo_keywords": [
+            "San Marino City",
+            "San Marino",
+            "travel"
+          ],
+          "commons_file": "ca/San Marino Tortura.jpg/800px-San Marino Tortura.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/San_Marino_Tortura.jpg/800px-San_Marino_Tortura.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Guaita",
+          "wiki_title": "Guaita",
+          "lat": 43.9354,
+          "lng": 12.4496,
+          "order_index": 4,
+          "description": "Guaita — a notable landmark in San Marino City, San Marino.",
+          "seo_phrase": "Guaita",
+          "seo_keywords": [
+            "San Marino City",
+            "San Marino",
+            "travel"
+          ],
+          "commons_file": "37/Guaita Fortress - San Marino - 2024 02 13 - GT 02 (details).jpg/800px-Guaita Fortress - San Marino - 2024 02 13 - GT 02 (details).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Guaita_Fortress_-_San_Marino_-_2024_02_13_-_GT_02_%28details%29.jpg/800px-Guaita_Fortress_-_San_Marino_-_2024_02_13_-_GT_02_%28details%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Chiesa di San Pietro (San Marino)",
+          "wiki_title": "Chiesa di San Pietro (San Marino)",
+          "lat": 43.93694444,
+          "lng": 12.44694444,
+          "order_index": 5,
+          "description": "Chiesa di San Pietro (San Marino) — a notable landmark in San Marino City, San Marino.",
+          "seo_phrase": "Chiesa di San Pietro (San Marino)",
+          "seo_keywords": [
+            "San Marino City",
+            "San Marino",
+            "travel"
+          ],
+          "commons_file": "63/Chiesa di San Pietro - San Marino.JPG/800px-Chiesa di San Pietro - San Marino.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Chiesa_di_San_Pietro_-_San_Marino.JPG/800px-Chiesa_di_San_Pietro_-_San_Marino.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "San Marino Shrine",
+          "wiki_title": "San Marino Shrine",
+          "lat": 43.95812,
+          "lng": 12.48215,
+          "order_index": 6,
+          "description": "San Marino Shrine — a notable landmark in San Marino City, San Marino.",
+          "seo_phrase": "San Marino Shrine",
+          "seo_keywords": [
+            "San Marino City",
+            "San Marino",
+            "travel"
+          ],
+          "commons_file": "SanMarino Torii.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/SanMarino_Torii.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Funivia di San Marino",
+          "wiki_title": "Funivia di San Marino",
+          "lat": 43.94039167,
+          "lng": 12.44542778,
+          "order_index": 7,
+          "description": "Funivia di San Marino — a notable landmark in San Marino City, San Marino.",
+          "seo_phrase": "Funivia di San Marino",
+          "seo_keywords": [
+            "San Marino City",
+            "San Marino",
+            "travel"
+          ],
+          "commons_file": "ae/Funivia di San Marino - 2019-05-07.jpg/800px-Funivia di San Marino - 2019-05-07.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Funivia_di_San_Marino_-_2019-05-07.jpg/800px-Funivia_di_San_Marino_-_2019-05-07.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Montale (San Marino)",
+          "wiki_title": "Montale (San Marino)",
+          "lat": 43.9301,
+          "lng": 12.4526,
+          "order_index": 8,
+          "description": "Montale (San Marino) — a notable landmark in San Marino City, San Marino.",
+          "seo_phrase": "Montale (San Marino)",
+          "seo_keywords": [
+            "San Marino City",
+            "San Marino",
+            "travel"
+          ],
+          "commons_file": "2d/Montale Tower.jpg/800px-Montale Tower.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Montale_Tower.jpg/800px-Montale_Tower.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Palazzo Pubblico (San Marino)",
+          "wiki_title": "Palazzo Pubblico (San Marino)",
+          "lat": 43.9369,
+          "lng": 12.4466,
+          "order_index": 9,
+          "description": "Palazzo Pubblico (San Marino) — a notable landmark in San Marino City, San Marino.",
+          "seo_phrase": "Palazzo Pubblico (San Marino)",
+          "seo_keywords": [
+            "San Marino City",
+            "San Marino",
+            "travel"
+          ],
+          "commons_file": "21/Palazzo Pubblico - esterno.jpg/800px-Palazzo Pubblico - esterno.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Palazzo_Pubblico_-_esterno.jpg/800px-Palazzo_Pubblico_-_esterno.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Faetano",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Faetano",
+      "seo": {
+        "title": "Top 10 Things to Do in Faetano, San Marino",
+        "description": "Discover 10 must-see landmarks in Faetano, San Marino. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Faetano? Explore the best places to visit in Faetano, San Marino.",
+        "keywords": [
+          "things to do in Faetano",
+          "Faetano San Marino travel guide",
+          "best places to visit in Faetano",
+          "Faetano landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Chiesa di San Rocco",
+          "wiki_title": "Borgo Maggiore",
+          "lat": 43.9405,
+          "lng": 12.4455,
+          "order_index": 0,
+          "description": "A compact historic chapel flanking old transit mountain paths.",
+          "seo_phrase": "Chiesa di San Rocco: A Small Stone Historic Sanctuary",
+          "seo_keywords": [
+            "Chiesa di San Rocco",
+            "San Rocco Borgo Maggiore",
+            "plague chapels Europe"
+          ],
+          "commons_file": "Borgo Maggiore 03.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Borgo_Maggiore_03.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Borgo Maggiore Cable Car",
+            "Piazza Grande"
+          ]
+        },
+        {
+          "name": "Chiesa di Sant'Antimo",
+          "wiki_title": "Borgo Maggiore",
+          "lat": 43.9422,
+          "lng": 12.4499,
+          "order_index": 1,
+          "description": "A quaint historic neighborhood church within the community borders.",
+          "seo_phrase": "Chiesa di Sant'Antimo: Cultural Heritage Site in Borgo",
+          "seo_keywords": [
+            "Chiesa di Sant Antimo",
+            "Borgo Maggiore church",
+            "San Marino religious heritage"
+          ],
+          "commons_file": "Borgo Maggiore 03.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Borgo_Maggiore_03.jpg",
+          "seo_priority": 81,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Piazza Grande",
+            "Clock Tower"
+          ]
+        },
+        {
+          "name": "Fontana delle Volte",
+          "wiki_title": "Borgo Maggiore",
+          "lat": 43.941,
+          "lng": 12.4463,
+          "order_index": 2,
+          "description": "An antique public fountain nestled under stone arches.",
+          "seo_phrase": "Fontana delle Volte: Old Town Fountain Structure",
+          "seo_keywords": [
+            "Fontana delle Volte",
+            "Borgo Maggiore fountain",
+            "historic water infrastructure"
+          ],
+          "commons_file": "Funivia San Marino.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Funivia_San_Marino.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Piazza Grande",
+            "Borgo Maggiore Cable Car"
+          ]
+        },
+        {
+          "name": "Centro Sociale di Serravalle",
+          "wiki_title": "Serravalle (San Marino)",
+          "lat": 43.968,
+          "lng": 12.4715,
+          "order_index": 3,
+          "description": "The premier public cultural house and community theater.",
+          "seo_phrase": "Serravalle Cultural Center: Arts & Local Events",
+          "seo_keywords": [
+            "Centro Sociale Serravalle",
+            "Serravalle culture",
+            "San Marino theater"
+          ],
+          "commons_file": "Festa del Castello di Serravalle.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Festa_del_Castello_di_Serravalle.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Piazza Bertoldi",
+            "Church of Sant Andrea"
+          ]
+        },
+        {
+          "name": "Palazzo degli Studi",
+          "wiki_title": "Borgo Maggiore",
+          "lat": 43.9425,
+          "lng": 12.448,
+          "order_index": 4,
+          "description": "A grand institutional building devoted to regional secondary education.",
+          "seo_phrase": "Palazzo degli Studi: The Civic Educational Hub",
+          "seo_keywords": [
+            "Palazzo degli Studi",
+            "Borgo Maggiore school",
+            "San Marino institutions"
+          ],
+          "commons_file": "Borgo Maggiore, Torre dell'Orologio.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Borgo_Maggiore%2C_Torre_dell%27Orologio.jpg",
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Clock Tower",
+            "Piazza Grande"
+          ]
+        },
+        {
+          "name": "Church of San Paolo Faetano",
+          "wiki_title": "Faetano",
+          "lat": 43.9283,
+          "lng": 12.4981,
+          "order_index": 5,
+          "description": "Church of San Paolo Faetano — Faetano, San Marino.",
+          "seo_phrase": "Church of San Paolo Faetano",
+          "seo_keywords": [
+            "Church of San Paolo Faetano",
+            "Faetano",
+            "San Marino"
+          ],
+          "commons_file": "San Marino Rocca Guaita.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/San_Marino_Rocca_Guaita.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Montegiardino",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Montegiardino",
+      "seo": {
+        "title": "Top 10 Things to Do in Montegiardino, San Marino",
+        "description": "Discover 10 must-see landmarks in Montegiardino, San Marino. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Montegiardino? Explore the best places to visit in Montegiardino, San Marino.",
+        "keywords": [
+          "things to do in Montegiardino",
+          "Montegiardino San Marino travel guide",
+          "best places to visit in Montegiardino",
+          "Montegiardino landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "University of San Marino",
+          "wiki_title": "University of the Republic of San Marino",
+          "lat": 43.9056,
+          "lng": 12.4811,
+          "order_index": 0,
+          "description": "University of San Marino — Montegiardino, San Marino.",
+          "seo_phrase": "University of San Marino",
+          "seo_keywords": [
+            "University of San Marino",
+            "Montegiardino",
+            "San Marino"
+          ],
+          "commons_file": "San Marino Rocca Guaita.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/San_Marino_Rocca_Guaita.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Chiesanuova",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Chiesanuova",
+      "seo": {
+        "title": "Top 10 Things to Do in Chiesanuova, San Marino",
+        "description": "Discover 10 must-see landmarks in Chiesanuova, San Marino. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Chiesanuova? Explore the best places to visit in Chiesanuova, San Marino.",
+        "keywords": [
+          "things to do in Chiesanuova",
+          "Chiesanuova San Marino travel guide",
+          "best places to visit in Chiesanuova",
+          "Chiesanuova landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Chiesanuova Parish Church",
+          "wiki_title": "Chiesanuova",
+          "lat": 43.9047,
+          "lng": 12.4214,
+          "order_index": 0,
+          "description": "Chiesanuova Parish Church — Chiesanuova, San Marino.",
+          "seo_phrase": "Chiesanuova Parish Church",
+          "seo_keywords": [
+            "Chiesanuova Parish Church",
+            "Chiesanuova",
+            "San Marino"
+          ],
+          "commons_file": "San Marino Rocca Guaita.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/San_Marino_Rocca_Guaita.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Dogana",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Dogana",
+      "seo": {
+        "title": "Top 10 Things to Do in Dogana, San Marino",
+        "description": "Discover 10 must-see landmarks in Dogana, San Marino. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Dogana? Explore the best places to visit in Dogana, San Marino.",
+        "keywords": [
+          "things to do in Dogana",
+          "Dogana San Marino travel guide",
+          "best places to visit in Dogana",
+          "Dogana landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Dogana Border Plaza",
+          "wiki_title": "Dogana",
+          "lat": 43.9783,
+          "lng": 12.4889,
+          "order_index": 0,
+          "description": "Dogana Border Plaza — Dogana, San Marino.",
+          "seo_phrase": "Dogana Border Plaza",
+          "seo_keywords": [
+            "Dogana Border Plaza",
+            "Dogana",
+            "San Marino"
+          ],
+          "commons_file": "San Marino Rocca Guaita.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/San_Marino_Rocca_Guaita.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "San Marino Scenic Road Trip",
+    "subtitle": "Explore San Marino beyond the cities — nature, coastlines, and scenic routes.",
+    "wiki_title": "San Marino",
+    "hero_image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Guaita_Fortress_-_San_Marino_-_2024_02_13_-_GT_02_%28details%29.jpg",
+    "totalDays": 10,
+    "seo": {
+      "title": "San Marino Road Trip Adventure",
+      "description": "Plan a San Marino road trip with GPS stops and scenic routes.",
+      "intro": "Explore San Marino beyond the cities with this adventure route.",
+      "keywords": [
+        "San Marino road trip",
+        "San Marino by car"
+      ]
+    },
+    "places": [
+      {
+        "name": "Guaita Tower",
+        "wiki_title": "Guaita",
+        "region": "San Marino City",
+        "lat": 43.9352,
+        "lng": 12.4497,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "The oldest and most famous of the three towers overlooking San Marino.",
+        "seo_phrase": "Visit Guaita Tower: The Iconic First Tower of San Marino",
+        "seo_keywords": [
+          "Guaita Tower",
+          "San Marino fortress",
+          "First Tower",
+          "Monte Titano history"
+        ],
+        "commons_file": "San Marino Rocca Guaita.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/San_Marino_Rocca_Guaita.jpg",
+        "seo_priority": 98,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Cesta Tower",
+        "wiki_title": "Cesta (San Marino)",
+        "region": "San Marino City",
+        "lat": 43.9343,
+        "lng": 12.4514,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "The highest peak of Mount Titano, home to an ancient weapons museum.",
+        "seo_phrase": "Cesta Tower San Marino: Second Tower & Weapons Museum",
+        "seo_keywords": [
+          "Cesta Tower",
+          "Second Tower San Marino",
+          "Museum of Ancient Arms"
+        ],
+        "commons_file": "San Marino Rocca Cesta.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/San_Marino_Rocca_Cesta.jpg",
+        "seo_priority": 95,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Montale Tower",
+        "wiki_title": "Montale (San Marino)",
+        "region": "San Marino City",
+        "lat": 43.9317,
+        "lng": 12.4542,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "The smallest and most remote of the three iconic fortresses.",
+        "seo_phrase": "Montale Tower: The Secluded Third Tower of San Marino",
+        "seo_keywords": [
+          "Montale Tower",
+          "Third Tower",
+          "San Marino hiking trails"
+        ],
+        "commons_file": "San Marino Rocca Montale.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/San_Marino_Rocca_Montale.jpg",
+        "seo_priority": 88,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Palazzo Pubblico",
+        "wiki_title": "Palazzo Pubblico (San Marino)",
+        "region": "San Marino City",
+        "lat": 43.9367,
+        "lng": 12.4465,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "The official town hall and main government building of San Marino.",
+        "seo_phrase": "Palazzo Pubblico San Marino: Government Building & Town Hall",
+        "seo_keywords": [
+          "Palazzo Pubblico",
+          "San Marino town hall",
+          "Piazza della Liberta"
+        ],
+        "commons_file": "Palazzo Pubblico San Marino.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Palazzo_Pubblico_San_Marino.jpg",
+        "seo_priority": 96,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Basilica di San Marino",
+        "wiki_title": "Basilica di San Marino",
+        "region": "San Marino City",
+        "lat": 43.9369,
+        "lng": 12.4471,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "The principal Catholic church of the capital city.",
+        "seo_phrase": "Basilica di San Marino: Neo-Classical Masterpiece",
+        "seo_keywords": [
+          "Basilica di San Marino",
+          "San Marino cathedral",
+          "Saint Marinus relics"
+        ],
+        "commons_file": "San Marino 034.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/San_Marino_034.jpg",
+        "seo_priority": 94,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Piazza della Libertà",
+        "wiki_title": "Palazzo Pubblico (San Marino)",
+        "region": "San Marino City",
+        "lat": 43.9366,
+        "lng": 12.4464,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "The iconic main public square of San Marino's capital.",
+        "seo_phrase": "Piazza della Liberta: The Vibrant Main Square of San Marino",
+        "seo_keywords": [
+          "Piazza della Liberta",
+          "San Marino square",
+          "Statue of Liberty San Marino"
+        ],
+        "commons_file": "Piazza della Libertà San Marino.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Piazza_della_Libert%C3%A0_San_Marino.jpg",
+        "seo_priority": 93,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "State Museum",
+        "wiki_title": "Museo di Stato (San Marino)",
+        "region": "San Marino City",
+        "lat": 43.9372,
+        "lng": 12.4461,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "The premier repository of historical artifacts and national heritage.",
+        "seo_phrase": "State Museum of San Marino: National History & Fine Art",
+        "seo_keywords": [
+          "State Museum San Marino",
+          "Museo di Stato",
+          "San Marino archaeology"
+        ],
+        "commons_file": "Palazzo pergami belluzzi museo di stato.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Palazzo_pergami_belluzzi_museo_di_stato.jpg",
+        "seo_priority": 91,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Church of San Francesco",
+        "wiki_title": "San Francesco, San Marino",
+        "region": "San Marino City",
+        "lat": 43.9358,
+        "lng": 12.4452,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A historic Franciscan convent and church dating to the 14th century.",
+        "seo_phrase": "Church of San Francesco: San Marino's Oldest Extant Church",
+        "seo_keywords": [
+          "Church of San Francesco",
+          "San Francesco San Marino",
+          "Franciscan convent"
+        ],
+        "commons_file": "San Marino Chiesa San Francesco.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/San_Marino_Chiesa_San_Francesco.jpg",
+        "seo_priority": 90,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Porta San Francesco",
+        "wiki_title": "San Francesco, San Marino",
+        "region": "San Marino City",
+        "lat": 43.9356,
+        "lng": 12.445,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "The ancient fortified gateway guarding the city entrance.",
+        "seo_phrase": "Porta San Francesco: The Medieval Gateway to the Capital",
+        "seo_keywords": [
+          "Porta San Francesco",
+          "San Marino city gate",
+          "medieval entrance"
+        ],
+        "commons_file": "Porta San Francesco San Marino.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Porta_San_Francesco_San_Marino.jpg",
+        "seo_priority": 89,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Cava dei Balestrieri",
+        "wiki_title": "San Marino Academy",
+        "region": "San Marino City",
+        "lat": 43.9363,
+        "lng": 12.4475,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A historic quarry transformed into an arena for traditional crossbow tournaments.",
+        "seo_phrase": "Cava dei Balestrieri: The Crossbowmen's Quarry in San Marino",
+        "seo_keywords": [
+          "Cava dei Balestrieri",
+          "Crossbowmens Quarry",
+          "San Marino cultural events"
+        ],
+        "commons_file": "San Marino - Cava dei Balestrieri.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/San_Marino_-_Cava_dei_Balestrieri.jpg",
+        "seo_priority": 92,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      }
+    ]
+  }
+}

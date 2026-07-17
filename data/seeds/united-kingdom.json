@@ -1,0 +1,3795 @@
+{
+  "version": 2,
+  "country": "United Kingdom",
+  "published": true,
+  "cities": [
+    {
+      "city": "London",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "London",
+      "seo": {
+        "title": "Top 10 Things to Do in London, United Kingdom",
+        "description": "Discover 10 must-see landmarks in London, United Kingdom. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to London? Explore the best places to visit in London, United Kingdom.",
+        "keywords": [
+          "things to do in London",
+          "London United Kingdom travel guide",
+          "best places to visit in London",
+          "London landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Big Ben and Palace of Westminster",
+          "wiki_title": "Big Ben",
+          "lat": 51.5007,
+          "lng": -0.1246,
+          "order_index": 0,
+          "description": "The famous neo-Gothic clock tower and seat of the British Parliament.",
+          "seo_phrase": "Big Ben Westminster | Iconic British Landmark Guide",
+          "seo_keywords": [
+            "Big Ben",
+            "Palace of Westminster",
+            "Houses of Parliament"
+          ],
+          "commons_file": "Clock Tower -Palace of Westminster, London- May 2007.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Clock_Tower_-Palace_of_Westminster%2C_London-_May_2007.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "London Eye",
+            "Westminster Bridge"
+          ]
+        },
+        {
+          "name": "The British Museum",
+          "wiki_title": "British Museum",
+          "lat": 51.5194,
+          "lng": -0.127,
+          "order_index": 1,
+          "description": "A public museum dedicated to human history, art, and culture.",
+          "seo_phrase": "British Museum London | World History & Antiquities",
+          "seo_keywords": [
+            "British Museum",
+            "London museums",
+            "ancient artifacts"
+          ],
+          "commons_file": "British Museum from NE 2.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/British_Museum_from_NE_2.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "winter",
+            "autumn",
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Covent Garden",
+            "Russell Square"
+          ]
+        },
+        {
+          "name": "The London Eye",
+          "wiki_title": "London Eye",
+          "lat": 51.5033,
+          "lng": -0.1195,
+          "order_index": 2,
+          "description": "A giant observation wheel located on the South Bank of the Thames.",
+          "seo_phrase": "London Eye Guide | Panoramic Capital Skyline Views",
+          "seo_keywords": [
+            "London Eye",
+            "Thames wheel",
+            "London observation deck"
+          ],
+          "commons_file": "London Eye London Jan 2006.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/London_Eye_London_Jan_2006.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Big Ben",
+            "Sea Life London"
+          ]
+        },
+        {
+          "name": "Tower Bridge",
+          "wiki_title": "Tower Bridge",
+          "lat": 51.5055,
+          "lng": -0.0754,
+          "order_index": 3,
+          "description": "An iconic combined bascule and suspension bridge over the River Thames.",
+          "seo_phrase": "Tower Bridge London | Victorian Engineering Landmark",
+          "seo_keywords": [
+            "Tower Bridge",
+            "London bridges",
+            "Thames crossing"
+          ],
+          "commons_file": "Tower Bridge from Shad Thames London Jan 2006.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tower_Bridge_from_Shad_Thames_London_Jan_2006.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Tower of London",
+            "The Shard"
+          ]
+        },
+        {
+          "name": "Borough Market",
+          "wiki_title": "Borough Market",
+          "lat": 51.5054,
+          "lng": -0.091,
+          "order_index": 4,
+          "description": "A historic wholesale and retail food market in Southwark.",
+          "seo_phrase": "Borough Market Guide | Historic London Food Market",
+          "seo_keywords": [
+            "Borough Market",
+            "London food market",
+            "Southwark street food"
+          ],
+          "commons_file": "Borough Market London July 2005.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Borough_Market_London_July_2005.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "The Shard",
+            "London Bridge"
+          ]
+        },
+        {
+          "name": "Hyde Park",
+          "wiki_title": "Hyde Park, London",
+          "lat": 51.5073,
+          "lng": -0.1657,
+          "order_index": 5,
+          "description": "A major Royal Park in central London offering vast green spaces.",
+          "seo_phrase": "Hyde Park Travel Guide | Historic Royal Green Space",
+          "seo_keywords": [
+            "Hyde Park",
+            "London Royal Parks",
+            "Serpentine lake"
+          ],
+          "commons_file": "Serpentine Hyde Park London Aug 2004.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Serpentine_Hyde_Park_London_Aug_2004.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Kensington Gardens",
+            "Green Park"
+          ]
+        },
+        {
+          "name": "Covent Garden Market",
+          "wiki_title": "Covent Garden",
+          "lat": 51.5117,
+          "lng": -0.124,
+          "order_index": 6,
+          "description": "A popular shopping and entertainment hub in the West End.",
+          "seo_phrase": "Covent Garden Shopping | Street Performers & Dining",
+          "seo_keywords": [
+            "Covent Garden",
+            "London markets",
+            "West End shopping"
+          ],
+          "commons_file": "Covent Garden Market Building 2.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Covent_Garden_Market_Building_2.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Trafalgar Square",
+            "British Museum"
+          ]
+        },
+        {
+          "name": "Trafalgar Square",
+          "wiki_title": "Trafalgar Square",
+          "lat": 51.508,
+          "lng": -0.1281,
+          "order_index": 7,
+          "description": "A historic public square in the heart of Westminster.",
+          "seo_phrase": "Trafalgar Square Guide | Historic Cultural Central Hub",
+          "seo_keywords": [
+            "Trafalgar Square",
+            "Nelson's Column",
+            "London plazas"
+          ],
+          "commons_file": "Trafalgar Square London Nov 2005.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Trafalgar_Square_London_Nov_2005.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "National Gallery",
+            "Covent Garden"
+          ]
+        },
+        {
+          "name": "St James's Park",
+          "wiki_title": "St James's Park",
+          "lat": 51.5025,
+          "lng": -0.1348,
+          "order_index": 8,
+          "description": "The oldest Royal Park in London, featuring a stunning central lake.",
+          "seo_phrase": "St James's Park Visit | Royal Wildlife & Lake Walk",
+          "seo_keywords": [
+            "St James's Park",
+            "Buckingham Palace park",
+            "London pelicans"
+          ],
+          "commons_file": "St James's Park London W Aug 2004.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/St_James%27s_Park_London_W_Aug_2004.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Palace of Westminster",
+            "Green Park"
+          ]
+        },
+        {
+          "name": "Piccadilly Circus",
+          "wiki_title": "Piccadilly Circus",
+          "lat": 51.5101,
+          "lng": -0.1349,
+          "order_index": 9,
+          "description": "A famous road junction and public space in London's West End.",
+          "seo_phrase": "Piccadilly Circus Guide | Neon Lights & Theater District",
+          "seo_keywords": [
+            "Piccadilly Circus",
+            "Eros statue",
+            "London neon signs"
+          ],
+          "commons_file": "Piccadilly Circus London Jan 2006.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Piccadilly_Circus_London_Jan_2006.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Trafalgar Square",
+            "Covent Garden"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Edinburgh",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Edinburgh",
+      "seo": {
+        "title": "Top 10 Things to Do in Edinburgh, United Kingdom",
+        "description": "Discover 10 must-see landmarks in Edinburgh, United Kingdom. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Edinburgh? Explore the best places to visit in Edinburgh, United Kingdom.",
+        "keywords": [
+          "things to do in Edinburgh",
+          "Edinburgh United Kingdom travel guide",
+          "best places to visit in Edinburgh",
+          "Edinburgh landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Edinburgh Castle",
+          "wiki_title": "Edinburgh Castle",
+          "lat": 55.9486,
+          "lng": -3.1999,
+          "order_index": 0,
+          "description": "A historic fortress built high upon a volcanic Castle Rock.",
+          "seo_phrase": "Edinburgh Castle Guide | Historic Scottish Fortress Sights",
+          "seo_keywords": [
+            "Edinburgh Castle",
+            "Scottish fortresses",
+            "Castle Rock"
+          ],
+          "commons_file": "Edinburgh Castle from the south-west.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Edinburgh_Castle_from_the_south-west.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Royal Mile",
+            "Princes Street Gardens"
+          ]
+        },
+        {
+          "name": "The Royal Mile",
+          "wiki_title": "Royal Mile",
+          "lat": 55.9504,
+          "lng": -3.1853,
+          "order_index": 1,
+          "description": "A historic succession of streets forming the main thoroughfare of the Old Town.",
+          "seo_phrase": "The Royal Mile Edinburgh | Old Town Historic Walk",
+          "seo_keywords": [
+            "Royal Mile",
+            "Edinburgh Old Town",
+            "historic streets Scotland"
+          ],
+          "commons_file": "The Royal Mile, Edinburgh.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/The_Royal_Mile%2C_Edinburgh.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Edinburgh Castle",
+            "St Giles' Cathedral"
+          ]
+        },
+        {
+          "name": "Palace of Holyroodhouse",
+          "wiki_title": "Palace of Holyroodhouse",
+          "lat": 55.9527,
+          "lng": -3.1722,
+          "order_index": 2,
+          "description": "The elegant official residence of the British monarch in Scotland.",
+          "seo_phrase": "Palace of Holyroodhouse | Royal Residence History",
+          "seo_keywords": [
+            "Holyrood Palace",
+            "Royal residences Scotland",
+            "Mary Queen of Scots"
+          ],
+          "commons_file": "Holyrood Palace Edinburgh 20060905.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Holyrood_Palace_Edinburgh_20060905.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Royal Mile",
+            "Scottish Parliament Building"
+          ]
+        },
+        {
+          "name": "Calton Hill",
+          "wiki_title": "Calton Hill",
+          "lat": 55.9544,
+          "lng": -3.1825,
+          "order_index": 3,
+          "description": "A hill in central Edinburgh included in the UNESCO World Heritage Site.",
+          "seo_phrase": "Calton Hill Edinburgh | Athenian Monuments & Views",
+          "seo_keywords": [
+            "Calton Hill",
+            "Edinburgh viewpoints",
+            "National Monument Scotland"
+          ],
+          "commons_file": "Calton Hill Edinburgh A.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Calton_Hill_Edinburgh_A.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Princes Street",
+            "Royal Mile"
+          ]
+        },
+        {
+          "name": "St Giles' Cathedral",
+          "wiki_title": "St Giles' Cathedral",
+          "lat": 55.9495,
+          "lng": -3.1908,
+          "order_index": 4,
+          "description": "The magnificent historic High Kirk of Edinburgh on the Royal Mile.",
+          "seo_phrase": "St Giles' Cathedral | High Kirk of Edinburgh Guide",
+          "seo_keywords": [
+            "St Giles Cathedral",
+            "High Kirk",
+            "Royal Mile churches"
+          ],
+          "commons_file": "St Giles' Cathedral Edinburgh A.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/St_Giles%27_Cathedral_Edinburgh_A.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Royal Mile",
+            "Real Mary King's Close"
+          ]
+        },
+        {
+          "name": "The Grassmarket",
+          "wiki_title": "Grassmarket",
+          "lat": 55.9475,
+          "lng": -3.1947,
+          "order_index": 5,
+          "description": "A historic marketplace and bustling public square in the Old Town.",
+          "seo_phrase": "Grassmarket Edinburgh | Vibrant Old Town Dining & History",
+          "seo_keywords": [
+            "Grassmarket",
+            "Edinburgh marketplaces",
+            "Old Town dining"
+          ],
+          "commons_file": "The Grassmarket Edinburgh A.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/The_Grassmarket_Edinburgh_A.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Edinburgh Castle",
+            "Royal Mile"
+          ]
+        },
+        {
+          "name": "Scottish National Gallery",
+          "wiki_title": "Scottish National Gallery",
+          "lat": 55.9509,
+          "lng": -3.1957,
+          "order_index": 6,
+          "description": "The national art gallery of Scotland, situated in central Edinburgh.",
+          "seo_phrase": "Scottish National Gallery | Fine Art Museum Guide",
+          "seo_keywords": [
+            "Scottish National Gallery",
+            "Edinburgh art museums",
+            "Playfair architecture"
+          ],
+          "commons_file": "National Gallery of Scotland from the NE.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/National_Gallery_of_Scotland_from_the_NE.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "winter",
+            "autumn",
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Scott Monument",
+            "Princes Street Gardens"
+          ]
+        },
+        {
+          "name": "Princes Street Gardens",
+          "wiki_title": "Princes Street Gardens",
+          "lat": 55.9497,
+          "lng": -3.2012,
+          "order_index": 7,
+          "description": "A beautiful public park separating the Old and New Towns.",
+          "seo_phrase": "Princes Street Gardens | Urban Oasis Below the Castle",
+          "seo_keywords": [
+            "Princes Street Gardens",
+            "Edinburgh parks",
+            "Nor Loch history"
+          ],
+          "commons_file": "Princes Street Gardens and the Castle.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Princes_Street_Gardens_and_the_Castle.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Scott Monument",
+            "Edinburgh Castle"
+          ]
+        },
+        {
+          "name": "The Scott Monument",
+          "wiki_title": "Scott Monument",
+          "lat": 55.9524,
+          "lng": -3.1933,
+          "order_index": 8,
+          "description": "A striking Victorian Gothic monument dedicated to Sir Walter Scott.",
+          "seo_phrase": "Scott Monument Edinburgh | Gothic Literary Landmark",
+          "seo_keywords": [
+            "Scott Monument",
+            "Princes Street landmarks",
+            "Victorian Gothic spire"
+          ],
+          "commons_file": "Scott Monument from S Edinburgh Jan 2006.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Scott_Monument_from_S_Edinburgh_Jan_2006.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Scottish National Gallery",
+            "Princes Street Gardens"
+          ]
+        },
+        {
+          "name": "Dynamic Earth",
+          "wiki_title": "Dynamic Earth (Edinburgh",
+          "lat": 55.9503,
+          "lng": -3.1747,
+          "order_index": 9,
+          "description": "An immersive, interactive science centre located near the parliament.",
+          "seo_phrase": "Dynamic Earth Edinburgh | Interactive Science Museum",
+          "seo_keywords": [
+            "Dynamic Earth",
+            "Edinburgh science museums",
+            "interactive exhibits"
+          ],
+          "commons_file": "Our Dynamic Earth Edinburgh 20060905.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Our_Dynamic_Earth_Edinburgh_20060905.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter",
+            "autumn",
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Palace of Holyroodhouse",
+            "Scottish Parliament Building"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Bath",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Bath",
+      "seo": {
+        "title": "Top 10 Things to Do in Bath, United Kingdom",
+        "description": "Discover 10 must-see landmarks in Bath, United Kingdom. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Bath? Explore the best places to visit in Bath, United Kingdom.",
+        "keywords": [
+          "things to do in Bath",
+          "Bath United Kingdom travel guide",
+          "best places to visit in Bath",
+          "Bath landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "The Roman Baths",
+          "wiki_title": "Roman Baths (Bath",
+          "lat": 51.3811,
+          "lng": -2.3596,
+          "order_index": 0,
+          "description": "A beautifully preserved ancient Roman public bathing complex.",
+          "seo_phrase": "The Roman Baths | Historic Somerset Archeological Site",
+          "seo_keywords": [
+            "Roman Baths",
+            "Bath Somerset landmarks",
+            "ancient thermal springs"
+          ],
+          "commons_file": "Roman Baths Great Bath Bath Somerset.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Roman_Baths_Great_Bath_Bath_Somerset.jpg",
+          "seo_priority": 99,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Bath Abbey",
+            "Pulteney Bridge"
+          ]
+        },
+        {
+          "name": "The Royal Crescent",
+          "wiki_title": "Royal Crescent",
+          "lat": 51.3871,
+          "lng": -2.3681,
+          "order_index": 1,
+          "description": "A monumental crescent of 30 residential terraced houses.",
+          "seo_phrase": "The Royal Crescent | Georgian Architecture Landmark",
+          "seo_keywords": [
+            "Royal Crescent",
+            "Georgian architecture",
+            "John Wood architect"
+          ],
+          "commons_file": "Royal Crescent Bath Somerset.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Royal_Crescent_Bath_Somerset.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Circus",
+            "Jane Austen Centre"
+          ]
+        },
+        {
+          "name": "Bath Abbey",
+          "wiki_title": "Bath Abbey",
+          "lat": 51.3814,
+          "lng": -2.3589,
+          "order_index": 2,
+          "description": "A grand parish church and historic medieval Benedictine monastery.",
+          "seo_phrase": "Bath Abbey Guide | Gothic Fan Vaulting Architecture",
+          "seo_keywords": [
+            "Bath Abbey",
+            "Gothic fan vaulting",
+            "Somerset medieval churches"
+          ],
+          "commons_file": "Bath Abbey West Front Somerset.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Bath_Abbey_West_Front_Somerset.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Roman Baths",
+            "Pulteney Bridge"
+          ]
+        },
+        {
+          "name": "Pulteney Bridge",
+          "wiki_title": "Pulteney Bridge",
+          "lat": 51.3831,
+          "lng": -2.3578,
+          "order_index": 3,
+          "description": "A classic Palladian bridge featuring shops built across its entire span.",
+          "seo_phrase": "Pulteney Bridge Bath | Historic Built-Up River Crossing",
+          "seo_keywords": [
+            "Pulteney Bridge",
+            "River Avon weir",
+            "Robert Adam architect"
+          ],
+          "commons_file": "Pulteney Bridge and Weir Bath Somerset.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Pulteney_Bridge_and_Weir_Bath_Somerset.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Bath Abbey",
+            "The Roman Baths"
+          ]
+        },
+        {
+          "name": "The Circus",
+          "wiki_title": "The Circus (Bath",
+          "lat": 51.3861,
+          "lng": -2.3639,
+          "order_index": 4,
+          "description": "A historic circle of grand Georgian townhouses divided into three segments.",
+          "seo_phrase": "The Circus Bath | Masterpiece Georgian Ring Street",
+          "seo_keywords": [
+            "The Circus",
+            "John Wood the Elder",
+            "classical architecture ring"
+          ],
+          "commons_file": "The Circus Bath Somerset.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/The_Circus_Bath_Somerset.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Royal Crescent",
+            "Jane Austen Centre"
+          ]
+        },
+        {
+          "name": "No. 1 Royal Crescent",
+          "wiki_title": "No. 1 Royal Crescent",
+          "lat": 51.3872,
+          "lng": -2.3686,
+          "order_index": 5,
+          "description": "A restored Georgian townhouse museum showing life in 18th-century Bath.",
+          "seo_phrase": "No. 1 Royal Crescent | Georgian House Museum Bath",
+          "seo_keywords": [
+            "No 1 Royal Crescent",
+            "Georgian house museum Bath",
+            "historic townhouse Somerset"
+          ],
+          "commons_file": "1 Royal Crescent Bath Somerset.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/1_Royal_Crescent_Bath_Somerset.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "The Royal Crescent",
+            "The Circus"
+          ]
+        },
+        {
+          "name": "The Jane Austen Centre",
+          "wiki_title": "Jane Austen Centre",
+          "lat": 51.3853,
+          "lng": -2.3633,
+          "order_index": 6,
+          "description": "A permanent exhibition celebrating the famous author's relationship with the city.",
+          "seo_phrase": "Jane Austen Centre Bath | Literary History Museum",
+          "seo_keywords": [
+            "Jane Austen Centre",
+            "Regency Bath history",
+            "literary museums England"
+          ],
+          "commons_file": "Jane Austen Centre Bath Somerset.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Jane_Austen_Centre_Bath_Somerset.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Circus",
+            "The Assembly Rooms"
+          ]
+        },
+        {
+          "name": "The Assembly Rooms",
+          "wiki_title": "Bath Assembly Rooms",
+          "lat": 51.3867,
+          "lng": -2.3619,
+          "order_index": 7,
+          "description": "A historic complex of elegant public rooms designed for entertainment.",
+          "seo_phrase": "Bath Assembly Rooms | High Society Georgian Ballrooms",
+          "seo_keywords": [
+            "Assembly Rooms",
+            "Georgian high society",
+            "Bath ballrooms"
+          ],
+          "commons_file": "Bath Assembly Rooms Ballroom Somerset.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Bath_Assembly_Rooms_Ballroom_Somerset.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter",
+            "autumn",
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Circus",
+            "Jane Austen Centre"
+          ]
+        },
+        {
+          "name": "The Holburne Museum",
+          "wiki_title": "Holburne Museum",
+          "lat": 51.3861,
+          "lng": -2.3508,
+          "order_index": 8,
+          "description": "The city's first public art gallery, set in a grand pleasure garden.",
+          "seo_phrase": "Holburne Museum Bath | Fine Art & Sydney Gardens",
+          "seo_keywords": [
+            "Holburne Museum",
+            "Sydney Gardens",
+            "Bath art galleries"
+          ],
+          "commons_file": "Holburne Museum Bath Somerset.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Holburne_Museum_Bath_Somerset.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "winter",
+            "autumn",
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Pulteney Bridge",
+            "Sydney Gardens"
+          ]
+        },
+        {
+          "name": "Parade Gardens",
+          "wiki_title": "Parade Gardens, Bath",
+          "lat": 51.3814,
+          "lng": -2.3564,
+          "order_index": 9,
+          "description": "A historic, beautifully manicured riverside public park.",
+          "seo_phrase": "Parade Gardens Bath | Riverside Floral Displays",
+          "seo_keywords": [
+            "Parade Gardens",
+            "River Avon walks",
+            "Bath public parks"
+          ],
+          "commons_file": "Parade Gardens Bath Somerset.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Parade_Gardens_Bath_Somerset.jpg",
+          "seo_priority": 84,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Bath Abbey",
+            "Pulteney Bridge"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "York",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "York",
+      "seo": {
+        "title": "Top 10 Things to Do in York, United Kingdom",
+        "description": "Discover 10 must-see landmarks in York, United Kingdom. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to York? Explore the best places to visit in York, United Kingdom.",
+        "keywords": [
+          "things to do in York",
+          "York United Kingdom travel guide",
+          "best places to visit in York",
+          "York landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "York Minster",
+          "wiki_title": "York Minster",
+          "lat": 53.9623,
+          "lng": -1.0819,
+          "order_index": 0,
+          "description": "The magnificent cathedral of York and one of the largest in Northern Europe.",
+          "seo_phrase": "York Minster Guide | Gothic Cathedral Architectural Wonders",
+          "seo_keywords": [
+            "York Minster",
+            "Gothic cathedrals",
+            "medieval stained glass"
+          ],
+          "commons_file": "York Minster from the south east.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/York_Minster_from_the_south_east.jpg",
+          "seo_priority": 99,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Shambles",
+            "York City Walls"
+          ]
+        },
+        {
+          "name": "The Shambles",
+          "wiki_title": "The Shambles",
+          "lat": 53.9598,
+          "lng": -1.0798,
+          "order_index": 1,
+          "description": "A historic narrow street featuring overhanging timber buildings.",
+          "seo_phrase": "The Shambles York | Medieval Timber Framed Street",
+          "seo_keywords": [
+            "The Shambles",
+            "medieval York",
+            "timber framed buildings"
+          ],
+          "commons_file": "The Shambles York A.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/The_Shambles_York_A.jpg",
+          "seo_priority": 97,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "York Minster",
+            "Jorvik Viking Centre"
+          ]
+        },
+        {
+          "name": "National Railway Museum",
+          "wiki_title": "National Railway Museum",
+          "lat": 53.9595,
+          "lng": -1.0963,
+          "order_index": 2,
+          "description": "A world-class museum showcasing centuries of British railway engineering.",
+          "seo_phrase": "National Railway Museum | Historic Trains & Locomotives",
+          "seo_keywords": [
+            "National Railway Museum",
+            "steam locomotives",
+            "British transport history"
+          ],
+          "commons_file": "National Railway Museum York.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/National_Railway_Museum_York.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "winter",
+            "autumn",
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "York Central Station",
+            "York City Walls"
+          ]
+        },
+        {
+          "name": "York City Walls",
+          "wiki_title": "York city walls",
+          "lat": 53.9556,
+          "lng": -1.0772,
+          "order_index": 3,
+          "description": "The beautifully intact historic stone defensive walls surrounding York.",
+          "seo_phrase": "York City Walls Walk | Historic Roman & Medieval Ramparts",
+          "seo_keywords": [
+            "York City Walls",
+            "medieval ramparts",
+            "Roman foundations"
+          ],
+          "commons_file": "York City Walls at Micklegate Bar.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/York_City_Walls_at_Micklegate_Bar.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "York Minster",
+            "Clifford's Tower"
+          ]
+        },
+        {
+          "name": "Jorvik Viking Centre",
+          "wiki_title": "Jorvik Viking Centre",
+          "lat": 53.9578,
+          "lng": -1.0808,
+          "order_index": 4,
+          "description": "An interactive museum showcasing reconstructed Viking history and artifacts.",
+          "seo_phrase": "Jorvik Viking Centre York | Interactive Historic Sights",
+          "seo_keywords": [
+            "Jorvik Viking Centre",
+            "Viking history York",
+            "archeological excavations"
+          ],
+          "commons_file": "Jorvik Viking Centre entrance.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Jorvik_Viking_Centre_entrance.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter",
+            "autumn",
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Shambles",
+            "Clifford's Tower"
+          ]
+        },
+        {
+          "name": "Clifford's Tower",
+          "wiki_title": "Clifford's Tower",
+          "lat": 53.9558,
+          "lng": -1.0803,
+          "order_index": 5,
+          "description": "The historic ruined keep of York's medieval Norman castle.",
+          "seo_phrase": "Clifford's Tower York | Norman Keep Castle Ruins",
+          "seo_keywords": [
+            "Clifford's Tower",
+            "Norman castle keeps",
+            "William the Conqueror York"
+          ],
+          "commons_file": "Cliffords Tower York A.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Cliffords_Tower_York_A.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "York Castle Museum",
+            "The Shambles"
+          ]
+        },
+        {
+          "name": "York Castle Museum",
+          "wiki_title": "York Castle Museum",
+          "lat": 53.9561,
+          "lng": -1.0792,
+          "order_index": 6,
+          "description": "A social history museum housed in historic 18th-century prison buildings.",
+          "seo_phrase": "York Castle Museum | Kirkgate Reconstructed Victorian Street",
+          "seo_keywords": [
+            "York Castle Museum",
+            "Kirkgate Victorian street",
+            "social history"
+          ],
+          "commons_file": "York Castle Museum Kirkgate.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/York_Castle_Museum_Kirkgate.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "winter",
+            "autumn",
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Clifford's Tower",
+            "Jorvik Viking Centre"
+          ]
+        },
+        {
+          "name": "York Museum Gardens",
+          "wiki_title": "York Museum Gardens",
+          "lat": 53.9619,
+          "lng": -1.0881,
+          "order_index": 7,
+          "description": "Botanical gardens featuring the dramatic ruins of St Mary's Abbey.",
+          "seo_phrase": "York Museum Gardens | St Mary's Abbey Ruins Walk",
+          "seo_keywords": [
+            "York Museum Gardens",
+            "St Mary's Abbey ruins",
+            "botanical parks"
+          ],
+          "commons_file": "St Marys Abbey York Museum Gardens.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/St_Marys_Abbey_York_Museum_Gardens.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Yorkshire Museum",
+            "York Minster"
+          ]
+        },
+        {
+          "name": "The Merchant Adventurers' Hall",
+          "wiki_title": "Merchant Adventurers' Hall",
+          "lat": 53.9583,
+          "lng": -1.0789,
+          "order_index": 8,
+          "description": "A magnificent timber-framed medieval guildhall dating to the 14th century.",
+          "seo_phrase": "Merchant Adventurers' Hall | Medieval Guildhall History",
+          "seo_keywords": [
+            "Merchant Adventurers Hall",
+            "medieval guildhalls",
+            "timber architecture"
+          ],
+          "commons_file": "Merchant Adventurers Hall York A.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Merchant_Adventurers_Hall_York_A.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Shambles",
+            "Jorvik Viking Centre"
+          ]
+        },
+        {
+          "name": "Treasurer's House",
+          "wiki_title": "Treasurer's House, York",
+          "lat": 53.9631,
+          "lng": -1.0817,
+          "order_index": 9,
+          "description": "A historic National Trust property displaying elegant period interiors.",
+          "seo_phrase": "Treasurer's House York | Historic Manor & Period Rooms",
+          "seo_keywords": [
+            "Treasurer's House",
+            "National Trust York",
+            "Frank Green mansion"
+          ],
+          "commons_file": "Treasurers House York.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Treasurers_House_York.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "York Minster",
+            "York City Walls"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Oxford",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Oxford",
+      "seo": {
+        "title": "Top 10 Things to Do in Oxford, United Kingdom",
+        "description": "Discover 10 must-see landmarks in Oxford, United Kingdom. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Oxford? Explore the best places to visit in Oxford, United Kingdom.",
+        "keywords": [
+          "things to do in Oxford",
+          "Oxford United Kingdom travel guide",
+          "best places to visit in Oxford",
+          "Oxford landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Bodleian Library",
+          "wiki_title": "Bodleian Library",
+          "lat": 51.7542,
+          "lng": -1.2539,
+          "order_index": 0,
+          "description": "The historic primary research library of the University of Oxford.",
+          "seo_phrase": "Bodleian Library Oxford | Historic University Research Sights",
+          "seo_keywords": [
+            "Bodleian Library",
+            "Oxford University buildings",
+            "historic reading rooms"
+          ],
+          "commons_file": "Bodleian Library Oxford A.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bodleian_Library_Oxford_A.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Radcliffe Camera",
+            "Sheldonian Theatre"
+          ]
+        },
+        {
+          "name": "Radcliffe Camera",
+          "wiki_title": "Radcliffe Camera",
+          "lat": 51.7534,
+          "lng": -1.254,
+          "order_index": 1,
+          "description": "A magnificent circular neoclassical building serving as a university reading room.",
+          "seo_phrase": "Radcliffe Camera Guide | Neoclassical Oxford Architecture",
+          "seo_keywords": [
+            "Radcliffe Camera",
+            "James Gibbs architect",
+            "Oxford landmarks"
+          ],
+          "commons_file": "Radcliffe Camera Oxford A.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Radcliffe_Camera_Oxford_A.jpg",
+          "seo_priority": 97,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Bodleian Library",
+            "University Church"
+          ]
+        },
+        {
+          "name": "Ashmolean Museum",
+          "wiki_title": "Ashmolean Museum",
+          "lat": 51.7553,
+          "lng": -1.26,
+          "order_index": 2,
+          "description": "The university's premier museum of art and ancient archaeology.",
+          "seo_phrase": "Ashmolean Museum Oxford | Art & Archeology Exhibits",
+          "seo_keywords": [
+            "Ashmolean Museum",
+            "university museums",
+            "ancient art collections"
+          ],
+          "commons_file": "Ashmolean Museum Oxford.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Ashmolean_Museum_Oxford.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "winter",
+            "autumn",
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Oxford Covered Market",
+            "Bodleian Library"
+          ]
+        },
+        {
+          "name": "Magdalen College Tower and Grounds",
+          "wiki_title": "Magdalen College, Oxford",
+          "lat": 51.7519,
+          "lng": -1.2467,
+          "order_index": 3,
+          "description": "One of Oxford's oldest and most architecturally beautiful colleges.",
+          "seo_phrase": "Magdalen College Tower | Historic Riverside Meadows",
+          "seo_keywords": [
+            "Magdalen College",
+            "Magdalen Tower",
+            "Oxford deer park"
+          ],
+          "commons_file": "Magdalen College Tower Oxford A.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Magdalen_College_Tower_Oxford_A.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Oxford Botanic Garden",
+            "Merton College"
+          ]
+        },
+        {
+          "name": "University Church of St Mary the Virgin",
+          "wiki_title": "University Church of St Mary the Virgin",
+          "lat": 51.7528,
+          "lng": -1.2542,
+          "order_index": 4,
+          "description": "The historic spiritual hub around which Oxford University grew.",
+          "seo_phrase": "University Church Oxford | Historic Spire Climbing Views",
+          "seo_keywords": [
+            "University Church",
+            "St Mary the Virgin",
+            "Radcliffe Square church"
+          ],
+          "commons_file": "University Church of St Mary the Virgin Oxford A.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/University_Church_of_St_Mary_the_Virgin_Oxford_A.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Radcliffe Camera",
+            "All Souls College"
+          ]
+        },
+        {
+          "name": "Oxford Botanic Garden",
+          "wiki_title": "University of Oxford Botanic Garden",
+          "lat": 51.7508,
+          "lng": -1.2475,
+          "order_index": 5,
+          "description": "The historic, classic botanical garden of Oxford University.",
+          "seo_phrase": "Oxford Botanic Garden | Historic Physic Garden Plants",
+          "seo_keywords": [
+            "Oxford Botanic Garden",
+            "physic gardens Britain",
+            "historic glasshouses"
+          ],
+          "commons_file": "Oxford Botanic Garden Glasshouse.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Oxford_Botanic_Garden_Glasshouse.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Magdalen College",
+            "Christ Church Meadow"
+          ]
+        },
+        {
+          "name": "Christ Church Meadow",
+          "wiki_title": "Christ Church Meadow",
+          "lat": 51.7483,
+          "lng": -1.2536,
+          "order_index": 6,
+          "description": "A vast, historic open flood-meadow bordering the city's rivers.",
+          "seo_phrase": "Christ Church Meadow Walk | Scenic Oxford River Views",
+          "seo_keywords": [
+            "Christ Church Meadow",
+            "Oxford river walks",
+            "Thames green spaces"
+          ],
+          "commons_file": "Christ Church Meadow Oxford A.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Christ_Church_Meadow_Oxford_A.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Christ Church College",
+            "Oxford Botanic Garden"
+          ]
+        },
+        {
+          "name": "The Museum of Natural History",
+          "wiki_title": "Oxford University Museum of Natural History",
+          "lat": 51.7581,
+          "lng": -1.2561,
+          "order_index": 7,
+          "description": "The university's museum housing an extensive natural history collection.",
+          "seo_phrase": "Oxford Museum of Natural History | Neo-Gothic Science Hub",
+          "seo_keywords": [
+            "Oxford Natural History",
+            "Neo-Gothic museums",
+            "evolution debate site"
+          ],
+          "commons_file": "Oxford University Museum of Natural History Interior.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Oxford_University_Museum_of_Natural_History_Interior.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "winter",
+            "autumn",
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Pitt Rivers Museum",
+            "Keble College"
+          ]
+        },
+        {
+          "name": "Sheldonian Theatre",
+          "wiki_title": "Sheldonian Theatre",
+          "lat": 51.7544,
+          "lng": -1.2547,
+          "order_index": 8,
+          "description": "The official ceremonial graduation hall of the University of Oxford.",
+          "seo_phrase": "Sheldonian Theatre Oxford | Christopher Wren Architecture",
+          "seo_keywords": [
+            "Sheldonian Theatre",
+            "Christopher Wren designs",
+            "Oxford ceremonies"
+          ],
+          "commons_file": "Sheldonian Theatre Oxford A.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Sheldonian_Theatre_Oxford_A.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Bodleian Library",
+            "Radcliffe Camera"
+          ]
+        },
+        {
+          "name": "Oxford Covered Market",
+          "wiki_title": "Oxford Covered Market",
+          "lat": 51.7525,
+          "lng": -1.2561,
+          "order_index": 9,
+          "description": "A historic covered marketplace featuring independent shops and stalls.",
+          "seo_phrase": "Oxford Covered Market | Historic Food stalls & Crafts",
+          "seo_keywords": [
+            "Oxford Covered Market",
+            "historic markets England",
+            "independent traders"
+          ],
+          "commons_file": "Oxford Covered Market A.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Oxford_Covered_Market_A.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Radcliffe Camera",
+            "Ashmolean Museum"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Cambridge",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Cambridge",
+      "seo": {
+        "title": "Top 10 Things to Do in Cambridge, United Kingdom",
+        "description": "Discover 10 must-see landmarks in Cambridge, United Kingdom. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Cambridge? Explore the best places to visit in Cambridge, United Kingdom.",
+        "keywords": [
+          "things to do in Cambridge",
+          "Cambridge United Kingdom travel guide",
+          "best places to visit in Cambridge",
+          "Cambridge landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "King's College Chapel",
+          "wiki_title": "King's College Chapel, Cambridge",
+          "lat": 52.2048,
+          "lng": 0.1165,
+          "order_index": 0,
+          "description": "The magnificent medieval chapel of King's College, Cambridge University.",
+          "seo_phrase": "King's College Chapel | Masterpiece Gothic Fan Vaulting",
+          "seo_keywords": [
+            "Kings College Chapel",
+            "Cambridge fan vaulting",
+            "Henry VI architecture"
+          ],
+          "commons_file": "Kings College Chapel Cambridge A.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Kings_College_Chapel_Cambridge_A.jpg",
+          "seo_priority": 99,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Backs",
+            "Senate House"
+          ]
+        },
+        {
+          "name": "The Backs",
+          "wiki_title": "The Backs",
+          "lat": 52.2056,
+          "lng": 0.1119,
+          "order_index": 1,
+          "description": "A picturesque landscape of lawns and bridges along the River Cam.",
+          "seo_phrase": "The Backs Cambridge | Riverside College View Landscape",
+          "seo_keywords": [
+            "The Backs",
+            "River Cam lawns",
+            "Cambridge punting views"
+          ],
+          "commons_file": "The Backs Cambridge A.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Backs_Cambridge_A.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "King's College Chapel",
+            "Mathematical Bridge"
+          ]
+        },
+        {
+          "name": "Fitzwilliam Museum",
+          "wiki_title": "Fitzwilliam Museum",
+          "lat": 52.2003,
+          "lng": 0.1194,
+          "order_index": 2,
+          "description": "The primary art and museum museum of the University of Cambridge.",
+          "seo_phrase": "Fitzwilliam Museum Cambridge | Fine Art Antiquities",
+          "seo_keywords": [
+            "Fitzwilliam Museum",
+            "Cambridge art galleries",
+            "Richard FitzWilliam bequest"
+          ],
+          "commons_file": "Fitzwilliam Museum Cambridge A.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Fitzwilliam_Museum_Cambridge_A.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "winter",
+            "autumn",
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Mathematical Bridge",
+            "Sedgwick Museum"
+          ]
+        },
+        {
+          "name": "Mathematical Bridge",
+          "wiki_title": "Mathematical Bridge",
+          "lat": 52.2023,
+          "lng": 0.1147,
+          "order_index": 3,
+          "description": "A famous wooden footbridge connecting two parts of Queens' College.",
+          "seo_phrase": "Mathematical Bridge Cambridge | Historic Timber Arch",
+          "seo_keywords": [
+            "Mathematical Bridge",
+            "Queens College timber",
+            "William Etheridge design"
+          ],
+          "commons_file": "Mathematical Bridge Queens College Cambridge.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Mathematical_Bridge_Queens_College_Cambridge.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "The Backs",
+            "Queens' College"
+          ]
+        },
+        {
+          "name": "Bridge of Sighs",
+          "wiki_title": "Bridge of Sighs (Cambridge",
+          "lat": 52.2094,
+          "lng": 0.1161,
+          "order_index": 4,
+          "description": "An elegant covered Neo-Gothic stone bridge built across the River Cam.",
+          "seo_phrase": "Bridge of Sighs Cambridge | Neo-Gothic St John's Bridge",
+          "seo_keywords": [
+            "Bridge of Sighs",
+            "St John's College bridge",
+            "Henry Hutchinson architect"
+          ],
+          "commons_file": "Bridge of Sighs St Johns College Cambridge.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bridge_of_Sighs_St_Johns_College_Cambridge.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "The Backs",
+            "Round Church"
+          ]
+        },
+        {
+          "name": "The Round Church",
+          "wiki_title": "Holy Sepulchre, Cambridge",
+          "lat": 52.2081,
+          "lng": 0.1197,
+          "order_index": 5,
+          "description": "A rare medieval circular church, one of only four in England.",
+          "seo_phrase": "The Round Church Cambridge | Norman Architecture Sights",
+          "seo_keywords": [
+            "Round Church",
+            "Norman architecture",
+            "medieval circular churches"
+          ],
+          "commons_file": "Round Church Cambridge A.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Round_Church_Cambridge_A.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Bridge of Sighs",
+            "Great St Mary's"
+          ]
+        },
+        {
+          "name": "Cambridge University Botanic Garden",
+          "wiki_title": "Cambridge University Botanic Garden",
+          "lat": 52.1936,
+          "lng": 0.1244,
+          "order_index": 6,
+          "description": "A vast, beautiful research botanical garden supporting university science.",
+          "seo_phrase": "Cambridge Botanic Garden | Plant Science Arboretums",
+          "seo_keywords": [
+            "Cambridge Botanic Garden",
+            "John Henslow founder",
+            "university glasshouses"
+          ],
+          "commons_file": "Cambridge University Botanic Garden Glasshouses.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Cambridge_University_Botanic_Garden_Glasshouses.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Fitzwilliam Museum"
+          ]
+        },
+        {
+          "name": "Great St Mary's Church",
+          "wiki_title": "Great St Mary's",
+          "lat": 52.2053,
+          "lng": 0.1189,
+          "order_index": 7,
+          "description": "The official university church of Cambridge, featuring a historic tower.",
+          "seo_phrase": "Great St Mary's Church | Cambridge University Church Tower",
+          "seo_keywords": [
+            "Great St Marys",
+            "Cambridge university churches",
+            "Gothic towers"
+          ],
+          "commons_file": "Great St Marys Church Cambridge.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Great_St_Marys_Church_Cambridge.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "King's College Chapel",
+            "Round Church"
+          ]
+        },
+        {
+          "name": "The Corpus Clock",
+          "wiki_title": "Corpus Clock",
+          "lat": 52.2042,
+          "lng": 0.1178,
+          "order_index": 8,
+          "description": "A striking, unique public clock topped by an insect sculpture.",
+          "seo_phrase": "The Corpus Clock Cambridge | Unique Public Timepiece",
+          "seo_keywords": [
+            "Corpus Clock",
+            "Chronophage grasshopper",
+            "John Taylor design"
+          ],
+          "commons_file": "Corpus Clock Cambridge A.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Corpus_Clock_Cambridge_A.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "King's College Chapel",
+            "Great St Mary's"
+          ]
+        },
+        {
+          "name": "Sedgwick Museum of Earth Sciences",
+          "wiki_title": "Sedgwick Museum of Earth Sciences",
+          "lat": 52.2031,
+          "lng": 0.1228,
+          "order_index": 9,
+          "description": "The oldest of the University of Cambridge museums, focused on geology.",
+          "seo_phrase": "Sedgwick Museum Cambridge | Geology & Fossil Exhibits",
+          "seo_keywords": [
+            "Sedgwick Museum",
+            "Adam Sedgwick geology",
+            "Charles Darwin fossils"
+          ],
+          "commons_file": "Sedgwick Museum of Earth Sciences Interior.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Sedgwick_Museum_of_Earth_Sciences_Interior.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "winter",
+            "autumn",
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Fitzwilliam Museum",
+            "Great St Mary's"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Liverpool",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Liverpool",
+      "seo": {
+        "title": "Top 10 Things to Do in Liverpool, United Kingdom",
+        "description": "Discover 10 must-see landmarks in Liverpool, United Kingdom. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Liverpool? Explore the best places to visit in Liverpool, United Kingdom.",
+        "keywords": [
+          "things to do in Liverpool",
+          "Liverpool United Kingdom travel guide",
+          "best places to visit in Liverpool",
+          "Liverpool landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Royal Albert Dock",
+          "wiki_title": "Royal Albert Dock",
+          "lat": 53.4011,
+          "lng": -2.9928,
+          "order_index": 0,
+          "description": "A historic complex of dock buildings and warehouses opened in 1846.",
+          "seo_phrase": "Royal Albert Dock Liverpool | Historic Waterfront Warehouses",
+          "seo_keywords": [
+            "Royal Albert Dock",
+            "Jesse Hartley docks",
+            "Liverpool waterfront"
+          ],
+          "commons_file": "Albert Dock Liverpool 2014.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Albert_Dock_Liverpool_2014.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Beatles Story",
+            "Tate Liverpool"
+          ]
+        },
+        {
+          "name": "The Beatles Story",
+          "wiki_title": "The Beatles Story",
+          "lat": 53.3992,
+          "lng": -2.9922,
+          "order_index": 1,
+          "description": "The world's largest permanent museum exhibition dedicated purely to The Beatles.",
+          "seo_phrase": "The Beatles Story Liverpool | Immersive Music Museum",
+          "seo_keywords": [
+            "The Beatles Story",
+            "Liverpool pop music",
+            "Fab Four memorabilia"
+          ],
+          "commons_file": "The Beatles Story Albert Dock.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/The_Beatles_Story_Albert_Dock.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter",
+            "autumn",
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Royal Albert Dock",
+            "Merseyside Maritime Museum"
+          ]
+        },
+        {
+          "name": "Liverpool Cathedral",
+          "wiki_title": "Liverpool Cathedral",
+          "lat": 53.3975,
+          "lng": -2.9731,
+          "order_index": 2,
+          "description": "A colossal Anglican cathedral commanding the city's highest ridge.",
+          "seo_phrase": "Liverpool Cathedral | Monumental Gothic Revival Spire",
+          "seo_keywords": [
+            "Liverpool Cathedral",
+            "Giles Gilbert Scott",
+            "Gothic Revival architecture"
+          ],
+          "commons_file": "Liverpool Anglican Cathedral from the north west.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Liverpool_Anglican_Cathedral_from_the_north_west.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St James Mount",
+            "Philharmonic Hall"
+          ]
+        },
+        {
+          "name": "The Cavern Club",
+          "wiki_title": "The Cavern Club",
+          "lat": 53.4064,
+          "lng": -2.9877,
+          "order_index": 3,
+          "description": "The historic brick cellar club that launched the 1960s Merseybeat sound.",
+          "seo_phrase": "The Cavern Club | Birthplace of British Rock Pop",
+          "seo_keywords": [
+            "Cavern Club",
+            "Mathew Street",
+            "Merseybeat live music"
+          ],
+          "commons_file": "Cavern Club Liverpool 2009.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Cavern_Club_Liverpool_2009.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mathew Street",
+            "St George's Hall"
+          ]
+        },
+        {
+          "name": "Museum of Liverpool",
+          "wiki_title": "Museum of Liverpool",
+          "lat": 53.4028,
+          "lng": -2.9942,
+          "order_index": 4,
+          "description": "A striking modern museum dedicated entirely to the city's heritage.",
+          "seo_phrase": "Museum of Liverpool | Waterfront Cultural History",
+          "seo_keywords": [
+            "Museum of Liverpool",
+            "waterfront museums",
+            "social history port"
+          ],
+          "commons_file": "Museum of Liverpool 2011.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Museum_of_Liverpool_2011.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "winter",
+            "autumn",
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Royal Albert Dock",
+            "Pier Head"
+          ]
+        },
+        {
+          "name": "St George's Hall",
+          "wiki_title": "St George's Hall, Liverpool",
+          "lat": 53.4078,
+          "lng": -2.9797,
+          "order_index": 5,
+          "description": "A monumental 19th-century neoclassical building housing courts and concert halls.",
+          "seo_phrase": "St George's Hall | Neoclassical Civic Architecture",
+          "seo_keywords": [
+            "St Georges Hall",
+            "Harvey Elmes architect",
+            "Minton tile mosaic"
+          ],
+          "commons_file": "St Georges Hall Liverpool A.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/St_Georges_Hall_Liverpool_A.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter",
+            "autumn",
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Walker Art Gallery",
+            "World Museum"
+          ]
+        },
+        {
+          "name": "Walker Art Gallery",
+          "wiki_title": "Walker Art Gallery",
+          "lat": 53.4099,
+          "lng": -2.9797,
+          "order_index": 6,
+          "description": "One of the finest and largest public art galleries in England outside London.",
+          "seo_phrase": "Walker Art Gallery | National Fine Art Collections",
+          "seo_keywords": [
+            "Walker Art Gallery",
+            "Pre-Raphaelite paintings",
+            "Liverpool art museums"
+          ],
+          "commons_file": "Walker Art Gallery Liverpool A.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Walker_Art_Gallery_Liverpool_A.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "winter",
+            "autumn",
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "St George's Hall",
+            "World Museum"
+          ]
+        },
+        {
+          "name": "Sefton Park Palm House",
+          "wiki_title": "Sefton Park Palm House",
+          "lat": 53.3819,
+          "lng": -2.9356,
+          "order_index": 7,
+          "description": "A magnificent three-tier glass dome conservatory inside Sefton Park.",
+          "seo_phrase": "Sefton Park Palm House | Victorian Glass Conservatory",
+          "seo_keywords": [
+            "Sefton Park",
+            "Palm House conservatory",
+            "Victorian glass domes"
+          ],
+          "commons_file": "Sefton Park Palm House Liverpool.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sefton_Park_Palm_House_Liverpool.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Sefton Park Lake"
+          ]
+        },
+        {
+          "name": "World Museum",
+          "wiki_title": "World Museum (Liverpool",
+          "lat": 53.4097,
+          "lng": -2.9814,
+          "order_index": 8,
+          "description": "A large multidisciplinary museum featuring planetariums and science exhibits.",
+          "seo_phrase": "World Museum Liverpool | Planetarium & Ethnography",
+          "seo_keywords": [
+            "World Museum",
+            "Liverpool planetariums",
+            "ethnography collections"
+          ],
+          "commons_file": "World Museum Liverpool Exterior.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/World_Museum_Liverpool_Exterior.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "winter",
+            "autumn",
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Walker Art Gallery",
+            "St George's Hall"
+          ]
+        },
+        {
+          "name": "Sudley House",
+          "wiki_title": "Sudley House",
+          "lat": 53.3769,
+          "lng": -2.9239,
+          "order_index": 9,
+          "description": "An elegant period mansion displaying merchant fine art collections.",
+          "seo_phrase": "Sudley House | Historic Shipowner Mansion Art",
+          "seo_keywords": [
+            "Sudley House",
+            "George Holt shipping",
+            "merchant mansions"
+          ],
+          "commons_file": "Sudley House Liverpool.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Sudley_House_Liverpool.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Sefton Park"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Manchester",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Manchester",
+      "seo": {
+        "title": "Top 10 Things to Do in Manchester, United Kingdom",
+        "description": "Discover 10 must-see landmarks in Manchester, United Kingdom. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Manchester? Explore the best places to visit in Manchester, United Kingdom.",
+        "keywords": [
+          "things to do in Manchester",
+          "Manchester United Kingdom travel guide",
+          "best places to visit in Manchester",
+          "Manchester landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Salford",
+          "wiki_title": "Salford",
+          "lat": 53.483,
+          "lng": -2.2931,
+          "order_index": 0,
+          "description": "Salford — a notable landmark in Manchester, United Kingdom.",
+          "seo_phrase": "Salford",
+          "seo_keywords": [
+            "Manchester",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Manchester & Salford Skyline 2020.jpg/800px-Manchester & Salford Skyline 2020.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Manchester_%26_Salford_Skyline_2020.jpg/800px-Manchester_%26_Salford_Skyline_2020.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Manchester Airport",
+          "wiki_title": "Manchester Airport",
+          "lat": 53.35388889,
+          "lng": -2.275,
+          "order_index": 1,
+          "description": "Manchester Airport — a notable landmark in Manchester, United Kingdom.",
+          "seo_phrase": "Manchester Airport",
+          "seo_keywords": [
+            "Manchester",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Manchester Airport EGCC.jpg/800px-Manchester Airport EGCC.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Manchester_Airport_EGCC.jpg/800px-Manchester_Airport_EGCC.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "No. 1 Deansgate",
+          "wiki_title": "No. 1 Deansgate",
+          "lat": 53.48361111,
+          "lng": -2.24555556,
+          "order_index": 2,
+          "description": "No. 1 Deansgate — a notable landmark in Manchester, United Kingdom.",
+          "seo_phrase": "No. 1 Deansgate",
+          "seo_keywords": [
+            "Manchester",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Inside Manchester (6865901850).jpg/800px-Inside Manchester (6865901850).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Inside_Manchester_%286865901850%29.jpg/800px-Inside_Manchester_%286865901850%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Chelmsford Cathedral",
+          "wiki_title": "Chelmsford Cathedral",
+          "lat": 51.7355,
+          "lng": 0.4741,
+          "order_index": 3,
+          "description": "Chelmsford Cathedral — a notable landmark in Manchester, United Kingdom.",
+          "seo_phrase": "Chelmsford Cathedral",
+          "seo_keywords": [
+            "Manchester",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Chelmsford Cathedral Exterior, Essex, UK - Diliff.jpg/800px-Chelmsford Cathedral Exterior, Essex, UK - Diliff.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chelmsford_Cathedral_Exterior%2C_Essex%2C_UK_-_Diliff.jpg/800px-Chelmsford_Cathedral_Exterior%2C_Essex%2C_UK_-_Diliff.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Leeds Cathedral",
+          "wiki_title": "Leeds Cathedral",
+          "lat": 53.8007,
+          "lng": -1.5468,
+          "order_index": 4,
+          "description": "Leeds Cathedral — a notable landmark in Manchester, United Kingdom.",
+          "seo_phrase": "Leeds Cathedral",
+          "seo_keywords": [
+            "Manchester",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Leeds Cathedral.jpg/800px-Leeds Cathedral.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Leeds_Cathedral.jpg/800px-Leeds_Cathedral.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Manchester Tennis and Racquet Club",
+          "wiki_title": "Manchester Tennis and Racquet Club",
+          "lat": 53.4859,
+          "lng": -2.2524,
+          "order_index": 5,
+          "description": "Manchester Tennis and Racquet Club — a notable landmark in Manchester, United Kingdom.",
+          "seo_phrase": "Manchester Tennis and Racquet Club",
+          "seo_keywords": [
+            "Manchester",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "ImageManchester Tennis and Racquet Club.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/ImageManchester_Tennis_and_Racquet_Club.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Manchester Arena bombing",
+          "wiki_title": "Manchester Arena bombing",
+          "lat": 53.48805556,
+          "lng": -2.24388889,
+          "order_index": 6,
+          "description": "Manchester Arena bombing — a notable landmark in Manchester, United Kingdom.",
+          "seo_phrase": "Manchester Arena bombing",
+          "seo_keywords": [
+            "Manchester",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Manchester Arena exterior, (2) May19.jpg/800px-Manchester Arena exterior, (2) May19.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Manchester_Arena_exterior%2C_%282%29_May19.jpg/800px-Manchester_Arena_exterior%2C_%282%29_May19.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Bamburgh Castle",
+          "wiki_title": "Bamburgh Castle",
+          "lat": 55.608,
+          "lng": -1.709,
+          "order_index": 7,
+          "description": "Bamburgh Castle — a notable landmark in Manchester, United Kingdom.",
+          "seo_phrase": "Bamburgh Castle",
+          "seo_keywords": [
+            "Manchester",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Bamburgh Castle, beautiful day.jpg/800px-Bamburgh Castle, beautiful day.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bamburgh_Castle%2C_beautiful_day.jpg/800px-Bamburgh_Castle%2C_beautiful_day.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Science and Industry Museum",
+          "wiki_title": "Science and Industry Museum",
+          "lat": 53.47694444,
+          "lng": -2.25555556,
+          "order_index": 8,
+          "description": "Science and Industry Museum — a notable landmark in Manchester, United Kingdom.",
+          "seo_phrase": "Science and Industry Museum",
+          "seo_keywords": [
+            "Manchester",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Science and Industry Museum.jpg/800px-Science and Industry Museum.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Science_and_Industry_Museum.jpg/800px-Science_and_Industry_Museum.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Imperial War Museum North",
+          "wiki_title": "Imperial War Museum North",
+          "lat": 53.4697,
+          "lng": -2.2989,
+          "order_index": 9,
+          "description": "Imperial War Museum North — a notable landmark in Manchester, United Kingdom.",
+          "seo_phrase": "Imperial War Museum North",
+          "seo_keywords": [
+            "Manchester",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Imperial War Museum 2008cropped.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Imperial_War_Museum_2008cropped.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Belfast",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Belfast",
+      "seo": {
+        "title": "Top 10 Things to Do in Belfast, United Kingdom",
+        "description": "Discover 10 must-see landmarks in Belfast, United Kingdom. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Belfast? Explore the best places to visit in Belfast, United Kingdom.",
+        "keywords": [
+          "things to do in Belfast",
+          "Belfast United Kingdom travel guide",
+          "best places to visit in Belfast",
+          "Belfast landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Belfast",
+          "wiki_title": "Belfast",
+          "lat": 54.5967,
+          "lng": -5.93,
+          "order_index": 0,
+          "description": "Belfast — a notable landmark in Belfast, United Kingdom.",
+          "seo_phrase": "Belfast",
+          "seo_keywords": [
+            "Belfast",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Custom House, River Lagan, Belfast.jpg/800px-Custom House, River Lagan, Belfast.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Custom_House%2C_River_Lagan%2C_Belfast.jpg/800px-Custom_House%2C_River_Lagan%2C_Belfast.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Liverpool Metropolitan Cathedral",
+          "wiki_title": "Liverpool Metropolitan Cathedral",
+          "lat": 53.4047,
+          "lng": -2.9688,
+          "order_index": 1,
+          "description": "Liverpool Metropolitan Cathedral — a notable landmark in Belfast, United Kingdom.",
+          "seo_phrase": "Liverpool Metropolitan Cathedral",
+          "seo_keywords": [
+            "Belfast",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Liverpool Metropolitan Cathedral Exterior, Liverpool, UK - Diliff.jpg/800px-Liverpool Metropolitan Cathedral Exterior, Liverpool, UK - Diliff.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Liverpool_Metropolitan_Cathedral_Exterior%2C_Liverpool%2C_UK_-_Diliff.jpg/800px-Liverpool_Metropolitan_Cathedral_Exterior%2C_Liverpool%2C_UK_-_Diliff.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Falls Road",
+          "wiki_title": "Falls Road, Belfast",
+          "lat": 54.59347,
+          "lng": -5.95823,
+          "order_index": 2,
+          "description": "Falls Road, Belfast — a notable landmark in Belfast, United Kingdom.",
+          "seo_phrase": "Falls Road",
+          "seo_keywords": [
+            "Belfast",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Catholicbelfast.jpg/800px-Catholicbelfast.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Catholicbelfast.jpg/800px-Catholicbelfast.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "St Peter's Cathedral",
+          "wiki_title": "St Peter's Cathedral, Belfast",
+          "lat": 54.599038,
+          "lng": -5.944408,
+          "order_index": 3,
+          "description": "St Peter's Cathedral, Belfast — a notable landmark in Belfast, United Kingdom.",
+          "seo_phrase": "St Peter's Cathedral",
+          "seo_keywords": [
+            "Belfast",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "St petersbelfast-2.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/St_petersbelfast-2.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "St Mary's Cathedral",
+          "wiki_title": "St Mary's Cathedral, Edinburgh (Catholic",
+          "lat": 55.9561,
+          "lng": -3.1877,
+          "order_index": 4,
+          "description": "St Mary's Cathedral, Edinburgh (Catholic) — a notable landmark in Belfast, United Kingdom.",
+          "seo_phrase": "St Mary's Cathedral",
+          "seo_keywords": [
+            "Belfast",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "St Mary's Roman Catholic Cathedral Edinburgh 2.JPG/800px-St Mary's Roman Catholic Cathedral Edinburgh 2.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/St_Mary%27s_Roman_Catholic_Cathedral_Edinburgh_2.JPG/800px-St_Mary%27s_Roman_Catholic_Cathedral_Edinburgh_2.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "St Joseph's Cathedral",
+          "wiki_title": "St Joseph's Cathedral, Swansea",
+          "lat": 51.632778,
+          "lng": -3.943889,
+          "order_index": 5,
+          "description": "St Joseph's Cathedral, Swansea — a notable landmark in Belfast, United Kingdom.",
+          "seo_phrase": "St Joseph's Cathedral",
+          "seo_keywords": [
+            "Belfast",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Saint Josephs Cathedral swansea-2.jpg/800px-Saint Josephs Cathedral swansea-2.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Saint_Josephs_Cathedral_swansea-2.jpg/800px-Saint_Josephs_Cathedral_swansea-2.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "HMS Belfast",
+          "wiki_title": "HMS Belfast",
+          "lat": 51.50666667,
+          "lng": -0.08138889,
+          "order_index": 6,
+          "description": "HMS Belfast — a notable landmark in Belfast, United Kingdom.",
+          "seo_phrase": "HMS Belfast",
+          "seo_keywords": [
+            "Belfast",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "London November 2013-14a.jpg/800px-London November 2013-14a.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/London_November_2013-14a.jpg/800px-London_November_2013-14a.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Hillsborough Castle",
+          "wiki_title": "Hillsborough Castle",
+          "lat": 54.46127,
+          "lng": -6.08604,
+          "order_index": 7,
+          "description": "Hillsborough Castle — a notable landmark in Belfast, United Kingdom.",
+          "seo_phrase": "Hillsborough Castle",
+          "seo_keywords": [
+            "Belfast",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Hillsborough Castle, Northern Ireland.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Hillsborough_Castle%2C_Northern_Ireland.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Belfast City Hall",
+          "wiki_title": "Belfast City Hall",
+          "lat": 54.596484,
+          "lng": -5.930053,
+          "order_index": 8,
+          "description": "Belfast City Hall — a notable landmark in Belfast, United Kingdom.",
+          "seo_phrase": "Belfast City Hall",
+          "seo_keywords": [
+            "Belfast",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Belfast City Hall - Belfast, Northern Ireland, UK - August 13, 2017 - 01.jpg/800px-Belfast City Hall - Belfast, Northern Ireland, UK - August 13, 2017 - 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Belfast_City_Hall_-_Belfast%2C_Northern_Ireland%2C_UK_-_August_13%2C_2017_-_01.jpg/800px-Belfast_City_Hall_-_Belfast%2C_Northern_Ireland%2C_UK_-_August_13%2C_2017_-_01.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Quintin Castle",
+          "wiki_title": "Quintin Castle",
+          "lat": 54.3768,
+          "lng": -5.4891,
+          "order_index": 9,
+          "description": "Quintin Castle — a notable landmark in Belfast, United Kingdom.",
+          "seo_phrase": "Quintin Castle",
+          "seo_keywords": [
+            "Belfast",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Quintin Castle crop.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Quintin_Castle_crop.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Cardiff",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Cardiff",
+      "seo": {
+        "title": "Top 10 Things to Do in Cardiff, United Kingdom",
+        "description": "Discover 10 must-see landmarks in Cardiff, United Kingdom. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Cardiff? Explore the best places to visit in Cardiff, United Kingdom.",
+        "keywords": [
+          "things to do in Cardiff",
+          "Cardiff United Kingdom travel guide",
+          "best places to visit in Cardiff",
+          "Cardiff landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Cardiff",
+          "wiki_title": "Cardiff",
+          "lat": 51.48166667,
+          "lng": -3.17916667,
+          "order_index": 0,
+          "description": "Cardiff — a notable landmark in Cardiff, United Kingdom.",
+          "seo_phrase": "Cardiff",
+          "seo_keywords": [
+            "Cardiff",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Cardiff Bay WMC.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Cardiff_Bay_WMC.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "National Museum Cardiff",
+          "wiki_title": "National Museum Cardiff",
+          "lat": 51.4858,
+          "lng": -3.1773,
+          "order_index": 1,
+          "description": "National Museum Cardiff — a notable landmark in Cardiff, United Kingdom.",
+          "seo_phrase": "National Museum Cardiff",
+          "seo_keywords": [
+            "Cardiff",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Amgueddfa Genedlaethol Caerdydd.JPG/800px-Amgueddfa Genedlaethol Caerdydd.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Amgueddfa_Genedlaethol_Caerdydd.JPG/800px-Amgueddfa_Genedlaethol_Caerdydd.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Arundel Cathedral",
+          "wiki_title": "Arundel Cathedral",
+          "lat": 50.8552,
+          "lng": -0.559,
+          "order_index": 2,
+          "description": "Arundel Cathedral — a notable landmark in Cardiff, United Kingdom.",
+          "seo_phrase": "Arundel Cathedral",
+          "seo_keywords": [
+            "Cardiff",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Arundel Cathedral Exterior, West Sussex, UK - Diliff.jpg/800px-Arundel Cathedral Exterior, West Sussex, UK - Diliff.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Arundel_Cathedral_Exterior%2C_West_Sussex%2C_UK_-_Diliff.jpg/800px-Arundel_Cathedral_Exterior%2C_West_Sussex%2C_UK_-_Diliff.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "St David's",
+          "wiki_title": "St David's, Cardiff",
+          "lat": 51.48083333,
+          "lng": -3.17555556,
+          "order_index": 3,
+          "description": "St David's, Cardiff — a notable landmark in Cardiff, United Kingdom.",
+          "seo_phrase": "St David's",
+          "seo_keywords": [
+            "Cardiff",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "St David's Centre newly opened.jpg/800px-St David's Centre newly opened.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/St_David%27s_Centre_newly_opened.jpg/800px-St_David%27s_Centre_newly_opened.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Cardiff Metropolitan Cathedral",
+          "wiki_title": "Cardiff Metropolitan Cathedral",
+          "lat": 51.4809,
+          "lng": -3.174,
+          "order_index": 4,
+          "description": "Cardiff Metropolitan Cathedral — a notable landmark in Cardiff, United Kingdom.",
+          "seo_phrase": "Cardiff Metropolitan Cathedral",
+          "seo_keywords": [
+            "Cardiff",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Eglwys Gadeiriol Caerdydd.jpg/800px-Eglwys Gadeiriol Caerdydd.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Eglwys_Gadeiriol_Caerdydd.jpg/800px-Eglwys_Gadeiriol_Caerdydd.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Spillers Records",
+          "wiki_title": "Spillers Records",
+          "lat": 51.47879,
+          "lng": -3.17707,
+          "order_index": 5,
+          "description": "Spillers Records — a notable landmark in Cardiff, United Kingdom.",
+          "seo_phrase": "Spillers Records",
+          "seo_keywords": [
+            "Cardiff",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Spillers Records, 27 Morgan Arcade, Cardiff.jpg/800px-Spillers Records, 27 Morgan Arcade, Cardiff.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Spillers_Records%2C_27_Morgan_Arcade%2C_Cardiff.jpg/800px-Spillers_Records%2C_27_Morgan_Arcade%2C_Cardiff.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Caerphilly Castle",
+          "wiki_title": "Caerphilly Castle",
+          "lat": 51.5761,
+          "lng": -3.2203,
+          "order_index": 6,
+          "description": "Caerphilly Castle — a notable landmark in Cardiff, United Kingdom.",
+          "seo_phrase": "Caerphilly Castle",
+          "seo_keywords": [
+            "Cardiff",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Caerphilly aerial.jpg/800px-Caerphilly aerial.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Caerphilly_aerial.jpg/800px-Caerphilly_aerial.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Cardiff Airport",
+          "wiki_title": "Cardiff Airport",
+          "lat": 51.39666667,
+          "lng": -3.34333333,
+          "order_index": 7,
+          "description": "Cardiff Airport — a notable landmark in Cardiff, United Kingdom.",
+          "seo_phrase": "Cardiff Airport",
+          "seo_keywords": [
+            "Cardiff",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Cardiff Airport September 2023 02.jpg/800px-Cardiff Airport September 2023 02.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Cardiff_Airport_September_2023_02.jpg/800px-Cardiff_Airport_September_2023_02.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Cardiff City Stadium",
+          "wiki_title": "Cardiff City Stadium",
+          "lat": 51.47278,
+          "lng": -3.20306,
+          "order_index": 8,
+          "description": "Cardiff City Stadium — a notable landmark in Cardiff, United Kingdom.",
+          "seo_phrase": "Cardiff City Stadium",
+          "seo_keywords": [
+            "Cardiff",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "Cardiff City Stadium Pitch.jpg/800px-Cardiff City Stadium Pitch.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cardiff_City_Stadium_Pitch.jpg/800px-Cardiff_City_Stadium_Pitch.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Animal Wall",
+          "wiki_title": "Animal Wall",
+          "lat": 51.481146,
+          "lng": -3.183024,
+          "order_index": 9,
+          "description": "Animal Wall — a notable landmark in Cardiff, United Kingdom.",
+          "seo_phrase": "Animal Wall",
+          "seo_keywords": [
+            "Cardiff",
+            "United Kingdom",
+            "travel"
+          ],
+          "commons_file": "The Animal Wall - Bute Park, Cardiff.jpg/800px-The Animal Wall - Bute Park, Cardiff.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_Animal_Wall_-_Bute_Park%2C_Cardiff.jpg/800px-The_Animal_Wall_-_Bute_Park%2C_Cardiff.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "United Kingdom Scenic Road Trip",
+    "subtitle": "Explore United Kingdom beyond the cities — nature, coastlines, and scenic routes.",
+    "wiki_title": "United Kingdom",
+    "hero_image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Elizabeth_Tower%2C_June_2022.jpg",
+    "totalDays": 10,
+    "seo": {
+      "title": "United Kingdom Road Trip Adventure",
+      "description": "Plan a United Kingdom road trip with GPS stops and scenic routes.",
+      "intro": "Explore United Kingdom beyond the cities with this adventure route.",
+      "keywords": [
+        "United Kingdom road trip",
+        "United Kingdom by car"
+      ]
+    },
+    "places": [
+      {
+        "name": "Giant's Causeway",
+        "wiki_title": "Giant's Causeway",
+        "region": "Northern Ireland",
+        "lat": 55.2408,
+        "lng": -6.5115,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "An area of about 40,000 interlocking basalt columns on the coast.",
+        "seo_phrase": "Giant's Causeway Guide | Basalt Columns Coastal Wonders",
+        "seo_keywords": [
+          "Giants Causeway",
+          "basalt columns coast",
+          "volcanic rock pillars"
+        ],
+        "commons_file": "Giants Causeway Northern Ireland.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Giants_Causeway_Northern_Ireland.jpg",
+        "seo_priority": 100,
+        "best_season": [
+          "summer",
+          "spring",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Lulworth Cove and Durdle Door",
+        "wiki_title": "Durdle Door",
+        "region": "England",
+        "lat": 50.6212,
+        "lng": -2.2766,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A world-famous natural limestone arch on the Dorset coast.",
+        "seo_phrase": "Durdle Door Dorset | Jurassic Coast Natural Arch",
+        "seo_keywords": [
+          "Durdle Door",
+          "Jurassic Coast arch",
+          "Lulworth Cove geology"
+        ],
+        "commons_file": "Durdle Door Dorset 2015.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Durdle_Door_Dorset_2015.jpg",
+        "seo_priority": 96,
+        "best_season": [
+          "summer",
+          "spring",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Cheddar Gorge",
+        "wiki_title": "Cheddar Gorge",
+        "region": "England",
+        "lat": 51.2828,
+        "lng": -2.7601,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A monumental limestone gorge in the Mendip Hills.",
+        "seo_phrase": "Cheddar Gorge Somerset | Limestone Ravine Climbing Sights",
+        "seo_keywords": [
+          "Cheddar Gorge",
+          "Mendip Hills cliffs",
+          "limestone ravines"
+        ],
+        "commons_file": "Cheddar Gorge Somerset 2012.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Cheddar_Gorge_Somerset_2012.jpg",
+        "seo_priority": 94,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Loch Lomond and The Trossachs",
+        "wiki_title": "Loch Lomond and The Trossachs National Park",
+        "region": "Scotland",
+        "lat": 56.1031,
+        "lng": -4.6312,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A vast, pristine national park showcasing classic Scottish loch scenery.",
+        "seo_phrase": "Loch Lomond Trossachs | Highland Glens & Lakes",
+        "seo_keywords": [
+          "Loch Lomond",
+          "The Trossachs park",
+          "Highland fault lochs"
+        ],
+        "commons_file": "Loch Lomond from Firkin Point.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Loch_Lomond_from_Firkin_Point.jpg",
+        "seo_priority": 95,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "The Old Man of Storr",
+        "wiki_title": "Old Man of Storr",
+        "region": "Scotland",
+        "lat": 57.5072,
+        "lng": -6.1744,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A monumental rock pinnacle standing on the Trotternish ridge.",
+        "seo_phrase": "Old Man of Storr | Isle of Skye Basalt Pinnacles",
+        "seo_keywords": [
+          "Old Man of Storr",
+          "Isle of Skye peaks",
+          "Trotternish landslides"
+        ],
+        "commons_file": "The Old Man of Storr Isle of Skye.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Old_Man_of_Storr_Isle_of_Skye.jpg",
+        "seo_priority": 96,
+        "best_season": [
+          "summer",
+          "spring",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Malham Cove / Yorkshire Dales",
+        "wiki_title": "Malham Cove",
+        "region": "England",
+        "lat": 54.0728,
+        "lng": -2.1583,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A huge curved limestone cliff feature formed by ice age rivers.",
+        "seo_phrase": "Malham Cove Guide | Limestone Pavement Amphitheater",
+        "seo_keywords": [
+          "Malham Cove",
+          "Yorkshire Dales cliffs",
+          "limestone pavement plateau"
+        ],
+        "commons_file": "Malham Cove Yorkshire Dales.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Malham_Cove_Yorkshire_Dales.jpg",
+        "seo_priority": 92,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "St George's Chapel",
+        "wiki_title": "St George's Chapel, Windsor Castle",
+        "region": "United Kingdom",
+        "lat": 51.48361111,
+        "lng": -0.60694444,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "St George's Chapel — a must-see landmark on a United Kingdom road trip.",
+        "seo_phrase": "St George's Chapel",
+        "seo_keywords": [
+          "St George's Chapel",
+          "United Kingdom",
+          "road trip"
+        ],
+        "commons_file": "St. Georges Chapel, Windsor Castle (2).jpg/800px-St. Georges Chapel, Windsor Castle (2).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/St._Georges_Chapel%2C_Windsor_Castle_%282%29.jpg/800px-St._Georges_Chapel%2C_Windsor_Castle_%282%29.jpg",
+        "seo_priority": 90,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Shane's Castle",
+        "wiki_title": "Shane's Castle",
+        "region": "United Kingdom",
+        "lat": 54.73194167,
+        "lng": -6.27032667,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Shane's Castle — a must-see landmark on a United Kingdom road trip.",
+        "seo_phrase": "Shane's Castle",
+        "seo_keywords": [
+          "Shane's Castle",
+          "United Kingdom",
+          "road trip"
+        ],
+        "commons_file": "Shane's Castle, County Antrim - geograph.org.uk - 155426.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Shane%27s_Castle%2C_County_Antrim_-_geograph.org.uk_-_155426.jpg",
+        "seo_priority": 89,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Patriarchal Stavropegic Monastery of St John the Baptist",
+        "wiki_title": "Patriarchal Stavropegic Monastery of St John the Baptist",
+        "region": "United Kingdom",
+        "lat": 51.79568,
+        "lng": 0.78247,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Patriarchal Stavropegic Monastery of St John the Baptist — a must-see landmark on a United Kingdom road trip.",
+        "seo_phrase": "Patriarchal Stavropegic Monastery of St John the Baptist",
+        "seo_keywords": [
+          "Patriarchal Stavropegic Monastery of St John the Baptist",
+          "United Kingdom",
+          "road trip"
+        ],
+        "commons_file": "Eldersophrony.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Eldersophrony.jpg",
+        "seo_priority": 88,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Buckingham Palace",
+        "wiki_title": "Buckingham Palace",
+        "region": "United Kingdom",
+        "lat": 51.50083333,
+        "lng": -0.14194444,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Buckingham Palace — a must-see landmark on a United Kingdom road trip.",
+        "seo_phrase": "Buckingham Palace",
+        "seo_keywords": [
+          "Buckingham Palace",
+          "United Kingdom",
+          "road trip"
+        ],
+        "commons_file": "Buckingham Palace London Morning 2020 01 (cropped).jpg/800px-Buckingham Palace London Morning 2020 01 (cropped).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Buckingham_Palace_London_Morning_2020_01_%28cropped%29.jpg/800px-Buckingham_Palace_London_Morning_2020_01_%28cropped%29.jpg",
+        "seo_priority": 87,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      }
+    ]
+  }
+}

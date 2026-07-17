@@ -1,0 +1,3919 @@
+{
+  "version": 2,
+  "country": "Czech Republic",
+  "published": true,
+  "cities": [
+    {
+      "city": "Prague",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "religious"
+      ],
+      "wiki_title": "Prague",
+      "seo": {
+        "title": "Top 10 Things to Do in Prague, Czech Republic",
+        "description": "Discover 10 must-see landmarks in Prague, Czech Republic. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Prague? Explore the best places to visit in Prague, Czech Republic.",
+        "keywords": [
+          "things to do in Prague",
+          "Prague Czech Republic travel guide",
+          "best places to visit in Prague",
+          "Prague landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Prague Castle",
+          "wiki_title": "Prague Castle",
+          "lat": 50.09,
+          "lng": 14.4004,
+          "order_index": 0,
+          "seo_phrase": "Prague Castle in Prague | royal hilltop architecture",
+          "seo_keywords": [
+            "Prague Castle",
+            "Prague",
+            "Czech Republic",
+            "castle",
+            "tourist attraction",
+            "Prague"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Vitus Cathedral",
+            "Old Town Square",
+            "Charles Bridge"
+          ]
+        },
+        {
+          "name": "Charles Bridge",
+          "wiki_title": "Charles Bridge",
+          "lat": 50.0865,
+          "lng": 14.4114,
+          "order_index": 1,
+          "seo_phrase": "Charles Bridge in Prague | statues over the Vltava",
+          "seo_keywords": [
+            "Charles Bridge",
+            "Prague",
+            "Czech Republic",
+            "bridge",
+            "tourist attraction",
+            "Prague"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Town Square",
+            "Prague Castle",
+            "Lennon Wall"
+          ]
+        },
+        {
+          "name": "Old Town Square",
+          "wiki_title": "Old Town Square",
+          "lat": 50.0875,
+          "lng": 14.4213,
+          "order_index": 2,
+          "seo_phrase": "Old Town Square in Prague | cobbled old-town energy",
+          "seo_keywords": [
+            "Old Town Square",
+            "Prague",
+            "Czech Republic",
+            "square",
+            "tourist attraction",
+            "Prague"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Prague Astronomical Clock",
+            "Old Town Hall",
+            "Wenceslas Square"
+          ],
+          "maps_query": "Staroměstské náměstí, Prague, Czech Republic"
+        },
+        {
+          "name": "St. Vitus Cathedral",
+          "wiki_title": "St. Vitus Cathedral",
+          "lat": 50.0909,
+          "lng": 14.4005,
+          "order_index": 3,
+          "seo_phrase": "St. Vitus Cathedral in Prague | Gothic cathedral drama",
+          "seo_keywords": [
+            "St. Vitus Cathedral",
+            "Prague",
+            "Czech Republic",
+            "church",
+            "tourist attraction",
+            "Prague"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Prague Castle",
+            "Vyšehrad",
+            "Petřín Lookout Tower"
+          ]
+        },
+        {
+          "name": "Prague Astronomical Clock",
+          "wiki_title": "Prague Astronomical Clock",
+          "lat": 50.087,
+          "lng": 14.4208,
+          "order_index": 4,
+          "seo_phrase": "Prague Astronomical Clock in Prague | medieval clock craftsmanship",
+          "seo_keywords": [
+            "Prague Astronomical Clock",
+            "Prague",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Prague"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Town Square",
+            "Old Town Hall",
+            "Wenceslas Square"
+          ],
+          "maps_query": "Prague Astronomical Clock, Old Town Square, Czech Republic"
+        },
+        {
+          "name": "Petřín Lookout Tower",
+          "wiki_title": "Petřín Lookout Tower",
+          "lat": 50.0836,
+          "lng": 14.3961,
+          "order_index": 5,
+          "seo_phrase": "Petřín Lookout Tower in Prague | panoramic city views",
+          "seo_keywords": [
+            "Petřín Lookout Tower",
+            "Prague",
+            "Czech Republic",
+            "viewpoint",
+            "tourist attraction",
+            "Prague"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Prague Castle",
+            "Charles Bridge",
+            "Lennon Wall"
+          ]
+        },
+        {
+          "name": "Vyšehrad",
+          "wiki_title": "Vyšehrad",
+          "lat": 50.0648,
+          "lng": 14.4204,
+          "order_index": 6,
+          "seo_phrase": "Vyšehrad in Prague | fortress walls and river light",
+          "seo_keywords": [
+            "Vyšehrad",
+            "Prague",
+            "Czech Republic",
+            "castle",
+            "tourist attraction",
+            "Prague"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "National Museum in Prague",
+            "Wenceslas Square",
+            "Lennon Wall"
+          ]
+        },
+        {
+          "name": "Lennon Wall",
+          "wiki_title": "Lennon Wall",
+          "lat": 50.0866,
+          "lng": 14.4048,
+          "order_index": 7,
+          "seo_phrase": "Lennon Wall in Prague | street art with a Prague story",
+          "seo_keywords": [
+            "Lennon Wall",
+            "Prague",
+            "Czech Republic",
+            "square",
+            "tourist attraction",
+            "Prague"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Charles Bridge",
+            "Prague Castle",
+            "Petřín Lookout Tower"
+          ]
+        },
+        {
+          "name": "Old Town Hall",
+          "wiki_title": "Old Town Hall (Prague)",
+          "lat": 50.0871,
+          "lng": 14.4207,
+          "order_index": 8,
+          "seo_phrase": "Old Town Hall in Prague | historic civic tower views",
+          "seo_keywords": [
+            "Old Town Hall",
+            "Prague",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Prague"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Town Square",
+            "Prague Astronomical Clock",
+            "Wenceslas Square"
+          ],
+          "maps_query": "Old Town Hall Prague Astronomical Clock, Czech Republic"
+        },
+        {
+          "name": "National Museum in Prague",
+          "wiki_title": "National Museum in Prague",
+          "lat": 50.0797,
+          "lng": 14.4309,
+          "order_index": 9,
+          "seo_phrase": "National Museum in Prague in Prague | grand museum boulevard presence",
+          "seo_keywords": [
+            "National Museum in Prague",
+            "Prague",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Prague"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Wenceslas Square",
+            "Old Town Square",
+            "Old Town Hall"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Brno",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "religious"
+      ],
+      "wiki_title": "Brno",
+      "seo": {
+        "title": "Top 10 Things to Do in Brno, Czech Republic",
+        "description": "Discover 10 must-see landmarks in Brno, Czech Republic. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Brno? Explore the best places to visit in Brno, Czech Republic.",
+        "keywords": [
+          "things to do in Brno",
+          "Brno Czech Republic travel guide",
+          "best places to visit in Brno",
+          "Brno landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Špilberk Castle",
+          "wiki_title": "Špilberk Castle",
+          "lat": 49.1954,
+          "lng": 16.6,
+          "order_index": 0,
+          "seo_phrase": "Špilberk Castle in Brno | hilltop fortress character",
+          "seo_keywords": [
+            "Špilberk Castle",
+            "Brno",
+            "Czech Republic",
+            "castle",
+            "tourist attraction",
+            "South Moravian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Cathedral of St. Peter and Paul",
+            "Lužánky",
+            "Moravian Museum"
+          ]
+        },
+        {
+          "name": "Villa Tugendhat",
+          "wiki_title": "Villa Tugendhat",
+          "lat": 49.203,
+          "lng": 16.613,
+          "order_index": 1,
+          "seo_phrase": "Villa Tugendhat in Brno | modernist UNESCO icon",
+          "seo_keywords": [
+            "Villa Tugendhat",
+            "Brno",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "South Moravian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Lužánky",
+            "Moravian Museum",
+            "Cathedral of St. Peter and Paul"
+          ]
+        },
+        {
+          "name": "Cathedral of St. Peter and Paul",
+          "wiki_title": "Cathedral of St. Peter and Paul, Brno",
+          "lat": 49.1923,
+          "lng": 16.6075,
+          "order_index": 2,
+          "seo_phrase": "Cathedral of St. Peter and Paul in Brno | skyline-defining twin spires",
+          "seo_keywords": [
+            "Cathedral of St. Peter and Paul",
+            "Brno",
+            "Czech Republic",
+            "church",
+            "tourist attraction",
+            "South Moravian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Špilberk Castle",
+            "Old Town Hall, Brno"
+          ]
+        },
+        {
+          "name": "Brno Observatory and Planetarium",
+          "wiki_title": "Brno Observatory and Planetarium",
+          "lat": 49.2042,
+          "lng": 16.5838,
+          "order_index": 3,
+          "seo_phrase": "Brno Observatory and Planetarium",
+          "seo_keywords": [
+            "Brno",
+            "Czech Republic",
+            "church",
+            "tourist attraction",
+            "South Moravian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Cathedral of St. Peter and Paul",
+            "Old Town Hall, Brno",
+            "Moravian Museum"
+          ],
+          "description": "Brno’s hilltop observatory and planetarium offers star shows and wide views over the city — a family-friendly alternative in the Špilberk area."
+        },
+        {
+          "name": "Moravian Museum",
+          "wiki_title": "Moravian Museum",
+          "lat": 49.1946,
+          "lng": 16.6064,
+          "order_index": 4,
+          "seo_phrase": "Moravian Museum in Brno | regional collections and context",
+          "seo_keywords": [
+            "Moravian Museum",
+            "Brno",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "South Moravian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Cathedral of St. Peter and Paul",
+            "Špilberk Castle",
+            "Old Town Hall, Brno"
+          ]
+        },
+        {
+          "name": "Abbey of Saint Thomas",
+          "wiki_title": "Abbey of Saint Thomas (Brno)",
+          "lat": 49.1915,
+          "lng": 16.6085,
+          "order_index": 5,
+          "seo_phrase": "Abbey of Saint Thomas in Brno | baroque church and Mendel heritage",
+          "seo_keywords": [
+            "Abbey of Saint Thomas",
+            "Brno",
+            "Czech Republic",
+            "church",
+            "tourist attraction",
+            "South Moravian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "religious",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Špilberk Castle",
+            "Moravian Museum",
+            "Cathedral of St. Peter and Paul"
+          ]
+        },
+        {
+          "name": "Lužánky Park",
+          "wiki_title": "Lužánky",
+          "lat": 49.2025,
+          "lng": 16.605,
+          "order_index": 6,
+          "seo_phrase": "Lužánky Park in Brno | historic park walks",
+          "seo_keywords": [
+            "Lužánky Park",
+            "Brno",
+            "Czech Republic",
+            "park",
+            "tourist attraction",
+            "South Moravian Region"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Villa Tugendhat",
+            "Moravian Museum",
+            "Špilberk Castle"
+          ]
+        },
+        {
+          "name": "Old Town Hall, Brno",
+          "wiki_title": "Old Town Hall, Brno",
+          "lat": 49.194,
+          "lng": 16.6087,
+          "order_index": 7,
+          "seo_phrase": "Old Town Hall, Brno in Brno | tower, legends, and old civic life",
+          "seo_keywords": [
+            "Old Town Hall, Brno",
+            "Brno",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "South Moravian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Cathedral of St. Peter and Paul",
+            "Moravian Museum"
+          ],
+          "maps_query": "Old Town Hall Brno, Czech Republic"
+        },
+        {
+          "name": "Brno Reservoir",
+          "wiki_title": "Brno Reservoir",
+          "lat": 49.2317,
+          "lng": 16.5217,
+          "order_index": 8,
+          "seo_phrase": "Brno Reservoir day trip",
+          "seo_keywords": [
+            "Brno",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "South Moravian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Cathedral of St. Peter and Paul",
+            "Moravian Museum"
+          ],
+          "description": "The Brno Reservoir (Brněnská přehrada) is a popular lake escape with walking paths, boat rides, and forested shores just outside the city."
+        },
+        {
+          "name": "Moravian Gallery in Brno",
+          "wiki_title": "Moravian Gallery in Brno",
+          "lat": 49.1949,
+          "lng": 16.6062,
+          "order_index": 9,
+          "seo_phrase": "Moravian Gallery in Brno in Brno | art routes through central Brno",
+          "seo_keywords": [
+            "Moravian Gallery in Brno",
+            "Brno",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "South Moravian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Moravian Museum",
+            "Old Town Hall, Brno",
+            "Villa Tugendhat"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Český Krumlov",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "religious"
+      ],
+      "wiki_title": "Český Krumlov",
+      "seo": {
+        "title": "Top 10 Things to Do in Český Krumlov, Czech Republic",
+        "description": "Discover 10 must-see landmarks in Český Krumlov, Czech Republic. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Český Krumlov? Explore the best places to visit in Český Krumlov, Czech Republic.",
+        "keywords": [
+          "things to do in Český Krumlov",
+          "Český Krumlov Czech Republic travel guide",
+          "best places to visit in Český Krumlov",
+          "Český Krumlov landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Český Krumlov Castle",
+          "wiki_title": "Český Krumlov Castle",
+          "lat": 48.8128,
+          "lng": 14.3184,
+          "order_index": 0,
+          "seo_phrase": "Český Krumlov Castle in Český Krumlov | storybook castle terraces",
+          "seo_keywords": [
+            "Český Krumlov Castle",
+            "Český Krumlov",
+            "Czech Republic",
+            "castle",
+            "tourist attraction",
+            "South Bohemian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Castle Garden",
+            "Cloak Bridge",
+            "Church of St. Vitus"
+          ]
+        },
+        {
+          "name": "Castle Garden",
+          "wiki_title": "Castle Garden, Český Krumlov",
+          "lat": 48.8132,
+          "lng": 14.32,
+          "order_index": 1,
+          "seo_phrase": "Castle Garden in Český Krumlov | formal gardens above the town",
+          "seo_keywords": [
+            "Castle Garden",
+            "Český Krumlov",
+            "Czech Republic",
+            "park",
+            "tourist attraction",
+            "South Bohemian Region"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Český Krumlov Castle",
+            "Cloak Bridge",
+            "Egon Schiele Art Centrum"
+          ]
+        },
+        {
+          "name": "Cloak Bridge",
+          "wiki_title": "Cloak Bridge",
+          "lat": 48.8129,
+          "lng": 14.3207,
+          "order_index": 2,
+          "seo_phrase": "Cloak Bridge in Český Krumlov | layered views across the castle",
+          "seo_keywords": [
+            "Cloak Bridge",
+            "Český Krumlov",
+            "Czech Republic",
+            "bridge",
+            "tourist attraction",
+            "South Bohemian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Český Krumlov Castle",
+            "Castle Garden",
+            "Church of St. Vitus"
+          ]
+        },
+        {
+          "name": "Church of St. Vitus, Český Krumlov",
+          "wiki_title": "Church of St. Vitus, Český Krumlov",
+          "lat": 48.8125,
+          "lng": 14.318,
+          "order_index": 3,
+          "seo_phrase": "Church of St. Vitus, Český Krumlov in Český Krumlov | slender Gothic town silhouette",
+          "seo_keywords": [
+            "Church of St. Vitus, Český Krumlov",
+            "Český Krumlov",
+            "Czech Republic",
+            "church",
+            "tourist attraction",
+            "South Bohemian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Český Krumlov Castle",
+            "Regional Museum in Český Krumlov",
+            "Latran"
+          ]
+        },
+        {
+          "name": "Egon Schiele Art Centrum",
+          "wiki_title": "Egon Schiele Art Centrum",
+          "lat": 48.8122,
+          "lng": 14.3148,
+          "order_index": 4,
+          "seo_phrase": "Egon Schiele Art Centrum in Český Krumlov | art-focused riverside stop",
+          "seo_keywords": [
+            "Egon Schiele Art Centrum",
+            "Český Krumlov",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "South Bohemian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Regional Museum in Český Krumlov",
+            "Museum Fotoatelier Seidel",
+            "Cloak Bridge"
+          ]
+        },
+        {
+          "name": "Regional Museum in Český Krumlov",
+          "wiki_title": "Regional Museum in Český Krumlov",
+          "lat": 48.8127,
+          "lng": 14.3202,
+          "order_index": 5,
+          "seo_phrase": "Regional Museum in Český Krumlov in Český Krumlov | local history told with precision",
+          "seo_keywords": [
+            "Regional Museum in Český Krumlov",
+            "Český Krumlov",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "South Bohemian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Church of St. Vitus, Český Krumlov",
+            "Egon Schiele Art Centrum",
+            "Castle Garden"
+          ]
+        },
+        {
+          "name": "Museum Fotoatelier Seidel",
+          "wiki_title": "Museum Fotoatelier Seidel",
+          "lat": 48.812,
+          "lng": 14.3144,
+          "order_index": 6,
+          "seo_phrase": "Museum Fotoatelier Seidel in Český Krumlov | photo history in a preserved atelier",
+          "seo_keywords": [
+            "Museum Fotoatelier Seidel",
+            "Český Krumlov",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "South Bohemian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Egon Schiele Art Centrum",
+            "Church of St. Vitus, Český Krumlov",
+            "Český Krumlov Castle"
+          ]
+        },
+        {
+          "name": "Latran",
+          "wiki_title": "Latrán, Český Krumlov",
+          "lat": 48.8119,
+          "lng": 14.316,
+          "order_index": 7,
+          "seo_phrase": "Latran in Český Krumlov | lanes that feel lived-in, not staged",
+          "seo_keywords": [
+            "Latran",
+            "Český Krumlov",
+            "Czech Republic",
+            "square",
+            "tourist attraction",
+            "South Bohemian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Český Krumlov Castle",
+            "Church of St. Vitus, Český Krumlov",
+            "Cloak Bridge"
+          ]
+        },
+        {
+          "name": "Minorite Monastery, Český Krumlov",
+          "wiki_title": "Minorite Monastery, Český Krumlov",
+          "lat": 48.8117,
+          "lng": 14.3138,
+          "order_index": 8,
+          "seo_phrase": "Minorite Monastery, Český Krumlov in Český Krumlov | quiet cloister atmosphere",
+          "seo_keywords": [
+            "Minorite Monastery, Český Krumlov",
+            "Český Krumlov",
+            "Czech Republic",
+            "church",
+            "tourist attraction",
+            "South Bohemian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Egon Schiele Art Centrum",
+            "Museum Fotoatelier Seidel",
+            "Český Krumlov Castle"
+          ]
+        },
+        {
+          "name": "St. Jost Church, Český Krumlov",
+          "wiki_title": "St. Jost Church, Český Krumlov",
+          "lat": 48.8115,
+          "lng": 14.3173,
+          "order_index": 9,
+          "seo_phrase": "St. Jost Church, Český Krumlov in Český Krumlov | small chapel feel with old-town charm",
+          "seo_keywords": [
+            "St. Jost Church, Český Krumlov",
+            "Český Krumlov",
+            "Czech Republic",
+            "church",
+            "tourist attraction",
+            "South Bohemian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Český Krumlov Castle",
+            "Latran",
+            "Cloak Bridge"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Kutná Hora",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "religious",
+        "culture"
+      ],
+      "wiki_title": "Kutná Hora",
+      "seo": {
+        "title": "Top 10 Things to Do in Kutná Hora, Czech Republic",
+        "description": "Discover 10 must-see landmarks in Kutná Hora, Czech Republic. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Kutná Hora? Explore the best places to visit in Kutná Hora, Czech Republic.",
+        "keywords": [
+          "things to do in Kutná Hora",
+          "Kutná Hora Czech Republic travel guide",
+          "best places to visit in Kutná Hora",
+          "Kutná Hora landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "St. Barbara's Church",
+          "wiki_title": "St. Barbara's Church, Kutná Hora",
+          "lat": 49.9486,
+          "lng": 15.269,
+          "order_index": 0,
+          "seo_phrase": "St. Barbara's Church in Kutná Hora | late Gothic stonework and height",
+          "seo_keywords": [
+            "St. Barbara's Church",
+            "Kutná Hora",
+            "Czech Republic",
+            "church",
+            "tourist attraction",
+            "Central Bohemian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Italian Court",
+            "Jesuit College, Kutná Hora",
+            "Czech Museum of Silver"
+          ]
+        },
+        {
+          "name": "Kutná Hora Town House",
+          "wiki_title": "Kutná Hora Town House",
+          "lat": 49.9494,
+          "lng": 15.2631,
+          "order_index": 1,
+          "seo_phrase": "Kutná Hora Town House",
+          "seo_keywords": [
+            "Kutná Hora",
+            "Czech Republic",
+            "church",
+            "tourist attraction",
+            "Central Bohemian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Cathedral of the Assumption of Our Lady and Saint John the Baptist",
+            "St. Barbara's Church",
+            "Italian Court"
+          ],
+          "description": "The Gothic town house on Palackého Square anchors Kutná Hora’s historic centre with ornate facades and a strong medieval civic presence."
+        },
+        {
+          "name": "Italian Court",
+          "wiki_title": "Italian Court, Kutná Hora",
+          "lat": 49.9477,
+          "lng": 15.2678,
+          "order_index": 2,
+          "seo_phrase": "Italian Court in Kutná Hora | royal mint heritage and civic power",
+          "seo_keywords": [
+            "Italian Court",
+            "Kutná Hora",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Central Bohemian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Barbara's Church",
+            "Czech Museum of Silver",
+            "Hrádek, Kutná Hora"
+          ]
+        },
+        {
+          "name": "Czech Museum of Silver",
+          "wiki_title": "Czech Museum of Silver",
+          "lat": 49.9483,
+          "lng": 15.2672,
+          "order_index": 3,
+          "seo_phrase": "Czech Museum of Silver in Kutná Hora | mining history in context",
+          "seo_keywords": [
+            "Czech Museum of Silver",
+            "Kutná Hora",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Central Bohemian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Italian Court",
+            "St. Barbara's Church",
+            "Hrádek, Kutná Hora"
+          ]
+        },
+        {
+          "name": "Hrádek, Kutná Hora",
+          "wiki_title": "Hrádek, Kutná Hora",
+          "lat": 49.948,
+          "lng": 15.2667,
+          "order_index": 4,
+          "seo_phrase": "Hrádek, Kutná Hora in Kutná Hora | silver town interpretation with depth",
+          "seo_keywords": [
+            "Hrádek, Kutná Hora",
+            "Kutná Hora",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Central Bohemian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Czech Museum of Silver",
+            "Italian Court",
+            "St. Barbara's Church"
+          ]
+        },
+        {
+          "name": "Jesuit College, Kutná Hora",
+          "wiki_title": "Jesuit College, Kutná Hora",
+          "lat": 49.9489,
+          "lng": 15.2696,
+          "order_index": 5,
+          "seo_phrase": "Jesuit College, Kutná Hora in Kutná Hora | baroque bulk above the town",
+          "seo_keywords": [
+            "Jesuit College, Kutná Hora",
+            "Kutná Hora",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Central Bohemian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Barbara's Church",
+            "Italian Court",
+            "Gallery of the Central Bohemian Region"
+          ]
+        },
+        {
+          "name": "Stone House, Kutná Hora",
+          "wiki_title": "Stone House, Kutná Hora",
+          "lat": 49.9478,
+          "lng": 15.2687,
+          "order_index": 6,
+          "seo_phrase": "Stone House, Kutná Hora in Kutná Hora | urban detail that feels tactile",
+          "seo_keywords": [
+            "Stone House, Kutná Hora",
+            "Kutná Hora",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Central Bohemian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Italian Court",
+            "St. Barbara's Church",
+            "Czech Museum of Silver"
+          ]
+        },
+        {
+          "name": "Church of St. James, Kutná Hora",
+          "wiki_title": "Church of St. James, Kutná Hora",
+          "lat": 49.9487,
+          "lng": 15.2678,
+          "order_index": 7,
+          "seo_phrase": "Church of St. James, Kutná Hora in Kutná Hora | compact church stop near the center",
+          "seo_keywords": [
+            "Church of St. James, Kutná Hora",
+            "Kutná Hora",
+            "Czech Republic",
+            "church",
+            "tourist attraction",
+            "Central Bohemian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Barbara's Church",
+            "Italian Court",
+            "Hrádek, Kutná Hora"
+          ]
+        },
+        {
+          "name": "Sankturin House",
+          "wiki_title": "Sankturin House, Kutná Hora",
+          "lat": 49.9479,
+          "lng": 15.2675,
+          "order_index": 8,
+          "seo_phrase": "Sankturin House in Kutná Hora | Renaissance house detail in the square",
+          "seo_keywords": [
+            "Sankturin House",
+            "Kutná Hora",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Central Bohemian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Italian Court",
+            "St. Barbara's Church",
+            "Hrádek, Kutná Hora"
+          ]
+        },
+        {
+          "name": "Cathedral of the Assumption of Our Lady and Saint John the Baptist",
+          "wiki_title": "Cathedral of the Assumption of Our Lady and Saint John the Baptist, Sedlec",
+          "lat": 49.9608,
+          "lng": 15.2872,
+          "order_index": 9,
+          "seo_phrase": "Cathedral of the Assumption of Our Lady and Saint John the Baptist in Kutná Hora | monastic grandeur in Sedlec",
+          "seo_keywords": [
+            "Cathedral of the Assumption of Our Lady and Saint John the Baptist",
+            "Kutná Hora",
+            "Czech Republic",
+            "church",
+            "tourist attraction",
+            "Central Bohemian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Barbara's Church",
+            "Italian Court"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Karlovy Vary",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Karlovy Vary",
+      "seo": {
+        "title": "Top 10 Things to Do in Karlovy Vary, Czech Republic",
+        "description": "Discover 10 must-see landmarks in Karlovy Vary, Czech Republic. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Karlovy Vary? Explore the best places to visit in Karlovy Vary, Czech Republic.",
+        "keywords": [
+          "things to do in Karlovy Vary",
+          "Karlovy Vary Czech Republic travel guide",
+          "best places to visit in Karlovy Vary",
+          "Karlovy Vary landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Mill Colonnade",
+          "wiki_title": "Mill Colonnade",
+          "lat": 50.2237,
+          "lng": 12.8811,
+          "order_index": 0,
+          "seo_phrase": "Mill Colonnade in Karlovy Vary | spa architecture and spring access",
+          "seo_keywords": [
+            "Mill Colonnade",
+            "Karlovy Vary",
+            "Czech Republic",
+            "square",
+            "tourist attraction",
+            "Karlovy Vary Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Hot Spring Colonnade",
+            "Market Colonnade",
+            "Diana Observation Tower"
+          ]
+        },
+        {
+          "name": "Vřídlo",
+          "wiki_title": "Vřídlo",
+          "lat": 50.2239,
+          "lng": 12.8817,
+          "order_index": 1,
+          "seo_phrase": "Vřídlo in Karlovy Vary | thermal spring in the spa center",
+          "seo_keywords": [
+            "Vřídlo",
+            "Karlovy Vary",
+            "Czech Republic",
+            "landmark",
+            "tourist attraction",
+            "Karlovy Vary Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mill Colonnade",
+            "Market Colonnade",
+            "Diana Observation Tower"
+          ]
+        },
+        {
+          "name": "Market Colonnade",
+          "wiki_title": "Market Colonnade",
+          "lat": 50.2235,
+          "lng": 12.8819,
+          "order_index": 2,
+          "seo_phrase": "Market Colonnade in Karlovy Vary | wood-and-glass spa promenade",
+          "seo_keywords": [
+            "Market Colonnade",
+            "Karlovy Vary",
+            "Czech Republic",
+            "square",
+            "tourist attraction",
+            "Karlovy Vary Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Hot Spring Colonnade",
+            "Mill Colonnade",
+            "Diana Observation Tower"
+          ]
+        },
+        {
+          "name": "Diana Observation Tower",
+          "wiki_title": "Diana Observation Tower",
+          "lat": 50.2274,
+          "lng": 12.878,
+          "order_index": 3,
+          "seo_phrase": "Diana Observation Tower in Karlovy Vary | forest lift plus sweeping outlook",
+          "seo_keywords": [
+            "Diana Observation Tower",
+            "Karlovy Vary",
+            "Czech Republic",
+            "viewpoint",
+            "tourist attraction",
+            "Karlovy Vary Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mill Colonnade",
+            "Hot Spring Colonnade",
+            "Jan Becher Museum"
+          ]
+        },
+        {
+          "name": "Jan Becher Museum",
+          "wiki_title": "Jan Becher Museum",
+          "lat": 50.2248,
+          "lng": 12.8789,
+          "order_index": 4,
+          "seo_phrase": "Jan Becher Museum in Karlovy Vary | heritage brand storytelling",
+          "seo_keywords": [
+            "Jan Becher Museum",
+            "Karlovy Vary",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Karlovy Vary Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Mill Colonnade",
+            "Hot Spring Colonnade",
+            "Diana Observation Tower"
+          ]
+        },
+        {
+          "name": "St. Mary Magdalene Church, Karlovy Vary",
+          "wiki_title": "Church of Saint Mary Magdalene, Karlovy Vary",
+          "lat": 50.2234,
+          "lng": 12.8809,
+          "order_index": 5,
+          "seo_phrase": "St. Mary Magdalene Church, Karlovy Vary in Karlovy Vary | baroque church above the spa core",
+          "seo_keywords": [
+            "St. Mary Magdalene Church, Karlovy Vary",
+            "Karlovy Vary",
+            "Czech Republic",
+            "church",
+            "tourist attraction",
+            "Karlovy Vary Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Hot Spring Colonnade",
+            "Mill Colonnade",
+            "Diana Observation Tower"
+          ]
+        },
+        {
+          "name": "Grandhotel Pupp",
+          "wiki_title": "Grandhotel Pupp",
+          "lat": 50.2231,
+          "lng": 12.8847,
+          "order_index": 6,
+          "seo_phrase": "Grandhotel Pupp in Karlovy Vary | classic luxury landmark atmosphere",
+          "seo_keywords": [
+            "Grandhotel Pupp",
+            "Karlovy Vary",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Karlovy Vary Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mill Colonnade",
+            "Diana Observation Tower",
+            "Jan Becher Museum"
+          ]
+        },
+        {
+          "name": "Smetana Gardens",
+          "wiki_title": "Smetana Gardens, Karlovy Vary",
+          "lat": 50.2238,
+          "lng": 12.8828,
+          "order_index": 7,
+          "seo_phrase": "Smetana Gardens in Karlovy Vary | calm greenery near the river",
+          "seo_keywords": [
+            "Smetana Gardens",
+            "Karlovy Vary",
+            "Czech Republic",
+            "park",
+            "tourist attraction",
+            "Karlovy Vary Region"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mill Colonnade",
+            "Hot Spring Colonnade",
+            "Market Colonnade"
+          ]
+        },
+        {
+          "name": "Karlovy Vary Museum",
+          "wiki_title": "Karlovy Vary Museum",
+          "lat": 50.231,
+          "lng": 12.8722,
+          "order_index": 8,
+          "seo_phrase": "Karlovy Vary Museum in Karlovy Vary | regional identity through objects",
+          "seo_keywords": [
+            "Karlovy Vary Museum",
+            "Karlovy Vary",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Karlovy Vary Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Diana Observation Tower",
+            "Mill Colonnade",
+            "Jan Becher Museum"
+          ]
+        },
+        {
+          "name": "Goethe's Lookout",
+          "wiki_title": "Goethe's Lookout",
+          "lat": 50.2268,
+          "lng": 12.8762,
+          "order_index": 9,
+          "seo_phrase": "Goethe's Lookout in Karlovy Vary | quiet hilltop panorama",
+          "seo_keywords": [
+            "Goethe's Lookout",
+            "Karlovy Vary",
+            "Czech Republic",
+            "viewpoint",
+            "tourist attraction",
+            "Karlovy Vary Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Diana Observation Tower",
+            "Mill Colonnade",
+            "Grandhotel Pupp"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Olomouc",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "religious",
+        "history"
+      ],
+      "wiki_title": "Olomouc",
+      "seo": {
+        "title": "Top 10 Things to Do in Olomouc, Czech Republic",
+        "description": "Discover 10 must-see landmarks in Olomouc, Czech Republic. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Olomouc? Explore the best places to visit in Olomouc, Czech Republic.",
+        "keywords": [
+          "things to do in Olomouc",
+          "Olomouc Czech Republic travel guide",
+          "best places to visit in Olomouc",
+          "Olomouc landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Holy Trinity Column",
+          "wiki_title": "Holy Trinity Column in Olomouc",
+          "lat": 49.5937,
+          "lng": 17.2504,
+          "order_index": 0,
+          "seo_phrase": "Holy Trinity Column in Olomouc | UNESCO baroque centerpiece",
+          "seo_keywords": [
+            "Holy Trinity Column",
+            "Olomouc",
+            "Czech Republic",
+            "square",
+            "tourist attraction",
+            "Olomouc Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Upper Square",
+            "Olomouc Astronomical Clock",
+            "St. Wenceslas Cathedral"
+          ]
+        },
+        {
+          "name": "Olomouc Astronomical Clock",
+          "wiki_title": "Olomouc Astronomical Clock",
+          "lat": 49.5938,
+          "lng": 17.2509,
+          "order_index": 1,
+          "seo_phrase": "Olomouc Astronomical Clock in Olomouc | animated socialist-era clock face",
+          "seo_keywords": [
+            "Olomouc Astronomical Clock",
+            "Olomouc",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Olomouc Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Holy Trinity Column",
+            "Upper Square",
+            "Lower Square"
+          ]
+        },
+        {
+          "name": "St. Wenceslas Cathedral",
+          "wiki_title": "St. Wenceslas Cathedral, Olomouc",
+          "lat": 49.5941,
+          "lng": 17.2517,
+          "order_index": 2,
+          "seo_phrase": "St. Wenceslas Cathedral in Olomouc | cathedral scale with sharp vertical lines",
+          "seo_keywords": [
+            "St. Wenceslas Cathedral",
+            "Olomouc",
+            "Czech Republic",
+            "church",
+            "tourist attraction",
+            "Olomouc Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Holy Trinity Column",
+            "Archbishop's Palace, Olomouc",
+            "Upper Square"
+          ]
+        },
+        {
+          "name": "Upper Square, Olomouc",
+          "wiki_title": "Horní náměstí, Olomouc",
+          "lat": 49.5936,
+          "lng": 17.2503,
+          "order_index": 3,
+          "seo_phrase": "Upper Square, Olomouc in Olomouc | historic square with easy pacing",
+          "seo_keywords": [
+            "Upper Square, Olomouc",
+            "Olomouc",
+            "Czech Republic",
+            "square",
+            "tourist attraction",
+            "Olomouc Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Holy Trinity Column",
+            "Olomouc Astronomical Clock",
+            "Lower Square"
+          ]
+        },
+        {
+          "name": "Lower Square, Olomouc",
+          "wiki_title": "Dolní náměstí, Olomouc",
+          "lat": 49.5939,
+          "lng": 17.2495,
+          "order_index": 4,
+          "seo_phrase": "Lower Square, Olomouc in Olomouc | more intimate square atmosphere",
+          "seo_keywords": [
+            "Lower Square, Olomouc",
+            "Olomouc",
+            "Czech Republic",
+            "square",
+            "tourist attraction",
+            "Olomouc Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Holy Trinity Column",
+            "Olomouc Astronomical Clock",
+            "Archbishop's Palace, Olomouc"
+          ]
+        },
+        {
+          "name": "Archbishop's Palace, Olomouc",
+          "wiki_title": "Archbishop's Palace, Olomouc",
+          "lat": 49.5942,
+          "lng": 17.2514,
+          "order_index": 5,
+          "seo_phrase": "Archbishop's Palace, Olomouc in Olomouc | ceremonial interiors and courtly memory",
+          "seo_keywords": [
+            "Archbishop's Palace, Olomouc",
+            "Olomouc",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Olomouc Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Wenceslas Cathedral",
+            "Holy Trinity Column",
+            "Upper Square"
+          ]
+        },
+        {
+          "name": "Olomouc Museum of Art",
+          "wiki_title": "Olomouc Museum of Art",
+          "lat": 49.5927,
+          "lng": 17.25,
+          "order_index": 6,
+          "seo_phrase": "Olomouc Museum of Art in Olomouc | modern collections inside the old city",
+          "seo_keywords": [
+            "Olomouc Museum of Art",
+            "Olomouc",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Olomouc Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Holy Trinity Column",
+            "Upper Square",
+            "St. Michael's Church, Olomouc"
+          ]
+        },
+        {
+          "name": "St. Michael's Church, Olomouc",
+          "wiki_title": "St. Michael's Church, Olomouc",
+          "lat": 49.594,
+          "lng": 17.249,
+          "order_index": 7,
+          "seo_phrase": "St. Michael's Church, Olomouc in Olomouc | three-domed Baroque profile",
+          "seo_keywords": [
+            "St. Michael's Church, Olomouc",
+            "Olomouc",
+            "Czech Republic",
+            "church",
+            "tourist attraction",
+            "Olomouc Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Holy Trinity Column",
+            "Upper Square",
+            "Olomouc Museum of Art"
+          ]
+        },
+        {
+          "name": "Fort Science",
+          "wiki_title": "Fort Science",
+          "lat": 49.5977,
+          "lng": 17.2477,
+          "order_index": 8,
+          "seo_phrase": "Fort Science in Olomouc | interactive science inside old fortifications",
+          "seo_keywords": [
+            "Fort Science",
+            "Olomouc",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Olomouc Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Holy Trinity Column",
+            "St. Wenceslas Cathedral",
+            "Olomouc Museum of Art"
+          ]
+        },
+        {
+          "name": "Bezručovy sady",
+          "wiki_title": "Bezručovy sady, Olomouc",
+          "lat": 49.5948,
+          "lng": 17.2481,
+          "order_index": 9,
+          "seo_phrase": "Bezručovy sady in Olomouc | easy park walk beside the historic core",
+          "seo_keywords": [
+            "Bezručovy sady",
+            "Olomouc",
+            "Czech Republic",
+            "park",
+            "tourist attraction",
+            "Olomouc Region"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Holy Trinity Column",
+            "St. Wenceslas Cathedral",
+            "Upper Square"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Plzeň",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "religious",
+        "culture"
+      ],
+      "wiki_title": "Plzeň",
+      "seo": {
+        "title": "Top 10 Things to Do in Plzeň, Czech Republic",
+        "description": "Discover 10 must-see landmarks in Plzeň, Czech Republic. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Plzeň? Explore the best places to visit in Plzeň, Czech Republic.",
+        "keywords": [
+          "things to do in Plzeň",
+          "Plzeň Czech Republic travel guide",
+          "best places to visit in Plzeň",
+          "Plzeň landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Pilsner Urquell Brewery",
+          "wiki_title": "Pilsner Urquell Brewery",
+          "lat": 49.7403,
+          "lng": 13.3815,
+          "order_index": 0,
+          "seo_phrase": "Pilsner Urquell Brewery in Plzeň | brewery heritage and guided tastings",
+          "seo_keywords": [
+            "Pilsner Urquell Brewery",
+            "Plzeň",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Plzeň Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Bartholomew's Cathedral",
+            "Great Synagogue, Plzeň",
+            "Republic Square, Plzeň"
+          ]
+        },
+        {
+          "name": "St. Bartholomew's Cathedral",
+          "wiki_title": "St. Bartholomew's Cathedral, Plzeň",
+          "lat": 49.7418,
+          "lng": 13.3771,
+          "order_index": 1,
+          "seo_phrase": "St. Bartholomew's Cathedral in Plzeň | tall Gothic tower over the square",
+          "seo_keywords": [
+            "St. Bartholomew's Cathedral",
+            "Plzeň",
+            "Czech Republic",
+            "church",
+            "tourist attraction",
+            "Plzeň Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Republic Square",
+            "Great Synagogue, Plzeň",
+            "Pilsner Urquell Brewery"
+          ]
+        },
+        {
+          "name": "Great Synagogue, Plzeň",
+          "wiki_title": "Great Synagogue, Plzeň",
+          "lat": 49.7412,
+          "lng": 13.3791,
+          "order_index": 2,
+          "seo_phrase": "Great Synagogue, Plzeň in Plzeň | striking Moorish Revival exterior",
+          "seo_keywords": [
+            "Great Synagogue, Plzeň",
+            "Plzeň",
+            "Czech Republic",
+            "church",
+            "tourist attraction",
+            "Plzeň Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Bartholomew's Cathedral",
+            "Republic Square, Plzeň",
+            "Pilsner Urquell Brewery"
+          ]
+        },
+        {
+          "name": "Republic Square, Plzeň",
+          "wiki_title": "Republic Square, Plzeň",
+          "lat": 49.7416,
+          "lng": 13.3777,
+          "order_index": 3,
+          "seo_phrase": "Republic Square, Plzeň in Plzeň | central square with room to breathe",
+          "seo_keywords": [
+            "Republic Square, Plzeň",
+            "Plzeň",
+            "Czech Republic",
+            "square",
+            "tourist attraction",
+            "Plzeň Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Bartholomew's Cathedral",
+            "Great Synagogue, Plzeň",
+            "Bishop's residence, Plzeň"
+          ]
+        },
+        {
+          "name": "Techmania Science Center",
+          "wiki_title": "Techmania Science Center",
+          "lat": 49.7388,
+          "lng": 13.3636,
+          "order_index": 4,
+          "seo_phrase": "Techmania Science Center in Plzeň | hands-on science for all ages",
+          "seo_keywords": [
+            "Techmania Science Center",
+            "Plzeň",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Plzeň Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Pilsner Urquell Brewery",
+            "St. Bartholomew's Cathedral",
+            "Zoo and Botanical Garden, Plzeň"
+          ]
+        },
+        {
+          "name": "Brewery Museum",
+          "wiki_title": "Brewery Museum",
+          "lat": 49.7425,
+          "lng": 13.381,
+          "order_index": 5,
+          "seo_phrase": "Brewery Museum in Plzeň | local brewing history in context",
+          "seo_keywords": [
+            "Brewery Museum",
+            "Plzeň",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Plzeň Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Pilsner Urquell Brewery",
+            "Republic Square, Plzeň",
+            "St. Bartholomew's Cathedral"
+          ]
+        },
+        {
+          "name": "Patton Memorial Pilsen",
+          "wiki_title": "Patton Memorial Pilsen",
+          "lat": 49.7428,
+          "lng": 13.3819,
+          "order_index": 6,
+          "seo_phrase": "Patton Memorial Pilsen in Plzeň | war history told through the city lens",
+          "seo_keywords": [
+            "Patton Memorial Pilsen",
+            "Plzeň",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Plzeň Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Republic Square, Plzeň",
+            "St. Bartholomew's Cathedral",
+            "Pilsner Urquell Brewery"
+          ]
+        },
+        {
+          "name": "Zoo and Botanical Garden, Plzeň",
+          "wiki_title": "Plzeň Zoo",
+          "lat": 49.754,
+          "lng": 13.3776,
+          "order_index": 7,
+          "seo_phrase": "Zoo and Botanical Garden, Plzeň in Plzeň | zoo plus botanical variety on one site",
+          "seo_keywords": [
+            "Zoo and Botanical Garden, Plzeň",
+            "Plzeň",
+            "Czech Republic",
+            "nature",
+            "tourist attraction",
+            "Plzeň Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Techmania Science Center",
+            "Pilsner Urquell Brewery",
+            "St. Bartholomew's Cathedral"
+          ]
+        },
+        {
+          "name": "Loos Interiors",
+          "wiki_title": "Loos Interiors, Plzeň",
+          "lat": 49.7422,
+          "lng": 13.3748,
+          "order_index": 8,
+          "seo_phrase": "Loos Interiors in Plzeň | architectural interiors for design lovers",
+          "seo_keywords": [
+            "Loos Interiors",
+            "Plzeň",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Plzeň Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Republic Square, Plzeň",
+            "St. Bartholomew's Cathedral",
+            "Pilsner Urquell Brewery"
+          ]
+        },
+        {
+          "name": "Bishop's residence, Plzeň",
+          "wiki_title": "Bishop's residence, Plzeň",
+          "lat": 49.7413,
+          "lng": 13.3775,
+          "order_index": 9,
+          "seo_phrase": "Bishop's residence, Plzeň in Plzeň | ecclesiastical setting beside the cathedral",
+          "seo_keywords": [
+            "Bishop's residence, Plzeň",
+            "Plzeň",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Plzeň Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Bartholomew's Cathedral",
+            "Republic Square, Plzeň",
+            "Great Synagogue, Plzeň"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Liberec",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "culture"
+      ],
+      "wiki_title": "Liberec",
+      "seo": {
+        "title": "Top 10 Things to Do in Liberec, Czech Republic",
+        "description": "Discover 10 must-see landmarks in Liberec, Czech Republic. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Liberec? Explore the best places to visit in Liberec, Czech Republic.",
+        "keywords": [
+          "things to do in Liberec",
+          "Liberec Czech Republic travel guide",
+          "best places to visit in Liberec",
+          "Liberec landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Ještěd",
+          "wiki_title": "Ještěd",
+          "lat": 50.7322,
+          "lng": 14.9849,
+          "order_index": 0,
+          "seo_phrase": "Ještěd in Liberec | futurist mountain summit and tower",
+          "seo_keywords": [
+            "Ještěd",
+            "Liberec",
+            "Czech Republic",
+            "viewpoint",
+            "tourist attraction",
+            "Liberec Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Liberec Zoo",
+            "Botanical Garden Liberec",
+            "Liberec Town Hall"
+          ]
+        },
+        {
+          "name": "Liberec Town Hall",
+          "wiki_title": "Liberec Town Hall",
+          "lat": 50.7674,
+          "lng": 15.0567,
+          "order_index": 1,
+          "seo_phrase": "Liberec Town Hall in Liberec | neo-Renaissance civic landmark",
+          "seo_keywords": [
+            "Liberec Town Hall",
+            "Liberec",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Liberec Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "North Bohemian Museum",
+            "Botanical Garden Liberec",
+            "Ještěd"
+          ]
+        },
+        {
+          "name": "Liberec Zoo",
+          "wiki_title": "Liberec Zoo",
+          "lat": 50.7714,
+          "lng": 15.0681,
+          "order_index": 2,
+          "seo_phrase": "Liberec Zoo in Liberec | compact zoo with strong family appeal",
+          "seo_keywords": [
+            "Liberec Zoo",
+            "Liberec",
+            "Czech Republic",
+            "nature",
+            "tourist attraction",
+            "Liberec Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Botanical Garden Liberec",
+            "Ještěd",
+            "Liberec Town Hall"
+          ]
+        },
+        {
+          "name": "Botanical Garden Liberec",
+          "wiki_title": "Botanical Garden Liberec",
+          "lat": 50.7782,
+          "lng": 15.0669,
+          "order_index": 3,
+          "seo_phrase": "Botanical Garden Liberec in Liberec | plant collections and glasshouse calm",
+          "seo_keywords": [
+            "Botanical Garden Liberec",
+            "Liberec",
+            "Czech Republic",
+            "nature",
+            "tourist attraction",
+            "Liberec Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Liberec Zoo",
+            "Ještěd",
+            "North Bohemian Museum"
+          ]
+        },
+        {
+          "name": "North Bohemian Museum",
+          "wiki_title": "North Bohemian Museum",
+          "lat": 50.7719,
+          "lng": 15.0705,
+          "order_index": 4,
+          "seo_phrase": "North Bohemian Museum in Liberec | regional collections and architecture",
+          "seo_keywords": [
+            "North Bohemian Museum",
+            "Liberec",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Liberec Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Liberec Town Hall",
+            "Ještěd",
+            "Liberec Zoo"
+          ]
+        },
+        {
+          "name": "iQLANDIA",
+          "wiki_title": "iQLANDIA",
+          "lat": 50.7704,
+          "lng": 15.0584,
+          "order_index": 5,
+          "seo_phrase": "iQLANDIA in Liberec | interactive science with strong visual appeal",
+          "seo_keywords": [
+            "iQLANDIA",
+            "Liberec",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Liberec Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Liberec Town Hall",
+            "Ještěd",
+            "Liberec Zoo"
+          ]
+        },
+        {
+          "name": "F. X. Šalda Theatre",
+          "wiki_title": "F. X. Šalda Theatre",
+          "lat": 50.768,
+          "lng": 15.0569,
+          "order_index": 6,
+          "seo_phrase": "F. X. Šalda Theatre in Liberec | culture stop in the city center",
+          "seo_keywords": [
+            "F. X. Šalda Theatre",
+            "Liberec",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Liberec Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Liberec Town Hall",
+            "North Bohemian Museum",
+            "Ještěd"
+          ]
+        },
+        {
+          "name": "Regional Gallery in Liberec",
+          "wiki_title": "Regional Gallery in Liberec",
+          "lat": 50.7694,
+          "lng": 15.0588,
+          "order_index": 7,
+          "seo_phrase": "Regional Gallery in Liberec in Liberec | art visit with a local pulse",
+          "seo_keywords": [
+            "Regional Gallery in Liberec",
+            "Liberec",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Liberec Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Liberec Town Hall",
+            "iQLANDIA",
+            "North Bohemian Museum"
+          ]
+        },
+        {
+          "name": "Bedřich Smetana Theatre",
+          "wiki_title": "Bedřich Smetana Theatre",
+          "lat": 50.7662,
+          "lng": 15.0571,
+          "order_index": 8,
+          "seo_phrase": "Bedřich Smetana Theatre in Liberec | smaller stage option in central Liberec",
+          "seo_keywords": [
+            "Bedřich Smetana Theatre",
+            "Liberec",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Liberec Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Liberec Town Hall",
+            "North Bohemian Museum",
+            "Ještěd"
+          ]
+        },
+        {
+          "name": "Ski resort Ještěd",
+          "wiki_title": "Ještěd Ski Resort",
+          "lat": 50.7357,
+          "lng": 14.9838,
+          "order_index": 9,
+          "seo_phrase": "Ski resort Ještěd in Liberec | winter movement with skyline views",
+          "seo_keywords": [
+            "Ski resort Ještěd",
+            "Liberec",
+            "Czech Republic",
+            "ski",
+            "tourist attraction",
+            "Liberec Region"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Ještěd",
+            "Liberec Zoo",
+            "Botanical Garden Liberec"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Hradec Králové",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "religious"
+      ],
+      "wiki_title": "Hradec Králové",
+      "seo": {
+        "title": "Top 10 Things to Do in Hradec Králové, Czech Republic",
+        "description": "Discover 10 must-see landmarks in Hradec Králové, Czech Republic. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Hradec Králové? Explore the best places to visit in Hradec Králové, Czech Republic.",
+        "keywords": [
+          "things to do in Hradec Králové",
+          "Hradec Králové Czech Republic travel guide",
+          "best places to visit in Hradec Králové",
+          "Hradec Králové landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "White Tower",
+          "wiki_title": "White Tower, Hradec Králové",
+          "lat": 50.2087,
+          "lng": 15.8326,
+          "order_index": 0,
+          "seo_phrase": "White Tower in Hradec Králové | climbable tower over the historic core",
+          "seo_keywords": [
+            "White Tower",
+            "Hradec Králové",
+            "Czech Republic",
+            "viewpoint",
+            "tourist attraction",
+            "Hradec Králové Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Cathedral of the Holy Spirit",
+            "Great Square, Hradec Králové",
+            "East Bohemian Museum"
+          ]
+        },
+        {
+          "name": "Cathedral of the Holy Spirit",
+          "wiki_title": "Cathedral of the Holy Spirit, Hradec Králové",
+          "lat": 50.2082,
+          "lng": 15.8331,
+          "order_index": 1,
+          "seo_phrase": "Cathedral of the Holy Spirit in Hradec Králové | brick Gothic presence on the square",
+          "seo_keywords": [
+            "Cathedral of the Holy Spirit",
+            "Hradec Králové",
+            "Czech Republic",
+            "church",
+            "tourist attraction",
+            "Hradec Králové Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "White Tower",
+            "Great Square, Hradec Králové",
+            "East Bohemian Museum"
+          ]
+        },
+        {
+          "name": "Great Square, Hradec Králové",
+          "wiki_title": "Great Square, Hradec Králové",
+          "lat": 50.2086,
+          "lng": 15.8328,
+          "order_index": 2,
+          "seo_phrase": "Great Square, Hradec Králové in Hradec Králové | calm central square for a city pause",
+          "seo_keywords": [
+            "Great Square, Hradec Králové",
+            "Hradec Králové",
+            "Czech Republic",
+            "square",
+            "tourist attraction",
+            "Hradec Králové Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "White Tower",
+            "Cathedral of the Holy Spirit",
+            "East Bohemian Museum"
+          ]
+        },
+        {
+          "name": "East Bohemian Museum",
+          "wiki_title": "East Bohemian Museum",
+          "lat": 50.2092,
+          "lng": 15.8324,
+          "order_index": 3,
+          "seo_phrase": "East Bohemian Museum in Hradec Králové | museum architecture with strong presence",
+          "seo_keywords": [
+            "East Bohemian Museum",
+            "Hradec Králové",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Hradec Králové Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "White Tower",
+            "Cathedral of the Holy Spirit",
+            "Great Square, Hradec Králové"
+          ]
+        },
+        {
+          "name": "Gallery of Modern Art, Hradec Králové",
+          "wiki_title": "Gallery of Modern Art, Hradec Králové",
+          "lat": 50.2088,
+          "lng": 15.8321,
+          "order_index": 4,
+          "seo_phrase": "Gallery of Modern Art, Hradec Králové in Hradec Králové | modern art in an easy city-center stop",
+          "seo_keywords": [
+            "Gallery of Modern Art, Hradec Králové",
+            "Hradec Králové",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Hradec Králové Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Great Square, Hradec Králové",
+            "White Tower",
+            "East Bohemian Museum"
+          ]
+        },
+        {
+          "name": "Jirásek Gardens",
+          "wiki_title": "Jirásek Gardens",
+          "lat": 50.208,
+          "lng": 15.8312,
+          "order_index": 5,
+          "seo_phrase": "Jirásek Gardens in Hradec Králové | riverside greenery and promenade feel",
+          "seo_keywords": [
+            "Jirásek Gardens",
+            "Hradec Králové",
+            "Czech Republic",
+            "park",
+            "tourist attraction",
+            "Hradec Králové Region"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "White Tower",
+            "Cathedral of the Holy Spirit",
+            "Great Square, Hradec Králové"
+          ]
+        },
+        {
+          "name": "Bílá věž view terrace",
+          "wiki_title": "White Tower viewing terrace",
+          "lat": 50.2089,
+          "lng": 15.8328,
+          "order_index": 6,
+          "seo_phrase": "Bílá věž view terrace in Hradec Králové | the city seen from above its core",
+          "seo_keywords": [
+            "Bílá věž view terrace",
+            "Hradec Králové",
+            "Czech Republic",
+            "viewpoint",
+            "tourist attraction",
+            "Hradec Králové Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "White Tower",
+            "Cathedral of the Holy Spirit",
+            "Great Square, Hradec Králové"
+          ],
+          "maps_query": "White Tower viewing terrace, Hradec Králové, Czech Republic"
+        },
+        {
+          "name": "Klicperovo Theatre",
+          "wiki_title": "Klicperovo Theatre",
+          "lat": 50.2089,
+          "lng": 15.8336,
+          "order_index": 7,
+          "seo_phrase": "Klicperovo Theatre in Hradec Králové | cultural evening option downtown",
+          "seo_keywords": [
+            "Klicperovo Theatre",
+            "Hradec Králové",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Hradec Králové Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Great Square, Hradec Králové",
+            "White Tower",
+            "Cathedral of the Holy Spirit"
+          ]
+        },
+        {
+          "name": "Synagogue Hradec Králové",
+          "wiki_title": "Synagogue (Hradec Králové)",
+          "lat": 50.2072,
+          "lng": 15.8306,
+          "order_index": 8,
+          "seo_phrase": "Synagogue in Hradec Králové | restored Moorish architecture",
+          "seo_keywords": [
+            "Synagogue Hradec Králové",
+            "Hradec Králové",
+            "Czech Republic",
+            "historic site",
+            "tourist attraction",
+            "Hradec Králové Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Jirásek Gardens",
+            "White Tower",
+            "Great Square, Hradec Králové"
+          ]
+        },
+        {
+          "name": "Park 360",
+          "wiki_title": "Park 360",
+          "lat": 50.201,
+          "lng": 15.843,
+          "order_index": 9,
+          "seo_phrase": "Park 360 in Hradec Králové | open-space events and skyline views",
+          "seo_keywords": [
+            "Park 360",
+            "Hradec Králové",
+            "Czech Republic",
+            "nature",
+            "tourist attraction",
+            "Hradec Králové Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Great Square, Hradec Králové",
+            "White Tower",
+            "Jirásek Gardens"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Ostrava",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "nature"
+      ],
+      "wiki_title": "Ostrava",
+      "seo": {
+        "title": "Top 10 Things to Do in Ostrava, Czech Republic",
+        "description": "Discover 10 must-see landmarks in Ostrava, Czech Republic. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Ostrava? Explore the best places to visit in Ostrava, Czech Republic.",
+        "keywords": [
+          "things to do in Ostrava",
+          "Ostrava Czech Republic travel guide",
+          "best places to visit in Ostrava",
+          "Ostrava landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Dolní Vítkovice",
+          "wiki_title": "Dolní Vítkovice",
+          "lat": 49.8312,
+          "lng": 18.2766,
+          "order_index": 0,
+          "seo_phrase": "Dolní Vítkovice in Ostrava | industrial heritage on a monumental scale",
+          "seo_keywords": [
+            "Dolní Vítkovice",
+            "Ostrava",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Moravian-Silesian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Bolt Tower",
+            "Ostrava City Hall",
+            "Landek Park"
+          ]
+        },
+        {
+          "name": "Bolt Tower",
+          "wiki_title": "Bolt Tower",
+          "lat": 49.8308,
+          "lng": 18.2762,
+          "order_index": 1,
+          "seo_phrase": "Bolt Tower in Ostrava | high-rise panorama from a former blast furnace",
+          "seo_keywords": [
+            "Bolt Tower",
+            "Ostrava",
+            "Czech Republic",
+            "viewpoint",
+            "tourist attraction",
+            "Moravian-Silesian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Dolní Vítkovice",
+            "Ostrava City Hall",
+            "Landek Park"
+          ]
+        },
+        {
+          "name": "Ostrava City Hall",
+          "wiki_title": "Ostrava City Hall",
+          "lat": 49.8369,
+          "lng": 18.292,
+          "order_index": 2,
+          "seo_phrase": "Ostrava City Hall in Ostrava | tower views and civic architecture",
+          "seo_keywords": [
+            "Ostrava City Hall",
+            "Ostrava",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Moravian-Silesian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Dolní Vítkovice",
+            "Ostrava Zoo",
+            "Stodolní Street"
+          ]
+        },
+        {
+          "name": "Ostrava Zoo",
+          "wiki_title": "Ostrava Zoo",
+          "lat": 49.8341,
+          "lng": 18.3102,
+          "order_index": 3,
+          "seo_phrase": "Ostrava Zoo in Ostrava | large zoo with forest feel",
+          "seo_keywords": [
+            "Ostrava Zoo",
+            "Ostrava",
+            "Czech Republic",
+            "nature",
+            "tourist attraction",
+            "Moravian-Silesian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Landek Park",
+            "Dolní Vítkovice",
+            "Bolt Tower"
+          ]
+        },
+        {
+          "name": "Landek Park",
+          "wiki_title": "Landek Park",
+          "lat": 49.8705,
+          "lng": 18.2796,
+          "order_index": 4,
+          "seo_phrase": "Landek Park in Ostrava | mine history set in green space",
+          "seo_keywords": [
+            "Landek Park",
+            "Ostrava",
+            "Czech Republic",
+            "nature",
+            "tourist attraction",
+            "Moravian-Silesian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Dolní Vítkovice",
+            "Ostrava Zoo",
+            "Bolt Tower"
+          ]
+        },
+        {
+          "name": "Silesian Ostrava Castle",
+          "wiki_title": "Silesian Ostrava Castle",
+          "lat": 49.8247,
+          "lng": 18.2814,
+          "order_index": 5,
+          "seo_phrase": "Silesian Ostrava Castle in Ostrava | small castle with river-edge context",
+          "seo_keywords": [
+            "Silesian Ostrava Castle",
+            "Ostrava",
+            "Czech Republic",
+            "castle",
+            "tourist attraction",
+            "Moravian-Silesian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Dolní Vítkovice",
+            "Bolt Tower",
+            "Stodolní Street"
+          ]
+        },
+        {
+          "name": "Stodolní Street",
+          "wiki_title": "Stodolní Street",
+          "lat": 49.8321,
+          "lng": 18.2841,
+          "order_index": 6,
+          "seo_phrase": "Stodolní Street in Ostrava | nightlife strip in the city center",
+          "seo_keywords": [
+            "Stodolní Street",
+            "Ostrava",
+            "Czech Republic",
+            "square",
+            "tourist attraction",
+            "Moravian-Silesian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Dolní Vítkovice",
+            "Ostrava City Hall",
+            "Silesian Ostrava Castle"
+          ]
+        },
+        {
+          "name": "Michal Mine",
+          "wiki_title": "Michal Mine",
+          "lat": 49.8582,
+          "lng": 18.2594,
+          "order_index": 7,
+          "seo_phrase": "Michal Mine in Ostrava | preserved mining machinery and rooms",
+          "seo_keywords": [
+            "Michal Mine",
+            "Ostrava",
+            "Czech Republic",
+            "museum",
+            "tourist attraction",
+            "Moravian-Silesian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Landek Park",
+            "Dolní Vítkovice",
+            "Ostrava Zoo"
+          ]
+        },
+        {
+          "name": "New City Hall, Ostrava",
+          "wiki_title": "New City Hall, Ostrava",
+          "lat": 49.8357,
+          "lng": 18.2929,
+          "order_index": 8,
+          "seo_phrase": "New City Hall, Ostrava in Ostrava | tower climb with broad city outlook",
+          "seo_keywords": [
+            "New City Hall, Ostrava",
+            "Ostrava",
+            "Czech Republic",
+            "viewpoint",
+            "tourist attraction",
+            "Moravian-Silesian Region"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Ostrava City Hall",
+            "Dolní Vítkovice",
+            "Stodolní Street"
+          ]
+        },
+        {
+          "name": "Cathedral of the Divine Saviour",
+          "wiki_title": "Cathedral of the Divine Saviour, Ostrava",
+          "lat": 49.833,
+          "lng": 18.289,
+          "order_index": 9,
+          "seo_phrase": "Cathedral of the Divine Saviour in Ostrava | neo-Gothic riverside landmark",
+          "seo_keywords": [
+            "Cathedral of the Divine Saviour",
+            "Ostrava",
+            "Czech Republic",
+            "church",
+            "tourist attraction",
+            "Moravian-Silesian Region"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "religious",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Ostrava City Hall",
+            "Stodolní Street",
+            "Dolní Vítkovice"
+          ]
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "Czech Republic Nature & Road Trip Adventure",
+    "subtitle": "Explore Czech Republic beyond the cities — parks, coast, and scenic drives.",
+    "wiki_title": "Czech Republic",
+    "totalDays": 10,
+    "seo": {
+      "title": "Czech Republic Road Trip — Nature Adventure Guide",
+      "description": "Plan a Czech Republic road trip with GPS stops, national parks, and scenic routes.",
+      "intro": "Explore Czech Republic beyond the cities with this nature adventure route.",
+      "keywords": [
+        "Czech Republic road trip",
+        "Czech Republic nature",
+        "Czech Republic by car"
+      ]
+    },
+    "places": [
+      {
+        "name": "Bohemian Switzerland National Park",
+        "wiki_title": "Bohemian Switzerland National Park",
+        "region": "Ústí nad Labem Region",
+        "lat": 50.872,
+        "lng": 14.375,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "seo_phrase": "Bohemian Switzerland National Park in Countrywide | sandstone gorges and dramatic trails",
+        "seo_keywords": [
+          "Bohemian Switzerland National Park",
+          "Countrywide",
+          "Czech Republic",
+          "nature",
+          "tourist attraction",
+          "Ústí nad Labem Region"
+        ],
+        "seo_priority": 95,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Šumava National Park",
+        "wiki_title": "Šumava National Park",
+        "region": "South Bohemian Region",
+        "lat": 49.019,
+        "lng": 13.505,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "seo_phrase": "Šumava National Park in Countrywide | deep forests, peat bogs, and long hiking routes",
+        "seo_keywords": [
+          "Šumava National Park",
+          "Countrywide",
+          "Czech Republic",
+          "nature",
+          "tourist attraction",
+          "South Bohemian Region"
+        ],
+        "seo_priority": 95,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Krkonoše National Park",
+        "wiki_title": "Krkonoše National Park",
+        "region": "Hradec Králové Region",
+        "lat": 50.735,
+        "lng": 15.74,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "seo_phrase": "Krkonoše National Park in Countrywide | mountain weather and summit walking",
+        "seo_keywords": [
+          "Krkonoše National Park",
+          "Countrywide",
+          "Czech Republic",
+          "nature",
+          "tourist attraction",
+          "Hradec Králové Region"
+        ],
+        "seo_priority": 95,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Adršpach-Teplice Rocks",
+        "wiki_title": "Adršpach-Teplice Rocks",
+        "region": "Hradec Králové Region",
+        "lat": 50.623,
+        "lng": 16.098,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "seo_phrase": "Adršpach-Teplice Rocks in Countrywide | labyrinthine rock towers and cliff paths",
+        "seo_keywords": [
+          "Adršpach-Teplice Rocks",
+          "Countrywide",
+          "Czech Republic",
+          "rock",
+          "tourist attraction",
+          "Hradec Králové Region"
+        ],
+        "seo_priority": 80,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Moravian Karst",
+        "wiki_title": "Moravian Karst",
+        "region": "South Moravian Region",
+        "lat": 49.364,
+        "lng": 16.739,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "seo_phrase": "Moravian Karst in Countrywide | caves, sinkholes, and underground landscapes",
+        "seo_keywords": [
+          "Moravian Karst",
+          "Countrywide",
+          "Czech Republic",
+          "nature",
+          "tourist attraction",
+          "South Moravian Region"
+        ],
+        "seo_priority": 95,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Podyjí National Park",
+        "wiki_title": "Podyjí National Park",
+        "region": "South Moravian Region",
+        "lat": 48.874,
+        "lng": 15.882,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "seo_phrase": "Podyjí National Park in Countrywide | river bends and quiet border scenery",
+        "seo_keywords": [
+          "Podyjí National Park",
+          "Countrywide",
+          "Czech Republic",
+          "nature",
+          "tourist attraction",
+          "South Moravian Region"
+        ],
+        "seo_priority": 95,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Beskydy Protected Landscape Area",
+        "wiki_title": "Beskydy Protected Landscape Area",
+        "region": "Moravian-Silesian Region",
+        "lat": 49.51,
+        "lng": 18.36,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "seo_phrase": "Beskydy Protected Landscape Area in Countrywide | rounded mountain ridges and village trails",
+        "seo_keywords": [
+          "Beskydy Protected Landscape Area",
+          "Countrywide",
+          "Czech Republic",
+          "nature",
+          "tourist attraction",
+          "Moravian-Silesian Region"
+        ],
+        "seo_priority": 95,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Lipno Reservoir",
+        "wiki_title": "Lipno Reservoir",
+        "region": "South Bohemian Region",
+        "lat": 48.633,
+        "lng": 14.257,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer"
+        ],
+        "seo_phrase": "Lipno Reservoir in Countrywide | lake routes, cycling, and waterside days",
+        "seo_keywords": [
+          "Lipno Reservoir",
+          "Countrywide",
+          "Czech Republic",
+          "lake",
+          "tourist attraction",
+          "South Bohemian Region"
+        ],
+        "seo_priority": 80,
+        "best_season": [
+          "spring",
+          "summer"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Máchovo jezero",
+        "wiki_title": "Máchovo Lake",
+        "region": "Liberec Region",
+        "lat": 50.579,
+        "lng": 14.618,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer"
+        ],
+        "seo_phrase": "Máchovo jezero in Countrywide | summer swimming and shoreline walks",
+        "seo_keywords": [
+          "Máchovo jezero",
+          "Countrywide",
+          "Czech Republic",
+          "lake",
+          "tourist attraction",
+          "Liberec Region"
+        ],
+        "seo_priority": 80,
+        "best_season": [
+          "spring",
+          "summer"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Lednice–Valtice Cultural Landscape",
+        "wiki_title": "Lednice–Valtice Cultural Landscape",
+        "region": "South Moravian Region",
+        "lat": 48.759,
+        "lng": 16.786,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "seo_phrase": "Lednice–Valtice Cultural Landscape in Countrywide | garden estates, castles, and designed countryside",
+        "seo_keywords": [
+          "Lednice–Valtice Cultural Landscape",
+          "Countrywide",
+          "Czech Republic",
+          "nature",
+          "tourist attraction",
+          "South Moravian Region"
+        ],
+        "seo_priority": 95,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      }
+    ]
+  }
+}

@@ -1,0 +1,3860 @@
+{
+  "version": 2,
+  "country": "Japan",
+  "published": true,
+  "cities": [
+    {
+      "city": "Tokyo",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "history",
+        "nature",
+        "culture"
+      ],
+      "wiki_title": "Tokyo",
+      "seo": {
+        "title": "Top 10 Things to Do in undefined, Japan",
+        "description": "Discover 10 must-see landmarks in undefined, Japan. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to undefined? Explore the best places to visit in undefined, Japan.",
+        "keywords": [
+          "things to do in undefined",
+          "undefined Japan travel guide",
+          "best places to visit in undefined",
+          "undefined landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Senso-ji",
+          "wiki_title": "Sensō-ji",
+          "lat": 35.7147,
+          "lng": 139.7966,
+          "order_index": 0,
+          "description": "Senso-ji is one of the essential landmarks to visit in Tokyo, Japan.",
+          "seo_phrase": "Senso-ji in Tokyo, Japan - Travel Guide",
+          "seo_keywords": [
+            "Senso-ji",
+            "Tokyo",
+            "Japan",
+            "Tokyo landmarks"
+          ],
+          "commons_file": "Sensoji Temple in Tokyo.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Sensoji_Temple_in_Tokyo.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Tokyo Skytree",
+            "Ueno Park"
+          ]
+        },
+        {
+          "name": "Meiji Jingu",
+          "wiki_title": "Meiji Jingu",
+          "lat": 35.6764,
+          "lng": 139.6993,
+          "order_index": 1,
+          "description": "Meiji Jingu is one of the essential landmarks to visit in Tokyo, Japan.",
+          "seo_phrase": "Meiji Jingu in Tokyo, Japan - Travel Guide",
+          "seo_keywords": [
+            "Meiji Jingu",
+            "Tokyo",
+            "Japan",
+            "Tokyo landmarks"
+          ],
+          "commons_file": "Meiji Shrine 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Meiji_Shrine_2019.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Shibuya Crossing",
+            "Tokyo Tower"
+          ]
+        },
+        {
+          "name": "Tokyo Skytree",
+          "wiki_title": "Tokyo Skytree",
+          "lat": 35.71,
+          "lng": 139.8107,
+          "order_index": 2,
+          "description": "Tokyo Skytree is one of the essential landmarks to visit in Tokyo, Japan.",
+          "seo_phrase": "Tokyo Skytree in Tokyo, Japan - Travel Guide",
+          "seo_keywords": [
+            "Tokyo Skytree",
+            "Tokyo",
+            "Japan",
+            "Tokyo landmarks"
+          ],
+          "commons_file": "Tokyo Skytree 2012.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Tokyo_Skytree_2012.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Senso-ji",
+            "Ueno Park"
+          ]
+        },
+        {
+          "name": "Shinjuku Gyoen",
+          "wiki_title": "Shinjuku Gyoen",
+          "lat": 35.6852,
+          "lng": 139.7101,
+          "order_index": 3,
+          "description": "Shinjuku Gyoen is one of the essential landmarks to visit in Tokyo, Japan.",
+          "seo_phrase": "Shinjuku Gyoen in Tokyo, Japan - Travel Guide",
+          "seo_keywords": [
+            "Shinjuku Gyoen",
+            "Tokyo",
+            "Japan",
+            "Tokyo landmarks"
+          ],
+          "commons_file": "Shinjuku Gyoen National Garden - Taiwan Pavilion and Pond.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Shinjuku_Gyoen_National_Garden_-_Taiwan_Pavilion_and_Pond.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Meiji Jingu",
+            "Tokyo Tower"
+          ]
+        },
+        {
+          "name": "Tokyo Tower",
+          "wiki_title": "Tokyo Tower",
+          "lat": 35.6586,
+          "lng": 139.7454,
+          "order_index": 4,
+          "description": "Tokyo Tower is one of the essential landmarks to visit in Tokyo, Japan.",
+          "seo_phrase": "Tokyo Tower in Tokyo, Japan - Travel Guide",
+          "seo_keywords": [
+            "Tokyo Tower",
+            "Tokyo",
+            "Japan",
+            "Tokyo landmarks"
+          ],
+          "commons_file": "Tokyo Tower 2021.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Tokyo_Tower_2021.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Shinjuku Gyoen",
+            "Shibuya Crossing"
+          ]
+        },
+        {
+          "name": "Imperial Palace",
+          "wiki_title": "Tokyo Imperial Palace",
+          "lat": 35.6825,
+          "lng": 139.7521,
+          "order_index": 5,
+          "description": "Imperial Palace is one of the essential landmarks to visit in Tokyo, Japan.",
+          "seo_phrase": "Imperial Palace in Tokyo, Japan - Travel Guide",
+          "seo_keywords": [
+            "Imperial Palace",
+            "Tokyo",
+            "Japan",
+            "Tokyo landmarks"
+          ],
+          "commons_file": "Tokyo Imperial Palace Nijubashi bridge.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Tokyo_Imperial_Palace_Nijubashi_bridge.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Tokyo Tower",
+            "Ueno Park"
+          ]
+        },
+        {
+          "name": "Shibuya Crossing",
+          "wiki_title": "Shibuya Crossing",
+          "lat": 35.6595,
+          "lng": 139.7005,
+          "order_index": 6,
+          "description": "Shibuya Crossing is one of the essential landmarks to visit in Tokyo, Japan.",
+          "seo_phrase": "Shibuya Crossing in Tokyo, Japan - Travel Guide",
+          "seo_keywords": [
+            "Shibuya Crossing",
+            "Tokyo",
+            "Japan",
+            "Tokyo landmarks"
+          ],
+          "commons_file": "Shibuya Crossing from above.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Shibuya_Crossing_from_above.jpg",
+          "seo_priority": 97,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Meiji Jingu",
+            "Tokyo Tower"
+          ]
+        },
+        {
+          "name": "Ueno Park",
+          "wiki_title": "Ueno Park",
+          "lat": 35.7141,
+          "lng": 139.7741,
+          "order_index": 7,
+          "description": "Ueno Park is one of the essential landmarks to visit in Tokyo, Japan.",
+          "seo_phrase": "Ueno Park in Tokyo, Japan - Travel Guide",
+          "seo_keywords": [
+            "Ueno Park",
+            "Tokyo",
+            "Japan",
+            "Tokyo landmarks"
+          ],
+          "commons_file": "Ueno Park Shinobazu Pond 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Ueno_Park_Shinobazu_Pond_2019.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Senso-ji",
+            "Tokyo Skytree"
+          ]
+        },
+        {
+          "name": "Tokyo National Museum",
+          "wiki_title": "Tokyo National Museum",
+          "lat": 35.7188,
+          "lng": 139.7765,
+          "order_index": 8,
+          "description": "Tokyo National Museum is one of the essential landmarks to visit in Tokyo, Japan.",
+          "seo_phrase": "Tokyo National Museum in Tokyo, Japan - Travel Guide",
+          "seo_keywords": [
+            "Tokyo National Museum",
+            "Tokyo",
+            "Japan",
+            "Tokyo landmarks"
+          ],
+          "commons_file": "Tokyo National Museum Honkan 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tokyo_National_Museum_Honkan_2019.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Ueno Park",
+            "Senso-ji"
+          ]
+        },
+        {
+          "name": "Odaiba Marine Park",
+          "wiki_title": "Odaiba",
+          "lat": 35.6306,
+          "lng": 139.7761,
+          "order_index": 9,
+          "description": "Odaiba Marine Park is one of the essential landmarks to visit in Tokyo, Japan.",
+          "seo_phrase": "Odaiba Marine Park in Tokyo, Japan - Travel Guide",
+          "seo_keywords": [
+            "Odaiba Marine Park",
+            "Tokyo",
+            "Japan",
+            "Tokyo landmarks"
+          ],
+          "commons_file": "Odaiba and Rainbow Bridge at night.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Odaiba_and_Rainbow_Bridge_at_night.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Shibuya Crossing",
+            "Tokyo Tower"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Kyoto",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history"
+      ],
+      "wiki_title": "Kyoto",
+      "seo": {
+        "title": "Top 10 Things to Do in undefined, Japan",
+        "description": "Discover 10 must-see landmarks in undefined, Japan. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to undefined? Explore the best places to visit in undefined, Japan.",
+        "keywords": [
+          "things to do in undefined",
+          "undefined Japan travel guide",
+          "best places to visit in undefined",
+          "undefined landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Fushimi Inari Taisha",
+          "wiki_title": "Fushimi Inari-taisha",
+          "lat": 34.9671,
+          "lng": 135.7727,
+          "order_index": 0,
+          "description": "Fushimi Inari Taisha is one of the essential landmarks to visit in Kyoto, Japan.",
+          "seo_phrase": "Fushimi Inari Taisha in Kyoto, Japan - Travel Guide",
+          "seo_keywords": [
+            "Fushimi Inari Taisha",
+            "Kyoto",
+            "Japan",
+            "Kyoto landmarks"
+          ],
+          "commons_file": "Fushimi Inari-taisha, Kyoto, Japan (2019).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Fushimi_Inari-taisha%2C_Kyoto%2C_Japan_%282019%29.jpg",
+          "seo_priority": 100,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kiyomizu-dera",
+            "Gion"
+          ]
+        },
+        {
+          "name": "Kinkaku-ji",
+          "wiki_title": "Kinkaku-ji",
+          "lat": 35.0394,
+          "lng": 135.7292,
+          "order_index": 1,
+          "description": "Kinkaku-ji is one of the essential landmarks to visit in Kyoto, Japan.",
+          "seo_phrase": "Kinkaku-ji in Kyoto, Japan - Travel Guide",
+          "seo_keywords": [
+            "Kinkaku-ji",
+            "Kyoto",
+            "Japan",
+            "Kyoto landmarks"
+          ],
+          "commons_file": "Kinkaku-ji 2021.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Kinkaku-ji_2021.jpg",
+          "seo_priority": 99,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Ryoan-ji",
+            "Arashiyama Bamboo Grove"
+          ]
+        },
+        {
+          "name": "Kiyomizu-dera",
+          "wiki_title": "Kiyomizu-dera",
+          "lat": 34.9948,
+          "lng": 135.785,
+          "order_index": 2,
+          "description": "Kiyomizu-dera is one of the essential landmarks to visit in Kyoto, Japan.",
+          "seo_phrase": "Kiyomizu-dera in Kyoto, Japan - Travel Guide",
+          "seo_keywords": [
+            "Kiyomizu-dera",
+            "Kyoto",
+            "Japan",
+            "Kyoto landmarks"
+          ],
+          "commons_file": "Kiyomizudera Kyoto Main Hall 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Kiyomizudera_Kyoto_Main_Hall_2019.jpg",
+          "seo_priority": 97,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Gion",
+            "Fushimi Inari Taisha"
+          ]
+        },
+        {
+          "name": "Arashiyama Bamboo Grove",
+          "wiki_title": "Arashiyama",
+          "lat": 35.0115,
+          "lng": 135.6703,
+          "order_index": 3,
+          "description": "Arashiyama Bamboo Grove is one of the essential landmarks to visit in Kyoto, Japan.",
+          "seo_phrase": "Arashiyama Bamboo Grove in Kyoto, Japan - Travel Guide",
+          "seo_keywords": [
+            "Arashiyama Bamboo Grove",
+            "Kyoto",
+            "Japan",
+            "Kyoto landmarks"
+          ],
+          "commons_file": "Arashiyama Bamboo Grove 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Arashiyama_Bamboo_Grove_2019.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Ryoan-ji",
+            "Kinkaku-ji"
+          ]
+        },
+        {
+          "name": "Gion District",
+          "wiki_title": "Gion",
+          "lat": 35.0037,
+          "lng": 135.7782,
+          "order_index": 4,
+          "description": "Gion District is one of the essential landmarks to visit in Kyoto, Japan.",
+          "seo_phrase": "Gion District in Kyoto, Japan - Travel Guide",
+          "seo_keywords": [
+            "Gion District",
+            "Kyoto",
+            "Japan",
+            "Kyoto landmarks"
+          ],
+          "commons_file": "Kyoto Gion District Shiro Street.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Kyoto_Gion_District_Shiro_Street.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kiyomizu-dera",
+            "Fushimi Inari Taisha"
+          ]
+        },
+        {
+          "name": "Nijo Castle",
+          "wiki_title": "Nijō Castle",
+          "lat": 35.0142,
+          "lng": 135.7482,
+          "order_index": 5,
+          "description": "Nijo Castle is one of the essential landmarks to visit in Kyoto, Japan.",
+          "seo_phrase": "Nijo Castle in Kyoto, Japan - Travel Guide",
+          "seo_keywords": [
+            "Nijo Castle",
+            "Kyoto",
+            "Japan",
+            "Kyoto landmarks"
+          ],
+          "commons_file": "Nijo Castle Gate Kyoto.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Nijo_Castle_Gate_Kyoto.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kyoto Imperial Palace",
+            "Gion"
+          ]
+        },
+        {
+          "name": "Ginkaku-ji",
+          "wiki_title": "Ginkaku-ji",
+          "lat": 35.0269,
+          "lng": 135.7982,
+          "order_index": 6,
+          "description": "Ginkaku-ji is one of the essential landmarks to visit in Kyoto, Japan.",
+          "seo_phrase": "Ginkaku-ji in Kyoto, Japan - Travel Guide",
+          "seo_keywords": [
+            "Ginkaku-ji",
+            "Kyoto",
+            "Japan",
+            "Kyoto landmarks"
+          ],
+          "commons_file": "Ginkakuji Kyoto 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Ginkakuji_Kyoto_2019.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kinkaku-ji",
+            "Kiyomizu-dera"
+          ]
+        },
+        {
+          "name": "Ryoan-ji",
+          "wiki_title": "Ryōan-ji",
+          "lat": 35.0344,
+          "lng": 135.7182,
+          "order_index": 7,
+          "description": "Ryoan-ji is one of the essential landmarks to visit in Kyoto, Japan.",
+          "seo_phrase": "Ryoan-ji in Kyoto, Japan - Travel Guide",
+          "seo_keywords": [
+            "Ryoan-ji",
+            "Kyoto",
+            "Japan",
+            "Kyoto landmarks"
+          ],
+          "commons_file": "Ryoanji Rock Garden Kyoto.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Ryoanji_Rock_Garden_Kyoto.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kinkaku-ji",
+            "Ninna-ji"
+          ]
+        },
+        {
+          "name": "Sanjusangen-do",
+          "wiki_title": "Sanjūsangen-dō",
+          "lat": 34.9878,
+          "lng": 135.7717,
+          "order_index": 8,
+          "description": "Sanjusangen-do is one of the essential landmarks to visit in Kyoto, Japan.",
+          "seo_phrase": "Sanjusangen-do in Kyoto, Japan - Travel Guide",
+          "seo_keywords": [
+            "Sanjusangen-do",
+            "Kyoto",
+            "Japan",
+            "Kyoto landmarks"
+          ],
+          "commons_file": "Sanjusangendo Main Hall Kyoto.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Sanjusangendo_Main_Hall_Kyoto.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kiyomizu-dera",
+            "Kyoto National Museum"
+          ]
+        },
+        {
+          "name": "Kyoto Imperial Palace",
+          "wiki_title": "Kyoto Imperial Palace",
+          "lat": 35.0251,
+          "lng": 135.7621,
+          "order_index": 9,
+          "description": "Kyoto Imperial Palace is one of the essential landmarks to visit in Kyoto, Japan.",
+          "seo_phrase": "Kyoto Imperial Palace in Kyoto, Japan - Travel Guide",
+          "seo_keywords": [
+            "Kyoto Imperial Palace",
+            "Kyoto",
+            "Japan",
+            "Kyoto landmarks"
+          ],
+          "commons_file": "Kyoto Imperial Palace Shisinden.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Kyoto_Imperial_Palace_Shisinden.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Nijo Castle",
+            "Gion"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Osaka",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "history",
+        "nature",
+        "culture"
+      ],
+      "wiki_title": "Osaka",
+      "seo": {
+        "title": "Top 10 Things to Do in undefined, Japan",
+        "description": "Discover 10 must-see landmarks in undefined, Japan. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to undefined? Explore the best places to visit in undefined, Japan.",
+        "keywords": [
+          "things to do in undefined",
+          "undefined Japan travel guide",
+          "best places to visit in undefined",
+          "undefined landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Osaka Castle",
+          "wiki_title": "Osaka Castle",
+          "lat": 34.6873,
+          "lng": 135.5262,
+          "order_index": 0,
+          "description": "Osaka Castle is one of the essential landmarks to visit in Osaka, Japan.",
+          "seo_phrase": "Osaka Castle in Osaka, Japan - Travel Guide",
+          "seo_keywords": [
+            "Osaka Castle",
+            "Osaka",
+            "Japan",
+            "Osaka landmarks"
+          ],
+          "commons_file": "Osaka Castle 02bs3200.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Osaka_Castle_02bs3200.jpg",
+          "seo_priority": 97,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Umeda Sky Building",
+            "Dotonbori"
+          ]
+        },
+        {
+          "name": "Dotonbori",
+          "wiki_title": "Dōtonbori",
+          "lat": 34.6687,
+          "lng": 135.5013,
+          "order_index": 1,
+          "description": "Dotonbori is one of the essential landmarks to visit in Osaka, Japan.",
+          "seo_phrase": "Dotonbori in Osaka, Japan - Travel Guide",
+          "seo_keywords": [
+            "Dotonbori",
+            "Osaka",
+            "Japan",
+            "Osaka landmarks"
+          ],
+          "commons_file": "Osaka Dotonbori at night.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Osaka_Dotonbori_at_night.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Osaka Castle",
+            "Shitenno-ji"
+          ]
+        },
+        {
+          "name": "Umeda Sky Building",
+          "wiki_title": "Umeda Sky Building",
+          "lat": 34.7051,
+          "lng": 135.4896,
+          "order_index": 2,
+          "description": "Umeda Sky Building is one of the essential landmarks to visit in Osaka, Japan.",
+          "seo_phrase": "Umeda Sky Building in Osaka, Japan - Travel Guide",
+          "seo_keywords": [
+            "Umeda Sky Building",
+            "Osaka",
+            "Japan",
+            "Osaka landmarks"
+          ],
+          "commons_file": "Umeda Sky Building 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Umeda_Sky_Building_2019.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Osaka Castle",
+            "Dotonbori"
+          ]
+        },
+        {
+          "name": "Shitenno-ji",
+          "wiki_title": "Shitennō-ji",
+          "lat": 34.6533,
+          "lng": 135.5165,
+          "order_index": 3,
+          "description": "Shitenno-ji is one of the essential landmarks to visit in Osaka, Japan.",
+          "seo_phrase": "Shitenno-ji in Osaka, Japan - Travel Guide",
+          "seo_keywords": [
+            "Shitenno-ji",
+            "Osaka",
+            "Japan",
+            "Osaka landmarks"
+          ],
+          "commons_file": "Shitennoji 2016.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Shitennoji_2016.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Dotonbori",
+            "Osaka Castle"
+          ]
+        },
+        {
+          "name": "Osaka Aquarium Kaiyukan",
+          "wiki_title": "Kaiyukan",
+          "lat": 34.6545,
+          "lng": 135.4289,
+          "order_index": 4,
+          "description": "Osaka Aquarium Kaiyukan is one of the essential landmarks to visit in Osaka, Japan.",
+          "seo_phrase": "Osaka Aquarium Kaiyukan in Osaka, Japan - Travel Guide",
+          "seo_keywords": [
+            "Osaka Aquarium Kaiyukan",
+            "Osaka",
+            "Japan",
+            "Osaka landmarks"
+          ],
+          "commons_file": "Osaka Aquarium Kaiyukan 2012.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Osaka_Aquarium_Kaiyukan_2012.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Umeda Sky Building",
+            "Dotonbori"
+          ]
+        },
+        {
+          "name": "Sumiyoshi Taisha",
+          "wiki_title": "Sumiyoshi Taisha",
+          "lat": 34.6125,
+          "lng": 135.4934,
+          "order_index": 5,
+          "description": "Sumiyoshi Taisha is one of the essential landmarks to visit in Osaka, Japan.",
+          "seo_phrase": "Sumiyoshi Taisha in Osaka, Japan - Travel Guide",
+          "seo_keywords": [
+            "Sumiyoshi Taisha",
+            "Osaka",
+            "Japan",
+            "Osaka landmarks"
+          ],
+          "commons_file": "Sumiyoshi Taisha Sorihashi Bridge 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Sumiyoshi_Taisha_Sorihashi_Bridge_2019.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Dotonbori",
+            "Shitenno-ji"
+          ]
+        },
+        {
+          "name": "Tsutenkaku Tower",
+          "wiki_title": "Tsūtenkaku",
+          "lat": 34.6525,
+          "lng": 135.5063,
+          "order_index": 6,
+          "description": "Tsutenkaku Tower is one of the essential landmarks to visit in Osaka, Japan.",
+          "seo_phrase": "Tsutenkaku Tower in Osaka, Japan - Travel Guide",
+          "seo_keywords": [
+            "Tsutenkaku Tower",
+            "Osaka",
+            "Japan",
+            "Osaka landmarks"
+          ],
+          "commons_file": "Tsutenkaku Tower 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Tsutenkaku_Tower_2019.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Shitenno-ji",
+            "Dotonbori"
+          ]
+        },
+        {
+          "name": "Namba Yasaka Shrine",
+          "wiki_title": "Namba Yasaka Shrine",
+          "lat": 34.6614,
+          "lng": 135.4965,
+          "order_index": 7,
+          "description": "Namba Yasaka Shrine is one of the essential landmarks to visit in Osaka, Japan.",
+          "seo_phrase": "Namba Yasaka Shrine in Osaka, Japan - Travel Guide",
+          "seo_keywords": [
+            "Namba Yasaka Shrine",
+            "Osaka",
+            "Japan",
+            "Osaka landmarks"
+          ],
+          "commons_file": "Namba Yasaka Shrine Lion Head 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Namba_Yasaka_Shrine_Lion_Head_2019.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Dotonbori",
+            "Sumiyoshi Taisha"
+          ]
+        },
+        {
+          "name": "Tennoji Park",
+          "wiki_title": "Tennōji Park",
+          "lat": 34.6495,
+          "lng": 135.5111,
+          "order_index": 8,
+          "description": "Tennoji Park is one of the essential landmarks to visit in Osaka, Japan.",
+          "seo_phrase": "Tennoji Park in Osaka, Japan - Travel Guide",
+          "seo_keywords": [
+            "Tennoji Park",
+            "Osaka",
+            "Japan",
+            "Osaka landmarks"
+          ],
+          "commons_file": "Chausuyama Pond Tennoji Park.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Chausuyama_Pond_Tennoji_Park.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Shitenno-ji",
+            "Tsutenkaku Tower"
+          ]
+        },
+        {
+          "name": "Osaka Museum of History",
+          "wiki_title": "Osaka Museum of History",
+          "lat": 34.6819,
+          "lng": 135.5206,
+          "order_index": 9,
+          "description": "Osaka Museum of History is one of the essential landmarks to visit in Osaka, Japan.",
+          "seo_phrase": "Osaka Museum of History in Osaka, Japan - Travel Guide",
+          "seo_keywords": [
+            "Osaka Museum of History",
+            "Osaka",
+            "Japan",
+            "Osaka landmarks"
+          ],
+          "commons_file": "Osaka Museum of History Building.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Osaka_Museum_of_History_Building.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Osaka Castle",
+            "Shitenno-ji"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Nara",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "nature",
+        "culture"
+      ],
+      "wiki_title": "Nara",
+      "seo": {
+        "title": "Top 10 Things to Do in undefined, Japan",
+        "description": "Discover 10 must-see landmarks in undefined, Japan. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to undefined? Explore the best places to visit in undefined, Japan.",
+        "keywords": [
+          "things to do in undefined",
+          "undefined Japan travel guide",
+          "best places to visit in undefined",
+          "undefined landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Todai-ji",
+          "wiki_title": "Tōdai-ji",
+          "lat": 34.6889,
+          "lng": 135.8398,
+          "order_index": 0,
+          "description": "Todai-ji is one of the essential landmarks to visit in Nara, Japan.",
+          "seo_phrase": "Todai-ji in Nara, Japan - Travel Guide",
+          "seo_keywords": [
+            "Todai-ji",
+            "Nara",
+            "Japan",
+            "Nara landmarks"
+          ],
+          "commons_file": "Todai-ji Daibutsuden.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Todai-ji_Daibutsuden.jpg",
+          "seo_priority": 100,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Nara Park",
+            "Kasuga Taisha"
+          ]
+        },
+        {
+          "name": "Nara Park",
+          "wiki_title": "Nara Park",
+          "lat": 34.685,
+          "lng": 135.843,
+          "order_index": 1,
+          "description": "Nara Park is one of the essential landmarks to visit in Nara, Japan.",
+          "seo_phrase": "Nara Park in Nara, Japan - Travel Guide",
+          "seo_keywords": [
+            "Nara Park",
+            "Nara",
+            "Japan",
+            "Nara landmarks"
+          ],
+          "commons_file": "Deer in Nara Park.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Deer_in_Nara_Park.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Todai-ji",
+            "Kasuga Taisha"
+          ]
+        },
+        {
+          "name": "Kasuga Taisha",
+          "wiki_title": "Kasuga Taisha",
+          "lat": 34.6814,
+          "lng": 135.8483,
+          "order_index": 2,
+          "description": "Kasuga Taisha is one of the essential landmarks to visit in Nara, Japan.",
+          "seo_phrase": "Kasuga Taisha in Nara, Japan - Travel Guide",
+          "seo_keywords": [
+            "Kasuga Taisha",
+            "Nara",
+            "Japan",
+            "Nara landmarks"
+          ],
+          "commons_file": "Kasuga Taisha Lanterns Nara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Kasuga_Taisha_Lanterns_Nara.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Nara Park",
+            "Todai-ji"
+          ]
+        },
+        {
+          "name": "Kofuku-ji",
+          "wiki_title": "Kōfuku-ji",
+          "lat": 34.6831,
+          "lng": 135.8308,
+          "order_index": 3,
+          "description": "Kofuku-ji is one of the essential landmarks to visit in Nara, Japan.",
+          "seo_phrase": "Kofuku-ji in Nara, Japan - Travel Guide",
+          "seo_keywords": [
+            "Kofuku-ji",
+            "Nara",
+            "Japan",
+            "Nara landmarks"
+          ],
+          "commons_file": "Kofukuji Five Story Pagoda Nara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Kofukuji_Five_Story_Pagoda_Nara.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Nara Park",
+            "Todai-ji"
+          ]
+        },
+        {
+          "name": "Yakushi-ji",
+          "wiki_title": "Yakushi-ji",
+          "lat": 34.6686,
+          "lng": 135.7844,
+          "order_index": 4,
+          "description": "Yakushi-ji is one of the essential landmarks to visit in Nara, Japan.",
+          "seo_phrase": "Yakushi-ji in Nara, Japan - Travel Guide",
+          "seo_keywords": [
+            "Yakushi-ji",
+            "Nara",
+            "Japan",
+            "Nara landmarks"
+          ],
+          "commons_file": "Yakushiji East Pagoda Nara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Yakushiji_East_Pagoda_Nara.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Toshodai-ji",
+            "Nara Park"
+          ]
+        },
+        {
+          "name": "Toshodai-ji",
+          "wiki_title": "Tōshōdai-ji",
+          "lat": 34.6708,
+          "lng": 135.7853,
+          "order_index": 5,
+          "description": "Toshodai-ji is one of the essential landmarks to visit in Nara, Japan.",
+          "seo_phrase": "Toshodai-ji in Nara, Japan - Travel Guide",
+          "seo_keywords": [
+            "Toshodai-ji",
+            "Nara",
+            "Japan",
+            "Nara landmarks"
+          ],
+          "commons_file": "Toshodaiji Kondo Main Hall.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Toshodaiji_Kondo_Main_Hall.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Yakushi-ji",
+            "Nara Park"
+          ]
+        },
+        {
+          "name": "Horyu-ji",
+          "wiki_title": "Hōryū-ji",
+          "lat": 34.6141,
+          "lng": 135.7356,
+          "order_index": 6,
+          "description": "Horyu-ji is one of the essential landmarks to visit in Nara, Japan.",
+          "seo_phrase": "Horyu-ji in Nara, Japan - Travel Guide",
+          "seo_keywords": [
+            "Horyu-ji",
+            "Nara",
+            "Japan",
+            "Nara landmarks"
+          ],
+          "commons_file": "Horyuji Kondo and Pagoda Nara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Horyuji_Kondo_and_Pagoda_Nara.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Yakushi-ji",
+            "Toshodai-ji"
+          ]
+        },
+        {
+          "name": "Isuien Garden",
+          "wiki_title": "Isuien Garden",
+          "lat": 34.6861,
+          "lng": 135.8369,
+          "order_index": 7,
+          "description": "Isuien Garden is one of the essential landmarks to visit in Nara, Japan.",
+          "seo_phrase": "Isuien Garden in Nara, Japan - Travel Guide",
+          "seo_keywords": [
+            "Isuien Garden",
+            "Nara",
+            "Japan",
+            "Nara landmarks"
+          ],
+          "commons_file": "Isuien Garden Nara 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Isuien_Garden_Nara_2019.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Todai-ji",
+            "Nara Park"
+          ]
+        },
+        {
+          "name": "Yoshikien Garden",
+          "wiki_title": "Yoshikien Garden",
+          "lat": 34.6858,
+          "lng": 135.8361,
+          "order_index": 8,
+          "description": "Yoshikien Garden is one of the essential landmarks to visit in Nara, Japan.",
+          "seo_phrase": "Yoshikien Garden in Nara, Japan - Travel Guide",
+          "seo_keywords": [
+            "Yoshikien Garden",
+            "Nara",
+            "Japan",
+            "Nara landmarks"
+          ],
+          "commons_file": "Yoshikien Moss Garden Nara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Yoshikien_Moss_Garden_Nara.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Isuien Garden",
+            "Nara Park"
+          ]
+        },
+        {
+          "name": "Nara National Museum",
+          "wiki_title": "Nara National Museum",
+          "lat": 34.6833,
+          "lng": 135.8364,
+          "order_index": 9,
+          "description": "Nara National Museum is one of the essential landmarks to visit in Nara, Japan.",
+          "seo_phrase": "Nara National Museum in Nara, Japan - Travel Guide",
+          "seo_keywords": [
+            "Nara National Museum",
+            "Nara",
+            "Japan",
+            "Nara landmarks"
+          ],
+          "commons_file": "Nara National Museum Original Building.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Nara_National_Museum_Original_Building.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Nara Park",
+            "Kofuku-ji"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Yokohama",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "history",
+        "nature",
+        "culture"
+      ],
+      "wiki_title": "Yokohama",
+      "seo": {
+        "title": "Top 10 Things to Do in undefined, Japan",
+        "description": "Discover 10 must-see landmarks in undefined, Japan. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to undefined? Explore the best places to visit in undefined, Japan.",
+        "keywords": [
+          "things to do in undefined",
+          "undefined Japan travel guide",
+          "best places to visit in undefined",
+          "undefined landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Minato Mirai 21",
+          "wiki_title": "Minato Mirai 21",
+          "lat": 35.4542,
+          "lng": 139.6314,
+          "order_index": 0,
+          "description": "Minato Mirai 21 is one of the essential landmarks to visit in Yokohama, Japan.",
+          "seo_phrase": "Minato Mirai 21 in Yokohama, Japan - Travel Guide",
+          "seo_keywords": [
+            "Minato Mirai 21",
+            "Yokohama",
+            "Japan",
+            "Yokohama landmarks"
+          ],
+          "commons_file": "Yokohama Minato Mirai 21 Skyline.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Yokohama_Minato_Mirai_21_Skyline.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Yokohama Chinatown",
+            "Sankeien Garden"
+          ]
+        },
+        {
+          "name": "Yokohama Chinatown",
+          "wiki_title": "Yokohama Chinatown",
+          "lat": 35.4428,
+          "lng": 139.6469,
+          "order_index": 1,
+          "description": "Yokohama Chinatown is one of the essential landmarks to visit in Yokohama, Japan.",
+          "seo_phrase": "Yokohama Chinatown in Yokohama, Japan - Travel Guide",
+          "seo_keywords": [
+            "Yokohama Chinatown",
+            "Yokohama",
+            "Japan",
+            "Yokohama landmarks"
+          ],
+          "commons_file": "Yokohama Chinatown Gate.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Yokohama_Chinatown_Gate.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Minato Mirai 21",
+            "Yamashita Park"
+          ]
+        },
+        {
+          "name": "Sankeien Garden",
+          "wiki_title": "Sankeien Garden",
+          "lat": 35.4169,
+          "lng": 139.6581,
+          "order_index": 2,
+          "description": "Sankeien Garden is one of the essential landmarks to visit in Yokohama, Japan.",
+          "seo_phrase": "Sankeien Garden in Yokohama, Japan - Travel Guide",
+          "seo_keywords": [
+            "Sankeien Garden",
+            "Yokohama",
+            "Japan",
+            "Yokohama landmarks"
+          ],
+          "commons_file": "Sankeien Garden Three Story Pagoda.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Sankeien_Garden_Three_Story_Pagoda.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Yamashita Park",
+            "Minato Mirai 21"
+          ]
+        },
+        {
+          "name": "Yokohama Landmark Tower",
+          "wiki_title": "Yokohama Landmark Tower",
+          "lat": 35.455,
+          "lng": 139.6319,
+          "order_index": 3,
+          "description": "Yokohama Landmark Tower is one of the essential landmarks to visit in Yokohama, Japan.",
+          "seo_phrase": "Yokohama Landmark Tower in Yokohama, Japan - Travel Guide",
+          "seo_keywords": [
+            "Yokohama Landmark Tower",
+            "Yokohama",
+            "Japan",
+            "Yokohama landmarks"
+          ],
+          "commons_file": "Yokohama Landmark Tower 2021.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Yokohama_Landmark_Tower_2021.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Minato Mirai 21",
+            "Cosmo World"
+          ]
+        },
+        {
+          "name": "Yamashita Park",
+          "wiki_title": "Yamashita Park",
+          "lat": 35.4456,
+          "lng": 139.6494,
+          "order_index": 4,
+          "description": "Yamashita Park is one of the essential landmarks to visit in Yokohama, Japan.",
+          "seo_phrase": "Yamashita Park in Yokohama, Japan - Travel Guide",
+          "seo_keywords": [
+            "Yamashita Park",
+            "Yokohama",
+            "Japan",
+            "Yokohama landmarks"
+          ],
+          "commons_file": "Yamashita Park and Hikawa Maru.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Yamashita_Park_and_Hikawa_Maru.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Yokohama Chinatown",
+            "Minato Mirai 21"
+          ]
+        },
+        {
+          "name": "Yokohama Red Brick Warehouse",
+          "wiki_title": "Yokohama Red Brick Warehouse",
+          "lat": 35.4528,
+          "lng": 139.6428,
+          "order_index": 5,
+          "description": "Yokohama Red Brick Warehouse is one of the essential landmarks to visit in Yokohama, Japan.",
+          "seo_phrase": "Yokohama Red Brick Warehouse in Yokohama, Japan - Travel Guide",
+          "seo_keywords": [
+            "Yokohama Red Brick Warehouse",
+            "Yokohama",
+            "Japan",
+            "Yokohama landmarks"
+          ],
+          "commons_file": "Yokohama Red Brick Warehouse 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Yokohama_Red_Brick_Warehouse_2019.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Minato Mirai 21",
+            "Yamashita Park"
+          ]
+        },
+        {
+          "name": "Yokohama Cosmo World",
+          "wiki_title": "Cosmo World",
+          "lat": 35.4553,
+          "lng": 139.6369,
+          "order_index": 6,
+          "description": "Yokohama Cosmo World is one of the essential landmarks to visit in Yokohama, Japan.",
+          "seo_phrase": "Yokohama Cosmo World in Yokohama, Japan - Travel Guide",
+          "seo_keywords": [
+            "Yokohama Cosmo World",
+            "Yokohama",
+            "Japan",
+            "Yokohama landmarks"
+          ],
+          "commons_file": "Yokohama Cosmo World Cosmo Clock 21.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Yokohama_Cosmo_World_Cosmo_Clock_21.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Minato Mirai 21",
+            "Yokohama Landmark Tower"
+          ]
+        },
+        {
+          "name": "Yokohama Marine Tower",
+          "wiki_title": "Yokohama Marine Tower",
+          "lat": 35.4439,
+          "lng": 139.6508,
+          "order_index": 7,
+          "description": "Yokohama Marine Tower is one of the essential landmarks to visit in Yokohama, Japan.",
+          "seo_phrase": "Yokohama Marine Tower in Yokohama, Japan - Travel Guide",
+          "seo_keywords": [
+            "Yokohama Marine Tower",
+            "Yokohama",
+            "Japan",
+            "Yokohama landmarks"
+          ],
+          "commons_file": "Yokohama Marine Tower 2022.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Yokohama_Marine_Tower_2022.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Yamashita Park",
+            "Yokohama Chinatown"
+          ]
+        },
+        {
+          "name": "Harbor View Park",
+          "wiki_title": "Harbor View Park",
+          "lat": 35.4419,
+          "lng": 139.6539,
+          "order_index": 8,
+          "description": "Harbor View Park is one of the essential landmarks to visit in Yokohama, Japan.",
+          "seo_phrase": "Harbor View Park in Yokohama, Japan - Travel Guide",
+          "seo_keywords": [
+            "Harbor View Park",
+            "Yokohama",
+            "Japan",
+            "Yokohama landmarks"
+          ],
+          "commons_file": "Harbor View Park Yokohama Rose Garden.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Harbor_View_Park_Yokohama_Rose_Garden.jpg",
+          "seo_priority": 84,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Yamashita Park",
+            "Yokohama Chinatown"
+          ]
+        },
+        {
+          "name": "Yokohama Museum of Art",
+          "wiki_title": "Yokohama Museum of Art",
+          "lat": 35.4578,
+          "lng": 139.6303,
+          "order_index": 9,
+          "description": "Yokohama Museum of Art is one of the essential landmarks to visit in Yokohama, Japan.",
+          "seo_phrase": "Yokohama Museum of Art in Yokohama, Japan - Travel Guide",
+          "seo_keywords": [
+            "Yokohama Museum of Art",
+            "Yokohama",
+            "Japan",
+            "Yokohama landmarks"
+          ],
+          "commons_file": "Yokohama Museum of Art Building.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Yokohama_Museum_of_Art_Building.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Yokohama Landmark Tower",
+            "Minato Mirai 21"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Nagoya",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "history",
+        "culture",
+        "nature"
+      ],
+      "wiki_title": "Nagoya",
+      "seo": {
+        "title": "Top 10 Things to Do in undefined, Japan",
+        "description": "Discover 10 must-see landmarks in undefined, Japan. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to undefined? Explore the best places to visit in undefined, Japan.",
+        "keywords": [
+          "things to do in undefined",
+          "undefined Japan travel guide",
+          "best places to visit in undefined",
+          "undefined landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Nagoya Castle",
+          "wiki_title": "Nagoya Castle",
+          "lat": 35.1856,
+          "lng": 136.9017,
+          "order_index": 0,
+          "description": "Nagoya Castle is one of the essential landmarks to visit in Nagoya, Japan.",
+          "seo_phrase": "Nagoya Castle in Nagoya, Japan - Travel Guide",
+          "seo_keywords": [
+            "Nagoya Castle",
+            "Nagoya",
+            "Japan",
+            "Nagoya landmarks"
+          ],
+          "commons_file": "Nagoya Castle Tenshu 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Nagoya_Castle_Tenshu_2019.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Tokugawaen",
+            "Tokugawa Art Museum"
+          ]
+        },
+        {
+          "name": "Atsuta Jingu",
+          "wiki_title": "Atsuta Jingu",
+          "lat": 35.1256,
+          "lng": 136.9092,
+          "order_index": 1,
+          "description": "Atsuta Jingu is one of the essential landmarks to visit in Nagoya, Japan.",
+          "seo_phrase": "Atsuta Jingu in Nagoya, Japan - Travel Guide",
+          "seo_keywords": [
+            "Atsuta Jingu",
+            "Nagoya",
+            "Japan",
+            "Nagoya landmarks"
+          ],
+          "commons_file": "Atsuta Jingu Hongu 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Atsuta_Jingu_Hongu_2019.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Nagoya Castle",
+            "Oasis 21"
+          ]
+        },
+        {
+          "name": "Nagoya City Science Museum",
+          "wiki_title": "Nagoya City Science Museum",
+          "lat": 35.165,
+          "lng": 136.8994,
+          "order_index": 2,
+          "description": "Nagoya City Science Museum is one of the essential landmarks to visit in Nagoya, Japan.",
+          "seo_phrase": "Nagoya City Science Museum in Nagoya, Japan - Travel Guide",
+          "seo_keywords": [
+            "Nagoya City Science Museum",
+            "Nagoya",
+            "Japan",
+            "Nagoya landmarks"
+          ],
+          "commons_file": "Nagoya City Science Museum Planetarium 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Nagoya_City_Science_Museum_Planetarium_2019.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Osu Kannon",
+            "Oasis 21"
+          ]
+        },
+        {
+          "name": "Oasis 21",
+          "wiki_title": "Oasis 21",
+          "lat": 35.1708,
+          "lng": 136.9097,
+          "order_index": 3,
+          "description": "Oasis 21 is one of the essential landmarks to visit in Nagoya, Japan.",
+          "seo_phrase": "Oasis 21 in Nagoya, Japan - Travel Guide",
+          "seo_keywords": [
+            "Oasis 21",
+            "Nagoya",
+            "Japan",
+            "Nagoya landmarks"
+          ],
+          "commons_file": "Oasis 21 Nagoya 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Oasis_21_Nagoya_2019.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Nagoya TV Tower",
+            "Atsuta Jingu"
+          ]
+        },
+        {
+          "name": "Osu Kannon",
+          "wiki_title": "Ōsu Kannon",
+          "lat": 35.1597,
+          "lng": 136.8994,
+          "order_index": 4,
+          "description": "Osu Kannon is one of the essential landmarks to visit in Nagoya, Japan.",
+          "seo_phrase": "Osu Kannon in Nagoya, Japan - Travel Guide",
+          "seo_keywords": [
+            "Osu Kannon",
+            "Nagoya",
+            "Japan",
+            "Nagoya landmarks"
+          ],
+          "commons_file": "Osu Kannon Temple Nagoya.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Osu_Kannon_Temple_Nagoya.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Nagoya City Science Museum",
+            "Oasis 21"
+          ]
+        },
+        {
+          "name": "Tokugawaen",
+          "wiki_title": "Tokugawaen",
+          "lat": 35.1839,
+          "lng": 136.9333,
+          "order_index": 5,
+          "description": "Tokugawaen is one of the essential landmarks to visit in Nagoya, Japan.",
+          "seo_phrase": "Tokugawaen in Nagoya, Japan - Travel Guide",
+          "seo_keywords": [
+            "Tokugawaen",
+            "Nagoya",
+            "Japan",
+            "Nagoya landmarks"
+          ],
+          "commons_file": "Tokugawaen Garden Nagoya.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Tokugawaen_Garden_Nagoya.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Tokugawa Art Museum",
+            "Nagoya Castle"
+          ]
+        },
+        {
+          "name": "Tokugawa Art Museum",
+          "wiki_title": "Tokugawa Art Museum",
+          "lat": 35.1836,
+          "lng": 136.9328,
+          "order_index": 6,
+          "description": "Tokugawa Art Museum is one of the essential landmarks to visit in Nagoya, Japan.",
+          "seo_phrase": "Tokugawa Art Museum in Nagoya, Japan - Travel Guide",
+          "seo_keywords": [
+            "Tokugawa Art Museum",
+            "Nagoya",
+            "Japan",
+            "Nagoya landmarks"
+          ],
+          "commons_file": "Tokugawa Art Museum Entrance.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Tokugawa_Art_Museum_Entrance.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Tokugawaen",
+            "Nagoya Castle"
+          ]
+        },
+        {
+          "name": "Nagoya TV Tower",
+          "wiki_title": "Nagoya TV Tower",
+          "lat": 35.1728,
+          "lng": 136.9086,
+          "order_index": 7,
+          "description": "Nagoya TV Tower is one of the essential landmarks to visit in Nagoya, Japan.",
+          "seo_phrase": "Nagoya TV Tower in Nagoya, Japan - Travel Guide",
+          "seo_keywords": [
+            "Nagoya TV Tower",
+            "Nagoya",
+            "Japan",
+            "Nagoya landmarks"
+          ],
+          "commons_file": "Nagoya TV Tower 2021.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Nagoya_TV_Tower_2021.jpg",
+          "seo_priority": 84,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Oasis 21",
+            "Nagoya City Science Museum"
+          ]
+        },
+        {
+          "name": "SCMAGLEV and Railway Park",
+          "wiki_title": "SCMAGLEV and Railway Park",
+          "lat": 35.0486,
+          "lng": 136.8508,
+          "order_index": 8,
+          "description": "SCMAGLEV and Railway Park is one of the essential landmarks to visit in Nagoya, Japan.",
+          "seo_phrase": "SCMAGLEV and Railway Park in Nagoya, Japan - Travel Guide",
+          "seo_keywords": [
+            "SCMAGLEV and Railway Park",
+            "Nagoya",
+            "Japan",
+            "Nagoya landmarks"
+          ],
+          "commons_file": "SCMAGLEV and Railway Park Interior.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/SCMAGLEV_and_Railway_Park_Interior.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Oasis 21",
+            "Nagoya Castle"
+          ]
+        },
+        {
+          "name": "Nittai-ji",
+          "wiki_title": "Nittai-ji",
+          "lat": 35.1692,
+          "lng": 136.9531,
+          "order_index": 9,
+          "description": "Nittai-ji is one of the essential landmarks to visit in Nagoya, Japan.",
+          "seo_phrase": "Nittai-ji in Nagoya, Japan - Travel Guide",
+          "seo_keywords": [
+            "Nittai-ji",
+            "Nagoya",
+            "Japan",
+            "Nagoya landmarks"
+          ],
+          "commons_file": "Nittaiji Temple Nagoya 2017.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Nittaiji_Temple_Nagoya_2017.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Tokugawaen",
+            "Oasis 21"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Sapporo",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "nature",
+        "history"
+      ],
+      "wiki_title": "Sapporo",
+      "seo": {
+        "title": "Top 10 Things to Do in undefined, Japan",
+        "description": "Discover 10 must-see landmarks in undefined, Japan. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to undefined? Explore the best places to visit in undefined, Japan.",
+        "keywords": [
+          "things to do in undefined",
+          "undefined Japan travel guide",
+          "best places to visit in undefined",
+          "undefined landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Odori Park",
+          "wiki_title": "Ōdori Park",
+          "lat": 43.06,
+          "lng": 141.3475,
+          "order_index": 0,
+          "description": "Odori Park is one of the essential landmarks to visit in Sapporo, Japan.",
+          "seo_phrase": "Odori Park in Sapporo, Japan - Travel Guide",
+          "seo_keywords": [
+            "Odori Park",
+            "Sapporo",
+            "Japan",
+            "Sapporo landmarks"
+          ],
+          "commons_file": "Odori Park Sapporo Summer.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Odori_Park_Sapporo_Summer.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "summer",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Sapporo TV Tower",
+            "Sapporo Clock Tower"
+          ]
+        },
+        {
+          "name": "Sapporo Clock Tower",
+          "wiki_title": "Sapporo Clock Tower",
+          "lat": 43.0626,
+          "lng": 141.3536,
+          "order_index": 1,
+          "description": "Sapporo Clock Tower is one of the essential landmarks to visit in Sapporo, Japan.",
+          "seo_phrase": "Sapporo Clock Tower in Sapporo, Japan - Travel Guide",
+          "seo_keywords": [
+            "Sapporo Clock Tower",
+            "Sapporo",
+            "Japan",
+            "Sapporo landmarks"
+          ],
+          "commons_file": "Sapporo Clock Tower 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Sapporo_Clock_Tower_2019.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Odori Park",
+            "Sapporo TV Tower"
+          ]
+        },
+        {
+          "name": "Sapporo TV Tower",
+          "wiki_title": "Sapporo TV Tower",
+          "lat": 43.0611,
+          "lng": 141.3564,
+          "order_index": 2,
+          "description": "A 147-meter landmark tower at the east end of Odori Park with an observation deck over downtown Sapporo.",
+          "seo_phrase": "Sapporo TV Tower — Panoramic Views Over Odori Park",
+          "seo_keywords": [
+            "Sapporo TV Tower",
+            "Odori Park view",
+            "Sapporo observation deck"
+          ],
+          "commons_file": "Sapporo TV Tower 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Sapporo_TV_Tower_2019.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Odori Park",
+            "Sapporo Clock Tower"
+          ]
+        },
+        {
+          "name": "Sapporo Beer Museum",
+          "wiki_title": "Sapporo Beer Museum",
+          "lat": 43.0645,
+          "lng": 141.3689,
+          "order_index": 3,
+          "description": "Japan's only beer museum, housed in a red-brick brewery from the Meiji era.",
+          "seo_phrase": "Sapporo Beer Museum — Hokkaido's Brewing Heritage",
+          "seo_keywords": [
+            "Sapporo Beer Museum",
+            "Sapporo beer",
+            "Hokkaido brewery"
+          ],
+          "commons_file": "Sapporo Beer Museum 2018.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sapporo_Beer_Museum_2018.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Odori Park",
+            "Hokkaido Shrine"
+          ]
+        },
+        {
+          "name": "Hokkaido Shrine",
+          "wiki_title": "Hokkaido Shrine",
+          "lat": 43.0547,
+          "lng": 141.3089,
+          "order_index": 4,
+          "description": "The principal Shinto shrine of Hokkaido, set in a peaceful forest in Maruyama Park.",
+          "seo_phrase": "Hokkaido Shrine — Sacred Forest in Maruyama Park",
+          "seo_keywords": [
+            "Hokkaido Shrine",
+            "Maruyama Park",
+            "Shinto Sapporo"
+          ],
+          "commons_file": "Hokkaido Jingu Sapporo.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Hokkaido_Jingu_Sapporo.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Maruyama Park",
+            "Sapporo Beer Museum"
+          ]
+        },
+        {
+          "name": "Former Hokkaido Government Office",
+          "wiki_title": "Former Hokkaido Government Office",
+          "lat": 43.064,
+          "lng": 141.3469,
+          "order_index": 5,
+          "description": "A striking red-brick Neo-Baroque building nicknamed Akarenga, symbol of Hokkaido's pioneer era.",
+          "seo_phrase": "Former Hokkaido Government Office — Sapporo's Red Brick Landmark",
+          "seo_keywords": [
+            "Red Brick Office Sapporo",
+            "Akarenga",
+            "Hokkaido history"
+          ],
+          "commons_file": "Sapporo Red Brick Office 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Sapporo_Red_Brick_Office_2019.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Odori Park",
+            "Sapporo Clock Tower"
+          ]
+        },
+        {
+          "name": "Moerenuma Park",
+          "wiki_title": "Moerenuma Park",
+          "lat": 43.1242,
+          "lng": 141.4042,
+          "order_index": 6,
+          "description": "A futuristic public park where sculpture and landscape merge on a former landfill site.",
+          "seo_phrase": "Moerenuma Park — Isamu Noguchi's Sculptural Landscape",
+          "seo_keywords": [
+            "Moerenuma Park",
+            "Isamu Noguchi",
+            "Sapporo art park"
+          ],
+          "commons_file": "Moerenuma Park Sapporo.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Moerenuma_Park_Sapporo.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Hokkaido Shrine",
+            "Odori Park"
+          ]
+        },
+        {
+          "name": "Mount Moiwa",
+          "wiki_title": "Mount Moiwa",
+          "lat": 43.035,
+          "lng": 141.3078,
+          "order_index": 7,
+          "description": "A forested peak with a ropeway and observation deck famous for glittering city night views.",
+          "seo_phrase": "Mount Moiwa — Sapporo's Best Night View",
+          "seo_keywords": [
+            "Mount Moiwa",
+            "Sapporo night view",
+            "ropeway Sapporo"
+          ],
+          "commons_file": "Mount Moiwa night view Sapporo.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Mount_Moiwa_night_view_Sapporo.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Odori Park",
+            "Hokkaido Shrine"
+          ]
+        },
+        {
+          "name": "Nijo Market",
+          "wiki_title": "Nijo Market",
+          "lat": 43.0578,
+          "lng": 141.3547,
+          "order_index": 8,
+          "description": "A lively covered market serving Hokkaido's freshest seafood and produce since the early 1900s.",
+          "seo_phrase": "Nijo Market — Fresh Seafood and Hokkaido Street Food",
+          "seo_keywords": [
+            "Nijo Market",
+            "Sapporo seafood",
+            "Hokkaido crab"
+          ],
+          "commons_file": "Nijo Market Sapporo.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Nijo_Market_Sapporo.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Odori Park",
+            "Sapporo Clock Tower"
+          ]
+        },
+        {
+          "name": "Maruyama Zoo",
+          "wiki_title": "Maruyama Zoo",
+          "lat": 43.0542,
+          "lng": 141.305,
+          "order_index": 9,
+          "description": "Hokkaido's oldest zoo, set beside Maruyama Park and the Hokkaido Shrine forest.",
+          "seo_phrase": "Maruyama Zoo — Family Day Out in Sapporo",
+          "seo_keywords": [
+            "Maruyama Zoo",
+            "Sapporo zoo",
+            "family Sapporo"
+          ],
+          "commons_file": "Maruyama Zoo Sapporo.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Maruyama_Zoo_Sapporo.jpg",
+          "seo_priority": 84,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Hokkaido Shrine",
+            "Maruyama Park"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Fukuoka",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "nature",
+        "history"
+      ],
+      "wiki_title": "Fukuoka",
+      "seo": {
+        "title": "Top 10 Things to Do in undefined, Japan",
+        "description": "Discover 10 must-see landmarks in undefined, Japan. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to undefined? Explore the best places to visit in undefined, Japan.",
+        "keywords": [
+          "things to do in undefined",
+          "undefined Japan travel guide",
+          "best places to visit in undefined",
+          "undefined landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Dazaifu Tenmangu",
+          "wiki_title": "Dazaifu Tenman-gū",
+          "lat": 33.5211,
+          "lng": 130.5347,
+          "order_index": 0,
+          "description": "Kyushu's most visited shrine, dedicated to the god of scholarship and adorned with thousands of plum trees.",
+          "seo_phrase": "Dazaifu Tenmangu — Shrine of Learning and Plum Blossoms",
+          "seo_keywords": [
+            "Dazaifu Tenmangu",
+            "Fukuoka day trip",
+            "plum blossoms Kyushu"
+          ],
+          "commons_file": "Dazaifu Tenmangu shrine.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Dazaifu_Tenmangu_shrine.jpg",
+          "seo_priority": 97,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kyushu National Museum",
+            "Ohori Park"
+          ]
+        },
+        {
+          "name": "Ohori Park",
+          "wiki_title": "Ohori Park",
+          "lat": 33.5861,
+          "lng": 130.3758,
+          "order_index": 1,
+          "description": "A spacious city park centered on a large lake with jogging paths, boats, and a classic Japanese garden.",
+          "seo_phrase": "Ohori Park — Fukuoka's Scenic Lake and Japanese Garden",
+          "seo_keywords": [
+            "Ohori Park",
+            "Fukuoka lake",
+            "Japanese garden Fukuoka"
+          ],
+          "commons_file": "Ohori Park Fukuoka.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Ohori_Park_Fukuoka.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Fukuoka Castle",
+            "Fukuoka Art Museum"
+          ]
+        },
+        {
+          "name": "Fukuoka Castle",
+          "wiki_title": "Fukuoka Castle",
+          "lat": 33.5853,
+          "lng": 130.3786,
+          "order_index": 2,
+          "description": "Remains of a mighty hilltop castle in Maizuru Park, famous for spring cherry blossoms.",
+          "seo_phrase": "Fukuoka Castle Ruins — Maizuru Park and Cherry Blossoms",
+          "seo_keywords": [
+            "Fukuoka Castle",
+            "Maizuru Park",
+            "hanami Fukuoka"
+          ],
+          "commons_file": "Fukuoka Castle ruins.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Fukuoka_Castle_ruins.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Ohori Park",
+            "Kushida Shrine"
+          ]
+        },
+        {
+          "name": "Kushida Shrine",
+          "wiki_title": "Kushida Shrine",
+          "lat": 33.5925,
+          "lng": 130.4097,
+          "order_index": 3,
+          "description": "An ancient Shinto shrine in Hakata that hosts the spectacular Hakata Gion Yamakasa festival each July.",
+          "seo_phrase": "Kushida Shrine — Heart of Hakata and the Yamakasa Festival",
+          "seo_keywords": [
+            "Kushida Shrine",
+            "Hakata Yamakasa",
+            "Hakata shrine"
+          ],
+          "commons_file": "Kushida Shrine Fukuoka.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Kushida_Shrine_Fukuoka.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Canal City Hakata",
+            "Tochoji Temple"
+          ]
+        },
+        {
+          "name": "Canal City Hakata",
+          "wiki_title": "Canal City Hakata",
+          "lat": 33.5892,
+          "lng": 130.4117,
+          "order_index": 4,
+          "description": "A colorful waterfront mall where canals, fountains, and theaters create a mini city within the city.",
+          "seo_phrase": "Canal City Hakata — Shopping, Dining, and Fountain Shows",
+          "seo_keywords": [
+            "Canal City Hakata",
+            "Fukuoka shopping",
+            "Hakata ramen"
+          ],
+          "commons_file": "Canal City Hakata.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal_City_Hakata.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kushida Shrine",
+            "Tochoji Temple"
+          ]
+        },
+        {
+          "name": "Fukuoka Tower",
+          "wiki_title": "Fukuoka Tower",
+          "lat": 33.5931,
+          "lng": 130.3514,
+          "order_index": 5,
+          "description": "Japan's tallest seaside tower, covered in mirrored glass and overlooking Momochi Beach.",
+          "seo_phrase": "Fukuoka Tower — Seaside Observation on Momochi Beach",
+          "seo_keywords": [
+            "Fukuoka Tower",
+            "Momochi Beach",
+            "Hakata Bay view"
+          ],
+          "commons_file": "Fukuoka Tower 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Fukuoka_Tower_2019.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Momochi Seaside Park",
+            "Marine World Uminonakamichi"
+          ]
+        },
+        {
+          "name": "Nanzoin Temple",
+          "wiki_title": "Nanzoin Temple",
+          "lat": 33.6103,
+          "lng": 130.5714,
+          "order_index": 6,
+          "description": "A hillside temple famous for a 41-meter-long bronze Reclining Buddha surrounded by forest.",
+          "seo_phrase": "Nanzoin Temple — Giant Reclining Buddha of Sasaguri",
+          "seo_keywords": [
+            "Nanzoin Temple",
+            "Reclining Buddha",
+            "Sasaguri Fukuoka"
+          ],
+          "commons_file": "Nanzoin Reclining Buddha.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Nanzoin_Reclining_Buddha.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Dazaifu Tenmangu",
+            "Kushida Shrine"
+          ]
+        },
+        {
+          "name": "Momochi Seaside Park",
+          "wiki_title": "Momochi Seaside Park",
+          "lat": 33.595,
+          "lng": 130.3489,
+          "order_index": 7,
+          "description": "An artificial beach and waterfront park at the foot of Fukuoka Tower along Hakata Bay.",
+          "seo_phrase": "Momochi Seaside Park — Beach, Tower, and Bay Views",
+          "seo_keywords": [
+            "Momochi Beach",
+            "Hakata Bay",
+            "Fukuoka waterfront"
+          ],
+          "commons_file": "Momochi Beach Fukuoka.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Momochi_Beach_Fukuoka.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Fukuoka Tower",
+            "Ohori Park"
+          ]
+        },
+        {
+          "name": "Shofukuji Temple",
+          "wiki_title": "Shōfuku-ji",
+          "lat": 33.5983,
+          "lng": 130.4078,
+          "order_index": 8,
+          "description": "Founded in 1195, the oldest Zen temple in Japan with serene moss gardens and wooden halls.",
+          "seo_phrase": "Shofukuji Temple — Japan's First Zen Temple",
+          "seo_keywords": [
+            "Shofukuji",
+            "first Zen temple Japan",
+            "Hakata Buddhism"
+          ],
+          "commons_file": "Shofukuji Temple Fukuoka.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Shofukuji_Temple_Fukuoka.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Tochoji Temple",
+            "Kushida Shrine"
+          ]
+        },
+        {
+          "name": "Tochoji Temple",
+          "wiki_title": "Tōchō-ji",
+          "lat": 33.5894,
+          "lng": 130.4125,
+          "order_index": 9,
+          "description": "A Shingon temple housing one of Japan's largest wooden seated Buddha statues.",
+          "seo_phrase": "Tochoji Temple — Giant Wooden Buddha in Hakata",
+          "seo_keywords": [
+            "Tochoji Temple",
+            "wooden Buddha Fukuoka",
+            "Hakata temple"
+          ],
+          "commons_file": "Tochoji Temple Fukuoka.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Tochoji_Temple_Fukuoka.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kushida Shrine",
+            "Canal City Hakata"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Kanazawa",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Kanazawa",
+      "seo": {
+        "title": "Top 10 Things to Do in undefined, Japan",
+        "description": "Discover 10 must-see landmarks in undefined, Japan. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to undefined? Explore the best places to visit in undefined, Japan.",
+        "keywords": [
+          "things to do in undefined",
+          "undefined Japan travel guide",
+          "best places to visit in undefined",
+          "undefined landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Kenroku-en",
+          "wiki_title": "Kenroku-en",
+          "lat": 36.562,
+          "lng": 136.6626,
+          "order_index": 0,
+          "description": "A strolling garden ranked among Japan's three finest, beside Kanazawa Castle.",
+          "seo_phrase": "Kenroku-en — One of Japan's Three Great Gardens",
+          "seo_keywords": [
+            "Kenroku-en",
+            "Kanazawa garden",
+            "Japan great gardens"
+          ],
+          "commons_file": "Kenroku-en Garden Kanazawa.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Kenroku-en_Garden_Kanazawa.jpg",
+          "seo_priority": 100,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kanazawa Castle",
+            "Kanazawa Castle Park"
+          ]
+        },
+        {
+          "name": "Kanazawa Castle",
+          "wiki_title": "Kanazawa Castle",
+          "lat": 36.5656,
+          "lng": 136.6597,
+          "order_index": 1,
+          "description": "Seat of the powerful Maeda clan, with striking lead-covered roof tiles and restored wooden gates.",
+          "seo_phrase": "Kanazawa Castle — Restored Halls and Lead-Tiled Roofs",
+          "seo_keywords": [
+            "Kanazawa Castle",
+            "Maeda clan",
+            "Ishikawa-mon gate"
+          ],
+          "commons_file": "Kanazawa Castle 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Kanazawa_Castle_2019.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kenroku-en",
+            "Nagamachi District"
+          ]
+        },
+        {
+          "name": "Higashi Chaya District",
+          "wiki_title": "Higashi Chaya District",
+          "lat": 36.5722,
+          "lng": 136.6678,
+          "order_index": 2,
+          "description": "A historic street of ochaya teahouses where geisha once entertained merchants and samurai.",
+          "seo_phrase": "Higashi Chaya District — Kanazawa's Geisha Quarter",
+          "seo_keywords": [
+            "Higashi Chaya",
+            "Kanazawa geisha",
+            "machiya teahouses"
+          ],
+          "commons_file": "Higashi Chaya District Kanazawa.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Higashi_Chaya_District_Kanazawa.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kazuemachi Chaya District",
+            "Asano River"
+          ]
+        },
+        {
+          "name": "Nagamachi Samurai District",
+          "wiki_title": "Nagamachi District",
+          "lat": 36.5619,
+          "lng": 136.6536,
+          "order_index": 3,
+          "description": "Former samurai neighborhood with earthen walls, canals, and restored warrior residences.",
+          "seo_phrase": "Nagamachi — Samurai Residences and Earthen Walls",
+          "seo_keywords": [
+            "Nagamachi",
+            "samurai district Kanazawa",
+            "Nomura-ke House"
+          ],
+          "commons_file": "Nagamachi Samurai District Kanazawa.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Nagamachi_Samurai_District_Kanazawa.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kanazawa Castle",
+            "Kenroku-en"
+          ]
+        },
+        {
+          "name": "21st Century Museum of Contemporary Art",
+          "wiki_title": "21st Century Museum of Contemporary Art, Kanazawa",
+          "lat": 36.5606,
+          "lng": 136.6589,
+          "order_index": 4,
+          "description": "An award-winning circular museum blending interactive contemporary art with public space.",
+          "seo_phrase": "21st Century Museum — Contemporary Art in Kanazawa",
+          "seo_keywords": [
+            "21st Century Museum Kanazawa",
+            "contemporary art Japan",
+            "Swimming Pool Leandro Erlich"
+          ],
+          "commons_file": "21st Century Museum Kanazawa.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/21st_Century_Museum_Kanazawa.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Kenroku-en",
+            "Kanazawa Castle"
+          ]
+        },
+        {
+          "name": "Omicho Market",
+          "wiki_title": "Ōmicho Market",
+          "lat": 36.5714,
+          "lng": 136.6569,
+          "order_index": 5,
+          "description": "A lively market called Kanazawa's Kitchen for crab, sashimi, and Sea of Japan specialties.",
+          "seo_phrase": "Omicho Market — Kanazawa's Kitchen by the Sea",
+          "seo_keywords": [
+            "Omicho Market",
+            "Kanazawa seafood",
+            "crab market Japan"
+          ],
+          "commons_file": "Omicho Market Kanazawa.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Omicho_Market_Kanazawa.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kanazawa Castle",
+            "Kenroku-en"
+          ]
+        },
+        {
+          "name": "Myoryuji Temple",
+          "wiki_title": "Myōryū-ji",
+          "lat": 36.5547,
+          "lng": 136.7019,
+          "order_index": 6,
+          "description": "A temple nicknamed Ninja Temple for its maze of secret tunnels, traps, and hidden rooms.",
+          "seo_phrase": "Myoryuji (Ninja Temple) — Secret Passages and Traps",
+          "seo_keywords": [
+            "Myoryuji",
+            "Ninja Temple Kanazawa",
+            "secret passages"
+          ],
+          "commons_file": "Myoryuji Ninja Temple Kanazawa.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Myoryuji_Ninja_Temple_Kanazawa.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Higashi Chaya District",
+            "Kazuemachi Chaya District"
+          ]
+        },
+        {
+          "name": "D.T. Suzuki Museum",
+          "wiki_title": "D. T. Suzuki Museum",
+          "lat": 36.5578,
+          "lng": 136.6622,
+          "order_index": 7,
+          "description": "A contemplative museum dedicated to Zen philosopher D.T. Suzuki, with water gardens and clean lines.",
+          "seo_phrase": "D.T. Suzuki Museum — Zen Philosophy in Architecture",
+          "seo_keywords": [
+            "D.T. Suzuki Museum",
+            "Zen Kanazawa",
+            "Taniguchi architecture"
+          ],
+          "commons_file": "DT Suzuki Museum Kanazawa.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/DT_Suzuki_Museum_Kanazawa.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Kenroku-en",
+            "21st Century Museum of Contemporary Art"
+          ]
+        },
+        {
+          "name": "Oyama Shrine",
+          "wiki_title": "Oyama Shrine",
+          "lat": 36.5661,
+          "lng": 136.6564,
+          "order_index": 8,
+          "description": "A shrine known for its eclectic gate that once held a Dutch-style stained-glass lantern on top.",
+          "seo_phrase": "Oyama Shrine — Dutch-Influenced Gate in Kanazawa",
+          "seo_keywords": [
+            "Oyama Shrine",
+            "Shinmon gate",
+            "Dutch influence Kanazawa"
+          ],
+          "commons_file": "Oyama Shrine Kanazawa.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Oyama_Shrine_Kanazawa.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kenroku-en",
+            "Omicho Market"
+          ]
+        },
+        {
+          "name": "Kazuemachi Chaya District",
+          "wiki_title": "Kazue-machi",
+          "lat": 36.5697,
+          "lng": 136.6644,
+          "order_index": 9,
+          "description": "A lesser-known geisha district on the Asano River, quieter than Higashi Chaya but equally atmospheric.",
+          "seo_phrase": "Kazuemachi Chaya — Quiet Teahouses by the Asano River",
+          "seo_keywords": [
+            "Kazuemachi",
+            "Asano River Kanazawa",
+            "teahouse district"
+          ],
+          "commons_file": "Kazuemachi Clay District Kanazawa.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Kazuemachi_Clay_District_Kanazawa.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Higashi Chaya District",
+            "Myoryuji Temple"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Kobe",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "nature"
+      ],
+      "wiki_title": "Kobe",
+      "seo": {
+        "title": "Top 10 Things to Do in undefined, Japan",
+        "description": "Discover 10 must-see landmarks in undefined, Japan. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to undefined? Explore the best places to visit in undefined, Japan.",
+        "keywords": [
+          "things to do in undefined",
+          "undefined Japan travel guide",
+          "best places to visit in undefined",
+          "undefined landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Kobe Harborland",
+          "wiki_title": "Kobe Harborland",
+          "lat": 34.6814,
+          "lng": 135.1869,
+          "order_index": 0,
+          "description": "A bayside shopping and entertainment district with illuminated arcades and harbor views.",
+          "seo_phrase": "Kobe Harborland — Waterfront Shopping and Night Views",
+          "seo_keywords": [
+            "Kobe Harborland",
+            "Kobe waterfront",
+            "port night view"
+          ],
+          "commons_file": "Kobe Harborland at night.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Kobe_Harborland_at_night.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Meriken Park",
+            "Kobe Port Tower"
+          ]
+        },
+        {
+          "name": "Mount Rokko",
+          "wiki_title": "Mount Rokkō",
+          "lat": 34.7778,
+          "lng": 135.2436,
+          "order_index": 1,
+          "description": "A mountain ridge behind Kobe famous for night views, alpine plants, and cool summer retreats.",
+          "seo_phrase": "Mount Rokko — Panoramic Views Over Kobe and Osaka Bay",
+          "seo_keywords": [
+            "Mount Rokko",
+            "Kobe night view",
+            "Rokko ropeway"
+          ],
+          "commons_file": "Mount Rokko view Kobe.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mount_Rokko_view_Kobe.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Nunobiki Falls",
+            "Arima Onsen"
+          ]
+        },
+        {
+          "name": "Nunobiki Falls",
+          "wiki_title": "Nunobiki Falls",
+          "lat": 34.6919,
+          "lng": 135.1886,
+          "order_index": 2,
+          "description": "A dramatic cascade of four waterfalls in the hills behind Shin-Kobe Station.",
+          "seo_phrase": "Nunobiki Falls — Sacred Waterfalls Above Kobe",
+          "seo_keywords": [
+            "Nunobiki Falls",
+            "hiking Kobe",
+            "waterfalls Kansai"
+          ],
+          "commons_file": "Nunobiki Falls Kobe.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Nunobiki_Falls_Kobe.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Shin-Kobe Station",
+            "Kitano-cho"
+          ]
+        },
+        {
+          "name": "Ikuta Shrine",
+          "wiki_title": "Ikuta Shrine",
+          "lat": 34.6947,
+          "lng": 135.19,
+          "order_index": 3,
+          "description": "A Shinto shrine dating to the 3rd century, surrounded by downtown Kobe's shopping streets.",
+          "seo_phrase": "Ikuta Shrine — Ancient Sanctuary in Modern Kobe",
+          "seo_keywords": [
+            "Ikuta Shrine",
+            "Sannomiya Kobe",
+            "ancient shrine Japan"
+          ],
+          "commons_file": "Ikuta Shrine Kobe.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Ikuta_Shrine_Kobe.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Nunobiki Falls",
+            "Kobe Harborland"
+          ]
+        },
+        {
+          "name": "Kobe Port Tower",
+          "wiki_title": "Kobe Port Tower",
+          "lat": 34.6825,
+          "lng": 135.1861,
+          "order_index": 4,
+          "description": "A 108-meter red steel tower shaped like a Japanese drum, symbol of Kobe's port.",
+          "seo_phrase": "Kobe Port Tower — Iconic Red Lattice Harbor Landmark",
+          "seo_keywords": [
+            "Kobe Port Tower",
+            "Meriken Park",
+            "Kobe landmark"
+          ],
+          "commons_file": "Kobe Port Tower 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Kobe_Port_Tower_2019.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Meriken Park",
+            "Kobe Harborland"
+          ]
+        },
+        {
+          "name": "Nankinmachi",
+          "wiki_title": "Nankinmachi",
+          "lat": 34.6892,
+          "lng": 135.1889,
+          "order_index": 5,
+          "description": "Kobe's compact Chinatown near Motomachi, packed with food stalls and festival atmosphere.",
+          "seo_phrase": "Nankinmachi — Kobe's Vibrant Chinatown",
+          "seo_keywords": [
+            "Nankinmachi",
+            "Kobe Chinatown",
+            "pork buns Kobe"
+          ],
+          "commons_file": "Nankinmachi Kobe Chinatown.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Nankinmachi_Kobe_Chinatown.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Meriken Park",
+            "Ikuta Shrine"
+          ]
+        },
+        {
+          "name": "Arima Onsen",
+          "wiki_title": "Arima Onsen",
+          "lat": 34.7994,
+          "lng": 135.2472,
+          "order_index": 6,
+          "description": "A historic mountain onsen town with famous golden and silver thermal waters.",
+          "seo_phrase": "Arima Onsen — Japan's Oldest Hot Spring Town",
+          "seo_keywords": [
+            "Arima Onsen",
+            "Kobe hot springs",
+            "onsen day trip"
+          ],
+          "commons_file": "Arima Onsen street.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Arima_Onsen_street.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mount Rokko",
+            "Nunobiki Falls"
+          ]
+        },
+        {
+          "name": "Meriken Park",
+          "wiki_title": "Meriken Park",
+          "lat": 34.6822,
+          "lng": 135.1847,
+          "order_index": 7,
+          "description": "A waterfront park with modern art, the Port Tower, and memorials to the 1995 Great Hanshin Earthquake.",
+          "seo_phrase": "Meriken Park — Harbor Promenade and Earthquake Memorial",
+          "seo_keywords": [
+            "Meriken Park",
+            "BE Kobe",
+            "Kobe earthquake memorial"
+          ],
+          "commons_file": "Meriken Park Kobe.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Meriken_Park_Kobe.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kobe Port Tower",
+            "Kobe Harborland"
+          ]
+        },
+        {
+          "name": "Kitano-cho",
+          "wiki_title": "Kitano Ijinkan",
+          "lat": 34.69833,
+          "lng": 135.19028,
+          "order_index": 8,
+          "description": "A hillside district of ornate Western-style mansions opened when Kobe became an international port.",
+          "seo_phrase": "Kitano-cho — Western Residences and Ijinkan Houses",
+          "seo_keywords": [
+            "Kitano-cho",
+            "ijinkan houses",
+            "Weathercock House Kobe"
+          ],
+          "commons_file": "Weathercock House Kobe Kitano Ijinkan 風見鶏の館（旧トーマス住宅）.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Weathercock_House_Kobe_Kitano_Ijinkan_%E9%A2%A8%E8%A6%8B%E9%B6%8F%E3%81%AE%E9%A4%A8%EF%BC%88%E6%97%A7%E3%83%88%E3%83%BC%E3%83%9E%E3%82%B9%E4%BD%8F%E5%AE%85%EF%BC%89.jpg",
+          "maps_query": "Kitano Ijinkan, Kobe, Japan",
+          "wiki_story": "Kitano-chō or Kitano Ijinkan is a historical district in Kobe, Hyōgo Prefecture, Japan, which contains a number of foreign residences from the late Meiji and early Taishō eras of Japanese history. While the term ijinkan can refer to any foreign residence of this period in Japan, it usually refers to those of Kitano given the number and high concentration of those that remain.",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Ikuta Shrine",
+            "Nunobiki Falls"
+          ]
+        },
+        {
+          "name": "Kobe Earthquake Memorial Museum",
+          "wiki_title": "The Great Hanshin-Awaji Earthquake Memorial Disaster Reduction and Human Renovation Institution",
+          "lat": 34.69833,
+          "lng": 135.21472,
+          "order_index": 9,
+          "description": "A moving museum documenting the 1995 Great Hanshin Earthquake and Kobe's recovery.",
+          "seo_phrase": "Kobe Earthquake Memorial — Lessons of the 1995 Hanshin Disaster",
+          "seo_keywords": [
+            "Kobe earthquake museum",
+            "1995 Hanshin earthquake",
+            "disaster memorial Japan"
+          ],
+          "commons_file": "Disaster Reduction and Human Renovation Institution.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Disaster_Reduction_and_Human_Renovation_Institution.jpg",
+          "maps_query": "Disaster Reduction and Human Renovation Institution, Kobe, Japan",
+          "wiki_story": "The Great Hanshin-Awaji Earthquake Memorial Disaster Reduction and Human Renovation Institution is the earthquake disaster memorial museum located in Chūō-ku, Kobe (HAT Kobe), Hyōgo Prefecture in Japan. It collects and preserves materials related to the Great Hanshin-Awaji Earthquake and subsequent reconstruction.",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Meriken Park",
+            "Kobe Harborland"
+          ]
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "Japan Nature & Road Trip Adventure",
+    "subtitle": "Explore Japan beyond the cities — parks, coast, and scenic drives.",
+    "wiki_title": "Japan",
+    "totalDays": 10,
+    "seo": {
+      "title": "Japan Road Trip — Nature Adventure Guide",
+      "description": "Plan a Japan road trip with GPS stops, national parks, and scenic routes.",
+      "intro": "Explore Japan beyond the cities with this nature adventure route.",
+      "keywords": [
+        "Japan road trip",
+        "Japan nature",
+        "Japan by car"
+      ]
+    },
+    "places": [
+      {
+        "name": "Mount Fuji",
+        "wiki_title": "Mount Fuji",
+        "region": "Chubu",
+        "lat": 35.3606,
+        "lng": 138.7278,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "summer",
+          "autumn"
+        ],
+        "description": "Japan's highest peak and most recognizable symbol, a UNESCO World Heritage cultural site.",
+        "seo_phrase": "Mount Fuji — Japan's Sacred Summit and Iconic Views",
+        "seo_keywords": [
+          "Mount Fuji",
+          "Fuji climb",
+          "Japan road trip"
+        ],
+        "commons_file": "Views of Mount Fuji from Ōwakudani 20211202.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Views_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg",
+        "seo_priority": 100,
+        "best_season": [
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Hakone",
+        "wiki_title": "Hakone",
+        "region": "Kanto",
+        "lat": 35.2324,
+        "lng": 139.1069,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A classic hot-spring region with lakes, volcanic valleys, and art museums near Tokyo.",
+        "seo_phrase": "Hakone — Onsen, Lake Ashi, and Fuji Views",
+        "seo_keywords": [
+          "Hakone",
+          "Lake Ashi",
+          "onsen near Tokyo"
+        ],
+        "commons_file": "Lake Ashi and Mount Fuji.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Lake_Ashi_and_Mount_Fuji.jpg",
+        "seo_priority": 98,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Nikko National Park",
+        "wiki_title": "Nikkō National Park",
+        "region": "Kanto",
+        "lat": 36.7581,
+        "lng": 139.5986,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A mountain region of lavish shrines, waterfalls, and hiking in Tochigi Prefecture.",
+        "seo_phrase": "Nikko — Shrines, Waterfalls, and Mountain Forests",
+        "seo_keywords": [
+          "Nikko",
+          "Toshogu Shrine",
+          "Kegon Falls"
+        ],
+        "commons_file": "Kegon Falls Nikko.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Kegon_Falls_Nikko.jpg",
+        "seo_priority": 97,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Kamikochi",
+        "wiki_title": "Kamikōchi",
+        "region": "Chubu",
+        "lat": 36.2553,
+        "lng": 137.6481,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A highland valley in the Japanese Alps with pristine rivers and dramatic peak views.",
+        "seo_phrase": "Kamikochi — Alpine Valley in the Japanese Alps",
+        "seo_keywords": [
+          "Kamikochi",
+          "Japanese Alps",
+          "hiking Japan"
+        ],
+        "commons_file": "Kamikochi Azusa River.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Kamikochi_Azusa_River.jpg",
+        "seo_priority": 95,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Shirakawa-go",
+        "wiki_title": "Shirakawa, Gifu",
+        "region": "Chubu",
+        "lat": 36.2592,
+        "lng": 136.8981,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "description": "A UNESCO village of steep thatched roofs built to survive heavy mountain snow.",
+        "seo_phrase": "Shirakawa-go — Gassho Farmhouses and Snowy Valleys",
+        "seo_keywords": [
+          "Shirakawa-go",
+          "gassho houses",
+          "UNESCO village Japan"
+        ],
+        "commons_file": "Shirakawa-go gassho zukuri.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Shirakawa-go_gassho_zukuri.jpg",
+        "seo_priority": 96,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Miyajima Island",
+        "wiki_title": "Itsukushima",
+        "region": "Chugoku",
+        "lat": 34.2958,
+        "lng": 132.3197,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Sacred island famous for a vermilion torii gate rising from the Seto Inland Sea.",
+        "seo_phrase": "Miyajima — Floating Torii Gate and Itsukushima Shrine",
+        "seo_keywords": [
+          "Miyajima",
+          "Itsukushima Shrine",
+          "floating torii"
+        ],
+        "commons_file": "Itsukushima torii at high tide.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Itsukushima_torii_at_high_tide.jpg",
+        "seo_priority": 99,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Izu Peninsula",
+        "wiki_title": "Izu Peninsula",
+        "region": "Kanto",
+        "lat": 34.9,
+        "lng": 139.05,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A volcanic peninsula south of Tokyo with hot springs, beaches, and scenic coastal roads.",
+        "seo_phrase": "Izu Peninsula — Coastal Hot Springs and Ocean Drives",
+        "seo_keywords": [
+          "Izu Peninsula",
+          "coastal road trip Japan",
+          "Shuzenji onsen"
+        ],
+        "commons_file": "Izu coast Japan.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Izu_coast_Japan.jpg",
+        "seo_priority": 91,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Yakushima",
+        "wiki_title": "Yakushima",
+        "region": "Kagoshima",
+        "lat": 30.3581,
+        "lng": 130.5289,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A subtropical island UNESCO site with ancient yakusugi cedar forests and heavy rainfall.",
+        "seo_phrase": "Yakushima — Ancient Cedars and Rainforest Hiking",
+        "seo_keywords": [
+          "Yakushima",
+          "yakusugi cedar",
+          "rainforest Japan"
+        ],
+        "commons_file": "Yakushima cedar forest.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Yakushima_cedar_forest.jpg",
+        "seo_priority": 93,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Kumano Kodo",
+        "wiki_title": "Kumano Kodo",
+        "region": "Kansai",
+        "lat": 33.84,
+        "lng": 135.89,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "autumn"
+        ],
+        "description": "UNESCO pilgrimage paths through cedar forests linking grand shrines of the Kumano region.",
+        "seo_phrase": "Kumano Kodo — Ancient Pilgrimage Trails",
+        "seo_keywords": [
+          "Kumano Kodo",
+          "pilgrimage trail Japan",
+          "Wakayama hiking"
+        ],
+        "commons_file": "Kumano Kodo pilgrimage trail.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Kumano_Kodo_pilgrimage_trail.jpg",
+        "seo_priority": 94,
+        "best_season": [
+          "spring",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Jigokudani Monkey Park",
+        "wiki_title": "Jigokudani Monkey Park",
+        "region": "Chubu",
+        "lat": 36.7328,
+        "lng": 138.4625,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "winter"
+        ],
+        "description": "A valley park where wild snow monkeys soak in natural thermal pools during winter.",
+        "seo_phrase": "Jigokudani — Snow Monkeys in Hot Springs",
+        "seo_keywords": [
+          "Jigokudani",
+          "snow monkeys",
+          "Nagano hot springs"
+        ],
+        "commons_file": "Jigokudani snow monkey.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Jigokudani_snow_monkey.jpg",
+        "seo_priority": 95,
+        "best_season": [
+          "spring",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "europe-travel-data-generator",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Automated Europe travel dataset generator (Wikidata + Wikimedia Commons CC0/PD)",
+  "scripts": {
+    "start": "node run_all.js",
+    "generate": "node run_all.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

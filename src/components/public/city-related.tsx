@@ -1,0 +1,99 @@
+import { Link } from "@/i18n/navigation";
+import { ArrowRight, MapPin } from "lucide-react";
+import { getTranslations } from "next-intl/server";
+
+interface RelatedCity {
+  city: string;
+  country: string;
+  emoji: string;
+  gradient: string;
+  slug: string; // country/city
+}
+
+const CITY_RELATIONS: Record<string, RelatedCity[]> = {
+  paris: [
+    { city: "Rome", country: "Italy", emoji: "🏛️", gradient: "from-[oklch(0.28_0.08_30)] to-[oklch(0.18_0.06_30)]", slug: "italy/rome" },
+    { city: "Barcelona", country: "Spain", emoji: "🎨", gradient: "from-[oklch(0.28_0.09_55)] to-[oklch(0.18_0.07_55)]", slug: "spain/barcelona" },
+    { city: "Santorini", country: "Greece", emoji: "🌊", gradient: "from-[oklch(0.25_0.10_220)] to-[oklch(0.16_0.08_220)]", slug: "greece/santorini" },
+  ],
+  rome: [
+    { city: "Paris", country: "France", emoji: "🗼", gradient: "from-[oklch(0.28_0.08_275)] to-[oklch(0.18_0.06_275)]", slug: "france/paris" },
+    { city: "Barcelona", country: "Spain", emoji: "🎨", gradient: "from-[oklch(0.28_0.09_55)] to-[oklch(0.18_0.07_55)]", slug: "spain/barcelona" },
+    { city: "Santorini", country: "Greece", emoji: "🌊", gradient: "from-[oklch(0.25_0.10_220)] to-[oklch(0.16_0.08_220)]", slug: "greece/santorini" },
+  ],
+  barcelona: [
+    { city: "Paris", country: "France", emoji: "🗼", gradient: "from-[oklch(0.28_0.08_275)] to-[oklch(0.18_0.06_275)]", slug: "france/paris" },
+    { city: "Rome", country: "Italy", emoji: "🏛️", gradient: "from-[oklch(0.28_0.08_30)] to-[oklch(0.18_0.06_30)]", slug: "italy/rome" },
+    { city: "Santorini", country: "Greece", emoji: "🌊", gradient: "from-[oklch(0.25_0.10_220)] to-[oklch(0.16_0.08_220)]", slug: "greece/santorini" },
+  ],
+  santorini: [
+    { city: "Rome", country: "Italy", emoji: "🏛️", gradient: "from-[oklch(0.28_0.08_30)] to-[oklch(0.18_0.06_30)]", slug: "italy/rome" },
+    { city: "Paris", country: "France", emoji: "🗼", gradient: "from-[oklch(0.28_0.08_275)] to-[oklch(0.18_0.06_275)]", slug: "france/paris" },
+    { city: "Barcelona", country: "Spain", emoji: "🎨", gradient: "from-[oklch(0.28_0.09_55)] to-[oklch(0.18_0.07_55)]", slug: "spain/barcelona" },
+  ],
+  tokyo: [
+    { city: "Paris", country: "France", emoji: "🗼", gradient: "from-[oklch(0.28_0.08_275)] to-[oklch(0.18_0.06_275)]", slug: "france/paris" },
+    { city: "New York", country: "USA", emoji: "🗽", gradient: "from-[oklch(0.25_0.08_240)] to-[oklch(0.16_0.06_240)]", slug: "usa/new-york" },
+    { city: "Barcelona", country: "Spain", emoji: "🎨", gradient: "from-[oklch(0.28_0.09_55)] to-[oklch(0.18_0.07_55)]", slug: "spain/barcelona" },
+  ],
+  "new-york": [
+    { city: "Tokyo", country: "Japan", emoji: "⛩️", gradient: "from-[oklch(0.28_0.08_15)] to-[oklch(0.18_0.06_15)]", slug: "japan/tokyo" },
+    { city: "Paris", country: "France", emoji: "🗼", gradient: "from-[oklch(0.28_0.08_275)] to-[oklch(0.18_0.06_275)]", slug: "france/paris" },
+    { city: "Barcelona", country: "Spain", emoji: "🎨", gradient: "from-[oklch(0.28_0.09_55)] to-[oklch(0.18_0.07_55)]", slug: "spain/barcelona" },
+  ],
+};
+
+interface Props {
+  currentCity: string; // lowercase slug, e.g. "paris"
+  locale: string;
+}
+
+export async function CityRelated({ currentCity, locale }: Props) {
+  const related = CITY_RELATIONS[currentCity.toLowerCase()] ?? [];
+  if (related.length === 0) return null;
+
+  const t = await getTranslations({ locale, namespace: "cityRelated" });
+
+  return (
+    <section className="container max-w-4xl mx-auto px-6 pt-10 pb-14">
+      <div className="flex items-center gap-2.5 mb-6">
+        <span className="text-xl">✈️</span>
+        <h2 className="text-base font-bold text-stone-700">{t("title")}</h2>
+        <div className="flex-1 h-px bg-stone-200" />
+      </div>
+
+      <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+        {related.map((city) => {
+          const [countrySlug, citySlug] = city.slug.split("/");
+          return (
+            <Link
+              key={city.slug}
+              href={`/explore/${countrySlug}/${citySlug}`}
+              locale={locale}
+              className="group relative overflow-hidden rounded-2xl border border-white/8 hover:border-white/20 transition-all duration-300 hover:scale-[1.02]"
+            >
+              {/* Gradient bg */}
+              <div
+                className={`absolute inset-0 bg-gradient-to-br ${city.gradient} group-hover:opacity-90 transition-opacity`}
+              />
+
+              {/* Content */}
+              <div className="relative z-10 p-5">
+                <div className="text-3xl mb-3">{city.emoji}</div>
+                <h3 className="text-white font-bold text-lg leading-tight">{city.city}</h3>
+                <div className="flex items-center gap-1 mt-1 mb-4">
+                  <MapPin className="w-3 h-3 text-white/50" />
+                  <span className="text-white/50 text-xs">{city.country}</span>
+                </div>
+                <div className="flex items-center gap-1 text-white/60 text-xs font-semibold group-hover:text-white transition-colors">
+                  {t("explore")}
+                  <ArrowRight className="w-3 h-3 transition-transform group-hover:translate-x-1" />
+                </div>
+              </div>
+            </Link>
+          );
+        })}
+      </div>
+    </section>
+  );
+}

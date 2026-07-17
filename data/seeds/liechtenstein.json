@@ -1,0 +1,2910 @@
+{
+  "version": 2,
+  "country": "Liechtenstein",
+  "published": true,
+  "cities": [
+    {
+      "city": "Vaduz",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Vaduz",
+      "seo": {
+        "title": "Top 10 Things to Do in Vaduz, Liechtenstein",
+        "description": "Discover 10 must-see landmarks in Vaduz, Liechtenstein. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Vaduz? Explore the best places to visit in Vaduz, Liechtenstein.",
+        "keywords": [
+          "things to do in Vaduz",
+          "Vaduz Liechtenstein travel guide",
+          "best places to visit in Vaduz",
+          "Vaduz landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Schloss Vaduz",
+          "wiki_title": "Vaduz Castle",
+          "lat": 47.1394,
+          "lng": 9.5244,
+          "order_index": 0,
+          "description": "The majestic hilltop palace serving as the official residence of the Princely Family.",
+          "seo_phrase": "Vaduz Castle Guide - The Royal Palace of Liechtenstein",
+          "seo_keywords": [
+            "Vaduz Castle",
+            "Liechtenstein royal palace",
+            "medieval fortress",
+            "Vaduz sightseeing",
+            "Rhine valley views"
+          ],
+          "commons_file": "Vaduz Castle Liechtenstein.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Vaduz_Castle_Liechtenstein.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "kunstmuseum_liechtenstein",
+            "postal_museum"
+          ]
+        },
+        {
+          "name": "Kunstmuseum Liechtenstein",
+          "wiki_title": "Kunstmuseum Liechtenstein",
+          "lat": 47.1391,
+          "lng": 9.5225,
+          "order_index": 1,
+          "description": "A striking black-cube museum showcasing cutting-edge modern and contemporary art.",
+          "seo_phrase": "Kunstmuseum Liechtenstein - Modern Art Gallery in Vaduz",
+          "seo_keywords": [
+            "Kunstmuseum Liechtenstein",
+            "Vaduz art museum",
+            "contemporary art Vaduz",
+            "modern art gallery",
+            "Liechtenstein exhibitions"
+          ],
+          "commons_file": "Kunstmuseum Liechtenstein Vaduz.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Kunstmuseum_Liechtenstein_Vaduz.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "vaduz_castle",
+            "national_museum"
+          ]
+        },
+        {
+          "name": "Liechtenstein Treasure Chamber",
+          "wiki_title": "Liechtenstein Treasure Chamber",
+          "lat": 47.1384,
+          "lng": 9.5228,
+          "order_index": 2,
+          "description": "A glittering high-security vault showcasing the crown jewels and historical treasures of the Prince.",
+          "seo_phrase": "Schatzkammer Liechtenstein - Royal Treasure Chamber Vaduz",
+          "seo_keywords": [
+            "Treasure Chamber Vaduz",
+            "Schatzkammer Liechtenstein",
+            "crown jewels",
+            "princely collection",
+            "moon rocks museum"
+          ],
+          "commons_file": "Schatzkammer Liechtenstein Entrance.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Schatzkammer_Liechtenstein_Entrance.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "postal_museum",
+            "national_museum"
+          ]
+        },
+        {
+          "name": "Liechtenstein National Museum",
+          "wiki_title": "Liechtenstein National Museum",
+          "lat": 47.1385,
+          "lng": 9.5227,
+          "order_index": 3,
+          "description": "A comprehensive cultural museum detailing the country's unique history and natural world.",
+          "seo_phrase": "Liechtenstein National Museum - Heritage and Culture",
+          "seo_keywords": [
+            "Liechtenstein National Museum",
+            "Landesmuseum Vaduz",
+            "Liechtenstein history",
+            "cultural heritage Vaduz",
+            "historical artifacts"
+          ],
+          "commons_file": "Liechtensteinisches Landesmuseum.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Liechtensteinisches_Landesmuseum.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "kunstmuseum_liechtenstein",
+            "parliament_building"
+          ]
+        },
+        {
+          "name": "Das Rote Haus",
+          "wiki_title": "Red House (Vaduz)",
+          "lat": 47.1436,
+          "lng": 9.5273,
+          "order_index": 4,
+          "description": "A striking medieval residence featuring dark red stepped gables and deep viticulture history.",
+          "seo_phrase": "The Red House Vaduz - Iconic Medieval Vine-Grower Landmark",
+          "seo_keywords": [
+            "Red House Vaduz",
+            "Rotes Haus",
+            "medieval tower",
+            "Vaduz vineyards",
+            "historic residential landmarks"
+          ],
+          "commons_file": "Rotes Haus Vaduz 2020.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Rotes_Haus_Vaduz_2020.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "vaduz_castle",
+            "kunstmuseum_liechtenstein"
+          ]
+        },
+        {
+          "name": "Cathedral of St. Florin",
+          "wiki_title": "Cathedral of St. Florin",
+          "lat": 47.1363,
+          "lng": 9.5227,
+          "order_index": 5,
+          "description": "The center of Roman Catholic worship in the country, featuring striking Neo-Gothic architectural spires.",
+          "seo_phrase": "St. Florin Cathedral Vaduz - Neo-Gothic Landmark Church",
+          "seo_keywords": [
+            "St Florin Cathedral",
+            "Vaduz church",
+            "Neo Gothic architecture Vaduz",
+            "religious sites Liechtenstein",
+            "Vaduz cathedral spire"
+          ],
+          "commons_file": "St. Florin Cathedral, Vaduz.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/St._Florin_Cathedral%2C_Vaduz.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "government_house",
+            "parliament_building"
+          ]
+        },
+        {
+          "name": "Alte Rheinbrücke",
+          "wiki_title": "Old Rhine Bridge (Vaduz)",
+          "lat": 47.1347,
+          "lng": 9.5122,
+          "order_index": 6,
+          "description": "The last remaining old covered wooden bridge spanning across the upper Rhine river boundary.",
+          "seo_phrase": "Old Rhine Bridge - Historical Covered Wooden Bridge",
+          "seo_keywords": [
+            "Old Rhine Bridge",
+            "Alte Rheinbrücke",
+            "wooden bridge Vaduz",
+            "cross Switzerland Liechtenstein border",
+            "Rhine river walkways"
+          ],
+          "commons_file": "Alte Rheinbruecke Vaduz Sevelen 2021.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Alte_Rheinbruecke_Vaduz_Sevelen_2021.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "cathedral_st_florin",
+            "government_house"
+          ]
+        },
+        {
+          "name": "Postmuseum",
+          "wiki_title": "Postal Museum (Liechtenstein)",
+          "lat": 47.1386,
+          "lng": 9.5227,
+          "order_index": 7,
+          "description": "A highly specialized museum dedicated to the famous philatelic history of the nation.",
+          "seo_phrase": "Postal Museum Vaduz - Philatelic History Collection",
+          "seo_keywords": [
+            "Postal Museum Vaduz",
+            "Postmuseum",
+            "Liechtenstein stamps",
+            "philatelic history",
+            "rare stamps collection"
+          ],
+          "commons_file": "Postmuseum Vaduz Liechtenstein.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Postmuseum_Vaduz_Liechtenstein.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "national_museum",
+            "treasure_chamber"
+          ]
+        },
+        {
+          "name": "Landtagsgebäude",
+          "wiki_title": "Parliament Building of Liechtenstein",
+          "lat": 47.137,
+          "lng": 9.5226,
+          "order_index": 8,
+          "description": "An avant-garde architectural masterpiece housing the nation's legislative chamber.",
+          "seo_phrase": "Liechtenstein Parliament Building - Avant-Garde Architecture",
+          "seo_keywords": [
+            "Parliament Building Vaduz",
+            "Landtagsgebäude",
+            "modern architecture Vaduz",
+            "Liechtenstein legislature",
+            "Hansjörg Göritz design"
+          ],
+          "commons_file": "Landtagsgebäude Liechtenstein Vaduz.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Landtagsgeb%C3%A4ude_Liechtenstein_Vaduz.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "government_house",
+            "national_museum"
+          ]
+        },
+        {
+          "name": "Government House",
+          "wiki_title": "Government House, Vaduz",
+          "lat": 47.1373,
+          "lng": 9.5227,
+          "order_index": 9,
+          "description": "The stately administrative seat of the national government with beautiful fresco detailing.",
+          "seo_phrase": "Government House Vaduz - Neo-Baroque Political Seat",
+          "seo_keywords": [
+            "Government House Vaduz",
+            "Peter Kaiser Platz",
+            "Neo Baroque architecture",
+            "Liechtenstein government building",
+            "Vaduz landmarks"
+          ],
+          "commons_file": "Regierungsgebäude Liechtenstein Vaduz.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Regierungsgeb%C3%A4ude_Liechtenstein_Vaduz.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "parliament_building",
+            "cathedral_st_florin"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Schaan",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Schaan",
+      "seo": {
+        "title": "Top 10 Things to Do in Schaan, Liechtenstein",
+        "description": "Discover 10 must-see landmarks in Schaan, Liechtenstein. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Schaan? Explore the best places to visit in Schaan, Liechtenstein.",
+        "keywords": [
+          "things to do in Schaan",
+          "Schaan Liechtenstein travel guide",
+          "best places to visit in Schaan",
+          "Schaan landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Roman Fort Schaan Ruins",
+          "wiki_title": "Kastell Schaan",
+          "lat": 47.1661,
+          "lng": 9.5107,
+          "order_index": 0,
+          "description": "Archaeological structural remains pointing to ancient Roman border fortifications.",
+          "seo_phrase": "Roman Fort Schaan - Ancient Archaeological Excavations",
+          "seo_keywords": [
+            "Roman Fort Schaan",
+            "Kastell Schaan",
+            "archaeological excavations",
+            "Roman ruins Liechtenstein",
+            "ancient history"
+          ],
+          "commons_file": "Kastell Schaan Ausgrabungen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Kastell_Schaan_Ausgrabungen.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "st_laurentius_schaan",
+            "st_peter_chapel"
+          ]
+        },
+        {
+          "name": "St. Laurentius Church",
+          "wiki_title": "St.Laurentius(Schaan)",
+          "lat": 47.1654,
+          "lng": 9.5103,
+          "order_index": 1,
+          "description": "An imposing parish church dominating the Schaan skyline with its dramatic spire.",
+          "seo_phrase": "St. Laurentius Church Schaan - Historic Neo-Gothic Landmark",
+          "seo_keywords": [
+            "St Laurentius Schaan",
+            "Schaan church",
+            "Neo Gothic church Liechtenstein",
+            "religious heritage Schaan",
+            "skyline of Schaan"
+          ],
+          "commons_file": "Pfarrkirche St. Laurentius Schaan.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Pfarrkirche_St._Laurentius_Schaan.jpg",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "roman_fort_schaan",
+            "tak_theater"
+          ]
+        },
+        {
+          "name": "Chapel of St. Peter",
+          "wiki_title": "St.Peter(Schaan)",
+          "lat": 47.161,
+          "lng": 9.514,
+          "order_index": 2,
+          "description": "A serene historic Romanesque chapel holding deep archaeological and religious ties.",
+          "seo_phrase": "St. Peter Chapel Schaan - Ancient Romanesque Church Site",
+          "seo_keywords": [
+            "St Peter Chapel",
+            "Schaan historic chapel",
+            "Romanesque architecture",
+            "ancient churches Liechtenstein",
+            "religious sites Schaan"
+          ],
+          "commons_file": "St. Peter Chapel Schaan Exterior.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/St._Peter_Chapel_Schaan_Exterior.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "roman_fort_schaan",
+            "schaan_station"
+          ]
+        },
+        {
+          "name": "Dux Forest Chapel",
+          "wiki_title": "Kapelle St.Rochus(Schaan)",
+          "lat": 47.1691,
+          "lng": 9.527,
+          "order_index": 3,
+          "description": "A historic forest chapel dedicated to St. Rochus, framed by alpine woodland walking trails.",
+          "seo_phrase": "Dux Forest Chapel Schaan - St. Rochus Mountain Sanctuary",
+          "seo_keywords": [
+            "Dux Chapel",
+            "St Rochus Schaan",
+            "forest chapel",
+            "hillside sanctuary",
+            "Schaan mountain trails"
+          ],
+          "commons_file": "Duxkapelle Schaan St Rochus.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Duxkapelle_Schaan_St_Rochus.jpg",
+          "seo_priority": 81,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "st_laurentius_schaan",
+            "ganni_historic_area"
+          ]
+        },
+        {
+          "name": "TAK Theater Liechtenstein",
+          "wiki_title": "Theater am Kirchplatz",
+          "lat": 47.1648,
+          "lng": 9.5085,
+          "order_index": 4,
+          "description": "The primary cultural hub for drama, concerts, and theatrical arts in the region.",
+          "seo_phrase": "TAK Theater am Kirchplatz Schaan - Performing Arts Center",
+          "seo_keywords": [
+            "TAK Theater",
+            "Theater am Kirchplatz",
+            "Schaan performance venue",
+            "culture in Liechtenstein",
+            "concerts Schaan"
+          ],
+          "commons_file": "TAK Theater Schaan.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/TAK_Theater_Schaan.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "st_laurentius_schaan",
+            "schaan_central_square"
+          ]
+        },
+        {
+          "name": "Ganni Historic Farming Area",
+          "wiki_title": "Schaan",
+          "lat": 47.171,
+          "lng": 9.515,
+          "order_index": 5,
+          "description": "A rustic slope neighborhood highlighting traditional wooden barns and old alpine lifestyle.",
+          "seo_phrase": "Ganni Historic Area Schaan - Old Alpine Pastures",
+          "seo_keywords": [
+            "Ganni Schaan",
+            "historic farming houses",
+            "alpine architecture barns",
+            "wooden chalets",
+            "rural heritage fields"
+          ],
+          "commons_file": "Schaan Ganni Landschaft.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Schaan_Ganni_Landschaft.jpg",
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "dux_chapel",
+            "st_laurentius_schaan"
+          ]
+        },
+        {
+          "name": "Schaan Central Square",
+          "wiki_title": "Schaan",
+          "lat": 47.165,
+          "lng": 9.5095,
+          "order_index": 6,
+          "description": "The modern open-air pedestrian plaza anchoring downtown business and seasonal events.",
+          "seo_phrase": "Schaan Central Square - Vibrant Modern Civic Hub",
+          "seo_keywords": [
+            "Schaan central square",
+            "Rathausplatz Schaan",
+            "civic hub downtown",
+            "pedestrian zones Liechtenstein",
+            "urban plazas"
+          ],
+          "commons_file": "Schaan Zentrum Rathausplatz.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Schaan_Zentrum_Rathausplatz.jpg",
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "st_laurentius_schaan",
+            "donau_cultural_space"
+          ]
+        },
+        {
+          "name": "Schaan-Vaduz Railway Station",
+          "wiki_title": "Schaan-Vaduz railway station",
+          "lat": 47.1666,
+          "lng": 9.5161,
+          "order_index": 7,
+          "description": "A landmark cross-border train station connecting the principality with Austria and Switzerland.",
+          "seo_phrase": "Schaan-Vaduz Railway Station - Historic Train Transit Node",
+          "seo_keywords": [
+            "Schaan Vaduz station",
+            "railway heritage",
+            "Liechtenstein transit trains",
+            "historic station house",
+            "cross border tracks"
+          ],
+          "commons_file": "Bahnhof Schaan-Vaduz 2020.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Bahnhof_Schaan-Vaduz_2020.jpg",
+          "seo_priority": 77,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "st_peter_chapel",
+            "schaan_central_square"
+          ]
+        },
+        {
+          "name": "St. Theresa Chapel Schaanwald",
+          "wiki_title": "Kapelle St.Theresia(Schaanwald)",
+          "lat": 47.213,
+          "lng": 9.564,
+          "order_index": 8,
+          "description": "A unique modernist district chapel serving the community of Schaanwald hamlet.",
+          "seo_phrase": "St. Theresa Chapel Schaanwald - Modernist Sacred Site",
+          "seo_keywords": [
+            "St Theresa Schaanwald",
+            "Schaanwald chapel",
+            "modernist church design",
+            "hamlet shrines",
+            "20th century sacred art"
+          ],
+          "commons_file": "Theresiakapelle Schaanwald Front.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Theresiakapelle_Schaanwald_Front.jpg",
+          "seo_priority": 76,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "schaanwald_customs",
+            "schaanwald_trailhead"
+          ]
+        },
+        {
+          "name": "Schaanwald Historic Customs House",
+          "wiki_title": "Schaanwald",
+          "lat": 47.2125,
+          "lng": 9.563,
+          "order_index": 9,
+          "description": "A landmark border administration building highlighting cross-border transit history.",
+          "seo_phrase": "Schaanwald Customs House - Historic Border Link",
+          "seo_keywords": [
+            "Schaanwald customs",
+            "border checkpoint house",
+            "Austria Liechtenstein link",
+            "transit history",
+            "Schaanwald landmarks"
+          ],
+          "commons_file": "Zollamt Schaanwald Grenzstation.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Zollamt_Schaanwald_Grenzstation.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "st_theresa_schaanwald",
+            "schaanwald_trailhead"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Balzers",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Balzers",
+      "seo": {
+        "title": "Top 10 Things to Do in Balzers, Liechtenstein",
+        "description": "Discover 10 must-see landmarks in Balzers, Liechtenstein. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Balzers? Explore the best places to visit in Balzers, Liechtenstein.",
+        "keywords": [
+          "things to do in Balzers",
+          "Balzers Liechtenstein travel guide",
+          "best places to visit in Balzers",
+          "Balzers landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Burg Gutenberg",
+          "wiki_title": "Gutenberg Castle",
+          "lat": 47.0658,
+          "lng": 9.4994,
+          "order_index": 0,
+          "description": "An exceptional preserved high-medieval castle standing proudly on a distinct rocky mound.",
+          "seo_phrase": "Gutenberg Castle Balzers - Southern Fortress Landmark",
+          "seo_keywords": [
+            "Gutenberg Castle",
+            "Burg Gutenberg",
+            "Balzers castle fortress",
+            "medieval heritage",
+            "rose garden viewpoint"
+          ],
+          "commons_file": "Burg Gutenberg Balzers 04.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Burg_Gutenberg_Balzers_04.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "st_nicholas_church",
+            "alter_pfarrhof"
+          ]
+        },
+        {
+          "name": "Church of St. Nicholas",
+          "wiki_title": "Pfarrkirche St.Nikolaus(Balzers)",
+          "lat": 47.0671,
+          "lng": 9.4988,
+          "order_index": 1,
+          "description": "A stunning stone parish church located directly below the castle hill slopes.",
+          "seo_phrase": "St. Nicholas Church Balzers - Architectural Parish Jewel",
+          "seo_keywords": [
+            "St Nicholas Balzers",
+            "Balzers church",
+            "stone architecture church",
+            "parish house landmarks",
+            "religious sites southern valley"
+          ],
+          "commons_file": "Pfarrkirche St. Nikolaus Balzers.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Pfarrkirche_St._Nikolaus_Balzers.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "gutenberg_castle",
+            "st_peter_sanctuary"
+          ]
+        },
+        {
+          "name": "Kulturzentrum Alter Pfarrhof",
+          "wiki_title": "Alter Pfarrhof (Balzers)",
+          "lat": 47.0664,
+          "lng": 9.4975,
+          "order_index": 2,
+          "description": "A beautifully restored old rectory building operating as a vibrant arts venue.",
+          "seo_phrase": "Alter Pfarrhof Balzers - Cultural Heritage Center",
+          "seo_keywords": [
+            "Alter Pfarrhof",
+            "Balzers cultural center",
+            "historic rectory building",
+            "regional art shows",
+            "civic exhibitions"
+          ],
+          "commons_file": "Alter Pfarrhof Balzers Aussenansicht.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Alter_Pfarrhof_Balzers_Aussenansicht.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "gutenberg_castle",
+            "st_nicholas_church"
+          ]
+        },
+        {
+          "name": "Rheindamm Path Balzers",
+          "wiki_title": "Balzers",
+          "lat": 47.065,
+          "lng": 9.488,
+          "order_index": 3,
+          "description": "A scenic, flat defensive embankment trail offering panoramic mountain views alongside the Rhine.",
+          "seo_phrase": "Rheindamm Path Balzers - Scenic River Embankment Trail",
+          "seo_keywords": [
+            "Rheindamm Balzers",
+            "Rhine river paths",
+            "flat cycling trails",
+            "waterfront walks",
+            "scenic valley views"
+          ],
+          "commons_file": "Rheindamm Balzers Flußlauf.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Rheindamm_Balzers_Flu%C3%9Flauf.jpg",
+          "seo_priority": 81,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "balzers_plaza",
+            "gutenberg_castle"
+          ]
+        },
+        {
+          "name": "Mariahilf Chapel",
+          "wiki_title": "Kapelle Mariahilf (Balzers)",
+          "lat": 47.0624,
+          "lng": 9.4962,
+          "order_index": 4,
+          "description": "A quaint Baroque-era district chapel displaying intimate religious artwork.",
+          "seo_phrase": "Mariahilf Chapel Balzers - Historic Mäls Alpine Shrine",
+          "seo_keywords": [
+            "Mariahilf Chapel",
+            "Mäls Balzers",
+            "Baroque chapel",
+            "religious shrines",
+            "historic Balzers districts"
+          ],
+          "commons_file": "Mariahilfkapelle Balzers Mäls.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Mariahilfkapelle_Balzers_M%C3%A4ls.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "maels_historic_center",
+            "gutenberg_castle"
+          ]
+        },
+        {
+          "name": "St. Peter Sanctuary Site",
+          "wiki_title": "Balzers",
+          "lat": 47.0691,
+          "lng": 9.499,
+          "order_index": 5,
+          "description": "Preserved historic masonry grounds shedding light on early medieval village grids.",
+          "seo_phrase": "St. Peter Sanctuary Balzers - Old Church Foundation Lines",
+          "seo_keywords": [
+            "St Peter Sanctuary",
+            "Balzers archaeological",
+            "ancient foundations",
+            "medieval ruins",
+            "Balzers heritage paths"
+          ],
+          "commons_file": "Balzers St Peter Kapelle Grundmauern.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Balzers_St_Peter_Kapelle_Grundmauern.jpg",
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "st_nicholas_church",
+            "alter_pfarrhof"
+          ]
+        },
+        {
+          "name": "Mäls Historic Center",
+          "wiki_title": "Balzers",
+          "lat": 47.0595,
+          "lng": 9.493,
+          "order_index": 6,
+          "description": "A quaint residential old quarter featuring historic farm houses and quiet village charm.",
+          "seo_phrase": "Mäls District Balzers - Traditional Alpine Quarter",
+          "seo_keywords": [
+            "Mäls quarter",
+            "historic Balzers districts",
+            "old farming villages",
+            "traditional alpine houses",
+            "quiet residential lanes"
+          ],
+          "commons_file": "Balzers Dorfteil Mäls Häuser.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Balzers_Dorfteil_M%C3%A4ls_H%C3%A4user.jpg",
+          "seo_priority": 76,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "mariahilf_chapel",
+            "gutenberg_castle"
+          ]
+        },
+        {
+          "name": "Balzers Community Plaza",
+          "wiki_title": "Balzers",
+          "lat": 47.068,
+          "lng": 9.4965,
+          "order_index": 7,
+          "description": "The clean urban core of Balzers connecting administrative halls with local shopping lanes.",
+          "seo_phrase": "Balzers Community Plaza - Southern Civic Center",
+          "seo_keywords": [
+            "Balzers plaza",
+            "community square Balzers",
+            "civic center southern valley",
+            "pedestrian lanes",
+            "town hall surrounds"
+          ],
+          "commons_file": "Balzers Zentrum Gemeindehaus.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Balzers_Zentrum_Gemeindehaus.jpg",
+          "seo_priority": 72,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "alter_pfarrhof",
+            "balzers_cultural_center"
+          ]
+        },
+        {
+          "name": "Widum Historical Building",
+          "wiki_title": "Balzers",
+          "lat": 47.066,
+          "lng": 9.4995,
+          "order_index": 8,
+          "description": "A landmark historic administrative estate displaying fine wood and stone work.",
+          "seo_phrase": "Widum Building Balzers - Preserved Civil Architecture",
+          "seo_keywords": [
+            "Widum Balzers",
+            "historic civil architecture",
+            "traditional building style",
+            "estate landmarks",
+            "Balzers history"
+          ],
+          "commons_file": "Balzers Widum Gebaeude.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Balzers_Widum_Gebaeude.jpg",
+          "seo_priority": 70,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "gutenberg_castle",
+            "st_nicholas_church"
+          ]
+        },
+        {
+          "name": "Balzers Community Hall",
+          "wiki_title": "Balzers",
+          "lat": 47.0685,
+          "lng": 9.495,
+          "order_index": 9,
+          "description": "A modern multi-functional event space hosting music and cultural programs.",
+          "seo_phrase": "Balzers Community Hall - Regional Cultural Venue",
+          "seo_keywords": [
+            "Balzers community hall",
+            "Gemeindesaal",
+            "local events venue",
+            "modern public architecture",
+            "southern culture"
+          ],
+          "commons_file": "Balzers Gemeindesaal Aussen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Balzers_Gemeindesaal_Aussen.jpg",
+          "seo_priority": 68,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "balzers_plaza",
+            "alter_pfarrhof"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Triesenberg",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Triesenberg",
+      "seo": {
+        "title": "Top 10 Things to Do in Triesenberg, Liechtenstein",
+        "description": "Discover 10 must-see landmarks in Triesenberg, Liechtenstein. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Triesenberg? Explore the best places to visit in Triesenberg, Liechtenstein.",
+        "keywords": [
+          "things to do in Triesenberg",
+          "Triesenberg Liechtenstein travel guide",
+          "best places to visit in Triesenberg",
+          "Triesenberg landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Malbun Ski Resort",
+          "wiki_title": "Malbun",
+          "lat": 47.1025,
+          "lng": 9.6081,
+          "order_index": 0,
+          "description": "A picturesque, family-friendly high-mountain valley resort active across all seasons.",
+          "seo_phrase": "Malbun Alpine Resort - Premium Ski and Hiking Village",
+          "seo_keywords": [
+            "Malbun ski resort",
+            "Liechtenstein winter sports",
+            "Malbun hiking village",
+            "high alpine resort",
+            "mountain valleys"
+          ],
+          "commons_file": "Malbun Liechtenstein Winter View.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Malbun_Liechtenstein_Winter_View.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "sareis_chairlift",
+            "steg_reservoir"
+          ]
+        },
+        {
+          "name": "Walser Museum Triesenberg",
+          "wiki_title": "Walsermuseum Triesenberg",
+          "lat": 47.1181,
+          "lng": 9.5441,
+          "order_index": 1,
+          "description": "An exceptional cultural museum dedicated to the unique history and distinct dialect of Walser settlers.",
+          "seo_phrase": "Walser Museum Triesenberg - Alpine Folk Heritage Culture",
+          "seo_keywords": [
+            "Walser Museum",
+            "Triesenberg heritage",
+            "Walser culture",
+            "alpine immigration history",
+            "mountain folk traditions"
+          ],
+          "commons_file": "Walsermuseum Triesenberg Aussen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Walsermuseum_Triesenberg_Aussen.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "st_joseph_triesenberg",
+            "kulm_hotel_area"
+          ]
+        },
+        {
+          "name": "Gaflei Viewpoint Spot",
+          "wiki_title": "Gaflei",
+          "lat": 47.142,
+          "lng": 9.549,
+          "order_index": 2,
+          "description": "A breath-taking high-altitude viewpoint acting as a key gateway to panoramic ridge tracks.",
+          "seo_phrase": "Gaflei Viewpoint Triesenberg - Panoramic Alpine Overlook",
+          "seo_keywords": [
+            "Gaflei viewpoint",
+            "high altitude overlook",
+            "Triesenberg mountain views",
+            "Rhine valley vistas",
+            "panoramic viewing terraces"
+          ],
+          "commons_file": "Gaflei Aussichtspunkt Liechtenstein.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Gaflei_Aussichtspunkt_Liechtenstein.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "masescha_chapel",
+            "rizlina_space"
+          ]
+        },
+        {
+          "name": "St. Joseph Parish Church",
+          "wiki_title": "Pfarrkirche St.Josef(Triesenberg)",
+          "lat": 47.1183,
+          "lng": 9.5445,
+          "order_index": 3,
+          "description": "The iconic alpine parish church of Triesenberg, easily recognized by its distinctive onion dome tower.",
+          "seo_phrase": "St. Joseph Church Triesenberg - Landmark Onion Dome Church",
+          "seo_keywords": [
+            "St Joseph Triesenberg",
+            "onion dome church",
+            "Triesenberg landmark",
+            "mountain parish church",
+            "scenic church terrace"
+          ],
+          "commons_file": "Pfarrkirche St. Josef Triesenberg.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Pfarrkirche_St._Josef_Triesenberg.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "walser_museum",
+            "kulm_hotel_area"
+          ]
+        },
+        {
+          "name": "Sareis Chairlift Viewpoint",
+          "wiki_title": "Sareis",
+          "lat": 47.104,
+          "lng": 9.617,
+          "order_index": 4,
+          "description": "A panoramic chairlift scaling the Sareis ridge for instant high alpine trail connections.",
+          "seo_phrase": "Sareis Chairlift Malbun - High Mountain Panoramic Overlook",
+          "seo_keywords": [
+            "Sareis chairlift",
+            "Malbun viewpoint",
+            "mountain station Sareis",
+            "panoramic alpine terrace",
+            "ridge trails ridge"
+          ],
+          "commons_file": "Sareis Bergstation Malbun.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Sareis_Bergstation_Malbun.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "malbun_resort",
+            "steg_reservoir"
+          ]
+        },
+        {
+          "name": "Steg Lake (Stausee Steg)",
+          "wiki_title": "Stausee Steg",
+          "lat": 47.111,
+          "lng": 9.577,
+          "order_index": 5,
+          "description": "A tranquil mountain lake tucked into an alpine valley, offering clear water reflections.",
+          "seo_phrase": "Steg Reservoir Triesenberg - Scenic High Mountain Lake",
+          "seo_keywords": [
+            "Steg reservoir",
+            "Stausee Steg",
+            "mountain lake Liechtenstein",
+            "Triesenberg alpine lakes",
+            "scenic lakeside walks"
+          ],
+          "commons_file": "Stausee Steg Liechtenstein.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Stausee_Steg_Liechtenstein.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "suecka_pasture",
+            "malbun_resort"
+          ]
+        },
+        {
+          "name": "Sücka Alpine Pasture Area",
+          "wiki_title": "Sücka",
+          "lat": 47.118,
+          "lng": 9.566,
+          "order_index": 6,
+          "description": "A traditional alpine farming meadow region famous for heritage mountain cheese production.",
+          "seo_phrase": "Sücka Alpine Pasture - Authentic Mountain Farm Estate",
+          "seo_keywords": [
+            "Sücka pasture",
+            "Alp Sücka",
+            "mountain cheese dairy",
+            "traditional alpine farming",
+            "Triesenberg valleys"
+          ],
+          "commons_file": "Alp Suecka Liechtenstein.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Alp_Suecka_Liechtenstein.jpg",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "steg_reservoir",
+            "rizlina_space"
+          ]
+        },
+        {
+          "name": "Masescha Chapel",
+          "wiki_title": "Kapelle Masescha",
+          "lat": 47.1317,
+          "lng": 9.5442,
+          "order_index": 7,
+          "description": "A deeply historic hillside chapel tightly linked with early alpine pioneer history.",
+          "seo_phrase": "Masescha Chapel Triesenberg - Historic Mountain Sanctuary",
+          "seo_keywords": [
+            "Masescha Chapel",
+            "historic mountain chapel",
+            "Walser pioneers",
+            "Triesenberg heritage shrines",
+            "ancient sanctuaries"
+          ],
+          "commons_file": "Maseschachapel Triesenberg.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Maseschachapel_Triesenberg.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "gaflei_viewpoint",
+            "kulm_hotel_area"
+          ]
+        },
+        {
+          "name": "Kulm Historic Village Ridge",
+          "wiki_title": "Triesenberg",
+          "lat": 47.119,
+          "lng": 9.5435,
+          "order_index": 8,
+          "description": "The core heritage ridge of Triesenberg showcasing traditional dark-timber building style.",
+          "seo_phrase": "Kulm Village Ridge Triesenberg - Historic Center Walk",
+          "seo_keywords": [
+            "Kulm Triesenberg",
+            "historic village ridge",
+            "dark timber houses",
+            "mountain center strolls",
+            "panoramic alpine squares"
+          ],
+          "commons_file": "Triesenberg Kulm Zentrum Ansicht.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Triesenberg_Kulm_Zentrum_Ansicht.jpg",
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "walser_museum",
+            "st_joseph_triesenberg"
+          ]
+        },
+        {
+          "name": "Rizlina Outdoor Leisure Area",
+          "wiki_title": "Triesenberg",
+          "lat": 47.113,
+          "lng": 9.551,
+          "order_index": 9,
+          "description": "A manicured high-altitude recreational field offering expansive valley lookouts.",
+          "seo_phrase": "Rizlina Outdoor Area Triesenberg - Mountain Picnic Park",
+          "seo_keywords": [
+            "Rizlina Triesenberg",
+            "mountain picnic spots",
+            "recreational alpine fields",
+            "family relaxation parks",
+            "scenic valley lawns"
+          ],
+          "commons_file": "Triesenberg Rizlina Wiesen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Triesenberg_Rizlina_Wiesen.jpg",
+          "seo_priority": 73,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "suecka_pasture",
+            "walser_museum"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Eschen",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Eschen",
+      "seo": {
+        "title": "Top 10 Things to Do in Eschen, Liechtenstein",
+        "description": "Discover 10 must-see landmarks in Eschen, Liechtenstein. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Eschen? Explore the best places to visit in Eschen, Liechtenstein.",
+        "keywords": [
+          "things to do in Eschen",
+          "Eschen Liechtenstein travel guide",
+          "best places to visit in Eschen",
+          "Eschen landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "St. Martin Church",
+          "wiki_title": "St.Martin(Eschen)",
+          "lat": 47.2105,
+          "lng": 9.5225,
+          "order_index": 0,
+          "description": "A landmark parish church overlooking Eschen town from a historic hilltop perch.",
+          "seo_phrase": "St. Martin Church Eschen - Historic Hillside Parish",
+          "seo_keywords": [
+            "St Martin Eschen",
+            "Eschen parish church",
+            "hilltop church",
+            "northern lowlands landmark",
+            "religious heritage"
+          ],
+          "commons_file": "Pfarrkirche St. Martin Eschen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Pfarrkirche_St._Martin_Eschen.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "pfrundhaus_eschen",
+            "eschen_plaza"
+          ]
+        },
+        {
+          "name": "Pfrundhaus Eschen",
+          "wiki_title": "Pfrundhaus (Eschen)",
+          "lat": 47.21,
+          "lng": 9.523,
+          "order_index": 1,
+          "description": "A beautifully preserved traditional timber building serving as a local civic museum.",
+          "seo_phrase": "Pfrundhaus Eschen - Traditional Timber Prebendary House",
+          "seo_keywords": [
+            "Pfrundhaus Eschen",
+            "timber frame building",
+            "prebendary house",
+            "Eschen local history",
+            "traditional architecture"
+          ],
+          "commons_file": "Pfrundhaus Eschen Detail.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Pfrundhaus_Eschen_Detail.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "st_martin_eschen",
+            "dr_schaedler_monument"
+          ]
+        },
+        {
+          "name": "Clenia Roman Villa Ruins",
+          "wiki_title": "Eschen (Liechtenstein)",
+          "lat": 47.202,
+          "lng": 9.539,
+          "order_index": 2,
+          "description": "Excavated structural foundation plots of a substantial ancient Roman country villa.",
+          "seo_phrase": "Clenia Roman Villa Ruins Nendeln - Archaeological Site",
+          "seo_keywords": [
+            "Clenia Roman villa",
+            "Nendeln excavations",
+            "Roman ruins Eschen",
+            "ancient foundations",
+            "archaeological heritage"
+          ],
+          "commons_file": "Nendeln Roemische Ausgrabungen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Nendeln_Roemische_Ausgrabungen.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "holy_cross_nendeln",
+            "schaedler_pottery"
+          ]
+        },
+        {
+          "name": "Schädler Pottery Nendeln",
+          "wiki_title": "Eschen (Liechtenstein)",
+          "lat": 47.1985,
+          "lng": 9.544,
+          "order_index": 3,
+          "description": "The nation's oldest active craft pottery workshop displaying fine ceramic arts.",
+          "seo_phrase": "Schädler Pottery Nendeln - Traditional Craft Workshop",
+          "seo_keywords": [
+            "Schädler Pottery",
+            "Nendeln ceramics",
+            "artisan workshop",
+            "traditional stoneware craft",
+            "handicrafts"
+          ],
+          "commons_file": "Keramik Schaedler Nendeln.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Keramik_Schaedler_Nendeln.jpg",
+          "seo_priority": 81,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "clenia_roman_villa",
+            "holy_cross_nendeln"
+          ]
+        },
+        {
+          "name": "Holy Cross Chapel Nendeln",
+          "wiki_title": "Kapelle Heiligkreuz (Nendeln)",
+          "lat": 47.199,
+          "lng": 9.543,
+          "order_index": 4,
+          "description": "A peaceful heritage chapel tucked into the quiet residential hamlet of Nendeln.",
+          "seo_phrase": "Holy Cross Chapel Nendeln - Quaint Historic Shrine",
+          "seo_keywords": [
+            "Holy Cross Chapel",
+            "Nendeln Eschen",
+            "Heiligkreuzkapelle",
+            "historic shrines",
+            "hamlet churches"
+          ],
+          "commons_file": "Heiligkreuzkapelle Nendeln Aussen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Heiligkreuzkapelle_Nendeln_Aussen.jpg",
+          "seo_priority": 77,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "schaedler_pottery",
+            "nendeln_station"
+          ]
+        },
+        {
+          "name": "Sportpark Eschen-Mauren",
+          "wiki_title": "Sportpark Eschen-Mauren",
+          "lat": 47.2177,
+          "lng": 9.5283,
+          "order_index": 5,
+          "description": "A premium community athletic complex and football stadium shared by neighboring towns.",
+          "seo_phrase": "Sportpark Eschen-Mauren - National Football Stadium",
+          "seo_keywords": [
+            "Sportpark Eschen Mauren",
+            "stadium Liechtenstein",
+            "football grounds",
+            "athletic facilities",
+            "USV Eschen Mauren"
+          ],
+          "commons_file": "Sportpark Eschen-Mauren Stadion.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Sportpark_Eschen-Mauren_Stadion.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "eschen_plaza",
+            "mauren_plaza"
+          ]
+        },
+        {
+          "name": "Eschen Cultural Path Marker",
+          "wiki_title": "Eschen (Liechtenstein)",
+          "lat": 47.212,
+          "lng": 9.524,
+          "order_index": 6,
+          "description": "An illustrative town marker mapping out historical trails and architecture paths.",
+          "seo_phrase": "Eschen Cultural Path Marker - Heritage Walking Node",
+          "seo_keywords": [
+            "Eschen cultural path",
+            "heritage walking node",
+            "self guided trails",
+            "Eschen historical markers",
+            "town design history"
+          ],
+          "commons_file": "Eschen Kulturweg Infotafel.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Eschen_Kulturweg_Infotafel.jpg",
+          "seo_priority": 72,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "eschen_plaza",
+            "pfrundhaus_eschen"
+          ]
+        },
+        {
+          "name": "Eschen Central Plaza",
+          "wiki_title": "Eschen (Liechtenstein)",
+          "lat": 47.211,
+          "lng": 9.5215,
+          "order_index": 7,
+          "description": "The spacious, modern open plaza forming the civic center of Eschen town.",
+          "seo_phrase": "Eschen Central Plaza - Northern lowland Public Center",
+          "seo_keywords": [
+            "Eschen plaza",
+            "community square Eschen",
+            "civic center lowlands",
+            "pedestrian square",
+            "town hall surrounds"
+          ],
+          "commons_file": "Eschen Zentrum Gemeindeplatz.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Eschen_Zentrum_Gemeindeplatz.jpg",
+          "seo_priority": 71,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "st_martin_eschen",
+            "pfrundhaus_eschen"
+          ]
+        },
+        {
+          "name": "Nendeln Historic Train Station",
+          "wiki_title": "Nendeln railway station",
+          "lat": 47.1978,
+          "lng": 9.5412,
+          "order_index": 8,
+          "description": "A historic international railway stop anchoring cross-border transit through Nendeln.",
+          "seo_phrase": "Nendeln Railway Station - Classic Transit Heritage",
+          "seo_keywords": [
+            "Nendeln station",
+            "railway transit history",
+            "cross border tracks",
+            "Nendeln infrastructure",
+            "industrial heritage"
+          ],
+          "commons_file": "Bahnhof Nendeln Gleisanlagen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bahnhof_Nendeln_Gleisanlagen.jpg",
+          "seo_priority": 69,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "schaedler_pottery",
+            "holy_cross_nendeln"
+          ]
+        },
+        {
+          "name": "Dr. Albert Schädler Monument",
+          "wiki_title": "St.Martin(Eschen)",
+          "lat": 47.2108,
+          "lng": 9.5228,
+          "order_index": 9,
+          "description": "A finely crafted historical bronze portrait bust honor a key civic statesman.",
+          "seo_phrase": "Dr. Albert Schädler Monument - Historic Civic Memorial",
+          "seo_keywords": [
+            "Albert Schädler monument",
+            "Eschen memorials",
+            "civic history markers",
+            "bronze portrait bust",
+            "statesman history"
+          ],
+          "commons_file": "Albert Schaedler Denkmal Eschen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Albert_Schaedler_Denkmal_Eschen.jpg",
+          "seo_priority": 67,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "st_martin_eschen",
+            "pfrundhaus_eschen"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Mauren",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Mauren",
+      "seo": {
+        "title": "Top 10 Things to Do in Mauren, Liechtenstein",
+        "description": "Discover 10 must-see landmarks in Mauren, Liechtenstein. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Mauren? Explore the best places to visit in Mauren, Liechtenstein.",
+        "keywords": [
+          "things to do in Mauren",
+          "Mauren Liechtenstein travel guide",
+          "best places to visit in Mauren",
+          "Mauren landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "St. Peter and Paul Church",
+          "wiki_title": "St.Peter und Paul(Mauren)",
+          "lat": 47.2194,
+          "lng": 9.5435,
+          "order_index": 0,
+          "description": "A beautifully maintained parish church anchoring Mauren's historical village core.",
+          "seo_phrase": "St. Peter and Paul Church Mauren - Classic Parish Church",
+          "seo_keywords": [
+            "St Peter and Paul Mauren",
+            "Mauren parish church",
+            "classical church building",
+            "lowland religious sites",
+            "Mauren village center"
+          ],
+          "commons_file": "Pfarrkirche St. Peter und Paul Mauren.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Pfarrkirche_St._Peter_und_Paul_Mauren.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "muura_museum",
+            "peter_kaiser_mauren"
+          ]
+        },
+        {
+          "name": "Cultural House Muura",
+          "wiki_title": "Mauren (Liechtenstein)",
+          "lat": 47.219,
+          "lng": 9.544,
+          "order_index": 1,
+          "description": "A charming neighborhood museum showcasing Mauren's local history and folk traditions.",
+          "seo_phrase": "Cultural House Muura Mauren - Local Heritage Museum",
+          "seo_keywords": [
+            "Cultural House Muura",
+            "Kulturhaus Muura",
+            "Mauren museum",
+            "local heritage displays",
+            "folk traditions"
+          ],
+          "commons_file": "Kulturhaus Muura Mauren.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Kulturhaus_Muura_Mauren.jpg",
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "st_peter_paul_mauren",
+            "mauren_plaza"
+          ]
+        },
+        {
+          "name": "Mauren Community Square",
+          "wiki_title": "Mauren (Liechtenstein)",
+          "lat": 47.22,
+          "lng": 9.543,
+          "order_index": 2,
+          "description": "The tidy, well-designed public core anchoring civic life in Mauren village.",
+          "seo_phrase": "Mauren Community Square - Lowland Village Center",
+          "seo_keywords": [
+            "Mauren plaza",
+            "village square Mauren",
+            "civic hub lowlands",
+            "pedestrian zones",
+            "Mauren center"
+          ],
+          "commons_file": "Mauren Zentrum Dorfplatz.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Mauren_Zentrum_Dorfplatz.jpg",
+          "seo_priority": 70,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "st_peter_paul_mauren",
+            "muura_museum"
+          ]
+        },
+        {
+          "name": "DoNaU Cultural Space",
+          "wiki_title": "Schaan",
+          "lat": 47.164,
+          "lng": 9.511,
+          "order_index": 3,
+          "description": "A vibrant alternative venue hosting local art expos and community design workshops.",
+          "seo_phrase": "DoNaU Cultural Space Schaan - Alternative Local Arts",
+          "seo_keywords": [
+            "DoNaU Schaan",
+            "cultural spaces",
+            "local artists gallery",
+            "community workshops",
+            "creative Schaan hubs"
+          ],
+          "commons_file": "Schaan Zentrum Strasse.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Schaan_Zentrum_Strasse.jpg",
+          "seo_priority": 74,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "tak_theater",
+            "schaan_central_square"
+          ]
+        },
+        {
+          "name": "Specki Community Space",
+          "wiki_title": "Schaan",
+          "lat": 47.1632,
+          "lng": 9.5021,
+          "order_index": 4,
+          "description": "A contemporary suburban parkland designed for family leisure and recreational sports.",
+          "seo_phrase": "Specki Community Space - Modern Leisure Area Schaan",
+          "seo_keywords": [
+            "Specki Schaan",
+            "community parks",
+            "recreational fields",
+            "green spaces Schaan",
+            "family leisure spots"
+          ],
+          "commons_file": "Schaan Industrie Specki.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Schaan_Industrie_Specki.jpg",
+          "seo_priority": 71,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "schaan_central_square",
+            "donau_cultural_space"
+          ]
+        },
+        {
+          "name": "Schaanwald Customs House",
+          "wiki_title": "Schaanwald",
+          "lat": 47.2161,
+          "lng": 9.5544,
+          "order_index": 5,
+          "description": "Schaanwald Customs House — Mauren, Liechtenstein.",
+          "seo_phrase": "Schaanwald Customs House",
+          "seo_keywords": [
+            "Schaanwald Customs House",
+            "Mauren",
+            "Liechtenstein"
+          ],
+          "commons_file": "",
+          "image_url": "",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "St. Peter and Paul Church Mauren",
+          "wiki_title": "Mauren",
+          "lat": 47.2189,
+          "lng": 9.5433,
+          "order_index": 6,
+          "description": "St. Peter and Paul Church Mauren — Mauren, Liechtenstein.",
+          "seo_phrase": "St. Peter and Paul Church Mauren",
+          "seo_keywords": [
+            "St. Peter and Paul Church Mauren",
+            "Mauren",
+            "Liechtenstein"
+          ],
+          "commons_file": "",
+          "image_url": "",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Triesen",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Triesen",
+      "seo": {
+        "title": "Top 10 Things to Do in Triesen, Liechtenstein",
+        "description": "Discover 10 must-see landmarks in Triesen, Liechtenstein. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Triesen? Explore the best places to visit in Triesen, Liechtenstein.",
+        "keywords": [
+          "things to do in Triesen",
+          "Triesen Liechtenstein travel guide",
+          "best places to visit in Triesen",
+          "Triesen landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Gasometer Triesen",
+          "wiki_title": "Gasometer (Triesen)",
+          "lat": 47.1019,
+          "lng": 9.5281,
+          "order_index": 0,
+          "description": "Gasometer Triesen — Triesen, Liechtenstein.",
+          "seo_phrase": "Gasometer Triesen",
+          "seo_keywords": [
+            "Gasometer Triesen",
+            "Triesen",
+            "Liechtenstein"
+          ],
+          "commons_file": "Gasometer Triesen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gasometer_Triesen.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "St. Mamertus Church Triesen",
+          "wiki_title": "Triesen",
+          "lat": 47.1069,
+          "lng": 9.5272,
+          "order_index": 1,
+          "description": "St. Mamertus Church Triesen — Triesen, Liechtenstein.",
+          "seo_phrase": "St. Mamertus Church Triesen",
+          "seo_keywords": [
+            "St. Mamertus Church Triesen",
+            "Triesen",
+            "Liechtenstein"
+          ],
+          "commons_file": "View of Triesen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/View_of_Triesen.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Lawena Museum",
+          "wiki_title": "Lawena Museum",
+          "lat": 47.1075,
+          "lng": 9.5265,
+          "order_index": 2,
+          "description": "Lawena Museum — Triesen, Liechtenstein.",
+          "seo_phrase": "Lawena Museum",
+          "seo_keywords": [
+            "Lawena Museum",
+            "Triesen",
+            "Liechtenstein"
+          ],
+          "commons_file": "Lawena Museum Triesen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Lawena_Museum_Triesen.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Ruggell",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Ruggell",
+      "seo": {
+        "title": "Top 10 Things to Do in Ruggell, Liechtenstein",
+        "description": "Discover 10 must-see landmarks in Ruggell, Liechtenstein. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Ruggell? Explore the best places to visit in Ruggell, Liechtenstein.",
+        "keywords": [
+          "things to do in Ruggell",
+          "Ruggell Liechtenstein travel guide",
+          "best places to visit in Ruggell",
+          "Ruggell landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "St. Fridolin Parish Church Ruggell",
+          "wiki_title": "Ruggell",
+          "lat": 47.2431,
+          "lng": 9.5253,
+          "order_index": 0,
+          "description": "St. Fridolin Parish Church Ruggell — Ruggell, Liechtenstein.",
+          "seo_phrase": "St. Fridolin Parish Church Ruggell",
+          "seo_keywords": [
+            "St. Fridolin Parish Church Ruggell",
+            "Ruggell",
+            "Liechtenstein"
+          ],
+          "commons_file": "Ruggell Noflerstrasse.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ruggell_Noflerstrasse.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Ruggeller Riet Nature Reserve",
+          "wiki_title": "Ruggeller Riet",
+          "lat": 47.256,
+          "lng": 9.518,
+          "order_index": 1,
+          "description": "Ruggeller Riet Nature Reserve — Ruggell, Liechtenstein.",
+          "seo_phrase": "Ruggeller Riet Nature Reserve",
+          "seo_keywords": [
+            "Ruggeller Riet Nature Reserve",
+            "Ruggell",
+            "Liechtenstein"
+          ],
+          "commons_file": "Ruggeller Riet.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ruggeller_Riet.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Gamprin",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Gamprin",
+      "seo": {
+        "title": "Top 10 Things to Do in Gamprin, Liechtenstein",
+        "description": "Discover 10 must-see landmarks in Gamprin, Liechtenstein. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Gamprin? Explore the best places to visit in Gamprin, Liechtenstein.",
+        "keywords": [
+          "things to do in Gamprin",
+          "Gamprin Liechtenstein travel guide",
+          "best places to visit in Gamprin",
+          "Gamprin landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Bendern Parish Church",
+          "wiki_title": "Bendern",
+          "lat": 47.2167,
+          "lng": 9.5033,
+          "order_index": 0,
+          "description": "Bendern Parish Church — Gamprin, Liechtenstein.",
+          "seo_phrase": "Bendern Parish Church",
+          "seo_keywords": [
+            "Bendern Parish Church",
+            "Gamprin",
+            "Liechtenstein"
+          ],
+          "commons_file": "Kirchhügel Bendern.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Kirchh%C3%BCgel_Bendern.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Rheinpark Stadium",
+          "wiki_title": "Rheinpark Stadion",
+          "lat": 47.2183,
+          "lng": 9.5022,
+          "order_index": 1,
+          "description": "Rheinpark Stadium — Gamprin, Liechtenstein.",
+          "seo_phrase": "Rheinpark Stadium",
+          "seo_keywords": [
+            "Rheinpark Stadium",
+            "Gamprin",
+            "Liechtenstein"
+          ],
+          "commons_file": "Rheinpark Stadion.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Rheinpark_Stadion.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Planken",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Planken",
+      "seo": {
+        "title": "Top 10 Things to Do in Planken, Liechtenstein",
+        "description": "Discover 10 must-see landmarks in Planken, Liechtenstein. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Planken? Explore the best places to visit in Planken, Liechtenstein.",
+        "keywords": [
+          "things to do in Planken",
+          "Planken Liechtenstein travel guide",
+          "best places to visit in Planken",
+          "Planken landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "St. Anton Parish Church Planken",
+          "wiki_title": "Planken",
+          "lat": 47.1858,
+          "lng": 9.5442,
+          "order_index": 0,
+          "description": "St. Anton Parish Church Planken — Planken, Liechtenstein.",
+          "seo_phrase": "St. Anton Parish Church Planken",
+          "seo_keywords": [
+            "St. Anton Parish Church Planken",
+            "Planken",
+            "Liechtenstein"
+          ],
+          "commons_file": "Planken Liechtenstein.jpg",
+          "image_url": "",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Eschnerberg Viewpoint",
+          "wiki_title": "Eschnerberg",
+          "lat": 47.178,
+          "lng": 9.548,
+          "order_index": 1,
+          "description": "Eschnerberg Viewpoint — Planken, Liechtenstein.",
+          "seo_phrase": "Eschnerberg Viewpoint",
+          "seo_keywords": [
+            "Eschnerberg Viewpoint",
+            "Planken",
+            "Liechtenstein"
+          ],
+          "commons_file": "Vaduz Castle Liechtenstein.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Vaduz_Castle_Liechtenstein.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "Liechtenstein Scenic Road Trip",
+    "subtitle": "Explore Liechtenstein beyond the cities — nature, coastlines, and scenic routes.",
+    "wiki_title": "Liechtenstein",
+    "hero_image": "",
+    "totalDays": 10,
+    "seo": {
+      "title": "Liechtenstein Road Trip Adventure",
+      "description": "Plan a Liechtenstein road trip with GPS stops and scenic routes.",
+      "intro": "Explore Liechtenstein beyond the cities with this adventure route.",
+      "keywords": [
+        "Liechtenstein road trip",
+        "Liechtenstein by car"
+      ]
+    },
+    "places": [
+      {
+        "name": "Schloss Vaduz",
+        "wiki_title": "Vaduz Castle",
+        "region": "Vaduz",
+        "lat": 47.1394,
+        "lng": 9.5244,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "The majestic hilltop palace serving as the official residence of the Princely Family.",
+        "seo_phrase": "Vaduz Castle Guide - The Royal Palace of Liechtenstein",
+        "seo_keywords": [
+          "Vaduz Castle",
+          "Liechtenstein royal palace",
+          "medieval fortress",
+          "Vaduz sightseeing",
+          "Rhine valley views"
+        ],
+        "commons_file": "Vaduz Castle Liechtenstein.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Vaduz_Castle_Liechtenstein.jpg",
+        "seo_priority": 98,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Kunstmuseum Liechtenstein",
+        "wiki_title": "Kunstmuseum Liechtenstein",
+        "region": "Vaduz",
+        "lat": 47.1391,
+        "lng": 9.5225,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A striking black-cube museum showcasing cutting-edge modern and contemporary art.",
+        "seo_phrase": "Kunstmuseum Liechtenstein - Modern Art Gallery in Vaduz",
+        "seo_keywords": [
+          "Kunstmuseum Liechtenstein",
+          "Vaduz art museum",
+          "contemporary art Vaduz",
+          "modern art gallery",
+          "Liechtenstein exhibitions"
+        ],
+        "commons_file": "Kunstmuseum Liechtenstein Vaduz.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Kunstmuseum_Liechtenstein_Vaduz.jpg",
+        "seo_priority": 92,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Liechtenstein National Museum",
+        "wiki_title": "Liechtenstein National Museum",
+        "region": "Vaduz",
+        "lat": 47.1385,
+        "lng": 9.5227,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A comprehensive cultural museum detailing the country's unique history and natural world.",
+        "seo_phrase": "Liechtenstein National Museum - Heritage and Culture",
+        "seo_keywords": [
+          "Liechtenstein National Museum",
+          "Landesmuseum Vaduz",
+          "Liechtenstein history",
+          "cultural heritage Vaduz",
+          "historical artifacts"
+        ],
+        "commons_file": "Liechtensteinisches Landesmuseum.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Liechtensteinisches_Landesmuseum.jpg",
+        "seo_priority": 90,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Cathedral of St. Florin",
+        "wiki_title": "Cathedral of St. Florin",
+        "region": "Vaduz",
+        "lat": 47.1363,
+        "lng": 9.5227,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "The center of Roman Catholic worship in the country, featuring striking Neo-Gothic architectural spires.",
+        "seo_phrase": "St. Florin Cathedral Vaduz - Neo-Gothic Landmark Church",
+        "seo_keywords": [
+          "St Florin Cathedral",
+          "Vaduz church",
+          "Neo Gothic architecture Vaduz",
+          "religious sites Liechtenstein",
+          "Vaduz cathedral spire"
+        ],
+        "commons_file": "St. Florin Cathedral, Vaduz.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/St._Florin_Cathedral%2C_Vaduz.jpg",
+        "seo_priority": 88,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Government House",
+        "wiki_title": "Government House, Vaduz",
+        "region": "Vaduz",
+        "lat": 47.1373,
+        "lng": 9.5227,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "The stately administrative seat of the national government with beautiful fresco detailing.",
+        "seo_phrase": "Government House Vaduz - Neo-Baroque Political Seat",
+        "seo_keywords": [
+          "Government House Vaduz",
+          "Peter Kaiser Platz",
+          "Neo Baroque architecture",
+          "Liechtenstein government building",
+          "Vaduz landmarks"
+        ],
+        "commons_file": "Regierungsgebäude Liechtenstein Vaduz.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Regierungsgeb%C3%A4ude_Liechtenstein_Vaduz.jpg",
+        "seo_priority": 82,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Landtagsgebäude",
+        "wiki_title": "Parliament Building of Liechtenstein",
+        "region": "Vaduz",
+        "lat": 47.137,
+        "lng": 9.5226,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "An avant-garde architectural masterpiece housing the nation's legislative chamber.",
+        "seo_phrase": "Liechtenstein Parliament Building - Avant-Garde Architecture",
+        "seo_keywords": [
+          "Parliament Building Vaduz",
+          "Landtagsgebäude",
+          "modern architecture Vaduz",
+          "Liechtenstein legislature",
+          "Hansjörg Göritz design"
+        ],
+        "commons_file": "Landtagsgebäude Liechtenstein Vaduz.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Landtagsgeb%C3%A4ude_Liechtenstein_Vaduz.jpg",
+        "seo_priority": 85,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Postmuseum",
+        "wiki_title": "Postal Museum (Liechtenstein)",
+        "region": "Vaduz",
+        "lat": 47.1386,
+        "lng": 9.5227,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A highly specialized museum dedicated to the famous philatelic history of the nation.",
+        "seo_phrase": "Postal Museum Vaduz - Philatelic History Collection",
+        "seo_keywords": [
+          "Postal Museum Vaduz",
+          "Postmuseum",
+          "Liechtenstein stamps",
+          "philatelic history",
+          "rare stamps collection"
+        ],
+        "commons_file": "Postmuseum Vaduz Liechtenstein.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Postmuseum_Vaduz_Liechtenstein.jpg",
+        "seo_priority": 86,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Das Rote Haus",
+        "wiki_title": "Red House (Vaduz)",
+        "region": "Vaduz",
+        "lat": 47.1436,
+        "lng": 9.5273,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A striking medieval residence featuring dark red stepped gables and deep viticulture history.",
+        "seo_phrase": "The Red House Vaduz - Iconic Medieval Vine-Grower Landmark",
+        "seo_keywords": [
+          "Red House Vaduz",
+          "Rotes Haus",
+          "medieval tower",
+          "Vaduz vineyards",
+          "historic residential landmarks"
+        ],
+        "commons_file": "Rotes Haus Vaduz 2020.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Rotes_Haus_Vaduz_2020.jpg",
+        "seo_priority": 89,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Liechtenstein Treasure Chamber",
+        "wiki_title": "Liechtenstein Treasure Chamber",
+        "region": "Vaduz",
+        "lat": 47.1384,
+        "lng": 9.5228,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A glittering high-security vault showcasing the crown jewels and historical treasures of the Prince.",
+        "seo_phrase": "Schatzkammer Liechtenstein - Royal Treasure Chamber Vaduz",
+        "seo_keywords": [
+          "Treasure Chamber Vaduz",
+          "Schatzkammer Liechtenstein",
+          "crown jewels",
+          "princely collection",
+          "moon rocks museum"
+        ],
+        "commons_file": "Schatzkammer Liechtenstein Entrance.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Schatzkammer_Liechtenstein_Entrance.jpg",
+        "seo_priority": 91,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Alte Rheinbrücke",
+        "wiki_title": "Old Rhine Bridge (Vaduz)",
+        "region": "Vaduz",
+        "lat": 47.1347,
+        "lng": 9.5122,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "The last remaining old covered wooden bridge spanning across the upper Rhine river boundary.",
+        "seo_phrase": "Old Rhine Bridge - Historical Covered Wooden Bridge",
+        "seo_keywords": [
+          "Old Rhine Bridge",
+          "Alte Rheinbrücke",
+          "wooden bridge Vaduz",
+          "cross Switzerland Liechtenstein border",
+          "Rhine river walkways"
+        ],
+        "commons_file": "Alte Rheinbruecke Vaduz Sevelen 2021.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Alte_Rheinbruecke_Vaduz_Sevelen_2021.jpg",
+        "seo_priority": 87,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      }
+    ]
+  }
+}

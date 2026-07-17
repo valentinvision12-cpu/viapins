@@ -1,0 +1,3444 @@
+{
+  "version": 2,
+  "country": "Estonia",
+  "published": true,
+  "cities": [
+    {
+      "city": "Tallinn",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Tallinn",
+      "seo": {
+        "title": "Top 10 Things to Do in Tallinn, Estonia",
+        "description": "Discover 10 must-see landmarks in Tallinn, Estonia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Tallinn? Explore the best places to visit in Tallinn, Estonia.",
+        "keywords": [
+          "things to do in Tallinn",
+          "Tallinn Estonia travel guide",
+          "best places to visit in Tallinn",
+          "Tallinn landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Tallinn Old Town",
+          "wiki_title": "Tallinn Old Town",
+          "lat": 59.4378,
+          "lng": 24.7456,
+          "order_index": 0,
+          "description": "Historic medieval core of Tallinn with cobbled streets and centuries-old buildings.",
+          "seo_phrase": "Tallinn Old Town - Medieval Historic Centre",
+          "seo_keywords": [
+            "Tallinn Old Town",
+            "UNESCO heritage",
+            "medieval Tallinn",
+            "cobblestone streets",
+            "Hanesaatic history"
+          ],
+          "commons_file": "Tallinn Old Town (23546377905).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Tallinn_Old_Town_%2823546377905%29.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Toompea Castle",
+            "Town Hall Square",
+            "Alexander Nevsky Cathedral"
+          ],
+          "maps_query": "Town Hall Square Tallinn, Estonia"
+        },
+        {
+          "name": "Toompea Castle",
+          "wiki_title": "Toompea Castle",
+          "lat": 59.4356,
+          "lng": 24.7372,
+          "order_index": 1,
+          "description": "Medieval castle on Toompea Hill, now home to Estonia's Parliament (Riigikogu).",
+          "seo_phrase": "Toompea Castle (Estonian Parliament)",
+          "seo_keywords": [
+            "Toompea Castle",
+            "Tallinn castle",
+            "Riigikogu Estonia",
+            "Toompea Hill",
+            "medieval fortress"
+          ],
+          "commons_file": "Toompea castle Estonia.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Toompea_castle_Estonia.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Alexander Nevsky Cathedral",
+            "Tallinn Old Town",
+            "St. Mary's Cathedral"
+          ]
+        },
+        {
+          "name": "Alexander Nevsky Cathedral",
+          "wiki_title": "Alexander Nevsky Cathedral, Tallinn",
+          "lat": 59.435833,
+          "lng": 24.739361,
+          "order_index": 2,
+          "description": "Orthodox cathedral built in 1900, famous for its ornate façade and golden domes.",
+          "seo_phrase": "Alexander Nevsky Cathedral - Tallinn Orthodox Landmark",
+          "seo_keywords": [
+            "Alexander Nevsky Cathedral",
+            "Tallinn church",
+            "Orthodox cathedral Tallinn",
+            "Aleksander Nevski katedraal",
+            "Tallinn landmarks"
+          ],
+          "commons_file": "Alexander Nevsky Cathedral Tallinn.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Alexander_Nevsky_Cathedral_Tallinn.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Toompea Castle",
+            "St. Mary's Cathedral",
+            "Tallinn Old Town"
+          ]
+        },
+        {
+          "name": "Kumu Art Museum",
+          "wiki_title": "Kumu",
+          "lat": 59.4373,
+          "lng": 24.7847,
+          "order_index": 3,
+          "description": "National art museum housing Estonia's largest art collection in a modern architectural space.",
+          "seo_phrase": "Kumu Art Museum - Contemporary Art in Tallinn",
+          "seo_keywords": [
+            "Kumu Art Museum",
+            "Estonian art museum",
+            "Kadriorg museum",
+            "modern art Tallinn"
+          ],
+          "commons_file": "Kumu Art Museum Tallinn.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Kumu_Art_Museum_Tallinn.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Kadriorg Palace",
+            "Kadriorg Park",
+            "Oru Palace"
+          ]
+        },
+        {
+          "name": "Kadriorg Palace",
+          "wiki_title": "Kadriorg Palace",
+          "lat": 59.4333,
+          "lng": 24.8006,
+          "order_index": 4,
+          "description": "Stately 18th-century Baroque palace and gardens, built for the Russian Tsar and now an art museum.",
+          "seo_phrase": "Kadriorg Palace & Park - Baroque Heritage",
+          "seo_keywords": [
+            "Kadriorg Palace",
+            "Baroque palace Tallinn",
+            "art museum Kadriorg",
+            "Peter the Great Tallinn"
+          ],
+          "commons_file": "Kadriorg Palace from the park.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Kadriorg_Palace_from_the_park.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Kumu Art Museum",
+            "Kadriorg Park",
+            "Presidential Palace"
+          ]
+        },
+        {
+          "name": "Telliskivi Creative City",
+          "wiki_title": "Telliskivi Creative City",
+          "lat": 59.43,
+          "lng": 24.713,
+          "order_index": 5,
+          "description": "Former factory area turned creative hub with design shops, street art, and cafes.",
+          "seo_phrase": "Telliskivi Creative City - Trendy Arts District",
+          "seo_keywords": [
+            "Telliskivi Creative City",
+            "Tallinn arts district",
+            "street art Tallinn",
+            "creative hub Estonian design"
+          ],
+          "commons_file": "Telliskivi Creative City.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Telliskivi_Creative_City.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Seaplane Harbour",
+            "Balti Jaam market"
+          ]
+        },
+        {
+          "name": "Tallinn Seaplane Harbour",
+          "wiki_title": "Lennusadam",
+          "lat": 59.439,
+          "lng": 24.7393,
+          "order_index": 6,
+          "description": "Interactive maritime museum in a historic seaplane hangar, featuring ships, submarines and exhibits.",
+          "seo_phrase": "Seaplane Harbour Museum - Maritime History",
+          "seo_keywords": [
+            "Seaplane Harbour",
+            "Tallinn maritime museum",
+            "Lennusadam ships",
+            "submarine museum Tallinn"
+          ],
+          "commons_file": "Seaplane Harbour Tallinn aviator.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Seaplane_Harbour_Tallinn_aviator.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Telliskivi Creative City",
+            "Tallinn Old Town"
+          ]
+        },
+        {
+          "name": "Estonian Open Air Museum",
+          "wiki_title": "Estonian Open Air Museum",
+          "lat": 59.4492,
+          "lng": 24.6403,
+          "order_index": 7,
+          "description": "Large outdoor museum with historic farmhouses, windmills and village churches from around Estonia.",
+          "seo_phrase": "Estonian Open Air Museum - Rural Life History",
+          "seo_keywords": [
+            "Estonian Open Air Museum",
+            "Rocca al Mare museum",
+            "ethnographic park Tallinn",
+            "Estonian rural heritage"
+          ],
+          "commons_file": "Eesti Vabaduse näitus.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Eesti_Vabaduse_n%C3%A4itus.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Tallinn TV Tower",
+            "Kadriorg Park"
+          ]
+        },
+        {
+          "name": "Town Hall Square",
+          "wiki_title": "Town Hall Square, Tallinn",
+          "lat": 59.4366,
+          "lng": 24.7455,
+          "order_index": 8,
+          "description": "Central plaza of Old Town, featuring Tallinn Town Hall and medieval merchants' houses.",
+          "seo_phrase": "Town Hall Square - Medieval Marketplace",
+          "seo_keywords": [
+            "Town Hall Square Tallinn",
+            "Raekoja plats",
+            "medieval square Estonia",
+            "Tallinn events"
+          ],
+          "commons_file": "Tallinn Town Hall Square.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tallinn_Town_Hall_Square.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Tallinn Old Town",
+            "St. Nicholas Church",
+            "Kiek in de Kök Museum"
+          ]
+        },
+        {
+          "name": "Kadriorg Park",
+          "wiki_title": "Kadriorg Park",
+          "lat": 59.4339,
+          "lng": 24.7858,
+          "order_index": 9,
+          "description": "Expansive landscaped park around Kadriorg Palace, featuring fountains, swans and walking paths.",
+          "seo_phrase": "Kadriorg Park & Swan Pond",
+          "seo_keywords": [
+            "Kadriorg Park",
+            "Tallinn gardens",
+            "Baroque park Estonia",
+            "swans Tallinn"
+          ],
+          "commons_file": "Kadriorg Park Tallinn.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kadriorg_Park_Tallinn.jpg",
+          "seo_priority": 70,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Kadriorg Palace",
+            "Kumu Art Museum",
+            "Peter the Great Monument"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Tartu",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Tartu",
+      "seo": {
+        "title": "Top 10 Things to Do in Tartu, Estonia",
+        "description": "Discover 10 must-see landmarks in Tartu, Estonia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Tartu? Explore the best places to visit in Tartu, Estonia.",
+        "keywords": [
+          "things to do in Tartu",
+          "Tartu Estonia travel guide",
+          "best places to visit in Tartu",
+          "Tartu landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "University of Tartu",
+          "wiki_title": "University of Tartu",
+          "lat": 58.381,
+          "lng": 26.722,
+          "order_index": 0,
+          "seo_phrase": "University of Tartu — Tartu, Estonia",
+          "seo_keywords": [
+            "University of Tartu",
+            "Tartu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Tartu Town Hall",
+          "wiki_title": "Tartu Town Hall",
+          "lat": 58.3806,
+          "lng": 26.7228,
+          "order_index": 1,
+          "seo_phrase": "Tartu Town Hall — Tartu, Estonia",
+          "seo_keywords": [
+            "Tartu Town Hall",
+            "Tartu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 94,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Toome Hill",
+          "wiki_title": "Toome Hill",
+          "lat": 58.3803,
+          "lng": 26.7194,
+          "order_index": 2,
+          "seo_phrase": "Toome Hill — Tartu, Estonia",
+          "seo_keywords": [
+            "Toome Hill",
+            "Tartu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "St John's Church, Tartu",
+          "wiki_title": "St John's Church, Tartu",
+          "lat": 58.3808,
+          "lng": 26.7197,
+          "order_index": 3,
+          "seo_phrase": "St John's Church, Tartu — Tartu, Estonia",
+          "seo_keywords": [
+            "St John's Church, Tartu",
+            "Tartu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "AHHAA Science Centre",
+          "wiki_title": "AHHAA Science Centre",
+          "lat": 58.3708,
+          "lng": 26.7322,
+          "order_index": 4,
+          "seo_phrase": "AHHAA Science Centre — Tartu, Estonia",
+          "seo_keywords": [
+            "AHHAA Science Centre",
+            "Tartu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Tartu Art Museum",
+          "wiki_title": "Tartu Art Museum",
+          "lat": 58.3833,
+          "lng": 26.7222,
+          "order_index": 5,
+          "seo_phrase": "Tartu Art Museum — Tartu, Estonia",
+          "seo_keywords": [
+            "Tartu Art Museum",
+            "Tartu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2
+        },
+        {
+          "name": "Angel's Bridge",
+          "wiki_title": "Angel's Bridge",
+          "lat": 58.3805,
+          "lng": 26.7192,
+          "order_index": 6,
+          "seo_phrase": "Angel's Bridge — Tartu, Estonia",
+          "seo_keywords": [
+            "Angel's Bridge",
+            "Tartu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "Tartu Cathedral",
+          "wiki_title": "Tartu Cathedral",
+          "lat": 58.3802,
+          "lng": 26.7188,
+          "order_index": 7,
+          "seo_phrase": "Tartu Cathedral — Tartu, Estonia",
+          "seo_keywords": [
+            "Tartu Cathedral",
+            "Tartu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Estonian National Museum",
+          "wiki_title": "Estonian National Museum",
+          "lat": 58.395,
+          "lng": 26.745,
+          "order_index": 8,
+          "seo_phrase": "Estonian National Museum — Tartu, Estonia",
+          "seo_keywords": [
+            "Estonian National Museum",
+            "Tartu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2
+        },
+        {
+          "name": "Tartu Raatuse Bridge",
+          "wiki_title": "Tartu Raatuse Bridge",
+          "lat": 58.378,
+          "lng": 26.728,
+          "order_index": 9,
+          "seo_phrase": "Tartu Raatuse Bridge — Tartu, Estonia",
+          "seo_keywords": [
+            "Tartu Raatuse Bridge",
+            "Tartu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5
+        }
+      ]
+    },
+    {
+      "city": "Pärnu",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Pärnu",
+      "seo": {
+        "title": "Top 10 Things to Do in Pärnu, Estonia",
+        "description": "Discover 10 must-see landmarks in Pärnu, Estonia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Pärnu? Explore the best places to visit in Pärnu, Estonia.",
+        "keywords": [
+          "things to do in Pärnu",
+          "Pärnu Estonia travel guide",
+          "best places to visit in Pärnu",
+          "Pärnu landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Pärnu Beach",
+          "wiki_title": "Pärnu Beach",
+          "lat": 58.3742,
+          "lng": 24.5025,
+          "order_index": 0,
+          "seo_phrase": "Pärnu Beach — Pärnu, Estonia",
+          "seo_keywords": [
+            "Pärnu Beach",
+            "Pärnu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Pärnu Museum",
+          "wiki_title": "Pärnu Museum",
+          "lat": 58.385,
+          "lng": 24.497,
+          "order_index": 1,
+          "seo_phrase": "Pärnu Museum — Pärnu, Estonia",
+          "seo_keywords": [
+            "Pärnu Museum",
+            "Pärnu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 94,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2
+        },
+        {
+          "name": "Ammende Villa",
+          "wiki_title": "Ammende Villa",
+          "lat": 58.382,
+          "lng": 24.491,
+          "order_index": 2,
+          "seo_phrase": "Ammende Villa — Pärnu, Estonia",
+          "seo_keywords": [
+            "Ammende Villa",
+            "Pärnu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Catherine Church, Pärnu",
+          "wiki_title": "Catherine Church, Pärnu",
+          "lat": 58.384,
+          "lng": 24.496,
+          "order_index": 3,
+          "seo_phrase": "Catherine Church, Pärnu — Pärnu, Estonia",
+          "seo_keywords": [
+            "Catherine Church, Pärnu",
+            "Pärnu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Pärnu Mud Baths",
+          "wiki_title": "Pärnu Mud Baths",
+          "lat": 58.383,
+          "lng": 24.499,
+          "order_index": 4,
+          "seo_phrase": "Pärnu Mud Baths — Pärnu, Estonia",
+          "seo_keywords": [
+            "Pärnu Mud Baths",
+            "Pärnu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Rannaküla promenade",
+          "wiki_title": "Rannaküla promenade",
+          "lat": 58.3725,
+          "lng": 24.5042,
+          "order_index": 5,
+          "seo_phrase": "Rannaküla promenade — Pärnu, Estonia",
+          "seo_keywords": [
+            "Rannaküla promenade",
+            "Pärnu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "maps_query": "Pärnu beach promenade Rannaküla, Estonia"
+        },
+        {
+          "name": "Pärnu Vallikäär",
+          "wiki_title": "Pärnu Vallikäär",
+          "lat": 58.3862,
+          "lng": 24.4952,
+          "order_index": 6,
+          "seo_phrase": "Pärnu Vallikäär — Pärnu, Estonia",
+          "seo_keywords": [
+            "Pärnu Vallikäär",
+            "Pärnu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "St. Elizabeth's Church, Pärnu",
+          "wiki_title": "St. Elizabeth's Church, Pärnu",
+          "lat": 58.3855,
+          "lng": 24.4975,
+          "order_index": 7,
+          "seo_phrase": "St. Elizabeth's Church, Pärnu — Pärnu, Estonia",
+          "seo_keywords": [
+            "St. Elizabeth's Church, Pärnu",
+            "Pärnu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Pärnu Central Park",
+          "wiki_title": "Pärnu Central Park",
+          "lat": 58.3848,
+          "lng": 24.4988,
+          "order_index": 8,
+          "seo_phrase": "Pärnu Central Park — Pärnu, Estonia",
+          "seo_keywords": [
+            "Pärnu Central Park",
+            "Pärnu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 3,
+          "maps_query": "Pärnu Central Park, Estonia"
+        },
+        {
+          "name": "Pärnu Town Hall",
+          "wiki_title": "Pärnu Town Hall",
+          "lat": 58.3854,
+          "lng": 24.4992,
+          "order_index": 9,
+          "seo_phrase": "Pärnu Town Hall — Pärnu, Estonia",
+          "seo_keywords": [
+            "Pärnu Town Hall",
+            "Pärnu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "maps_query": "Pärnu Town Hall, Pärnu, Estonia",
+          "commons_file": "Pärnu_city_hall.jpg"
+        }
+      ]
+    },
+    {
+      "city": "Narva",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Narva",
+      "seo": {
+        "title": "Top 10 Things to Do in Narva, Estonia",
+        "description": "Discover 10 must-see landmarks in Narva, Estonia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Narva? Explore the best places to visit in Narva, Estonia.",
+        "keywords": [
+          "things to do in Narva",
+          "Narva Estonia travel guide",
+          "best places to visit in Narva",
+          "Narva landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Narva Castle",
+          "wiki_title": "Narva Castle",
+          "lat": 59.374,
+          "lng": 28.202,
+          "order_index": 0,
+          "seo_phrase": "Narva Castle — Narva, Estonia",
+          "seo_keywords": [
+            "Narva Castle",
+            "Narva",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "Narva Alexander's Cathedral",
+          "wiki_title": "Narva Alexander's Cathedral",
+          "lat": 59.379,
+          "lng": 28.191,
+          "order_index": 1,
+          "seo_phrase": "Narva Alexander's Cathedral — Narva, Estonia",
+          "seo_keywords": [
+            "Narva Alexander's Cathedral",
+            "Narva",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 94,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Kreenholm Manufacturing Company",
+          "wiki_title": "Kreenholm Manufacturing Company",
+          "lat": 59.365,
+          "lng": 28.185,
+          "order_index": 2,
+          "seo_phrase": "Kreenholm Manufacturing Company — Narva, Estonia",
+          "seo_keywords": [
+            "Kreenholm Manufacturing Company",
+            "Narva",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Narva Bastions",
+          "wiki_title": "Narva Castle",
+          "lat": 59.3768,
+          "lng": 28.1945,
+          "order_index": 3,
+          "seo_phrase": "Narva Bastions — Narva, Estonia",
+          "seo_keywords": [
+            "Narva Bastions",
+            "Narva",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "maps_query": "Narva Castle bastions, Narva, Estonia"
+        },
+        {
+          "name": "Narva Art Gallery",
+          "wiki_title": "Narva Art Gallery",
+          "lat": 59.3782,
+          "lng": 28.1902,
+          "order_index": 4,
+          "seo_phrase": "Narva Art Gallery — Narva, Estonia",
+          "seo_keywords": [
+            "Narva Art Gallery",
+            "Narva",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2
+        },
+        {
+          "name": "Victory Monument, Narva",
+          "wiki_title": "Victory Monument, Narva",
+          "lat": 59.3762,
+          "lng": 28.1882,
+          "order_index": 5,
+          "seo_phrase": "Victory Monument, Narva — Narva, Estonia",
+          "seo_keywords": [
+            "Victory Monument, Narva",
+            "Narva",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "maps_query": "Victory Monument Narva, Estonia"
+        },
+        {
+          "name": "Narva River promenade",
+          "wiki_title": "Narva River",
+          "lat": 59.3752,
+          "lng": 28.2002,
+          "order_index": 6,
+          "seo_phrase": "Narva River promenade — Narva, Estonia",
+          "seo_keywords": [
+            "Narva River promenade",
+            "Narva",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 3,
+          "maps_query": "Narva promenade Narva River, Estonia"
+        },
+        {
+          "name": "Ivangorod Fortress",
+          "wiki_title": "Ivangorod Fortress",
+          "lat": 59.374,
+          "lng": 28.214,
+          "order_index": 7,
+          "seo_phrase": "Ivangorod Fortress — Narva, Estonia",
+          "seo_keywords": [
+            "Ivangorod Fortress",
+            "Narva",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "Narva Museum",
+          "wiki_title": "Narva Castle",
+          "lat": 59.3745,
+          "lng": 28.2025,
+          "order_index": 8,
+          "seo_phrase": "Narva Museum — Narva, Estonia",
+          "seo_keywords": [
+            "Narva Museum",
+            "Narva",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2
+        },
+        {
+          "name": "Narva-Jõesuu",
+          "wiki_title": "Narva-Jõesuu",
+          "lat": 59.459,
+          "lng": 28.041,
+          "order_index": 9,
+          "seo_phrase": "Narva-Jõesuu — Narva, Estonia",
+          "seo_keywords": [
+            "Narva-Jõesuu",
+            "Narva",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        }
+      ]
+    },
+    {
+      "city": "Haapsalu",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Haapsalu",
+      "seo": {
+        "title": "Top 10 Things to Do in Haapsalu, Estonia",
+        "description": "Discover 10 must-see landmarks in Haapsalu, Estonia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Haapsalu? Explore the best places to visit in Haapsalu, Estonia.",
+        "keywords": [
+          "things to do in Haapsalu",
+          "Haapsalu Estonia travel guide",
+          "best places to visit in Haapsalu",
+          "Haapsalu landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Haapsalu Castle",
+          "wiki_title": "Haapsalu Castle",
+          "lat": 58.943,
+          "lng": 23.541,
+          "order_index": 0,
+          "seo_phrase": "Haapsalu Castle — Haapsalu, Estonia",
+          "seo_keywords": [
+            "Haapsalu Castle",
+            "Haapsalu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "Haapsalu Railway Station",
+          "wiki_title": "Haapsalu Railway Station",
+          "lat": 58.939,
+          "lng": 23.548,
+          "order_index": 1,
+          "seo_phrase": "Haapsalu Railway Station — Haapsalu, Estonia",
+          "seo_keywords": [
+            "Haapsalu Railway Station",
+            "Haapsalu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 94,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Haapsalu Promenade",
+          "wiki_title": "Haapsalu Promenade",
+          "lat": 58.9412,
+          "lng": 23.5382,
+          "order_index": 2,
+          "seo_phrase": "Haapsalu Promenade — Haapsalu, Estonia",
+          "seo_keywords": [
+            "Haapsalu Promenade",
+            "Haapsalu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "maps_query": "Haapsalu seaside promenade, Estonia"
+        },
+        {
+          "name": "Haapsalu Castle Church",
+          "wiki_title": "Haapsalu Castle",
+          "lat": 58.9431,
+          "lng": 23.5411,
+          "order_index": 3,
+          "seo_phrase": "Haapsalu Castle Church — Haapsalu, Estonia",
+          "seo_keywords": [
+            "Haapsalu Castle Church",
+            "Haapsalu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Haapsalu Episcopal Castle",
+          "wiki_title": "Haapsalu Castle",
+          "lat": 58.9432,
+          "lng": 23.5412,
+          "order_index": 4,
+          "seo_phrase": "Haapsalu Episcopal Castle — Haapsalu, Estonia",
+          "seo_keywords": [
+            "Haapsalu Episcopal Castle",
+            "Haapsalu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "Tchaikovsky Bench",
+          "wiki_title": "Tchaikovsky Bench",
+          "lat": 58.9417,
+          "lng": 23.5378,
+          "order_index": 5,
+          "seo_phrase": "Tchaikovsky Bench — Haapsalu, Estonia",
+          "seo_keywords": [
+            "Tchaikovsky Bench",
+            "Haapsalu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "maps_query": "Tchaikovsky Bench Haapsalu, Estonia"
+        },
+        {
+          "name": "Haapsalu Bay",
+          "wiki_title": "Haapsalu Bay",
+          "lat": 58.9352,
+          "lng": 23.5352,
+          "order_index": 6,
+          "seo_phrase": "Haapsalu Bay — Haapsalu, Estonia",
+          "seo_keywords": [
+            "Haapsalu Bay",
+            "Haapsalu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "maps_query": "Haapsalu Bay viewpoint, Haapsalu, Estonia"
+        },
+        {
+          "name": "Haapsalu Old Town",
+          "wiki_title": "Haapsalu Old Town",
+          "lat": 58.9395,
+          "lng": 23.5405,
+          "order_index": 7,
+          "seo_phrase": "Haapsalu Old Town — Haapsalu, Estonia",
+          "seo_keywords": [
+            "Haapsalu Old Town",
+            "Haapsalu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "maps_query": "Haapsalu Episcopal Castle, Haapsalu, Estonia"
+        },
+        {
+          "name": "Museum of the Coastal Swedes",
+          "wiki_title": "Museum of the Coastal Swedes",
+          "lat": 58.9402,
+          "lng": 23.5392,
+          "order_index": 8,
+          "seo_phrase": "Museum of the Coastal Swedes — Haapsalu, Estonia",
+          "seo_keywords": [
+            "Museum of the Coastal Swedes",
+            "Haapsalu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2
+        },
+        {
+          "name": "Haapsalu Maria-Magdalena Church",
+          "wiki_title": "Haapsalu Cathedral",
+          "lat": 58.9425,
+          "lng": 23.5408,
+          "order_index": 9,
+          "seo_phrase": "Haapsalu Maria-Magdalena Church — Haapsalu, Estonia",
+          "seo_keywords": [
+            "Haapsalu Maria-Magdalena Church",
+            "Haapsalu",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "maps_query": "Haapsalu St Mary Magdalene Church, Estonia"
+        }
+      ]
+    },
+    {
+      "city": "Viljandi",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Viljandi",
+      "seo": {
+        "title": "Top 10 Things to Do in Viljandi, Estonia",
+        "description": "Discover 10 must-see landmarks in Viljandi, Estonia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Viljandi? Explore the best places to visit in Viljandi, Estonia.",
+        "keywords": [
+          "things to do in Viljandi",
+          "Viljandi Estonia travel guide",
+          "best places to visit in Viljandi",
+          "Viljandi landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Viljandi Castle",
+          "wiki_title": "Viljandi Castle",
+          "lat": 58.363,
+          "lng": 25.598,
+          "order_index": 0,
+          "seo_phrase": "Viljandi Castle — Viljandi, Estonia",
+          "seo_keywords": [
+            "Viljandi Castle",
+            "Viljandi",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "St Paul's Church, Viljandi",
+          "wiki_title": "St Paul's Church, Viljandi",
+          "lat": 58.364,
+          "lng": 25.597,
+          "order_index": 1,
+          "seo_phrase": "St Paul's Church, Viljandi — Viljandi, Estonia",
+          "seo_keywords": [
+            "St Paul's Church, Viljandi",
+            "Viljandi",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 94,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Viljandi Order Castle",
+          "wiki_title": "Viljandi Castle",
+          "lat": 58.3632,
+          "lng": 25.5982,
+          "order_index": 2,
+          "seo_phrase": "Viljandi Order Castle — Viljandi, Estonia",
+          "seo_keywords": [
+            "Viljandi Order Castle",
+            "Viljandi",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "Viljandi Folk Music Festival grounds",
+          "wiki_title": "Viljandi Folk Music Festival",
+          "lat": 58.3625,
+          "lng": 25.5975,
+          "order_index": 3,
+          "seo_phrase": "Viljandi Folk Music Festival grounds — Viljandi, Estonia",
+          "seo_keywords": [
+            "Viljandi Folk Music Festival grounds",
+            "Viljandi",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Viljandi Museum",
+          "wiki_title": "Viljandi Museum",
+          "lat": 58.3637,
+          "lng": 25.5967,
+          "order_index": 4,
+          "seo_phrase": "Viljandi Museum — Viljandi, Estonia",
+          "seo_keywords": [
+            "Viljandi Museum",
+            "Viljandi",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2
+        },
+        {
+          "name": "Viljandi Suspension Bridge",
+          "wiki_title": "Viljandi Suspension Bridge",
+          "lat": 58.3612,
+          "lng": 25.5992,
+          "order_index": 5,
+          "seo_phrase": "Viljandi Suspension Bridge — Viljandi, Estonia",
+          "seo_keywords": [
+            "Viljandi Suspension Bridge",
+            "Viljandi",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "maps_query": "Viljandi suspension bridge, Estonia"
+        },
+        {
+          "name": "Lake Viljandi",
+          "wiki_title": "Lake Viljandi",
+          "lat": 58.358,
+          "lng": 25.595,
+          "order_index": 6,
+          "seo_phrase": "Lake Viljandi — Viljandi, Estonia",
+          "seo_keywords": [
+            "Lake Viljandi",
+            "Viljandi",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 3
+        },
+        {
+          "name": "Viljandi Water Tower",
+          "wiki_title": "Viljandi Water Tower",
+          "lat": 58.3647,
+          "lng": 25.5987,
+          "order_index": 7,
+          "seo_phrase": "Viljandi Water Tower — Viljandi, Estonia",
+          "seo_keywords": [
+            "Viljandi Water Tower",
+            "Viljandi",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "Viljandi Old Town",
+          "wiki_title": "St Paul's Church, Viljandi",
+          "lat": 58.3638,
+          "lng": 25.5972,
+          "order_index": 8,
+          "seo_phrase": "Viljandi Old Town — Viljandi, Estonia",
+          "seo_keywords": [
+            "Viljandi Old Town",
+            "Viljandi",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "maps_query": "St Paul's Church, Viljandi, Estonia"
+        },
+        {
+          "name": "Ruins of Viljandi Order Castle",
+          "wiki_title": "Viljandi Castle",
+          "lat": 58.3631,
+          "lng": 25.5981,
+          "order_index": 9,
+          "seo_phrase": "Ruins of Viljandi Order Castle — Viljandi, Estonia",
+          "seo_keywords": [
+            "Ruins of Viljandi Order Castle",
+            "Viljandi",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5
+        }
+      ]
+    },
+    {
+      "city": "Kuressaare",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Kuressaare",
+      "seo": {
+        "title": "Top 10 Things to Do in Kuressaare, Estonia",
+        "description": "Discover 10 must-see landmarks in Kuressaare, Estonia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Kuressaare? Explore the best places to visit in Kuressaare, Estonia.",
+        "keywords": [
+          "things to do in Kuressaare",
+          "Kuressaare Estonia travel guide",
+          "best places to visit in Kuressaare",
+          "Kuressaare landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Kuressaare Castle",
+          "wiki_title": "Kuressaare Castle",
+          "lat": 58.25,
+          "lng": 22.483,
+          "order_index": 0,
+          "seo_phrase": "Kuressaare Castle — Kuressaare, Estonia",
+          "seo_keywords": [
+            "Kuressaare Castle",
+            "Kuressaare",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "Saaremaa Museum",
+          "wiki_title": "Saaremaa Museum",
+          "lat": 58.2505,
+          "lng": 22.4835,
+          "order_index": 1,
+          "seo_phrase": "Saaremaa Museum — Kuressaare, Estonia",
+          "seo_keywords": [
+            "Saaremaa Museum",
+            "Kuressaare",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 94,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2
+        },
+        {
+          "name": "Kuressaare Town Hall",
+          "wiki_title": "Kuressaare Town Hall",
+          "lat": 58.2492,
+          "lng": 22.4852,
+          "order_index": 2,
+          "seo_phrase": "Kuressaare Town Hall — Kuressaare, Estonia",
+          "seo_keywords": [
+            "Kuressaare Town Hall",
+            "Kuressaare",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "maps_query": "Kuressaare Town Hall, Estonia"
+        },
+        {
+          "name": "Spa Hall, Kuressaare",
+          "wiki_title": "Spa Hall, Kuressaare",
+          "lat": 58.2512,
+          "lng": 22.4842,
+          "order_index": 3,
+          "seo_phrase": "Spa Hall, Kuressaare — Kuressaare, Estonia",
+          "seo_keywords": [
+            "Spa Hall, Kuressaare",
+            "Kuressaare",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "maps_query": "Kuressaare Spa Hall, Estonia"
+        },
+        {
+          "name": "Kuressaare Episcopal Castle",
+          "wiki_title": "Kuressaare Castle",
+          "lat": 58.2502,
+          "lng": 22.4832,
+          "order_index": 4,
+          "seo_phrase": "Kuressaare Episcopal Castle — Kuressaare, Estonia",
+          "seo_keywords": [
+            "Kuressaare Episcopal Castle",
+            "Kuressaare",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "Kuressaare Beach",
+          "wiki_title": "Kuressaare Beach",
+          "lat": 58.2482,
+          "lng": 22.4902,
+          "order_index": 5,
+          "seo_phrase": "Kuressaare Beach — Kuressaare, Estonia",
+          "seo_keywords": [
+            "Kuressaare Beach",
+            "Kuressaare",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "maps_query": "Kuressaare Beach, Estonia"
+        },
+        {
+          "name": "Kaali Meteorite Crater",
+          "wiki_title": "Kaali crater",
+          "lat": 58.372,
+          "lng": 22.67,
+          "order_index": 6,
+          "seo_phrase": "Kaali Meteorite Crater — Kuressaare, Estonia",
+          "seo_keywords": [
+            "Kaali Meteorite Crater",
+            "Kuressaare",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Angla Windmill Hill",
+          "wiki_title": "Angla windmill hill",
+          "lat": 58.523,
+          "lng": 22.703,
+          "order_index": 7,
+          "seo_phrase": "Angla Windmill Hill — Kuressaare, Estonia",
+          "seo_keywords": [
+            "Angla Windmill Hill",
+            "Kuressaare",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Kuressaare Old Town",
+          "wiki_title": "Kuressaare Old Town",
+          "lat": 58.2495,
+          "lng": 22.4845,
+          "order_index": 8,
+          "seo_phrase": "Kuressaare Old Town — Kuressaare, Estonia",
+          "seo_keywords": [
+            "Kuressaare Old Town",
+            "Kuressaare",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "maps_query": "Kuressaare Town Hall, Saaremaa, Estonia"
+        },
+        {
+          "name": "Church of St Lawrence, Kuressaare",
+          "wiki_title": "Church of St Lawrence, Kuressaare",
+          "lat": 58.2498,
+          "lng": 22.4855,
+          "order_index": 9,
+          "seo_phrase": "Church of St Lawrence, Kuressaare — Kuressaare, Estonia",
+          "seo_keywords": [
+            "Church of St Lawrence, Kuressaare",
+            "Kuressaare",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "maps_query": "Church of St Lawrence Kuressaare, Estonia"
+        }
+      ]
+    },
+    {
+      "city": "Rakvere",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Rakvere",
+      "seo": {
+        "title": "Top 10 Things to Do in Rakvere, Estonia",
+        "description": "Discover 10 must-see landmarks in Rakvere, Estonia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Rakvere? Explore the best places to visit in Rakvere, Estonia.",
+        "keywords": [
+          "things to do in Rakvere",
+          "Rakvere Estonia travel guide",
+          "best places to visit in Rakvere",
+          "Rakvere landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Rakvere Castle",
+          "wiki_title": "Rakvere Castle",
+          "lat": 59.349,
+          "lng": 26.355,
+          "order_index": 0,
+          "seo_phrase": "Rakvere Castle — Rakvere, Estonia",
+          "seo_keywords": [
+            "Rakvere Castle",
+            "Rakvere",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "Rakvere Order Castle tower",
+          "wiki_title": "Rakvere Castle",
+          "lat": 59.3493,
+          "lng": 26.3553,
+          "order_index": 1,
+          "seo_phrase": "Rakvere Order Castle tower — Rakvere, Estonia",
+          "seo_keywords": [
+            "Rakvere Order Castle tower",
+            "Rakvere",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 94,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "Rakvere Theatre",
+          "wiki_title": "Rakvere Theatre",
+          "lat": 59.347,
+          "lng": 26.356,
+          "order_index": 2,
+          "seo_phrase": "Rakvere Theatre — Rakvere, Estonia",
+          "seo_keywords": [
+            "Rakvere Theatre",
+            "Rakvere",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Rakvere Trinity Church",
+          "wiki_title": "Holy Trinity Church, Rakvere",
+          "lat": 59.348,
+          "lng": 26.357,
+          "order_index": 3,
+          "seo_phrase": "Rakvere Trinity Church — Rakvere, Estonia",
+          "seo_keywords": [
+            "Rakvere Trinity Church",
+            "Rakvere",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Rakvere Citizen's Museum",
+          "wiki_title": "Rakvere Citizen's Museum",
+          "lat": 59.3487,
+          "lng": 26.3567,
+          "order_index": 4,
+          "seo_phrase": "Rakvere Citizen's Museum — Rakvere, Estonia",
+          "seo_keywords": [
+            "Rakvere Citizen's Museum",
+            "Rakvere",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "maps_query": "Rakvere Citizen's Museum, Estonia"
+        },
+        {
+          "name": "Rakvere Central Square",
+          "wiki_title": "Rakvere Central Square",
+          "lat": 59.3477,
+          "lng": 26.357,
+          "order_index": 5,
+          "seo_phrase": "Rakvere Central Square — Rakvere, Estonia",
+          "seo_keywords": [
+            "Rakvere Central Square",
+            "Rakvere",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "maps_query": "Rakvere Central Square, Estonia"
+        },
+        {
+          "name": "Rakvere St Paul Church",
+          "wiki_title": "St Paul's Church, Rakvere",
+          "lat": 59.3482,
+          "lng": 26.3572,
+          "order_index": 6,
+          "seo_phrase": "Rakvere St Paul Church — Rakvere, Estonia",
+          "seo_keywords": [
+            "Rakvere St Paul Church",
+            "Rakvere",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Rakvere Pikk Street",
+          "wiki_title": "Rakvere Pikk Street",
+          "lat": 59.348,
+          "lng": 26.3577,
+          "order_index": 7,
+          "seo_phrase": "Rakvere Pikk Street — Rakvere, Estonia",
+          "seo_keywords": [
+            "Rakvere Pikk Street",
+            "Rakvere",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "maps_query": "Pikk Street Rakvere, Estonia"
+        },
+        {
+          "name": "Rakvere Vallitorn",
+          "wiki_title": "Rakvere Castle",
+          "lat": 59.3494,
+          "lng": 26.3554,
+          "order_index": 8,
+          "seo_phrase": "Rakvere Vallitorn — Rakvere, Estonia",
+          "seo_keywords": [
+            "Rakvere Vallitorn",
+            "Rakvere",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Rakvere Lutheran Church",
+          "wiki_title": "Holy Trinity Church, Rakvere",
+          "lat": 59.3485,
+          "lng": 26.3575,
+          "order_index": 9,
+          "seo_phrase": "Rakvere Lutheran Church — Rakvere, Estonia",
+          "seo_keywords": [
+            "Rakvere Lutheran Church",
+            "Rakvere",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "maps_query": "Rakvere Holy Trinity Church, Estonia"
+        }
+      ]
+    },
+    {
+      "city": "Paide",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Paide",
+      "seo": {
+        "title": "Top 10 Things to Do in Paide, Estonia",
+        "description": "Discover 10 must-see landmarks in Paide, Estonia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Paide? Explore the best places to visit in Paide, Estonia.",
+        "keywords": [
+          "things to do in Paide",
+          "Paide Estonia travel guide",
+          "best places to visit in Paide",
+          "Paide landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Paide Castle",
+          "wiki_title": "Paide Castle",
+          "lat": 58.883,
+          "lng": 25.557,
+          "order_index": 0,
+          "seo_phrase": "Paide Castle — Paide, Estonia",
+          "seo_keywords": [
+            "Paide Castle",
+            "Paide",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "Paide Vallitorn",
+          "wiki_title": "Paide Castle",
+          "lat": 58.8832,
+          "lng": 25.5572,
+          "order_index": 1,
+          "seo_phrase": "Paide Vallitorn — Paide, Estonia",
+          "seo_keywords": [
+            "Paide Vallitorn",
+            "Paide",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 94,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Paide Church",
+          "wiki_title": "Paide Church",
+          "lat": 58.8837,
+          "lng": 25.5577,
+          "order_index": 2,
+          "seo_phrase": "Paide Church — Paide, Estonia",
+          "seo_keywords": [
+            "Paide Church",
+            "Paide",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "maps_query": "Paide Church, Estonia"
+        },
+        {
+          "name": "Paide Central Square",
+          "wiki_title": "Paide Central Square",
+          "lat": 58.8835,
+          "lng": 25.5574,
+          "order_index": 3,
+          "seo_phrase": "Paide Central Square — Paide, Estonia",
+          "seo_keywords": [
+            "Paide Central Square",
+            "Paide",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "maps_query": "Paide Central Square, Estonia"
+        },
+        {
+          "name": "Paide Museum",
+          "wiki_title": "Paide Museum",
+          "lat": 58.884,
+          "lng": 25.557,
+          "order_index": 4,
+          "seo_phrase": "Paide Museum — Paide, Estonia",
+          "seo_keywords": [
+            "Paide Museum",
+            "Paide",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "maps_query": "Paide Museum, Estonia"
+        },
+        {
+          "name": "Paide Order Castle",
+          "wiki_title": "Paide Castle",
+          "lat": 58.8831,
+          "lng": 25.5571,
+          "order_index": 5,
+          "seo_phrase": "Paide Order Castle — Paide, Estonia",
+          "seo_keywords": [
+            "Paide Order Castle",
+            "Paide",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "Paide Old Town",
+          "wiki_title": "Paide Old Town",
+          "lat": 58.8834,
+          "lng": 25.5574,
+          "order_index": 6,
+          "seo_phrase": "Paide Old Town — Paide, Estonia",
+          "seo_keywords": [
+            "Paide Old Town",
+            "Paide",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "maps_query": "Paide Town Hall, Estonia"
+        },
+        {
+          "name": "Paide St Jacob Church",
+          "wiki_title": "Paide St Jacob Church",
+          "lat": 58.8838,
+          "lng": 25.5578,
+          "order_index": 7,
+          "seo_phrase": "Paide St Jacob Church — Paide, Estonia",
+          "seo_keywords": [
+            "Paide St Jacob Church",
+            "Paide",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "maps_query": "Paide St Jacob Church, Estonia"
+        },
+        {
+          "name": "Paide Town Hall",
+          "wiki_title": "Paide Town Hall",
+          "lat": 58.8839,
+          "lng": 25.5575,
+          "order_index": 8,
+          "seo_phrase": "Paide Town Hall — Paide, Estonia",
+          "seo_keywords": [
+            "Paide Town Hall",
+            "Paide",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "maps_query": "Paide Town Hall, Estonia"
+        },
+        {
+          "name": "Eivere Manor",
+          "wiki_title": "Eivere mõis",
+          "lat": 58.948191,
+          "lng": 25.555325,
+          "order_index": 9,
+          "seo_phrase": "Eivere Manor — Paide, Estonia",
+          "seo_keywords": [
+            "Eivere Manor",
+            "Paide",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "maps_query": "Eivere Manor, Järva County, Estonia",
+          "commons_file": "Eivere mõisa park.jpg"
+        }
+      ]
+    },
+    {
+      "city": "Otepää",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Otepää",
+      "seo": {
+        "title": "Top 10 Things to Do in Otepää, Estonia",
+        "description": "Discover 10 must-see landmarks in Otepää, Estonia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Otepää? Explore the best places to visit in Otepää, Estonia.",
+        "keywords": [
+          "things to do in Otepää",
+          "Otepää Estonia travel guide",
+          "best places to visit in Otepää",
+          "Otepää landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Suur Munamägi",
+          "wiki_title": "Suur Munamägi",
+          "lat": 57.713,
+          "lng": 27.058,
+          "order_index": 0,
+          "seo_phrase": "Suur Munamägi — Otepää, Estonia",
+          "seo_keywords": [
+            "Suur Munamägi",
+            "Otepää",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Lake Pühajärv",
+          "wiki_title": "Lake Pühajärv",
+          "lat": 58.055,
+          "lng": 26.495,
+          "order_index": 1,
+          "seo_phrase": "Lake Pühajärv — Otepää, Estonia",
+          "seo_keywords": [
+            "Lake Pühajärv",
+            "Otepää",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 94,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 3
+        },
+        {
+          "name": "Otepää Nature Park",
+          "wiki_title": "Otepää Nature Park",
+          "lat": 58.059,
+          "lng": 26.496,
+          "order_index": 2,
+          "seo_phrase": "Otepää Nature Park — Otepää, Estonia",
+          "seo_keywords": [
+            "Otepää Nature Park",
+            "Otepää",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 3
+        },
+        {
+          "name": "Otepää Ski Centre",
+          "wiki_title": "Otepää Ski Centre",
+          "lat": 58.0596,
+          "lng": 26.496,
+          "order_index": 3,
+          "seo_phrase": "Otepää Ski Centre — Otepää, Estonia",
+          "seo_keywords": [
+            "Otepää Ski Centre",
+            "Otepää",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter",
+            "spring"
+          ],
+          "visit_duration_hours": 1,
+          "maps_query": "Otepää Ski Centre, Estonia"
+        },
+        {
+          "name": "Otepää Church Hill",
+          "wiki_title": "Otepää Church Hill",
+          "lat": 58.0594,
+          "lng": 26.4957,
+          "order_index": 4,
+          "seo_phrase": "Otepää Church Hill — Otepää, Estonia",
+          "seo_keywords": [
+            "Otepää Church Hill",
+            "Otepää",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "maps_query": "Otepää Church Hill, Estonia"
+        },
+        {
+          "name": "Otepää Observation Tower",
+          "wiki_title": "Suur Munamägi",
+          "lat": 57.7132,
+          "lng": 27.0582,
+          "order_index": 5,
+          "seo_phrase": "Otepää Observation Tower — Otepää, Estonia",
+          "seo_keywords": [
+            "Otepää Observation Tower",
+            "Otepää",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "Otepää Lake",
+          "wiki_title": "Otepää Lake",
+          "lat": 58.0602,
+          "lng": 26.4972,
+          "order_index": 6,
+          "seo_phrase": "Otepää Lake — Otepää, Estonia",
+          "seo_keywords": [
+            "Otepää Lake",
+            "Otepää",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 3,
+          "maps_query": "Otepää Lake, Estonia"
+        },
+        {
+          "name": "Tehvandi Sports Centre",
+          "wiki_title": "Tehvandi",
+          "lat": 58.056,
+          "lng": 26.4965,
+          "order_index": 7,
+          "seo_phrase": "Tehvandi Sports Centre — Otepää, Estonia",
+          "seo_keywords": [
+            "Tehvandi Sports Centre",
+            "Otepää",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Sangaste Castle",
+          "wiki_title": "Sangaste Castle",
+          "lat": 57.91,
+          "lng": 26.29,
+          "order_index": 8,
+          "seo_phrase": "Sangaste Castle — Otepää, Estonia",
+          "seo_keywords": [
+            "Sangaste Castle",
+            "Otepää",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "Otepää Forest trails",
+          "wiki_title": "Otepää Nature Park",
+          "lat": 58.058,
+          "lng": 26.494,
+          "order_index": 9,
+          "seo_phrase": "Otepää Forest trails — Otepää, Estonia",
+          "seo_keywords": [
+            "Otepää Forest trails",
+            "Otepää",
+            "Estonia",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 3
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "Estonia Nature & Road Trip Adventure",
+    "subtitle": "Explore Estonia beyond the cities — national parks, bogs, and scenic coast.",
+    "wiki_title": "Estonia",
+    "totalDays": 10,
+    "seo": {
+      "title": "Estonia Road Trip — Nature Adventure Guide",
+      "description": "Plan a Estonia road trip with GPS stops, national parks, and scenic routes.",
+      "intro": "Explore Estonia beyond the cities with this nature adventure route.",
+      "keywords": [
+        "Estonia road trip",
+        "Estonia nature",
+        "Estonia by car"
+      ]
+    },
+    "places": [
+      {
+        "name": "Lahemaa National Park",
+        "wiki_title": "Lahemaa National Park",
+        "region": "Harju/Lääne-Viru Counties",
+        "lat": 59.57111,
+        "lng": 25.80028,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Northern Estonia's first and largest national park with trails through woods and swamps.",
+        "seo_phrase": "Lahemaa National Park - Estonia's Forest and Coast",
+        "seo_keywords": [
+          "Lahemaa National Park",
+          "Estonian nature",
+          "bog boardwalk Estonia",
+          "Sagadi Manor"
+        ],
+        "commons_file": "Wooden walkway in Lahemaa National Park, Estonia.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Wooden_walkway_in_Lahemaa_National_Park%2C_Estonia.jpg",
+        "seo_priority": 90,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Soomaa National Park",
+        "wiki_title": "Soomaa National Park",
+        "region": "Viljandi County",
+        "lat": 58.44083,
+        "lng": 25.10556,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Southern Estonia park famous for its spring floods and peat bogs, ideal for canoeing.",
+        "seo_phrase": "Soomaa National Park - Land of Bogs",
+        "seo_keywords": [
+          "Soomaa National Park",
+          "Estonia bogs",
+          "Soomaa canoeing",
+          "fifth season flooding"
+        ],
+        "commons_file": "Soomaa Floods.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Soomaa_Floods.jpg",
+        "seo_priority": 88,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Matsalu National Park",
+        "wiki_title": "Matsalu National Park",
+        "region": "Lääne County",
+        "lat": 58.76,
+        "lng": 23.59694,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Western Estonia park on the Matsalu Bay, famous for spring bird migrations and reed-filled marshes.",
+        "seo_phrase": "Matsalu National Park - Birdwatching Paradise",
+        "seo_keywords": [
+          "Matsalu National Park",
+          "Estonia wetlands",
+          "birdwatching Matsalu",
+          "Linnutiik"
+        ],
+        "commons_file": "Matsalu wetlands.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Matsalu_wetlands.jpg",
+        "seo_priority": 85,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Vilsandi National Park",
+        "wiki_title": "Vilsandi National Park",
+        "region": "Saare County",
+        "lat": 58.37861,
+        "lng": 21.87722,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Archipelago park west of Saaremaa, known for seals, coastal meadows and lighthouses.",
+        "seo_phrase": "Vilsandi National Park - Island Nature Reserve",
+        "seo_keywords": [
+          "Vilsandi National Park",
+          "Estonia island reserve",
+          "Saaremaa nature",
+          "Vilsandi seals"
+        ],
+        "commons_file": "Vilsandi Cliffs.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Vilsandi_Cliffs.jpg",
+        "seo_priority": 83,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Karula National Park",
+        "wiki_title": "Karula National Park",
+        "region": "Valga/Viljandi Counties",
+        "lat": 57.71444,
+        "lng": 26.48667,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Estonia's smallest national park with over 30 lakes and hilly terrain, offering peaceful trails.",
+        "seo_phrase": "Karula National Park - Hilly Land of Lakes",
+        "seo_keywords": [
+          "Karula National Park",
+          "Estonia lakes",
+          "Valga nature park",
+          "Karula drumlins"
+        ],
+        "commons_file": "Karula Lake.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Karula_Lake.jpg",
+        "seo_priority": 78,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Alutaguse National Park",
+        "wiki_title": "Alutaguse National Park",
+        "region": "Ida-Viru County",
+        "lat": 58.9939,
+        "lng": 27.22791,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Newest Estonian park with vast pine forests, bog trails and lakeside marshes.",
+        "seo_phrase": "Alutaguse National Park - Untamed Taiga",
+        "seo_keywords": [
+          "Alutaguse National Park",
+          "Estonian taiga",
+          "Kauksi beach",
+          "Alutaguse bogs"
+        ],
+        "commons_file": "Alutaguse forest.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Alutaguse_forest.jpg",
+        "seo_priority": 75,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Otepää Nature Park",
+        "wiki_title": "Otepää Nature Park",
+        "region": "Valga County",
+        "lat": 58.05944,
+        "lng": 26.49583,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Southern Estonia park around Otepää town, featuring the country's highest hills and lakes.",
+        "seo_phrase": "Otepää Nature Park - Hilly South Estonia",
+        "seo_keywords": [
+          "Otepää Nature Park",
+          "Suur Munamägi",
+          "Estonia highest point",
+          "Otepää skiing"
+        ],
+        "commons_file": "Otepää Taeristu.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Otep%C3%A4%C3%A4_Taeristu.jpg",
+        "seo_priority": 80,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Endla Nature Reserve",
+        "wiki_title": "Endla Nature Reserve",
+        "region": "Järva County",
+        "lat": 58.87972,
+        "lng": 26.14028,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Central Estonia's reserve with large bogs and lakes, accessible by boardwalk trails.",
+        "seo_phrase": "Endla Nature Reserve - Bog and Springs",
+        "seo_keywords": [
+          "Endla Nature Reserve",
+          "Estonian bogs",
+          "Männijärve bog",
+          "Endla springs"
+        ],
+        "commons_file": "Endla Nature Reserve.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Endla_Nature_Reserve.jpg",
+        "seo_priority": 78,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Panga Cliff",
+        "wiki_title": "Panga Cliff",
+        "region": "Saare County",
+        "lat": 58.565205,
+        "lng": 22.28465,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Tall limestone cliff on Saaremaa's north coast, offering panoramic sea views.",
+        "seo_phrase": "Panga Cliff - Dramatic Saaremaa View",
+        "seo_keywords": [
+          "Panga Cliff",
+          "Saaremaa cliff",
+          "Baltic Sea viewpoint",
+          "Karja Church"
+        ],
+        "commons_file": "Panga Cliff.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Panga_Cliff.jpg",
+        "seo_priority": 75,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Viru Bog Study Trail",
+        "wiki_title": "Viru Bog",
+        "region": "Harju County",
+        "lat": 59.44019,
+        "lng": 25.62387,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Wooden boardwalk trail through a scenic raised bog near Loksa.",
+        "seo_phrase": "Viru Bog Nature Trail - Lahemaa Boardwalk",
+        "seo_keywords": [
+          "Viru Bog",
+          "Lahemaa boardwalk",
+          "Loksa bog trail",
+          "bog observation tower"
+        ],
+        "commons_file": "Viru Bog.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Viru_Bog.jpg",
+        "seo_priority": 70,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      }
+    ]
+  }
+}

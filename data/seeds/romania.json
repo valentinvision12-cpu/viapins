@@ -1,0 +1,3958 @@
+{
+  "version": 2,
+  "country": "Romania",
+  "published": true,
+  "cities": [
+    {
+      "city": "Bucharest",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Bucharest",
+      "seo": {
+        "title": "Top 10 Things to Do in Bucharest, Romania",
+        "description": "Discover 10 must-see landmarks in Bucharest, Romania. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Bucharest? Explore the best places to visit in Bucharest, Romania.",
+        "keywords": [
+          "things to do in Bucharest",
+          "Bucharest Romania travel guide",
+          "best places to visit in Bucharest",
+          "Bucharest landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Palace of the Parliament",
+          "wiki_title": "Palace of the Parliament",
+          "lat": 44.4275,
+          "lng": 26.0886,
+          "order_index": 0,
+          "description": "The heaviest building in the world and the seat of the Romanian Parliament.",
+          "seo_phrase": "Palace of the Parliament Bucharest | Iconic Landmark",
+          "seo_keywords": [
+            "Palace of Parliament",
+            "Bucharest landmark",
+            "Romania tourism",
+            "Ceausescu palace",
+            "world's heaviest building"
+          ],
+          "commons_file": "Palatul Parlamentului 2013.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Palatul_Parlamentului_2013.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Stavropoleos Monastery",
+            "Old Town",
+            "Revolution Square"
+          ]
+        },
+        {
+          "name": "Old Town (Lipscani)",
+          "wiki_title": "Lipscani",
+          "lat": 44.4325,
+          "lng": 26.0994,
+          "order_index": 1,
+          "description": "The historic center of Bucharest, now filled with cafes, restaurants, and bars.",
+          "seo_phrase": "Old Town Bucharest (Lipscani) | Nightlife & History",
+          "seo_keywords": [
+            "Lipscani",
+            "Old Town Bucharest",
+            "nightlife",
+            "history"
+          ],
+          "commons_file": "Strada Lipscani.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Strada_Lipscani.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Stavropoleos Monastery",
+            "National History Museum"
+          ]
+        },
+        {
+          "name": "Romanian Athenaeum",
+          "wiki_title": "Romanian Athenaeum",
+          "lat": 44.4422,
+          "lng": 26.0975,
+          "order_index": 2,
+          "description": "A stunning 19th-century concert hall and landmark of Bucharest.",
+          "seo_phrase": "Romanian Athenaeum | Concert Hall & Cultural Icon",
+          "seo_keywords": [
+            "Romanian Athenaeum",
+            "Bucharest concert hall",
+            "architecture",
+            "George Enescu Philharmonic"
+          ],
+          "commons_file": "Ateneul Roman Bucuresti.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ateneul_Roman_Bucuresti.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Revolution Square",
+            "National Museum of Art"
+          ]
+        },
+        {
+          "name": "Revolution Square",
+          "wiki_title": "Revolution Square, Bucharest",
+          "lat": 44.4414,
+          "lng": 26.0975,
+          "order_index": 3,
+          "description": "The historical heart of the 1989 Romanian Revolution.",
+          "seo_phrase": "Revolution Square Bucharest | Historical Site",
+          "seo_keywords": [
+            "Revolution Square",
+            "1989 revolution",
+            "history of Bucharest",
+            "Memorial of Rebirth"
+          ],
+          "commons_file": "Memorialul Renasterii.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Memorialul_Renasterii.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Romanian Athenaeum",
+            "National Museum of Art"
+          ]
+        },
+        {
+          "name": "Stavropoleos Monastery",
+          "wiki_title": "Stavropoleos Monastery",
+          "lat": 44.432,
+          "lng": 26.0975,
+          "order_index": 4,
+          "description": "An exquisite Eastern Orthodox monastery with Brâncovenesc-style architecture.",
+          "seo_phrase": "Stavropoleos Monastery | Hidden Gem Bucharest",
+          "seo_keywords": [
+            "Stavropoleos Monastery",
+            "Bucharest Old Town",
+            "monastery",
+            "Orthodox church"
+          ],
+          "commons_file": "Biserica Stavropoleos.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Biserica_Stavropoleos.JPG",
+          "seo_priority": 88,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Town",
+            "Palace of the Parliament"
+          ]
+        },
+        {
+          "name": "National Museum of Art of Romania",
+          "wiki_title": "National Museum of Art of Romania",
+          "lat": 44.4397,
+          "lng": 26.0967,
+          "order_index": 5,
+          "description": "The premier art museum in Romania housed in the former Royal Palace.",
+          "seo_phrase": "National Museum of Art | Bucharest Galleries",
+          "seo_keywords": [
+            "National Museum of Art",
+            "art in Bucharest",
+            "Royal Palace Bucharest"
+          ],
+          "commons_file": "Palatul Regal Bucuresti.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Palatul_Regal_Bucuresti.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Romanian Athenaeum",
+            "Revolution Square"
+          ]
+        },
+        {
+          "name": "Dimitrie Gusti National Village Museum",
+          "wiki_title": "Dimitrie Gusti National Village Museum",
+          "lat": 44.4756,
+          "lng": 26.0792,
+          "order_index": 6,
+          "description": "A vast open-air museum displaying authentic houses and farms from across Romania.",
+          "seo_phrase": "Dimitrie Gusti National Village Museum | Open Air Romania",
+          "seo_keywords": [
+            "Village Museum Bucharest",
+            "Romania traditions",
+            "open air museum",
+            "folk architecture",
+            "Herastrau Park"
+          ],
+          "commons_file": "Muzeul Satului Bucuresti.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Muzeul_Satului_Bucuresti.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Herastrau Park",
+            "Arcul de Triumf"
+          ]
+        },
+        {
+          "name": "Arcul de Triumf",
+          "wiki_title": "Arcul de Triumf",
+          "lat": 44.4675,
+          "lng": 26.0792,
+          "order_index": 7,
+          "description": "A monumental triumphal arch commemorating Romania's WWI victories.",
+          "seo_phrase": "Arcul de Triumf Bucharest | National Monument",
+          "seo_keywords": [
+            "Arcul de Triumf",
+            "Bucharest monuments",
+            "Romania history"
+          ],
+          "commons_file": "Arcul de Triumf Bucuresti 2016.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Arcul_de_Triumf_Bucuresti_2016.jpg",
+          "seo_priority": 84,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Herastrau Park",
+            "Village Museum"
+          ]
+        },
+        {
+          "name": "Herastrau Park",
+          "wiki_title": "Herăstrău Park",
+          "lat": 44.4786,
+          "lng": 26.0811,
+          "order_index": 8,
+          "description": "A large park surrounding Lake Herastrau, ideal for outdoor activities.",
+          "seo_phrase": "Herastrau Park Bucharest | Nature & Recreation",
+          "seo_keywords": [
+            "Herastrau Park",
+            "Bucharest outdoor activities",
+            "Lake Herastrau"
+          ],
+          "commons_file": "Parcul Herastrau lac.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Parcul_Herastrau_lac.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Village Museum",
+            "Arcul de Triumf"
+          ]
+        },
+        {
+          "name": "Cismigiu Garden",
+          "wiki_title": "Cișmigiu Gardens",
+          "lat": 44.4372,
+          "lng": 26.0944,
+          "order_index": 9,
+          "description": "An elegant 19th-century public park in the city center.",
+          "seo_phrase": "Cismigiu Garden Bucharest | Historic Public Park",
+          "seo_keywords": [
+            "Cismigiu Garden",
+            "Bucharest parks",
+            "relax in Bucharest",
+            "city center park"
+          ],
+          "commons_file": "Gradina Cismigiu 1.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Gradina_Cismigiu_1.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "National Museum of Art",
+            "Romanian Athenaeum"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Brasov",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Brasov",
+      "seo": {
+        "title": "Top 10 Things to Do in Brasov, Romania",
+        "description": "Discover 10 must-see landmarks in Brasov, Romania. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Brasov? Explore the best places to visit in Brasov, Romania.",
+        "keywords": [
+          "things to do in Brasov",
+          "Brasov Romania travel guide",
+          "best places to visit in Brasov",
+          "Brasov landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Black Church",
+          "wiki_title": "Black Church (Brașov",
+          "lat": 45.6406,
+          "lng": 25.5861,
+          "order_index": 0,
+          "description": "The largest Gothic church in Romania.",
+          "seo_phrase": "Black Church Brasov | Gothic Landmark",
+          "seo_keywords": [
+            "Black Church",
+            "Brasov",
+            "Gothic architecture",
+            "Transylvania landmarks"
+          ],
+          "commons_file": "Biserica Neagra Brasov.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Biserica_Neagra_Brasov.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Council Square",
+            "Rope Street"
+          ]
+        },
+        {
+          "name": "Council Square (Piata Sfatului)",
+          "wiki_title": "Council Square, Brașov",
+          "lat": 45.6414,
+          "lng": 25.5881,
+          "order_index": 1,
+          "description": "The central square of Brasov, surrounded by colorful medieval buildings.",
+          "seo_phrase": "Council Square Brasov | Historic Center",
+          "seo_keywords": [
+            "Council Square",
+            "Piata Sfatului",
+            "Brasov old town",
+            "Transylvania city center"
+          ],
+          "commons_file": "Piata Sfatului Brasov.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Piata_Sfatului_Brasov.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Black Church",
+            "Rope Street"
+          ]
+        },
+        {
+          "name": "Tampa Mountain",
+          "wiki_title": "Tâmpa (mountain",
+          "lat": 45.6353,
+          "lng": 25.5897,
+          "order_index": 2,
+          "description": "A mountain overlooking Brasov, famous for its sign and city views.",
+          "seo_phrase": "Tampa Mountain Brasov | Viewpoint & Nature",
+          "seo_keywords": [
+            "Tampa Mountain",
+            "Brasov hiking",
+            "viewpoint",
+            "Brasov sign"
+          ],
+          "commons_file": "Tamp Brasov.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Tamp_Brasov.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Council Square",
+            "Black Church"
+          ]
+        },
+        {
+          "name": "White Tower",
+          "wiki_title": "White Tower (Brașov",
+          "lat": 45.6444,
+          "lng": 25.5894,
+          "order_index": 3,
+          "description": "A 15th-century tower used for defensive purposes and city surveillance.",
+          "seo_phrase": "White Tower Brasov | City Lookout",
+          "seo_keywords": [
+            "White Tower",
+            "Brasov viewpoints",
+            "city lookout"
+          ],
+          "commons_file": "Turnul Alb Brasov.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Turnul_Alb_Brasov.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Black Tower",
+            "Council Square"
+          ]
+        },
+        {
+          "name": "Weaver's Bastion",
+          "wiki_title": "Weavers Bastion",
+          "lat": 45.6419,
+          "lng": 25.5908,
+          "order_index": 4,
+          "description": "A massive 16th-century fortress built by the local weaver's guild.",
+          "seo_phrase": "Weaver's Bastion Brasov | Medieval Fortification",
+          "seo_keywords": [
+            "Weaver's Bastion",
+            "Brasov museums",
+            "medieval fortifications"
+          ],
+          "commons_file": "Bastionul Tesatorilor Brasov.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bastionul_Tesatorilor_Brasov.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Council Square",
+            "Black Church"
+          ]
+        },
+        {
+          "name": "Rope Street (Strada Sforii)",
+          "wiki_title": "Rope Street",
+          "lat": 45.6417,
+          "lng": 25.5903,
+          "order_index": 5,
+          "description": "A famous narrow alleyway in the heart of Brasov.",
+          "seo_phrase": "Rope Street Brasov | Narrowest Street in Romania",
+          "seo_keywords": [
+            "Rope Street",
+            "Strada Sforii",
+            "Brasov attractions",
+            "narrow street"
+          ],
+          "commons_file": "Strada Sforii Brasov.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Strada_Sforii_Brasov.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Council Square",
+            "Black Church"
+          ]
+        },
+        {
+          "name": "St. Nicholas Church",
+          "wiki_title": "St. Nicholas Church, Brașov",
+          "lat": 45.6386,
+          "lng": 25.5839,
+          "order_index": 6,
+          "description": "A beautifully architecture Orthodox church in the heart of Schei.",
+          "seo_phrase": "St. Nicholas Church Brasov | Historical Orthodox Church",
+          "seo_keywords": [
+            "St. Nicholas Church",
+            "Brasov churches",
+            "Orthodox",
+            "Schei"
+          ],
+          "commons_file": "Biserica Sfantul Nicolae Schei Brasov.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Biserica_Sfantul_Nicolae_Schei_Brasov.jpg",
+          "seo_priority": 79,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "First Romanian School",
+            "Schei District"
+          ]
+        },
+        {
+          "name": "Catherine Gate",
+          "wiki_title": "Catherine's Gate",
+          "lat": 45.6425,
+          "lng": 25.5864,
+          "order_index": 7,
+          "description": "The only original medieval gate that still survives in Brasov.",
+          "seo_phrase": "Catherine Gate Brasov | Historic Defense Structure",
+          "seo_keywords": [
+            "Catherine Gate",
+            "Brasov fortification",
+            "medieval architecture"
+          ],
+          "commons_file": "Poarta Ecaterinei Brasov.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Poarta_Ecaterinei_Brasov.jpg",
+          "seo_priority": 78,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Council Square",
+            "Black Church"
+          ]
+        },
+        {
+          "name": "First Romanian School",
+          "wiki_title": "First Romanian School",
+          "lat": 45.6389,
+          "lng": 25.5836,
+          "order_index": 8,
+          "description": "A museum displaying the first school where lessons were held in the Romanian language.",
+          "seo_phrase": "First Romanian School Museum | Historical Landmark",
+          "seo_keywords": [
+            "First Romanian School",
+            "Brasov museums",
+            "history of Romanian language"
+          ],
+          "commons_file": "Prima Scoala Romaneasca.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Prima_Scoala_Romaneasca.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Schei District",
+            "St. Nicholas Church"
+          ]
+        },
+        {
+          "name": "Schei District",
+          "wiki_title": "Șchei district",
+          "lat": 45.638,
+          "lng": 25.585,
+          "order_index": 9,
+          "description": "A charming historical neighborhood with traditional architecture.",
+          "seo_phrase": "Schei District Brasov | Historic Romanian Quarter",
+          "seo_keywords": [
+            "Schei District",
+            "Brasov neighborhoods",
+            "cultural heritage"
+          ],
+          "commons_file": "Schei Brasov.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Schei_Brasov.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "First Romanian School",
+            "St. Nicholas Church"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Sibiu",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Sibiu",
+      "seo": {
+        "title": "Top 10 Things to Do in Sibiu, Romania",
+        "description": "Discover 10 must-see landmarks in Sibiu, Romania. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Sibiu? Explore the best places to visit in Sibiu, Romania.",
+        "keywords": [
+          "things to do in Sibiu",
+          "Sibiu Romania travel guide",
+          "best places to visit in Sibiu",
+          "Sibiu landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Bridge of Lies",
+          "wiki_title": "Bridge of Lies",
+          "lat": 45.7972,
+          "lng": 24.1517,
+          "order_index": 0,
+          "description": "The first cast-iron bridge in Romania, full of local legends.",
+          "seo_phrase": "Bridge of Lies Sibiu | Historic Landmark",
+          "seo_keywords": [
+            "Bridge of Lies",
+            "Sibiu",
+            "legends",
+            "Transylvania landmarks"
+          ],
+          "commons_file": "Podul Minciunilor Sibiu.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Podul_Minciunilor_Sibiu.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Small Square",
+            "Large Square"
+          ]
+        },
+        {
+          "name": "Large Square (Piata Mare)",
+          "wiki_title": "Large Square, Sibiu",
+          "lat": 45.7967,
+          "lng": 24.1533,
+          "order_index": 1,
+          "description": "The expansive main square of Sibiu, surrounded by historic buildings.",
+          "seo_phrase": "Large Square Sibiu | Main Historic Square",
+          "seo_keywords": [
+            "Large Square",
+            "Piata Mare",
+            "Sibiu city center"
+          ],
+          "commons_file": "Piata Mare Sibiu.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Piata_Mare_Sibiu.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Small Square",
+            "Council Tower"
+          ]
+        },
+        {
+          "name": "Small Square (Piata Mica)",
+          "wiki_title": "Small Square, Sibiu",
+          "lat": 45.7972,
+          "lng": 24.1508,
+          "order_index": 2,
+          "description": "A historic, picturesque square in Sibiu's old city center.",
+          "seo_phrase": "Small Square Sibiu | Medieval City Center",
+          "seo_keywords": [
+            "Small Square",
+            "Piata Mica",
+            "Sibiu attractions",
+            "city center"
+          ],
+          "commons_file": "Piata Mica Sibiu.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Piata_Mica_Sibiu.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Bridge of Lies",
+            "Large Square"
+          ]
+        },
+        {
+          "name": "Brukenthal National Museum",
+          "wiki_title": "Brukenthal National Museum",
+          "lat": 45.7964,
+          "lng": 24.1528,
+          "order_index": 3,
+          "description": "An art museum with a rich collection of European paintings.",
+          "seo_phrase": "Brukenthal National Museum | Art & History",
+          "seo_keywords": [
+            "Brukenthal Museum",
+            "Sibiu art",
+            "Romania museums"
+          ],
+          "commons_file": "Muzeul Brukenthal Sibiu.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Muzeul_Brukenthal_Sibiu.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Large Square",
+            "Council Tower"
+          ]
+        },
+        {
+          "name": "Council Tower",
+          "wiki_title": "Council Tower, Sibiu",
+          "lat": 45.7972,
+          "lng": 24.1511,
+          "order_index": 4,
+          "description": "A medieval tower separating the Large and Small squares.",
+          "seo_phrase": "Council Tower Sibiu | Historic Viewpoint",
+          "seo_keywords": [
+            "Council Tower",
+            "Sibiu viewpoints",
+            "medieval towers"
+          ],
+          "commons_file": "Turnul Sfatului Sibiu.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Turnul_Sfatului_Sibiu.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Large Square",
+            "Small Square"
+          ]
+        },
+        {
+          "name": "ASTRA National Museum Complex",
+          "wiki_title": "ASTRA National Museum Complex",
+          "lat": 45.7667,
+          "lng": 24.1333,
+          "order_index": 5,
+          "description": "One of the largest open-air museums in Europe.",
+          "seo_phrase": "ASTRA National Museum Complex | Open Air Sibiu",
+          "seo_keywords": [
+            "ASTRA Museum",
+            "Sibiu open air museum",
+            "Romania traditions"
+          ],
+          "commons_file": "Muzeul ASTRA Sibiu.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Muzeul_ASTRA_Sibiu.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Sub Arini Park",
+            "Sibiu Zoo"
+          ]
+        },
+        {
+          "name": "Evangelical Cathedral of Sibiu",
+          "wiki_title": "Lutheran Cathedral of Saint Mary, Sibiu",
+          "lat": 45.7981,
+          "lng": 24.1522,
+          "order_index": 6,
+          "description": "A landmark Gothic cathedral with a prominent tower.",
+          "seo_phrase": "Evangelical Cathedral Sibiu | Gothic Landmark",
+          "seo_keywords": [
+            "Evangelical Cathedral",
+            "Sibiu cathedrals",
+            "Gothic"
+          ],
+          "commons_file": "Catedrala Evanghelica Sibiu.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Catedrala_Evanghelica_Sibiu.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Small Square",
+            "Large Square"
+          ]
+        },
+        {
+          "name": "Holy Trinity Cathedral",
+          "wiki_title": "Holy Trinity Cathedral, Sibiu",
+          "lat": 45.7942,
+          "lng": 24.1533,
+          "order_index": 7,
+          "description": "A stunning Orthodox cathedral with intricate interior murals.",
+          "seo_phrase": "Holy Trinity Cathedral Sibiu | Orthodox Landmark",
+          "seo_keywords": [
+            "Holy Trinity Cathedral",
+            "Sibiu Orthodox",
+            "cathedral"
+          ],
+          "commons_file": "Catedrala Ortodoxa Sibiu.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Catedrala_Ortodoxa_Sibiu.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Large Square",
+            "Council Tower"
+          ]
+        },
+        {
+          "name": "Stairway Passage",
+          "wiki_title": "Passage of the Stairs, Sibiu",
+          "lat": 45.7975,
+          "lng": 24.1506,
+          "order_index": 8,
+          "description": "A series of stone stairs connecting the Upper and Lower towns.",
+          "seo_phrase": "Stairway Passage Sibiu | Medieval Landmark",
+          "seo_keywords": [
+            "Stairway Passage",
+            "Pasajul Scarilor",
+            "Sibiu historic",
+            "medieval"
+          ],
+          "commons_file": "Pasajul Scarilor Sibiu.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Pasajul_Scarilor_Sibiu.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Small Square",
+            "Large Square"
+          ]
+        },
+        {
+          "name": "Citadel Park (Parcul Cetatii)",
+          "wiki_title": "Citadel Park, Sibiu",
+          "lat": 45.7983,
+          "lng": 24.1542,
+          "order_index": 9,
+          "description": "A park built around the remains of the old medieval city walls.",
+          "seo_phrase": "Citadel Park Sibiu | Medieval Walls & Greenery",
+          "seo_keywords": [
+            "Citadel Park",
+            "Sibiu parks",
+            "city walls"
+          ],
+          "commons_file": "Parcul Cetatii Sibiu.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Parcul_Cetatii_Sibiu.jpg",
+          "seo_priority": 78,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Council Tower",
+            "Large Square"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Cluj-Napoca",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Cluj-Napoca",
+      "seo": {
+        "title": "Top 10 Things to Do in Cluj-Napoca, Romania",
+        "description": "Discover 10 must-see landmarks in Cluj-Napoca, Romania. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Cluj-Napoca? Explore the best places to visit in Cluj-Napoca, Romania.",
+        "keywords": [
+          "things to do in Cluj-Napoca",
+          "Cluj-Napoca Romania travel guide",
+          "best places to visit in Cluj-Napoca",
+          "Cluj-Napoca landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "St. Michael's Church",
+          "wiki_title": "St. Michael's Church, Cluj-Napoca",
+          "lat": 46.7694,
+          "lng": 23.5897,
+          "order_index": 0,
+          "description": "A landmark Gothic church dominating the central square.",
+          "seo_phrase": "St. Michael's Church Cluj-Napoca | Gothic Landmark",
+          "seo_keywords": [
+            "St. Michael's Church",
+            "Cluj-Napoca",
+            "Gothic church"
+          ],
+          "commons_file": "Biserica Sf Mihail Cluj.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Biserica_Sf_Mihail_Cluj.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Unirii Square",
+            "Banffy Palace"
+          ]
+        },
+        {
+          "name": "Unirii Square (Piata Unirii)",
+          "wiki_title": "Unirii Square, Cluj-Napoca",
+          "lat": 46.7692,
+          "lng": 23.5894,
+          "order_index": 1,
+          "description": "The expansive main square of the city, surrounded by historical buildings.",
+          "seo_phrase": "Unirii Square Cluj-Napoca | City Center",
+          "seo_keywords": [
+            "Unirii Square",
+            "Piata Unirii",
+            "Cluj-Napoca center"
+          ],
+          "commons_file": "Piata Unirii Cluj.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Piata_Unirii_Cluj.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Michael's Church",
+            "Banffy Palace"
+          ]
+        },
+        {
+          "name": "Cetatuia Hill",
+          "wiki_title": "Cetățuia Hill, Cluj-Napoca",
+          "lat": 46.7758,
+          "lng": 23.5858,
+          "order_index": 2,
+          "description": "A hill featuring a former fortress, offering sweeping city views.",
+          "seo_phrase": "Cetatuia Hill Cluj-Napoca | City Viewpoint",
+          "seo_keywords": [
+            "Cetatuia Hill",
+            "Cluj-Napoca view",
+            "panoramic"
+          ],
+          "commons_file": "Cetatuia Cluj.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Cetatuia_Cluj.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Central Park",
+            "Unirii Square"
+          ]
+        },
+        {
+          "name": "Banffy Palace",
+          "wiki_title": "Bánffy Castle, Cluj-Napoca",
+          "lat": 46.7692,
+          "lng": 23.5906,
+          "order_index": 3,
+          "description": "A Baroque palace housing the National Museum of Art of Cluj.",
+          "seo_phrase": "Banffy Palace Cluj-Napoca | Art Museum",
+          "seo_keywords": [
+            "Banffy Palace",
+            "Cluj-Napoca art museum",
+            "Baroque"
+          ],
+          "commons_file": "Muzeul de Arta Cluj.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Muzeul_de_Arta_Cluj.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Unirii Square",
+            "St. Michael's Church"
+          ]
+        },
+        {
+          "name": "Alexandru Borza Botanical Garden",
+          "wiki_title": "Alexandru Borza Botanical Garden",
+          "lat": 46.7628,
+          "lng": 23.5889,
+          "order_index": 4,
+          "description": "A diverse botanical garden featuring a Japanese garden and large greenhouses.",
+          "seo_phrase": "Botanical Garden Cluj-Napoca | Nature Spot",
+          "seo_keywords": [
+            "Botanical Garden",
+            "Cluj-Napoca nature",
+            "parks"
+          ],
+          "commons_file": "Gradina Botanica Cluj.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Gradina_Botanica_Cluj.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Unirii Square",
+            "Central Park"
+          ]
+        },
+        {
+          "name": "Dormition of the Theotokos Cathedral",
+          "wiki_title": "Dormition of the Theotokos Cathedral, Cluj-Napoca",
+          "lat": 46.7725,
+          "lng": 23.5878,
+          "order_index": 5,
+          "description": "A prominent Orthodox cathedral with an impressive dome.",
+          "seo_phrase": "Orthodox Cathedral Cluj-Napoca | Landmark",
+          "seo_keywords": [
+            "Orthodox Cathedral",
+            "Cluj-Napoca",
+            "cathedrals"
+          ],
+          "commons_file": "Catedrala Ortodoxa Cluj.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Catedrala_Ortodoxa_Cluj.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Unirii Square",
+            "St. Michael's Church"
+          ]
+        },
+        {
+          "name": "Central Park (Parcul Central Simion Barnutiu)",
+          "wiki_title": "Simion Bărnuțiu Central Park",
+          "lat": 46.7675,
+          "lng": 23.5786,
+          "order_index": 6,
+          "description": "A historic park in the heart of the city, perfect for relaxing.",
+          "seo_phrase": "Central Park Cluj-Napoca | Green Escape",
+          "seo_keywords": [
+            "Central Park",
+            "Cluj-Napoca parks",
+            "green space"
+          ],
+          "commons_file": "Parcul Central Cluj.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Parcul_Central_Cluj.jpg",
+          "seo_priority": 81,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Botanical Garden",
+            "Unirii Square"
+          ]
+        },
+        {
+          "name": "Tailors' Bastion",
+          "wiki_title": "Tailors' Bastion, Cluj-Napoca",
+          "lat": 46.7667,
+          "lng": 23.5933,
+          "order_index": 7,
+          "description": "A restored medieval tower and bastion from the 17th century.",
+          "seo_phrase": "Tailors' Bastion Cluj-Napoca | Medieval Fortification",
+          "seo_keywords": [
+            "Tailors' Bastion",
+            "Cluj-Napoca history",
+            "medieval"
+          ],
+          "commons_file": "Bastionul Croitorilor Cluj.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bastionul_Croitorilor_Cluj.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Unirii Square",
+            "St. Michael's Church"
+          ]
+        },
+        {
+          "name": "Matthias Corvinus House",
+          "wiki_title": "Matthias Corvinus House",
+          "lat": 46.77,
+          "lng": 23.585,
+          "order_index": 8,
+          "description": "One of the oldest buildings in Cluj, dating back to the 15th century.",
+          "seo_phrase": "Matthias Corvinus House Cluj-Napoca | Historic Residence",
+          "seo_keywords": [
+            "Matthias Corvinus House",
+            "Cluj-Napoca history",
+            "medieval"
+          ],
+          "commons_file": "Casa Matei Corvin Cluj.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Casa_Matei_Corvin_Cluj.jpg",
+          "seo_priority": 77,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Unirii Square",
+            "St. Michael's Church"
+          ]
+        },
+        {
+          "name": "Pharmacy Museum",
+          "wiki_title": "Pharmacy History Collection, Cluj-Napoca",
+          "lat": 46.7697,
+          "lng": 23.5886,
+          "order_index": 9,
+          "description": "A unique museum located in a historic pharmacy building.",
+          "seo_phrase": "Pharmacy Museum Cluj-Napoca | Historical Interest",
+          "seo_keywords": [
+            "Pharmacy Museum",
+            "Cluj-Napoca museums",
+            "medical history"
+          ],
+          "commons_file": "Muzeul Farmaciei Cluj.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Muzeul_Farmaciei_Cluj.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Unirii Square",
+            "St. Michael's Church"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Timisoara",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Timisoara",
+      "seo": {
+        "title": "Top 10 Things to Do in Timisoara, Romania",
+        "description": "Discover 10 must-see landmarks in Timisoara, Romania. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Timisoara? Explore the best places to visit in Timisoara, Romania.",
+        "keywords": [
+          "things to do in Timisoara",
+          "Timisoara Romania travel guide",
+          "best places to visit in Timisoara",
+          "Timisoara landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Union Square (Piata Unirii)",
+          "wiki_title": "Union Square, Timișoara",
+          "lat": 45.7564,
+          "lng": 21.2292,
+          "order_index": 0,
+          "description": "A stunning square surrounded by Baroque-style buildings and churches.",
+          "seo_phrase": "Union Square Timisoara | Baroque Architecture",
+          "seo_keywords": [
+            "Union Square",
+            "Piata Unirii",
+            "Timisoara Baroque"
+          ],
+          "commons_file": "Piata Unirii Timisoara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Piata_Unirii_Timisoara.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Victory Square",
+            "Orthodox Cathedral"
+          ]
+        },
+        {
+          "name": "Victory Square (Piata Victoriei)",
+          "wiki_title": "Victory Square, Timișoara",
+          "lat": 45.7511,
+          "lng": 21.2264,
+          "order_index": 1,
+          "description": "The main square of Timisoara, famous for its grand architecture.",
+          "seo_phrase": "Victory Square Timisoara | City Center",
+          "seo_keywords": [
+            "Victory Square",
+            "Piata Victoriei",
+            "Timisoara center"
+          ],
+          "commons_file": "Piata Victoriei Timisoara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Piata_Victoriei_Timisoara.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Orthodox Cathedral",
+            "Union Square"
+          ]
+        },
+        {
+          "name": "Timisoara Orthodox Cathedral",
+          "wiki_title": "Timișoara Orthodox Cathedral",
+          "lat": 45.7503,
+          "lng": 21.2267,
+          "order_index": 2,
+          "description": "A grand cathedral that dominates the skyline of Victory Square.",
+          "seo_phrase": "Orthodox Cathedral Timisoara | Iconic Landmark",
+          "seo_keywords": [
+            "Orthodox Cathedral",
+            "Timisoara",
+            "cathedral"
+          ],
+          "commons_file": "Catedrala Ortodoxa Timisoara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Catedrala_Ortodoxa_Timisoara.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Victory Square",
+            "Opera House"
+          ]
+        },
+        {
+          "name": "Huniade Castle (National Museum of Banat)",
+          "wiki_title": "Huniade Castle",
+          "lat": 45.7533,
+          "lng": 21.2247,
+          "order_index": 3,
+          "description": "A historic castle currently housing the National Museum of Banat.",
+          "seo_phrase": "Huniade Castle Timisoara | Historical Site",
+          "seo_keywords": [
+            "Huniade Castle",
+            "Timisoara history",
+            "museums"
+          ],
+          "commons_file": "Castelul Huniade.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Castelul_Huniade.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Victory Square",
+            "Roses Park"
+          ]
+        },
+        {
+          "name": "Art Museum (Baroque Palace)",
+          "wiki_title": "Timișoara Art Museum",
+          "lat": 45.7561,
+          "lng": 21.2286,
+          "order_index": 4,
+          "description": "A prestigious museum located in the historic Old Prefecture building.",
+          "seo_phrase": "Art Museum Timisoara | Baroque Palace",
+          "seo_keywords": [
+            "Art Museum",
+            "Timisoara",
+            "Baroque Palace"
+          ],
+          "commons_file": "Muzeul de Arta Timisoara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Muzeul_de_Arta_Timisoara.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Union Square",
+            "Victory Square"
+          ]
+        },
+        {
+          "name": "Bastion (Bastionul Theresia)",
+          "wiki_title": "Theresia Bastion",
+          "lat": 45.7553,
+          "lng": 21.2333,
+          "order_index": 5,
+          "description": "The largest preserved part of the old fortifications of Timisoara.",
+          "seo_phrase": "Theresia Bastion Timisoara | Historic Fortification",
+          "seo_keywords": [
+            "Theresia Bastion",
+            "Timisoara fort",
+            "history"
+          ],
+          "commons_file": "Bastionul Theresia Timisoara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bastionul_Theresia_Timisoara.jpg",
+          "seo_priority": 84,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Union Square",
+            "Victory Square"
+          ]
+        },
+        {
+          "name": "Liberty Square (Piata Libertatii)",
+          "wiki_title": "Liberty Square, Timișoara",
+          "lat": 45.7547,
+          "lng": 21.2272,
+          "order_index": 6,
+          "description": "A historical square that is home to several important old buildings.",
+          "seo_phrase": "Liberty Square Timisoara | Historic Architecture",
+          "seo_keywords": [
+            "Liberty Square",
+            "Piata Libertatii",
+            "Timisoara historic"
+          ],
+          "commons_file": "Piata Libertatii Timisoara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Piata_Libertatii_Timisoara.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Union Square",
+            "Victory Square"
+          ]
+        },
+        {
+          "name": "Roses Park (Parcul Rozelor)",
+          "wiki_title": "Roses Park, Timișoara",
+          "lat": 45.7508,
+          "lng": 21.2289,
+          "order_index": 7,
+          "description": "A large park known for its thousands of rose bushes and garden variety.",
+          "seo_phrase": "Roses Park Timisoara | Public Gardens",
+          "seo_keywords": [
+            "Roses Park",
+            "Timisoara parks",
+            "gardens"
+          ],
+          "commons_file": "Parcul Rozelor Timisoara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Parcul_Rozelor_Timisoara.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Victory Square",
+            "Orthodox Cathedral"
+          ]
+        },
+        {
+          "name": "Bega Canal Promenade",
+          "wiki_title": "Bega Canal",
+          "lat": 45.7483,
+          "lng": 21.2283,
+          "order_index": 8,
+          "description": "A scenic canal running through the city with green spaces along its banks.",
+          "seo_phrase": "Bega Canal Timisoara | Waterfront Promenade",
+          "seo_keywords": [
+            "Bega Canal",
+            "Timisoara promenade",
+            "outdoor activities"
+          ],
+          "commons_file": "Canalul Bega.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Canalul_Bega.jpg",
+          "seo_priority": 79,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Roses Park",
+            "Victory Square"
+          ]
+        },
+        {
+          "name": "Serbian Episcopal Palace",
+          "wiki_title": "Serbian Episcopal Palace, Timișoara",
+          "lat": 45.7567,
+          "lng": 21.2294,
+          "order_index": 9,
+          "description": "A historic and beautifully decorated building in Union Square.",
+          "seo_phrase": "Serbian Episcopal Palace Timisoara | Cultural Landmark",
+          "seo_keywords": [
+            "Serbian Episcopal Palace",
+            "Timisoara",
+            "Baroque"
+          ],
+          "commons_file": "Palatul Episcopal Sarbesc Timisoara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Palatul_Episcopal_Sarbesc_Timisoara.jpg",
+          "seo_priority": 78,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Union Square",
+            "Art Museum"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Iasi",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Iasi",
+      "seo": {
+        "title": "Top 10 Things to Do in Iasi, Romania",
+        "description": "Discover 10 must-see landmarks in Iasi, Romania. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Iasi? Explore the best places to visit in Iasi, Romania.",
+        "keywords": [
+          "things to do in Iasi",
+          "Iasi Romania travel guide",
+          "best places to visit in Iasi",
+          "Iasi landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Palace of Culture",
+          "wiki_title": "Palace of Culture, Iași",
+          "lat": 47.1583,
+          "lng": 27.5875,
+          "order_index": 0,
+          "description": "A stunning Neo-Gothic building housing several important museums.",
+          "seo_phrase": "Palace of Culture Iasi | Architectural Masterpiece",
+          "seo_keywords": [
+            "Palace of Culture",
+            "Iasi",
+            "Romania landmarks"
+          ],
+          "commons_file": "Palatul Culturii Iasi.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Palatul_Culturii_Iasi.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Palas Mall area",
+            "Metropolitan Cathedral"
+          ]
+        },
+        {
+          "name": "Metropolitan Cathedral of Iasi",
+          "wiki_title": "Metropolitan Cathedral, Iași",
+          "lat": 47.1644,
+          "lng": 27.5867,
+          "order_index": 1,
+          "description": "A grand cathedral and one of the most important Orthodox sites.",
+          "seo_phrase": "Metropolitan Cathedral Iasi | Orthodox Site",
+          "seo_keywords": [
+            "Metropolitan Cathedral",
+            "Iasi",
+            "Orthodox",
+            "cathedral"
+          ],
+          "commons_file": "Catedrala Mitropolitana Iasi.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Catedrala_Mitropolitana_Iasi.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Palace of Culture",
+            "Three Hierarchs Monastery"
+          ]
+        },
+        {
+          "name": "Three Hierarchs Monastery",
+          "wiki_title": "Three Hierarchs Monastery",
+          "lat": 47.1625,
+          "lng": 27.5875,
+          "order_index": 2,
+          "description": "An Orthodox monastery renowned for its intricate exterior carvings.",
+          "seo_phrase": "Three Hierarchs Monastery Iasi | Artistic Landmark",
+          "seo_keywords": [
+            "Three Hierarchs Monastery",
+            "Iasi",
+            "Orthodox"
+          ],
+          "commons_file": "Manastirea Trei Ierarhi.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Manastirea_Trei_Ierarhi.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Palace of Culture",
+            "Metropolitan Cathedral"
+          ]
+        },
+        {
+          "name": "Copou Park",
+          "wiki_title": "Copou Park",
+          "lat": 47.1772,
+          "lng": 27.5683,
+          "order_index": 3,
+          "description": "A beautiful, historic park known for its Eminescu's Linden tree.",
+          "seo_phrase": "Copou Park Iasi | Historic Gardens",
+          "seo_keywords": [
+            "Copou Park",
+            "Iasi parks",
+            "nature"
+          ],
+          "commons_file": "Parcul Copou Iasi.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Parcul_Copou_Iasi.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Botanical Garden",
+            "Cuza Museum"
+          ]
+        },
+        {
+          "name": "National Theatre Vasile Alecsandri",
+          "wiki_title": "Vasile Alecsandri National Theatre",
+          "lat": 47.165,
+          "lng": 27.585,
+          "order_index": 4,
+          "description": "One of the most beautiful theater buildings in Europe.",
+          "seo_phrase": "National Theatre Iasi | Cultural Landmark",
+          "seo_keywords": [
+            "National Theatre",
+            "Iasi",
+            "theater"
+          ],
+          "commons_file": "Teatrul National Vasile Alecsandri Iasi.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Teatrul_National_Vasile_Alecsandri_Iasi.jpg",
+          "seo_priority": 84,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Unirii Square",
+            "Metropolitan Cathedral"
+          ]
+        },
+        {
+          "name": "Unirii Square",
+          "wiki_title": "Union Square, Iași",
+          "lat": 47.1675,
+          "lng": 27.5817,
+          "order_index": 5,
+          "description": "The main square of Iasi, located in the modern city center.",
+          "seo_phrase": "Unirii Square Iasi | City Center",
+          "seo_keywords": [
+            "Unirii Square",
+            "Iasi center",
+            "city square"
+          ],
+          "commons_file": "Piata Unirii Iasi.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Piata_Unirii_Iasi.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "National Theatre",
+            "Copou Park"
+          ]
+        },
+        {
+          "name": "Anastasie Fatu Botanical Garden",
+          "wiki_title": "Anastasie Fătu Botanical Garden",
+          "lat": 47.185,
+          "lng": 27.5567,
+          "order_index": 6,
+          "description": "A large botanical garden featuring varied plant collections and themes.",
+          "seo_phrase": "Botanical Garden Iasi | Nature",
+          "seo_keywords": [
+            "Botanical Garden",
+            "Iasi nature",
+            "gardens"
+          ],
+          "commons_file": "Gradina Botanica Iasi.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Gradina_Botanica_Iasi.jpg",
+          "seo_priority": 81,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Copou Park",
+            "Cuza Museum"
+          ]
+        },
+        {
+          "name": "Palas Mall Area",
+          "wiki_title": "Palas Iași",
+          "lat": 47.159,
+          "lng": 27.589,
+          "order_index": 7,
+          "description": "A large, modern shopping and leisure complex adjacent to the historic Palace of Culture.",
+          "seo_phrase": "Palas Mall Area Iasi | Shopping & Leisure",
+          "seo_keywords": [
+            "Palas Mall",
+            "Iasi shopping",
+            "leisure"
+          ],
+          "commons_file": "Palas Iasi.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Palas_Iasi.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Palace of Culture",
+            "Three Hierarchs Monastery"
+          ]
+        },
+        {
+          "name": "Golia Monastery",
+          "wiki_title": "Golia Monastery",
+          "lat": 47.1683,
+          "lng": 27.5917,
+          "order_index": 8,
+          "description": "A historic monastery known for its tall bell tower and fortified walls.",
+          "seo_phrase": "Golia Monastery Iasi | Historic Site",
+          "seo_keywords": [
+            "Golia Monastery",
+            "Iasi",
+            "monastery"
+          ],
+          "commons_file": "Manastirea Golia Iasi.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Manastirea_Golia_Iasi.jpg",
+          "seo_priority": 79,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Palace of Culture",
+            "Unirii Square"
+          ]
+        },
+        {
+          "name": "Cuza Museum (Ruginoasa Palace)",
+          "wiki_title": "Ruginoasa Palace",
+          "lat": 47.2436,
+          "lng": 26.8533,
+          "order_index": 9,
+          "description": "A historic palace that served as the residence of the first ruler of modern Romania.",
+          "seo_phrase": "Cuza Museum Iasi | History",
+          "seo_keywords": [
+            "Cuza Museum",
+            "Ruginoasa Palace",
+            "Romania history"
+          ],
+          "commons_file": "Palatul Cuza Ruginoasa.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Palatul_Cuza_Ruginoasa.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Copou Park",
+            "Palace of Culture"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Constanta",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Constanta",
+      "seo": {
+        "title": "Top 10 Things to Do in Constanta, Romania",
+        "description": "Discover 10 must-see landmarks in Constanta, Romania. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Constanta? Explore the best places to visit in Constanta, Romania.",
+        "keywords": [
+          "things to do in Constanta",
+          "Constanta Romania travel guide",
+          "best places to visit in Constanta",
+          "Constanta landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Constanta Casino",
+          "wiki_title": "Constanța Casino",
+          "lat": 44.1706,
+          "lng": 28.6608,
+          "order_index": 0,
+          "description": "A historic Art Nouveau building overlooking the Black Sea.",
+          "seo_phrase": "Constanta Casino | Art Nouveau Landmark",
+          "seo_keywords": [
+            "Constanta Casino",
+            "Constanta",
+            "Black Sea",
+            "Art Nouveau"
+          ],
+          "commons_file": "Cazinoul Constanta.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Cazinoul_Constanta.jpg",
+          "seo_priority": 97,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Genovese Lighthouse",
+            "Ovid Square"
+          ]
+        },
+        {
+          "name": "Ovid Square (Piata Ovidiu)",
+          "wiki_title": "Ovid Square, Constanța",
+          "lat": 44.1736,
+          "lng": 28.6567,
+          "order_index": 1,
+          "description": "The central square of the historic old town.",
+          "seo_phrase": "Ovid Square Constanta | Central Square",
+          "seo_keywords": [
+            "Ovid Square",
+            "Constanta center",
+            "Ovid"
+          ],
+          "commons_file": "Piata Ovidiu Constanta.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Piata_Ovidiu_Constanta.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "History Museum",
+            "Mosque"
+          ]
+        },
+        {
+          "name": "National History and Archaeology Museum",
+          "wiki_title": "National History and Archaeology Museum (Constanța",
+          "lat": 44.1733,
+          "lng": 28.6572,
+          "order_index": 2,
+          "description": "A major museum showcasing the ancient history of Dobrogea.",
+          "seo_phrase": "History Museum Constanta | Archaeological Site",
+          "seo_keywords": [
+            "History Museum",
+            "Constanta",
+            "archaeology"
+          ],
+          "commons_file": "Muzeul Istorie Arheologie Constanta.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Muzeul_Istorie_Arheologie_Constanta.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Ovid Square",
+            "Mosque"
+          ]
+        },
+        {
+          "name": "Genovese Lighthouse",
+          "wiki_title": "Genovese Lighthouse",
+          "lat": 44.1714,
+          "lng": 28.6586,
+          "order_index": 3,
+          "description": "A lighthouse built in the 19th century on the waterfront.",
+          "seo_phrase": "Genovese Lighthouse Constanta | Historic Landmark",
+          "seo_keywords": [
+            "Genovese Lighthouse",
+            "Constanta history",
+            "Black Sea"
+          ],
+          "commons_file": "Farul Genovez Constanta.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Farul_Genovez_Constanta.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Constanta Casino",
+            "Ovid Square"
+          ]
+        },
+        {
+          "name": "Grand Mosque of Constanta",
+          "wiki_title": "Grand Mosque of Constanța",
+          "lat": 44.1725,
+          "lng": 28.6558,
+          "order_index": 4,
+          "description": "A beautiful mosque with a high minaret accessible to visitors.",
+          "seo_phrase": "Grand Mosque Constanta | Cultural Landmark",
+          "seo_keywords": [
+            "Grand Mosque",
+            "Constanta",
+            "minaret"
+          ],
+          "commons_file": "Moscheea Carol I Constanta.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Moscheea_Carol_I_Constanta.jpg",
+          "seo_priority": 84,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Ovid Square",
+            "History Museum"
+          ]
+        },
+        {
+          "name": "Modern Beach",
+          "wiki_title": "Constanța",
+          "lat": 44.175,
+          "lng": 28.6633,
+          "order_index": 5,
+          "description": "The main city beach, popular with locals and tourists alike.",
+          "seo_phrase": "Modern Beach Constanta | Seaside Fun",
+          "seo_keywords": [
+            "Modern Beach",
+            "Constanta",
+            "Black Sea beach"
+          ],
+          "commons_file": "Plaja Modern Constanta.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Plaja_Modern_Constanta.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Constanta Casino",
+            "Tomis Harbor"
+          ]
+        },
+        {
+          "name": "Tomis Harbor",
+          "wiki_title": "Port Tomis",
+          "lat": 44.1756,
+          "lng": 28.6594,
+          "order_index": 6,
+          "description": "A recreational harbor with many restaurants and cafes overlooking the sea.",
+          "seo_phrase": "Tomis Harbor Constanta | Waterfront Dining",
+          "seo_keywords": [
+            "Tomis Harbor",
+            "Constanta waterfront",
+            "dining"
+          ],
+          "commons_file": "Portul Tomis Constanta.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Portul_Tomis_Constanta.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Constanta Casino",
+            "Modern Beach"
+          ]
+        },
+        {
+          "name": "Constanta Aquarium",
+          "wiki_title": "Constanța Aquarium",
+          "lat": 44.1711,
+          "lng": 28.6603,
+          "order_index": 7,
+          "description": "A historic aquarium featuring various species from the Black Sea and Danube.",
+          "seo_phrase": "Constanta Aquarium | Family Attraction",
+          "seo_keywords": [
+            "Aquarium",
+            "Constanta family",
+            "Black Sea"
+          ],
+          "commons_file": "Acvariul Constanta.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Acvariul_Constanta.jpg",
+          "seo_priority": 78,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Constanta Casino",
+            "Modern Beach"
+          ]
+        },
+        {
+          "name": "Folk Art Museum",
+          "wiki_title": "Folk Art Museum (Constanța",
+          "lat": 44.1739,
+          "lng": 28.6564,
+          "order_index": 8,
+          "description": "A museum displaying regional traditional arts and crafts.",
+          "seo_phrase": "Folk Art Museum Constanta | Cultural Heritage",
+          "seo_keywords": [
+            "Folk Art Museum",
+            "Constanta",
+            "traditional"
+          ],
+          "commons_file": "Muzeul Arta Populara Constanta.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Muzeul_Arta_Populara_Constanta.jpg",
+          "seo_priority": 76,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Ovid Square",
+            "History Museum"
+          ]
+        },
+        {
+          "name": "Archaeology Park",
+          "wiki_title": "Constanța",
+          "lat": 44.175,
+          "lng": 28.655,
+          "order_index": 9,
+          "description": "An outdoor park with remnants of the ancient Roman city of Tomis.",
+          "seo_phrase": "Archaeology Park Constanta | Ancient History",
+          "seo_keywords": [
+            "Archaeology Park",
+            "Constanta",
+            "Roman history"
+          ],
+          "commons_file": "Parcul Arheologic Constanta.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Parcul_Arheologic_Constanta.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Ovid Square",
+            "History Museum"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Sighisoara",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Sighisoara",
+      "seo": {
+        "title": "Top 10 Things to Do in Sighisoara, Romania",
+        "description": "Discover 10 must-see landmarks in Sighisoara, Romania. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Sighisoara? Explore the best places to visit in Sighisoara, Romania.",
+        "keywords": [
+          "things to do in Sighisoara",
+          "Sighisoara Romania travel guide",
+          "best places to visit in Sighisoara",
+          "Sighisoara landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Clock Tower",
+          "wiki_title": "Clock Tower, Sighișoara",
+          "lat": 46.2206,
+          "lng": 24.7928,
+          "order_index": 0,
+          "description": "A landmark medieval tower that serves as the main entrance to the citadel.",
+          "seo_phrase": "Clock Tower Sighisoara | Medieval Landmark",
+          "seo_keywords": [
+            "Clock Tower",
+            "Sighisoara",
+            "Transylvania landmarks"
+          ],
+          "commons_file": "Turnul cu Ceas Sighisoara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Turnul_cu_Ceas_Sighisoara.jpg",
+          "seo_priority": 99,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Citadel Square",
+            "Scholars' Stairs"
+          ]
+        },
+        {
+          "name": "Citadel Square (Piata Cetatii)",
+          "wiki_title": "Sighișoara Citadel",
+          "lat": 46.22,
+          "lng": 24.7925,
+          "order_index": 1,
+          "description": "The central square of the medieval citadel, full of historic charm.",
+          "seo_phrase": "Citadel Square Sighisoara | Medieval Center",
+          "seo_keywords": [
+            "Citadel Square",
+            "Sighisoara",
+            "medieval center"
+          ],
+          "commons_file": "Piata Cetatii Sighisoara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Piata_Cetatii_Sighisoara.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Clock Tower",
+            "Scholars' Stairs"
+          ]
+        },
+        {
+          "name": "Church on the Hill",
+          "wiki_title": "Church on the Hill, Sighișoara",
+          "lat": 46.2192,
+          "lng": 24.7933,
+          "order_index": 2,
+          "description": "A landmark Gothic church perched at the top of the Sighisoara Citadel.",
+          "seo_phrase": "Church on the Hill Sighisoara | Gothic Landmark",
+          "seo_keywords": [
+            "Church on the Hill",
+            "Sighisoara",
+            "Gothic"
+          ],
+          "commons_file": "Biserica din Deal Sighisoara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Biserica_din_Deal_Sighisoara.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Scholars' Stairs",
+            "Clock Tower"
+          ]
+        },
+        {
+          "name": "Vlad Dracul House",
+          "wiki_title": "Vlad Dracul House",
+          "lat": 46.2203,
+          "lng": 24.7928,
+          "order_index": 3,
+          "description": "The historical house where Vlad the Impaler is said to have been born.",
+          "seo_phrase": "Vlad Dracul House Sighisoara | Historic Site",
+          "seo_keywords": [
+            "Vlad Dracul House",
+            "Sighisoara",
+            "history"
+          ],
+          "commons_file": "Casa Vlad Dracul Sighisoara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Casa_Vlad_Dracul_Sighisoara.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Citadel Square",
+            "Clock Tower"
+          ]
+        },
+        {
+          "name": "Scholars' Stairs",
+          "wiki_title": "Scholars' Stairs",
+          "lat": 46.2197,
+          "lng": 24.7936,
+          "order_index": 4,
+          "description": "A 17th-century covered wooden staircase connecting the lower city to the Church on the Hill.",
+          "seo_phrase": "Scholars' Stairs Sighisoara | Historic Landmark",
+          "seo_keywords": [
+            "Scholars' Stairs",
+            "Sighisoara",
+            "historic architecture"
+          ],
+          "commons_file": "Scara Scolarilor Sighisoara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Scara_Scolarilor_Sighisoara.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church on the Hill",
+            "Clock Tower"
+          ]
+        },
+        {
+          "name": "Tailors' Tower",
+          "wiki_title": "Tailors' Tower, Sighișoara",
+          "lat": 46.2189,
+          "lng": 24.7942,
+          "order_index": 5,
+          "description": "A medieval tower built by the local guild of tailors.",
+          "seo_phrase": "Tailors' Tower Sighisoara | Medieval Tower",
+          "seo_keywords": [
+            "Tailors' Tower",
+            "Sighisoara",
+            "fortifications"
+          ],
+          "commons_file": "Turnul Croitorilor Sighisoara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Turnul_Croitorilor_Sighisoara.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Church on the Hill",
+            "Scholars' Stairs"
+          ]
+        },
+        {
+          "name": "Tin-smiths' Tower",
+          "wiki_title": "Sighișoara Citadel",
+          "lat": 46.2211,
+          "lng": 24.7944,
+          "order_index": 6,
+          "description": "A historic tower associated with the local guild of tin-smiths.",
+          "seo_phrase": "Tin-smiths' Tower Sighisoara | Historic Tower",
+          "seo_keywords": [
+            "Tin-smiths' Tower",
+            "Sighisoara",
+            "medieval history"
+          ],
+          "commons_file": "Turnul Cositorarilor Sighisoara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Turnul_Cositorarilor_Sighisoara.jpg",
+          "seo_priority": 79,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Clock Tower",
+            "Citadel Square"
+          ]
+        },
+        {
+          "name": "Ropemakers' Tower",
+          "wiki_title": "Sighișoara Citadel",
+          "lat": 46.2183,
+          "lng": 24.7919,
+          "order_index": 7,
+          "description": "A medieval tower built by the local ropemakers' guild.",
+          "seo_phrase": "Ropemakers' Tower Sighisoara | Historic Tower",
+          "seo_keywords": [
+            "Ropemakers' Tower",
+            "Sighisoara",
+            "medieval"
+          ],
+          "commons_file": "Turnul Franghierilor Sighisoara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Turnul_Franghierilor_Sighisoara.jpg",
+          "seo_priority": 78,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Clock Tower",
+            "Tailors' Tower"
+          ]
+        },
+        {
+          "name": "Butcher's Tower",
+          "wiki_title": "Sighișoara Citadel",
+          "lat": 46.2208,
+          "lng": 24.7911,
+          "order_index": 8,
+          "description": "A tower built by the local butchers' guild, part of the citadel's defensive system.",
+          "seo_phrase": "Butcher's Tower Sighisoara | Historic Structure",
+          "seo_keywords": [
+            "Butcher's Tower",
+            "Sighisoara",
+            "fortification"
+          ],
+          "commons_file": "Turnul Macelarilor Sighisoara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Turnul_Macelarilor_Sighisoara.jpg",
+          "seo_priority": 77,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Clock Tower",
+            "Tin-smiths' Tower"
+          ]
+        },
+        {
+          "name": "Venetian House",
+          "wiki_title": "Sighișoara Citadel",
+          "lat": 46.2197,
+          "lng": 24.7922,
+          "order_index": 9,
+          "description": "A 16th-century building famous for its Venetian-style windows.",
+          "seo_phrase": "Venetian House Sighisoara | Historic Building",
+          "seo_keywords": [
+            "Venetian House",
+            "Sighisoara",
+            "architecture"
+          ],
+          "commons_file": "Casa Venetiana Sighisoara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Casa_Venetiana_Sighisoara.jpg",
+          "seo_priority": 76,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Clock Tower",
+            "Citadel Square"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Alba Iulia",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Alba Iulia",
+      "seo": {
+        "title": "Top 10 Things to Do in Alba Iulia, Romania",
+        "description": "Discover 10 must-see landmarks in Alba Iulia, Romania. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Alba Iulia? Explore the best places to visit in Alba Iulia, Romania.",
+        "keywords": [
+          "things to do in Alba Iulia",
+          "Alba Iulia Romania travel guide",
+          "best places to visit in Alba Iulia",
+          "Alba Iulia landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Alba Carolina Citadel",
+          "wiki_title": "Alba Carolina Citadel",
+          "lat": 46.0683,
+          "lng": 23.5706,
+          "order_index": 0,
+          "description": "A huge 18th-century star-shaped fortress and the city's main attraction.",
+          "seo_phrase": "Alba Carolina Citadel | Historic Fortress",
+          "seo_keywords": [
+            "Alba Carolina Citadel",
+            "Alba Iulia",
+            "fortress"
+          ],
+          "commons_file": "Cetatea Alba Carolina.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Cetatea_Alba_Carolina.jpg",
+          "seo_priority": 99,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Coronation Cathedral",
+            "Roman Catholic Cathedral"
+          ]
+        },
+        {
+          "name": "Coronation Cathedral",
+          "wiki_title": "Coronation Cathedral, Alba Iulia",
+          "lat": 46.0694,
+          "lng": 23.5739,
+          "order_index": 1,
+          "description": "A grand cathedral where the kings of Romania were crowned.",
+          "seo_phrase": "Coronation Cathedral Alba Iulia | Historic Landmark",
+          "seo_keywords": [
+            "Coronation Cathedral",
+            "Alba Iulia",
+            "cathedral"
+          ],
+          "commons_file": "Catedrala Incoronarii Alba Iulia.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Catedrala_Incoronarii_Alba_Iulia.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Alba Carolina Citadel",
+            "Roman Catholic Cathedral"
+          ]
+        },
+        {
+          "name": "Union Hall (Sala Unirii)",
+          "wiki_title": "Union Hall, Alba Iulia",
+          "lat": 46.0697,
+          "lng": 23.5728,
+          "order_index": 2,
+          "description": "A historical hall where the unification of Transylvania and Romania was signed.",
+          "seo_phrase": "Union Hall Alba Iulia | National History",
+          "seo_keywords": [
+            "Union Hall",
+            "Sala Unirii",
+            "Alba Iulia",
+            "history"
+          ],
+          "commons_file": "Sala Unirii Alba Iulia.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Sala_Unirii_Alba_Iulia.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Alba Carolina Citadel",
+            "Coronation Cathedral"
+          ]
+        },
+        {
+          "name": "Roman Catholic Cathedral",
+          "wiki_title": "Roman Catholic Cathedral, Alba Iulia",
+          "lat": 46.0689,
+          "lng": 23.5714,
+          "order_index": 3,
+          "description": "A beautiful, historic Catholic cathedral with a Romanesque and Gothic style.",
+          "seo_phrase": "Roman Catholic Cathedral Alba Iulia | Historic Landmark",
+          "seo_keywords": [
+            "Roman Catholic Cathedral",
+            "Alba Iulia",
+            "cathedral"
+          ],
+          "commons_file": "Catedrala Catolica Alba Iulia.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Catedrala_Catolica_Alba_Iulia.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Alba Carolina Citadel",
+            "Coronation Cathedral"
+          ]
+        },
+        {
+          "name": "The Third Gate (Poarta a III-a)",
+          "wiki_title": "Alba Carolina Citadel",
+          "lat": 46.0686,
+          "lng": 23.5711,
+          "order_index": 4,
+          "description": "The most ornate gate of the Alba Carolina Citadel.",
+          "seo_phrase": "The Third Gate Alba Iulia | Historic Gate",
+          "seo_keywords": [
+            "Third Gate",
+            "Alba Carolina",
+            "Alba Iulia gates"
+          ],
+          "commons_file": "Poarta a III a Alba Iulia.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Poarta_a_III_a_Alba_Iulia.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Alba Carolina Citadel",
+            "Roman Catholic Cathedral"
+          ]
+        },
+        {
+          "name": "Princely Palace",
+          "wiki_title": "Alba Carolina Citadel",
+          "lat": 46.0697,
+          "lng": 23.5717,
+          "order_index": 5,
+          "description": "A historic building that once served as the residence of Transylvanian princes.",
+          "seo_phrase": "Princely Palace Alba Iulia | Historic Site",
+          "seo_keywords": [
+            "Princely Palace",
+            "Alba Iulia",
+            "history"
+          ],
+          "commons_file": "Palatul Princali Alba Iulia.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Palatul_Princali_Alba_Iulia.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Alba Carolina Citadel",
+            "Coronation Cathedral"
+          ]
+        },
+        {
+          "name": "The Obelisk (Horea, Closca and Crisan)",
+          "wiki_title": "Horea, Cloșca and Crișan Obelisk",
+          "lat": 46.0692,
+          "lng": 23.5742,
+          "order_index": 6,
+          "description": "A monumental obelisk dedicated to the leaders of the 1784 Transylvanian peasant uprising.",
+          "seo_phrase": "The Obelisk Alba Iulia | Historic Monument",
+          "seo_keywords": [
+            "The Obelisk",
+            "Alba Iulia",
+            "monument"
+          ],
+          "commons_file": "Obelisc Alba Iulia.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Obelisc_Alba_Iulia.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Coronation Cathedral",
+            "Alba Carolina Citadel"
+          ]
+        },
+        {
+          "name": "Roman Castrum",
+          "wiki_title": "Apulum (Dacia",
+          "lat": 46.0681,
+          "lng": 23.5722,
+          "order_index": 7,
+          "description": "Ancient Roman fortifications that once existed on the site of Alba Iulia.",
+          "seo_phrase": "Roman Castrum Alba Iulia | Ancient History",
+          "seo_keywords": [
+            "Roman Castrum",
+            "Alba Iulia",
+            "ancient history"
+          ],
+          "commons_file": "Castrul Roman Alba Iulia.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Castrul_Roman_Alba_Iulia.jpg",
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Alba Carolina Citadel",
+            "Coronation Cathedral"
+          ]
+        },
+        {
+          "name": "Museikon",
+          "wiki_title": "Museikon",
+          "lat": 46.07,
+          "lng": 23.575,
+          "order_index": 8,
+          "description": "A unique museum displaying a rich collection of religious icons.",
+          "seo_phrase": "Museikon Alba Iulia | Icons Museum",
+          "seo_keywords": [
+            "Museikon",
+            "Alba Iulia",
+            "museums",
+            "icons"
+          ],
+          "commons_file": "Museikon Alba Iulia.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Museikon_Alba_Iulia.jpg",
+          "seo_priority": 78,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Coronation Cathedral",
+            "Alba Carolina Citadel"
+          ]
+        },
+        {
+          "name": "Bath of the Principality",
+          "wiki_title": "Alba Carolina Citadel",
+          "lat": 46.0697,
+          "lng": 23.5719,
+          "order_index": 9,
+          "description": "Ancient bath ruins showcasing historical living standards.",
+          "seo_phrase": "Bath of the Principality Alba Iulia | Historical Site",
+          "seo_keywords": [
+            "Bath of the Principality",
+            "Alba Iulia",
+            "ancient baths"
+          ],
+          "commons_file": "Baia Principiului Alba Iulia.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Baia_Principiului_Alba_Iulia.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Princely Palace",
+            "Coronation Cathedral"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Oradea",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Oradea",
+      "seo": {
+        "title": "Top 10 Things to Do in Oradea, Romania",
+        "description": "Discover 10 must-see landmarks in Oradea, Romania. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Oradea? Explore the best places to visit in Oradea, Romania.",
+        "keywords": [
+          "things to do in Oradea",
+          "Oradea Romania travel guide",
+          "best places to visit in Oradea",
+          "Oradea landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Oradea Fortress",
+          "wiki_title": "Oradea Fortress",
+          "lat": 47.0544,
+          "lng": 21.9367,
+          "order_index": 0,
+          "description": "A historic star-shaped fortress with centuries of defensive history.",
+          "seo_phrase": "Oradea Fortress | Medieval Landmark",
+          "seo_keywords": [
+            "Oradea Fortress",
+            "Oradea",
+            "citadel"
+          ],
+          "commons_file": "Cetatea Oradea.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Cetatea_Oradea.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Black Eagle Palace",
+            "Moon Church"
+          ]
+        },
+        {
+          "name": "Black Eagle Palace",
+          "wiki_title": "Black Eagle Palace, Oradea",
+          "lat": 47.0583,
+          "lng": 21.9314,
+          "order_index": 1,
+          "description": "A stunning Art Nouveau palace in the city center.",
+          "seo_phrase": "Black Eagle Palace Oradea | Art Nouveau",
+          "seo_keywords": [
+            "Black Eagle Palace",
+            "Oradea",
+            "Art Nouveau"
+          ],
+          "commons_file": "Palatul Vulturul Negru Oradea.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Palatul_Vulturul_Negru_Oradea.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Oradea Fortress",
+            "State Theatre"
+          ]
+        },
+        {
+          "name": "Moon Church",
+          "wiki_title": "Moon Church, Oradea",
+          "lat": 47.0578,
+          "lng": 21.9317,
+          "order_index": 2,
+          "description": "A historic church featuring a clock that shows the phases of the moon.",
+          "seo_phrase": "Moon Church Oradea | Historic Landmark",
+          "seo_keywords": [
+            "Moon Church",
+            "Oradea",
+            "landmark"
+          ],
+          "commons_file": "Biserica cu Luna Oradea.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Biserica_cu_Luna_Oradea.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Black Eagle Palace",
+            "Oradea Fortress"
+          ]
+        },
+        {
+          "name": "State Theatre (Regina Maria Theatre)",
+          "wiki_title": "State Theatre in Oradea",
+          "lat": 47.0592,
+          "lng": 21.9331,
+          "order_index": 3,
+          "description": "A stunning, neo-classical theater building.",
+          "seo_phrase": "State Theatre Oradea | Cultural Venue",
+          "seo_keywords": [
+            "State Theatre",
+            "Oradea",
+            "theater"
+          ],
+          "commons_file": "Teatrul Regina Maria Oradea.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Teatrul_Regina_Maria_Oradea.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Black Eagle Palace",
+            "Moon Church"
+          ]
+        },
+        {
+          "name": "Baroque Palace",
+          "wiki_title": "Roman Catholic Palace, Oradea",
+          "lat": 47.07,
+          "lng": 21.935,
+          "order_index": 4,
+          "description": "A large and imposing Baroque palace, originally built for the bishop.",
+          "seo_phrase": "Baroque Palace Oradea | Architectural Landmark",
+          "seo_keywords": [
+            "Baroque Palace",
+            "Oradea",
+            "Baroque"
+          ],
+          "commons_file": "Palatul Baroc Oradea.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Palatul_Baroc_Oradea.jpg",
+          "seo_priority": 84,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Oradea Fortress",
+            "State Theatre"
+          ]
+        },
+        {
+          "name": "Cris Country Museum",
+          "wiki_title": "Criș Country Museum",
+          "lat": 47.07,
+          "lng": 21.935,
+          "order_index": 5,
+          "description": "A major museum showcasing regional history, nature, and art.",
+          "seo_phrase": "Cris Country Museum Oradea | Regional History",
+          "seo_keywords": [
+            "Cris Country Museum",
+            "Oradea",
+            "history"
+          ],
+          "commons_file": "Muzeul Tarii Crisurilor Oradea.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Muzeul_Tarii_Crisurilor_Oradea.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Baroque Palace",
+            "Oradea Fortress"
+          ]
+        },
+        {
+          "name": "Neolog Synagogue",
+          "wiki_title": "Neolog Synagogue in Oradea",
+          "lat": 47.0569,
+          "lng": 21.9333,
+          "order_index": 6,
+          "description": "A stunningly restored synagogue known for its Moorish-style architecture.",
+          "seo_phrase": "Neolog Synagogue Oradea | Historic Site",
+          "seo_keywords": [
+            "Neolog Synagogue",
+            "Oradea",
+            "Jewish history"
+          ],
+          "commons_file": "Sinagoga Neologa Oradea.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Sinagoga_Neologa_Oradea.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Moon Church",
+            "Black Eagle Palace"
+          ]
+        },
+        {
+          "name": "Zion Temple",
+          "wiki_title": "Zion Synagogue, Oradea",
+          "lat": 47.0564,
+          "lng": 21.9339,
+          "order_index": 7,
+          "description": "A massive, beautifully decorated synagogue in the center of Oradea.",
+          "seo_phrase": "Zion Temple Oradea | Historic Landmark",
+          "seo_keywords": [
+            "Zion Temple",
+            "Oradea",
+            "synagogue"
+          ],
+          "commons_file": "Sinagoga Zion Oradea.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Sinagoga_Zion_Oradea.jpg",
+          "seo_priority": 81,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Neolog Synagogue",
+            "Moon Church"
+          ]
+        },
+        {
+          "name": "Republicii Street",
+          "wiki_title": "Oradea",
+          "lat": 47.0594,
+          "lng": 21.9328,
+          "order_index": 8,
+          "description": "A scenic, historic street lined with Art Nouveau buildings.",
+          "seo_phrase": "Republicii Street Oradea | Historic Charm",
+          "seo_keywords": [
+            "Republicii Street",
+            "Oradea",
+            "historic street"
+          ],
+          "commons_file": "Strada Republicii Oradea.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Strada_Republicii_Oradea.jpg",
+          "seo_priority": 81,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Black Eagle Palace",
+            "State Theatre"
+          ]
+        },
+        {
+          "name": "Apollo Palace",
+          "wiki_title": "Oradea",
+          "lat": 47.0575,
+          "lng": 21.9308,
+          "order_index": 9,
+          "description": "A beautiful Art Nouveau palace in the center of Oradea.",
+          "seo_phrase": "Apollo Palace Oradea | Historic Architecture",
+          "seo_keywords": [
+            "Apollo Palace",
+            "Oradea",
+            "Art Nouveau"
+          ],
+          "commons_file": "Palatul Apollo Oradea.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Palatul_Apollo_Oradea.jpg",
+          "seo_priority": 77,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Black Eagle Palace",
+            "State Theatre"
+          ]
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "Romania Scenic Road Trip",
+    "subtitle": "Explore Romania beyond the cities — nature, coastlines, and scenic routes.",
+    "wiki_title": "Romania",
+    "hero_image": "",
+    "totalDays": 10,
+    "seo": {
+      "title": "Romania Road Trip Adventure",
+      "description": "Plan a Romania road trip with GPS stops and scenic routes.",
+      "intro": "Explore Romania beyond the cities with this adventure route.",
+      "keywords": [
+        "Romania road trip",
+        "Romania by car"
+      ]
+    },
+    "places": [
+      {
+        "name": "Transfagarasan Highway",
+        "wiki_title": "Transfăgărășan",
+        "region": "Romania",
+        "lat": 45.602,
+        "lng": 24.624,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A dramatic high-altitude mountain road through the Carpathian Mountains.",
+        "seo_phrase": "Transfagarasan Highway | Scenic Mountain Drive",
+        "seo_keywords": [
+          "Transfagarasan",
+          "Romania road trip",
+          "mountains"
+        ],
+        "commons_file": "Transfagarasan.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Transfagarasan.jpg",
+        "seo_priority": 100,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Danube Delta",
+        "wiki_title": "Danube Delta",
+        "region": "Romania",
+        "lat": 45.176,
+        "lng": 29.563,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A vast, biodiverse wetland delta teeming with wildlife.",
+        "seo_phrase": "Danube Delta | Nature Reserve",
+        "seo_keywords": [
+          "Danube Delta",
+          "nature",
+          "wildlife",
+          "Romania"
+        ],
+        "commons_file": "Danube Delta Romania.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Danube_Delta_Romania.jpg",
+        "seo_priority": 98,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Bicaz Gorges (Cheile Bicazului)",
+        "wiki_title": "Bicaz Gorges",
+        "region": "Romania",
+        "lat": 46.793,
+        "lng": 25.825,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A narrow, spectacular gorge with tall cliff walls.",
+        "seo_phrase": "Bicaz Gorges | Natural Landmark",
+        "seo_keywords": [
+          "Bicaz Gorges",
+          "Cheile Bicazului",
+          "mountains"
+        ],
+        "commons_file": "Cheile Bicazului.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Cheile_Bicazului.jpg",
+        "seo_priority": 95,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Peles Castle Area",
+        "wiki_title": "Peleș Castle",
+        "region": "Romania",
+        "lat": 45.361,
+        "lng": 25.553,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A stunning Neo-Renaissance castle set in a picturesque mountain landscape.",
+        "seo_phrase": "Peles Castle | Historic Mountain Palace",
+        "seo_keywords": [
+          "Peles Castle",
+          "Sinaia",
+          "Romania castles"
+        ],
+        "commons_file": "Castelul Peles.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Castelul_Peles.jpg",
+        "seo_priority": 97,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Retezat National Park",
+        "wiki_title": "Retezat National Park",
+        "region": "Romania",
+        "lat": 45.372,
+        "lng": 22.856,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A stunning mountain national park in the Southern Carpathians.",
+        "seo_phrase": "Retezat National Park | Hiking Adventure",
+        "seo_keywords": [
+          "Retezat National Park",
+          "hiking",
+          "Romania nature"
+        ],
+        "commons_file": "Retezat National Park.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Retezat_National_Park.jpg",
+        "seo_priority": 90,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Apuseni Natural Park",
+        "wiki_title": "Apuseni Natural Park",
+        "region": "Romania",
+        "lat": 46.602,
+        "lng": 22.753,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A beautiful natural park known for its caves and diverse biodiversity.",
+        "seo_phrase": "Apuseni Natural Park | Caves & Nature",
+        "seo_keywords": [
+          "Apuseni Natural Park",
+          "caves",
+          "hiking"
+        ],
+        "commons_file": "Apuseni Natural Park.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Apuseni_Natural_Park.jpg",
+        "seo_priority": 92,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "The Sphinx (Bucegi Mountains)",
+        "wiki_title": "Sphinx (Bucegi",
+        "region": "Romania",
+        "lat": 45.412,
+        "lng": 25.464,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A natural rock formation resembling a sphinx, located at high altitude.",
+        "seo_phrase": "Sphinx Bucegi Mountains | Natural Landmark",
+        "seo_keywords": [
+          "Sphinx",
+          "Bucegi Mountains",
+          "rock formation"
+        ],
+        "commons_file": "Sfinxul Bucegi.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Sfinxul_Bucegi.jpg",
+        "seo_priority": 88,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Salina Turda",
+        "wiki_title": "Salina Turda",
+        "region": "Romania",
+        "lat": 46.588,
+        "lng": 23.774,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A historic salt mine transformed into a futuristic amusement park.",
+        "seo_phrase": "Salina Turda | Salt Mine Adventure",
+        "seo_keywords": [
+          "Salina Turda",
+          "salt mine",
+          "adventure"
+        ],
+        "commons_file": "Salina Turda.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Salina_Turda.jpg",
+        "seo_priority": 96,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Scarisoara Ice Cave",
+        "wiki_title": "Scărișoara Cave",
+        "region": "Romania",
+        "lat": 46.494,
+        "lng": 22.812,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A stunning natural cave system containing an underground glacier.",
+        "seo_phrase": "Scarisoara Ice Cave | Natural Wonder",
+        "seo_keywords": [
+          "Scarisoara Ice Cave",
+          "caves",
+          "nature"
+        ],
+        "commons_file": "Ghetarul Scarisoara.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ghetarul_Scarisoara.jpg",
+        "seo_priority": 90,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Vidraru Dam",
+        "wiki_title": "Vidraru Dam",
+        "region": "Romania",
+        "lat": 45.362,
+        "lng": 24.636,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A massive concrete dam creating Lake Vidraru, a stunning mountain reservoir.",
+        "seo_phrase": "Vidraru Dam | Scenic Engineering",
+        "seo_keywords": [
+          "Vidraru Dam",
+          "lake",
+          "engineering"
+        ],
+        "commons_file": "Barajul Vidraru.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Barajul_Vidraru.jpg",
+        "seo_priority": 89,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      }
+    ]
+  }
+}

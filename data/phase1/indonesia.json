@@ -1,0 +1,2592 @@
+{
+  "country": "Indonesia",
+  "slug": "indonesia",
+  "published": true,
+  "phase": 1,
+  "country_representative_image": {
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Borobudur-Nothwest-view.jpg",
+    "image_source": "Wikimedia Commons",
+    "image_license": "CC BY-SA 2.0"
+  },
+  "country_main_image": {
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Borobudur-Nothwest-view.jpg",
+    "image_source": "Wikimedia Commons",
+    "image_license": "CC BY-SA 2.0"
+  },
+  "cities": [
+    {
+      "name": "Jakarta",
+      "region": "Java",
+      "attractions": [
+        {
+          "name": "Monas",
+          "city": "Jakarta",
+          "region": "Java",
+          "latitude": -6.175392,
+          "longitude": 106.827153,
+          "google_maps_url": "https://www.google.com/maps?q=-6.175392,106.827153",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/National_Monument_(Indonesia)",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Monas Jakarta | National Monument & Merdeka Square Guide",
+          "description_short": "Indonesia's towering National Monument crowns Merdeka Square and offers elevator views over the capital's sprawl.",
+          "keywords": [
+            "Monas Jakarta",
+            "National Monument Indonesia",
+            "Merdeka Square",
+            "Jakarta landmarks"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 98
+        },
+        {
+          "name": "Istiqlal Mosque",
+          "city": "Jakarta",
+          "region": "Java",
+          "latitude": -6.1703,
+          "longitude": 106.8312,
+          "google_maps_url": "https://www.google.com/maps?q=-6.1703,106.8312",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Istiqlal_Mosque",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Istiqlal Mosque Jakarta | Southeast Asia's Grandest Mosque",
+          "description_short": "Southeast Asia's largest mosque stands opposite Jakarta Cathedral, symbolizing the nation's religious harmony.",
+          "keywords": [
+            "Istiqlal Mosque",
+            "Jakarta mosque",
+            "Merdeka Square faith sites"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 96
+        },
+        {
+          "name": "Jakarta Cathedral",
+          "city": "Jakarta",
+          "region": "Java",
+          "latitude": -6.1692,
+          "longitude": 106.833,
+          "google_maps_url": "https://www.google.com/maps?q=-6.1692,106.833",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jakarta_Cathedral",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Jakarta Cathedral | Neo-Gothic Church at Lapangan Banteng",
+          "description_short": "This neo-Gothic Roman Catholic cathedral, rebuilt after fire, anchors the historic heart of colonial Batavia.",
+          "keywords": [
+            "Jakarta Cathedral",
+            "Gereja Katedral",
+            "Jakarta churches"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 94
+        },
+        {
+          "name": "Kota Tua",
+          "city": "Jakarta",
+          "region": "Java",
+          "latitude": -6.1352,
+          "longitude": 106.8133,
+          "google_maps_url": "https://www.google.com/maps?q=-6.1352,106.8133",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Kota_Tua,_Jakarta",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Kota Tua Jakarta | Old Town Dutch Heritage Walk",
+          "description_short": "Kota Tua preserves Dutch-era warehouses and canals where Jakarta's trading past still feels alive on foot.",
+          "keywords": [
+            "Kota Tua Jakarta",
+            "Old Town Jakarta",
+            "Jakarta history"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 95
+        },
+        {
+          "name": "Fatahillah Square",
+          "city": "Jakarta",
+          "region": "Java",
+          "latitude": -6.135,
+          "longitude": 106.8135,
+          "google_maps_url": "https://www.google.com/maps?q=-6.135,106.8135",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Fatahillah_Square",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Fatahillah Square | Jakarta History Museum Plaza",
+          "description_short": "Fatahillah Square is the lively plaza fronting the Jakarta History Museum with street performers and vintage bikes.",
+          "keywords": [
+            "Fatahillah Square",
+            "Taman Fatahillah",
+            "Jakarta History Museum"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 93
+        },
+        {
+          "name": "National Museum of Indonesia",
+          "city": "Jakarta",
+          "region": "Java",
+          "latitude": -6.1764,
+          "longitude": 106.8222,
+          "google_maps_url": "https://www.google.com/maps?q=-6.1764,106.8222",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/National_Museum_of_Indonesia",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "National Museum of Indonesia | Elephant Building Collections",
+          "description_short": "Known as the Elephant Building, this museum holds one of the finest collections of Indonesian archaeology and ethnography.",
+          "keywords": [
+            "National Museum Indonesia",
+            "Museum Gajah",
+            "Jakarta museums"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 97
+        },
+        {
+          "name": "Sunda Kelapa Harbor",
+          "city": "Jakarta",
+          "region": "Java",
+          "latitude": -6.1275,
+          "longitude": 106.8086,
+          "google_maps_url": "https://www.google.com/maps?q=-6.1275,106.8086",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Sunda_Kelapa",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Sunda Kelapa Harbor | Historic Pinisi Port Jakarta",
+          "description_short": "Pinisi schooners still load cargo at Sunda Kelapa, Jakarta's centuries-old port on the Ciliwung River mouth.",
+          "keywords": [
+            "Sunda Kelapa",
+            "Jakarta harbor",
+            "pinisi ships"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 91
+        },
+        {
+          "name": "Taman Mini Indonesia Indah",
+          "city": "Jakarta",
+          "region": "Java",
+          "latitude": -6.3024,
+          "longitude": 106.8952,
+          "google_maps_url": "https://www.google.com/maps?q=-6.3024,106.8952",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Taman_Mini_Indonesia_Indah",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Taman Mini Indonesia Indah | Cultural Park East Jakarta",
+          "description_short": "TMII showcases traditional houses from every province in a vast cultural park with museums and lake rides.",
+          "keywords": [
+            "Taman Mini Indonesia",
+            "TMII Jakarta",
+            "Indonesia traditional houses"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 90
+        },
+        {
+          "name": "Senayan Park",
+          "city": "Jakarta",
+          "region": "Java",
+          "latitude": -6.2186,
+          "longitude": 106.8028,
+          "google_maps_url": "https://www.google.com/maps?q=-6.2186,106.8028",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Gelora_Bung_Karno",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Senayan Park Jakarta | GBK Sports & Green Space",
+          "description_short": "Senayan Park and the Gelora Bung Karno complex offer green space, sports venues, and events beside central Jakarta.",
+          "keywords": [
+            "Senayan Park",
+            "Gelora Bung Karno",
+            "Jakarta parks"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 88
+        },
+        {
+          "name": "Glodok Chinatown",
+          "city": "Jakarta",
+          "region": "Java",
+          "latitude": -6.1445,
+          "longitude": 106.8158,
+          "google_maps_url": "https://www.google.com/maps?q=-6.1445,106.8158",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Glodok",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Glodok Chinatown Jakarta | Markets & Temples Guide",
+          "description_short": "Glodok is Jakarta's bustling Chinatown of temples, markets, and street food alleys northwest of Kota Tua.",
+          "keywords": [
+            "Glodok Jakarta",
+            "Jakarta Chinatown",
+            "Petak Sembilan"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 92
+        }
+      ]
+    },
+    {
+      "name": "Yogyakarta",
+      "region": "Java",
+      "attractions": [
+        {
+          "name": "Kraton Ngayogyakarta Hadiningrat",
+          "city": "Yogyakarta",
+          "region": "Java",
+          "latitude": -7.8053,
+          "longitude": 110.3642,
+          "google_maps_url": "https://www.google.com/maps?q=-7.8053,110.3642",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Kraton_Ngayogyakarta_Hadiningrat",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Yogyakarta Kraton | Sultan's Palace & Javanese Court",
+          "description_short": "The Sultan's palace remains a living court of Javanese culture with pavilions, gamelan, and royal heirlooms.",
+          "keywords": [
+            "Yogyakarta Kraton",
+            "Sultan palace",
+            "Javanese culture"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 98
+        },
+        {
+          "name": "Taman Sari",
+          "city": "Yogyakarta",
+          "region": "Java",
+          "latitude": -7.8101,
+          "longitude": 110.3494,
+          "google_maps_url": "https://www.google.com/maps?q=-7.8101,110.3494",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Taman_Sari_(Yogyakarta)",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Taman Sari Water Castle | Royal Pools Yogyakarta",
+          "description_short": "The Water Castle blends bathing pools, underground passages, and gardens built for the royal family.",
+          "keywords": [
+            "Taman Sari",
+            "Water Castle Yogyakarta",
+            "Yogyakarta history"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 96
+        },
+        {
+          "name": "Malioboro Street",
+          "city": "Yogyakarta",
+          "region": "Java",
+          "latitude": -7.7925,
+          "longitude": 110.3656,
+          "google_maps_url": "https://www.google.com/maps?q=-7.7925,110.3656",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Malioboro",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Malioboro Street | Yogyakarta Shopping & Street Life",
+          "description_short": "Malioboro is Yogyakarta's main boulevard for batik shops, becak rides, and nightly street food.",
+          "keywords": [
+            "Malioboro",
+            "Malioboro shopping",
+            "Yogyakarta street food"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 97
+        },
+        {
+          "name": "Beringharjo Market",
+          "city": "Yogyakarta",
+          "region": "Java",
+          "latitude": -7.798,
+          "longitude": 110.3655,
+          "google_maps_url": "https://www.google.com/maps?q=-7.798,110.3655",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Beringharjo_Market",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Beringharjo Market | Historic Batik Bazaar Yogyakarta",
+          "description_short": "Beringharjo Market is the city's oldest bazaar for batik, spices, and everyday Javanese goods.",
+          "keywords": [
+            "Beringharjo Market",
+            "Yogyakarta market",
+            "batik Yogyakarta"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 93
+        },
+        {
+          "name": "Museum Sonobudoyo",
+          "city": "Yogyakarta",
+          "region": "Java",
+          "latitude": -7.8017,
+          "longitude": 110.364,
+          "google_maps_url": "https://www.google.com/maps?q=-7.8017,110.364",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Museum_Sonobudoyo",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Museum Sonobudoyo | Javanese Art & Wayang Yogyakarta",
+          "description_short": "Sonobudoyo displays Javanese wayang, keris, and ethnographic treasures steps from the northern alun-alun.",
+          "keywords": [
+            "Museum Sonobudoyo",
+            "wayang museum",
+            "Yogyakarta culture"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 90
+        },
+        {
+          "name": "Sultan's Carriage Museum",
+          "city": "Yogyakarta",
+          "region": "Java",
+          "latitude": -7.8058,
+          "longitude": 110.3635,
+          "google_maps_url": "https://www.google.com/maps?q=-7.8058,110.3635",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Museum_Kereta",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Sultan's Carriage Museum | Royal Kereta Collection",
+          "description_short": "Museum Kereta houses ornate royal carriages and ceremonial transport from the Yogyakarta sultanate.",
+          "keywords": [
+            "Museum Kereta",
+            "royal carriages Yogyakarta",
+            "Kraton museums"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 88
+        },
+        {
+          "name": "Kotagede",
+          "city": "Yogyakarta",
+          "region": "Java",
+          "latitude": -7.8317,
+          "longitude": 110.3994,
+          "google_maps_url": "https://www.google.com/maps?q=-7.8317,110.3994",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Kotagede",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Kotagede Yogyakarta | Silver Village & Old Mataram",
+          "description_short": "Kotagede's silver workshops and mosque quarter preserve the legacy of the Mataram kingdom's first capital.",
+          "keywords": [
+            "Kotagede",
+            "Yogyakarta silver",
+            "Mataram heritage"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 91
+        },
+        {
+          "name": "Alun-Alun Kidul",
+          "city": "Yogyakarta",
+          "region": "Java",
+          "latitude": -7.8078,
+          "longitude": 110.3628,
+          "google_maps_url": "https://www.google.com/maps?q=-7.8078,110.3628",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Alun-Alun_Kidul",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Alun-Alun Kidul | Southern Royal Square Yogyakarta",
+          "description_short": "The southern royal square is famous for twin banyan trees and a playful blindfolded walk tradition.",
+          "keywords": [
+            "Alun-Alun Kidul",
+            "Yogyakarta square",
+            "banyan trees"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 89
+        },
+        {
+          "name": "Ngasem Market",
+          "city": "Yogyakarta",
+          "region": "Java",
+          "latitude": -7.8012,
+          "longitude": 110.3658,
+          "google_maps_url": "https://www.google.com/maps?q=-7.8012,110.3658",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Pasar_Burung_Ngasem",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Ngasem Market Yogyakarta | Bird Market Near Kraton",
+          "description_short": "Ngasem bird market near the kraton is a colorful slice of local life with songbirds and handicrafts.",
+          "keywords": [
+            "Ngasem Market",
+            "Pasar Burung Ngasem",
+            "Yogyakarta market"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 85
+        },
+        {
+          "name": "Gembira Loka Zoo",
+          "city": "Yogyakarta",
+          "region": "Java",
+          "latitude": -7.8075,
+          "longitude": 110.3994,
+          "google_maps_url": "https://www.google.com/maps?q=-7.8075,110.3994",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Gembira_Loka_Zoo",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Gembira Loka Zoo | Family Wildlife Park Yogyakarta",
+          "description_short": "Gembira Loka Zoo pairs Indonesian wildlife exhibits with family-friendly gardens in east Yogyakarta.",
+          "keywords": [
+            "Gembira Loka Zoo",
+            "Yogyakarta zoo",
+            "Indonesia wildlife"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 87
+        }
+      ]
+    },
+    {
+      "name": "Ubud",
+      "region": "Bali",
+      "attractions": [
+        {
+          "name": "Sacred Monkey Forest Sanctuary",
+          "city": "Ubud",
+          "region": "Bali",
+          "latitude": -8.5185,
+          "longitude": 110.2592,
+          "google_maps_url": "https://www.google.com/maps?q=-8.5185,110.2592",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ubud_Monkey_Forest",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Ubud Monkey Forest | Sacred Sanctuary & Temples",
+          "description_short": "Lush forest temples shelter hundreds of long-tailed macaques amid mossy statues and jungle paths.",
+          "keywords": [
+            "Ubud Monkey Forest",
+            "Sacred Monkey Forest",
+            "Bali temples"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 98
+        },
+        {
+          "name": "Ubud Palace",
+          "city": "Ubud",
+          "region": "Bali",
+          "latitude": -8.5069,
+          "longitude": 110.2625,
+          "google_maps_url": "https://www.google.com/maps?q=-8.5069,110.2625",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ubud_Palace",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Ubud Palace | Puri Saren Agung & Balinese Dance",
+          "description_short": "Puri Saren Agung hosts evening dance performances in the heart of Ubud's royal quarter.",
+          "keywords": [
+            "Ubud Palace",
+            "Puri Saren Agung",
+            "Balinese dance Ubud"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 95
+        },
+        {
+          "name": "Ubud Art Market",
+          "city": "Ubud",
+          "region": "Bali",
+          "latitude": -8.5064,
+          "longitude": 110.2633,
+          "google_maps_url": "https://www.google.com/maps?q=-8.5064,110.2633",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ubud_Art_Market",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Ubud Art Market | Batik & Handicrafts Shopping",
+          "description_short": "Morning stalls overflow with batik, wood carvings, and souvenirs steps from the palace gates.",
+          "keywords": [
+            "Ubud Art Market",
+            "Pasar Seni Ubud",
+            "Bali shopping"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 92
+        },
+        {
+          "name": "Pura Taman Saraswati",
+          "city": "Ubud",
+          "region": "Bali",
+          "latitude": -8.5058,
+          "longitude": 110.2614,
+          "google_maps_url": "https://www.google.com/maps?q=-8.5058,110.2614",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Pura_Taman_Saraswati",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Pura Taman Saraswati | Lotus Temple Ubud",
+          "description_short": "This water temple honors the goddess of learning with a lotus pond and carved gates on Jalan Raya Ubud.",
+          "keywords": [
+            "Pura Taman Saraswati",
+            "Saraswati temple Ubud",
+            "Bali water temple"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 90
+        },
+        {
+          "name": "Campuhan Ridge Walk",
+          "city": "Ubud",
+          "region": "Bali",
+          "latitude": -8.5102,
+          "longitude": 110.2542,
+          "google_maps_url": "https://www.google.com/maps?q=-8.5102,110.2542",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Campuhan_Ridge_Walk",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Campuhan Ridge Walk | Ubud Sunrise Trail Guide",
+          "description_short": "An easy ridge trail above the Ayung River valley delivers classic Ubud rice-field panoramas at sunrise.",
+          "keywords": [
+            "Campuhan Ridge Walk",
+            "Ubud hiking",
+            "Bali rice terraces"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 94
+        },
+        {
+          "name": "Blanco Renaissance Museum",
+          "city": "Ubud",
+          "region": "Bali",
+          "latitude": -8.5056,
+          "longitude": 110.2669,
+          "google_maps_url": "https://www.google.com/maps?q=-8.5056,110.2669",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Blanco_Renaissance_Museum",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Blanco Renaissance Museum | Antonio Blanco Art Ubud",
+          "description_short": "The flamboyant former studio of Antonio Blanco showcases his portraits amid hilltop gardens.",
+          "keywords": [
+            "Blanco Museum",
+            "Ubud art",
+            "Bali museums"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 88
+        },
+        {
+          "name": "ARMA Museum",
+          "city": "Ubud",
+          "region": "Bali",
+          "latitude": -8.5181,
+          "longitude": 110.2622,
+          "google_maps_url": "https://www.google.com/maps?q=-8.5181,110.2622",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Agung_Rai_Museum_of_Art",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "ARMA Museum Ubud | Balinese Art & Culture",
+          "description_short": "ARMA pairs classical and contemporary Balinese art with cultural workshops in a tranquil compound.",
+          "keywords": [
+            "ARMA Museum",
+            "Agung Rai Museum",
+            "Ubud museums"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 89
+        },
+        {
+          "name": "Neka Art Museum",
+          "city": "Ubud",
+          "region": "Bali",
+          "latitude": -8.5092,
+          "longitude": 110.2486,
+          "google_maps_url": "https://www.google.com/maps?q=-8.5092,110.2486",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Neka_Art_Museum",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Neka Art Museum | Balinese Painting Collections Ubud",
+          "description_short": "Neka surveys Balinese painting schools from wayang styles to modern masters in curated galleries.",
+          "keywords": [
+            "Neka Art Museum",
+            "Balinese painting",
+            "Ubud art"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 87
+        },
+        {
+          "name": "The Yoga Barn",
+          "city": "Ubud",
+          "region": "Bali",
+          "latitude": -8.5139,
+          "longitude": 110.2653,
+          "google_maps_url": "https://www.google.com/maps?q=-8.5139,110.2653",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/The_Yoga_Barn",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "The Yoga Barn Ubud | Yoga Retreats & Wellness",
+          "description_short": "The Yoga Barn is Ubud's renowned wellness campus for daily classes, retreats, and plant-based dining.",
+          "keywords": [
+            "Yoga Barn Ubud",
+            "Ubud yoga",
+            "Bali wellness"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 86
+        },
+        {
+          "name": "Pura Dalem Agung",
+          "city": "Ubud",
+          "region": "Bali",
+          "latitude": -8.5187,
+          "longitude": 110.2586,
+          "google_maps_url": "https://www.google.com/maps?q=-8.5187,110.2586",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Pura_Dalem_Agung_Padangtegal",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Pura Dalem Agung | Padangtegal Temple Ubud",
+          "description_short": "The main death temple of Padangtegal anchors the monkey forest with towering meru shrines.",
+          "keywords": [
+            "Pura Dalem Agung",
+            "Ubud temple",
+            "Padangtegal"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 85
+        }
+      ]
+    },
+    {
+      "name": "Bandung",
+      "region": "West Java",
+      "attractions": [
+        {
+          "name": "Gedung Sate",
+          "city": "Bandung",
+          "region": "West Java",
+          "latitude": -6.9025,
+          "longitude": 107.6186,
+          "google_maps_url": "https://www.google.com/maps?q=-6.9025,107.6186",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Gedung_Sate",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Gedung Sate Bandung | Iconic Dutch Colonial Landmark",
+          "description_short": "Bandung's iconic government building with its satay-skewer spire is a landmark of Dutch Deco design.",
+          "keywords": [
+            "Gedung Sate",
+            "Bandung landmark",
+            "West Java architecture"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 97
+        },
+        {
+          "name": "Museum of the Asian-African Conference",
+          "city": "Bandung",
+          "region": "West Java",
+          "latitude": -6.9236,
+          "longitude": 107.6097,
+          "google_maps_url": "https://www.google.com/maps?q=-6.9236,107.6097",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Museum_of_the_Asian-African_Conference",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Asian-African Conference Museum | Bandung History",
+          "description_short": "The museum preserves the 1955 Bandung Conference that shaped the Non-Aligned Movement.",
+          "keywords": [
+            "Asian African Conference Museum",
+            "Bandung Conference",
+            "Gedung Merdeka"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 94
+        },
+        {
+          "name": "Jalan Braga",
+          "city": "Bandung",
+          "region": "West Java",
+          "latitude": -6.9178,
+          "longitude": 107.6086,
+          "google_maps_url": "https://www.google.com/maps?q=-6.9178,107.6086",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Braga_Street",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Jalan Braga | Art Deco Heritage Walk Bandung",
+          "description_short": "Braga Street blends art deco facades, cafes, and galleries in Bandung's most walkable heritage lane.",
+          "keywords": [
+            "Jalan Braga",
+            "Braga Street",
+            "Bandung old town"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 93
+        },
+        {
+          "name": "Alun-alun Bandung",
+          "city": "Bandung",
+          "region": "West Java",
+          "latitude": -6.9203,
+          "longitude": 107.6064,
+          "google_maps_url": "https://www.google.com/maps?q=-6.9203,107.6064",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Alun-alun_Bandung",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Alun-alun Bandung | City Square & Grand Mosque",
+          "description_short": "The city square faces the grand mosque and is a gathering place for evening snacks and family outings.",
+          "keywords": [
+            "Alun-alun Bandung",
+            "Bandung square",
+            "West Java"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 88
+        },
+        {
+          "name": "Great Mosque of Bandung",
+          "city": "Bandung",
+          "region": "West Java",
+          "latitude": -6.9211,
+          "longitude": 107.6067,
+          "google_maps_url": "https://www.google.com/maps?q=-6.9211,107.6067",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Grand_Mosque_of_Bandung",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Great Mosque of Bandung | Masjid Raya Landmark",
+          "description_short": "Masjid Raya Bandung's soaring minarets dominate the skyline beside the central alun-alun.",
+          "keywords": [
+            "Grand Mosque Bandung",
+            "Masjid Raya",
+            "Bandung mosque"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 90
+        },
+        {
+          "name": "Museum Geologi",
+          "city": "Bandung",
+          "region": "West Java",
+          "latitude": -6.9006,
+          "longitude": 107.6194,
+          "google_maps_url": "https://www.google.com/maps?q=-6.9006,107.6194",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Bandung_Geological_Museum",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Museum Geologi Bandung | Volcanoes & Fossils",
+          "description_short": "Indonesia's geology museum explains volcanoes and fossils that shape the surrounding highlands.",
+          "keywords": [
+            "Museum Geologi",
+            "Bandung museum",
+            "Indonesia geology"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 89
+        },
+        {
+          "name": "Kampung Daun",
+          "city": "Bandung",
+          "region": "West Java",
+          "latitude": -6.8467,
+          "longitude": 107.5903,
+          "google_maps_url": "https://www.google.com/maps?q=-6.8467,107.5903",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Kampung_Daun",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Kampung Daun | Sundanese Dining Village Bandung",
+          "description_short": "Kampung Daun serves Sundanese cuisine in bamboo villages with waterfalls on Bandung's green outskirts.",
+          "keywords": [
+            "Kampung Daun",
+            "Bandung restaurants",
+            "Sundanese food"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 86
+        },
+        {
+          "name": "Saung Angklung Udjo",
+          "city": "Bandung",
+          "region": "West Java",
+          "latitude": -6.9431,
+          "longitude": 107.6692,
+          "google_maps_url": "https://www.google.com/maps?q=-6.9431,107.6692",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Saung_Angklung_Udjo",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Saung Angklung Udjo | Bamboo Orchestra Bandung",
+          "description_short": "This cultural center stages interactive angklung bamboo orchestra performances for visitors.",
+          "keywords": [
+            "Saung Angklung Udjo",
+            "angklung Bandung",
+            "West Java culture"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 92
+        },
+        {
+          "name": "Paris Van Java",
+          "city": "Bandung",
+          "region": "West Java",
+          "latitude": -6.8844,
+          "longitude": 107.5964,
+          "google_maps_url": "https://www.google.com/maps?q=-6.8844,107.5964",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Paris_van_Java_(mall)",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Paris Van Java | Hillside Shopping Bandung",
+          "description_short": "Paris Van Java mall mixes upscale shopping with open-air architecture in Bandung's northern hills.",
+          "keywords": [
+            "Paris Van Java",
+            "PVJ Bandung",
+            "Bandung shopping"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 84
+        },
+        {
+          "name": "Jalan Riau",
+          "city": "Bandung",
+          "region": "West Java",
+          "latitude": -6.9081,
+          "longitude": 107.6189,
+          "google_maps_url": "https://www.google.com/maps?q=-6.9081,107.6189",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jalan_Riau",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Jalan Riau Bandung | Factory Outlet Shopping",
+          "description_short": "Jalan Riau and adjacent factory outlets are Bandung's go-to strip for fashion and local factory sales.",
+          "keywords": [
+            "Jalan Riau",
+            "Bandung factory outlets",
+            "Bandung shopping"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 87
+        }
+      ]
+    },
+    {
+      "name": "Surabaya",
+      "region": "East Java",
+      "attractions": [
+        {
+          "name": "House of Sampoerna",
+          "city": "Surabaya",
+          "region": "East Java",
+          "latitude": -7.2389,
+          "longitude": 112.7392,
+          "google_maps_url": "https://www.google.com/maps?q=-7.2389,112.7392",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/House_of_Sampoerna",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "House of Sampoerna | Surabaya Heritage Museum",
+          "description_short": "A colonial cigarette factory turned museum tells Surabaya's trading history with guided tours.",
+          "keywords": [
+            "House of Sampoerna",
+            "Surabaya museum",
+            "colonial Surabaya"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 95
+        },
+        {
+          "name": "Jalesveva Jayamahe Monument",
+          "city": "Surabaya",
+          "region": "East Java",
+          "latitude": -7.1956,
+          "longitude": 112.7278,
+          "google_maps_url": "https://www.google.com/maps?q=-7.1956,112.7278",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jalesveva_Jayamahe_Monument",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Jalesveva Jayamahe Monument | Surabaya Naval Landmark",
+          "description_short": "The towering naval monument on the waterfront salutes Indonesia's maritime forces.",
+          "keywords": [
+            "Jalesveva Jayamahe",
+            "Surabaya monument",
+            "Indonesia navy"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 90
+        },
+        {
+          "name": "Cheng Ho Mosque",
+          "city": "Surabaya",
+          "region": "East Java",
+          "latitude": -7.2422,
+          "longitude": 112.7386,
+          "google_maps_url": "https://www.google.com/maps?q=-7.2422,112.7386",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Cheng_Ho_Mosque",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Cheng Ho Mosque Surabaya | Chinese Architecture Mosque",
+          "description_short": "This Chinese-style mosque commemorates Admiral Zheng He's voyages and Surabaya's Muslim Chinese community.",
+          "keywords": [
+            "Cheng Ho Mosque",
+            "Surabaya mosque",
+            "Zheng He"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 91
+        },
+        {
+          "name": "Taman Bungkul",
+          "city": "Surabaya",
+          "region": "East Java",
+          "latitude": -7.2892,
+          "longitude": 112.7347,
+          "google_maps_url": "https://www.google.com/maps?q=-7.2892,112.7347",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Taman_Bungkul",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Taman Bungkul | Surabaya's Favorite City Park",
+          "description_short": "Bungkul Park is a beloved urban green space for skateboarding, street food, and evening hangouts.",
+          "keywords": [
+            "Taman Bungkul",
+            "Bungkul Park",
+            "Surabaya parks"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 88
+        },
+        {
+          "name": "Tunjungan Street",
+          "city": "Surabaya",
+          "region": "East Java",
+          "latitude": -7.2625,
+          "longitude": 112.7389,
+          "google_maps_url": "https://www.google.com/maps?q=-7.2625,112.7389",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jalan_Tunjungan",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Tunjungan Street | Heritage Boulevard Surabaya",
+          "description_short": "Tunjungan Street lines up heritage buildings, malls, and cafes in Surabaya's commercial core.",
+          "keywords": [
+            "Tunjungan Street",
+            "Jalan Tunjungan",
+            "Surabaya shopping"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 92
+        },
+        {
+          "name": "Ciputra World",
+          "city": "Surabaya",
+          "region": "East Java",
+          "latitude": -7.2897,
+          "longitude": 112.6844,
+          "google_maps_url": "https://www.google.com/maps?q=-7.2897,112.6844",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ciputra_World_Surabaya",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Ciputra World Surabaya | Modern Mall & Dining",
+          "description_short": "Ciputra World anchors west Surabaya with shopping, dining, and contemporary architecture.",
+          "keywords": [
+            "Ciputra World Surabaya",
+            "Surabaya mall",
+            "West Surabaya"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 85
+        },
+        {
+          "name": "Wonorejo Mangrove",
+          "city": "Surabaya",
+          "region": "East Java",
+          "latitude": -7.2986,
+          "longitude": 112.8019,
+          "google_maps_url": "https://www.google.com/maps?q=-7.2986,112.8019",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Wonorejo_Mangrove_Forest",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Wonorejo Mangrove | Coastal Eco Walk Surabaya",
+          "description_short": "Boardwalks through Wonorejo mangroves offer birdwatching and calm escapes near the coast.",
+          "keywords": [
+            "Wonorejo Mangrove",
+            "Surabaya nature",
+            "mangrove forest"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 87
+        },
+        {
+          "name": "Suramadu Bridge",
+          "city": "Surabaya",
+          "region": "East Java",
+          "latitude": -7.1853,
+          "longitude": 112.7792,
+          "google_maps_url": "https://www.google.com/maps?q=-7.1853,112.7792",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Suramadu_National_Bridge",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Suramadu Bridge | Java-Madura Crossing",
+          "description_short": "Suramadu links Java and Madura across the Madura Strait in a dramatic cable-stayed span.",
+          "keywords": [
+            "Suramadu Bridge",
+            "Surabaya bridge",
+            "Madura Strait"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 94
+        },
+        {
+          "name": "Arab Quarter (Sunan Ampel area)",
+          "city": "Surabaya",
+          "region": "East Java",
+          "latitude": -7.2292,
+          "longitude": 112.7358,
+          "google_maps_url": "https://www.google.com/maps?q=-7.2292,112.7358",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ampel_Mosque",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Surabaya Arab Quarter | Ampel Mosque & Souks",
+          "description_short": "The Ampel quarter around Sunan Ampel Mosque is Surabaya's historic Arab district of souks and dates.",
+          "keywords": [
+            "Ampel Surabaya",
+            "Sunan Ampel Mosque",
+            "Arab Quarter Surabaya"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 93
+        },
+        {
+          "name": "Submarine Monument (Monkasel)",
+          "city": "Surabaya",
+          "region": "East Java",
+          "latitude": -7.2797,
+          "longitude": 112.7492,
+          "google_maps_url": "https://www.google.com/maps?q=-7.2797,112.7492",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/KRI_Pasopati_(S129)",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Monkasel Submarine Museum | KRI Pasopati Surabaya",
+          "description_short": "Monkasel displays the retired KRI Pasopati submarine as a museum on the riverfront.",
+          "keywords": [
+            "Monkasel",
+            "Submarine Monument Surabaya",
+            "KRI Pasopati"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 89
+        }
+      ]
+    },
+    {
+      "name": "Malang",
+      "region": "East Java",
+      "attractions": [
+        {
+          "name": "Tugu Monument",
+          "city": "Malang",
+          "region": "East Java",
+          "latitude": -7.9825,
+          "longitude": 112.6308,
+          "google_maps_url": "https://www.google.com/maps?q=-7.9825,112.6308",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tugu_Monument_(Malang)",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Tugu Monument Malang | City Center Landmark",
+          "description_short": "Malang's signature roundabout monument marks the city center and Dutch-era urban planning.",
+          "keywords": [
+            "Tugu Malang",
+            "Malang monument",
+            "East Java"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 92
+        },
+        {
+          "name": "Kampung Warna Warni Jodipan",
+          "city": "Malang",
+          "region": "East Java",
+          "latitude": -7.9847,
+          "longitude": 112.6336,
+          "google_maps_url": "https://www.google.com/maps?q=-7.9847,112.6336",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Kampung_Warna-Warni_Jodipan",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Kampung Warna Warni Jodipan | Rainbow Village Malang",
+          "description_short": "Rainbow-painted alleys and bridges turned Jodipan into one of Indonesia's most photogenic villages.",
+          "keywords": [
+            "Jodipan rainbow village",
+            "Kampung Warna Warni",
+            "Malang Instagram"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 96
+        },
+        {
+          "name": "Malang City Square",
+          "city": "Malang",
+          "region": "East Java",
+          "latitude": -7.9831,
+          "longitude": 112.6319,
+          "google_maps_url": "https://www.google.com/maps?q=-7.9831,112.6319",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Alun-Alun_Malang",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Malang City Square | Alun-alun & Evening Food",
+          "description_short": "The alun-alun pairs a grand mosque with evening food stalls and a relaxed local atmosphere.",
+          "keywords": [
+            "Alun-alun Malang",
+            "Malang square",
+            "East Java"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 88
+        },
+        {
+          "name": "Ijen Boulevard",
+          "city": "Malang",
+          "region": "East Java",
+          "latitude": -7.9792,
+          "longitude": 112.6331,
+          "google_maps_url": "https://www.google.com/maps?q=-7.9792,112.6331",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Malang",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Ijen Boulevard Malang | Dutch Colonial Heritage Walk",
+          "description_short": "Ijen Boulevard showcases preserved Dutch colonial villas shaded by flowering trees.",
+          "keywords": [
+            "Ijen Boulevard",
+            "Malang heritage",
+            "colonial Malang"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 90
+        },
+        {
+          "name": "Museum Brawijaya",
+          "city": "Malang",
+          "region": "East Java",
+          "latitude": -7.9844,
+          "longitude": 112.6372,
+          "google_maps_url": "https://www.google.com/maps?q=-7.9844,112.6372",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Brawijaya_Museum",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Museum Brawijaya Malang | Military History East Java",
+          "description_short": "Brawijaya Museum documents East Java's military history with armor and independence-era exhibits.",
+          "keywords": [
+            "Museum Brawijaya",
+            "Malang museum",
+            "Indonesia military history"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 87
+        },
+        {
+          "name": "Singosari Temple",
+          "city": "Malang",
+          "region": "East Java",
+          "latitude": -7.8925,
+          "longitude": 112.6631,
+          "google_maps_url": "https://www.google.com/maps?q=-7.8925,112.6631",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Singhasari",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Singosari Temple | Hindu Ruins Near Malang",
+          "description_short": "Singosari temple ruins recall the 13th-century Hindu kingdom that preceded Majapahit.",
+          "keywords": [
+            "Singosari Temple",
+            "Singhasari",
+            "East Java temples"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 91
+        },
+        {
+          "name": "Klenteng Eng An Kiong",
+          "city": "Malang",
+          "region": "East Java",
+          "latitude": -7.9836,
+          "longitude": 112.6347,
+          "google_maps_url": "https://www.google.com/maps?q=-7.9836,112.6347",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Eng_An_Kiong_Temple",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Eng An Kiong Temple | Malang Chinese Heritage",
+          "description_short": "Eng An Kiong is Malang's historic Chinese temple with ornate roofs near the city square.",
+          "keywords": [
+            "Eng An Kiong",
+            "Klenteng Malang",
+            "Malang temple"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 86
+        },
+        {
+          "name": "Senaputra Park",
+          "city": "Malang",
+          "region": "East Java",
+          "latitude": -7.9669,
+          "longitude": 112.6364,
+          "google_maps_url": "https://www.google.com/maps?q=-7.9669,112.6364",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Malang",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Senaputra Park Malang | Family Green Space",
+          "description_short": "Senaputra Park offers family recreation and green lawns on the eastern side of Malang.",
+          "keywords": [
+            "Senaputra Park",
+            "Malang parks",
+            "East Java"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 82
+        },
+        {
+          "name": "Balai Kota Malang",
+          "city": "Malang",
+          "region": "East Java",
+          "latitude": -7.9814,
+          "longitude": 112.6306,
+          "google_maps_url": "https://www.google.com/maps?q=-7.9814,112.6306",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Malang_City_Hall",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Balai Kota Malang | Historic City Hall",
+          "description_short": "Malang's white city hall faces the Tugu and reflects Dutch civic architecture.",
+          "keywords": [
+            "Balai Kota Malang",
+            "Malang city hall",
+            "Dutch architecture"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 84
+        },
+        {
+          "name": "Malang Tempo Doeloe area",
+          "city": "Malang",
+          "region": "East Java",
+          "latitude": -7.9786,
+          "longitude": 112.6325,
+          "google_maps_url": "https://www.google.com/maps?q=-7.9786,112.6325",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Malang",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Malang Tempo Doeloe | Heritage Cafes & Shophouses",
+          "description_short": "Lanes around Ijen and Trunojoyo evoke 'tempo doeloe' Malang with cafes in restored shophouses.",
+          "keywords": [
+            "Tempo Doeloe Malang",
+            "Malang old town",
+            "heritage cafes"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 85
+        }
+      ]
+    },
+    {
+      "name": "Medan",
+      "region": "North Sumatra",
+      "attractions": [
+        {
+          "name": "Maimun Palace",
+          "city": "Medan",
+          "region": "North Sumatra",
+          "latitude": -3.5753,
+          "longitude": 98.6836,
+          "google_maps_url": "https://www.google.com/maps?q=-3.5753,98.6836",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Maimun_Palace",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Maimun Palace Medan | Deli Sultanate Landmark",
+          "description_short": "The yellow Maimun Palace blends Malay, Indian, and European styles as a symbol of Deli sultanate.",
+          "keywords": [
+            "Maimun Palace",
+            "Medan palace",
+            "North Sumatra"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 97
+        },
+        {
+          "name": "Great Mosque of Medan",
+          "city": "Medan",
+          "region": "North Sumatra",
+          "latitude": -3.575,
+          "longitude": 98.6853,
+          "google_maps_url": "https://www.google.com/maps?q=-3.575,98.6853",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Great_Mosque_of_Medan",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Great Mosque of Medan | Masjid Raya Landmark",
+          "description_short": "Masjid Raya Medan rises beside the palace with Middle Eastern-inspired domes and minarets.",
+          "keywords": [
+            "Great Mosque Medan",
+            "Masjid Raya Medan",
+            "Medan mosque"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 95
+        },
+        {
+          "name": "Tjong A Fie Mansion",
+          "city": "Medan",
+          "region": "North Sumatra",
+          "latitude": -3.5856,
+          "longitude": 98.6814,
+          "google_maps_url": "https://www.google.com/maps?q=-3.5856,98.6814",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tjong_A_Fie_Mansion",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Tjong A Fie Mansion | Historic Medan Merchant Home",
+          "description_short": "This restored Chinese mansion tells the story of a Medan tycoon amid carved courtyards.",
+          "keywords": [
+            "Tjong A Fie Mansion",
+            "Medan heritage",
+            "Chinese mansion"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 94
+        },
+        {
+          "name": "Merdeka Walk",
+          "city": "Medan",
+          "region": "North Sumatra",
+          "latitude": -3.5892,
+          "longitude": 98.6736,
+          "google_maps_url": "https://www.google.com/maps?q=-3.5892,98.6736",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Merdeka_Walk",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Merdeka Walk Medan | Pedestrian Food Street",
+          "description_short": "Merdeka Walk is Medan's pedestrian dining promenade with local snacks and evening buzz.",
+          "keywords": [
+            "Merdeka Walk",
+            "Medan food",
+            "North Sumatra"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 90
+        },
+        {
+          "name": "Tip Top Restaurant",
+          "city": "Medan",
+          "region": "North Sumatra",
+          "latitude": -3.5853,
+          "longitude": 98.6819,
+          "google_maps_url": "https://www.google.com/maps?q=-3.5853,98.6819",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tip_Top_(restaurant)",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Tip Top Restaurant Medan | Colonial-Era Dining",
+          "description_short": "Tip Top has served ice cream and Dutch-influenced dishes from a colonial-era storefront since 1934.",
+          "keywords": [
+            "Tip Top Medan",
+            "Medan restaurant",
+            "colonial cafe"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 88
+        },
+        {
+          "name": "Vihara Gunung Timur",
+          "city": "Medan",
+          "region": "North Sumatra",
+          "latitude": -3.5831,
+          "longitude": 98.6803,
+          "google_maps_url": "https://www.google.com/maps?q=-3.5831,98.6803",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Vihara_Gunung_Timur",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Vihara Gunung Timur | Buddhist Temple Medan",
+          "description_short": "This Buddhist temple complex features a multi-tiered pagoda near Medan's multicultural center.",
+          "keywords": [
+            "Vihara Gunung Timur",
+            "Medan temple",
+            "Buddhist Medan"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 89
+        },
+        {
+          "name": "Sri Mariamman Temple",
+          "city": "Medan",
+          "region": "North Sumatra",
+          "latitude": -3.5847,
+          "longitude": 98.6825,
+          "google_maps_url": "https://www.google.com/maps?q=-3.5847,98.6825",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Sri_Mariamman_Temple,_Medan",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Sri Mariamman Temple Medan | Tamil Hindu Temple",
+          "description_short": "Medan's Tamil Hindu temple bursts with painted gopuram detail in the city's Indian quarter.",
+          "keywords": [
+            "Sri Mariamman Medan",
+            "Hindu temple Medan",
+            "Medan India Street"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 87
+        },
+        {
+          "name": "Rahmat International Wildlife Museum",
+          "city": "Medan",
+          "region": "North Sumatra",
+          "latitude": -3.5603,
+          "longitude": 98.6542,
+          "google_maps_url": "https://www.google.com/maps?q=-3.5603,98.6542",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Rahmat_International_Wildlife_Museum",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Rahmat Wildlife Museum Medan | Global Taxidermy Collection",
+          "description_short": "Rahmat's wildlife museum displays taxidermy dioramas from around the world in a modern hall.",
+          "keywords": [
+            "Rahmat Wildlife Museum",
+            "Medan museum",
+            "wildlife museum"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 83
+        },
+        {
+          "name": "Medan Post Office",
+          "city": "Medan",
+          "region": "North Sumatra",
+          "latitude": -3.5897,
+          "longitude": 98.6753,
+          "google_maps_url": "https://www.google.com/maps?q=-3.5897,98.6753",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Medan_Post_Office",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Medan Post Office | Colonial Heritage Building",
+          "description_short": "The heritage post office building anchors colonial architecture along Medan's main axis.",
+          "keywords": [
+            "Medan Post Office",
+            "Kantor Pos Medan",
+            "heritage Medan"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 86
+        },
+        {
+          "name": "Kesawan Historic District",
+          "city": "Medan",
+          "region": "North Sumatra",
+          "latitude": -3.5875,
+          "longitude": 98.6808,
+          "google_maps_url": "https://www.google.com/maps?q=-3.5875,98.6808",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Kesawan",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Kesawan Historic District | Old Medan Commercial Quarter",
+          "description_short": "Kesawan preserves shophouses and the old commercial spine of Dutch-era Medan.",
+          "keywords": [
+            "Kesawan Medan",
+            "historic Medan",
+            "North Sumatra heritage"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 91
+        }
+      ]
+    },
+    {
+      "name": "Makassar",
+      "region": "South Sulawesi",
+      "attractions": [
+        {
+          "name": "Fort Rotterdam",
+          "city": "Makassar",
+          "region": "South Sulawesi",
+          "latitude": -5.1347,
+          "longitude": 119.4069,
+          "google_maps_url": "https://www.google.com/maps?q=-5.1347,119.4069",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Fort_Rotterdam",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Fort Rotterdam Makassar | Dutch Harbor Fortress",
+          "description_short": "Dutch Fort Rotterdam guards the harbor with museums inside thick coral-stone walls.",
+          "keywords": [
+            "Fort Rotterdam",
+            "Makassar fort",
+            "South Sulawesi history"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 96
+        },
+        {
+          "name": "Losari Beach",
+          "city": "Makassar",
+          "region": "South Sulawesi",
+          "latitude": -5.1431,
+          "longitude": 119.4086,
+          "google_maps_url": "https://www.google.com/maps?q=-5.1431,119.4086",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Losari_Beach",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Losari Beach Makassar | Sunset Promenade Guide",
+          "description_short": "Losari Beach promenade is famous for sunset views and pisang epe grilled banana snacks.",
+          "keywords": [
+            "Losari Beach",
+            "Makassar sunset",
+            "pisang epe"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 94
+        },
+        {
+          "name": "Trans Studio Makassar",
+          "city": "Makassar",
+          "region": "South Sulawesi",
+          "latitude": -5.1614,
+          "longitude": 119.3956,
+          "google_maps_url": "https://www.google.com/maps?q=-5.1614,119.3956",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Trans_Studio_Mall_Makassar",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Trans Studio Makassar | Indoor Theme Park",
+          "description_short": "Indonesia's indoor theme park at Trans Studio Mall packs rides and shows under one roof.",
+          "keywords": [
+            "Trans Studio Makassar",
+            "Makassar mall",
+            "Indonesia theme park"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 88
+        },
+        {
+          "name": "Paotere Harbor",
+          "city": "Makassar",
+          "region": "South Sulawesi",
+          "latitude": -5.1089,
+          "longitude": 119.4203,
+          "google_maps_url": "https://www.google.com/maps?q=-5.1089,119.4203",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Paotere",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Paotere Harbor | Traditional Pinisi Port Makassar",
+          "description_short": "Paotere still bustles with pinisi boats loading goods beside traditional Bugis sailors.",
+          "keywords": [
+            "Paotere Harbor",
+            "pinisi Makassar",
+            "Bugis ships"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 90
+        },
+        {
+          "name": "Somba Opu Cultural Village",
+          "city": "Makassar",
+          "region": "South Sulawesi",
+          "latitude": -5.1342,
+          "longitude": 119.4225,
+          "google_maps_url": "https://www.google.com/maps?q=-5.1342,119.4225",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Fort_Somba_Opu",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Somba Opu Cultural Village | Gowa Kingdom Heritage",
+          "description_short": "Somba Opu reconstructs Gowa kingdom forts and houses to showcase South Sulawesi heritage.",
+          "keywords": [
+            "Somba Opu",
+            "Gowa fort",
+            "Makassar culture"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 87
+        },
+        {
+          "name": "Akkarena Beach",
+          "city": "Makassar",
+          "region": "South Sulawesi",
+          "latitude": -5.1617,
+          "longitude": 119.4892,
+          "google_maps_url": "https://www.google.com/maps?q=-5.1617,119.4892",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Akkarena_Beach",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Akkarena Beach Makassar | Seafood & Sand",
+          "description_short": "Akkarena Beach offers a cleaner stretch of sand and seafood warungs east of the city center.",
+          "keywords": [
+            "Akkarena Beach",
+            "Makassar beach",
+            "South Sulawesi coast"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 85
+        },
+        {
+          "name": "Mandala Monument",
+          "city": "Makassar",
+          "region": "South Sulawesi",
+          "latitude": -5.1478,
+          "longitude": 119.4328,
+          "google_maps_url": "https://www.google.com/maps?q=-5.1478,119.4328",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mandala_Monument",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Mandala Monument Makassar | Liberation Memorial",
+          "description_short": "The Mandala Monument honors liberation struggles with a soaring pillar and museum.",
+          "keywords": [
+            "Mandala Monument",
+            "Makassar monument",
+            "Indonesia history"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 86
+        },
+        {
+          "name": "Museum La Galigo",
+          "city": "Makassar",
+          "region": "South Sulawesi",
+          "latitude": -5.1356,
+          "longitude": 119.4081,
+          "google_maps_url": "https://www.google.com/maps?q=-5.1356,119.4081",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/La_Galigo_Museum",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Museum La Galigo | Bugis Maritime Culture",
+          "description_short": "La Galigo Museum presents Bugis maritime culture and the epic literature of South Sulawesi.",
+          "keywords": [
+            "La Galigo Museum",
+            "Makassar museum",
+            "Bugis culture"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 89
+        },
+        {
+          "name": "Karebosi Link",
+          "city": "Makassar",
+          "region": "South Sulawesi",
+          "latitude": -5.1472,
+          "longitude": 119.4147,
+          "google_maps_url": "https://www.google.com/maps?q=-5.1472,119.4147",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Karebosi_Link",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Karebosi Link | Downtown Park Makassar",
+          "description_short": "Karebosi Link is a downtown park and tunnel plaza connecting Makassar's main squares.",
+          "keywords": [
+            "Karebosi Link",
+            "Makassar park",
+            "city center"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 84
+        },
+        {
+          "name": "CPI Mosque (99 Domes Mosque)",
+          "city": "Makassar",
+          "region": "South Sulawesi",
+          "latitude": -5.0931,
+          "longitude": 119.4669,
+          "google_maps_url": "https://www.google.com/maps?q=-5.0931,119.4669",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Markas_Al-Islami_Mosque",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "99 Domes Mosque Makassar | Al Markas Al Islami",
+          "description_short": "The 99 Domes Mosque dazzles with golden domes and modern Islamic architecture on the waterfront.",
+          "keywords": [
+            "99 Domes Mosque",
+            "CPI Mosque Makassar",
+            "Makassar mosque"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 92
+        }
+      ]
+    },
+    {
+      "name": "Labuan Bajo",
+      "region": "East Nusa Tenggara",
+      "attractions": [
+        {
+          "name": "Labuan Bajo Waterfront Marina",
+          "city": "Labuan Bajo",
+          "region": "East Nusa Tenggara",
+          "latitude": -8.4961,
+          "longitude": 119.8877,
+          "google_maps_url": "https://www.google.com/maps?q=-8.4961,119.8877",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Labuan_Bajo",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Labuan Bajo Marina | Komodo Gateway Waterfront",
+          "description_short": "The marina waterfront is the jumping-off point for Komodo boat trips and golden-hour harbor views.",
+          "keywords": [
+            "Labuan Bajo marina",
+            "Komodo harbor",
+            "Flores gateway"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 93
+        },
+        {
+          "name": "Sylvia Hill",
+          "city": "Labuan Bajo",
+          "region": "East Nusa Tenggara",
+          "latitude": -8.4897,
+          "longitude": 119.8786,
+          "google_maps_url": "https://www.google.com/maps?q=-8.4897,119.8786",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Labuan_Bajo",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Sylvia Hill Labuan Bajo | Panoramic Bay Viewpoint",
+          "description_short": "Sylvia Hill viewpoint overlooks the bay and islands that stretch toward Komodo National Park.",
+          "keywords": [
+            "Sylvia Hill",
+            "Labuan Bajo viewpoint",
+            "Flores sunset"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 88
+        },
+        {
+          "name": "Paradise Bar",
+          "city": "Labuan Bajo",
+          "region": "East Nusa Tenggara",
+          "latitude": -8.4953,
+          "longitude": 119.8869,
+          "google_maps_url": "https://www.google.com/maps?q=-8.4953,119.8869",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Labuan_Bajo",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Paradise Bar Labuan Bajo | Harbor Sunset Hangout",
+          "description_short": "Paradise Bar is a laid-back sunset spot for drinks above the harbor after island day trips.",
+          "keywords": [
+            "Paradise Bar Labuan Bajo",
+            "Flores nightlife",
+            "sunset bar"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 82
+        },
+        {
+          "name": "Batu Cermin Cave",
+          "city": "Labuan Bajo",
+          "region": "East Nusa Tenggara",
+          "latitude": -8.5331,
+          "longitude": 119.8203,
+          "google_maps_url": "https://www.google.com/maps?q=-8.5331,119.8203",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Batu_Cermin_Cave",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Batu Cermin Cave | Mirror Cave Near Labuan Bajo",
+          "description_short": "Mirror Cave shines when sunlight reflects off crystal walls in a short guided walk near town.",
+          "keywords": [
+            "Batu Cermin",
+            "Mirror Cave Flores",
+            "Labuan Bajo caves"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 87
+        },
+        {
+          "name": "Rangko Cave",
+          "city": "Labuan Bajo",
+          "region": "East Nusa Tenggara",
+          "latitude": -8.5264,
+          "longitude": 119.8036,
+          "google_maps_url": "https://www.google.com/maps?q=-8.5264,119.8036",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Rangko_Cave",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Rangko Cave | Swimming Cave Pool Flores",
+          "description_short": "Rangko Cave hides a saltwater pool for swimming inside a limestone chamber lit by openings above.",
+          "keywords": [
+            "Rangko Cave",
+            "Labuan Bajo cave",
+            "Flores swimming cave"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 90
+        },
+        {
+          "name": "Waecicu Beach",
+          "city": "Labuan Bajo",
+          "region": "East Nusa Tenggara",
+          "latitude": -8.4719,
+          "longitude": 119.8639,
+          "google_maps_url": "https://www.google.com/maps?q=-8.4719,119.8639",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Waecicu_Beach",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Waecicu Beach | Calm Shore Near Labuan Bajo",
+          "description_short": "Waecicu Beach offers calm shallows and island views a short drive from Labuan Bajo.",
+          "keywords": [
+            "Waecicu Beach",
+            "Labuan Bajo beach",
+            "Flores coast"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 86
+        },
+        {
+          "name": "St. Angela Church",
+          "city": "Labuan Bajo",
+          "region": "East Nusa Tenggara",
+          "latitude": -8.4978,
+          "longitude": 119.8892,
+          "google_maps_url": "https://www.google.com/maps?q=-8.4978,119.8892",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Labuan_Bajo",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "St. Angela Church Labuan Bajo | Hilltop Parish",
+          "description_short": "St. Angela Church crowns a hill with sea breezes and a quiet perch above the fishing town.",
+          "keywords": [
+            "St. Angela Church",
+            "Labuan Bajo church",
+            "Flores Catholic"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 84
+        },
+        {
+          "name": "Puncak Waringin",
+          "city": "Labuan Bajo",
+          "region": "East Nusa Tenggara",
+          "latitude": -8.4936,
+          "longitude": 119.8847,
+          "google_maps_url": "https://www.google.com/maps?q=-8.4936,119.8847",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Labuan_Bajo",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Puncak Waringin | Labuan Bajo Lookout Point",
+          "description_short": "Puncak Waringin is a favorite lookout under a giant waringin tree for sweeping harbor photos.",
+          "keywords": [
+            "Puncak Waringin",
+            "Labuan Bajo viewpoint",
+            "Flores photography"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 85
+        },
+        {
+          "name": "Local Fish Market",
+          "city": "Labuan Bajo",
+          "region": "East Nusa Tenggara",
+          "latitude": -8.4986,
+          "longitude": 119.8886,
+          "google_maps_url": "https://www.google.com/maps?q=-8.4986,119.8886",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Labuan_Bajo",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Labuan Bajo Fish Market | Morning Harbor Catch",
+          "description_short": "Morning fish auctions and waterfront grills show the daily catch that fuels Komodo fleet crews.",
+          "keywords": [
+            "Labuan Bajo fish market",
+            "Flores seafood",
+            "harbor market"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 83
+        },
+        {
+          "name": "Komodo National Park Visitor Center",
+          "city": "Labuan Bajo",
+          "region": "East Nusa Tenggara",
+          "latitude": -8.4892,
+          "longitude": 119.8814,
+          "google_maps_url": "https://www.google.com/maps?q=-8.4892,119.8814",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Komodo_National_Park",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Komodo National Park Visitor Center | Dragon Park Gateway",
+          "description_short": "The visitor center orients travelers to Komodo dragon habitats, trekking rules, and park fees.",
+          "keywords": [
+            "Komodo visitor center",
+            "Komodo National Park",
+            "Labuan Bajo tours"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 97
+        }
+      ]
+    },
+    {
+      "name": "Solo",
+      "region": "Central Java",
+      "attractions": [
+        {
+          "name": "Mangkunegaran Palace",
+          "city": "Solo",
+          "region": "Central Java",
+          "latitude": -7.5686,
+          "longitude": 110.8239,
+          "google_maps_url": "https://www.google.com/maps?q=-7.5686,110.8239",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mangkunegaran_Palace",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Mangkunegaran Palace | Solo Royal Court & Gamelan",
+          "description_short": "Pura Mangkunegaran preserves Javanese court dance, silver, and gamelan in central Solo.",
+          "keywords": [
+            "Mangkunegaran Palace",
+            "Solo palace",
+            "Surakarta"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 96
+        },
+        {
+          "name": "Kasunanan Palace",
+          "city": "Solo",
+          "region": "Central Java",
+          "latitude": -7.5747,
+          "longitude": 110.8264,
+          "google_maps_url": "https://www.google.com/maps?q=-7.5747,110.8264",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Kraton_Surakarta",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Kasunanan Palace Solo | Surakarta Kraton Guide",
+          "description_short": "The Kasunanan Surakarta palace remains the cultural heart of the Sunanate with museum halls.",
+          "keywords": [
+            "Kasunanan Palace",
+            "Kraton Surakarta",
+            "Solo kraton"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 97
+        },
+        {
+          "name": "Laweyan Batik Village",
+          "city": "Solo",
+          "region": "Central Java",
+          "latitude": -7.5758,
+          "longitude": 110.8086,
+          "google_maps_url": "https://www.google.com/maps?q=-7.5758,110.8086",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Laweyan",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Laweyan Batik Village | Solo Batik Workshops",
+          "description_short": "Laweyan is a living batik neighborhood where workshops still dye cloth in traditional patterns.",
+          "keywords": [
+            "Laweyan batik",
+            "Solo batik village",
+            "Surakarta batik"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 94
+        },
+        {
+          "name": "Pasar Gede",
+          "city": "Solo",
+          "region": "Central Java",
+          "latitude": -7.5689,
+          "longitude": 110.8281,
+          "google_maps_url": "https://www.google.com/maps?q=-7.5689,110.8281",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Pasar_Gede_Boeng",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Pasar Gede Solo | Historic Central Market",
+          "description_short": "Pasar Gede's grand market hall sells spices, produce, and snacks under a colonial roof.",
+          "keywords": [
+            "Pasar Gede",
+            "Solo market",
+            "Surakarta food"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 91
+        },
+        {
+          "name": "Triwindu Market",
+          "city": "Solo",
+          "region": "Central Java",
+          "latitude": -7.5681,
+          "longitude": 110.8247,
+          "google_maps_url": "https://www.google.com/maps?q=-7.5681,110.8247",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Triwindu_Antique_Market",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Triwindu Market | Solo Antiques & Curios",
+          "description_short": "Triwindu Market is Solo's antiques bazaar for batik, puppets, and vintage curios.",
+          "keywords": [
+            "Triwindu Market",
+            "Solo antiques",
+            "Surakarta shopping"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 89
+        },
+        {
+          "name": "Klewer Market",
+          "city": "Solo",
+          "region": "Central Java",
+          "latitude": -7.5714,
+          "longitude": 110.8253,
+          "google_maps_url": "https://www.google.com/maps?q=-7.5714,110.8253",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Klewer_Market",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Klewer Market Solo | Batik Textile Bazaar",
+          "description_short": "Klewer Market specializes in batik sarongs and fabric at bargain prices near the palaces.",
+          "keywords": [
+            "Klewer Market",
+            "Solo batik market",
+            "Surakarta shopping"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 88
+        },
+        {
+          "name": "Balekambang Park",
+          "city": "Solo",
+          "region": "Central Java",
+          "latitude": -7.5586,
+          "longitude": 110.8178,
+          "google_maps_url": "https://www.google.com/maps?q=-7.5586,110.8178",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Balekambang_Park",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Balekambang Park | Family Lakeside Park Solo",
+          "description_short": "Balekambang Park offers lakes, tree-lined paths, and weekend family recreation in Solo.",
+          "keywords": [
+            "Balekambang Park",
+            "Solo parks",
+            "Surakarta recreation"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 86
+        },
+        {
+          "name": "Danar Hadi Batik Museum",
+          "city": "Solo",
+          "region": "Central Java",
+          "latitude": -7.5683,
+          "longitude": 110.8256,
+          "google_maps_url": "https://www.google.com/maps?q=-7.5683,110.8256",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Danar_Hadi_Batik_Museum",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Danar Hadi Batik Museum | Premier Batik Collection Solo",
+          "description_short": "Danar Hadi displays prized batik collections from court cloths to contemporary pieces.",
+          "keywords": [
+            "Danar Hadi Museum",
+            "Solo batik museum",
+            "Surakarta culture"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 93
+        },
+        {
+          "name": "Gladag",
+          "city": "Solo",
+          "region": "Central Java",
+          "latitude": -7.5703,
+          "longitude": 110.8272,
+          "google_maps_url": "https://www.google.com/maps?q=-7.5703,110.8272",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Gladag",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Gladag Solo | Historic Square Near Palaces",
+          "description_short": "Gladag square buzzes with becak, street vendors, and palace proximity in old Surakarta.",
+          "keywords": [
+            "Gladag Solo",
+            "Surakarta square",
+            "Solo old town"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 85
+        },
+        {
+          "name": "Bengawan Solo Park",
+          "city": "Solo",
+          "region": "Central Java",
+          "latitude": -7.5656,
+          "longitude": 110.8125,
+          "google_maps_url": "https://www.google.com/maps?q=-7.5656,110.8125",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Bengawan_Solo_Park",
+          "season_tags": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "seo_title": "Bengawan Solo Park | Riverside Green Space",
+          "description_short": "This riverside park celebrates the legendary Solo River with paths, bridges, and open lawns.",
+          "keywords": [
+            "Bengawan Solo Park",
+            "Solo river park",
+            "Surakarta"
+          ],
+          "search_intent": "travel_planning",
+          "seo_priority_score": 87
+        }
+      ]
+    }
+  ],
+  "adventure_locations": [
+    {
+      "name": "Borobudur Temple",
+      "region": "Central Java",
+      "latitude": -7.6079,
+      "longitude": 110.2038,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Borobudur",
+      "description_short": "The world's largest Buddhist temple rises in concentric terraces of carved stupas at dawn mist.",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_title": "Borobudur Temple | UNESCO Buddhist Monument Java",
+      "keywords": [
+        "Borobudur",
+        "Central Java temple",
+        "Indonesia UNESCO"
+      ],
+      "seo_priority_score": 98,
+      "search_intent": "travel_planning",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Borobudur-Nothwest-view.jpg"
+    },
+    {
+      "name": "Mount Bromo",
+      "region": "East Java",
+      "latitude": -7.9425,
+      "longitude": 112.953,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Bromo",
+      "description_short": "Bromo's sea of sand and smoking crater draw sunrise jeep convoys across the Tengger caldera.",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_title": "Mount Bromo Sunrise | Tengger Caldera Adventure",
+      "keywords": [
+        "Mount Bromo",
+        "Bromo sunrise",
+        "East Java volcano"
+      ],
+      "seo_priority_score": 97,
+      "search_intent": "travel_planning"
+    },
+    {
+      "name": "Ijen Crater",
+      "region": "East Java",
+      "latitude": -8.0583,
+      "longitude": 114.2425,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kawah_Ijen",
+      "description_short": "Night hikes reveal blue sulfur flames and turquoise acid lake at Kawah Ijen volcano.",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_title": "Ijen Crater Blue Fire | Kawah Ijen Trek Guide",
+      "keywords": [
+        "Ijen Crater",
+        "Kawah Ijen",
+        "blue fire Indonesia"
+      ],
+      "seo_priority_score": 96,
+      "search_intent": "travel_planning"
+    },
+    {
+      "name": "Komodo National Park",
+      "region": "East Nusa Tenggara",
+      "latitude": -8.55,
+      "longitude": 119.45,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Komodo_National_Park",
+      "description_short": "Komodo dragons roam islands of savanna and reef, accessible by liveaboard from Labuan Bajo.",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_title": "Komodo National Park | Dragons & Island Hopping",
+      "keywords": [
+        "Komodo National Park",
+        "Komodo dragons",
+        "Labuan Bajo tours"
+      ],
+      "seo_priority_score": 99,
+      "search_intent": "travel_planning"
+    },
+    {
+      "name": "Raja Ampat",
+      "region": "West Papua",
+      "latitude": -0.2333,
+      "longitude": 130.5167,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Raja_Ampat",
+      "description_short": "Raja Ampat's karst isles and coral reefs rank among the richest marine habitats on Earth.",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_title": "Raja Ampat Islands | World-Class Diving & Reefs",
+      "keywords": [
+        "Raja Ampat",
+        "West Papua diving",
+        "Indonesia islands"
+      ],
+      "seo_priority_score": 98,
+      "search_intent": "travel_planning"
+    },
+    {
+      "name": "Lake Toba",
+      "region": "North Sumatra",
+      "latitude": 2.6848,
+      "longitude": 98.874,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lake_Toba",
+      "description_short": "Vast Lake Toba fills a supervolcano caldera with Batak villages on Samosir Island.",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_title": "Lake Toba | Samosir Island & Batak Culture",
+      "keywords": [
+        "Lake Toba",
+        "Samosir Island",
+        "North Sumatra"
+      ],
+      "seo_priority_score": 95,
+      "search_intent": "travel_planning"
+    },
+    {
+      "name": "Tumpak Sewu Waterfall",
+      "region": "East Java",
+      "latitude": -8.2333,
+      "longitude": 112.9167,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tumpak_Sewu",
+      "description_short": "Tumpak Sewu cascades like a curtain of waterfalls in a lush amphitheater near Lumajang.",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_title": "Tumpak Sewu Waterfall | Semeru Region Cascade",
+      "keywords": [
+        "Tumpak Sewu",
+        "East Java waterfall",
+        "Indonesia waterfalls"
+      ],
+      "seo_priority_score": 94,
+      "search_intent": "travel_planning"
+    },
+    {
+      "name": "Bunaken National Park",
+      "region": "North Sulawesi",
+      "latitude": 1.6236,
+      "longitude": 124.7633,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bunaken_National_Park",
+      "description_short": "Bunaken's wall dives drop into coral gardens minutes by boat from Manado.",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_title": "Bunaken National Park | Manado Diving Paradise",
+      "keywords": [
+        "Bunaken",
+        "Manado diving",
+        "North Sulawesi reef"
+      ],
+      "seo_priority_score": 93,
+      "search_intent": "travel_planning"
+    },
+    {
+      "name": "Tanjung Puting National Park",
+      "region": "Central Kalimantan",
+      "latitude": -3.1,
+      "longitude": 111.95,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tanjung_Puting_National_Park",
+      "description_short": "Houseboat cruises on the Sekonyer River bring orangutans and proboscis monkeys into view.",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_title": "Tanjung Puting | Orangutan River Safari Borneo",
+      "keywords": [
+        "Tanjung Puting",
+        "orangutan Borneo",
+        "Kalimantan river cruise"
+      ],
+      "seo_priority_score": 92,
+      "search_intent": "travel_planning"
+    },
+    {
+      "name": "Wae Rebo Village",
+      "region": "Flores",
+      "latitude": -8.8972,
+      "longitude": 120.0294,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Wae_Rebo",
+      "description_short": "Wae Rebo's cone-shaped mbaru niang houses sit in cloud forest on a remote Flores ridge.",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_title": "Wae Rebo Village | Traditional Flores Highland Settlement",
+      "keywords": [
+        "Wae Rebo",
+        "Flores village",
+        "Manggarai culture"
+      ],
+      "seo_priority_score": 91,
+      "search_intent": "travel_planning"
+    }
+  ]
+}

@@ -1,0 +1,3804 @@
+{
+  "version": 2,
+  "country": "Slovakia",
+  "published": true,
+  "cities": [
+    {
+      "city": "Bratislava",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Bratislava",
+      "seo": {
+        "title": "Top 10 Things to Do in Bratislava, Slovakia",
+        "description": "Discover 10 must-see landmarks in Bratislava, Slovakia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Bratislava? Explore the best places to visit in Bratislava, Slovakia.",
+        "keywords": [
+          "things to do in Bratislava",
+          "Bratislava Slovakia travel guide",
+          "best places to visit in Bratislava",
+          "Bratislava landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Bratislava Castle",
+          "wiki_title": "Bratislava Castle",
+          "lat": 48.1422,
+          "lng": 17.1002,
+          "order_index": 0,
+          "description": "An iconic four-tower fortress overlooking the Danube River and the capital city.",
+          "seo_phrase": "Visiting Bratislava Castle: Ultimate Guide to Slovakia's Royal Fortress",
+          "seo_keywords": [
+            "Bratislava Castle",
+            "Slovak National Museum",
+            "Danube views",
+            "royal fortress",
+            "Slovakia history"
+          ],
+          "commons_file": "Bratislavsky hrad.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bratislavsky_hrad.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Michael's Gate",
+            "Old Town Hall"
+          ]
+        },
+        {
+          "name": "UFO Observation Deck",
+          "wiki_title": "Most SNP",
+          "lat": 48.1367,
+          "lng": 17.1047,
+          "order_index": 1,
+          "description": "A flying-saucer-shaped observation deck perched high atop the Bridge of the Slovak National Uprising.",
+          "seo_phrase": "UFO Observation Deck Bratislava: Best View of the Danube",
+          "seo_keywords": [
+            "UFO tower",
+            "Most SNP",
+            "Bratislava viewpoint",
+            "modernist architecture",
+            "Danube bridge"
+          ],
+          "commons_file": "Most SNP UFO Bratislava.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Most_SNP_UFO_Bratislava.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Bratislava Castle",
+            "Slovak National Theatre"
+          ]
+        },
+        {
+          "name": "Blue Church",
+          "wiki_title": "Blue Church",
+          "lat": 48.1436,
+          "lng": 17.1169,
+          "order_index": 2,
+          "description": "A stunning, whimsical Art Nouveau church entirely covered in varying shades of pastel blue.",
+          "seo_phrase": "The Blue Church Bratislava: Art Nouveau Architectural Wonder",
+          "seo_keywords": [
+            "Blue Church",
+            "Church of St Elizabeth",
+            "Art Nouveau Bratislava",
+            "Ödön Lechner",
+            "Secessionist style"
+          ],
+          "commons_file": "Modry kostol Bratislava 2017.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Modry_kostol_Bratislava_2017.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Slovak National Theatre",
+            "Grassalkovich Palace"
+          ]
+        },
+        {
+          "name": "Old Town Hall",
+          "wiki_title": "Old Town Hall (Bratislava",
+          "lat": 48.1444,
+          "lng": 17.1086,
+          "order_index": 3,
+          "description": "A historic complex of interconnected medieval buildings housing the oldest museum in the capital.",
+          "seo_phrase": "Old Town Hall Bratislava: History Museum & Main Square Views",
+          "seo_keywords": [
+            "Old Town Hall",
+            "Bratislava City Museum",
+            "Main Square",
+            "Gothic architecture",
+            "Napoleonic cannonball"
+          ],
+          "commons_file": "Stara radnica Bratislava.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Stara_radnica_Bratislava.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Primate's Palace",
+            "Maximilian's Fountain"
+          ]
+        },
+        {
+          "name": "Cumil - Man at Work",
+          "wiki_title": "Čumil",
+          "lat": 48.1436,
+          "lng": 17.1089,
+          "order_index": 4,
+          "description": "A humorous bronze sculpture depicting a sewer worker peeking out from an open manhole.",
+          "seo_phrase": "Cumil Man at Work: Bratislava's Most Famous Bronze Statue",
+          "seo_keywords": [
+            "Cumil",
+            "Man at Work",
+            "Bratislava statues",
+            "bronze sculpture",
+            "quirky landmarks"
+          ],
+          "commons_file": "Cumil Bratislava 2014.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Cumil_Bratislava_2014.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Slovak National Theatre",
+            "Old Town Hall"
+          ]
+        },
+        {
+          "name": "Michael's Gate",
+          "wiki_title": "Michael's Gate",
+          "lat": 48.1451,
+          "lng": 17.1067,
+          "order_index": 5,
+          "description": "The only preserved gate of the city's medieval fortifications, featuring a distinctive baroque spire.",
+          "seo_phrase": "Michael's Gate Bratislava: Medieval Tower & Zero Kilometre Plate",
+          "seo_keywords": [
+            "Michael's Gate",
+            "medieval Bratislava",
+            "Museum of Weapons",
+            "old town gate",
+            "Slovakia tower"
+          ],
+          "commons_file": "Michalska brana Bratislava.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Michalska_brana_Bratislava.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Bratislava Castle",
+            "Old Town Hall"
+          ]
+        },
+        {
+          "name": "Slovak National Theatre",
+          "wiki_title": "Slovak National Theatre",
+          "lat": 48.1422,
+          "lng": 17.1097,
+          "order_index": 6,
+          "description": "A magnificent Neo-Renaissance cultural landmark hosting elite opera and ballet productions.",
+          "seo_phrase": "Slovak National Theatre: Historic Neo-Renaissance Opera House",
+          "seo_keywords": [
+            "Slovak National Theatre",
+            "Fellner and Helmer",
+            "Hviezdoslav Square",
+            "Ganymede Fountain",
+            "Bratislava Opera"
+          ],
+          "commons_file": "Slovak National Theatre Bratislava.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Slovak_National_Theatre_Bratislava.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Maximilian's Fountain",
+            "Cumil Man at Work"
+          ]
+        },
+        {
+          "name": "Primate's Palace",
+          "wiki_title": "Primate's Palace",
+          "lat": 48.1442,
+          "lng": 17.1097,
+          "order_index": 7,
+          "description": "An elegant pale-pink neoclassical palace serving as the seat of the Mayor of Bratislava.",
+          "seo_phrase": "Primate's Palace Bratislava: The Hall of Mirrors & English Tapestries",
+          "seo_keywords": [
+            "Primate's Palace",
+            "Hall of Mirrors",
+            "Peace of Pressburg",
+            "English tapestries",
+            "neoclassical palace"
+          ],
+          "commons_file": "Primacialny palac Bratislava.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Primacialny_palac_Bratislava.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Old Town Hall",
+            "Maximilian's Fountain"
+          ]
+        },
+        {
+          "name": "Grassalkovich Palace",
+          "wiki_title": "Grassalkovich Palace",
+          "lat": 48.1492,
+          "lng": 17.1078,
+          "order_index": 8,
+          "description": "The elegant rococo palace that serves as the official residence of the Slovak President.",
+          "seo_phrase": "Grassalkovich Palace: The Presidential Residence of Slovakia",
+          "seo_keywords": [
+            "Grassalkovich Palace",
+            "Slovak Presidential Palace",
+            "Rococo architecture",
+            "French gardens",
+            "Joseph Haydn"
+          ],
+          "commons_file": "Grasalkovicov palac Bratislava.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Grasalkovicov_palac_Bratislava.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Michael's Gate",
+            "Blue Church"
+          ]
+        },
+        {
+          "name": "Maximilian's Fountain",
+          "wiki_title": "Maximilian's Fountain",
+          "lat": 48.1444,
+          "lng": 17.1081,
+          "order_index": 9,
+          "description": "The city's oldest fountain, featuring a statue of a knight often identified as Roland.",
+          "seo_phrase": "Maximilian's Fountain: The Roland Monument on Main Square",
+          "seo_keywords": [
+            "Maximilian's Fountain",
+            "Roland Fountain",
+            "Main Square Bratislava",
+            "Renaissance monuments",
+            "urban legends"
+          ],
+          "commons_file": "Maximilian Fountain Bratislava.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Maximilian_Fountain_Bratislava.jpg",
+          "seo_priority": 78,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Town Hall",
+            "Primate's Palace"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Košice",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Košice",
+      "seo": {
+        "title": "Top 10 Things to Do in Košice, Slovakia",
+        "description": "Discover 10 must-see landmarks in Košice, Slovakia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Košice? Explore the best places to visit in Košice, Slovakia.",
+        "keywords": [
+          "things to do in Košice",
+          "Košice Slovakia travel guide",
+          "best places to visit in Košice",
+          "Košice landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "St. Elisabeth Cathedral",
+          "wiki_title": "St. Elisabeth Cathedral",
+          "lat": 48.7208,
+          "lng": 21.2581,
+          "order_index": 0,
+          "description": "Slovakia's largest place of worship and a masterclass in High Gothic church architecture.",
+          "seo_phrase": "St. Elisabeth Cathedral Košice: Slovakia's Largest Gothic Church",
+          "seo_keywords": [
+            "St Elisabeth Cathedral",
+            "Kosice Gothic",
+            "largest church Slovakia",
+            "double spiral staircase",
+            "High Gothic art"
+          ],
+          "commons_file": "Kosice Cathedral of St Elizabeth.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Kosice_Cathedral_of_St_Elizabeth.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Urban's Tower",
+            "Singing Fountain"
+          ]
+        },
+        {
+          "name": "Main Street (Hlavná ulica)",
+          "wiki_title": "Main Street (Košice",
+          "lat": 48.7225,
+          "lng": 21.2572,
+          "order_index": 1,
+          "description": "A wide, spindle-shaped central promenade framed by beautiful historic noble houses.",
+          "seo_phrase": "Main Street Košice: The Longest Promenade in Slovakia",
+          "seo_keywords": [
+            "Hlavna ulica",
+            "Kosice promenade",
+            "historic townhouses",
+            "pedestrian boulevard",
+            "aristocratic palaces"
+          ],
+          "commons_file": "Hlavna ulica Kosice.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Hlavna_ulica_Kosice.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Elisabeth Cathedral",
+            "State Theatre Košice"
+          ]
+        },
+        {
+          "name": "State Theatre Košice",
+          "wiki_title": "State Theatre, Košice",
+          "lat": 48.7221,
+          "lng": 21.2574,
+          "order_index": 2,
+          "description": "An opulent Neo-Baroque architectural jewel staging premier opera, ballet, and drama.",
+          "seo_phrase": "State Theatre Košice: Neo-Baroque Masterpiece by Adolf Lang",
+          "seo_keywords": [
+            "State Theatre Kosice",
+            "Adolf Lang",
+            "Neo-Baroque theatre",
+            "Shakespeare frescoes",
+            "Slovakia culture"
+          ],
+          "commons_file": "State Theatre Kosice Slovakia.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/State_Theatre_Kosice_Slovakia.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Singing Fountain",
+            "Main Street Košice"
+          ]
+        },
+        {
+          "name": "Crafts Lane (Hrnčiarska ulica)",
+          "wiki_title": "Main Street (Košice",
+          "lat": 48.7236,
+          "lng": 21.2597,
+          "order_index": 3,
+          "description": "A charming, narrow cobblestone alley lined with tiny, traditional artisan workshops.",
+          "seo_phrase": "Crafts Lane Košice: Hrnčiarska Street Artisanal Guide",
+          "seo_keywords": [
+            "Crafts Lane",
+            "Hrnčiarska ulica",
+            "artisan workshops",
+            "cobblestone street",
+            "traditional pottery"
+          ],
+          "commons_file": "Hrnciarska Kosice 2011.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hrnciarska_Kosice_2011.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Jakab's Palace",
+            "Main Street Košice"
+          ]
+        },
+        {
+          "name": "St. Urban's Tower",
+          "wiki_title": "St. Urban's Tower",
+          "lat": 48.7212,
+          "lng": 21.2582,
+          "order_index": 4,
+          "description": "A detached Gothic bell tower surrounded by a beautiful late-nineteenth-century covered arcade.",
+          "seo_phrase": "St. Urban's Tower Kosice: Historical Bell Campanile",
+          "seo_keywords": [
+            "St Urban Tower",
+            "Kosice campanile",
+            "Urban Bell",
+            "Gothic tower",
+            "historical relief slabs"
+          ],
+          "commons_file": "Urbanova veza Kosice.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Urbanova_veza_Kosice.jpg",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "St. Elisabeth Cathedral",
+            "Singing Fountain"
+          ]
+        },
+        {
+          "name": "Singing Fountain",
+          "wiki_title": "Main Street (Košice",
+          "lat": 48.7217,
+          "lng": 21.2577,
+          "order_index": 5,
+          "description": "A synchronized musical water feature nestled inside a peaceful park strip on the main avenue.",
+          "seo_phrase": "The Singing Fountain Košice: Music & Light Park Show",
+          "seo_keywords": [
+            "Singing Fountain",
+            "Kosice park",
+            "musical fountain",
+            "carillon bells",
+            "urban relaxation"
+          ],
+          "commons_file": "Singing Fountain Kosice.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Singing_Fountain_Kosice.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "State Theatre Košice",
+            "St. Elisabeth Cathedral"
+          ]
+        },
+        {
+          "name": "Lower Gate (Dolná brána)",
+          "wiki_title": "Main Street (Košice",
+          "lat": 48.7196,
+          "lng": 21.2592,
+          "order_index": 6,
+          "description": "A unique subterranean archeological museum showcasing excavated medieval town fortifications.",
+          "seo_phrase": "Lower Gate Underground Museum: Košice's Medieval Fortifications",
+          "seo_keywords": [
+            "Lower Gate",
+            "Dolna brana",
+            "underground museum",
+            "medieval excavations",
+            "Kosice fortifications"
+          ],
+          "commons_file": "Kosice Dolna brana 2.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Kosice_Dolna_brana_2.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "St. Elisabeth Cathedral",
+            "Main Street Košice"
+          ]
+        },
+        {
+          "name": "East Slovak Gallery",
+          "wiki_title": "East Slovak Gallery",
+          "lat": 48.7208,
+          "lng": 21.2575,
+          "order_index": 7,
+          "description": "A prestigious art museum tracking visual arts in eastern Slovakia through extensive collections.",
+          "seo_phrase": "East Slovak Gallery: Regional Fine Art Hub in Košice",
+          "seo_keywords": [
+            "East Slovak Gallery",
+            "Kosice art museum",
+            "County House",
+            "Slovak visual art",
+            "regional painters"
+          ],
+          "commons_file": "Vychodoslovenska galeria Kosice.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Vychodoslovenska_galeria_Kosice.jpg",
+          "seo_priority": 81,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "St. Elisabeth Cathedral",
+            "Lower Gate"
+          ]
+        },
+        {
+          "name": "Jakab's Palace",
+          "wiki_title": "Jakab's Palace",
+          "lat": 48.7219,
+          "lng": 21.2625,
+          "order_index": 8,
+          "description": "A picturesque Neo-Gothic mansion situated at the edge of the historic city center.",
+          "seo_phrase": "Jakab's Palace Košice: Fairy-Tale Gothic Revival Architecture",
+          "seo_keywords": [
+            "Jakab's Palace",
+            "Neo-Gothic Kosice",
+            "Arpad Jakab",
+            "Edvard Benes residence",
+            "Gothic revival"
+          ],
+          "commons_file": "Jakabov palac.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Jakabov_palac.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Main Street Košice",
+            "Crafts Lane"
+          ]
+        },
+        {
+          "name": "Plague Column (Immaculata)",
+          "wiki_title": "Plague Column, Košice",
+          "lat": 48.7238,
+          "lng": 21.2568,
+          "order_index": 9,
+          "description": "A finely carved Baroque Marian column rising 14 meters high in a northern park plaza.",
+          "seo_phrase": "Plague Column Immaculata Košice: Baroque Marian Monument",
+          "seo_keywords": [
+            "Plague Column",
+            "Immaculata Kosice",
+            "Baroque sculpture",
+            "Marian column",
+            "historical plague monuments"
+          ],
+          "commons_file": "Immaculata Kosice 2013.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Immaculata_Kosice_2013.jpg",
+          "seo_priority": 76,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Main Street Košice",
+            "State Theatre Košice"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Prešov",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Prešov",
+      "seo": {
+        "title": "Top 10 Things to Do in Prešov, Slovakia",
+        "description": "Discover 10 must-see landmarks in Prešov, Slovakia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Prešov? Explore the best places to visit in Prešov, Slovakia.",
+        "keywords": [
+          "things to do in Prešov",
+          "Prešov Slovakia travel guide",
+          "best places to visit in Prešov",
+          "Prešov landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "St. Nicholas Concathedral",
+          "wiki_title": "Co-Cathedral of St. Nicholas, Prešov",
+          "lat": 48.9983,
+          "lng": 21.2394,
+          "order_index": 0,
+          "description": "A dominant late-Gothic hall church towering over Prešov's central spindle-shaped plaza.",
+          "seo_phrase": "St. Nicholas Concathedral Prešov: Gothic Landmark Guide",
+          "seo_keywords": [
+            "St Nicholas Prešov",
+            "Concathedral",
+            "late Gothic church",
+            "Baroque high altar",
+            "Prešov landmarks"
+          ],
+          "commons_file": "Presov Cathedral of St Nicholas.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Presov_Cathedral_of_St_Nicholas.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Neptune Fountain Prešov",
+            "Rákoci Palace"
+          ]
+        },
+        {
+          "name": "Prešov Synagogue",
+          "wiki_title": "Orthodox Synagogue (Prešov",
+          "lat": 48.9994,
+          "lng": 21.2369,
+          "order_index": 1,
+          "description": "An incredibly well-preserved synagogue famous for its rich Moorish-style interior decorations.",
+          "seo_phrase": "Prešov Orthodox Synagogue: Moorish Revival Masterpiece",
+          "seo_keywords": [
+            "Prešov Synagogue",
+            "Moorish Revival",
+            "Jakob Gartner",
+            "Barkany Collection",
+            "Judaica museum"
+          ],
+          "image_url": "",
+          "seo_priority": 91,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Nicholas Concathedral",
+            "Caraffa Gallery"
+          ]
+        },
+        {
+          "name": "Solivar Historical Salt Works",
+          "wiki_title": "Solivar",
+          "lat": 48.9792,
+          "lng": 21.2725,
+          "order_index": 2,
+          "description": "A unique 17th-century technical monument for boiling, storing, and mining mineral table salt.",
+          "seo_phrase": "Solivar Salt Works Prešov: Industrial Heritage Monument",
+          "seo_keywords": [
+            "Solivar Prešov",
+            "salt mining history",
+            "technical monument",
+            "horse whim gapel",
+            "industrial heritage"
+          ],
+          "commons_file": "Gapeľ v Solivare.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Gape%C4%BE_v_Solivare.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Orthodox Cathedral Prešov",
+            "Rákoci Palace"
+          ]
+        },
+        {
+          "name": "Rákoci Palace (Regional Museum)",
+          "wiki_title": "Main Street (Prešov",
+          "lat": 48.9972,
+          "lng": 21.2417,
+          "order_index": 3,
+          "description": "A stunning Renaissance palace building featuring a remarkably ornate sgraffito attic facade.",
+          "seo_phrase": "Rákoci Palace Prešov: Renaissance Gem & Regional Museum",
+          "seo_keywords": [
+            "Rakoci Palace",
+            "Regional Museum Prešov",
+            "Renaissance sgraffito",
+            "Sigismund Rakoczi",
+            "Slovakia history"
+          ],
+          "commons_file": "Rakociho palac Presov.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Rakociho_palac_Presov.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Neptune Fountain Prešov",
+            "Orthodox Cathedral Prešov"
+          ]
+        },
+        {
+          "name": "Orthodox Cathedral of St. John the Baptist",
+          "wiki_title": "Cathedral of St. John the Baptist, Prešov",
+          "lat": 48.9953,
+          "lng": 21.2425,
+          "order_index": 4,
+          "description": "A historic cathedral serving as the primary seat of the Greek Catholic Archeparchy of Prešov.",
+          "seo_phrase": "Cathedral of St. John the Baptist Prešov: Greek Catholic Heritage",
+          "seo_keywords": [
+            "St John the Baptist",
+            "Prešov Cathedral",
+            "Greek Catholic",
+            "iconostasis",
+            "Shroud of Turin replica"
+          ],
+          "commons_file": "Katedralny chram svateho Jana Krstitela Presov.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Katedralny_chram_svateho_Jana_Krstitela_Presov.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Rákoci Palace",
+            "Prešov Synagogue"
+          ]
+        },
+        {
+          "name": "Plaza Beach Solivar",
+          "wiki_title": "Solivar",
+          "lat": 48.9781,
+          "lng": 21.2755,
+          "order_index": 5,
+          "description": "A lively, exotic summer swimming complex themed around Mediterranean seaside resorts.",
+          "seo_phrase": "Plaza Beach Solivar: Prešov's Summer Swim Resort",
+          "seo_keywords": [
+            "Plaza Beach Prešov",
+            "Solivar pool",
+            "summer swimming resort",
+            "Gaudi style architecture",
+            "family water park"
+          ],
+          "commons_file": "Plaza beach solivar.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Plaza_beach_solivar.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Solivar Historical Salt Works",
+            "Rákoci Palace"
+          ]
+        },
+        {
+          "name": "Caraffa Gallery",
+          "wiki_title": "Main Street (Prešov",
+          "lat": 48.9986,
+          "lng": 21.2389,
+          "order_index": 6,
+          "description": "A rare, surviving late-Gothic building now serving as an active contemporary art gallery.",
+          "seo_phrase": "Caraffa Gallery Prešov: Late Gothic Municipal Art Center",
+          "seo_keywords": [
+            "Caraffa Gallery",
+            "Prešov art space",
+            "Late Gothic architecture",
+            "Antonio Caraffa",
+            "contemporary art"
+          ],
+          "commons_file": "Caraffova väznica Prešov.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Caraffova_väznica_Prešov.jpg",
+          "seo_priority": 81,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Prešov Synagogue",
+            "St. Nicholas Concathedral"
+          ]
+        },
+        {
+          "name": "Neptune Fountain Prešov",
+          "wiki_title": "Main Street (Prešov",
+          "lat": 48.9981,
+          "lng": 21.2403,
+          "order_index": 7,
+          "description": "The oldest stone public fountain in the city, showcasing a majestic statue of Neptune.",
+          "seo_phrase": "Neptune Fountain Prešov: Historical Town Center Fountain",
+          "seo_keywords": [
+            "Neptune Fountain",
+            "Prešov fountain",
+            "Vincent Staviarsky",
+            "Mark Hollander",
+            "stone sculpture"
+          ],
+          "commons_file": "Neptunova fontana Presov.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Neptunova_fontana_Presov.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Nicholas Concathedral",
+            "Rákoci Palace"
+          ]
+        },
+        {
+          "name": "WINEPARK Prešov",
+          "wiki_title": "Main Street (Prešov",
+          "lat": 48.9961,
+          "lng": 21.2422,
+          "order_index": 8,
+          "description": "A historic inner courtyard turned into a premier tasting space for regional Slovak wines.",
+          "seo_phrase": "WINEPARK Prešov: Boutique Regional Wine Tasting Courtyard",
+          "seo_keywords": [
+            "Winepark Prešov",
+            "Slovak Tokaj wine",
+            "historical courtyard",
+            "wine tasting slovakia",
+            "burgher townhouse"
+          ],
+          "commons_file": "Winepark presov courtyard.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Winepark_presov_courtyard.jpg",
+          "seo_priority": 79,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Orthodox Cathedral Prešov",
+            "Rákoci Palace"
+          ]
+        },
+        {
+          "name": "Prešov Town Hall",
+          "wiki_title": "Main Street (Prešov",
+          "lat": 48.9984,
+          "lng": 21.2408,
+          "order_index": 9,
+          "description": "An elegant administrative building holding a vital place in modern Czechoslovak political history.",
+          "seo_phrase": "Prešov Town Hall: Historic Civic Seat & Wine Museum",
+          "seo_keywords": [
+            "Prešov Town Hall",
+            "Wine Museum",
+            "Slovak Soviet Republic",
+            "Baroque Classicist",
+            "civic architecture"
+          ],
+          "commons_file": "Mestsky urad Presov 1.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Mestsky_urad_Presov_1.jpg",
+          "seo_priority": 77,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Nicholas Concathedral",
+            "Caraffa Gallery"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Žilina",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Žilina",
+      "seo": {
+        "title": "Top 10 Things to Do in Žilina, Slovakia",
+        "description": "Discover 10 must-see landmarks in Žilina, Slovakia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Žilina? Explore the best places to visit in Žilina, Slovakia.",
+        "keywords": [
+          "things to do in Žilina",
+          "Žilina Slovakia travel guide",
+          "best places to visit in Žilina",
+          "Žilina landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "New Synagogue Žilina",
+          "wiki_title": "New Synagogue (Žilina",
+          "lat": 49.2217,
+          "lng": 18.7392,
+          "order_index": 0,
+          "description": "A world-renowned avant-garde Functionalist synagogue turned into a progressive contemporary art center.",
+          "seo_phrase": "New Synagogue Žilina: Peter Behrens Functionalist Art Center",
+          "seo_keywords": [
+            "New Synagogue Žilina",
+            "Peter Behrens",
+            "Functionalist architecture",
+            "modernist dome",
+            "contemporary art space"
+          ],
+          "commons_file": "Nova synagoga Zilina.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Nova_synagoga_Zilina.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Rosenfeld Palace",
+            "Mariánske Námestie"
+          ]
+        },
+        {
+          "name": "Mariánske Námestie",
+          "wiki_title": "Mariánske námestie",
+          "lat": 49.2231,
+          "lng": 18.7394,
+          "order_index": 1,
+          "description": "A historic square characterized by a continuous ring of medieval arcade houses.",
+          "seo_phrase": "Mariánske Námestie Žilina: The Square of Arcades Guide",
+          "seo_keywords": [
+            "Marianske namestie",
+            "Žilina square",
+            "medieval arcades",
+            "laubne townhouses",
+            "urban conservation area"
+          ],
+          "commons_file": "Zilina Marianske namestie.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Zilina_Marianske_namestie.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church of the Holy Trinity",
+            "Burian's Tower"
+          ]
+        },
+        {
+          "name": "Budatín Castle",
+          "wiki_title": "Budatín Castle",
+          "lat": 49.2364,
+          "lng": 18.7339,
+          "order_index": 2,
+          "description": "A picturesque historic castle nestled inside a sprawling English landscape park.",
+          "seo_phrase": "Budatín Castle Žilina: Tinker Art Museum & Historic Park",
+          "seo_keywords": [
+            "Budatín Castle",
+            "Povazie Museum",
+            "wirework art",
+            "drotarstvo craft",
+            "English park Žilina"
+          ],
+          "commons_file": "Budatinsky zamok Zilina.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Budatinsky_zamok_Zilina.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Považie Gallery Žilina",
+            "Mariánske Námestie"
+          ]
+        },
+        {
+          "name": "Rosenfeld Palace",
+          "wiki_title": "Žilina",
+          "lat": 49.2222,
+          "lng": 18.7422,
+          "order_index": 3,
+          "description": "An opulent Art Nouveau palace considered the most decorative historical residence in Žilina.",
+          "seo_phrase": "Rosenfeld Palace Žilina: Art Nouveau Architectural Jewel",
+          "seo_keywords": [
+            "Rosenfeld Palace",
+            "Žilina Art Nouveau",
+            "Isidor Rosenfeld",
+            "Secessionist style",
+            "Puppet museum"
+          ],
+          "commons_file": "Rosenfeldov palác.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Rosenfeldov_pal%C3%A1c.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "New Synagogue Žilina",
+            "Mariánske Námestie"
+          ]
+        },
+        {
+          "name": "Church of the Holy Trinity",
+          "wiki_title": "Church of the Holy Trinity, Žilina",
+          "lat": 49.2238,
+          "lng": 18.7397,
+          "order_index": 4,
+          "description": "A historic Roman Catholic cathedral rising on a terrace over the city center.",
+          "seo_phrase": "Church of the Holy Trinity Žilina: Renaissance Cathedral",
+          "seo_keywords": [
+            "Holy Trinity Žilina",
+            "Žilina Cathedral",
+            "Renaissance church",
+            "historic staircases slovakia",
+            "sacred architecture"
+          ],
+          "commons_file": "Kostol Najsvätejšej Trojice Žilina.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Kostol_Najsv%C3%A4tej%C5%A1ej_Trojice_%C5%BDilina.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Burian's Tower",
+            "Mariánske Námestie"
+          ]
+        },
+        {
+          "name": "Burian's Tower",
+          "wiki_title": "Burian's Tower",
+          "lat": 49.2239,
+          "lng": 18.7394,
+          "order_index": 5,
+          "description": "A striking 46-meter-high independent Renaissance bell tower.",
+          "seo_phrase": "Burian's Tower Žilina: Renaissance Bell Campanile",
+          "seo_keywords": [
+            "Burian's Tower",
+            "Žilina campanile",
+            "Renaissance watchtower",
+            "Burian Svetlovsky",
+            "panoramic views"
+          ],
+          "commons_file": "Burianova veza Žilina 2.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Burianova_veza_%C5%BDilina_2.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Church of the Holy Trinity",
+            "Mariánske Námestie"
+          ]
+        },
+        {
+          "name": "Košice",
+          "wiki_title": "Košice",
+          "lat": 48.71666667,
+          "lng": 21.25,
+          "order_index": 6,
+          "description": "Košice — a notable landmark in Žilina, Slovakia.",
+          "seo_phrase": "Košice",
+          "seo_keywords": [
+            "Žilina",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Dóm svätej Alžbety.jpg/800px-Dóm svätej Alžbety.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/D%C3%B3m_sv%C3%A4tej_Al%C5%BEbety.jpg/800px-D%C3%B3m_sv%C3%A4tej_Al%C5%BEbety.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Žilina",
+          "wiki_title": "Žilina",
+          "lat": 49.22277778,
+          "lng": 18.74,
+          "order_index": 7,
+          "description": "Žilina — a notable landmark in Žilina, Slovakia.",
+          "seo_phrase": "Žilina",
+          "seo_keywords": [
+            "Žilina",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Katedrála Najsvätejšej Trojice Zilina 6SM.jpg/800px-Katedrála Najsvätejšej Trojice Zilina 6SM.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Katedr%C3%A1la_Najsv%C3%A4tej%C5%A1ej_Trojice_Zilina_6SM.jpg/800px-Katedr%C3%A1la_Najsv%C3%A4tej%C5%A1ej_Trojice_Zilina_6SM.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Banská Bystrica",
+          "wiki_title": "Banská Bystrica",
+          "lat": 48.73527778,
+          "lng": 19.14527778,
+          "order_index": 8,
+          "description": "Banská Bystrica — a notable landmark in Žilina, Slovakia.",
+          "seo_phrase": "Banská Bystrica",
+          "seo_keywords": [
+            "Žilina",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Banska Bystrica SNP Square.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Banska_Bystrica_SNP_Square.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Trnava",
+          "wiki_title": "Trnava",
+          "lat": 48.3775,
+          "lng": 17.58833333,
+          "order_index": 9,
+          "description": "Trnava — a notable landmark in Žilina, Slovakia.",
+          "seo_phrase": "Trnava",
+          "seo_keywords": [
+            "Žilina",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Trojičné námestie.jpg/800px-Trojičné námestie.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Troji%C4%8Dn%C3%A9_n%C3%A1mestie.jpg/800px-Troji%C4%8Dn%C3%A9_n%C3%A1mestie.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Nitra",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Nitra",
+      "seo": {
+        "title": "Top 10 Things to Do in Nitra, Slovakia",
+        "description": "Discover 10 must-see landmarks in Nitra, Slovakia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Nitra? Explore the best places to visit in Nitra, Slovakia.",
+        "keywords": [
+          "things to do in Nitra",
+          "Nitra Slovakia travel guide",
+          "best places to visit in Nitra",
+          "Nitra landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Moravia",
+          "wiki_title": "Moravia",
+          "lat": 49.5,
+          "lng": 17,
+          "order_index": 0,
+          "description": "Moravia — a notable landmark in Nitra, Slovakia.",
+          "seo_phrase": "Moravia",
+          "seo_keywords": [
+            "Nitra",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Overview of Mikulov from Svatý Kopeček 2020 02.jpg/800px-Overview of Mikulov from Svatý Kopeček 2020 02.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Overview_of_Mikulov_from_Svat%C3%BD_Kope%C4%8Dek_2020_02.jpg/800px-Overview_of_Mikulov_from_Svat%C3%BD_Kope%C4%8Dek_2020_02.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Nitra",
+          "wiki_title": "Nitra",
+          "lat": 48.30694444,
+          "lng": 18.08638889,
+          "order_index": 1,
+          "description": "Nitra — a notable landmark in Nitra, Slovakia.",
+          "seo_phrase": "Nitra",
+          "seo_keywords": [
+            "Nitra",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Nitra - St. Emmeram's Cathedral.jpg/800px-Nitra - St. Emmeram's Cathedral.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nitra_-_St._Emmeram%27s_Cathedral.jpg/800px-Nitra_-_St._Emmeram%27s_Cathedral.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "St. Emmeram's Cathedral",
+          "wiki_title": "St. Emmeram's Cathedral, Nitra",
+          "lat": 48.31844,
+          "lng": 18.0871,
+          "order_index": 2,
+          "description": "St. Emmeram's Cathedral, Nitra — a notable landmark in Nitra, Slovakia.",
+          "seo_phrase": "St. Emmeram's Cathedral",
+          "seo_keywords": [
+            "Nitra",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Nitra, Kostol.jpg/800px-Nitra, Kostol.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nitra%2C_Kostol.jpg/800px-Nitra%2C_Kostol.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Diakovce",
+          "wiki_title": "Diakovce",
+          "lat": 48.13,
+          "lng": 17.84,
+          "order_index": 3,
+          "description": "Diakovce — a notable landmark in Nitra, Slovakia.",
+          "seo_phrase": "Diakovce",
+          "seo_keywords": [
+            "Nitra",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Deáki templom 1.JPG/800px-Deáki templom 1.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/De%C3%A1ki_templom_1.JPG/800px-De%C3%A1ki_templom_1.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Oponice",
+          "wiki_title": "Oponice",
+          "lat": 48.47,
+          "lng": 18.15,
+          "order_index": 4,
+          "description": "Oponice — a notable landmark in Nitra, Slovakia.",
+          "seo_phrase": "Oponice",
+          "seo_keywords": [
+            "Nitra",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Hrad Oponice 2.jpg/800px-Hrad Oponice 2.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Hrad_Oponice_2.jpg/800px-Hrad_Oponice_2.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Archdiocese of Bratislava",
+          "wiki_title": "Archdiocese of Bratislava",
+          "lat": 48.142,
+          "lng": 17.1049,
+          "order_index": 5,
+          "description": "Archdiocese of Bratislava — a notable landmark in Nitra, Slovakia.",
+          "seo_phrase": "Archdiocese of Bratislava",
+          "seo_keywords": [
+            "Nitra",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Bratislava-Dom-sv-Martina.jpg/800px-Bratislava-Dom-sv-Martina.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bratislava-Dom-sv-Martina.jpg/800px-Bratislava-Dom-sv-Martina.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Diocese of Nitra",
+          "wiki_title": "Diocese of Nitra",
+          "lat": 48.318425,
+          "lng": 18.087084,
+          "order_index": 6,
+          "description": "Diocese of Nitra — a notable landmark in Nitra, Slovakia.",
+          "seo_phrase": "Diocese of Nitra",
+          "seo_keywords": [
+            "Nitra",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Nitra - St. Emmeram's Cathedral.jpg/800px-Nitra - St. Emmeram's Cathedral.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nitra_-_St._Emmeram%27s_Cathedral.jpg/800px-Nitra_-_St._Emmeram%27s_Cathedral.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Nitra Castle",
+          "wiki_title": "Nitra Castle",
+          "lat": 48.31833333,
+          "lng": 18.08638889,
+          "order_index": 7,
+          "description": "Nitra Castle — a notable landmark in Nitra, Slovakia.",
+          "seo_phrase": "Nitra Castle",
+          "seo_keywords": [
+            "Nitra",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Nitriansky hrad.jpg/800px-Nitriansky hrad.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Nitriansky_hrad.jpg/800px-Nitriansky_hrad.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Bratislava",
+          "wiki_title": "Bratislava",
+          "lat": 48.14388889,
+          "lng": 17.10972222,
+          "order_index": 8,
+          "description": "Bratislava — a notable landmark in Nitra, Slovakia.",
+          "seo_phrase": "Bratislava",
+          "seo_keywords": [
+            "Nitra",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Slovakia bratislava.jpg/800px-Slovakia bratislava.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Slovakia_bratislava.jpg/800px-Slovakia_bratislava.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Bojnice",
+          "wiki_title": "Bojnice",
+          "lat": 48.78,
+          "lng": 18.58,
+          "order_index": 9,
+          "description": "Bojnice — a notable landmark in Nitra, Slovakia.",
+          "seo_phrase": "Bojnice",
+          "seo_keywords": [
+            "Nitra",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Slovakia Bojnice (The photo is made of a glider \"Duo Discus xlt\") (8698340484).jpg/800px-Slovakia Bojnice (The photo is made of a glider \"Duo Discus xlt\") (8698340484).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Slovakia_Bojnice_%28The_photo_is_made_of_a_glider_%22Duo_Discus_xlt%22%29_%288698340484%29.jpg/800px-Slovakia_Bojnice_%28The_photo_is_made_of_a_glider_%22Duo_Discus_xlt%22%29_%288698340484%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Banská Bystrica",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Banská Bystrica",
+      "seo": {
+        "title": "Top 10 Things to Do in Banská Bystrica, Slovakia",
+        "description": "Discover 10 must-see landmarks in Banská Bystrica, Slovakia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Banská Bystrica? Explore the best places to visit in Banská Bystrica, Slovakia.",
+        "keywords": [
+          "things to do in Banská Bystrica",
+          "Banská Bystrica Slovakia travel guide",
+          "best places to visit in Banská Bystrica",
+          "Banská Bystrica landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Zvolen",
+          "wiki_title": "Zvolen",
+          "lat": 48.57055556,
+          "lng": 19.1175,
+          "order_index": 0,
+          "description": "Zvolen — a notable landmark in Banská Bystrica, Slovakia.",
+          "seo_phrase": "Zvolen",
+          "seo_keywords": [
+            "Banská Bystrica",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Zvolen (Zólyom, Altsohl) - city center.jpg/800px-Zvolen (Zólyom, Altsohl) - city center.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Zvolen_%28Z%C3%B3lyom%2C_Altsohl%29_-_city_center.jpg/800px-Zvolen_%28Z%C3%B3lyom%2C_Altsohl%29_-_city_center.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Banská Štiavnica",
+          "wiki_title": "Banská Štiavnica",
+          "lat": 48.45805556,
+          "lng": 18.89638889,
+          "order_index": 1,
+          "description": "Banská Štiavnica — a notable landmark in Banská Bystrica, Slovakia.",
+          "seo_phrase": "Banská Štiavnica",
+          "seo_keywords": [
+            "Banská Bystrica",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "SK BS Trinity Square.PNG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/SK_BS_Trinity_Square.PNG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Žiar nad Hronom",
+          "wiki_title": "Žiar nad Hronom",
+          "lat": 48.58,
+          "lng": 18.86,
+          "order_index": 2,
+          "description": "Žiar nad Hronom — a notable landmark in Banská Bystrica, Slovakia.",
+          "seo_phrase": "Žiar nad Hronom",
+          "seo_keywords": [
+            "Banská Bystrica",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Žiar nad Hronom2.JPG/800px-Žiar nad Hronom2.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/%C5%BDiar_nad_Hronom2.JPG/800px-%C5%BDiar_nad_Hronom2.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Revúca",
+          "wiki_title": "Revúca",
+          "lat": 48.68,
+          "lng": 20.11,
+          "order_index": 3,
+          "description": "Revúca — a notable landmark in Banská Bystrica, Slovakia.",
+          "seo_phrase": "Revúca",
+          "seo_keywords": [
+            "Banská Bystrica",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Revúca, hlavní silnice.jpg/800px-Revúca, hlavní silnice.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Rev%C3%BAca%2C_hlavn%C3%AD_silnice.jpg/800px-Rev%C3%BAca%2C_hlavn%C3%AD_silnice.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Ilija",
+          "wiki_title": "Ilija, Slovakia",
+          "lat": 48.41666667,
+          "lng": 18.9,
+          "order_index": 4,
+          "description": "Ilija, Slovakia — a notable landmark in Banská Bystrica, Slovakia.",
+          "seo_phrase": "Ilija",
+          "seo_keywords": [
+            "Banská Bystrica",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Ilija - Roman catolic church.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Ilija_-_Roman_catolic_church.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Bzovík",
+          "wiki_title": "Bzovík",
+          "lat": 48.32,
+          "lng": 19.09,
+          "order_index": 5,
+          "description": "Bzovík — a notable landmark in Banská Bystrica, Slovakia.",
+          "seo_phrase": "Bzovík",
+          "seo_keywords": [
+            "Banská Bystrica",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Bzovík2.JPG/800px-Bzovík2.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bzov%C3%ADk2.JPG/800px-Bzov%C3%ADk2.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Divín",
+          "wiki_title": "Divín",
+          "lat": 48.45,
+          "lng": 19.53,
+          "order_index": 6,
+          "description": "Divín — a notable landmark in Banská Bystrica, Slovakia.",
+          "seo_phrase": "Divín",
+          "seo_keywords": [
+            "Banská Bystrica",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Divín - Námestie mieru (2).jpg/800px-Divín - Námestie mieru (2).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Div%C3%ADn_-_N%C3%A1mestie_mieru_%282%29.jpg/800px-Div%C3%ADn_-_N%C3%A1mestie_mieru_%282%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Dubovec",
+          "wiki_title": "Dubovec, Slovakia",
+          "lat": 48.28333333,
+          "lng": 20.16666667,
+          "order_index": 7,
+          "description": "Dubovec, Slovakia — a notable landmark in Banská Bystrica, Slovakia.",
+          "seo_phrase": "Dubovec",
+          "seo_keywords": [
+            "Banská Bystrica",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Dubovec - Obecný úrad.jpg/800px-Dubovec - Obecný úrad.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Dubovec_-_Obecn%C3%BD_%C3%BArad.jpg/800px-Dubovec_-_Obecn%C3%BD_%C3%BArad.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Badín",
+          "wiki_title": "Badín",
+          "lat": 48.67,
+          "lng": 19.11,
+          "order_index": 8,
+          "description": "Badín — a notable landmark in Banská Bystrica, Slovakia.",
+          "seo_phrase": "Badín",
+          "seo_keywords": [
+            "Banská Bystrica",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Kostol sv.Kataríny Alexandrijskej z 13. alebo zač.14.st.jpg/800px-Kostol sv.Kataríny Alexandrijskej z 13. alebo zač.14.st.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kostol_sv.Katar%C3%ADny_Alexandrijskej_z_13._alebo_za%C4%8D.14.st.jpg/800px-Kostol_sv.Katar%C3%ADny_Alexandrijskej_z_13._alebo_za%C4%8D.14.st.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Čerín",
+          "wiki_title": "Čerín",
+          "lat": 48.67,
+          "lng": 19.25,
+          "order_index": 9,
+          "description": "Čerín — a notable landmark in Banská Bystrica, Slovakia.",
+          "seo_phrase": "Čerín",
+          "seo_keywords": [
+            "Banská Bystrica",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "601-36-1 601-36-2 601-36-3 9913Gotický kostol sv. Martina.jpg/800px-601-36-1 601-36-2 601-36-3 9913Gotický kostol sv. Martina.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/601-36-1_601-36-2_601-36-3_9913Gotick%C3%BD_kostol_sv._Martina.jpg/800px-601-36-1_601-36-2_601-36-3_9913Gotick%C3%BD_kostol_sv._Martina.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Trnava",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Trnava",
+      "seo": {
+        "title": "Top 10 Things to Do in Trnava, Slovakia",
+        "description": "Discover 10 must-see landmarks in Trnava, Slovakia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Trnava? Explore the best places to visit in Trnava, Slovakia.",
+        "keywords": [
+          "things to do in Trnava",
+          "Trnava Slovakia travel guide",
+          "best places to visit in Trnava",
+          "Trnava landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "St Martin's Cathedral",
+          "wiki_title": "St Martin's Cathedral, Bratislava",
+          "lat": 48.14213889,
+          "lng": 17.10477778,
+          "order_index": 0,
+          "description": "St Martin's Cathedral, Bratislava — a notable landmark in Trnava, Slovakia.",
+          "seo_phrase": "St Martin's Cathedral",
+          "seo_keywords": [
+            "Trnava",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Catedral de San Martín, Bratislava, Eslovaquia, 2020-02-01, DD 48.jpg/800px-Catedral de San Martín, Bratislava, Eslovaquia, 2020-02-01, DD 48.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Catedral_de_San_Mart%C3%ADn%2C_Bratislava%2C_Eslovaquia%2C_2020-02-01%2C_DD_48.jpg/800px-Catedral_de_San_Mart%C3%ADn%2C_Bratislava%2C_Eslovaquia%2C_2020-02-01%2C_DD_48.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Cathedral of St. Elizabeth",
+          "wiki_title": "Cathedral of St. Elizabeth",
+          "lat": 48.72022222,
+          "lng": 21.25810556,
+          "order_index": 1,
+          "description": "Cathedral of St. Elizabeth — a notable landmark in Trnava, Slovakia.",
+          "seo_phrase": "Cathedral of St. Elizabeth",
+          "seo_keywords": [
+            "Trnava",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "St Elisabeth Cathedral Kosice.jpeg/800px-St Elisabeth Cathedral Kosice.jpeg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/St_Elisabeth_Cathedral_Kosice.jpeg/800px-St_Elisabeth_Cathedral_Kosice.jpeg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Archdiocese of Košice",
+          "wiki_title": "Archdiocese of Košice",
+          "lat": 48.7203,
+          "lng": 21.2582,
+          "order_index": 2,
+          "description": "Archdiocese of Košice — a notable landmark in Trnava, Slovakia.",
+          "seo_phrase": "Archdiocese of Košice",
+          "seo_keywords": [
+            "Trnava",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Kosice (Slovakia) - St. Elizabeth's Catedral 2.jpg/800px-Kosice (Slovakia) - St. Elizabeth's Catedral 2.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kosice_%28Slovakia%29_-_St._Elizabeth%27s_Catedral_2.jpg/800px-Kosice_%28Slovakia%29_-_St._Elizabeth%27s_Catedral_2.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Archdiocese of Trnava",
+          "wiki_title": "Archdiocese of Trnava",
+          "lat": 48.3804,
+          "lng": 17.5883,
+          "order_index": 3,
+          "description": "Archdiocese of Trnava — a notable landmark in Trnava, Slovakia.",
+          "seo_phrase": "Archdiocese of Trnava",
+          "seo_keywords": [
+            "Trnava",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Trnava john the baptist 02.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Trnava_john_the_baptist_02.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "St. John the Baptist Cathedral (Trnava)",
+          "wiki_title": "St. John the Baptist Cathedral (Trnava",
+          "lat": 48.3806,
+          "lng": 17.5883,
+          "order_index": 4,
+          "description": "St. John the Baptist Cathedral (Trnava) — a notable landmark in Trnava, Slovakia.",
+          "seo_phrase": "St. John the Baptist Cathedral (Trnava)",
+          "seo_keywords": [
+            "Trnava",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Trnava john the baptist 02.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Trnava_john_the_baptist_02.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Saint Nicolas Church",
+          "wiki_title": "Saint Nicolas Church, Trnava",
+          "lat": 48.37888889,
+          "lng": 17.59222222,
+          "order_index": 5,
+          "description": "Saint Nicolas Church, Trnava — a notable landmark in Trnava, Slovakia.",
+          "seo_phrase": "Saint Nicolas Church",
+          "seo_keywords": [
+            "Trnava",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Trnava bazilika 02.jpg/800px-Trnava bazilika 02.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Trnava_bazilika_02.jpg/800px-Trnava_bazilika_02.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "St. Sebastian's Cathedral",
+          "wiki_title": "St. Sebastian's Cathedral, Bratislava",
+          "lat": 48.19583333,
+          "lng": 17.14305556,
+          "order_index": 6,
+          "description": "St. Sebastian's Cathedral, Bratislava — a notable landmark in Trnava, Slovakia.",
+          "seo_phrase": "St. Sebastian's Cathedral",
+          "seo_keywords": [
+            "Trnava",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Katedrála svätého Šebastiána 01.jpg/800px-Katedrála svätého Šebastiána 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Katedr%C3%A1la_sv%C3%A4t%C3%A9ho_%C5%A0ebasti%C3%A1na_01.jpg/800px-Katedr%C3%A1la_sv%C3%A4t%C3%A9ho_%C5%A0ebasti%C3%A1na_01.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Galanta",
+          "wiki_title": "Galanta",
+          "lat": 48.19,
+          "lng": 17.73,
+          "order_index": 7,
+          "description": "Galanta — a notable landmark in Trnava, Slovakia.",
+          "seo_phrase": "Galanta",
+          "seo_keywords": [
+            "Trnava",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Galantský opevnený kaštieľ II (rt-008).JPG/800px-Galantský opevnený kaštieľ II (rt-008).JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Galantsk%C3%BD_opevnen%C3%BD_ka%C5%A1tie%C4%BE_II_%28rt-008%29.JPG/800px-Galantsk%C3%BD_opevnen%C3%BD_ka%C5%A1tie%C4%BE_II_%28rt-008%29.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Katarínka",
+          "wiki_title": "Katarínka",
+          "lat": 48.555,
+          "lng": 17.53555556,
+          "order_index": 8,
+          "description": "Katarínka — a notable landmark in Trnava, Slovakia.",
+          "seo_phrase": "Katarínka",
+          "seo_keywords": [
+            "Trnava",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Katarinka 2007.jpg/800px-Katarinka 2007.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Katarinka_2007.jpg/800px-Katarinka_2007.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Vrbové",
+          "wiki_title": "Vrbové",
+          "lat": 48.62,
+          "lng": 17.72,
+          "order_index": 9,
+          "description": "Vrbové — a notable landmark in Trnava, Slovakia.",
+          "seo_phrase": "Vrbové",
+          "seo_keywords": [
+            "Trnava",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Vrbove city centre.jpg/800px-Vrbove city centre.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Vrbove_city_centre.jpg/800px-Vrbove_city_centre.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Trenčín",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Trenčín",
+      "seo": {
+        "title": "Top 10 Things to Do in Trenčín, Slovakia",
+        "description": "Discover 10 must-see landmarks in Trenčín, Slovakia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Trenčín? Explore the best places to visit in Trenčín, Slovakia.",
+        "keywords": [
+          "things to do in Trenčín",
+          "Trenčín Slovakia travel guide",
+          "best places to visit in Trenčín",
+          "Trenčín landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Trenčín",
+          "wiki_title": "Trenčín",
+          "lat": 48.89194444,
+          "lng": 18.03666667,
+          "order_index": 0,
+          "description": "Trenčín — a notable landmark in Trenčín, Slovakia.",
+          "seo_phrase": "Trenčín",
+          "seo_keywords": [
+            "Trenčín",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Trencin hdr 001.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Trencin_hdr_001.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Čachtice",
+          "wiki_title": "Čachtice",
+          "lat": 48.72,
+          "lng": 17.78,
+          "order_index": 1,
+          "description": "Čachtice — a notable landmark in Trenčín, Slovakia.",
+          "seo_phrase": "Čachtice",
+          "seo_keywords": [
+            "Trenčín",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Cachtice z Velkeho Plesivca.jpg/800px-Cachtice z Velkeho Plesivca.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cachtice_z_Velkeho_Plesivca.jpg/800px-Cachtice_z_Velkeho_Plesivca.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Dubnica nad Váhom",
+          "wiki_title": "Dubnica nad Váhom",
+          "lat": 48.96,
+          "lng": 18.17,
+          "order_index": 2,
+          "description": "Dubnica nad Váhom — a notable landmark in Trenčín, Slovakia.",
+          "seo_phrase": "Dubnica nad Váhom",
+          "seo_keywords": [
+            "Trenčín",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Dubnica nad Váhom 20.02.2011 14-46-29.JPG/800px-Dubnica nad Váhom 20.02.2011 14-46-29.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dubnica_nad_V%C3%A1hom_20.02.2011_14-46-29.JPG/800px-Dubnica_nad_V%C3%A1hom_20.02.2011_14-46-29.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Šariš Castle",
+          "wiki_title": "Šariš Castle",
+          "lat": 49.0525,
+          "lng": 21.17611111,
+          "order_index": 3,
+          "description": "Šariš Castle — a notable landmark in Trenčín, Slovakia.",
+          "seo_phrase": "Šariš Castle",
+          "seo_keywords": [
+            "Trenčín",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "BuildingCastleWMPSaris13Slovakia39.JPG/800px-BuildingCastleWMPSaris13Slovakia39.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/BuildingCastleWMPSaris13Slovakia39.JPG/800px-BuildingCastleWMPSaris13Slovakia39.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Bánovce nad Bebravou",
+          "wiki_title": "Bánovce nad Bebravou",
+          "lat": 48.72,
+          "lng": 18.26,
+          "order_index": 4,
+          "description": "Bánovce nad Bebravou — a notable landmark in Trenčín, Slovakia.",
+          "seo_phrase": "Bánovce nad Bebravou",
+          "seo_keywords": [
+            "Trenčín",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Banovce kostol.jpg/800px-Banovce kostol.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Banovce_kostol.jpg/800px-Banovce_kostol.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Stará Turá",
+          "wiki_title": "Stará Turá",
+          "lat": 48.78,
+          "lng": 17.7,
+          "order_index": 5,
+          "description": "Stará Turá — a notable landmark in Trenčín, Slovakia.",
+          "seo_phrase": "Stará Turá",
+          "seo_keywords": [
+            "Trenčín",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Stara tura kostol.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Stara_tura_kostol.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Trenčín Castle",
+          "wiki_title": "Trenčín Castle",
+          "lat": 48.894167,
+          "lng": 18.044722,
+          "order_index": 6,
+          "description": "Trenčín Castle — a notable landmark in Trenčín, Slovakia.",
+          "seo_phrase": "Trenčín Castle",
+          "seo_keywords": [
+            "Trenčín",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Trencin Castle 030.jpg/800px-Trencin Castle 030.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Trencin_Castle_030.jpg/800px-Trencin_Castle_030.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Strečno Castle",
+          "wiki_title": "Strečno Castle",
+          "lat": 49.17694444,
+          "lng": 18.86277778,
+          "order_index": 7,
+          "description": "Strečno Castle — a notable landmark in Trenčín, Slovakia.",
+          "seo_phrase": "Strečno Castle",
+          "seo_keywords": [
+            "Trenčín",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Strecno1.jpg/800px-Strecno1.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Strecno1.jpg/800px-Strecno1.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Červený Kameň Castle",
+          "wiki_title": "Červený Kameň Castle",
+          "lat": 48.39166667,
+          "lng": 17.33527778,
+          "order_index": 8,
+          "description": "Červený Kameň Castle — a notable landmark in Trenčín, Slovakia.",
+          "seo_phrase": "Červený Kameň Castle",
+          "seo_keywords": [
+            "Trenčín",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Cerveny Kamen z Kukly 02.jpg/800px-Cerveny Kamen z Kukly 02.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Cerveny_Kamen_z_Kukly_02.jpg/800px-Cerveny_Kamen_z_Kukly_02.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Battle of Trenčín",
+          "wiki_title": "Battle of Trenčín",
+          "lat": 48.85668194,
+          "lng": 18.011055,
+          "order_index": 9,
+          "description": "Battle of Trenčín — a notable landmark in Trenčín, Slovakia.",
+          "seo_phrase": "Battle of Trenčín",
+          "seo_keywords": [
+            "Trenčín",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "TN battle memorial.JPG/800px-TN battle memorial.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TN_battle_memorial.JPG/800px-TN_battle_memorial.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Poprad",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Poprad",
+      "seo": {
+        "title": "Top 10 Things to Do in Poprad, Slovakia",
+        "description": "Discover 10 must-see landmarks in Poprad, Slovakia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Poprad? Explore the best places to visit in Poprad, Slovakia.",
+        "keywords": [
+          "things to do in Poprad",
+          "Poprad Slovakia travel guide",
+          "best places to visit in Poprad",
+          "Poprad landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Levoča",
+          "wiki_title": "Levoča",
+          "lat": 49.03,
+          "lng": 20.59,
+          "order_index": 0,
+          "description": "Levoča — a notable landmark in Poprad, Slovakia.",
+          "seo_phrase": "Levoča",
+          "seo_keywords": [
+            "Poprad",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Leutschau - Rathaus und Dom.jpg/800px-Leutschau - Rathaus und Dom.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Leutschau_-_Rathaus_und_Dom.jpg/800px-Leutschau_-_Rathaus_und_Dom.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Kežmarok",
+          "wiki_title": "Kežmarok",
+          "lat": 49.13,
+          "lng": 20.43,
+          "order_index": 1,
+          "description": "Kežmarok — a notable landmark in Poprad, Slovakia.",
+          "seo_phrase": "Kežmarok",
+          "seo_keywords": [
+            "Poprad",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Kezmarok11.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kezmarok11.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Stará Ľubovňa",
+          "wiki_title": "Stará Ľubovňa",
+          "lat": 49.31,
+          "lng": 20.68,
+          "order_index": 2,
+          "description": "Stará Ľubovňa — a notable landmark in Poprad, Slovakia.",
+          "seo_phrase": "Stará Ľubovňa",
+          "seo_keywords": [
+            "Poprad",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Castle of Lubovna and museum of slovak village.jpg/800px-Castle of Lubovna and museum of slovak village.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Castle_of_Lubovna_and_museum_of_slovak_village.jpg/800px-Castle_of_Lubovna_and_museum_of_slovak_village.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Pohorelá",
+          "wiki_title": "Pohorelá",
+          "lat": 48.87,
+          "lng": 20.02,
+          "order_index": 3,
+          "description": "Pohorelá — a notable landmark in Poprad, Slovakia.",
+          "seo_phrase": "Pohorelá",
+          "seo_keywords": [
+            "Poprad",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Pohorela church.jpg/800px-Pohorela church.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Pohorela_church.jpg/800px-Pohorela_church.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Gánovce",
+          "wiki_title": "Gánovce",
+          "lat": 49.03,
+          "lng": 20.32,
+          "order_index": 4,
+          "description": "Gánovce — a notable landmark in Poprad, Slovakia.",
+          "seo_phrase": "Gánovce",
+          "seo_keywords": [
+            "Poprad",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Gánovce 16 Slovakia7.jpg/800px-Gánovce 16 Slovakia7.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/G%C3%A1novce_16_Slovakia7.jpg/800px-G%C3%A1novce_16_Slovakia7.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Podolínec",
+          "wiki_title": "Podolínec",
+          "lat": 49.26,
+          "lng": 20.53,
+          "order_index": 5,
+          "description": "Podolínec — a notable landmark in Poprad, Slovakia.",
+          "seo_phrase": "Podolínec",
+          "seo_keywords": [
+            "Poprad",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Podoliniec ratusz.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Podoliniec_ratusz.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Ľubovňa Castle",
+          "wiki_title": "Ľubovňa Castle",
+          "lat": 49.31521944,
+          "lng": 20.69941111,
+          "order_index": 6,
+          "description": "Ľubovňa Castle — a notable landmark in Poprad, Slovakia.",
+          "seo_phrase": "Ľubovňa Castle",
+          "seo_keywords": [
+            "Poprad",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Ľubovňa Castle S1.jpg/800px-Ľubovňa Castle S1.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/%C4%BDubov%C5%88a_Castle_S1.jpg/800px-%C4%BDubov%C5%88a_Castle_S1.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Poprad",
+          "wiki_title": "Poprad",
+          "lat": 49.05944444,
+          "lng": 20.2975,
+          "order_index": 7,
+          "description": "Poprad — a notable landmark in Poprad, Slovakia.",
+          "seo_phrase": "Poprad",
+          "seo_keywords": [
+            "Poprad",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Poprad centrum 01.JPG/800px-Poprad centrum 01.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Poprad_centrum_01.JPG/800px-Poprad_centrum_01.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Svit",
+          "wiki_title": "Svit",
+          "lat": 49.07,
+          "lng": 20.19,
+          "order_index": 8,
+          "description": "Svit — a notable landmark in Poprad, Slovakia.",
+          "seo_phrase": "Svit",
+          "seo_keywords": [
+            "Poprad",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Svit (Slovakia).JPG/800px-Svit (Slovakia).JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Svit_%28Slovakia%29.JPG/800px-Svit_%28Slovakia%29.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Wooden churches of the Slovak Carpathians",
+          "wiki_title": "Wooden churches of the Slovak Carpathians",
+          "lat": 49.33611111,
+          "lng": 19.55833333,
+          "order_index": 9,
+          "description": "Wooden churches of the Slovak Carpathians — a notable landmark in Poprad, Slovakia.",
+          "seo_phrase": "Wooden churches of the Slovak Carpathians",
+          "seo_keywords": [
+            "Poprad",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Hronsek - Drevený artikulárny kostol - 02.jpg/800px-Hronsek - Drevený artikulárny kostol - 02.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hronsek_-_Dreven%C3%BD_artikul%C3%A1rny_kostol_-_02.jpg/800px-Hronsek_-_Dreven%C3%BD_artikul%C3%A1rny_kostol_-_02.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Piešťany",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Piešťany",
+      "seo": {
+        "title": "Top 10 Things to Do in Piešťany, Slovakia",
+        "description": "Discover 10 must-see landmarks in Piešťany, Slovakia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Piešťany? Explore the best places to visit in Piešťany, Slovakia.",
+        "keywords": [
+          "things to do in Piešťany",
+          "Piešťany Slovakia travel guide",
+          "best places to visit in Piešťany",
+          "Piešťany landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Piešťany",
+          "wiki_title": "Piešťany",
+          "lat": 48.58,
+          "lng": 17.83,
+          "order_index": 0,
+          "description": "Piešťany — a notable landmark in Piešťany, Slovakia.",
+          "seo_phrase": "Piešťany",
+          "seo_keywords": [
+            "Piešťany",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Mesto z výšky 1 - panoramio.jpg/800px-Mesto z výšky 1 - panoramio.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mesto_z_v%C3%BD%C5%A1ky_1_-_panoramio.jpg/800px-Mesto_z_v%C3%BD%C5%A1ky_1_-_panoramio.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Nové Mesto nad Váhom",
+          "wiki_title": "Nové Mesto nad Váhom",
+          "lat": 48.75,
+          "lng": 17.83,
+          "order_index": 1,
+          "description": "Nové Mesto nad Váhom — a notable landmark in Piešťany, Slovakia.",
+          "seo_phrase": "Nové Mesto nad Váhom",
+          "seo_keywords": [
+            "Piešťany",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Nové Mesto nad Váhom, kostol, Slovensko.jpg/800px-Nové Mesto nad Váhom, kostol, Slovensko.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nov%C3%A9_Mesto_nad_V%C3%A1hom%2C_kostol%2C_Slovensko.jpg/800px-Nov%C3%A9_Mesto_nad_V%C3%A1hom%2C_kostol%2C_Slovensko.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Luhačovice",
+          "wiki_title": "Luhačovice",
+          "lat": 49.10083333,
+          "lng": 17.75527778,
+          "order_index": 2,
+          "description": "Luhačovice — a notable landmark in Piešťany, Slovakia.",
+          "seo_phrase": "Luhačovice",
+          "seo_keywords": [
+            "Piešťany",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Luhatschowitz-2.jpg/800px-Luhatschowitz-2.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Luhatschowitz-2.jpg/800px-Luhatschowitz-2.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Ducové",
+          "wiki_title": "Ducové",
+          "lat": 48.62833333,
+          "lng": 17.86805556,
+          "order_index": 3,
+          "description": "Ducové — a notable landmark in Piešťany, Slovakia.",
+          "seo_phrase": "Ducové",
+          "seo_keywords": [
+            "Piešťany",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Ducove village from Kostolec.JPG/800px-Ducove village from Kostolec.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ducove_village_from_Kostolec.JPG/800px-Ducove_village_from_Kostolec.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Šterusy",
+          "wiki_title": "Šterusy",
+          "lat": 48.6,
+          "lng": 17.68,
+          "order_index": 4,
+          "description": "Šterusy — a notable landmark in Piešťany, Slovakia.",
+          "seo_phrase": "Šterusy",
+          "seo_keywords": [
+            "Piešťany",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Šterusy kostol 01.jpg/800px-Šterusy kostol 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/%C5%A0terusy_kostol_01.jpg/800px-%C5%A0terusy_kostol_01.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Považský Inovec",
+          "wiki_title": "Považský Inovec",
+          "lat": 48.66666667,
+          "lng": 18,
+          "order_index": 5,
+          "description": "Považský Inovec — a notable landmark in Piešťany, Slovakia.",
+          "seo_phrase": "Považský Inovec",
+          "seo_keywords": [
+            "Piešťany",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Inovec zo Sedlicnej.jpg/800px-Inovec zo Sedlicnej.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Inovec_zo_Sedlicnej.jpg/800px-Inovec_zo_Sedlicnej.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Kostolec fortification",
+          "wiki_title": "Kostolec fortification",
+          "lat": 48.6226,
+          "lng": 17.8728,
+          "order_index": 6,
+          "description": "Kostolec fortification — a notable landmark in Piešťany, Slovakia.",
+          "seo_phrase": "Kostolec fortification",
+          "seo_keywords": [
+            "Piešťany",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Kostolec-hradisko.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Kostolec-hradisko.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Pusta Ves",
+          "wiki_title": "Pusta Ves",
+          "lat": 48.65,
+          "lng": 17.68333333,
+          "order_index": 7,
+          "description": "Pusta Ves — a notable landmark in Piešťany, Slovakia.",
+          "seo_phrase": "Pusta Ves",
+          "seo_keywords": [
+            "Piešťany",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Pustá Ves z Dúbravy.jpg/800px-Pustá Ves z Dúbravy.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Pust%C3%A1_Ves_z_D%C3%BAbravy.jpg/800px-Pust%C3%A1_Ves_z_D%C3%BAbravy.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Military History Museum Piešťany",
+          "wiki_title": "Military History Museum Piešťany",
+          "lat": 48.608,
+          "lng": 17.8289,
+          "order_index": 8,
+          "description": "Military History Museum Piešťany — a notable landmark in Piešťany, Slovakia.",
+          "seo_phrase": "Military History Museum Piešťany",
+          "seo_keywords": [
+            "Piešťany",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Vojenský historický ústav piešťany - panoramio.jpg/800px-Vojenský historický ústav piešťany - panoramio.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vojensk%C3%BD_historick%C3%BD_%C3%BAstav_pie%C5%A1%C5%A5any_-_panoramio.jpg/800px-Vojensk%C3%BD_historick%C3%BD_%C3%BAstav_pie%C5%A1%C5%A5any_-_panoramio.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Bašovce",
+          "wiki_title": "Bašovce",
+          "lat": 48.63,
+          "lng": 17.8,
+          "order_index": 9,
+          "description": "Bašovce — a notable landmark in Piešťany, Slovakia.",
+          "seo_phrase": "Bašovce",
+          "seo_keywords": [
+            "Piešťany",
+            "Slovakia",
+            "travel"
+          ],
+          "commons_file": "Bašovce - kostol.jpg/800px-Bašovce - kostol.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ba%C5%A1ovce_-_kostol.jpg/800px-Ba%C5%A1ovce_-_kostol.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "Slovakia Scenic Road Trip",
+    "subtitle": "Explore Slovakia beyond the cities — nature, coastlines, and scenic routes.",
+    "wiki_title": "Slovakia",
+    "hero_image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bratislava_Castle_and_the_Danube.jpg",
+    "totalDays": 10,
+    "seo": {
+      "title": "Slovakia Road Trip Adventure",
+      "description": "Plan a Slovakia road trip with GPS stops and scenic routes.",
+      "intro": "Explore Slovakia beyond the cities with this adventure route.",
+      "keywords": [
+        "Slovakia road trip",
+        "Slovakia by car"
+      ]
+    },
+    "places": [
+      {
+        "name": "Orava Castle",
+        "wiki_title": "Orava Castle",
+        "region": "Slovakia",
+        "lat": 49.26166667,
+        "lng": 19.35805556,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Orava Castle — a must-see landmark on a Slovakia road trip.",
+        "seo_phrase": "Orava Castle",
+        "seo_keywords": [
+          "Orava Castle",
+          "Slovakia",
+          "road trip"
+        ],
+        "commons_file": "Oravský hrad (celkový pohled).jpg/800px-Oravský hrad (celkový pohled).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Oravsk%C3%BD_hrad_%28celkov%C3%BD_pohled%29.jpg/800px-Oravsk%C3%BD_hrad_%28celkov%C3%BD_pohled%29.jpg",
+        "seo_priority": 90,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Bratislava Castle",
+        "wiki_title": "Bratislava Castle",
+        "region": "Slovakia",
+        "lat": 48.14222222,
+        "lng": 17.1,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Bratislava Castle — a must-see landmark on a Slovakia road trip.",
+        "seo_phrase": "Bratislava Castle",
+        "seo_keywords": [
+          "Bratislava Castle",
+          "Slovakia",
+          "road trip"
+        ],
+        "commons_file": "Bratislava - Burg (b).JPG/800px-Bratislava - Burg (b).JPG",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bratislava_-_Burg_%28b%29.JPG/800px-Bratislava_-_Burg_%28b%29.JPG",
+        "seo_priority": 89,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Čachtice Castle",
+        "wiki_title": "Čachtice Castle",
+        "region": "Slovakia",
+        "lat": 48.725,
+        "lng": 17.76083333,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Čachtice Castle — a must-see landmark on a Slovakia road trip.",
+        "seo_phrase": "Čachtice Castle",
+        "seo_keywords": [
+          "Čachtice Castle",
+          "Slovakia",
+          "road trip"
+        ],
+        "commons_file": "Hrad Cachtice.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Hrad_Cachtice.jpg",
+        "seo_priority": 88,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Devín Castle",
+        "wiki_title": "Devín Castle",
+        "region": "Slovakia",
+        "lat": 48.17361111,
+        "lng": 16.97833333,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Devín Castle — a must-see landmark on a Slovakia road trip.",
+        "seo_phrase": "Devín Castle",
+        "seo_keywords": [
+          "Devín Castle",
+          "Slovakia",
+          "road trip"
+        ],
+        "commons_file": "Devin02.jpg/800px-Devin02.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Devin02.jpg/800px-Devin02.jpg",
+        "seo_priority": 87,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Čabraď Castle",
+        "wiki_title": "Čabraď Castle",
+        "region": "Slovakia",
+        "lat": 48.24388889,
+        "lng": 19.10611111,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Čabraď Castle — a must-see landmark on a Slovakia road trip.",
+        "seo_phrase": "Čabraď Castle",
+        "seo_keywords": [
+          "Čabraď Castle",
+          "Slovakia",
+          "road trip"
+        ],
+        "commons_file": "Hrad Čabraď.jpg/800px-Hrad Čabraď.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hrad_%C4%8Cabra%C4%8F.jpg/800px-Hrad_%C4%8Cabra%C4%8F.jpg",
+        "seo_priority": 86,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Bojnice Castle",
+        "wiki_title": "Bojnice Castle",
+        "region": "Slovakia",
+        "lat": 48.78,
+        "lng": 18.57777778,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Bojnice Castle — a must-see landmark on a Slovakia road trip.",
+        "seo_phrase": "Bojnice Castle",
+        "seo_keywords": [
+          "Bojnice Castle",
+          "Slovakia",
+          "road trip"
+        ],
+        "commons_file": "Bojnice (Bojnitz) Castle (by Pudelek).jpg/800px-Bojnice (Bojnitz) Castle (by Pudelek).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bojnice_%28Bojnitz%29_Castle_%28by_Pudelek%29.jpg/800px-Bojnice_%28Bojnitz%29_Castle_%28by_Pudelek%29.jpg",
+        "seo_priority": 85,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Trenčín Castle",
+        "wiki_title": "Trenčín Castle",
+        "region": "Slovakia",
+        "lat": 48.894167,
+        "lng": 18.044722,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Trenčín Castle — a must-see landmark on a Slovakia road trip.",
+        "seo_phrase": "Trenčín Castle",
+        "seo_keywords": [
+          "Trenčín Castle",
+          "Slovakia",
+          "road trip"
+        ],
+        "commons_file": "Trencin Castle 030.jpg/800px-Trencin Castle 030.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Trencin_Castle_030.jpg/800px-Trencin_Castle_030.jpg",
+        "seo_priority": 84,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Beckov Castle",
+        "wiki_title": "Beckov Castle",
+        "region": "Slovakia",
+        "lat": 48.7909,
+        "lng": 17.8981,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Beckov Castle — a must-see landmark on a Slovakia road trip.",
+        "seo_phrase": "Beckov Castle",
+        "seo_keywords": [
+          "Beckov Castle",
+          "Slovakia",
+          "road trip"
+        ],
+        "commons_file": "Beckovske farby.jpg/800px-Beckovske farby.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Beckovske_farby.jpg/800px-Beckovske_farby.jpg",
+        "seo_priority": 83,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Bytča Castle",
+        "wiki_title": "Bytča Castle",
+        "region": "Slovakia",
+        "lat": 49.22,
+        "lng": 18.5592,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Bytča Castle — a must-see landmark on a Slovakia road trip.",
+        "seo_phrase": "Bytča Castle",
+        "seo_keywords": [
+          "Bytča Castle",
+          "Slovakia",
+          "road trip"
+        ],
+        "commons_file": "Bytca Castle Corner.jpg/800px-Bytca Castle Corner.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bytca_Castle_Corner.jpg/800px-Bytca_Castle_Corner.jpg",
+        "seo_priority": 82,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Ľubovňa Castle",
+        "wiki_title": "Ľubovňa Castle",
+        "region": "Slovakia",
+        "lat": 49.31521944,
+        "lng": 20.69941111,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Ľubovňa Castle — a must-see landmark on a Slovakia road trip.",
+        "seo_phrase": "Ľubovňa Castle",
+        "seo_keywords": [
+          "Ľubovňa Castle",
+          "Slovakia",
+          "road trip"
+        ],
+        "commons_file": "Ľubovňa Castle S1.jpg/800px-Ľubovňa Castle S1.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/%C4%BDubov%C5%88a_Castle_S1.jpg/800px-%C4%BDubov%C5%88a_Castle_S1.jpg",
+        "seo_priority": 81,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      }
+    ]
+  }
+}

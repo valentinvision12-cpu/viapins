@@ -1,0 +1,3785 @@
+{
+  "version": 2,
+  "country": "Spain",
+  "published": true,
+  "cities": [
+    {
+      "city": "Madrid",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Madrid",
+      "seo": {
+        "title": "Top 10 Things to Do in Madrid, Spain",
+        "description": "Discover 10 must-see landmarks in Madrid, Spain. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Madrid? Explore the best places to visit in Madrid, Spain.",
+        "keywords": [
+          "things to do in Madrid",
+          "Madrid Spain travel guide",
+          "best places to visit in Madrid",
+          "Madrid landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Royal Palace of Madrid",
+          "wiki_title": "Royal Palace of Madrid",
+          "lat": 40.418,
+          "lng": -3.7143,
+          "order_index": 0,
+          "description": "The spectacular official residence of the Spanish monarchy, renowned for its lavish rooms and historic armory.",
+          "seo_phrase": "Royal Palace of Madrid Tickets & Tour Guide",
+          "seo_keywords": [
+            "Royal Palace",
+            "Madrid palace",
+            "Spanish royalty",
+            "Madrid monuments",
+            "Baroque architecture"
+          ],
+          "commons_file": "Palacio Real de Madrid - 06.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Palacio_Real_de_Madrid_-_06.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Temple of Debod",
+            "Plaza Mayor"
+          ]
+        },
+        {
+          "name": "Prado Museum",
+          "wiki_title": "Prado Museum",
+          "lat": 40.4138,
+          "lng": -3.6921,
+          "order_index": 1,
+          "description": "Spain's premier national art museum, housing one of the world's finest collections of European art.",
+          "seo_phrase": "Prado Museum Madrid | Masterpieces & Visiting Guide",
+          "seo_keywords": [
+            "Prado Museum",
+            "Madrid art",
+            "Velazquez",
+            "Goya paintings",
+            "Spanish art gallery"
+          ],
+          "commons_file": "Museo del Prado 2016a.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Museo_del_Prado_2016a.jpg",
+          "seo_priority": 97,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "winter",
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "El Retiro Park",
+            "Thyssen-Bornemisza Museum"
+          ]
+        },
+        {
+          "name": "Plaza Mayor",
+          "wiki_title": "Plaza Mayor, Madrid",
+          "lat": 40.4154,
+          "lng": -3.7074,
+          "order_index": 2,
+          "description": "A grand, symmetrical central square in Madrid lined with beautiful residential buildings and traditional archways.",
+          "seo_phrase": "Visit Plaza Mayor Madrid | Historic Central Square Guide",
+          "seo_keywords": [
+            "Plaza Mayor",
+            "Madrid square",
+            "historic Madrid",
+            "Spanish architecture",
+            "Madrid tourism"
+          ],
+          "commons_file": "Plaza Mayor de Madrid 04.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ae/Plaza_Mayor_de_Madrid_04.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Puerta del Sol",
+            "Mercado de San Miguel"
+          ]
+        },
+        {
+          "name": "El Retiro Park",
+          "wiki_title": "Buen Retiro Park",
+          "lat": 40.4111,
+          "lng": -3.6831,
+          "order_index": 3,
+          "description": "A vast, elegant 19th-century public park featuring majestic sculptures, a peaceful lake, and a striking glass pavilion.",
+          "seo_phrase": "El Retiro Park Madrid | Crystal Palace & Boat Lake Guide",
+          "seo_keywords": [
+            "Retiro Park",
+            "Madrid park",
+            "Crystal Palace Madrid",
+            "Madrid green space",
+            "Retiro lake"
+          ],
+          "commons_file": "Estanque del Retiro visto desde el monumento a Alfonso XII.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Estanque_del_Retiro_visto_desde_el_monumento_a_Alfonso_XII.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Prado Museum",
+            "Thyssen-Bornemisza Museum"
+          ]
+        },
+        {
+          "name": "Reina Sofia Museum",
+          "wiki_title": "Museo Nacional Centro de Arte Reina Sofía",
+          "lat": 40.4079,
+          "lng": -3.6946,
+          "order_index": 4,
+          "description": "Madrid's world-renowned museum of 20th-century modern art, showcasing legendary contemporary masterpieces.",
+          "seo_phrase": "Reina Sofia Museum Madrid | Guernica & Modern Art",
+          "seo_keywords": [
+            "Reina Sofia",
+            "Guernica Picasso",
+            "modern art Madrid",
+            "Dali museum Madrid",
+            "contemporary art Spain"
+          ],
+          "commons_file": "Museo Nacional Centro de Arte Reina Sofía (MNCARS) 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa_%28MNCARS%29_01.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "winter",
+            "autumn",
+            "spring"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Prado Museum",
+            "Thyssen-Bornemisza Museum"
+          ]
+        },
+        {
+          "name": "Puerta del Sol",
+          "wiki_title": "Puerta del Sol",
+          "lat": 40.4167,
+          "lng": -3.7037,
+          "order_index": 5,
+          "description": "One of Madrid's busiest and most iconic public squares, acting as the historic focal point for Spanish radial roads.",
+          "seo_phrase": "Puerta del Sol Madrid | Kilometer Zero & Bear Statue Guide",
+          "seo_keywords": [
+            "Puerta del Sol",
+            "Kilometer Zero Madrid",
+            "Bear and Strawberry Tree",
+            "Madrid city center",
+            "Sol square"
+          ],
+          "commons_file": "Puerta del Sol (Madrid) 05.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Puerta_del_Sol_%28Madrid%29_05.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter",
+            "spring",
+            "autumn",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Plaza Mayor",
+            "Gran Vía"
+          ]
+        },
+        {
+          "name": "Gran Vía",
+          "wiki_title": "Gran Vía, Madrid",
+          "lat": 40.4197,
+          "lng": -3.7003,
+          "order_index": 6,
+          "description": "An energetic, grand avenue in central Madrid famous for its upscale shopping, theater scene, and landmark architecture.",
+          "seo_phrase": "Gran Vía Madrid | Shopping, Broadway & Nightlife Guide",
+          "seo_keywords": [
+            "Gran Via",
+            "Madrid shopping street",
+            "Madrid theater",
+            "Gran Via nightlife",
+            "Madrid avenue"
+          ],
+          "commons_file": "Gran Vía (Madrid) 14.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Gran_V%C3%ADa_%28Madrid%29_14.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "autumn",
+            "winter",
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Puerta del Sol",
+            "Plaza Mayor"
+          ]
+        },
+        {
+          "name": "Mercado de San Miguel",
+          "wiki_title": "Mercado de San Miguel",
+          "lat": 40.4155,
+          "lng": -3.709,
+          "order_index": 7,
+          "description": "A historic, vibrant iron-and-glass covered market transformed into a premium gourmet food destination.",
+          "seo_phrase": "Mercado de San Miguel | Gourmet Tapas Market in Madrid",
+          "seo_keywords": [
+            "Mercado de San Miguel",
+            "Madrid food market",
+            "tapas Madrid",
+            "gourmet market Spain",
+            "Madrid culinary travel"
+          ],
+          "commons_file": "Mercado de San Miguel 2017.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mercado_de_San_Miguel_2017.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter",
+            "spring",
+            "autumn",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Plaza Mayor",
+            "Royal Palace of Madrid"
+          ]
+        },
+        {
+          "name": "Temple of Debod",
+          "wiki_title": "Temple of Debod",
+          "lat": 40.4241,
+          "lng": -3.7178,
+          "order_index": 8,
+          "description": "An authentic 2nd-century BC Egyptian temple rebuilt in Madrid, offering exceptional sunset viewpoints.",
+          "seo_phrase": "Temple of Debod | Ancient Egyptian Temple in Madrid",
+          "seo_keywords": [
+            "Temple of Debod",
+            "Egyptian temple Madrid",
+            "Madrid sunset spot",
+            "Parque del Oeste",
+            "ancient history Madrid"
+          ],
+          "commons_file": "Templo de Debod at Night 2016.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Templo_de_Debod_at_Night_2016.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "summer",
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Royal Palace of Madrid",
+            "Gran Vía"
+          ]
+        },
+        {
+          "name": "Thyssen-Bornemisza Museum",
+          "wiki_title": "Thyssen-Bornemisza Museum",
+          "lat": 40.4162,
+          "lng": -3.6949,
+          "order_index": 9,
+          "description": "An exceptional art museum completing Madrid's Golden Triangle of Art, covering early European masters to modern movements.",
+          "seo_phrase": "Thyssen-Bornemisza Museum | Golden Art Triangle Madrid",
+          "seo_keywords": [
+            "Thyssen Museum",
+            "Madrid art galleries",
+            "Golden Triangle of Art",
+            "Impressionist paintings Madrid",
+            "Thyssen-Bornemisza"
+          ],
+          "commons_file": "Palacio de Villahermosa (Museo Thyssen-Bornemisza) 02.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Palacio_de_Villahermosa_%28Museo_Thyssen-Bornemisza%29_02.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "winter",
+            "autumn",
+            "spring"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Prado Museum",
+            "Reina Sofia Museum"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Barcelona",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Barcelona",
+      "seo": {
+        "title": "Top 10 Things to Do in Barcelona, Spain",
+        "description": "Discover 10 must-see landmarks in Barcelona, Spain. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Barcelona? Explore the best places to visit in Barcelona, Spain.",
+        "keywords": [
+          "things to do in Barcelona",
+          "Barcelona Spain travel guide",
+          "best places to visit in Barcelona",
+          "Barcelona landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Sagrada Família",
+          "wiki_title": "Sagrada Família",
+          "lat": 41.4036,
+          "lng": 2.1744,
+          "order_index": 0,
+          "description": "Antoni Gaudí's unfinished modernist masterpiece, an iconic minor basilica with towering spires and stained-glass interiors.",
+          "seo_phrase": "Sagrada Família Tickets & Architecture Guide | Barcelona",
+          "seo_keywords": [
+            "Sagrada Familia",
+            "Antoni Gaudi",
+            "Barcelona basilica",
+            "Modernist architecture",
+            "Barcelona top attraction"
+          ],
+          "commons_file": "Nativitat S Familia 8545.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Nativitat_S_Familia_8545.jpg",
+          "seo_priority": 100,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Casa Milà",
+            "Casa Batlló"
+          ]
+        },
+        {
+          "name": "Park Güell",
+          "wiki_title": "Park Güell",
+          "lat": 41.4145,
+          "lng": 2.1527,
+          "order_index": 1,
+          "description": "A dreamlike public park system composed of gardens and architectural elements reflecting Gaudí’s natural phase.",
+          "seo_phrase": "Park Güell Barcelona | Gaudí Mosaic Terraces & Tickets",
+          "seo_keywords": [
+            "Park Guell",
+            "Gaudi park",
+            "Barcelona viewpoints",
+            "mosaic lizard Barcelona",
+            "trencadis art"
+          ],
+          "commons_file": "Park Güell 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Park_G%C3%BCell_01.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Sagrada Família",
+            "Casa Milà"
+          ]
+        },
+        {
+          "name": "Casa Milà",
+          "wiki_title": "Casa Milà",
+          "lat": 41.3953,
+          "lng": 2.1649,
+          "order_index": 2,
+          "description": "A pioneering modernist residential building with an undulating stone facade and unique sculptural chimneys.",
+          "seo_phrase": "Casa Milà (La Pedrera) Guide | Barcelona Gaudí Buildings",
+          "seo_keywords": [
+            "La Pedrera",
+            "Casa Mila",
+            "Gaudi rooftop",
+            "Barcelona modernist route",
+            "undulating architecture"
+          ],
+          "commons_file": "Casa Milà - 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Casa_Mil%C3%A0_-_01.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Casa Batlló",
+            "Sagrada Família"
+          ]
+        },
+        {
+          "name": "Gothic Quarter",
+          "wiki_title": "Gothic Quarter, Barcelona",
+          "lat": 41.3833,
+          "lng": 2.1769,
+          "order_index": 3,
+          "description": "The atmospheric old city center of Barcelona, full of narrow medieval streets and dynamic historic plazas.",
+          "seo_phrase": "Gothic Quarter Barcelona | Hidden Squares & Historic Walk",
+          "seo_keywords": [
+            "Gothic Quarter",
+            "Barri Gotic",
+            "medieval Barcelona",
+            "old town Barcelona",
+            "Bishops Bridge"
+          ],
+          "commons_file": "Pont del Bisbe, Carrer del Bisbe, Gothic Quarter, Barcelona, Spain - Jan 2020.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Pont_del_Bisbe%2C_Carrer_del_Bisbe%2C_Gothic_Quarter%2C_Barcelona%2C_Spain_-_Jan_2020.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "autumn",
+            "winter",
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "La Rambla",
+            "Picasso Museum"
+          ]
+        },
+        {
+          "name": "Camp Nou",
+          "wiki_title": "Camp Nou",
+          "lat": 41.3809,
+          "lng": 2.1228,
+          "order_index": 4,
+          "description": "The iconic home stadium of FC Barcelona and the largest sports stadium in Europe by capacity.",
+          "seo_phrase": "Camp Nou Stadium Tour & Museum | FC Barcelona",
+          "seo_keywords": [
+            "Camp Nou",
+            "FC Barcelona stadium",
+            "football tour Barcelona",
+            "Camp Nou museum tickets",
+            "biggest stadium Europe"
+          ],
+          "commons_file": "Camp Nou from inside 2022.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Camp_Nou_from_inside_2022.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "autumn",
+            "spring",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Montjuïc Castle",
+            "Park Güell"
+          ]
+        },
+        {
+          "name": "Picasso Museum",
+          "wiki_title": "Museu Picasso",
+          "lat": 41.3852,
+          "lng": 2.1808,
+          "order_index": 5,
+          "description": "A prestigious art museum holding over 4,000 early works of legendary artist Pablo Picasso.",
+          "seo_phrase": "Picasso Museum Barcelona | Early Works & Masterpieces",
+          "seo_keywords": [
+            "Picasso Museum",
+            "Barcelona art galleries",
+            "Pablo Picasso early works",
+            "Gothic palaces Barcelona",
+            "El Born art"
+          ],
+          "commons_file": "Museu Picasso Palau Aguilar courtyard.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Museu_Picasso_Palau_Aguilar_courtyard.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "winter",
+            "autumn",
+            "spring"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Gothic Quarter",
+            "Ciutadella Park"
+          ]
+        },
+        {
+          "name": "La Rambla",
+          "wiki_title": "La Rambla, Barcelona",
+          "lat": 41.3813,
+          "lng": 2.1731,
+          "order_index": 6,
+          "description": "A historic, tree-lined pedestrian street stretching for 1.2 kilometers through central Barcelona.",
+          "seo_phrase": "La Rambla Boulevard | Barcelona's Most Famous Street",
+          "seo_keywords": [
+            "La Rambla",
+            "Las Ramblas Barcelona",
+            "Barcelona pedestrian street",
+            "Las Ramblas walk",
+            "central Barcelona avenue"
+          ],
+          "commons_file": "Barcelona La Rambla April 2011 02.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Barcelona_La_Rambla_April_2011_02.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Gothic Quarter",
+            "Picasso Museum"
+          ]
+        },
+        {
+          "name": "Ciutadella Park",
+          "wiki_title": "Parc de la Ciutadella",
+          "lat": 41.3881,
+          "lng": 2.1872,
+          "order_index": 7,
+          "description": "A historic, beautiful 19th-century public park featuring a monumental fountain and green boating lakes.",
+          "seo_phrase": "Ciutadella Park Barcelona | Monumental Fountain Guide",
+          "seo_keywords": [
+            "Ciutadella Park",
+            "Barcelona public park",
+            "Cascada Monumental",
+            "Barcelona green spaces",
+            "relaxing in Barcelona"
+          ],
+          "commons_file": "Parc de la Ciutadella - Cascade.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Parc_de_la_Ciutadella_-_Cascade.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Picasso Museum",
+            "Gothic Quarter"
+          ]
+        },
+        {
+          "name": "Montjuïc Castle",
+          "wiki_title": "Montjuïc Castle",
+          "lat": 41.3638,
+          "lng": 2.1664,
+          "order_index": 8,
+          "description": "An ancient military fortress dating from 1640 perched atop Montjuïc hill, commanding sweeping views over the Mediterranean sea.",
+          "seo_phrase": "Montjuïc Castle Barcelona | Cable Car & Coastal Fortress",
+          "seo_keywords": [
+            "Montjuic Castle",
+            "Barcelona fortress",
+            "Montjuic hill viewpoints",
+            "Barcelona cable car",
+            "coastal fortress Spain"
+          ],
+          "commons_file": "Castell de Montjuïc 2019-12-14.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Castell_de_Montju%C3%AFc_2019-12-14.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "La Rambla",
+            "Gothic Quarter"
+          ]
+        },
+        {
+          "name": "Barcelona",
+          "wiki_title": "Barcelona",
+          "lat": 41.38333333,
+          "lng": 2.18333333,
+          "order_index": 9,
+          "description": "Barcelona — a notable landmark in Barcelona, Spain.",
+          "seo_phrase": "Barcelona",
+          "seo_keywords": [
+            "Barcelona",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Evening light over Barcelona.jpg/800px-Evening light over Barcelona.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Evening_light_over_Barcelona.jpg/800px-Evening_light_over_Barcelona.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Seville",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Seville",
+      "seo": {
+        "title": "Top 10 Things to Do in Seville, Spain",
+        "description": "Discover 10 must-see landmarks in Seville, Spain. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Seville? Explore the best places to visit in Seville, Spain.",
+        "keywords": [
+          "things to do in Seville",
+          "Seville Spain travel guide",
+          "best places to visit in Seville",
+          "Seville landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Real Alcázar of Seville",
+          "wiki_title": "Alcázar of Seville",
+          "lat": 37.3831,
+          "lng": -5.9912,
+          "order_index": 0,
+          "description": "A magnificent royal palace renowned for its highly detailed Mudéjar and Islamic architectural style.",
+          "seo_phrase": "Real Alcázar of Seville | Mudéjar Palace Tickets & Guide",
+          "seo_keywords": [
+            "Real Alcazar",
+            "Seville palace",
+            "Mudejar architecture",
+            "Moorish Seville",
+            "Spanish Royal Palace"
+          ],
+          "commons_file": "Alcázar de Sevilla -Patio de las Doncellas- 2015.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Alc%C3%A1zar_de_Sevilla_-Patio_de_las_Doncellas-_2015.jpg",
+          "seo_priority": 99,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Seville Cathedral",
+            "General Archive of the Indies"
+          ]
+        },
+        {
+          "name": "Plaza de España",
+          "wiki_title": "Plaza de España, Seville",
+          "lat": 37.3772,
+          "lng": -5.9869,
+          "order_index": 1,
+          "description": "A landmark semi-circular architectural complex showcasing brilliant Regionalist and Neo-Mudéjar styles.",
+          "seo_phrase": "Plaza de España Seville | Tiled Alcoves & Canal Guide",
+          "seo_keywords": [
+            "Plaza de Espana",
+            "Seville landmark",
+            "tiled alcoves Seville",
+            "Seville exposition 1929",
+            "regionalist architecture"
+          ],
+          "commons_file": "Plaza de España Sevilla 2017.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Plaza_de_Espa%C3%B1a_Sevilla_2017.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Maria Luisa Park",
+            "Real Alcázar of Seville"
+          ]
+        },
+        {
+          "name": "Seville Cathedral",
+          "wiki_title": "Seville Cathedral",
+          "lat": 37.3858,
+          "lng": -5.9931,
+          "order_index": 2,
+          "description": "A massive, breathtaking Gothic cathedral featuring the iconic Giralda bell tower, a former Almohad minaret.",
+          "seo_phrase": "Seville Cathedral & Giralda Tower Visiting Guide",
+          "seo_keywords": [
+            "Seville Cathedral",
+            "La Giralda",
+            "Gothic cathedral Spain",
+            "largest cathedral world",
+            "Seville historic monuments"
+          ],
+          "commons_file": "Catedral y Giralda de Sevilla 2016.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Catedral_y_Giralda_de_Sevilla_2016.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "winter",
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Real Alcázar of Seville",
+            "General Archive of the Indies"
+          ]
+        },
+        {
+          "name": "Barrio Santa Cruz",
+          "wiki_title": "Barrio Santa Cruz",
+          "lat": 37.3853,
+          "lng": -5.9914,
+          "order_index": 3,
+          "description": "The historic, labyrinthine old neighborhood of Seville famed for its flower-filled balconies and narrow stone lanes.",
+          "seo_phrase": "Barrio Santa Cruz Seville | Jewish Quarter Travel Guide",
+          "seo_keywords": [
+            "Barrio Santa Cruz",
+            "Seville Jewish Quarter",
+            "historic Seville",
+            "narrow streets Seville",
+            "Andalusia traditional neighborhood"
+          ],
+          "commons_file": "Barrio de Santa Cruz Sevilla 02.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Barrio_de_Santa_Cruz_Sevilla_02.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Real Alcázar of Seville",
+            "Seville Cathedral"
+          ]
+        },
+        {
+          "name": "Setas de Sevilla",
+          "wiki_title": "Metropol Parasol",
+          "lat": 37.3926,
+          "lng": -5.9931,
+          "order_index": 4,
+          "description": "A massive, futuristic wooden grid structure featuring an elevated panoramic walkway over Plaza de la Encarnación.",
+          "seo_phrase": "Setas de Sevilla (Metropol Parasol) Viewpoint Guide",
+          "seo_keywords": [
+            "Setas de Sevilla",
+            "Metropol Parasol",
+            "wooden structure Seville",
+            "Seville modern viewpoints",
+            "Plaza de la Encarnacion"
+          ],
+          "commons_file": "Metropol Parasol Sevilla 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Metropol_Parasol_Sevilla_2019.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "summer",
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Seville Cathedral",
+            "Barrio Santa Cruz"
+          ]
+        },
+        {
+          "name": "Torre del Oro",
+          "wiki_title": "Torre del Oro",
+          "lat": 37.3824,
+          "lng": -5.9964,
+          "order_index": 5,
+          "description": "A historic dodecagonal military watchtower guarding Seville’s Guadalquivir riverbank since the 13th century.",
+          "seo_phrase": "Torre del Oro Seville | Maritime History & River Viewpoint",
+          "seo_keywords": [
+            "Torre del Oro",
+            "Tower of Gold",
+            "Seville watchtower",
+            "Guadalquivir River",
+            "Seville history watchtower"
+          ],
+          "commons_file": "Torre del Oro Sevilla 2016.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Torre_del_Oro_Sevilla_2016.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Seville Cathedral",
+            "Real Alcázar of Seville"
+          ]
+        },
+        {
+          "name": "Maria Luisa Park",
+          "wiki_title": "Maria Luisa Park",
+          "lat": 37.3753,
+          "lng": -5.9892,
+          "order_index": 6,
+          "description": "A lush, expansive public park along the Guadalquivir River filled with beautiful pavilions and tiled fountains.",
+          "seo_phrase": "Maria Luisa Park Seville | Botanical Gardens Guide",
+          "seo_keywords": [
+            "Maria Luisa Park",
+            "Seville green spaces",
+            "botanical garden Seville",
+            "Seville urban parks",
+            "romantic spots Seville"
+          ],
+          "commons_file": "Parque de María Luisa 02.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Parque_de_Mar%C3%ADa_Luisa_02.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Plaza de España",
+            "Torre del Oro"
+          ]
+        },
+        {
+          "name": "Palacio de las Dueñas",
+          "wiki_title": "Palacio de las Dueñas",
+          "lat": 37.3948,
+          "lng": -5.9897,
+          "order_index": 7,
+          "description": "A magnificent 15th-century palace belonging to the House of Alba, showcasing Renaissance and Mudéjar styles.",
+          "seo_phrase": "Palacio de las Dueñas Tickets | Renaissance Palace Seville",
+          "seo_keywords": [
+            "Palacio de las Duenas",
+            "Seville palaces",
+            "House of Alba",
+            "Renaissance architecture Spain",
+            "Antonio Machado birthplace"
+          ],
+          "commons_file": "Palacio de las Dueñas Sevilla 03.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Palacio_de_las_Due%C3%B1as_Sevilla_03.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Setas de Sevilla",
+            "Barrio Santa Cruz"
+          ]
+        },
+        {
+          "name": "General Archive of the Indies",
+          "wiki_title": "General Archive of the Indies",
+          "lat": 37.3846,
+          "lng": -5.9939,
+          "order_index": 8,
+          "description": "The monumental repository of Spain's colonial empire history, designed in an elegant Renaissance style.",
+          "seo_phrase": "General Archive of the Indies | Seville Historical Documents",
+          "seo_keywords": [
+            "Archive of the Indies",
+            "Seville UNESCO",
+            "Spanish empire history",
+            "Christopher Columbus documents",
+            "Renaissance Seville"
+          ],
+          "commons_file": "Archivo General de Indias Sevilla 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Archivo_General_de_Indias_Sevilla_01.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter",
+            "autumn",
+            "spring"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Seville Cathedral",
+            "Real Alcázar of Seville"
+          ]
+        },
+        {
+          "name": "Spain",
+          "wiki_title": "Spain",
+          "lat": 40,
+          "lng": -4,
+          "order_index": 9,
+          "description": "Spain — a notable landmark in Seville, Spain.",
+          "seo_phrase": "Spain",
+          "seo_keywords": [
+            "Seville",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Bandera de España.svg/800px-Bandera de España.svg.png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/800px-Bandera_de_Espa%C3%B1a.svg.png",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Valencia",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Valencia",
+      "seo": {
+        "title": "Top 10 Things to Do in Valencia, Spain",
+        "description": "Discover 10 must-see landmarks in Valencia, Spain. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Valencia? Explore the best places to visit in Valencia, Spain.",
+        "keywords": [
+          "things to do in Valencia",
+          "Valencia Spain travel guide",
+          "best places to visit in Valencia",
+          "Valencia landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "City of Arts and Sciences",
+          "wiki_title": "City of Arts and Sciences",
+          "lat": 39.4549,
+          "lng": -0.3503,
+          "order_index": 0,
+          "description": "A world-famous futuristic architectural complex acting as a premier cultural and scientific leisure destination.",
+          "seo_phrase": "City of Arts and Sciences Valencia Tickets & Tour Guide",
+          "seo_keywords": [
+            "City of Arts and Sciences",
+            "Valencia futuristic architecture",
+            "Santiago Calatrava",
+            "Oceanografic Valencia tickets",
+            "Valencia modern landmarks"
+          ],
+          "commons_file": "Ciudad de las Artes y las Ciencias 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Ciudad_de_las_Artes_y_las_Ciencias_01.jpg",
+          "seo_priority": 99,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Turia Gardens",
+            "Malvarrosa Beach"
+          ]
+        },
+        {
+          "name": "Valencia Cathedral",
+          "wiki_title": "Valencia Cathedral",
+          "lat": 39.4752,
+          "lng": -0.3752,
+          "order_index": 1,
+          "description": "A historical gothic cathedral renowned for housing the sacred Holy Chalice of the Last Supper.",
+          "seo_phrase": "Valencia Cathedral | Holy Chalice & Architecture Guide",
+          "seo_keywords": [
+            "Valencia Cathedral",
+            "Holy Grail Valencia",
+            "Gothic Valencia",
+            "Holy Chalice chapel",
+            "Spanish historic cathedrals"
+          ],
+          "commons_file": "Catedral de Valencia puerta de los hierros.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Catedral_de_Valencia_puerta_de_los_hierros.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "winter",
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "El Miguelete",
+            "Plaza de la Virgen"
+          ]
+        },
+        {
+          "name": "Central Market",
+          "wiki_title": "Central Market (Valencia",
+          "lat": 39.4736,
+          "lng": -0.3797,
+          "order_index": 2,
+          "description": "A stunning masterpiece of Valencian Modernism, packed with hundreds of vibrant fresh food stalls.",
+          "seo_phrase": "Central Market Valencia | Modernist Food Market Guide",
+          "seo_keywords": [
+            "Central Market Valencia",
+            "Mercado Central",
+            "Valencian Modernism",
+            "Spanish food markets",
+            "fresh produce Valencia"
+          ],
+          "commons_file": "Mercado Central de Valencia 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Mercado_Central_de_Valencia_01.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "winter",
+            "spring",
+            "autumn",
+            "summer"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "La Lonja de la Seda",
+            "Plaza de la Virgen"
+          ]
+        },
+        {
+          "name": "La Lonja de la Seda",
+          "wiki_title": "Lallonja de la Seda",
+          "lat": 39.4748,
+          "lng": -0.3794,
+          "order_index": 3,
+          "description": "A UNESCO World Heritage site and an exceptional monumental hall of the late medieval silk trade.",
+          "seo_phrase": "La Lonja de la Seda | Valencia Silk Exchange UNESCO Guide",
+          "seo_keywords": [
+            "La Lonja",
+            "Silk Exchange Valencia",
+            "Gothic architecture Spain",
+            "Valencia UNESCO heritage",
+            "medieval silk trade"
+          ],
+          "commons_file": "Valencia Lonja Sala de Contratacion.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Valencia_Lonja_Sala_de_Contratacion.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Central Market",
+            "Valencia Cathedral"
+          ]
+        },
+        {
+          "name": "Plaza de la Virgen",
+          "wiki_title": "Plaza de la Virgen",
+          "lat": 39.4758,
+          "lng": -0.3754,
+          "order_index": 4,
+          "description": "A beautiful, ancient pedestrian square sitting directly on the site of Valencia's original Roman forum.",
+          "seo_phrase": "Plaza de la Virgen | Historical Heart of Valencia",
+          "seo_keywords": [
+            "Plaza de la Virgen",
+            "Valencia old town square",
+            "Turia Fountain",
+            "historic squares Valencia",
+            "Roman forum Spain"
+          ],
+          "commons_file": "Plaza de la Virgen y Catedral de Valencia.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Plaza_de_la_Virgen_y_Catedral_de_Valencia.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Valencia Cathedral",
+            "El Miguelete"
+          ]
+        },
+        {
+          "name": "El Miguelete",
+          "wiki_title": "El Miguelete",
+          "lat": 39.4753,
+          "lng": -0.3756,
+          "order_index": 5,
+          "description": "The iconic, octagonal Gothic bell tower of Valencia Cathedral, standing as a prominent city symbol.",
+          "seo_phrase": "El Miguelete Tower Valencia | Panoramic City Viewpoint",
+          "seo_keywords": [
+            "El Miguelete",
+            "Micalet Valencia",
+            "Valencia bell tower",
+            "Valencia viewpoint",
+            "Gothic tower Spain"
+          ],
+          "commons_file": "El Micalet desde la Plaza de la Reina 2018.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/El_Micalet_desde_la_Plaza_de_la_Reina_2018.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Valencia Cathedral",
+            "Plaza de la Virgen"
+          ]
+        },
+        {
+          "name": "Turia Gardens",
+          "wiki_title": "Turia Gardens",
+          "lat": 39.4794,
+          "lng": -0.3725,
+          "order_index": 6,
+          "description": "One of Spain's largest and most unique urban linear parks, winding seamlessly through the entire city.",
+          "seo_phrase": "Turia Gardens Valencia | Cycling & Linear Park Guide",
+          "seo_keywords": [
+            "Turia Gardens",
+            "Valencia linear park",
+            "cycling in Valencia",
+            "Turia riverbed park",
+            "Valencia green spaces"
+          ],
+          "commons_file": "Valencia - Jardín del Turia.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Valencia_-_Jard%C3%ADn_del_Turia.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "City of Arts and Sciences",
+            "Torres de Serranos"
+          ]
+        },
+        {
+          "name": "Torres de Serranos",
+          "wiki_title": "Serranos Towers",
+          "lat": 39.4791,
+          "lng": -0.3759,
+          "order_index": 7,
+          "description": "A monumental pair of fortified Gothic stone towers that formed part of Valencia's ancient city walls.",
+          "seo_phrase": "Torres de Serranos | Medieval City Gates of Valencia",
+          "seo_keywords": [
+            "Torres de Serranos",
+            "Serranos Towers",
+            "Valencia city gates",
+            "medieval fortifications Spain",
+            "Gothic military architecture"
+          ],
+          "commons_file": "Torres de Serranos Valencia 2017.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Torres_de_Serranos_Valencia_2017.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Turia Gardens",
+            "Plaza de la Virgen"
+          ]
+        },
+        {
+          "name": "Bioparc Valencia",
+          "wiki_title": "Bioparc Valencia",
+          "lat": 39.4781,
+          "lng": -0.4072,
+          "order_index": 8,
+          "description": "A modern, highly innovative animal park featuring large, barrier-free naturalistic African habitats.",
+          "seo_phrase": "Bioparc Valencia Tickets | Immersive Zoo Experience",
+          "seo_keywords": [
+            "Bioparc Valencia",
+            "Valencia zoo tickets",
+            "zoo immersion Spain",
+            "family activities Valencia",
+            "African wildlife Valencia"
+          ],
+          "commons_file": "Bioparc Valencia Elefantes 2011.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Bioparc_Valencia_Elefantes_2011.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Turia Gardens",
+            "Central Market"
+          ]
+        },
+        {
+          "name": "Valencia",
+          "wiki_title": "Valencia",
+          "lat": 39.47,
+          "lng": -0.37638889,
+          "order_index": 9,
+          "description": "Valencia — a notable landmark in Valencia, Spain.",
+          "seo_phrase": "Valencia",
+          "seo_keywords": [
+            "Valencia",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Malvarrosa Beach, Valencia, Spain (29812271043).jpg/800px-Malvarrosa Beach, Valencia, Spain (29812271043).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Malvarrosa_Beach%2C_Valencia%2C_Spain_%2829812271043%29.jpg/800px-Malvarrosa_Beach%2C_Valencia%2C_Spain_%2829812271043%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Granada",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Granada",
+      "seo": {
+        "title": "Top 10 Things to Do in Granada, Spain",
+        "description": "Discover 10 must-see landmarks in Granada, Spain. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Granada? Explore the best places to visit in Granada, Spain.",
+        "keywords": [
+          "things to do in Granada",
+          "Granada Spain travel guide",
+          "best places to visit in Granada",
+          "Granada landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Andalusia",
+          "wiki_title": "Andalusia",
+          "lat": 37.3,
+          "lng": -4.6,
+          "order_index": 0,
+          "description": "Andalusia — a notable landmark in Granada, Spain.",
+          "seo_phrase": "Andalusia",
+          "seo_keywords": [
+            "Granada",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Flag of Andalucía.svg/800px-Flag of Andalucía.svg.png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Andaluc%C3%ADa.svg/800px-Flag_of_Andaluc%C3%ADa.svg.png",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Alhambra",
+          "wiki_title": "Alhambra",
+          "lat": 37.1775,
+          "lng": -3.59,
+          "order_index": 1,
+          "description": "Alhambra — a notable landmark in Granada, Spain.",
+          "seo_phrase": "Alhambra",
+          "seo_keywords": [
+            "Granada",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Dawn Charles V Palace Alhambra Granada Andalusia Spain.jpg/800px-Dawn Charles V Palace Alhambra Granada Andalusia Spain.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg/800px-Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Granada",
+          "wiki_title": "Granada",
+          "lat": 37.175,
+          "lng": -3.6,
+          "order_index": 2,
+          "description": "Granada — a notable landmark in Granada, Spain.",
+          "seo_phrase": "Granada",
+          "seo_keywords": [
+            "Granada",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Granada (25987961022).jpg/800px-Granada (25987961022).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Granada_%2825987961022%29.jpg/800px-Granada_%2825987961022%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Al-Andalus",
+          "wiki_title": "Al-Andalus",
+          "lat": 37,
+          "lng": -4,
+          "order_index": 3,
+          "description": "Al-Andalus — a notable landmark in Granada, Spain.",
+          "seo_phrase": "Al-Andalus",
+          "seo_keywords": [
+            "Granada",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Al-Andalus732.svg/800px-Al-Andalus732.svg.png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Al-Andalus732.svg/800px-Al-Andalus732.svg.png",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Guadix",
+          "wiki_title": "Guadix",
+          "lat": 37.3006,
+          "lng": -3.135,
+          "order_index": 4,
+          "description": "Guadix — a notable landmark in Granada, Spain.",
+          "seo_phrase": "Guadix",
+          "seo_keywords": [
+            "Granada",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Moorish Castle - Cathedral - in Guadix Spain - panoramio.jpg/800px-Moorish Castle - Cathedral - in Guadix Spain - panoramio.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Moorish_Castle_-_Cathedral_-_in_Guadix_Spain_-_panoramio.jpg/800px-Moorish_Castle_-_Cathedral_-_in_Guadix_Spain_-_panoramio.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Baza",
+          "wiki_title": "Baza, Granada",
+          "lat": 37.48333333,
+          "lng": -2.76666667,
+          "order_index": 5,
+          "description": "Baza, Granada — a notable landmark in Granada, Spain.",
+          "seo_phrase": "Baza",
+          "seo_keywords": [
+            "Granada",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "LocationBaza (municipality).png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/LocationBaza_%28municipality%29.png",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Granada Cathedral",
+          "wiki_title": "Granada Cathedral",
+          "lat": 37.176,
+          "lng": -3.599,
+          "order_index": 6,
+          "description": "Granada Cathedral — a notable landmark in Granada, Spain.",
+          "seo_phrase": "Granada Cathedral",
+          "seo_keywords": [
+            "Granada",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Granada - Cathedral Front.jpg/800px-Granada - Cathedral Front.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Granada_-_Cathedral_Front.jpg/800px-Granada_-_Cathedral_Front.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Taifa of Granada",
+          "wiki_title": "Taifa of Granada",
+          "lat": 37.16666667,
+          "lng": -3.58333333,
+          "order_index": 7,
+          "description": "Taifa of Granada — a notable landmark in Granada, Spain.",
+          "seo_phrase": "Taifa of Granada",
+          "seo_keywords": [
+            "Granada",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Location map Taifa of Granada.svg/800px-Location map Taifa of Granada.svg.png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Location_map_Taifa_of_Granada.svg/800px-Location_map_Taifa_of_Granada.svg.png",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Cádiz Cathedral",
+          "wiki_title": "Cádiz Cathedral",
+          "lat": 36.529135,
+          "lng": -6.295254,
+          "order_index": 8,
+          "description": "Cádiz Cathedral — a notable landmark in Granada, Spain.",
+          "seo_phrase": "Cádiz Cathedral",
+          "seo_keywords": [
+            "Granada",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Catedral de Cádiz, España, 2015-12-08, DD 56.JPG/800px-Catedral de Cádiz, España, 2015-12-08, DD 56.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Catedral_de_C%C3%A1diz%2C_Espa%C3%B1a%2C_2015-12-08%2C_DD_56.JPG/800px-Catedral_de_C%C3%A1diz%2C_Espa%C3%B1a%2C_2015-12-08%2C_DD_56.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Vega de Granada",
+          "wiki_title": "Vega de Granada",
+          "lat": 37.1875,
+          "lng": -3.61083333,
+          "order_index": 9,
+          "description": "Vega de Granada — a notable landmark in Granada, Spain.",
+          "seo_phrase": "Vega de Granada",
+          "seo_keywords": [
+            "Granada",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "LocationVega de Granada.png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/LocationVega_de_Granada.png",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Cordoba",
+      "seo": {
+        "title": "Top 10 Things to Do in Cordoba, Spain",
+        "description": "Discover 10 must-see landmarks in Cordoba, Spain. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Cordoba? Explore the best places to visit in Cordoba, Spain.",
+        "keywords": [
+          "things to do in Cordoba",
+          "Cordoba Spain travel guide",
+          "best places to visit in Cordoba",
+          "Cordoba landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Córdoba",
+          "wiki_title": "Córdoba, Spain",
+          "lat": 37.89,
+          "lng": -4.78,
+          "order_index": 0,
+          "description": "Córdoba, Spain — a notable landmark in Cordoba, Spain.",
+          "seo_phrase": "Córdoba",
+          "seo_keywords": [
+            "Cordoba",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Córdoba aerial 2.jpg/800px-Córdoba aerial 2.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/C%C3%B3rdoba_aerial_2.jpg/800px-C%C3%B3rdoba_aerial_2.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Mosque–Cathedral of Córdoba",
+          "wiki_title": "Mosque–Cathedral of Córdoba",
+          "lat": 37.87916667,
+          "lng": -4.77972222,
+          "order_index": 1,
+          "description": "Mosque–Cathedral of Córdoba — a notable landmark in Cordoba, Spain.",
+          "seo_phrase": "Mosque–Cathedral of Córdoba",
+          "seo_keywords": [
+            "Cordoba",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Mezquita de Córdoba desde el aire (Córdoba, España).jpg/800px-Mezquita de Córdoba desde el aire (Córdoba, España).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mezquita_de_C%C3%B3rdoba_desde_el_aire_%28C%C3%B3rdoba%2C_Espa%C3%B1a%29.jpg/800px-Mezquita_de_C%C3%B3rdoba_desde_el_aire_%28C%C3%B3rdoba%2C_Espa%C3%B1a%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Carmona",
+          "wiki_title": "Carmona, Spain",
+          "lat": 37.46666667,
+          "lng": -5.63333333,
+          "order_index": 2,
+          "description": "Carmona, Spain — a notable landmark in Cordoba, Spain.",
+          "seo_phrase": "Carmona",
+          "seo_keywords": [
+            "Cordoba",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Carmona004.jpg/800px-Carmona004.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Carmona004.jpg/800px-Carmona004.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Ronda",
+          "wiki_title": "Ronda",
+          "lat": 36.73722222,
+          "lng": -5.16472222,
+          "order_index": 3,
+          "description": "Ronda — a notable landmark in Cordoba, Spain.",
+          "seo_phrase": "Ronda",
+          "seo_keywords": [
+            "Cordoba",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Ronda aerial.jpg/800px-Ronda aerial.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ronda_aerial.jpg/800px-Ronda_aerial.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Madinat al-Zahra",
+          "wiki_title": "Madinat al-Zahra",
+          "lat": 37.888,
+          "lng": -4.867,
+          "order_index": 4,
+          "description": "Madinat al-Zahra — a notable landmark in Cordoba, Spain.",
+          "seo_phrase": "Madinat al-Zahra",
+          "seo_keywords": [
+            "Cordoba",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Salon Rico 1.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Salon_Rico_1.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Alcázar de los Reyes Cristianos",
+          "wiki_title": "Alcázar de los Reyes Cristianos",
+          "lat": 37.87722222,
+          "lng": -4.78194444,
+          "order_index": 5,
+          "description": "Alcázar de los Reyes Cristianos — a notable landmark in Cordoba, Spain.",
+          "seo_phrase": "Alcázar de los Reyes Cristianos",
+          "seo_keywords": [
+            "Cordoba",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Cordoba-6 (48026780817).jpg/800px-Cordoba-6 (48026780817).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Cordoba-6_%2848026780817%29.jpg/800px-Cordoba-6_%2848026780817%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Aljafería",
+          "wiki_title": "Aljafería",
+          "lat": 41.656472,
+          "lng": -0.89675,
+          "order_index": 6,
+          "description": "Aljafería — a notable landmark in Cordoba, Spain.",
+          "seo_phrase": "Aljafería",
+          "seo_keywords": [
+            "Cordoba",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Aljafería Palace.jpg/800px-Aljafería Palace.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aljafer%C3%ADa_Palace.jpg/800px-Aljafer%C3%ADa_Palace.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Córdoba Synagogue",
+          "wiki_title": "Córdoba Synagogue",
+          "lat": 37.87972222,
+          "lng": -4.78333333,
+          "order_index": 7,
+          "description": "Córdoba Synagogue — a notable landmark in Cordoba, Spain.",
+          "seo_phrase": "Córdoba Synagogue",
+          "seo_keywords": [
+            "Cordoba",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "West wall of the Synagogue of Córdoba.JPG/800px-West wall of the Synagogue of Córdoba.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/West_wall_of_the_Synagogue_of_C%C3%B3rdoba.JPG/800px-West_wall_of_the_Synagogue_of_C%C3%B3rdoba.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Umayyad state of Córdoba",
+          "wiki_title": "Umayyad state of Córdoba",
+          "lat": 37.88,
+          "lng": -4.78,
+          "order_index": 8,
+          "description": "Umayyad state of Córdoba — a notable landmark in Cordoba, Spain.",
+          "seo_phrase": "Umayyad state of Córdoba",
+          "seo_keywords": [
+            "Cordoba",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Caliphate of Córdoba under Almanzor - 1000 CE.png/800px-Caliphate of Córdoba under Almanzor - 1000 CE.png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Caliphate_of_C%C3%B3rdoba_under_Almanzor_-_1000_CE.png/800px-Caliphate_of_C%C3%B3rdoba_under_Almanzor_-_1000_CE.png",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Palacio de la Merced",
+          "wiki_title": "Palacio de la Merced",
+          "lat": 37.8904,
+          "lng": -4.7801,
+          "order_index": 9,
+          "description": "Palacio de la Merced — a notable landmark in Cordoba, Spain.",
+          "seo_phrase": "Palacio de la Merced",
+          "seo_keywords": [
+            "Cordoba",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "PalaciodelaMerced02.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/PalaciodelaMerced02.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Toledo",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Toledo",
+      "seo": {
+        "title": "Top 10 Things to Do in Toledo, Spain",
+        "description": "Discover 10 must-see landmarks in Toledo, Spain. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Toledo? Explore the best places to visit in Toledo, Spain.",
+        "keywords": [
+          "things to do in Toledo",
+          "Toledo Spain travel guide",
+          "best places to visit in Toledo",
+          "Toledo landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Toledo",
+          "wiki_title": "Toledo, Spain",
+          "lat": 39.85666667,
+          "lng": -4.02444444,
+          "order_index": 0,
+          "description": "Toledo, Spain — a notable landmark in Toledo, Spain.",
+          "seo_phrase": "Toledo",
+          "seo_keywords": [
+            "Toledo",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Toledo (37737041515).jpg/800px-Toledo (37737041515).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Toledo_%2837737041515%29.jpg/800px-Toledo_%2837737041515%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Archdiocese of Toledo",
+          "wiki_title": "Archdiocese of Toledo",
+          "lat": 39.8575,
+          "lng": -4.0231,
+          "order_index": 1,
+          "description": "Archdiocese of Toledo — a notable landmark in Toledo, Spain.",
+          "seo_phrase": "Archdiocese of Toledo",
+          "seo_keywords": [
+            "Toledo",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "KathedraleToledo.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/KathedraleToledo.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Synagogue of Santa María la Blanca",
+          "wiki_title": "Synagogue of Santa María la Blanca",
+          "lat": 39.85694444,
+          "lng": -4.03027778,
+          "order_index": 2,
+          "description": "Synagogue of Santa María la Blanca — a notable landmark in Toledo, Spain.",
+          "seo_phrase": "Synagogue of Santa María la Blanca",
+          "seo_keywords": [
+            "Toledo",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Santa María la Blanca - Arcos.jpg/800px-Santa María la Blanca - Arcos.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Santa_Mar%C3%ADa_la_Blanca_-_Arcos.jpg/800px-Santa_Mar%C3%ADa_la_Blanca_-_Arcos.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Church of San Sebastián",
+          "wiki_title": "Church of San Sebastián, Toledo",
+          "lat": 39.8535,
+          "lng": -4.0255,
+          "order_index": 3,
+          "description": "Church of San Sebastián, Toledo — a notable landmark in Toledo, Spain.",
+          "seo_phrase": "Church of San Sebastián",
+          "seo_keywords": [
+            "Toledo",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Toledo 2015 10 26 2803 (26732620315) (cropped) iglesia de San Sebastián.jpg/800px-Toledo 2015 10 26 2803 (26732620315) (cropped) iglesia de San Sebastián.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Toledo_2015_10_26_2803_%2826732620315%29_%28cropped%29_iglesia_de_San_Sebasti%C3%A1n.jpg/800px-Toledo_2015_10_26_2803_%2826732620315%29_%28cropped%29_iglesia_de_San_Sebasti%C3%A1n.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Mezquita-Iglesia de El Salvador",
+          "wiki_title": "Mezquita-Iglesia de El Salvador, Toledo",
+          "lat": 39.8566,
+          "lng": -4.0267,
+          "order_index": 4,
+          "description": "Mezquita-Iglesia de El Salvador, Toledo — a notable landmark in Toledo, Spain.",
+          "seo_phrase": "Mezquita-Iglesia de El Salvador",
+          "seo_keywords": [
+            "Toledo",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Iglesia del Salvador. Toledo.jpg/800px-Iglesia del Salvador. Toledo.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Iglesia_del_Salvador._Toledo.jpg/800px-Iglesia_del_Salvador._Toledo.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Church of San Román",
+          "wiki_title": "Church of San Román, Toledo",
+          "lat": 39.85833333,
+          "lng": -4.02694444,
+          "order_index": 5,
+          "description": "Church of San Román, Toledo — a notable landmark in Toledo, Spain.",
+          "seo_phrase": "Church of San Román",
+          "seo_keywords": [
+            "Toledo",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Tolède - Clocher de San Tomé.jpg/800px-Tolède - Clocher de San Tomé.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Tol%C3%A8de_-_Clocher_de_San_Tom%C3%A9.jpg/800px-Tol%C3%A8de_-_Clocher_de_San_Tom%C3%A9.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Church of Santiago",
+          "wiki_title": "Church of Santiago, Toledo",
+          "lat": 39.862,
+          "lng": -4.0255,
+          "order_index": 6,
+          "description": "Church of Santiago, Toledo — a notable landmark in Toledo, Spain.",
+          "seo_phrase": "Church of Santiago",
+          "seo_keywords": [
+            "Toledo",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Fachada Iglesia de Santiago, Toledo.jpg/800px-Fachada Iglesia de Santiago, Toledo.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Fachada_Iglesia_de_Santiago%2C_Toledo.jpg/800px-Fachada_Iglesia_de_Santiago%2C_Toledo.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Toledo railway station",
+          "wiki_title": "Toledo railway station",
+          "lat": 39.8624,
+          "lng": -4.01125,
+          "order_index": 7,
+          "description": "Toledo railway station — a notable landmark in Toledo, Spain.",
+          "seo_phrase": "Toledo railway station",
+          "seo_keywords": [
+            "Toledo",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Toledo station June 2016 panorama.jpg/800px-Toledo station June 2016 panorama.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Toledo_station_June_2016_panorama.jpg/800px-Toledo_station_June_2016_panorama.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Toledo Cathedral",
+          "wiki_title": "Toledo Cathedral",
+          "lat": 39.85708333,
+          "lng": -4.02388889,
+          "order_index": 8,
+          "description": "Toledo Cathedral — a notable landmark in Toledo, Spain.",
+          "seo_phrase": "Toledo Cathedral",
+          "seo_keywords": [
+            "Toledo",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "FP Toledo Cathedral 2025 - West façade.jpg/800px-FP Toledo Cathedral 2025 - West façade.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/FP_Toledo_Cathedral_2025_-_West_fa%C3%A7ade.jpg/800px-FP_Toledo_Cathedral_2025_-_West_fa%C3%A7ade.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Church of Santo Tomé",
+          "wiki_title": "Church of Santo Tomé, Toledo",
+          "lat": 39.8568,
+          "lng": -4.0281,
+          "order_index": 9,
+          "description": "Church of Santo Tomé, Toledo — a notable landmark in Toledo, Spain.",
+          "seo_phrase": "Church of Santo Tomé",
+          "seo_keywords": [
+            "Toledo",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Tolède - clocher de Santo Tomé.JPG/800px-Tolède - clocher de Santo Tomé.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tol%C3%A8de_-_clocher_de_Santo_Tom%C3%A9.JPG/800px-Tol%C3%A8de_-_clocher_de_Santo_Tom%C3%A9.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Salamanca",
+      "seo": {
+        "title": "Top 10 Things to Do in Salamanca, Spain",
+        "description": "Discover 10 must-see landmarks in Salamanca, Spain. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Salamanca? Explore the best places to visit in Salamanca, Spain.",
+        "keywords": [
+          "things to do in Salamanca",
+          "Salamanca Spain travel guide",
+          "best places to visit in Salamanca",
+          "Salamanca landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "University of Salamanca",
+          "wiki_title": "University of Salamanca",
+          "lat": 40.96138889,
+          "lng": -5.66666667,
+          "order_index": 0,
+          "description": "University of Salamanca — a notable landmark in Salamanca, Spain.",
+          "seo_phrase": "University of Salamanca",
+          "seo_keywords": [
+            "Salamanca",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "University of Salamanca.jpg/800px-University of Salamanca.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/University_of_Salamanca.jpg/800px-University_of_Salamanca.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Burgos Cathedral",
+          "wiki_title": "Burgos Cathedral",
+          "lat": 42.34080556,
+          "lng": -3.70447222,
+          "order_index": 1,
+          "description": "Burgos Cathedral — a notable landmark in Salamanca, Spain.",
+          "seo_phrase": "Burgos Cathedral",
+          "seo_keywords": [
+            "Salamanca",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Escaleras a la Catedral -- 2023 -- Burgos, Castilla y León, España.jpg/800px-Escaleras a la Catedral -- 2023 -- Burgos, Castilla y León, España.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Escaleras_a_la_Catedral_--_2023_--_Burgos%2C_Castilla_y_Le%C3%B3n%2C_Espa%C3%B1a.jpg/800px-Escaleras_a_la_Catedral_--_2023_--_Burgos%2C_Castilla_y_Le%C3%B3n%2C_Espa%C3%B1a.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Ciudad Rodrigo",
+          "wiki_title": "Ciudad Rodrigo",
+          "lat": 40.59694444,
+          "lng": -6.53916667,
+          "order_index": 2,
+          "description": "Ciudad Rodrigo — a notable landmark in Salamanca, Spain.",
+          "seo_phrase": "Ciudad Rodrigo",
+          "seo_keywords": [
+            "Salamanca",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "RI-53-0000010.jpg/800px-RI-53-0000010.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/RI-53-0000010.jpg/800px-RI-53-0000010.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Cathedral of the Savior of Zaragoza",
+          "wiki_title": "Cathedral of the Savior of Zaragoza",
+          "lat": 41.65456,
+          "lng": -0.87585,
+          "order_index": 3,
+          "description": "Cathedral of the Savior of Zaragoza — a notable landmark in Salamanca, Spain.",
+          "seo_phrase": "Cathedral of the Savior of Zaragoza",
+          "seo_keywords": [
+            "Salamanca",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "La Seo de noche.JPG/800px-La Seo de noche.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/La_Seo_de_noche.JPG/800px-La_Seo_de_noche.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "New Cathedral of Salamanca",
+          "wiki_title": "New Cathedral of Salamanca",
+          "lat": 40.96055556,
+          "lng": -5.66583333,
+          "order_index": 4,
+          "description": "New Cathedral of Salamanca — a notable landmark in Salamanca, Spain.",
+          "seo_phrase": "New Cathedral of Salamanca",
+          "seo_keywords": [
+            "Salamanca",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "WLM14ES - Catedral Nueva de Salamanca. - julianrdc edited.jpg/800px-WLM14ES - Catedral Nueva de Salamanca. - julianrdc edited.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/WLM14ES_-_Catedral_Nueva_de_Salamanca._-_julianrdc_edited.jpg/800px-WLM14ES_-_Catedral_Nueva_de_Salamanca._-_julianrdc_edited.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Salamanca",
+          "wiki_title": "Salamanca",
+          "lat": 40.965,
+          "lng": -5.66416667,
+          "order_index": 5,
+          "description": "Salamanca — a notable landmark in Salamanca, Spain.",
+          "seo_phrase": "Salamanca",
+          "seo_keywords": [
+            "Salamanca",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "68436-Salamanca (49093713952) edited.jpg/800px-68436-Salamanca (49093713952) edited.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/68436-Salamanca_%2849093713952%29_edited.jpg/800px-68436-Salamanca_%2849093713952%29_edited.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Old Cathedral of Salamanca",
+          "wiki_title": "Old Cathedral of Salamanca",
+          "lat": 40.96047222,
+          "lng": -5.66666667,
+          "order_index": 6,
+          "description": "Old Cathedral of Salamanca — a notable landmark in Salamanca, Spain.",
+          "seo_phrase": "Old Cathedral of Salamanca",
+          "seo_keywords": [
+            "Salamanca",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Torre del Gallo, Catedral Vieja de Salamanca.jpg/800px-Torre del Gallo, Catedral Vieja de Salamanca.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Torre_del_Gallo%2C_Catedral_Vieja_de_Salamanca.jpg/800px-Torre_del_Gallo%2C_Catedral_Vieja_de_Salamanca.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Ciudad Rodrigo Cathedral",
+          "wiki_title": "Ciudad Rodrigo Cathedral",
+          "lat": 40.598941,
+          "lng": -6.535096,
+          "order_index": 7,
+          "description": "Ciudad Rodrigo Cathedral — a notable landmark in Salamanca, Spain.",
+          "seo_phrase": "Ciudad Rodrigo Cathedral",
+          "seo_keywords": [
+            "Salamanca",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Spainciudadrodrigocatedralsantamaria01.jpg/800px-Spainciudadrodrigocatedralsantamaria01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Spainciudadrodrigocatedralsantamaria01.jpg/800px-Spainciudadrodrigocatedralsantamaria01.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Roman bridge of Salamanca",
+          "wiki_title": "Roman bridge of Salamanca",
+          "lat": 40.95777,
+          "lng": -5.67018,
+          "order_index": 8,
+          "description": "Roman bridge of Salamanca — a notable landmark in Salamanca, Spain.",
+          "seo_phrase": "Roman bridge of Salamanca",
+          "seo_keywords": [
+            "Salamanca",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Pont romain et cathédrales vieille et nouvelle de Salamanque (1967-08-07).jpg/800px-Pont romain et cathédrales vieille et nouvelle de Salamanque (1967-08-07).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Pont_romain_et_cath%C3%A9drales_vieille_et_nouvelle_de_Salamanque_%281967-08-07%29.jpg/800px-Pont_romain_et_cath%C3%A9drales_vieille_et_nouvelle_de_Salamanque_%281967-08-07%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Plaza de Cibeles",
+          "wiki_title": "Plaza de Cibeles",
+          "lat": 40.41916667,
+          "lng": -3.69305556,
+          "order_index": 9,
+          "description": "Plaza de Cibeles — a notable landmark in Salamanca, Spain.",
+          "seo_phrase": "Plaza de Cibeles",
+          "seo_keywords": [
+            "Salamanca",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Cibeles desde el Ayuntamiento (Madrid) (14203354114).jpg/800px-Cibeles desde el Ayuntamiento (Madrid) (14203354114).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Cibeles_desde_el_Ayuntamiento_%28Madrid%29_%2814203354114%29.jpg/800px-Cibeles_desde_el_Ayuntamiento_%28Madrid%29_%2814203354114%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "San Sebastian",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "San Sebastian",
+      "seo": {
+        "title": "Top 10 Things to Do in San Sebastian, Spain",
+        "description": "Discover 10 must-see landmarks in San Sebastian, Spain. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to San Sebastian? Explore the best places to visit in San Sebastian, Spain.",
+        "keywords": [
+          "things to do in San Sebastian",
+          "San Sebastian Spain travel guide",
+          "best places to visit in San Sebastian",
+          "San Sebastian landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "San Sebastián",
+          "wiki_title": "San Sebastián",
+          "lat": 43.32138889,
+          "lng": -1.98555556,
+          "order_index": 0,
+          "description": "San Sebastián — a notable landmark in San Sebastian, Spain.",
+          "seo_phrase": "San Sebastián",
+          "seo_keywords": [
+            "San Sebastian",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "San Sebastián - Ayuntamiento 10.jpg/800px-San Sebastián - Ayuntamiento 10.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/San_Sebasti%C3%A1n_-_Ayuntamiento_10.jpg/800px-San_Sebasti%C3%A1n_-_Ayuntamiento_10.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Diocese of San Sebastián",
+          "wiki_title": "Diocese of San Sebastián",
+          "lat": 43.3167,
+          "lng": -1.9815,
+          "order_index": 1,
+          "description": "Diocese of San Sebastián — a notable landmark in San Sebastian, Spain.",
+          "seo_phrase": "Diocese of San Sebastián",
+          "seo_keywords": [
+            "San Sebastian",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "San Sebastian Buen Pastor.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/San_Sebastian_Buen_Pastor.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Palencia Cathedral",
+          "wiki_title": "Palencia Cathedral",
+          "lat": 42.01111111,
+          "lng": -4.53694444,
+          "order_index": 2,
+          "description": "Palencia Cathedral — a notable landmark in San Sebastian, Spain.",
+          "seo_phrase": "Palencia Cathedral",
+          "seo_keywords": [
+            "San Sebastian",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Palencia Cathedral 2023 - South Façade.jpg/800px-Palencia Cathedral 2023 - South Façade.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Palencia_Cathedral_2023_-_South_Fa%C3%A7ade.jpg/800px-Palencia_Cathedral_2023_-_South_Fa%C3%A7ade.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "San Sebastián Cathedral",
+          "wiki_title": "San Sebastián Cathedral",
+          "lat": 43.31666667,
+          "lng": -1.9815,
+          "order_index": 3,
+          "description": "San Sebastián Cathedral — a notable landmark in San Sebastian, Spain.",
+          "seo_phrase": "San Sebastián Cathedral",
+          "seo_keywords": [
+            "San Sebastian",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Catedral del Buen Pastor (9225828442).jpg/800px-Catedral del Buen Pastor (9225828442).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Catedral_del_Buen_Pastor_%289225828442%29.jpg/800px-Catedral_del_Buen_Pastor_%289225828442%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Hospital de San Sebastián",
+          "wiki_title": "Hospital de San Sebastián",
+          "lat": 37.879056,
+          "lng": -4.780556,
+          "order_index": 4,
+          "description": "Hospital de San Sebastián — a notable landmark in San Sebastian, Spain.",
+          "seo_phrase": "Hospital de San Sebastián",
+          "seo_keywords": [
+            "San Sebastian",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Spain Andalusia Cordoba BW 2015-10-27 12-23-39.jpg/800px-Spain Andalusia Cordoba BW 2015-10-27 12-23-39.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Spain_Andalusia_Cordoba_BW_2015-10-27_12-23-39.jpg/800px-Spain_Andalusia_Cordoba_BW_2015-10-27_12-23-39.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Hondarribia",
+          "wiki_title": "Hondarribia",
+          "lat": 43.36666667,
+          "lng": -1.79583333,
+          "order_index": 5,
+          "description": "Hondarribia — a notable landmark in San Sebastian, Spain.",
+          "seo_phrase": "Hondarribia",
+          "seo_keywords": [
+            "San Sebastian",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Fontarrabie depuis Hendaye 2012.jpg/800px-Fontarrabie depuis Hendaye 2012.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Fontarrabie_depuis_Hendaye_2012.jpg/800px-Fontarrabie_depuis_Hendaye_2012.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Antequera",
+          "wiki_title": "Antequera",
+          "lat": 37.01833333,
+          "lng": -4.55972222,
+          "order_index": 6,
+          "description": "Antequera — a notable landmark in San Sebastian, Spain.",
+          "seo_phrase": "Antequera",
+          "seo_keywords": [
+            "San Sebastian",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Antequera Gesamtansicht2004.jpg/800px-Antequera Gesamtansicht2004.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antequera_Gesamtansicht2004.jpg/800px-Antequera_Gesamtansicht2004.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Setenil de las Bodegas",
+          "wiki_title": "Setenil de las Bodegas",
+          "lat": 36.8625,
+          "lng": -5.18138889,
+          "order_index": 7,
+          "description": "Setenil de las Bodegas — a notable landmark in San Sebastian, Spain.",
+          "seo_phrase": "Setenil de las Bodegas",
+          "seo_keywords": [
+            "San Sebastian",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Setenil de las Bodegas - Wallpaper.jpg/800px-Setenil de las Bodegas - Wallpaper.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Setenil_de_las_Bodegas_-_Wallpaper.jpg/800px-Setenil_de_las_Bodegas_-_Wallpaper.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "La Caleta",
+          "wiki_title": "La Caleta, Spain",
+          "lat": 36.53027778,
+          "lng": -6.30583333,
+          "order_index": 8,
+          "description": "La Caleta, Spain — a notable landmark in San Sebastian, Spain.",
+          "seo_phrase": "La Caleta",
+          "seo_keywords": [
+            "San Sebastian",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Cadiz playa caleta.jpg/800px-Cadiz playa caleta.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cadiz_playa_caleta.jpg/800px-Cadiz_playa_caleta.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Castle of San Servando",
+          "wiki_title": "Castle of San Servando",
+          "lat": 39.8604,
+          "lng": -4.0156,
+          "order_index": 9,
+          "description": "Castle of San Servando — a notable landmark in San Sebastian, Spain.",
+          "seo_phrase": "Castle of San Servando",
+          "seo_keywords": [
+            "San Sebastian",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "FP Toledo 2025 - Castillo de San Servando.jpg/800px-FP Toledo 2025 - Castillo de San Servando.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/FP_Toledo_2025_-_Castillo_de_San_Servando.jpg/800px-FP_Toledo_2025_-_Castillo_de_San_Servando.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Malaga",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Malaga",
+      "seo": {
+        "title": "Top 10 Things to Do in Malaga, Spain",
+        "description": "Discover 10 must-see landmarks in Malaga, Spain. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Malaga? Explore the best places to visit in Malaga, Spain.",
+        "keywords": [
+          "things to do in Malaga",
+          "Malaga Spain travel guide",
+          "best places to visit in Malaga",
+          "Malaga landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Málaga",
+          "wiki_title": "Málaga",
+          "lat": 36.71944444,
+          "lng": -4.42,
+          "order_index": 0,
+          "description": "Málaga — a notable landmark in Malaga, Spain.",
+          "seo_phrase": "Málaga",
+          "seo_keywords": [
+            "Malaga",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Da Gibralfaro (cropped)2.jpg/800px-Da Gibralfaro (cropped)2.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Da_Gibralfaro_%28cropped%292.jpg/800px-Da_Gibralfaro_%28cropped%292.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Marbella",
+          "wiki_title": "Marbella",
+          "lat": 36.51666667,
+          "lng": -4.88333333,
+          "order_index": 1,
+          "description": "Marbella — a notable landmark in Malaga, Spain.",
+          "seo_phrase": "Marbella",
+          "seo_keywords": [
+            "Malaga",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Captivating Views of Old Town Marbella.jpg/800px-Captivating Views of Old Town Marbella.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Captivating_Views_of_Old_Town_Marbella.jpg/800px-Captivating_Views_of_Old_Town_Marbella.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Fuengirola",
+          "wiki_title": "Fuengirola",
+          "lat": 36.54166667,
+          "lng": -4.625,
+          "order_index": 2,
+          "description": "Fuengirola — a notable landmark in Malaga, Spain.",
+          "seo_phrase": "Fuengirola",
+          "seo_keywords": [
+            "Malaga",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Fuengirolabeach.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Fuengirolabeach.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Benalmádena",
+          "wiki_title": "Benalmádena",
+          "lat": 36.6,
+          "lng": -4.51666667,
+          "order_index": 3,
+          "description": "Benalmádena — a notable landmark in Malaga, Spain.",
+          "seo_phrase": "Benalmádena",
+          "seo_keywords": [
+            "Malaga",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Teleférico Benalmádena.jpg/800px-Teleférico Benalmádena.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Telef%C3%A9rico_Benalm%C3%A1dena.jpg/800px-Telef%C3%A9rico_Benalm%C3%A1dena.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Estepona",
+          "wiki_title": "Estepona",
+          "lat": 36.42638889,
+          "lng": -5.14722222,
+          "order_index": 4,
+          "description": "Estepona — a notable landmark in Malaga, Spain.",
+          "seo_phrase": "Estepona",
+          "seo_keywords": [
+            "Malaga",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Estepona aerial.jpg/800px-Estepona aerial.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Estepona_aerial.jpg/800px-Estepona_aerial.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Álora",
+          "wiki_title": "Álora",
+          "lat": 36.81666667,
+          "lng": -4.7,
+          "order_index": 5,
+          "description": "Álora — a notable landmark in Malaga, Spain.",
+          "seo_phrase": "Álora",
+          "seo_keywords": [
+            "Malaga",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "AloraMountain.JPG/800px-AloraMountain.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/AloraMountain.JPG/800px-AloraMountain.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Vélez-Málaga",
+          "wiki_title": "Vélez-Málaga",
+          "lat": 36.78333333,
+          "lng": -4.1,
+          "order_index": 6,
+          "description": "Vélez-Málaga — a notable landmark in Malaga, Spain.",
+          "seo_phrase": "Vélez-Málaga",
+          "seo_keywords": [
+            "Malaga",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Velez-Malaga Collage.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Velez-Malaga_Collage.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Gaucín",
+          "wiki_title": "Gaucín",
+          "lat": 36.51666667,
+          "lng": -5.31666667,
+          "order_index": 7,
+          "description": "Gaucín — a notable landmark in Malaga, Spain.",
+          "seo_phrase": "Gaucín",
+          "seo_keywords": [
+            "Malaga",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Gaucín, Spain.jpg/800px-Gaucín, Spain.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Gauc%C3%ADn%2C_Spain.jpg/800px-Gauc%C3%ADn%2C_Spain.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Benahavís",
+          "wiki_title": "Benahavís",
+          "lat": 36.51897222,
+          "lng": -5.04544444,
+          "order_index": 8,
+          "description": "Benahavís — a notable landmark in Malaga, Spain.",
+          "seo_phrase": "Benahavís",
+          "seo_keywords": [
+            "Malaga",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Benahavís DSCF1473.JPG/800px-Benahavís DSCF1473.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Benahav%C3%ADs_DSCF1473.JPG/800px-Benahav%C3%ADs_DSCF1473.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Rincón de la Victoria",
+          "wiki_title": "Rincón de la Victoria",
+          "lat": 36.71666667,
+          "lng": -4.28333333,
+          "order_index": 9,
+          "description": "Rincón de la Victoria — a notable landmark in Malaga, Spain.",
+          "seo_phrase": "Rincón de la Victoria",
+          "seo_keywords": [
+            "Malaga",
+            "Spain",
+            "travel"
+          ],
+          "commons_file": "Vista de Rincón de la Victoria.jpg/800px-Vista de Rincón de la Victoria.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Vista_de_Rinc%C3%B3n_de_la_Victoria.jpg/800px-Vista_de_Rinc%C3%B3n_de_la_Victoria.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "Spain Scenic Road Trip",
+    "subtitle": "Explore Spain beyond the cities — nature, coastlines, and scenic routes.",
+    "wiki_title": "Spain",
+    "hero_image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Palacio_Real_de_Madrid_-_06.jpg",
+    "totalDays": 10,
+    "seo": {
+      "title": "Spain Road Trip Adventure",
+      "description": "Plan a Spain road trip with GPS stops and scenic routes.",
+      "intro": "Explore Spain beyond the cities with this adventure route.",
+      "keywords": [
+        "Spain road trip",
+        "Spain by car"
+      ]
+    },
+    "places": [
+      {
+        "name": "Castle of Loarre",
+        "wiki_title": "Castle of Loarre",
+        "region": "Spain",
+        "lat": 42.31555556,
+        "lng": -0.62416667,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Castle of Loarre — a must-see landmark on a Spain road trip.",
+        "seo_phrase": "Castle of Loarre",
+        "seo_keywords": [
+          "Castle of Loarre",
+          "Spain",
+          "road trip"
+        ],
+        "commons_file": "Castillo de Loarre 2.jpg/800px-Castillo de Loarre 2.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Castillo_de_Loarre_2.jpg/800px-Castillo_de_Loarre_2.jpg",
+        "seo_priority": 90,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Castle of Zamora",
+        "wiki_title": "Castle of Zamora",
+        "region": "Spain",
+        "lat": 41.4998,
+        "lng": -5.7561,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Castle of Zamora — a must-see landmark on a Spain road trip.",
+        "seo_phrase": "Castle of Zamora",
+        "seo_keywords": [
+          "Castle of Zamora",
+          "Spain",
+          "road trip"
+        ],
+        "commons_file": "Castillo de Zamora-2011.JPG/800px-Castillo de Zamora-2011.JPG",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Castillo_de_Zamora-2011.JPG/800px-Castillo_de_Zamora-2011.JPG",
+        "seo_priority": 89,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Castle of Santa Catalina (Jaén)",
+        "wiki_title": "Castle of Santa Catalina (Jaén",
+        "region": "Spain",
+        "lat": 37.76722222,
+        "lng": -3.79944444,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Castle of Santa Catalina (Jaén) — a must-see landmark on a Spain road trip.",
+        "seo_phrase": "Castle of Santa Catalina (Jaén)",
+        "seo_keywords": [
+          "Castle of Santa Catalina (Jaén)",
+          "Spain",
+          "road trip"
+        ],
+        "commons_file": "Castillo de Jaén III.JPG/800px-Castillo de Jaén III.JPG",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Castillo_de_Ja%C3%A9n_III.JPG/800px-Castillo_de_Ja%C3%A9n_III.JPG",
+        "seo_priority": 88,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Peñafiel Castle",
+        "wiki_title": "Peñafiel Castle",
+        "region": "Spain",
+        "lat": 41.5967,
+        "lng": -4.11431,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Peñafiel Castle — a must-see landmark on a Spain road trip.",
+        "seo_phrase": "Peñafiel Castle",
+        "seo_keywords": [
+          "Peñafiel Castle",
+          "Spain",
+          "road trip"
+        ],
+        "commons_file": "Castello di peñafiel.jpg/800px-Castello di peñafiel.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Castello_di_pe%C3%B1afiel.jpg/800px-Castello_di_pe%C3%B1afiel.jpg",
+        "seo_priority": 87,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Castle of Soutomaior",
+        "wiki_title": "Castle of Soutomaior",
+        "region": "Spain",
+        "lat": 42.3295,
+        "lng": -8.5683,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Castle of Soutomaior — a must-see landmark on a Spain road trip.",
+        "seo_phrase": "Castle of Soutomaior",
+        "seo_keywords": [
+          "Castle of Soutomaior",
+          "Spain",
+          "road trip"
+        ],
+        "commons_file": "Soutomaior, castelo de.jpg/800px-Soutomaior, castelo de.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Soutomaior%2C_castelo_de.jpg/800px-Soutomaior%2C_castelo_de.jpg",
+        "seo_priority": 86,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Peralada Castle",
+        "wiki_title": "Peralada Castle",
+        "region": "Spain",
+        "lat": 42.30761667,
+        "lng": 3.01078611,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Peralada Castle — a must-see landmark on a Spain road trip.",
+        "seo_phrase": "Peralada Castle",
+        "seo_keywords": [
+          "Peralada Castle",
+          "Spain",
+          "road trip"
+        ],
+        "commons_file": "Castell de Peralada - Nit.JPG/800px-Castell de Peralada - Nit.JPG",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Castell_de_Peralada_-_Nit.JPG/800px-Castell_de_Peralada_-_Nit.JPG",
+        "seo_priority": 85,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Atalaya Castle (Spain)",
+        "wiki_title": "Atalaya Castle (Spain",
+        "region": "Spain",
+        "lat": 38.63194444,
+        "lng": -0.8525,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Atalaya Castle (Spain) — a must-see landmark on a Spain road trip.",
+        "seo_phrase": "Atalaya Castle (Spain)",
+        "seo_keywords": [
+          "Atalaya Castle (Spain)",
+          "Spain",
+          "road trip"
+        ],
+        "commons_file": "Castillo de la Atalaya, Villena.JPG/800px-Castillo de la Atalaya, Villena.JPG",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Castillo_de_la_Atalaya%2C_Villena.JPG/800px-Castillo_de_la_Atalaya%2C_Villena.JPG",
+        "seo_priority": 84,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Castle of Almansa",
+        "wiki_title": "Castle of Almansa",
+        "region": "Spain",
+        "lat": 38.871473,
+        "lng": -1.093356,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Castle of Almansa — a must-see landmark on a Spain road trip.",
+        "seo_phrase": "Castle of Almansa",
+        "seo_keywords": [
+          "Castle of Almansa",
+          "Spain",
+          "road trip"
+        ],
+        "commons_file": "Castillo de Almansa sobre el cerro del Aguila.jpg/800px-Castillo de Almansa sobre el cerro del Aguila.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Castillo_de_Almansa_sobre_el_cerro_del_Aguila.jpg/800px-Castillo_de_Almansa_sobre_el_cerro_del_Aguila.jpg",
+        "seo_priority": 83,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Castle of San Sebastián",
+        "wiki_title": "Castle of San Sebastián",
+        "region": "Spain",
+        "lat": 36.528106,
+        "lng": -6.315614,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Castle of San Sebastián — a must-see landmark on a Spain road trip.",
+        "seo_phrase": "Castle of San Sebastián",
+        "seo_keywords": [
+          "Castle of San Sebastián",
+          "Spain",
+          "road trip"
+        ],
+        "commons_file": "Castillo de San Sebastián Cádiz 3.jpg/800px-Castillo de San Sebastián Cádiz 3.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Castillo_de_San_Sebasti%C3%A1n_C%C3%A1diz_3.jpg/800px-Castillo_de_San_Sebasti%C3%A1n_C%C3%A1diz_3.jpg",
+        "seo_priority": 82,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Castle of Santa Catalina (Cádiz)",
+        "wiki_title": "Castle of Santa Catalina (Cádiz",
+        "region": "Spain",
+        "lat": 36.532725,
+        "lng": -6.30805,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Castle of Santa Catalina (Cádiz) — a must-see landmark on a Spain road trip.",
+        "seo_phrase": "Castle of Santa Catalina (Cádiz)",
+        "seo_keywords": [
+          "Castle of Santa Catalina (Cádiz)",
+          "Spain",
+          "road trip"
+        ],
+        "commons_file": "Castillo de Santa Catalina, Cádiz.jpg/800px-Castillo de Santa Catalina, Cádiz.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Castillo_de_Santa_Catalina%2C_C%C3%A1diz.jpg/800px-Castillo_de_Santa_Catalina%2C_C%C3%A1diz.jpg",
+        "seo_priority": 81,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      }
+    ]
+  }
+}

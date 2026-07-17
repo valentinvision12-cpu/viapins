@@ -1,0 +1,4304 @@
+{
+  "country": "Switzerland",
+  "cities": [
+    {
+      "name": "Zurich",
+      "region": "Zurich"
+    },
+    {
+      "name": "Geneva",
+      "region": "Geneva"
+    },
+    {
+      "name": "Basel",
+      "region": "Basel-Stadt"
+    },
+    {
+      "name": "Bern",
+      "region": "Bern"
+    },
+    {
+      "name": "Lucerne",
+      "region": "Lucerne"
+    },
+    {
+      "name": "Lausanne",
+      "region": "Vaud"
+    },
+    {
+      "name": "Lugano",
+      "region": "Ticino"
+    },
+    {
+      "name": "St. Gallen",
+      "region": "St. Gallen"
+    },
+    {
+      "name": "Thun",
+      "region": "Bern"
+    },
+    {
+      "name": "Winterthur",
+      "region": "Zurich"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Grossmünster",
+      "city": "Zurich",
+      "region": "Zurich",
+      "latitude": 47.3701,
+      "longitude": 8.5438,
+      "google_maps_url": "https://www.google.com/maps?q=47.3701,8.5438",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Grossm%C3%BCnster",
+      "wikidata_id": "Q125661",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Grossmuenster_Zurich.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-4.0",
+      "seo_title": "Grossmünster Church Zurich - History & Panoramic Views",
+      "seo_description": "Discover the iconic twin towers of Grossmünster in Zurich. Explore its rich Reformation history and enjoy breathtaking Alpine city views.",
+      "description_short": "An iconic Romanesque Protestant church featuring twin towers that dominate the Zurich skyline.",
+      "description_long": "The Grossmünster stands proud as a monumental landmark in Zurich's Old Town. According to legend, it was commissioned by Charlemagne over the graves of the city's patron saints, Felix and Regula. Serving as the starting point of the Swiss-German Reformation led by Huldrych Zwingli, this architectural marvel offers visitors brilliant stained-glass windows by Augusto Giacometti and a steep climb up the Karlsturm for rewarding urban panoramas.",
+      "keywords": [
+        "Grossmünster",
+        "Zurich cathedral",
+        "Zwingli church",
+        "Zurich old town",
+        "Karlsturm"
+      ],
+      "long_tail_keywords": [
+        "climbing Grossmünster tower Zurich",
+        "history of Grossmünster church",
+        "best viewpoints in Zurich old town"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 95,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Fraumünster",
+        "Lindenhof",
+        "St. Peter Church"
+      ],
+      "related_attractions": [
+        "Bern Minster",
+        "Lausanne Cathedral"
+      ],
+      "internal_link_priority": "high",
+      "season_tags": [
+        "all-year",
+        "winter",
+        "summer"
+      ],
+      "requires_guide": false,
+      "history": "Inception began around 1100 under Charlemagne's legendary decree, transitioning into a core protestant site by 1520."
+    },
+    {
+      "name": "Fraumünster",
+      "city": "Zurich",
+      "region": "Zurich",
+      "latitude": 47.3697,
+      "longitude": 8.5411,
+      "google_maps_url": "https://www.google.com/maps?q=47.3697,8.5411",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fraum%C3%BCnster",
+      "wikidata_id": "Q284451",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Z%C3%BCrich_-_Fraum%C3%BCnster_img_15374.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-3.0",
+      "seo_title": "Fraumünster Church Zurich - Famous Chagall Glass Windows",
+      "seo_description": "Visit the Fraumünster Church in Zurich to admire the world-famous stained glass windows designed by Marc Chagall and Augusto Giacometti.",
+      "description_short": "A stunning Gothic church renowned worldwide for its magnificent Marc Chagall stained glass masterpieces.",
+      "description_long": "Gracefully situated on the west bank of the Limmat River, the Fraumünster was founded in 853 by King Louis the German as an abbey for aristocratic women. Today, global travelers flock to this elegant temple not just for its striking green spire, but to contemplate the ethereal beauty of its five high-naved stained glass windows created by Marc Chagall in 1970, alongside a stellar expressive window by Augusto Giacometti.",
+      "keywords": [
+        "Fraumünster",
+        "Chagall windows Zurich",
+        "Zurich abbey church",
+        "Limmat river sights"
+      ],
+      "long_tail_keywords": [
+        "where to see Chagall windows Zurich",
+        "Fraumünster church entrance fee",
+        "Gothic architecture in Zurich"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 92,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Grossmünster",
+        "St. Peter Church",
+        "Bahnhofstrasse"
+      ],
+      "related_attractions": [
+        "Abbey of Saint Gall",
+        "Basel Minster"
+      ],
+      "internal_link_priority": "high",
+      "season_tags": [
+        "all-year",
+        "spring",
+        "autumn"
+      ],
+      "requires_guide": false,
+      "history": "Established in 853 as a convent, the institution held significant economic and political sovereignty over Zurich until the Reformation."
+    },
+    {
+      "name": "Lindenhof",
+      "city": "Zurich",
+      "region": "Zurich",
+      "latitude": 47.3728,
+      "longitude": 8.5408,
+      "google_maps_url": "https://www.google.com/maps?q=47.3728,8.5408",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lindenhof_Z%C3%BCrich",
+      "wikidata_id": "Q670077",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Z%C3%BCrich_-_Lindenhof_Lindenhofplatz_IMG_0350.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-3.0",
+      "seo_title": "Lindenhof Hill Zurich - Historical Viewpoint & Public Park",
+      "seo_description": "Relax at Lindenhof Hill, the historic heart of Zurich. Enjoy panoramic views of the Limmat River, Grossmünster, and the old town lanes.",
+      "description_short": "An elevated public oasis providing timeless, peaceful vistas over Zurich's ancient quarters.",
+      "description_long": "Lindenhof represents the literal cradle of Zurich's urban history. This shaded, hilltop square was once the site of a Roman fort in the 4th century and later a Carolingian royal palace. Today, it remains a tranquil haven covered in leafy linden trees where locals gather to play giant chess, relax away from traffic, and capture postcard-perfect photographs of the old town stretching across the sparkling river below.",
+      "keywords": [
+        "Lindenhof Zurich",
+        "Zurich viewpoint",
+        "Roman fort Zurich",
+        "free things to do Zurich"
+      ],
+      "long_tail_keywords": [
+        "best sunset spot in Zurich",
+        "Lindenhof historical park overview",
+        "taking photos at Lindenhof hill"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 89,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "St. Peter Church",
+        "Fraumünster",
+        "Bahnhofstrasse"
+      ],
+      "related_attractions": [
+        "Rose Garden Bern",
+        "Sauvabelin Tower"
+      ],
+      "internal_link_priority": "medium",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "requires_guide": false,
+      "history": "Evolved from a strategic Celtic settlement to a major Roman customs station named Turicum, transforming later into a free public space."
+    },
+    {
+      "name": "Bahnhofstrasse",
+      "city": "Zurich",
+      "region": "Zurich",
+      "latitude": 47.3725,
+      "longitude": 8.5386,
+      "google_maps_url": "https://www.google.com/maps?q=47.3725,8.5386",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bahnhofstrasse",
+      "wikidata_id": "Q667746",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Zuerich_Bahnhofstrasse_2011.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-3.0",
+      "seo_title": "Bahnhofstrasse Zurich - Luxury Shopping Street Guide",
+      "seo_description": "Explore Bahnhofstrasse, Zurich's premier shopping avenue. Find elite fashion boutiques, world-class watchmakers, and artisan chocolatiers.",
+      "description_short": "One of the world's most exclusive, sophisticated boutique and banking shopping avenues.",
+      "description_long": "Connecting Zurich Main Station directly to the shores of Lake Zurich, Bahnhofstrasse is an exquisite, mostly pedestrianized thoroughfare lined with lime trees and elite architectural facades. Famed globally for its high-concentration of luxury fashion houses, prestigious Swiss watch retailers, and historic financial institutions, it also offers sweet detours into iconic confectionery shops like Sprüngli for a taste of authentic local luxury.",
+      "keywords": [
+        "Bahnhofstrasse",
+        "Zurich shopping",
+        "luxury boutiques Switzerland",
+        "Swiss watches Zurich"
+      ],
+      "long_tail_keywords": [
+        "best shopping street in Zurich",
+        "Sprüngli cafe Bahnhofstrasse",
+        "walking down Bahnhofstrasse itinerary"
+      ],
+      "search_intent": "commercial",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 88,
+      "topical_depth_score": 6,
+      "nearby_attractions": [
+        "Lindenhof",
+        "Swiss National Museum",
+        "Bürkliplatz"
+      ],
+      "related_attractions": [
+        "Via Nassa",
+        "Place de la Palud"
+      ],
+      "internal_link_priority": "medium",
+      "season_tags": [
+        "all-year",
+        "winter",
+        "autumn"
+      ],
+      "requires_guide": false,
+      "history": "Constructed in 1867 following the demolition of ancient city moats and fortifications, rapidly turning into a global financial artery."
+    },
+    {
+      "name": "St. Peter Church",
+      "city": "Zurich",
+      "region": "Zurich",
+      "latitude": 47.3711,
+      "longitude": 8.5411,
+      "google_maps_url": "https://www.google.com/maps?q=47.3711,8.5411",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St._Peter,_Z%C3%BCrich",
+      "wikidata_id": "Q684824",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Z%C3%BCrich_-_St._Peter_IMG_0284.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-3.0",
+      "seo_title": "St. Peter Church Zurich - Europe's Largest Church Clock Face",
+      "seo_description": "Discover St. Peter Church in Zurich, famed for boasting the largest church clock face in Europe alongside beautiful Baroque interiors.",
+      "description_short": "Zurich's oldest parish temple, instantly recognized by its record-breaking, monumental clock tower.",
+      "description_long": "Tucked away near the historic Lindenhof hill, St. Peter is the oldest parish church building in Zurich. Its main architectural claim to fame is the late-Gothic steeple which proudly exhibits a colossal clock dial measuring 8.7 meters across, securing its title as the largest in Europe. Inside, the church surprises guests with an uncharacteristically bright, exquisite Baroque nave adorned with elegant stucco artistry.",
+      "keywords": [
+        "St. Peter Zurich",
+        "largest clock face Europe",
+        "oldest church Zurich",
+        "Baroque church interior"
+      ],
+      "long_tail_keywords": [
+        "St Peter church Zurich opening hours",
+        "biggest tower clock face in Europe",
+        "historic churches in Zurich old town"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 85,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Lindenhof",
+        "Fraumünster",
+        "Bahnhofstrasse"
+      ],
+      "related_attractions": [
+        "St. Pierre Cathedral",
+        "St. Laurenzen Church"
+      ],
+      "internal_link_priority": "medium",
+      "season_tags": [
+        "all-year",
+        "spring",
+        "winter"
+      ],
+      "requires_guide": false,
+      "history": "Built on Roman foundations, the structure was expanded across centuries, serving as a lookout post for city fires until 1911."
+    },
+    {
+      "name": "Zürich Opera House",
+      "city": "Zurich",
+      "region": "Zurich",
+      "latitude": 47.3653,
+      "longitude": 8.5469,
+      "google_maps_url": "https://www.google.com/maps?q=47.3653,8.5469",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Z%C3%BCrich_Opera_House",
+      "wikidata_id": "Q686701",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Opernhaus_Z%C3%BCrich_2011-09-08_18-20-42.JPG",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-3.0",
+      "seo_title": "Zürich Opera House - Neo-Baroque Cultural Landmark",
+      "seo_description": "Plan an evening at the Zürich Opera House. Experience award-winning ballets and operas inside a grand Neo-Baroque architectural jewel.",
+      "description_short": "An ornate, elite performance arts venue celebrated for top-tier global cultural productions.",
+      "description_long": "Gracing the expansive Sechseläutenplatz square close to the lake, the Zürich Opera House is a masterpiece of Neo-Baroque architecture. Constructed in 1891 out of white stone, its facade displays detailed busts of celebrated cultural giants like Mozart, Wagner, and Schiller. It operates today as a cutting-edge hub for world-renowned opera singers, orchestral spectacles, and elite ballet performances within an intimate, richly gilded hall.",
+      "keywords": [
+        "Zurich Opera House",
+        "Opernhaus Zuerich",
+        "Swiss ballet venue",
+        "Sechseläutenplatz landmark"
+      ],
+      "long_tail_keywords": [
+        "booking tickets Zurich opera house",
+        "Neo Baroque buildings Zurich",
+        "cultural things to do in Zurich night"
+      ],
+      "search_intent": "commercial",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "booking",
+      "seo_priority_score": 87,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Bürkliplatz",
+        "Grossmünster",
+        "Kunsthaus Zürich"
+      ],
+      "related_attractions": [
+        "KKL Lucerne",
+        "Palais de Rumine"
+      ],
+      "internal_link_priority": "medium",
+      "season_tags": [
+        "autumn",
+        "winter",
+        "spring"
+      ],
+      "requires_guide": false,
+      "history": "Inaugurated in 1891 to replace the older Aktientheater which burned down, it was beautifully restored to its former glory in the 1980s."
+    },
+    {
+      "name": "Kunsthaus Zürich",
+      "city": "Zurich",
+      "region": "Zurich",
+      "latitude": 47.3703,
+      "longitude": 8.5492,
+      "google_maps_url": "https://www.google.com/maps?q=47.3703,8.5492",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kunsthaus_Z%C3%BCrich",
+      "wikidata_id": "Q685038",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Kunsthaus_Z%C3%BCrich_2012.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-4.0",
+      "seo_title": "Kunsthaus Zürich - Premier Fine Arts Museum Guide",
+      "seo_description": "Visit Kunsthaus Zürich to view an outstanding art collection spanning from the Middle Ages to masterworks by Alberto Giacometti and Impressionists.",
+      "description_short": "One of Switzerland's most significant, comprehensive fine arts institutions.",
+      "description_long": "The Kunsthaus Zürich houses an extraordinary treasure trove of visual arts, holding the largest collection of works by the acclaimed Swiss sculptor Alberto Giacometti. Art enthusiasts can wander through halls containing invaluable masterpieces by Monet, Picasso, Chagall, and Munch. With its contemporary expansion designed by David Chipperfield, it stands as a sparkling beacon of modernity and creative expression.",
+      "keywords": [
+        "Kunsthaus Zürich",
+        "Zurich art museum",
+        "Giacometti collection",
+        "modern art Switzerland"
+      ],
+      "long_tail_keywords": [
+        "Kunsthaus Zurich free admission days",
+        "famous paintings in Kunsthaus Zurich",
+        "contemporary art galleries Zurich"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 91,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Grossmünster",
+        "Zürich Opera House",
+        "Niederdorf"
+      ],
+      "related_attractions": [
+        "Kunstmuseum Basel",
+        "Olympic Museum"
+      ],
+      "internal_link_priority": "high",
+      "season_tags": [
+        "all-year",
+        "winter",
+        "autumn"
+      ],
+      "requires_guide": false,
+      "history": "The museum opened its doors in 1910 and has since evolved through several expansions into a global artistic epicenter."
+    },
+    {
+      "name": "Swiss National Museum",
+      "city": "Zurich",
+      "region": "Zurich",
+      "latitude": 47.3792,
+      "longitude": 8.5403,
+      "google_maps_url": "https://www.google.com/maps?q=47.3792,8.5403",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Swiss_National_Museum",
+      "wikidata_id": "Q691924",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Landesmuseum_Z%C3%BCrich_2011-01-16_14-38-08.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-3.0",
+      "seo_title": "Swiss National Museum Zurich - Cultural History Journey",
+      "seo_description": "Step into the fairy-tale Swiss National Museum (Landesmuseum) in Zurich. Learn about the nation's heritage through rare artifacts.",
+      "description_short": "A castle-like architectural complex tracing the fascinating cultural history of Switzerland.",
+      "description_long": "Located right beside Zurich Main Station, the Landesmuseum immediately captivates with its chateau-style towers and park surroundings. Inside, it takes visitors on an interactive journey from prehistoric eras through medieval chivalry up to modern Swiss politics. Its brilliant juxtaposition of old fairy-tale architecture and a bold, geometric new wing makes it an absolute visual delight.",
+      "keywords": [
+        "Swiss National Museum",
+        "Landesmuseum Zurich",
+        "Swiss history artifacts",
+        "museums near Zurich station"
+      ],
+      "long_tail_keywords": [
+        "Swiss National Museum tickets price",
+        "exhibits at Landesmuseum Zurich",
+        "family friendly museums in Zurich"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 90,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Bahnhofstrasse",
+        "Lindenhof",
+        "Niederdorf"
+      ],
+      "related_attractions": [
+        "Historical Museum Basel",
+        "Palace of Nations"
+      ],
+      "internal_link_priority": "medium",
+      "season_tags": [
+        "all-year",
+        "winter",
+        "spring"
+      ],
+      "requires_guide": false,
+      "history": "Constructed in 1898 by Gustav Gull in a historicist style, it was designed to safeguard precious Swiss relics under one roof."
+    },
+    {
+      "name": "Bürkliplatz & Lake Promenade",
+      "city": "Zurich",
+      "region": "Zurich",
+      "latitude": 47.3667,
+      "longitude": 8.5414,
+      "google_maps_url": "https://www.google.com/maps?q=47.3667,8.5414",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/B%C3%BCrkliplatz",
+      "wikidata_id": "Q1018503",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Z%C3%BCrich_-_B%C3%BCrkliplatz_IMG_1423.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-3.0",
+      "seo_title": "Bürkliplatz Zurich - Scenic Lake Promenade & Boat Cruises",
+      "seo_description": "Stroll down Bürkliplatz and the beautiful Lake Zurich promenade. Find scenic lake cruises, vibrant flea markets, and alpine mountain backdrops.",
+      "description_short": "A bustling waterfront square serving as the main launchpad for majestic Lake Zurich boat tours.",
+      "description_long": "Bürkliplatz marks the gorgeous boundary where the busy city center yields to the serene expanse of Lake Zurich. It acts as a vibrant focal point, hosting weekly fresh produce markets and popular antique flea markets. The connecting lakeside promenade offers wide walkways lined with chestnut trees, street artists, and panoramic views of distant snow-capped mountains across the clear alpine water.",
+      "keywords": [
+        "Bürkliplatz",
+        "Lake Zurich cruise",
+        "Zurich waterfront promenade",
+        "flea market Zurich"
+      ],
+      "long_tail_keywords": [
+        "Lake Zurich boat tour schedule",
+        "scenic walks in Zurich city",
+        "Bürkliplatz market opening hours"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 87,
+      "topical_depth_score": 6,
+      "nearby_attractions": [
+        "Bahnhofstrasse",
+        "Fraumünster",
+        "Zürich Opera House"
+      ],
+      "related_attractions": [
+        "Ouchy Promenade",
+        "Lake Lucerne Promenade"
+      ],
+      "internal_link_priority": "medium",
+      "season_tags": [
+        "summer",
+        "spring",
+        "autumn"
+      ],
+      "requires_guide": false,
+      "history": "Formed during the late 19th-century engineering projects that converted old lake marshlands into a grand public quay system."
+    },
+    {
+      "name": "Niederdorf",
+      "city": "Zurich",
+      "region": "Zurich",
+      "latitude": 47.3731,
+      "longitude": 8.5442,
+      "google_maps_url": "https://www.google.com/maps?q=47.3731,8.5442",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Niederdorf_(Z%C3%BCrich)",
+      "wikidata_id": "Q670691",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Z%C3%BCrich_-_Niederdorf_IMG_1130.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-3.0",
+      "seo_title": "Niederdorf Old Town Zurich - Historic Pedestrian Lanes",
+      "seo_description": "Immerse yourself in Niederdorf, Zurich's lively pedestrian old town district filled with medieval architecture, cozy cafes, and local shops.",
+      "description_short": "A car-free, historically rich old town neighborhood known for vibrant dining and unique alleyways.",
+      "description_long": "Affectionately called 'Dörfli' by locals, Niederdorf stretches parallel to the Limmat River in a labyrinth of cobblestone streets. By day, it is a delightful shopping promenade lined with quirky indie boutiques, hidden courtyards, and medieval guild houses. As evening falls, the district transforms into a culinary hotspot with traditional fondue taverns and cozy bars illuminating the ancient stone facades.",
+      "keywords": [
+        "Niederdorf Zurich",
+        "Zurich old town streets",
+        "pedestrian area Zurich",
+        "traditional dining Zurich"
+      ],
+      "long_tail_keywords": [
+        "things to see in Niederdorf Zurich",
+        "best fondue restaurants in Niederdorf",
+        "walking route Zurich old town"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 89,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Grossmünster",
+        "Kunsthaus Zürich",
+        "Swiss National Museum"
+      ],
+      "related_attractions": [
+        "Altstadt Winterthur",
+        "Obere Hauptgasse"
+      ],
+      "internal_link_priority": "medium",
+      "season_tags": [
+        "all-year",
+        "winter",
+        "autumn"
+      ],
+      "requires_guide": false,
+      "history": "Developed during medieval times as a working-class residential quarter outside the primary royal fortresses, preserving its rustic charm."
+    },
+    {
+      "name": "Jet d'Eau",
+      "city": "Geneva",
+      "region": "Geneva",
+      "latitude": 46.2074,
+      "longitude": 6.1559,
+      "google_maps_url": "https://www.google.com/maps?q=46.2074,6.1559",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jet_d%27Eau",
+      "wikidata_id": "Q64132",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Jet_d%27Eau_de_Gen%C3%A8ve_7.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-4.0",
+      "seo_title": "Jet d'Eau Geneva - Iconic Lakeside Fountain Landmark",
+      "seo_description": "Witness the spectacular Jet d'Eau in Geneva, a powerful water fountain shooting 140 meters high over the scenic Lake Geneva basin.",
+      "description_short": "One of the tallest and most recognizable water fountains in the world, defining Geneva's harbor.",
+      "description_long": "The Jet d'Eau is the indisputable visual emblem of Geneva. Operating at an astonishing rate, 500 liters of lake water are propelled into the air every single second at a speed of 200 km/h, reaching an imposing height of 140 meters. Visitors can stroll along the stone jetty directly to the base of the plume, feeling the refreshing alpine mist and capturing striking silhouette photos against the sky.",
+      "keywords": [
+        "Jet d'Eau",
+        "Geneva fountain",
+        "Lake Geneva landmarks",
+        "Eaux-Vives harbor"
+      ],
+      "long_tail_keywords": [
+        "how high is Jet d'Eau Geneva",
+        "best spot to photograph Geneva fountain",
+        "Jet d'Eau operational hours"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 98,
+      "topical_depth_score": 6,
+      "nearby_attractions": [
+        "Jardin Anglais",
+        "Parc de la Grange",
+        "St. Pierre Cathedral"
+      ],
+      "related_attractions": [
+        "Bürkliplatz & Lake Promenade",
+        "Thun Castle"
+      ],
+      "internal_link_priority": "high",
+      "season_tags": [
+        "summer",
+        "spring",
+        "autumn"
+      ],
+      "requires_guide": false,
+      "history": "Originally engineered in 1886 as a safety valve for a hydraulic power network, it was moved to its current decorative spot in 1891 due to immense popularity."
+    },
+    {
+      "name": "St. Pierre Cathedral",
+      "city": "Geneva",
+      "region": "Geneva",
+      "latitude": 46.2011,
+      "longitude": 6.1486,
+      "google_maps_url": "https://www.google.com/maps?q=46.2011,6.1486",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St._Pierre_Cathedral",
+      "wikidata_id": "Q666645",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Gen%C3%A8ve_-_Cath%C3%A9drale_Saint-Pierre_2.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-3.0",
+      "seo_title": "St. Pierre Cathedral Geneva - John Calvin's Reformation Church",
+      "seo_description": "Explore St. Pierre Cathedral in Geneva old town. Discover its neoclassical portico, historical crypts, and panoramic tower vistas.",
+      "description_short": "A fascinating historical cathedral blending Gothic, Romanesque, and Neoclassical styles.",
+      "description_long": "Commanding the highest crest of Geneva's Old Town, St. Pierre Cathedral is famously known as the home church of Protestant Reformation leader John Calvin. Visitors can inspect the austere wooden chair Calvin used, marvel at the vast architectural transition from Gothic vaults to a massive 18th-century classical portico, and conquer the 157 steps of the north tower for unmatched panoramic lookouts over the city and lake.",
+      "keywords": [
+        "St. Pierre Cathedral",
+        "Geneva old town cathedral",
+        "John Calvin church",
+        "Geneva tower view"
+      ],
+      "long_tail_keywords": [
+        "climbing St Pierre cathedral tower Geneva",
+        "John Calvin historic sites Geneva",
+        "medieval churches in Geneva"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 93,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Place du Bourg-de-Four",
+        "Reformation Wall",
+        "Jardin Anglais"
+      ],
+      "related_attractions": [
+        "Grossmünster",
+        "Lausanne Cathedral"
+      ],
+      "internal_link_priority": "high",
+      "season_tags": [
+        "all-year",
+        "autumn",
+        "winter"
+      ],
+      "requires_guide": false,
+      "history": "Constructed primarily in the 12th century over ancient Roman structures, it underwent a dramatic internal stripping during the Calvinst iconoclasm of 1535."
+    },
+    {
+      "name": "Reformation Wall",
+      "city": "Geneva",
+      "region": "Geneva",
+      "latitude": 46.2001,
+      "longitude": 6.1454,
+      "google_maps_url": "https://www.google.com/maps?q=46.2001,6.1454",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Reformation_Wall",
+      "wikidata_id": "Q686256",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Reformation_Wall_Geneva.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-3.0",
+      "seo_title": "The Reformation Wall Geneva - Parc des Bastions Monument",
+      "seo_description": "Visit the majestic Reformation Wall in Geneva's Parc des Bastions, honoring key pioneers like John Calvin, William Farel, and Theodore Beza.",
+      "description_short": "A monumental stone wall showcasing giant statues of the principal Swiss and European Reformers.",
+      "description_long": "Built directly into the old defensive city walls of Geneva within the serene Parc des Bastions, this 100-meter-long monument pays homage to Geneva's critical role in Protestant history. At its center stand four imposing, five-meter-tall relief sculptures of John Calvin, William Farel, Theodore Beza, and John Knox, flanked by smaller reliefs and dramatic inscriptions of the city motto: 'Post Tenebras Lux' (Light After Darkness).",
+      "keywords": [
+        "Reformation Wall",
+        "Parc des Bastions",
+        "Geneva reformers monument",
+        "John Calvin statue"
+      ],
+      "long_tail_keywords": [
+        "visiting Reformation Wall Geneva",
+        "free sights Parc des Bastions Geneva",
+        "Post Tenebras Lux monument"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 90,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "St. Pierre Cathedral",
+        "Place du Bourg-de-Four",
+        "Jardin Anglais"
+      ],
+      "related_attractions": [
+        "Lindenhof",
+        "Rathaus Basel"
+      ],
+      "internal_link_priority": "medium",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "requires_guide": false,
+      "history": "Inaugurated in 1909 to mark the 400th anniversary of Calvin's birth and the 350th anniversary of the University of Geneva's founding."
+    },
+    {
+      "name": "Jardin Anglais & Flower Clock",
+      "city": "Geneva",
+      "region": "Geneva",
+      "latitude": 46.2041,
+      "longitude": 6.1517,
+      "google_maps_url": "https://www.google.com/maps?q=46.2041,6.1517",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jardin_Anglais",
+      "wikidata_id": "Q686230",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Geneve_Jardin_Anglais_L%27horloge_fleurie_2012.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-3.0",
+      "seo_title": "Jardin Anglais Geneva - The Famous Flower Clock Guide",
+      "seo_description": "Stroll through Jardin Anglais in Geneva and admire L'horloge fleurie, a fully functional, giant clock made entirely of thousands of seasonal flowers.",
+      "description_short": "An elegant lakeside park featuring a masterful, living floral clock that honors Swiss horology.",
+      "description_long": "Jardin Anglais (The English Garden) is a beloved, landscaped park situated gracefully along the Geneva harbor. Its star attraction is the 'Horloge Fleurie' (Flower Clock), created using thousands of precisely manicured seasonal plants and flowers. Boasting the longest second hand in the world at 2.5 meters, the clock keeps flawless time via satellite synchronization, representing a gorgeous fusion of botanical art and legendary Swiss watchmaking precision.",
+      "keywords": [
+        "Jardin Anglais",
+        "Flower Clock Geneva",
+        "Horloge fleurie",
+        "Geneva lakeside park"
+      ],
+      "long_tail_keywords": [
+        "where is the flower clock in Geneva",
+        "English garden Geneva photos",
+        "Geneva watchmaking monuments"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 92,
+      "topical_depth_score": 6,
+      "nearby_attractions": [
+        "Jet d'Eau",
+        "St. Pierre Cathedral",
+        "Place du Bourg-de-Four"
+      ],
+      "related_attractions": [
+        "Bürkliplatz & Lake Promenade",
+        "Parco Ciani"
+      ],
+      "internal_link_priority": "high",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "requires_guide": false,
+      "history": "Laid out in 1854 as Geneva's very first English-style landscaped promenade, the famous Flower Clock was introduced later in 1955."
+    },
+    {
+      "name": "Place du Bourg-de-Four",
+      "city": "Geneva",
+      "region": "Geneva",
+      "latitude": 46.2008,
+      "longitude": 6.1492,
+      "google_maps_url": "https://www.google.com/maps?q=46.2008,6.1492",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bourg-de-Four",
+      "wikidata_id": "Q2922123",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Place_du_Bourg-de-Four_Gen%C3%A8ve_14_03_10.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-3.0",
+      "seo_title": "Place du Bourg-de-Four - Historic Geneva Old Town Square",
+      "seo_description": "Discover Place du Bourg-de-Four, the oldest town square in Geneva. Enjoy historic fountains, vibrant bistro terraces, and classic architecture.",
+      "description_short": "A charming, historic cobblestone square pulsing at the genuine center of Geneva's old quarter.",
+      "description_long": "Place du Bourg-de-Four stands proudly as the ancient heartbeat of Geneva. Lined with tall 16th to 18th-century townhouses, a classic central fountain, and welcoming open-air cafe terraces, it serves as the ultimate gathering spot for both weary sightseers and intellectual locals. It is perfect for nursing an espresso while soaking in the historic atmosphere of old Europe.",
+      "keywords": [
+        "Bourg-de-Four",
+        "Geneva square",
+        "oldest square Geneva",
+        "Geneva old town cafes"
+      ],
+      "long_tail_keywords": [
+        "historic squares in Geneva Switzerland",
+        "dining in Bourg de Four square",
+        "Geneva old town walking tour stops"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 88,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "St. Pierre Cathedral",
+        "Reformation Wall",
+        "Jardin Anglais"
+      ],
+      "related_attractions": [
+        "Niederdorf",
+        "Marktplatz St. Gallen"
+      ],
+      "internal_link_priority": "medium",
+      "season_tags": [
+        "all-year",
+        "summer",
+        "spring"
+      ],
+      "requires_guide": false,
+      "history": "Began its life as an ancient Roman marketplace and cattle forum, adapting over the centuries into a refined square hosting political exiles."
+    },
+    {
+      "name": "Brunswick Monument",
+      "city": "Geneva",
+      "region": "Geneva",
+      "latitude": 46.2089,
+      "longitude": 6.1494,
+      "google_maps_url": "https://www.google.com/maps?q=46.2089,6.1494",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Brunswick_Monument",
+      "wikidata_id": "Q686214",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Brunswick_Monument_Geneva.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-4.0",
+      "seo_title": "Brunswick Monument Geneva - Neo-Gothic Mausoleum",
+      "seo_description": "Admire the ornate Brunswick Monument in Geneva, a magnificent 19th-century Neo-Gothic architectural landmark honoring the Duke of Brunswick.",
+      "description_short": "A highly decorative, regal monument built as an exact replica of the Scaliger tombs in Verona.",
+      "description_long": "Located on the northern banks of the lake, the Brunswick Monument is a striking structures built entirely from premium white marble and red granite. It commemorates Charles II, Duke of Brunswick, an eccentric nobleman who bequeathed his immense fortune to Geneva in exchange for a grand monument built to his specifications. Its intricate arches, stone chimera carvings, and equestrian statue make it a superb photographic highlight.",
+      "keywords": [
+        "Brunswick Monument",
+        "Geneva landmarks",
+        "Neo-Gothic Geneva",
+        "Duke of Brunswick fortune"
+      ],
+      "long_tail_keywords": [
+        "who built the Brunswick monument Geneva",
+        "architecture of Brunswick monument",
+        "free historic sites in Geneva"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 84,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Broken Chair",
+        "Palace of Nations",
+        "Jet d'Eau"
+      ],
+      "related_attractions": [
+        "Zürich Opera House",
+        "Palais de Rumine"
+      ],
+      "internal_link_priority": "low",
+      "season_tags": [
+        "all-year",
+        "spring",
+        "autumn"
+      ],
+      "requires_guide": false,
+      "history": "Erected in 1879 following the Duke's death in 1873, honoring his request to rest above ground level in a regal architectural tribute."
+    },
+    {
+      "name": "Broken Chair",
+      "city": "Geneva",
+      "region": "Geneva",
+      "latitude": 46.2222,
+      "longitude": 6.1389,
+      "google_maps_url": "https://www.google.com/maps?q=46.2222,6.1389",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Broken_Chair",
+      "wikidata_id": "Q686151",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Geneva_Broken_Chair_2012.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-3.0",
+      "seo_title": "Broken Chair Geneva - Global Peace Monument Guide",
+      "seo_description": "Visit the famous Broken Chair monument in Geneva, located outside the UN building as a giant, powerful statement against landmines.",
+      "description_short": "A colossal, 12-meter-tall wooden sculpture featuring a dramatically shattered leg.",
+      "description_long": "Standing tall on the Place des Nations directly opposite the United Nations office, the Broken Chair is a poignant work of modern political art. Constructed from 5.5 tons of Douglas fir by artist Daniel Berset, its splintered fourth leg serves as a powerful reminder of the victims of landmines and cluster bombs, urging global diplomats entering the UN headquarters to prioritize international peace and disarmament treaties.",
+      "keywords": [
+        "Broken Chair Geneva",
+        "Place des Nations",
+        "UN building monument",
+        "anti-landmine sculpture"
+      ],
+      "long_tail_keywords": [
+        "meaning of broken chair Geneva",
+        "giant chair sculpture Switzerland",
+        "visiting UN plaza Geneva landmarks"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 89,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Palace of Nations",
+        "Brunswick Monument",
+        "Patek Philippe Museum"
+      ],
+      "related_attractions": [
+        "Red Square St. Gallen",
+        "Tinguely Fountain"
+      ],
+      "internal_link_priority": "medium",
+      "season_tags": [
+        "all-year",
+        "spring",
+        "summer"
+      ],
+      "requires_guide": false,
+      "history": "Erected in 1897 by Handicap International, it was originally intended to stand for only three months but became permanent due to international acclaim."
+    },
+    {
+      "name": "Palace of Nations",
+      "city": "Geneva",
+      "region": "Geneva",
+      "latitude": 46.2264,
+      "longitude": 6.1403,
+      "google_maps_url": "https://www.google.com/maps?q=46.2264,6.1403",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Palace_of_Nations",
+      "wikidata_id": "Q214151",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Palais_des_Nations_Geneva_2011.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-3.0",
+      "seo_title": "Palace of Nations - United Nations Headquarters Geneva",
+      "seo_description": "Tour the Palace of Nations in Geneva, the historic European headquarters of the United Nations. Explore the Alley of Flags and assembly rooms.",
+      "description_short": "The monumental diplomatic complex serving as the global epicentre for peace and international relations.",
+      "description_long": "Surrounded by the magnificent, peacock-filled Ariana Park, the Palace of Nations is the second largest center of the United Nations after New York. This sprawling art-deco architectural complex contains the famous Human Rights and Alliance of Civilizations Room, decorated with a stunning ceiling installation by Miquel Barceló. Walking through the iconic Avenue of Flags offers visitors a deep sense of modern global history.",
+      "keywords": [
+        "Palace of Nations",
+        "UN Geneva headquarters",
+        "Palais des Nations",
+        "diplomatic tours Geneva"
+      ],
+      "long_tail_keywords": [
+        "booking UN tour Geneva",
+        "inside Palace of Nations rooms",
+        "visiting international organizations Geneva"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "how_to_visit",
+      "user_journey_stage": "booking",
+      "seo_priority_score": 92,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Broken Chair",
+        "Brunswick Monument",
+        "Patek Philippe Museum"
+      ],
+      "related_attractions": [
+        "Swiss National Museum",
+        "Federal Palace Bern"
+      ],
+      "internal_link_priority": "high",
+      "season_tags": [
+        "all-year",
+        "autumn",
+        "winter"
+      ],
+      "requires_guide": true,
+      "history": "Built between 1929 and 1938 to serve as the headquarters of the League of Nations, transitioning to the UN in 1946."
+    },
+    {
+      "name": "Patek Philippe Museum",
+      "city": "Geneva",
+      "region": "Geneva",
+      "latitude": 46.1994,
+      "longitude": 6.1378,
+      "google_maps_url": "https://www.google.com/maps?q=46.1994,6.1378",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Patek_Philippe_Museum",
+      "wikidata_id": "Q2154460",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Patek_Philippe_Museum_Geneva.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC0",
+      "seo_title": "Patek Philippe Museum Geneva - Ultimate Watchmaking Museum",
+      "seo_description": "Step into the Patek Philippe Museum in Geneva to discover an invaluable collection of historic Swiss timepieces, musical automata, and royal clocks.",
+      "description_short": "A prestigious, world-class museum dedicated entirely to the art of luxury Swiss watchmaking.",
+      "description_long": "Housed in a meticulously restored industrial Art Deco building in the Plainpalais district, the Patek Philippe Museum presents five centuries of horological history. It features two extraordinary main collections: the antique collection containing automated singing birds and royal enameled portraits from the 16th century, and the Patek Philippe collection showcasing their most complex and legendary mechanical timepieces ever manufactured.",
+      "keywords": [
+        "Patek Philippe Museum",
+        "Geneva watch museum",
+        "luxury Swiss watches",
+        "horology museum Switzerland"
+      ],
+      "long_tail_keywords": [
+        "Patek Philippe museum entry fee",
+        "history of Swiss watchmaking museum",
+        "best museums in Geneva Plainpalais"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 90,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Reformation Wall",
+        "Place du Bourg-de-Four",
+        "St. Pierre Cathedral"
+      ],
+      "related_attractions": [
+        "Textilmuseum St. Gallen",
+        "Swiss Museum of Transport"
+      ],
+      "internal_link_priority": "medium",
+      "season_tags": [
+        "all-year",
+        "winter",
+        "autumn"
+      ],
+      "requires_guide": false,
+      "history": "Inaugurated in 2001 by Philippe Stern to safeguard and share the ultimate legacy of Geneva's elite clock and watchmaking traditions."
+    },
+    {
+      "name": "Parc de la Grange",
+      "city": "Geneva",
+      "region": "Geneva",
+      "latitude": 46.2069,
+      "longitude": 6.1628,
+      "google_maps_url": "https://www.google.com/maps?q=46.2069,6.1628",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Parc_de_la_Grange",
+      "wikidata_id": "Q686235",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Parc_de_la_Grange_Geneva.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-4.0",
+      "seo_title": "Parc de la Grange Geneva - Majestic Rose Gardens & Park",
+      "seo_description": "Relax in Parc de la Grange, Geneva's largest lakeside park. Discover its award-winning rose gardens, elegant mansions, and summer stages.",
+      "description_short": "A stunning, vast historic park featuring Geneva's finest ornamental rose collections.",
+      "description_long": "Sloping gracefully down towards Lake Geneva, Parc de la Grange is a masterpiece of landscape gardening. The estate features towering ancient trees, a majestic 18th-century patrician villa, and a world-renowned rose garden containing over 200 distinct varieties. In summer, its open-air theaters come alive with music and cultural events, making it a favorite retreat for tranquil walking tours.",
+      "keywords": [
+        "Parc de la Grange",
+        "Geneva rose garden",
+        "largest park Geneva",
+        "free summer concerts Geneva"
+      ],
+      "long_tail_keywords": [
+        "visiting Parc de la Grange roses",
+        "lakeside parks in Geneva guide",
+        "historical villas in Geneva Switzerland"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 85,
+      "topical_depth_score": 6,
+      "nearby_attractions": [
+        "Jet d'Eau",
+        "Jardin Anglais",
+        "St. Pierre Cathedral"
+      ],
+      "related_attractions": [
+        "Parco Ciani",
+        "Rose Garden Bern"
+      ],
+      "internal_link_priority": "low",
+      "season_tags": [
+        "summer",
+        "spring"
+      ],
+      "requires_guide": false,
+      "history": "Donated directly to the city of Geneva in 1918 by its last private owner, William Favre, who preserved its rich botanical heritage."
+    },
+    {
+      "name": "Basel Minster",
+      "city": "Basel",
+      "region": "Basel-Stadt",
+      "latitude": 47.5564,
+      "longitude": 7.5925,
+      "google_maps_url": "https://www.google.com/maps?q=47.5564,7.5925",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Basel_Minster",
+      "wikidata_id": "Q666870",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Basel_Muenster_2012.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-3.0",
+      "seo_title": "Basel Minster Cathedral - Gothic Spires & Rhine Views",
+      "seo_description": "Explore Basel Minster, an architectural icon built with red sandstone and colorful roof tiles. Climb the towers for sweeping views of the Rhine.",
+      "description_short": "A striking red-sandstone cathedral defining the historic cityscape of Basel.",
+      "description_long": "Perched on a prominent high terrace overlooking the Rhine River, the Basel Minster (Basler Münster) is a stunning blend of Romanesque and Gothic architecture. With its distinctive twin towers, vibrant geometric roof tiling, and elegant cloisters, this historic building houses the marble tomb of the famous humanist Erasmus of Rotterdam. The rear terrace, known as the Pfalz, offers visitors spectacular panoramic lookouts over the flowing river.",
+      "keywords": [
+        "Basel Minster",
+        "Basler Münster",
+        "Rhine view Basel",
+        "Erasmus tomb Basel"
+      ],
+      "long_tail_keywords": [
+        "climbing Basel Minster towers",
+        "red sandstone church Switzerland",
+        "best photo spots in Basel old town"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 96,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Mittlere Brücke",
+        "Rathaus Basel",
+        "Kunstmuseum Basel"
+      ],
+      "related_attractions": [
+        "Grossmünster",
+        "Bern Minster"
+      ],
+      "internal_link_priority": "high",
+      "season_tags": [
+        "all-year",
+        "autumn",
+        "summer"
+      ],
+      "requires_guide": false,
+      "history": "Constructed between 1019 and 1500, it famously withstood the massive Basel earthquake of 1356, after which its tall Gothic spires were rebuilt."
+    },
+    {
+      "name": "Mittlere Brücke",
+      "city": "Basel",
+      "region": "Basel-Stadt",
+      "latitude": 47.5606,
+      "longitude": 7.5894,
+      "google_maps_url": "https://www.google.com/maps?q=47.5606,7.5894",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mittlere_Br%C3%BCcke",
+      "wikidata_id": "Q668352",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Basel_Mittlere_Bruecke_Kaeppelijoch_2011.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-3.0",
+      "seo_title": "Mittlere Brücke Basel - Historic Rhine River Bridge",
+      "seo_description": "Cross the Mittlere Brücke, Basel's most legendary bridge. Enjoy scenic river walks, historic monuments, and beautiful photography angles.",
+      "description_short": "One of the oldest surviving bridge crossings on the historic Rhine River.",
+      "description_long": "The Mittlere Brücke (Middle Bridge) is a crucial historical link connecting central old Basel with the vibrant Kleinbasel quarter. Featuring a charming small chapel called the 'Käppelijoch' situated directly on the central stone pillar, the bridge offers stunning, classic photo opportunities of passing river ferries and the towering city cathedral rising majestically from the opposite banks.",
+      "keywords": [
+        "Mittlere Brücke",
+        "Basel bridge",
+        "Rhine river crossing",
+        "Käppelijoch chapel"
+      ],
+      "long_tail_keywords": [
+        "oldest bridge over the Rhine",
+        "walking tours Kleinbasel Mittlere brucke",
+        "photographing Basel riverfront at night"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 91,
+      "topical_depth_score": 6,
+      "nearby_attractions": [
+        "Basel Minster",
+        "Rathaus Basel",
+        "Spalentor"
+      ],
+      "related_attractions": [
+        "Chapel Bridge",
+        "Spreuer Bridge"
+      ],
+      "internal_link_priority": "high",
+      "season_tags": [
+        "summer",
+        "spring",
+        "autumn"
+      ],
+      "requires_guide": false,
+      "history": "First opened in 1226 by Prince-Bishop Heinrich von Thun to facilitate international trade, it was entirely reconstructed in stone in 1905."
+    },
+    {
+      "name": "Rathaus Basel",
+      "city": "Basel",
+      "region": "Basel-Stadt",
+      "latitude": 47.5581,
+      "longitude": 7.5878,
+      "google_maps_url": "https://www.google.com/maps?q=47.5581,7.5878",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Basel_Town_Hall",
+      "wikidata_id": "Q689033",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Rathaus_Basel_Front_2013.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-3.0",
+      "seo_title": "Basel Rathaus - Spectacular Red Town Hall Guide",
+      "seo_description": "Visit the spectacular Basel Rathaus on Marktplatz. Marvel at its vibrant red facade, dramatic Renaissance frescoes, and gilded courtyard statues.",
+      "description_short": "A remarkably colorful, ornate 16th-century palace housing Basel's local government.",
+      "description_long": "Dominating the busy Marktplatz square, the Basel Rathaus (Town Hall) instantly draws the eye with its striking dark-red painted walls and brilliant golden accents. Visitors can freely step inside the inner courtyard to contemplate intricate Renaissance wall frescoes, ornate wooden door frames, and a majestic, gilded statue of Munatius Plancus, the legendary Roman founder of the Basel region.",
+      "keywords": [
+        "Basel Rathaus",
+        "Basel Town Hall",
+        "Marktplatz Basel",
+        "Renaissance frescoes Basel"
+      ],
+      "long_tail_keywords": [
+        "inside Basel town hall courtyard",
+        "free things to see in Basel Marktplatz",
+        "historic red buildings Switzerland"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 93,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Mittlere Brücke",
+        "Basel Minster",
+        "Toy Worlds Museum"
+      ],
+      "related_attractions": [
+        "Federal Palace Bern",
+        "Thun City Hall"
+      ],
+      "internal_link_priority": "high",
+      "season_tags": [
+        "all-year",
+        "spring",
+        "winter"
+      ],
+      "requires_guide": false,
+      "history": "Built between 1504 and 1514 to celebrate Basel's joining of the Swiss Confederation, featuring dramatic structural expansions added across the centuries."
+    },
+    {
+      "name": "Tinguely Fountain",
+      "city": "Basel",
+      "region": "Basel-Stadt",
+      "latitude": 47.5539,
+      "longitude": 7.5903,
+      "google_maps_url": "https://www.google.com/maps?q=47.5539,7.5903",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tinguely_Fountain",
+      "wikidata_id": "Q1355410",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Tinguely_Fountain_Basel_2011.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-4.0",
+      "seo_title": "Tinguely Fountain Basel - Kinetic Water Art Sculpture",
+      "seo_description": "See the fascinating Tinguely Fountain in Basel. Watch ten whimsical, kinetic iron sculptures dance and spray water in a mesmerizing display.",
+      "description_short": "A famous shallow pool filled with playful, mechanical iron water-spouting sculptures.",
+      "description_long": "Created by the internationally renowned Swiss kinetic artist Jean Tinguely, this whimsical fountain is located right on the site of the former old theater stage. Ten unique mechanical figures crafted from scrap metal and iron components continuously move, pivot, and playfully splash water at one another, mimicking actors and dancers in an eternal, hypnotic theater performance.",
+      "keywords": [
+        "Tinguely Fountain",
+        "Jean Tinguely Basel",
+        "kinetic art fountain",
+        "Basel modern sculpture"
+      ],
+      "long_tail_keywords": [
+        "where is Tinguely fountain in Basel",
+        "mechanical art installations Switzerland",
+        "family friendly sights in Basel"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 89,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Kunstmuseum Basel",
+        "Toy Worlds Museum",
+        "Rathaus Basel"
+      ],
+      "related_attractions": [
+        "Broken Chair",
+        "Red Square St. Gallen"
+      ],
+      "internal_link_priority": "medium",
+      "season_tags": [
+        "summer",
+        "spring",
+        "autumn"
+      ],
+      "requires_guide": false,
+      "history": "Designed and unveiled to the public in 1977, instantly transforming into an iconic, interactive symbol of Basel's vibrant artistic spirit."
+    },
+    {
+      "name": "Kunstmuseum Basel",
+      "city": "Basel",
+      "region": "Basel-Stadt",
+      "latitude": 47.5542,
+      "longitude": 7.5942,
+      "google_maps_url": "https://www.google.com/maps?q=47.5542,7.5942",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kunstmuseum_Basel",
+      "wikidata_id": "Q667634",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Kunstmuseum_Basel_Neubau_2016.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-4.0",
+      "seo_title": "Kunstmuseum Basel - Elite Global Fine Arts Museum",
+      "seo_description": "Visit Kunstmuseum Basel, home to the oldest public art collection in the world. Discover Renaissance masterpieces and modern fine art galleries.",
+      "description_short": "A world-renowned museum holding a monumental collection of fine art from the Upper Rhine.",
+      "description_long": "The Kunstmuseum Basel represents an elite cultural venue, recognized for housing the world's oldest municipal art collection. Spanning three striking architectural buildings, its galleries safeguard priceless works by Hans Holbein, Rembrandt, Van Gogh, and Picasso. The contemporary new wing stands as a brilliant architectural masterpiece of minimalist concrete design.",
+      "keywords": [
+        "Kunstmuseum Basel",
+        "Basel art museum",
+        "oldest public art collection",
+        "Holbein paintings Basel"
+      ],
+      "long_tail_keywords": [
+        "Kunstmuseum Basel ticket prices",
+        "famous art galleries in Basel",
+        "modern art exhibitions Switzerland"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 94,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Basel Minster",
+        "Tinguely Fountain",
+        "Historical Museum Basel"
+      ],
+      "related_attractions": [
+        "Kunsthaus Zürich",
+        "Olympic Museum"
+      ],
+      "internal_link_priority": "high",
+      "season_tags": [
+        "all-year",
+        "winter",
+        "autumn"
+      ],
+      "requires_guide": false,
+      "history": "Traces its origin back to 1661 when the city purchased the private Amerbach Cabinet, making it a pioneer in civic public museum curation."
+    },
+    {
+      "name": "Spalentor",
+      "city": "Basel",
+      "region": "Basel-Stadt",
+      "latitude": 47.5581,
+      "longitude": 7.5814,
+      "google_maps_url": "https://www.google.com/maps?q=47.5581,7.5814",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Spalentor",
+      "wikidata_id": "Q668270",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Basel_Spalentor_2011.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-3.0",
+      "seo_title": "Spalentor Basel - Ancient Medieval City Gate Guide",
+      "seo_description": "Discover Spalentor, one of the most beautiful preserved medieval city gates in Switzerland. Admire its defensive towers and ancient sculptures.",
+      "description_short": "An imposing, beautifully preserved 14th-century fortressed city gate tower.",
+      "description_long": "Standing as a grand monument to medieval defense, the Spalentor (Gate of Spalen) is an architectural jewel. Flanked by two massive round towers and topped by a steeply pitched, brightly tiled roof, the main gate facade features intricate stone statues and a historic portcullis that once shielded Basel from incoming western forces.",
+      "keywords": [
+        "Spalentor",
+        "Basel city gate",
+        "medieval fortification Switzerland",
+        "historic towers Basel"
+      ],
+      "long_tail_keywords": [
+        "visiting Spalentor medieval gate Basel",
+        "ancient defensive walls Basel",
+        "old city gates in Switzerland tour"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 88,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Rathaus Basel",
+        "Mittlere Brücke",
+        "Toy Worlds Museum"
+      ],
+      "related_attractions": [
+        "Zytglogge",
+        "Musegg Wall"
+      ],
+      "internal_link_priority": "medium",
+      "season_tags": [
+        "all-year",
+        "spring",
+        "summer"
+      ],
+      "requires_guide": false,
+      "history": "Erected following the devastating earthquake of 1356, which necessitated the construction of an expansive new defensive ring wall around old Basel."
+    },
+    {
+      "name": "Toy Worlds Museum Basel",
+      "city": "Basel",
+      "region": "Basel-Stadt",
+      "latitude": 47.5544,
+      "longitude": 7.5881,
+      "google_maps_url": "https://www.google.com/maps?q=47.5544,7.5881",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Toy_Worlds_Museum_Basel",
+      "wikidata_id": "Q2446726",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Spielzeug_Welten_Museum_Basel_2011.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-3.0",
+      "seo_title": "Toy Worlds Museum Basel - Historic Teddy Bears & Dollhouses",
+      "seo_description": "Explore the whimsical Toy Worlds Museum Basel (Spielzeug Welten Museum). See the largest collection of historic teddy bears and antique dollhouses.",
+      "description_short": "A highly unique museum boasting the globe's largest collection of vintage teddy bears.",
+      "description_long": "The Toy Worlds Museum Basel spans four floors of delightfully arranged glass showcases. Housing over 6,000 vintage teddy bears, historic dollhouses, miniature car models, and intricate carousels, it provides an enchanting experience. Many of the antique setups feature interactive, moving mechanical parts that bring the historical miniature worlds to life at the press of a button.",
+      "keywords": [
+        "Toy Worlds Museum Basel",
+        "Spielzeug Welten Museum",
+        "teddy bear collection",
+        "antique dollhouses Switzerland"
+      ],
+      "long_tail_keywords": [
+        "unique museums in Basel city",
+        "visiting toy museum Basel prices",
+        "family activities old town Basel"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 86,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Tinguely Fountain",
+        "Rathaus Basel",
+        "Historical Museum Basel"
+      ],
+      "related_attractions": [
+        "Technorama",
+        "Swiss Museum of Transport"
+      ],
+      "internal_link_priority": "medium",
+      "season_tags": [
+        "all-year",
+        "winter",
+        "autumn"
+      ],
+      "requires_guide": false,
+      "history": "Established in 1998 in a beautifully renovated commercial building, it curated the premier private collection of antique miniatures for public enjoyment."
+    },
+    {
+      "name": "Historical Museum Basel",
+      "city": "Basel",
+      "region": "Basel-Stadt",
+      "latitude": 47.5547,
+      "longitude": 7.5889,
+      "google_maps_url": "https://www.google.com/maps?q=47.5547,7.5889",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Basel_Historical_Museum",
+      "wikidata_id": "Q1621035",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Barfuesser_Church_Basel.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-4.0",
+      "seo_title": "Historical Museum Basel - Barfüsserkirche Heritage Exhibition",
+      "seo_description": "Discover regional history at the Historical Museum Basel, housed within the magnificent medieval Barfüsserkirche. View invaluable tapestries and relics.",
+      "description_short": "The primary cultural history museum of the Upper Rhine region, set inside a deconsecrated church.",
+      "description_long": "Occupying the stunning, high-vaulted interior of the 14th-century Franciscan Barfüsserkirche, the Historical Museum Basel presents an immersive journey through Swiss cultural history. It displays the invaluable Basel Cathedral treasury, world-famous tapestries detailing mythical beasts, and rare regional coins that reflect Basel's ancient commercial power.",
+      "keywords": [
+        "Historical Museum Basel",
+        "Barfüsserkirche",
+        "Basel cathedral treasury",
+        "medieval tapestries Switzerland"
+      ],
+      "long_tail_keywords": [
+        "visiting Barfüsserkirche museum Basel",
+        "cultural heritage exhibitions Basel",
+        "historic churches turned museums Switzerland"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 88,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Toy Worlds Museum",
+        "Tinguely Fountain",
+        "Kunstmuseum Basel"
+      ],
+      "related_attractions": [
+        "Swiss National Museum",
+        "Abbey of Saint Gall"
+      ],
+      "internal_link_priority": "medium",
+      "season_tags": [
+        "all-year",
+        "winter",
+        "spring"
+      ],
+      "requires_guide": false,
+      "history": "Founded in 1894 by converting the ancient, spacious Franciscan friary church into a secure public hall for regional historical relics."
+    },
+    {
+      "name": "St. Alban-Tor",
+      "city": "Basel",
+      "region": "Basel-Stadt",
+      "latitude": 47.5542,
+      "longitude": 7.6019,
+      "google_maps_url": "https://www.google.com/maps?q=47.5542,7.6019",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St._Alban-Tor",
+      "wikidata_id": "Q2323565",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Basel_St_Alban_Tor_2011.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-3.0",
+      "seo_title": "St. Alban-Tor Basel - Scenic Medieval Gate Tower",
+      "seo_description": "Visit the peaceful St. Alban-Tor in Basel's picturesque valley district. See this ancient fortressed gate and wander along historic canals.",
+      "description_short": "A picturesque, quiet medieval gateway tower located in the historic paper-mill valley.",
+      "description_long": "Tucked away in the romantic, canal-lined St. Alban quarter, this defensive gate tower is an elegant remnant of Basel's ancient outer fortification walls. Retaining its grand timber drawbridge support structures and large heavy oak doors, the peaceful leafy surroundings make it an exceptionally scenic walking destination away from busier tourist avenues.",
+      "keywords": [
+        "St. Alban-Tor",
+        "St. Alban valley Basel",
+        "medieval gate Basel",
+        "quiet sights in Basel"
+      ],
+      "long_tail_keywords": [
+        "walking down St Alban quarter Basel",
+        "historic fortification walls Basel tours",
+        "scenic photogenic spots in Basel"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 83,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Kunstmuseum Basel",
+        "Basel Minster",
+        "Mittlere Brücke"
+      ],
+      "related_attractions": [
+        "Spalentor",
+        "Zytglogge"
+      ],
+      "internal_link_priority": "low",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "requires_guide": false,
+      "history": "Dating back to the late 14th century, it guarded the eastern approach to the city and was heavily altered in the 15th century for firearms defense."
+    },
+    {
+      "name": "Peterskirche",
+      "city": "Basel",
+      "region": "Basel-Stadt",
+      "latitude": 47.5594,
+      "longitude": 7.5851,
+      "google_maps_url": "https://www.google.com/maps?q=47.5594,7.5851",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St._Peter%27s_Church,_Basel",
+      "wikidata_id": "Q2079493",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Peterskirche_Basel.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC-BY-SA-4.0",
+      "seo_title": "Peterskirche Basel - Historic Church & Gothic Frescoes",
+      "seo_description": "Step inside Peterskirche Basel to view its striking medieval Gothic wall paintings, vaulted nave, and exceptionally serene prayer atmosphere.",
+      "description_short": "A peaceful parish church renowned for its beautifully preserved medieval wall frescoes.",
+      "description_long": "Located close to the university campus, St. Peter's Church (Peterskirche) provides a remarkably tranquil escape. The minimalist, light-filled interior is celebrated for its historic choir vaults decorated with vivid 14th-century Gothic wall paintings, depicting biblical stories and saints. Its quiet cobblestone courtyard is perfect for mindful reflection.",
+      "keywords": [
+        "Peterskirche Basel",
+        "St Peter church Basel",
+        "Gothic frescoes Basel",
+        "quiet churches Switzerland"
+      ],
+      "long_tail_keywords": [
+        "medieval wall paintings Peterskirche Basel",
+        "historic university church Basel",
+        "hidden gems in Basel old town"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 82,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Spalentor",
+        "Rathaus Basel",
+        "Mittlere Brücke"
+      ],
+      "related_attractions": [
+        "St. Peter Church",
+        "St. Laurenzen Church"
+      ],
+      "internal_link_priority": "low",
+      "season_tags": [
+        "all-year",
+        "autumn",
+        "winter"
+      ],
+      "requires_guide": false,
+      "history": "First documented in 1233, the church was thoroughly rebuilt following the earthquake of 1356, later adapting to a Reformed parish format."
+    },
+    {
+      "name": "Bern",
+      "city": "Bern",
+      "region": "Switzerland",
+      "latitude": 46.94805556,
+      "longitude": 7.4475,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bern",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bundeshaus_Bern_2009%2C_Flooffy.jpg/800px-Bundeshaus_Bern_2009%2C_Flooffy.jpg",
+      "description_short": "Bern — a notable landmark in Bern, Switzerland.",
+      "keywords": [
+        "Bern",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Fribourg",
+      "city": "Bern",
+      "region": "Switzerland",
+      "latitude": 46.8,
+      "longitude": 7.15,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fribourg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Panorama_Fribourg_107.JPG/800px-Panorama_Fribourg_107.JPG",
+      "description_short": "Fribourg — a notable landmark in Bern, Switzerland.",
+      "keywords": [
+        "Bern",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Biel/Bienne",
+      "city": "Bern",
+      "region": "Switzerland",
+      "latitude": 47.13333333,
+      "longitude": 7.25,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Biel%2FBienne",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Picswiss_BE-98-20_Biel-_Stadthaus_und_Polizei_%28Burgplatz%29.jpg",
+      "description_short": "Biel/Bienne — a notable landmark in Bern, Switzerland.",
+      "keywords": [
+        "Bern",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Bern Minster",
+      "city": "Bern",
+      "region": "Switzerland",
+      "latitude": 46.94722222,
+      "longitude": 7.45138889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bern_Minster",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Muenster_Bern.jpg/800px-Muenster_Bern.jpg",
+      "description_short": "Bern Minster — a notable landmark in Bern, Switzerland.",
+      "keywords": [
+        "Bern",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Ins",
+      "city": "Bern",
+      "region": "Switzerland",
+      "latitude": 47,
+      "longitude": 7.1,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ins%2C_Switzerland",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Ins_ref_Kirche.jpg",
+      "description_short": "Ins, Switzerland — a notable landmark in Bern, Switzerland.",
+      "keywords": [
+        "Bern",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Mülchi",
+      "city": "Bern",
+      "region": "Switzerland",
+      "latitude": 47.1,
+      "longitude": 7.48333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/M%C3%BClchi",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2011-11-11-Mezlando_%28Foto_Dietrich_Michael_Weidmann%29_150.JPG/800px-2011-11-11-Mezlando_%28Foto_Dietrich_Michael_Weidmann%29_150.JPG",
+      "description_short": "Mülchi — a notable landmark in Bern, Switzerland.",
+      "keywords": [
+        "Bern",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Rapperswil",
+      "city": "Bern",
+      "region": "Switzerland",
+      "latitude": 47.06666667,
+      "longitude": 7.41666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rapperswil%2C_Bern",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Rapperswil1.jpg",
+      "description_short": "Rapperswil, Bern — a notable landmark in Bern, Switzerland.",
+      "keywords": [
+        "Bern",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "St. Peter's Island",
+      "city": "Bern",
+      "region": "Switzerland",
+      "latitude": 47.07083333,
+      "longitude": 7.1425,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St._Peter's_Island",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Twann_am_Bielersee_mit_Petersinsel.jpg",
+      "description_short": "St. Peter's Island — a notable landmark in Bern, Switzerland.",
+      "keywords": [
+        "Bern",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Old City (Bern)",
+      "city": "Bern",
+      "region": "Switzerland",
+      "latitude": 46.94805556,
+      "longitude": 7.45027778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Old_City_(Bern)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bern_luftaufnahme.png",
+      "description_short": "Old City (Bern) — a notable landmark in Bern, Switzerland.",
+      "keywords": [
+        "Bern",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Münsterplatz (Bern)",
+      "city": "Bern",
+      "region": "Switzerland",
+      "latitude": 46.94724444,
+      "longitude": 7.45083333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/M%C3%BCnsterplatz_(Bern)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bern_Muensterplatz.PNG/800px-Bern_Muensterplatz.PNG",
+      "description_short": "Münsterplatz (Bern) — a notable landmark in Bern, Switzerland.",
+      "keywords": [
+        "Bern",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Church of the Holy Ghost",
+      "city": "Bern",
+      "region": "Switzerland",
+      "latitude": 46.94789167,
+      "longitude": 7.44078611,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Church_of_the_Holy_Ghost%2C_Bern",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Heiliggeistkirche_Bern.jpg/800px-Heiliggeistkirche_Bern.jpg",
+      "description_short": "Church of the Holy Ghost, Bern — a notable landmark in Bern, Switzerland.",
+      "keywords": [
+        "Bern",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Königsfelden Monastery",
+      "city": "Bern",
+      "region": "Switzerland",
+      "latitude": 47.48027778,
+      "longitude": 8.21805556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/K%C3%B6nigsfelden_Monastery",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Koenigsfelden.jpg",
+      "description_short": "Königsfelden Monastery — a notable landmark in Bern, Switzerland.",
+      "keywords": [
+        "Bern",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Solothurn Cathedral",
+      "city": "Bern",
+      "region": "Switzerland",
+      "latitude": 47.208311,
+      "longitude": 7.539466,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Solothurn_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Solothurn_-_St._Ursen_von_S%C3%BCden.jpg/800px-Solothurn_-_St._Ursen_von_S%C3%BCden.jpg",
+      "description_short": "Solothurn Cathedral — a notable landmark in Bern, Switzerland.",
+      "keywords": [
+        "Bern",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "St. Gallen Cathedral",
+      "city": "Bern",
+      "region": "Switzerland",
+      "latitude": 47.4232,
+      "longitude": 9.3767,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St._Gallen_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/StiftskircheSt.Gallen.jpg/800px-StiftskircheSt.Gallen.jpg",
+      "description_short": "St. Gallen Cathedral — a notable landmark in Bern, Switzerland.",
+      "keywords": [
+        "Bern",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "St Ursula's Church",
+      "city": "Bern",
+      "region": "Switzerland",
+      "latitude": 46.93996,
+      "longitude": 7.45336,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St_Ursula's_Church%2C_Bern",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/St_Ursula_Bern.jpg/800px-St_Ursula_Bern.jpg",
+      "description_short": "St Ursula's Church, Bern — a notable landmark in Bern, Switzerland.",
+      "keywords": [
+        "Bern",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Church of St. Peter and Paul",
+      "city": "Bern",
+      "region": "Switzerland",
+      "latitude": 46.94871667,
+      "longitude": 7.45154167,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Church_of_St._Peter_and_Paul%2C_Bern",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Switzerland-03143_-_Christian_Catholic_Church_of_Switzerland_%2823547846012%29.jpg/800px-Switzerland-03143_-_Christian_Catholic_Church_of_Switzerland_%2823547846012%29.jpg",
+      "description_short": "Church of St. Peter and Paul, Bern — a notable landmark in Bern, Switzerland.",
+      "keywords": [
+        "Bern",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Abbey of Saint Gall",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 47.42305556,
+      "longitude": 9.37722222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Abbey_of_Saint_Gall",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/StGallen_asv2022-10_F%C3%BCrstabtei_img1.jpg/800px-StGallen_asv2022-10_F%C3%BCrstabtei_img1.jpg",
+      "description_short": "Abbey of Saint Gall — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Lugano",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 46.005,
+      "longitude": 8.9525,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lugano",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Lago_di_Lugano_at_Sunset_%28cropped_2%29.jpg/800px-Lago_di_Lugano_at_Sunset_%28cropped_2%29.jpg",
+      "description_short": "Lugano — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "St. Gallen",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 47.42416667,
+      "longitude": 9.37083333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St._Gallen",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/St.Gallen_vonDreiweieren_09.jpg/800px-St.Gallen_vonDreiweieren_09.jpg",
+      "description_short": "St. Gallen — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Saint Martin's Church (Olten)",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 47.35102,
+      "longitude": 7.89867,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_Martin's_Church_(Olten)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Picswiss_SO-18-18.jpg",
+      "description_short": "Saint Martin's Church (Olten) — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Church of St. Leodegar (Lucerne)",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 47.0557,
+      "longitude": 8.31405,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Church_of_St._Leodegar_(Lucerne)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/6304_-_Luzern_-_Haupttreppe_and_Hofkirche_St._Leodegar_above_Sankt-Leodegar-Strasse.JPG/800px-6304_-_Luzern_-_Haupttreppe_and_Hofkirche_St._Leodegar_above_Sankt-Leodegar-Strasse.JPG",
+      "description_short": "Church of St. Leodegar (Lucerne) — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Chur Cathedral",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 46.84777778,
+      "longitude": 9.53527778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Chur_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Chur_Kathedrale_1.jpg/800px-Chur_Kathedrale_1.jpg",
+      "description_short": "Chur Cathedral — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Lucerne",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 47.05,
+      "longitude": 8.3,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lucerne",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2009_08_24_06262_Lucerne.jpg/800px-2009_08_24_06262_Lucerne.jpg",
+      "description_short": "Lucerne — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Lake Lucerne",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 47.0194,
+      "longitude": 8.4011,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lake_Lucerne",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Vierwaldstaettersee.jpg",
+      "description_short": "Lake Lucerne — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Beromünster",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 47.2,
+      "longitude": 8.2,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Berom%C3%BCnster",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Picswiss_LU-18-03.jpg",
+      "description_short": "Beromünster — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Ebikon",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 47.08333333,
+      "longitude": 8.33333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ebikon",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Schindler_test_tower_head_office.jpg",
+      "description_short": "Ebikon — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Willisau",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 47.11666667,
+      "longitude": 8,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Willisau",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Picswiss_LU-25-15.jpg",
+      "description_short": "Willisau — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Meggenhorn Castle",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 47.035207,
+      "longitude": 8.356217,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Meggenhorn_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Schloss_Meggenhorn.jpg/800px-Schloss_Meggenhorn.jpg",
+      "description_short": "Meggenhorn Castle — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Mauensee",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 47.1722,
+      "longitude": 8.075,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mauensee",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Mauensee.jpg",
+      "description_short": "Mauensee — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Neuhabsburg Castle",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 47.04166667,
+      "longitude": 8.37361111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Neuhabsburg_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CH-NB_-_Meggen%2C_Neuhabsburg%2C_Gesamtaussenansicht_-_Collection_Gugelmann_-_GS-GUGE-GESSNER-S-1-13.tif/lossy-page1-960px-CH-NB_-_Meggen%2C_Neuhabsburg%2C_Gesamtaussenansicht_-_Collection_Gugelmann_-_GS-GUGE-GESSNER-S-1-13.tif.jpg",
+      "description_short": "Neuhabsburg Castle — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Zug Castle",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 47.165154,
+      "longitude": 8.516714,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Zug_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/BurgZug.JPG/800px-BurgZug.JPG",
+      "description_short": "Zug Castle — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Kastelen Tower Ruins",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 47.14695,
+      "longitude": 7.99298,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kastelen_Tower_Ruins",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Picswiss_LU-24-26.jpg",
+      "description_short": "Kastelen Tower Ruins — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Buttisholz Castle",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 47.115101,
+      "longitude": 8.097011,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Buttisholz_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schloss%2C_Buttisholz_IMG_4989.jpg/800px-Schloss%2C_Buttisholz_IMG_4989.jpg",
+      "description_short": "Buttisholz Castle — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Götzental Castle",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 47.091792,
+      "longitude": 8.376996,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/G%C3%B6tzental_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Dierikon%2C_Schl%C3%B6ssli_G%C3%B6tzental_IMG_4791.jpg/800px-Dierikon%2C_Schl%C3%B6ssli_G%C3%B6tzental_IMG_4791.jpg",
+      "description_short": "Götzental Castle — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Heidegg Castle",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 47.21675833,
+      "longitude": 8.27303333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Heidegg_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Schloss_Heidegg_Schlossturm.jpg/800px-Schloss_Heidegg_Schlossturm.jpg",
+      "description_short": "Heidegg Castle — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Nünegg Castle",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 47.208892,
+      "longitude": 8.303861,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/N%C3%BCnegg_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Ruine-N%C3%BCnegg_Westwand.jpg",
+      "description_short": "Nünegg Castle — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Bailiff's Castle (Willisau)",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 47.119313,
+      "longitude": 7.990534,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bailiff's_Castle_(Willisau)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Picswiss_LU-25-21.jpg",
+      "description_short": "Bailiff's Castle (Willisau) — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Wyher Castle",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 47.14202778,
+      "longitude": 8.02377778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Wyher_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Picswiss_LU-24-02.jpg",
+      "description_short": "Wyher Castle — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Schauensee Castle",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 47.02735556,
+      "longitude": 8.28123611,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Schauensee_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2017-Kriens-Schloss-Schauensee.jpg/800px-2017-Kriens-Schloss-Schauensee.jpg",
+      "description_short": "Schauensee Castle — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Château Gütsch",
+      "city": "Lucerne",
+      "region": "Switzerland",
+      "latitude": 47.0515,
+      "longitude": 8.295,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_G%C3%BCtsch",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ch%C3%A2teau_G%C3%BCtsch_Lucerne_-_panoramio.jpg/800px-Ch%C3%A2teau_G%C3%BCtsch_Lucerne_-_panoramio.jpg",
+      "description_short": "Château Gütsch — a notable landmark in Lucerne, Switzerland.",
+      "keywords": [
+        "Lucerne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Lausanne",
+      "city": "Lausanne",
+      "region": "Switzerland",
+      "latitude": 46.52,
+      "longitude": 6.63333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lausanne",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lausanne_Wiki.jpg/800px-Lausanne_Wiki.jpg",
+      "description_short": "Lausanne — a notable landmark in Lausanne, Switzerland.",
+      "keywords": [
+        "Lausanne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "École Polytechnique Fédérale de Lausanne",
+      "city": "Lausanne",
+      "region": "Switzerland",
+      "latitude": 46.52027778,
+      "longitude": 6.56555556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EPFL_campus_2017.jpg/800px-EPFL_campus_2017.jpg",
+      "description_short": "École Polytechnique Fédérale de Lausanne — a notable landmark in Lausanne, Switzerland.",
+      "keywords": [
+        "Lausanne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Olympic Museum",
+      "city": "Lausanne",
+      "region": "Switzerland",
+      "latitude": 46.50861111,
+      "longitude": 6.63388889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Olympic_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Losanna%2C_museo_olimpico%2C_ext..JPG/800px-Losanna%2C_museo_olimpico%2C_ext..JPG",
+      "description_short": "Olympic Museum — a notable landmark in Lausanne, Switzerland.",
+      "keywords": [
+        "Lausanne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Ouchy",
+      "city": "Lausanne",
+      "region": "Switzerland",
+      "latitude": 46.50707222,
+      "longitude": 6.62676389,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ouchy",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/ETH-BIB-Lausanne-Ouchy_v._O._aus_300_m-Inlandfl%C3%BCge-LBS_MH01-000233.tif/lossy-page1-960px-ETH-BIB-Lausanne-Ouchy_v._O._aus_300_m-Inlandfl%C3%BCge-LBS_MH01-000233.tif.jpg",
+      "description_short": "Ouchy — a notable landmark in Lausanne, Switzerland.",
+      "keywords": [
+        "Lausanne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Musée et jardins botaniques cantonaux",
+      "city": "Lausanne",
+      "region": "Switzerland",
+      "latitude": 46.5134,
+      "longitude": 6.6236,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mus%C3%A9e_et_jardins_botaniques_cantonaux",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mus%C3%A9e-et-jardins-botaniques-cantonaux.jpg/800px-Mus%C3%A9e-et-jardins-botaniques-cantonaux.jpg",
+      "description_short": "Musée et jardins botaniques cantonaux — a notable landmark in Lausanne, Switzerland.",
+      "keywords": [
+        "Lausanne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Lucy Mackintosh Gallery",
+      "city": "Lausanne",
+      "region": "Switzerland",
+      "latitude": 46.5133,
+      "longitude": 6.6325,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lucy_Mackintosh_Gallery",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Lucy_Mackintosh_Gallery.jpg",
+      "description_short": "Lucy Mackintosh Gallery — a notable landmark in Lausanne, Switzerland.",
+      "keywords": [
+        "Lausanne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Palais de Rumine",
+      "city": "Lausanne",
+      "region": "Switzerland",
+      "latitude": 46.52361111,
+      "longitude": 6.63388889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Palais_de_Rumine",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Palais_de_Rumine_1.jpg/800px-Palais_de_Rumine_1.jpg",
+      "description_short": "Palais de Rumine — a notable landmark in Lausanne, Switzerland.",
+      "keywords": [
+        "Lausanne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Cantonal Museum of Zoology",
+      "city": "Lausanne",
+      "region": "Switzerland",
+      "latitude": 46.5236,
+      "longitude": 6.6339,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cantonal_Museum_of_Zoology",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Mus%C3%A9e_cantonal_de_zoologie_%28Lausanne%29%2C_03.JPG/800px-Mus%C3%A9e_cantonal_de_zoologie_%28Lausanne%29%2C_03.JPG",
+      "description_short": "Cantonal Museum of Zoology — a notable landmark in Lausanne, Switzerland.",
+      "keywords": [
+        "Lausanne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Lausanne–Échallens–Bercher line",
+      "city": "Lausanne",
+      "region": "Switzerland",
+      "latitude": 46.63944444,
+      "longitude": 6.63305556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lausanne%E2%80%93%C3%89challens%E2%80%93Bercher_line",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/LEBPicture.jpg",
+      "description_short": "Lausanne–Échallens–Bercher line — a notable landmark in Lausanne, Switzerland.",
+      "keywords": [
+        "Lausanne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "La Cité (Lausanne)",
+      "city": "Lausanne",
+      "region": "Switzerland",
+      "latitude": 46.52444444,
+      "longitude": 6.62666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/La_Cit%C3%A9_(Lausanne)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Lausanne_um_1900.jpg/800px-Lausanne_um_1900.jpg",
+      "description_short": "La Cité (Lausanne) — a notable landmark in Lausanne, Switzerland.",
+      "keywords": [
+        "Lausanne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Cantonal Museum of Fine Arts",
+      "city": "Lausanne",
+      "region": "Switzerland",
+      "latitude": 46.5179913,
+      "longitude": 6.6254402,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cantonal_Museum_of_Fine_Arts",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/MCBA-ext%C3%A9rieur-03.jpg/800px-MCBA-ext%C3%A9rieur-03.jpg",
+      "description_short": "Cantonal Museum of Fine Arts — a notable landmark in Lausanne, Switzerland.",
+      "keywords": [
+        "Lausanne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Museum of Contemporary Design and Applied Arts",
+      "city": "Lausanne",
+      "region": "Switzerland",
+      "latitude": 46.5221,
+      "longitude": 6.6353,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Design_and_Applied_Arts",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/PHOTO_ELYS%C3%89E_MUDAC_Juin_2022.jpg/800px-PHOTO_ELYS%C3%89E_MUDAC_Juin_2022.jpg",
+      "description_short": "Museum of Contemporary Design and Applied Arts — a notable landmark in Lausanne, Switzerland.",
+      "keywords": [
+        "Lausanne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "École cantonale d'art de Lausanne",
+      "city": "Lausanne",
+      "region": "Switzerland",
+      "latitude": 46.53666667,
+      "longitude": 6.58861111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89cole_cantonale_d'art_de_Lausanne",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ECAL.JPG/800px-ECAL.JPG",
+      "description_short": "École cantonale d'art de Lausanne — a notable landmark in Lausanne, Switzerland.",
+      "keywords": [
+        "Lausanne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Archizoom (EPFL)",
+      "city": "Lausanne",
+      "region": "Switzerland",
+      "latitude": 46.52124097,
+      "longitude": 6.56439599,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Archizoom_(EPFL)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/EPFL_Stalingrad_2.jpg/800px-EPFL_Stalingrad_2.jpg",
+      "description_short": "Archizoom (EPFL) — a notable landmark in Lausanne, Switzerland.",
+      "keywords": [
+        "Lausanne",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Gandria",
+      "city": "Lugano",
+      "region": "Switzerland",
+      "latitude": 46,
+      "longitude": 9,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gandria",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gandria.jpg/800px-Gandria.jpg",
+      "description_short": "Gandria — a notable landmark in Lugano, Switzerland.",
+      "keywords": [
+        "Lugano",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Lake Maggiore",
+      "city": "Lugano",
+      "region": "Switzerland",
+      "latitude": 46.09805556,
+      "longitude": 8.71472222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lake_Maggiore",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/LagoMaggiore.jpg",
+      "description_short": "Lake Maggiore — a notable landmark in Lugano, Switzerland.",
+      "keywords": [
+        "Lugano",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Alto Malcantone",
+      "city": "Lugano",
+      "region": "Switzerland",
+      "latitude": 46.03333333,
+      "longitude": 8.88333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alto_Malcantone",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Arosio_Croce_Alpe_Agra.jpg/800px-Arosio_Croce_Alpe_Agra.jpg",
+      "description_short": "Alto Malcantone — a notable landmark in Lugano, Switzerland.",
+      "keywords": [
+        "Lugano",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Collina d'Oro",
+      "city": "Lugano",
+      "region": "Switzerland",
+      "latitude": 45.98333333,
+      "longitude": 8.91666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Collina_d'Oro",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/GentilinoSanAbbondio.JPG/800px-GentilinoSanAbbondio.JPG",
+      "description_short": "Collina d'Oro — a notable landmark in Lugano, Switzerland.",
+      "keywords": [
+        "Lugano",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Rivera",
+      "city": "Lugano",
+      "region": "Switzerland",
+      "latitude": 46.1,
+      "longitude": 8.93333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rivera%2C_Switzerland",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Santa_Maria_degli_Angeli_Ticino_Switzerland.jpg/800px-Santa_Maria_degli_Angeli_Ticino_Switzerland.jpg",
+      "description_short": "Rivera, Switzerland — a notable landmark in Lugano, Switzerland.",
+      "keywords": [
+        "Lugano",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Sorengo",
+      "city": "Lugano",
+      "region": "Switzerland",
+      "latitude": 46,
+      "longitude": 8.93333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sorengo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Franklin_College_Switzerland_Main_Lawn_2007.jpg/800px-Franklin_College_Switzerland_Main_Lawn_2007.jpg",
+      "description_short": "Sorengo — a notable landmark in Lugano, Switzerland.",
+      "keywords": [
+        "Lugano",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Diocese of Lugano",
+      "city": "Lugano",
+      "region": "Switzerland",
+      "latitude": 46,
+      "longitude": 8.95,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Diocese_of_Lugano",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Facciata_Cattedrale_di_Lugano.jpg",
+      "description_short": "Diocese of Lugano — a notable landmark in Lugano, Switzerland.",
+      "keywords": [
+        "Lugano",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Agra",
+      "city": "Lugano",
+      "region": "Switzerland",
+      "latitude": 45.96833333,
+      "longitude": 8.91472222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Agra%2C_Switzerland",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Agra-Ticino.jpg/800px-Agra-Ticino.jpg",
+      "description_short": "Agra, Switzerland — a notable landmark in Lugano, Switzerland.",
+      "keywords": [
+        "Lugano",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Lugano Cathedral",
+      "city": "Lugano",
+      "region": "Switzerland",
+      "latitude": 46.0046,
+      "longitude": 8.9486,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lugano_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lugano_San_Lorenzo_02.JPG/800px-Lugano_San_Lorenzo_02.JPG",
+      "description_short": "Lugano Cathedral — a notable landmark in Lugano, Switzerland.",
+      "keywords": [
+        "Lugano",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Monteceneri",
+      "city": "Lugano",
+      "region": "Switzerland",
+      "latitude": 46.11666667,
+      "longitude": 8.93333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Monteceneri",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/View_from_Monte_Ceneri_road_toward_Locarno.jpg/800px-View_from_Monte_Ceneri_road_toward_Locarno.jpg",
+      "description_short": "Monteceneri — a notable landmark in Lugano, Switzerland.",
+      "keywords": [
+        "Lugano",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Lugano Città–Stazione funicular",
+      "city": "Lugano",
+      "region": "Switzerland",
+      "latitude": 46.004906,
+      "longitude": 8.948262,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lugano_Citt%C3%A0%E2%80%93Stazione_funicular",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sassellina_250317.jpg/800px-Sassellina_250317.jpg",
+      "description_short": "Lugano Città–Stazione funicular — a notable landmark in Lugano, Switzerland.",
+      "keywords": [
+        "Lugano",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Obersee (Lake Zurich)",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47.2,
+      "longitude": 8.8,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Obersee_(Lake_Zurich)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Seedamm_Obersee_from_Ju-52_HB-HOT.JPG/800px-Seedamm_Obersee_from_Ju-52_HB-HOT.JPG",
+      "description_short": "Obersee (Lake Zurich) — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "St. Gallus Chapel (Saint Gall)",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47.42317,
+      "longitude": 9.37774,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St._Gallus_Chapel_(Saint_Gall)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Eingang_zur_St._Gallus_Kapelle_der_F%C3%BCrstabtei_St._Gallen.jpg/800px-Eingang_zur_St._Gallus_Kapelle_der_F%C3%BCrstabtei_St._Gallen.jpg",
+      "description_short": "St. Gallus Chapel (Saint Gall) — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Hofflügel",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47.4232,
+      "longitude": 9.3779,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hoffl%C3%BCgel",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Eingang_zur_St._Gallus_Kapelle_der_F%C3%BCrstabtei_St._Gallen.jpg/800px-Eingang_zur_St._Gallus_Kapelle_der_F%C3%BCrstabtei_St._Gallen.jpg",
+      "description_short": "Hofflügel — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Rapperswil-Jona",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47.21666667,
+      "longitude": 8.81666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rapperswil-Jona",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Rapperswil-Jona_-_Lenggis_Spitzewies_IMG_4991_-crop-.JPG/800px-Rapperswil-Jona_-_Lenggis_Spitzewies_IMG_4991_-crop-.JPG",
+      "description_short": "Rapperswil-Jona — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Bad Ragaz",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47,
+      "longitude": 9.5,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bad_Ragaz",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bad-Ragaz-Platz.jpg",
+      "description_short": "Bad Ragaz — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Rorschach",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47.46666667,
+      "longitude": 9.5,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rorschach%2C_Switzerland",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Schweiz_Rorschach_006.jpg/800px-Schweiz_Rorschach_006.jpg",
+      "description_short": "Rorschach, Switzerland — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Thal",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47.46666667,
+      "longitude": 9.56666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thal%2C_St._Gallen",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Thal_7719.jpg/800px-Thal_7719.jpg",
+      "description_short": "Thal, St. Gallen — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Sargans",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47.03333333,
+      "longitude": 9.43333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sargans",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Schloss_Sargans.jpg/800px-Schloss_Sargans.jpg",
+      "description_short": "Sargans — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "St. Margrethen",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47.45,
+      "longitude": 9.63333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St._Margrethen",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sankt_Margrethen-Railwaystation-motorway_No_1-junction_Sankt_Margrethen_Hoechst-01ASD.jpg/800px-Sankt_Margrethen-Railwaystation-motorway_No_1-junction_Sankt_Margrethen_Hoechst-01ASD.jpg",
+      "description_short": "St. Margrethen — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Gossau",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47.41666667,
+      "longitude": 9.25,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gossau%2C_St._Gallen",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Gossau_flugaufnahme_zentrum.jpg",
+      "description_short": "Gossau, St. Gallen — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Wattwil",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47.3,
+      "longitude": 9.08333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Wattwil",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Thurbruecke_Wattwil_01_11.jpg/800px-Thurbruecke_Wattwil_01_11.jpg",
+      "description_short": "Wattwil — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Au",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47.43333333,
+      "longitude": 9.63333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Au%2C_St._Gallen",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Au-Heerbrugg_preghejo_de_Au_011.jpg/800px-Au-Heerbrugg_preghejo_de_Au_011.jpg",
+      "description_short": "Au, St. Gallen — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Berneck",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47.43333333,
+      "longitude": 9.61666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Berneck%2C_St._Gallen",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/BerneckSG2.JPG/800px-BerneckSG2.JPG",
+      "description_short": "Berneck, St. Gallen — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Grabs",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47.18333333,
+      "longitude": 9.45,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Grabs%2C_Switzerland",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/St%C3%A4dchen_Werdenberg.jpg/800px-St%C3%A4dchen_Werdenberg.jpg",
+      "description_short": "Grabs, Switzerland — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Iberg Castle",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47.2975,
+      "longitude": 9.08,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Iberg_Castle%2C_St._Gallen",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Yburg.jpg/800px-Yburg.jpg",
+      "description_short": "Iberg Castle, St. Gallen — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Hohensax Castle",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47.23027778,
+      "longitude": 9.44361111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hohensax_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ruine_Hohensax.JPG/800px-Ruine_Hohensax.JPG",
+      "description_short": "Hohensax Castle — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Freudenberg Castle",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47.00888889,
+      "longitude": 9.4925,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Freudenberg_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Freudenberg_Ruine.jpg/800px-Freudenberg_Ruine.jpg",
+      "description_short": "Freudenberg Castle — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Kleiner Hahnberg Castle",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47.494711,
+      "longitude": 9.415868,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kleiner_Hahnberg_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Kleiner_Hahnberg.jpg/800px-Kleiner_Hahnberg.jpg",
+      "description_short": "Kleiner Hahnberg Castle — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Fründsberg Castle",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47.283593,
+      "longitude": 8.941272,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fr%C3%BCndsberg_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Burgstelle_Fr%C3%BCndsberg_Halsgraben.jpg/800px-Burgstelle_Fr%C3%BCndsberg_Halsgraben.jpg",
+      "description_short": "Fründsberg Castle — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Werdenberg Castle",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47.168506,
+      "longitude": 9.461647,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Werdenberg_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grabs_SG_asv2022-10_Schloss_Werdenberg_img2.jpg/800px-Grabs_SG_asv2022-10_Schloss_Werdenberg_img2.jpg",
+      "description_short": "Werdenberg Castle — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Zuckenriet Castle",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47.488677,
+      "longitude": 9.163647,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Zuckenriet_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Niederhelfenschwil_Zuckenriet_Grotte.jpg/800px-Niederhelfenschwil_Zuckenriet_Grotte.jpg",
+      "description_short": "Zuckenriet Castle — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Wichenstein Castle",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47.327113,
+      "longitude": 9.5539,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Wichenstein_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Wichenstein_Castle7.JPG/800px-Wichenstein_Castle7.JPG",
+      "description_short": "Wichenstein Castle — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Wartenstein Castle (St Gallen)",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 46.99425,
+      "longitude": 9.51053889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Wartenstein_Castle_(St_Gallen)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wartenstein_Pf%C3%A4fers3.jpg/800px-Wartenstein_Pf%C3%A4fers3.jpg",
+      "description_short": "Wartenstein Castle (St Gallen) — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Sargans Castle",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47.050194,
+      "longitude": 9.437282,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sargans_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Sargans_asv2022-10_img1_Schloss.jpg/800px-Sargans_asv2022-10_img1_Schloss.jpg",
+      "description_short": "Sargans Castle — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Forstegg Castle",
+      "city": "St. Gallen",
+      "region": "Switzerland",
+      "latitude": 47.24555556,
+      "longitude": 9.49583333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Forstegg_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Schloss_Forstegg_-_Matthaus_Merian_%281126674%29.jpg/800px-Schloss_Forstegg_-_Matthaus_Merian_%281126674%29.jpg",
+      "description_short": "Forstegg Castle — a notable landmark in St. Gallen, Switzerland.",
+      "keywords": [
+        "St. Gallen",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Basel",
+      "city": "Thun",
+      "region": "Switzerland",
+      "latitude": 47.55472222,
+      "longitude": 7.59055556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Basel",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basel_-_M%C3%BCnsterpfalz1.jpg/800px-Basel_-_M%C3%BCnsterpfalz1.jpg",
+      "description_short": "Basel — a notable landmark in Thun, Switzerland.",
+      "keywords": [
+        "Thun",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Thun",
+      "city": "Thun",
+      "region": "Switzerland",
+      "latitude": 46.76666667,
+      "longitude": 7.63333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thun",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/1_thun_castle_view_2012.jpg/800px-1_thun_castle_view_2012.jpg",
+      "description_short": "Thun — a notable landmark in Thun, Switzerland.",
+      "keywords": [
+        "Thun",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Interlaken",
+      "city": "Thun",
+      "region": "Switzerland",
+      "latitude": 46.68333333,
+      "longitude": 7.85,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Interlaken",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Goldswil-Viadukt_Panorama_mit_Interlaken_im_Hintergrund_2.jpg/800px-Goldswil-Viadukt_Panorama_mit_Interlaken_im_Hintergrund_2.jpg",
+      "description_short": "Interlaken — a notable landmark in Thun, Switzerland.",
+      "keywords": [
+        "Thun",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Burgdorf",
+      "city": "Thun",
+      "region": "Switzerland",
+      "latitude": 47.05,
+      "longitude": 7.61666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Burgdorf%2C_Switzerland",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Altstadt_Burgdorf_BE.jpg/800px-Altstadt_Burgdorf_BE.jpg",
+      "description_short": "Burgdorf, Switzerland — a notable landmark in Thun, Switzerland.",
+      "keywords": [
+        "Thun",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Museum of Timekeeping and Mechanical Musical Instruments",
+      "city": "Thun",
+      "region": "Switzerland",
+      "latitude": 46.7285,
+      "longitude": 7.6717,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Museum_of_Timekeeping_and_Mechanical_Musical_Instruments",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wichterheergut.jpeg/800px-Wichterheergut.jpeg",
+      "description_short": "Museum of Timekeeping and Mechanical Musical Instruments — a notable landmark in Thun, Switzerland.",
+      "keywords": [
+        "Thun",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Schadau Castle",
+      "city": "Thun",
+      "region": "Switzerland",
+      "latitude": 46.746111,
+      "longitude": 7.637222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Schadau_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/SchlossSchadau_6383.jpg/800px-SchlossSchadau_6383.jpg",
+      "description_short": "Schadau Castle — a notable landmark in Thun, Switzerland.",
+      "keywords": [
+        "Thun",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Oberhofen Castle",
+      "city": "Thun",
+      "region": "Switzerland",
+      "latitude": 46.7297,
+      "longitude": 7.6686,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oberhofen_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Schloss_Oberhofen.jpg/800px-Schloss_Oberhofen.jpg",
+      "description_short": "Oberhofen Castle — a notable landmark in Thun, Switzerland.",
+      "keywords": [
+        "Thun",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Thun Castle",
+      "city": "Thun",
+      "region": "Switzerland",
+      "latitude": 46.76007778,
+      "longitude": 7.62982222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thun_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2011-07-23_Lago_de_Thun_%28Foto_Dietrich_Michael_Weidmann%29_509.JPG/800px-2011-07-23_Lago_de_Thun_%28Foto_Dietrich_Michael_Weidmann%29_509.JPG",
+      "description_short": "Thun Castle — a notable landmark in Thun, Switzerland.",
+      "keywords": [
+        "Thun",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Panzermuseum Thun",
+      "city": "Thun",
+      "region": "Switzerland",
+      "latitude": 46.757834,
+      "longitude": 7.616363,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Panzermuseum_Thun",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Panzermuseum_Thun_-_Panzerj%C3%A4ger_G_13_%28Hetzer%29_01.jpg/800px-Panzermuseum_Thun_-_Panzerj%C3%A4ger_G_13_%28Hetzer%29_01.jpg",
+      "description_short": "Panzermuseum Thun — a notable landmark in Thun, Switzerland.",
+      "keywords": [
+        "Thun",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Spiez",
+      "city": "Thun",
+      "region": "Switzerland",
+      "latitude": 46.68333333,
+      "longitude": 7.66666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Spiez",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spiez.JPG/800px-Spiez.JPG",
+      "description_short": "Spiez — a notable landmark in Thun, Switzerland.",
+      "keywords": [
+        "Thun",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Amsoldingen",
+      "city": "Thun",
+      "region": "Switzerland",
+      "latitude": 46.73333333,
+      "longitude": 7.58333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Amsoldingen",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Amsoldingen.jpg/800px-Amsoldingen.jpg",
+      "description_short": "Amsoldingen — a notable landmark in Thun, Switzerland.",
+      "keywords": [
+        "Thun",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Konolfingen",
+      "city": "Thun",
+      "region": "Switzerland",
+      "latitude": 46.88333333,
+      "longitude": 7.61666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Konolfingen",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Parkhotel_Schloss_H%C3%BCnigen_Ostansicht.jpg/800px-Parkhotel_Schloss_H%C3%BCnigen_Ostansicht.jpg",
+      "description_short": "Konolfingen — a notable landmark in Thun, Switzerland.",
+      "keywords": [
+        "Thun",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Unterseen",
+      "city": "Thun",
+      "region": "Switzerland",
+      "latitude": 46.68333333,
+      "longitude": 7.85,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Unterseen",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Unterseen.jpg",
+      "description_short": "Unterseen — a notable landmark in Thun, Switzerland.",
+      "keywords": [
+        "Thun",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Oberhofen am Thunersee",
+      "city": "Thun",
+      "region": "Switzerland",
+      "latitude": 46.73333333,
+      "longitude": 7.66666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oberhofen_am_Thunersee",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Oberhofen.jpg/800px-Oberhofen.jpg",
+      "description_short": "Oberhofen am Thunersee — a notable landmark in Thun, Switzerland.",
+      "keywords": [
+        "Thun",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Blumenstein",
+      "city": "Thun",
+      "region": "Switzerland",
+      "latitude": 46.73333333,
+      "longitude": 7.51666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Blumenstein",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kirche_Blumenstein_Nebengeb%C3%A4ude05057.jpg/800px-Kirche_Blumenstein_Nebengeb%C3%A4ude05057.jpg",
+      "description_short": "Blumenstein — a notable landmark in Thun, Switzerland.",
+      "keywords": [
+        "Thun",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Buchholterberg",
+      "city": "Thun",
+      "region": "Switzerland",
+      "latitude": 46.81666667,
+      "longitude": 7.68333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Buchholterberg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Heimenschwand.jpg/800px-Heimenschwand.jpg",
+      "description_short": "Buchholterberg — a notable landmark in Thun, Switzerland.",
+      "keywords": [
+        "Thun",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Hilterfingen",
+      "city": "Thun",
+      "region": "Switzerland",
+      "latitude": 46.73333333,
+      "longitude": 7.65,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hilterfingen",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2011-07-23_Lago_de_Thun_%28Foto_Dietrich_Michael_Weidmann%29_387.JPG/800px-2011-07-23_Lago_de_Thun_%28Foto_Dietrich_Michael_Weidmann%29_387.JPG",
+      "description_short": "Hilterfingen — a notable landmark in Thun, Switzerland.",
+      "keywords": [
+        "Thun",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Steffisburg",
+      "city": "Thun",
+      "region": "Switzerland",
+      "latitude": 46.76666667,
+      "longitude": 7.63333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Steffisburg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Steffisburg_blick.jpg/800px-Steffisburg_blick.jpg",
+      "description_short": "Steffisburg — a notable landmark in Thun, Switzerland.",
+      "keywords": [
+        "Thun",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Sigriswil",
+      "city": "Thun",
+      "region": "Switzerland",
+      "latitude": 46.71666667,
+      "longitude": 7.71666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sigriswil",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sigriswil-BE.jpg/800px-Sigriswil-BE.jpg",
+      "description_short": "Sigriswil — a notable landmark in Thun, Switzerland.",
+      "keywords": [
+        "Thun",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Schaffhausen",
+      "city": "Winterthur",
+      "region": "Switzerland",
+      "latitude": 47.7,
+      "longitude": 8.63333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Schaffhausen",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/1_schaffhausen_2012.jpg/800px-1_schaffhausen_2012.jpg",
+      "description_short": "Schaffhausen — a notable landmark in Winterthur, Switzerland.",
+      "keywords": [
+        "Winterthur",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Embrach",
+      "city": "Winterthur",
+      "region": "Switzerland",
+      "latitude": 47.51043333,
+      "longitude": 8.59378333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Embrach",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Reformierte_Kirche_Embrach.jpg",
+      "description_short": "Embrach — a notable landmark in Winterthur, Switzerland.",
+      "keywords": [
+        "Winterthur",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Predigerkirche Zurich",
+      "city": "Winterthur",
+      "region": "Switzerland",
+      "latitude": 47.37381111,
+      "longitude": 8.54530278,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Predigerkirche_Zurich",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Predigerkirche_%28Chor%29_-_Innenhof_-_Zentralbibliothek_2011-08-22_15-02-16_ShiftN.jpg/800px-Predigerkirche_%28Chor%29_-_Innenhof_-_Zentralbibliothek_2011-08-22_15-02-16_ShiftN.jpg",
+      "description_short": "Predigerkirche Zurich — a notable landmark in Winterthur, Switzerland.",
+      "keywords": [
+        "Winterthur",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Rhine Falls",
+      "city": "Winterthur",
+      "region": "Switzerland",
+      "latitude": 47.67722222,
+      "longitude": 8.61583333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rhine_Falls",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SBB_RABe_514_DTZ_Rheinfall.jpg/800px-SBB_RABe_514_DTZ_Rheinfall.jpg",
+      "description_short": "Rhine Falls — a notable landmark in Winterthur, Switzerland.",
+      "keywords": [
+        "Winterthur",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Winterthur",
+      "city": "Winterthur",
+      "region": "Switzerland",
+      "latitude": 47.49888889,
+      "longitude": 8.72861111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Winterthur",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Blick_auf_die_Winterthurer_Altstadt.jpg/800px-Blick_auf_die_Winterthurer_Altstadt.jpg",
+      "description_short": "Winterthur — a notable landmark in Winterthur, Switzerland.",
+      "keywords": [
+        "Winterthur",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Zurich Stadelhofen railway station",
+      "city": "Winterthur",
+      "region": "Switzerland",
+      "latitude": 47.36666667,
+      "longitude": 8.54861111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Zurich_Stadelhofen_railway_station",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Z%C3%BCrich_Stadelhofen_in_2006.jpg/800px-Z%C3%BCrich_Stadelhofen_in_2006.jpg",
+      "description_short": "Zurich Stadelhofen railway station — a notable landmark in Winterthur, Switzerland.",
+      "keywords": [
+        "Winterthur",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Dübendorf",
+      "city": "Winterthur",
+      "region": "Switzerland",
+      "latitude": 47.41666667,
+      "longitude": 8.61666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/D%C3%BCbendorf",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/D%C3%BCbendorf_-_Gemeindeverwaltung-Stadthaus_%28alt%29_IMG_1048_ShiftN.jpg/800px-D%C3%BCbendorf_-_Gemeindeverwaltung-Stadthaus_%28alt%29_IMG_1048_ShiftN.jpg",
+      "description_short": "Dübendorf — a notable landmark in Winterthur, Switzerland.",
+      "keywords": [
+        "Winterthur",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Kyburg (castle)",
+      "city": "Winterthur",
+      "region": "Switzerland",
+      "latitude": 47.4585,
+      "longitude": 8.7435,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kyburg_(castle)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Castle_kyburg.jpg",
+      "description_short": "Kyburg (castle) — a notable landmark in Winterthur, Switzerland.",
+      "keywords": [
+        "Winterthur",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Laufen Castle (Switzerland)",
+      "city": "Winterthur",
+      "region": "Switzerland",
+      "latitude": 47.67657222,
+      "longitude": 8.61503889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Laufen_Castle_(Switzerland)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Laufen-Uhwiesen_-_Schloss_Laufen_-_Rheinfall_-_Neuhausen_am_Rheinfall_2010-06-24_18-48-50.JPG/800px-Laufen-Uhwiesen_-_Schloss_Laufen_-_Rheinfall_-_Neuhausen_am_Rheinfall_2010-06-24_18-48-50.JPG",
+      "description_short": "Laufen Castle (Switzerland) — a notable landmark in Winterthur, Switzerland.",
+      "keywords": [
+        "Winterthur",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Jona",
+      "city": "Winterthur",
+      "region": "Switzerland",
+      "latitude": 47.21666667,
+      "longitude": 8.81666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jona%2C_Switzerland",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Jona_%28SG%29_-_Kempraten-Lenggis_-_R%C3%BCssel_IMG_4954.JPG/800px-Jona_%28SG%29_-_Kempraten-Lenggis_-_R%C3%BCssel_IMG_4954.JPG",
+      "description_short": "Jona, Switzerland — a notable landmark in Winterthur, Switzerland.",
+      "keywords": [
+        "Winterthur",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Alt-Wülflingen Castle",
+      "city": "Winterthur",
+      "region": "Switzerland",
+      "latitude": 47.49983,
+      "longitude": 8.68811,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alt-W%C3%BClflingen_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Burgruine_Alt-W%C3%BClflingen_2018.jpg/800px-Burgruine_Alt-W%C3%BClflingen_2018.jpg",
+      "description_short": "Alt-Wülflingen Castle — a notable landmark in Winterthur, Switzerland.",
+      "keywords": [
+        "Winterthur",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Hegi Castle",
+      "city": "Winterthur",
+      "region": "Switzerland",
+      "latitude": 47.50824,
+      "longitude": 8.771393,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hegi_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Winterthur_Schloss_Hegi.jpg/800px-Winterthur_Schloss_Hegi.jpg",
+      "description_short": "Hegi Castle — a notable landmark in Winterthur, Switzerland.",
+      "keywords": [
+        "Winterthur",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Wülflingen Castle",
+      "city": "Winterthur",
+      "region": "Switzerland",
+      "latitude": 47.511224,
+      "longitude": 8.699298,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/W%C3%BClflingen_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Schloss_W%C3%BClflingen_Herrliberger.jpg/800px-Schloss_W%C3%BClflingen_Herrliberger.jpg",
+      "description_short": "Wülflingen Castle — a notable landmark in Winterthur, Switzerland.",
+      "keywords": [
+        "Winterthur",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Schloss Laufen am Rheinfall railway station",
+      "city": "Winterthur",
+      "region": "Switzerland",
+      "latitude": 47.676427,
+      "longitude": 8.613871,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Schloss_Laufen_am_Rheinfall_railway_station",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bahnhof_Schloss_Laufen_am_Rheinfall_4.jpg/800px-Bahnhof_Schloss_Laufen_am_Rheinfall_4.jpg",
+      "description_short": "Schloss Laufen am Rheinfall railway station — a notable landmark in Winterthur, Switzerland.",
+      "keywords": [
+        "Winterthur",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Vitudurum",
+      "city": "Winterthur",
+      "region": "Switzerland",
+      "latitude": 47.5,
+      "longitude": 8.73333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Vitudurum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Winterthur_-_Mauerreste_%27Vitodurum%27_%26_Reformierte_Kirche_St._Arbogast%2C_Obere_Hohlgasse_-_Innenansicht_2011-09-10_13-48-52_ShiftN.jpg/800px-Winterthur_-_Mauerreste_%27Vitodurum%27_%26_Reformierte_Kirche_St._Arbogast%2C_Obere_Hohlgasse_-_Innenansicht_2011-09-10_13-48-52_ShiftN.jpg",
+      "description_short": "Vitudurum — a notable landmark in Winterthur, Switzerland.",
+      "keywords": [
+        "Winterthur",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Gottfried Keller Foundation",
+      "city": "Winterthur",
+      "region": "Switzerland",
+      "latitude": 47.5113,
+      "longitude": 8.7317,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gottfried_Keller_Foundation",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Winterthur_-_Villa_Am_R%C3%B6merholz_%28ehemalige_Villa_Henri_Sulzer-Ziegler%29_und_Sammlung_Oskar_Reinhart_%C2%ABAm_R%C3%B6merholz%C2%BB%2C_Haldenstrasse_95_2011-09-12_14-29-54.JPG/800px-Winterthur_-_Villa_Am_R%C3%B6merholz_%28ehemalige_Villa_Henri_Sulzer-Ziegler%29_und_Sammlung_Oskar_Reinhart_%C2%ABAm_R%C3%B6merholz%C2%BB%2C_Haldenstrasse_95_2011-09-12_14-29-54.JPG",
+      "description_short": "Gottfried Keller Foundation — a notable landmark in Winterthur, Switzerland.",
+      "keywords": [
+        "Winterthur",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Rosenburg Castle (Ramsenberg)",
+      "city": "Winterthur",
+      "region": "Switzerland",
+      "latitude": 47.3883,
+      "longitude": 9.2544,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rosenburg_Castle_(Ramsenberg)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ruine_Ramsenburg_innen_Eingang_Turm.JPG/800px-Ruine_Ramsenburg_innen_Eingang_Turm.JPG",
+      "description_short": "Rosenburg Castle (Ramsenberg) — a notable landmark in Winterthur, Switzerland.",
+      "keywords": [
+        "Winterthur",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Kyburg massacre",
+      "city": "Winterthur",
+      "region": "Switzerland",
+      "latitude": 47.4585,
+      "longitude": 8.7435,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kyburg_massacre",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Merian_Kyburg_1642.jpg/800px-Merian_Kyburg_1642.jpg",
+      "description_short": "Kyburg massacre — a notable landmark in Winterthur, Switzerland.",
+      "keywords": [
+        "Winterthur",
+        "Switzerland",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    }
+  ],
+  "adventure_locations": [
+    {
+      "name": "Chillon Castle",
+      "region": "Switzerland",
+      "latitude": 46.41416667,
+      "longitude": 6.9275,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Chillon_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg/800px-001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg",
+      "description_short": "Chillon Castle — a must-see landmark on a Switzerland road trip.",
+      "keywords": [
+        "Chillon Castle",
+        "Switzerland",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 90
+    },
+    {
+      "name": "Habsburg Castle",
+      "region": "Switzerland",
+      "latitude": 47.46273889,
+      "longitude": 8.18103889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Habsburg_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Habsburg_%28Aargau%2C_Switzerland%29.jpg/800px-Habsburg_%28Aargau%2C_Switzerland%29.jpg",
+      "description_short": "Habsburg Castle — a must-see landmark on a Switzerland road trip.",
+      "keywords": [
+        "Habsburg Castle",
+        "Switzerland",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 89
+    },
+    {
+      "name": "Laufen Castle (Switzerland)",
+      "region": "Switzerland",
+      "latitude": 47.67657222,
+      "longitude": 8.61503889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Laufen_Castle_(Switzerland)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Laufen-Uhwiesen_-_Schloss_Laufen_-_Rheinfall_-_Neuhausen_am_Rheinfall_2010-06-24_18-48-50.JPG/800px-Laufen-Uhwiesen_-_Schloss_Laufen_-_Rheinfall_-_Neuhausen_am_Rheinfall_2010-06-24_18-48-50.JPG",
+      "description_short": "Laufen Castle (Switzerland) — a must-see landmark on a Switzerland road trip.",
+      "keywords": [
+        "Laufen Castle (Switzerland)",
+        "Switzerland",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 88
+    },
+    {
+      "name": "Tarasp Castle",
+      "region": "Switzerland",
+      "latitude": 46.77888889,
+      "longitude": 10.26166667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tarasp_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/160618_Schloss_Tarasp_3.jpg/800px-160618_Schloss_Tarasp_3.jpg",
+      "description_short": "Tarasp Castle — a must-see landmark on a Switzerland road trip.",
+      "keywords": [
+        "Tarasp Castle",
+        "Switzerland",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 87
+    },
+    {
+      "name": "Neuhabsburg Castle",
+      "region": "Switzerland",
+      "latitude": 47.04166667,
+      "longitude": 8.37361111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Neuhabsburg_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CH-NB_-_Meggen%2C_Neuhabsburg%2C_Gesamtaussenansicht_-_Collection_Gugelmann_-_GS-GUGE-GESSNER-S-1-13.tif/lossy-page1-960px-CH-NB_-_Meggen%2C_Neuhabsburg%2C_Gesamtaussenansicht_-_Collection_Gugelmann_-_GS-GUGE-GESSNER-S-1-13.tif.jpg",
+      "description_short": "Neuhabsburg Castle — a must-see landmark on a Switzerland road trip.",
+      "keywords": [
+        "Neuhabsburg Castle",
+        "Switzerland",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 86
+    },
+    {
+      "name": "Hauteville Castle",
+      "region": "Switzerland",
+      "latitude": 46.467,
+      "longitude": 6.86844,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hauteville_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hauteville_Manor_view.jpg/800px-Hauteville_Manor_view.jpg",
+      "description_short": "Hauteville Castle — a must-see landmark on a Switzerland road trip.",
+      "keywords": [
+        "Hauteville Castle",
+        "Switzerland",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "La Sarraz Castle",
+      "region": "Switzerland",
+      "latitude": 46.660397,
+      "longitude": 6.514122,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/La_Sarraz_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ch%C3%A2teau_de_La_Sarraz.jpg/800px-Ch%C3%A2teau_de_La_Sarraz.jpg",
+      "description_short": "La Sarraz Castle — a must-see landmark on a Switzerland road trip.",
+      "keywords": [
+        "La Sarraz Castle",
+        "Switzerland",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 84
+    },
+    {
+      "name": "Orbe Castle",
+      "region": "Switzerland",
+      "latitude": 46.724222,
+      "longitude": 6.531735,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Orbe_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Orbe_8.JPG/800px-Orbe_8.JPG",
+      "description_short": "Orbe Castle — a must-see landmark on a Switzerland road trip.",
+      "keywords": [
+        "Orbe Castle",
+        "Switzerland",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 83
+    },
+    {
+      "name": "Saint-Germain Castle",
+      "region": "Switzerland",
+      "latitude": 46.58405,
+      "longitude": 7.082402,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Saint-Germain_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Fribourg_-_Gruy%C3%A8res_-_Ch%C3%A2teau_Saint-Germain_-_2.jpg/800px-Fribourg_-_Gruy%C3%A8res_-_Ch%C3%A2teau_Saint-Germain_-_2.jpg",
+      "description_short": "Saint-Germain Castle — a must-see landmark on a Switzerland road trip.",
+      "keywords": [
+        "Saint-Germain Castle",
+        "Switzerland",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 82
+    },
+    {
+      "name": "Wart Castle",
+      "region": "Switzerland",
+      "latitude": 47.52595,
+      "longitude": 8.645943,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Wart_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Schloss_Wart_mit_Nebengeb%C3%A4uden_und_Park_01.jpg/800px-Schloss_Wart_mit_Nebengeb%C3%A4uden_und_Park_01.jpg",
+      "description_short": "Wart Castle — a must-see landmark on a Switzerland road trip.",
+      "keywords": [
+        "Wart Castle",
+        "Switzerland",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 81
+    }
+  ],
+  "country_cover_image": {
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Matterhorn_Riffelsee_2012.jpg",
+    "image_source": "Wikimedia Commons",
+    "image_license": "CC-BY-SA-3.0"
+  }
+}

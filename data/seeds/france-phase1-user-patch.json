@@ -1,0 +1,147 @@
+{
+  "country": "France",
+  "phase": 1,
+  "cities": [
+    {"name": "Paris", "region": "Île-de-France"},
+    {"name": "Marseille", "region": "Provence-Alpes-Côte d'Azur"},
+    {"name": "Lyon", "region": "Auvergne-Rhône-Alpes"},
+    {"name": "Toulouse", "region": "Occitanie"},
+    {"name": "Nice", "region": "Provence-Alpes-Côte d'Azur"},
+    {"name": "Nantes", "region": "Pays de la Loire"},
+    {"name": "Montpellier", "region": "Occitanie"},
+    {"name": "Strasbourg", "region": "Grand Est"},
+    {"name": "Bordeaux", "region": "Nouvelle-Aquitaine"},
+    {"name": "Lille", "region": "Hauts-de-France"}
+  ],
+  "attractions": [
+    {
+      "name": "Eiffel Tower",
+      "city": "Paris",
+      "description_short": "The iconic iron tower in Paris built for the 1889 Exposition.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/France_IDF_75_Tour_Eiffel_06.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Eiffel_Tower"
+    },
+    {
+      "name": "Louvre Museum",
+      "city": "Paris",
+      "description_short": "The Louvre is the world's largest art museum located in Paris.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Cour_Napol%C3%A9on_at_night_-_Louvre.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Louvre"
+    },
+    {
+      "name": "Notre-Dame de Paris",
+      "match_names": ["Notre-Dame Cathedral", "Notre-Dame de Paris"],
+      "city": "Paris",
+      "description_short": "A 12th-century Gothic cathedral famous for its architecture and history.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Notre-Dame_de_Paris_2013-07-24.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris"
+    },
+    {
+      "name": "Notre-Dame de la Garde",
+      "match_names": ["Notre-Dame de la Garde Basilica", "Notre-Dame de la Garde"],
+      "city": "Marseille",
+      "description_short": "A 19th-century basilica overlooking Marseille from atop a hill.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Notre-damedelagarde.JPG",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Notre-Dame_de_la_Garde"
+    },
+    {
+      "name": "Old Port of Marseille",
+      "city": "Marseille",
+      "description_short": "The historic harbor of Marseille, active since antiquity.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Marseille_Old_Port.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Old_Port_of_Marseille"
+    },
+    {
+      "name": "Basilica of Notre-Dame de Fourvière",
+      "city": "Lyon",
+      "description_short": "A late-19th century basilica perched on Fourvière hill in Lyon.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Basilique_Notre-Dame_de_Fourvi%C3%A8re_Lyon.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Basilica_of_Notre-Dame_de_Fourvi%C3%A8re"
+    },
+    {
+      "name": "Saint-Sernin Basilica",
+      "city": "Toulouse",
+      "description_short": "A massive Romanesque pilgrimage church in Toulouse.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Basilique_Saint-Sernin_Toulouse.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Basilica_of_Saint-Sernin,_Toulouse"
+    },
+    {
+      "name": "Promenade des Anglais",
+      "city": "Nice",
+      "description_short": "The famous seaside boulevard in Nice, France.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Nice_Promenade_des_Anglais.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Promenade_des_Anglais"
+    },
+    {
+      "name": "Castle of the Dukes of Brittany",
+      "city": "Nantes",
+      "description_short": "A medieval castle and museum in Nantes.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chateau_des_Ducs_de_Bretagne_Nantes.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_des_ducs_de_Bretagne"
+    },
+    {
+      "name": "Place de la Comédie",
+      "city": "Montpellier",
+      "description_short": "The central pedestrian square of Montpellier.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Place_de_la_Comedie_Montpellier.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Place_de_la_Com%C3%A9die"
+    },
+    {
+      "name": "Strasbourg Cathedral",
+      "city": "Strasbourg",
+      "description_short": "A 12th-century Gothic cathedral in Strasbourg.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Strasbourg_Cathedral.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Strasbourg_Cathedral"
+    },
+    {
+      "name": "Place de la Bourse",
+      "city": "Bordeaux",
+      "description_short": "Historic riverside square in Bordeaux with the famous Water Mirror.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Place_de_la_Bourse_Bordeaux.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Place_de_la_Bourse"
+    },
+    {
+      "name": "Grand Place, Lille",
+      "match_names": ["Grand Place (Place du Général de Gaulle)", "Grand Place, Lille"],
+      "city": "Lille",
+      "description_short": "The central historic square of Lille lined with cafes and the old stock exchange.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Lille_Grand_Place.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Grand_Place,_Lille"
+    }
+  ],
+  "adventure_locations": [
+    {
+      "name": "Mont-Saint-Michel",
+      "description_short": "A medieval abbey on a tidal island in Normandy.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Mont_St_Michel_from_Hautes_Herbus.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mont-Saint-Michel"
+    },
+    {
+      "name": "Gorges du Verdon",
+      "description_short": "A deep river canyon in Provence, known as Europe's 'Grand Canyon'.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Gorges_du_Verdon_Boch_coeur_2.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gorges_du_Verdon"
+    },
+    {
+      "name": "Camargue Regional Natural Park",
+      "match_names": ["Camargue Regional Nature Park", "Camargue Regional Natural Park"],
+      "description_short": "A unique wetland region known for its wildlife and marshes.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Camargue_Nature_Park.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Camargue"
+    },
+    {
+      "name": "Mont Blanc",
+      "match_names": ["Mont Blanc (Massif du Mont Blanc)", "Mont Blanc"],
+      "description_short": "The tallest mountain in the Alps and Western Europe.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mont_Blanc_summer_panorama.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mont_Blanc"
+    },
+    {
+      "name": "Dune du Pilat",
+      "match_names": ["Dune of Pilat", "Dune du Pilat"],
+      "description_short": "Europe's tallest sand dune on the Atlantic coast.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Dune_du_Pilat.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dune_of_Pilat"
+    }
+  ]
+}

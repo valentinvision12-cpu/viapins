@@ -1,0 +1,3787 @@
+{
+  "country": "Slovenia",
+  "cities": [
+    {
+      "name": "Ljubljana",
+      "region": "Central Slovenia"
+    },
+    {
+      "name": "Maribor",
+      "region": "Drava"
+    },
+    {
+      "name": "Piran",
+      "region": "Slovene Littoral"
+    },
+    {
+      "name": "Celje",
+      "region": "Savinja"
+    },
+    {
+      "name": "Kranj",
+      "region": "Gorenjska"
+    },
+    {
+      "name": "Koper",
+      "region": "Slovene Littoral"
+    },
+    {
+      "name": "Ptuj",
+      "region": "Drava"
+    },
+    {
+      "name": "Novo Mesto",
+      "region": "Southeast Slovenia"
+    },
+    {
+      "name": "Velenje",
+      "region": "Savinja"
+    },
+    {
+      "name": "Nova Gorica",
+      "region": "Goriška"
+    }
+  ],
+  "attractions": [
+    {
+      "city": "Ljubljana",
+      "name": "Ljubljana Castle",
+      "seo_title": "Ljubljana Castle Guide: Historic Views & Medieval Heritage",
+      "seo_description": "Explore Ljubljana Castle, the crowning medieval fortress overlooking Slovenia's capital. Discover its panoramic viewing tower, historical exhibits, and funicular access.",
+      "description_short": "A majestic medieval fortress perched on a hill above the old town, offering breathtaking panoramic vistas of Ljubljana.",
+      "description_long": "Ljubljana Castle stands as an architectural emblem dominating the city skyline. For centuries, this resilient fort has guarded the realm below, morphing from a defensive stronghold into a royal residence, and later into a vital cultural hub. Visitors can reach the summit via a scenic funicular ride or a leisurely stroll through winding wooded paths. The courtyard features local culinary spots, museum exhibitions on Slovenian history, and a stunning virtual castle theater experience.",
+      "history": "Dating back to the 11th century, the original wooden fortress was completely rebuilt by the Dukes of Carinthia in the 13th century. It sustained major damage during the historic 1511 earthquake and was extensively remodeled in the 15th and 17th centuries to repel Ottoman incursions.",
+      "accessibility": "Highly accessible via the urban funicular railway directly from Krekov Trg or by paved walking paths from the old town center.",
+      "best_season": "Year-round",
+      "keywords": [
+        "Ljubljana Castle",
+        "Slovenia fortress",
+        "Ljubljana viewpoint",
+        "medieval castle",
+        "funicular railway"
+      ],
+      "long_tail_keywords": [
+        "best panoramic views in Ljubljana",
+        "visiting Ljubljana castle with kids",
+        "historic castles in central slovenia"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 98,
+      "topical_depth_score": 9,
+      "latitude": 46.0489,
+      "longitude": 14.5083,
+      "google_maps_url": "https://www.google.com/maps?q=46.0489,14.5083",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ljubljana_Castle",
+      "wikidata_id": "Q1013146",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Ljubljanski_grad_02.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "nearby_attractions": [
+        "Triple Bridge",
+        "Central Market",
+        "Dragon Bridge"
+      ],
+      "related_attractions": [
+        "Maribor Castle",
+        "Celje Old Castle"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Ljubljana",
+      "name": "Triple Bridge",
+      "seo_title": "The Triple Bridge in Ljubljana: Jože Plečnik's Masterpiece",
+      "seo_description": "Discover the Triple Bridge (Tromostovje) in Ljubljana. Learn about its unique architectural layout designed by the visionary Jože Plečnik.",
+      "description_short": "A unique trio of pedestrian stone bridges connecting Prešeren Square with the historic medieval town center.",
+      "description_long": "The Triple Bridge, or Tromostovje, represents one of the most brilliant urban layout re-designs in Central Europe. Visionary architect Jože Plečnik transformed a potentially congested river crossing by flanking the old 1842 central stone bridge with two identical, diagonal pedestrian crossings. Adorned with classical stone balustrades, poplars, and elegant lamps, the bridge serves as a bustling pedestrian crossroads where street musicians perform and locals gather over the slow-moving Ljubljanica River.",
+      "history": "The central bridge was constructed in 1842 to replace an old wooden medieval crossing. To prevent traffic bottlenecks, Jože Plečnik designed the two side pedestrian paths between 1929 and 1932, creating an enduring architectural masterpiece.",
+      "accessibility": "Fully pedestrianized public square area, perfectly level and easily accessible on foot from any point in the old town.",
+      "best_season": "Spring, Summer, Autumn",
+      "keywords": [
+        "Triple Bridge",
+        "Tromostovje",
+        "Jože Plečnik architecture",
+        "Ljubljanica river crossing",
+        "Ljubljana landmarks"
+      ],
+      "long_tail_keywords": [
+        "famous bridges in Ljubljana",
+        "Jože Plečnik urban designs",
+        "walking through Prešeren Square"
+      ],
+      "search_intent": "navigational",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 95,
+      "topical_depth_score": 8,
+      "latitude": 46.0514,
+      "longitude": 14.5061,
+      "google_maps_url": "https://www.google.com/maps?q=46.0514,14.5061",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Triple_Bridge",
+      "wikidata_id": "Q1242337",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Tromostovje_Ljubljana_2014.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "nearby_attractions": [
+        "Prešeren Square",
+        "Ljubljana Castle",
+        "Central Market"
+      ],
+      "related_attractions": [
+        "Dragon Bridge",
+        "Solkan Bridge"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Ljubljana",
+      "name": "Dragon Bridge",
+      "seo_title": "Dragon Bridge Ljubljana: Art Nouveau Dragons & Legend",
+      "seo_description": "Visit the famous Art Nouveau Dragon Bridge in Ljubljana. Learn the local mythology of the iconic copper dragons guarding this reinforced concrete structure.",
+      "description_short": "An artistic reinforced concrete bridge guarded by four formidable, beautifully detailed green sheet-copper sheet dragons.",
+      "description_long": "The Dragon Bridge, known locally as Zmajski most, is a spectacular early 20th-century technical monument. It was one of Europe's earliest reinforced concrete spans, but it is globally renowned for its brilliant Art Nouveau embellishments. Four aggressive, finely crafted copper dragons perch on its corners, their wings unfurled as symbol of Ljubljana’s civic heritage. This bridge perfectly captures the Vienna Secession architectural movement that swept through the city following a major late-Victorian earthquake.",
+      "history": "Built in 1901 to honor Emperor Franz Joseph I's jubilee, it was designed by Professor Josef Melan and Jurij Zaninovich. It replaced an earlier wooden structure called the Butchers' Bridge.",
+      "accessibility": "Spans the river on a public road with spacious pedestrian sidewalks on both sides, within comfortable walking distance of the central market.",
+      "best_season": "Year-round",
+      "keywords": [
+        "Dragon Bridge",
+        "Zmajski most",
+        "Art Nouveau Ljubljana",
+        "Slovenia dragon symbol",
+        "Vienna Secession architecture"
+      ],
+      "long_tail_keywords": [
+        "where to find dragons in Ljubljana",
+        "historic concrete bridges Europe",
+        "Ljubljana photo opportunities"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 93,
+      "topical_depth_score": 8,
+      "latitude": 46.052,
+      "longitude": 14.5102,
+      "google_maps_url": "https://www.google.com/maps?q=46.052,14.5102",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dragon_Bridge_(Ljubljana)",
+      "wikidata_id": "Q1254348",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Zmajski_most_2.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "nearby_attractions": [
+        "Central Market",
+        "Triple Bridge",
+        "Cathedral of St. Nicholas"
+      ],
+      "related_attractions": [
+        "Kandija Bridge",
+        "Solkan Bridge"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Ljubljana",
+      "name": "Prešeren Square",
+      "seo_title": "Prešeren Square: The Lively Heart of Ljubljana's Old Town",
+      "seo_description": "Explore Prešeren Square, the main pedestrian plaza of Ljubljana. Discover its historic monuments, pastel baroque architecture, and lively festivals.",
+      "description_short": "The vibrant central pedestrian square of Ljubljana, anchored by the monument of poet France Prešeren.",
+      "description_long": "Prešeren Square is the undeniable focal point of public life in Ljubljana. This expansive cobblestone plaza marks the transition zone between the older medieval quarters and the modern central business avenues. Framed by striking pastel-pink Franciscan architecture and elegant, historic palaces, the square serves as the location for open-air concerts, peaceful morning coffee meetings, and major civic gatherings. A towering bronze monument honoring Slovenia's greatest romantic poet stands proudly at its center.",
+      "history": "The square evolved at a vital city gate intersection during the 17th century. Following the severe structural damage caused by the Great Ljubljana Earthquake of 1895, it was entirely rebuilt with gorgeous Art Nouveau and Secessionist townhouses.",
+      "accessibility": "Fully pedestrianized, completely level zone directly connected to the Triple Bridge, accessible to all travelers.",
+      "best_season": "Spring, Summer, Autumn",
+      "keywords": [
+        "Prešeren Square",
+        "Prešernov trg",
+        "Ljubljana town square",
+        "France Prešeren monument",
+        "Ljubljana events"
+      ],
+      "long_tail_keywords": [
+        "central meeting points in Ljubljana",
+        "Ljubljana romantic poetry monument",
+        "what to see in Ljubljana center"
+      ],
+      "search_intent": "navigational",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 94,
+      "topical_depth_score": 7,
+      "latitude": 46.0514,
+      "longitude": 14.506,
+      "google_maps_url": "https://www.google.com/maps?q=46.0514,14.506",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pre%C5%A1eren_Square",
+      "wikidata_id": "Q1194303",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ljubljana_Presernov_trg_02.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "nearby_attractions": [
+        "Triple Bridge",
+        "Cathedral of St. Nicholas",
+        "Congress Square"
+      ],
+      "related_attractions": [
+        "Main Square Maribor",
+        "Tartini Square"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Ljubljana",
+      "name": "Tivoli Park",
+      "seo_title": "Tivoli Park Ljubljana: Green Spaces, Promenades & Culture",
+      "seo_description": "Plan your escape to Tivoli Park, Ljubljana's largest public green space. Walk down the Jakopič Promenade and see the beautiful Tivoli Pond.",
+      "description_short": "Ljubljana's grand urban parkland featuring beautiful tree-lined avenues, outdoor photo galleries, and elegant botanical gardens.",
+      "description_long": "Spanning right into the heart of the city, Tivoli Park is Ljubljana's grandest green sanctuary. It offers broad chestnut avenues, meticulously curated geometric flowerbeds, and open fields perfect for relaxation. The center of the park is defined by the Jakopič Promenade, a magnificent, wide gravel avenue designed by Jože Plečnik that regularly acts as a high-quality, open-air photography gallery. Deep within the woods, peaceful trails ascend toward the Roznik hill for scenic morning jogs.",
+      "history": "The park was laid out in 1813 during the French Napoleonic administration of the Illyrian Provinces. It joined together separate manor gardens owned by the Podturn and Cekin estates into a single cohesive public landscape.",
+      "accessibility": "Flawlessly connected to the city center via underground pedestrian underpasses under Bleiweisova Street, featuring flat gravel trails.",
+      "best_season": "Spring, Summer, Autumn",
+      "keywords": [
+        "Tivoli Park",
+        "Ljubljana green spaces",
+        "Jakopič Promenade",
+        "Slovenia nature walk",
+        "Tivoli Pond"
+      ],
+      "long_tail_keywords": [
+        "largest parks in Ljubljana",
+        "where to walk in Ljubljana",
+        "outdoor photo exhibitions Slovenia"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 90,
+      "topical_depth_score": 8,
+      "latitude": 46.0544,
+      "longitude": 14.4965,
+      "google_maps_url": "https://www.google.com/maps?q=46.0544,14.4965",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tivoli_City_Park",
+      "wikidata_id": "Q596701",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tivoli_Park_Ljubljana_Slovenia.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "nearby_attractions": [
+        "National Gallery of Slovenia",
+        "Congress Square",
+        "Prešeren Square"
+      ],
+      "related_attractions": [
+        "Maribor City Park",
+        "City Park Celje"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Ljubljana",
+      "name": "Cathedral of St. Nicholas",
+      "seo_title": "Ljubljana Cathedral: Baroque Frescoes & Sculpted Bronze Doors",
+      "seo_description": "Visit the Cathedral of St. Nicholas in Ljubljana. Admire its striking green dome, baroque illusionist ceiling frescoes, and heavy historical bronze doors.",
+      "description_short": "An exquisite baroque cathedral distinguished by its prominent green dome, twin bell towers, and intricate, modern bronze entry doors.",
+      "description_long": "The Cathedral of St. Nicholas, or Stolnica, is the primary spiritual seat of Ljubljana. Tucked away just behind the bustling open-air market, its unassuming exterior gives way to a highly theatrical, golden baroque interior sanctuary. Visitors are captivated by the masterfully executed, 18th-century illusionist ceiling frescoes painted by Giulio Quaglio, and the famous, modern relief-sculpted bronze entry doors that chronicle Slovenia’s complex religious history, installed to commemorate a historical papal visit.",
+      "history": "Originally a Romanesque church built in 1262, the entire structure was razed by a devastating fire. The current magnificent baroque design was drafted by Jesuit architect Andrea Pozzo and completed between 1701 and 1706.",
+      "accessibility": "Located just off Ciril-Metodov Trg, the ground floor is fully level and easy to enter, situated right next to the town market.",
+      "best_season": "Year-round",
+      "keywords": [
+        "Ljubljana Cathedral",
+        "Stolnica",
+        "Giulio Quaglio frescoes",
+        "baroque churches Slovenia",
+        "bronze doors Ljubljana"
+      ],
+      "long_tail_keywords": [
+        "historic churches in Ljubljana old town",
+        "baroque architecture Slovenia",
+        "religious heritage in Ljubljana"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 88,
+      "topical_depth_score": 9,
+      "latitude": 46.0508,
+      "longitude": 14.5081,
+      "google_maps_url": "https://www.google.com/maps?q=46.0508,14.5081",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ljubljana_Cathedral",
+      "wikidata_id": "Q1242316",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Ljubljanska_stolnica_03.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "nearby_attractions": [
+        "Central Market",
+        "Robba Fountain",
+        "Triple Bridge"
+      ],
+      "related_attractions": [
+        "Cathedral of St. John the Baptist Maribor",
+        "Church of St. Daniel Celje"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Ljubljana",
+      "name": "Central Market",
+      "seo_title": "Ljubljana Central Market: Local Produce & Plečnik Colonnades",
+      "seo_description": "Experience daily life at the Ljubljana Central Market. Explore the open-air produce stalls and Jože Plečnik's famous riverside stone colonnades.",
+      "description_short": "A lively open-air market backed by a sweeping riverside stone arcade designed by architect Jože Plečnik.",
+      "description_long": "Ljubljana Central Market is far more than just a place to buy fresh, organic local food; it is a vital daily social custom. Spanning from the Triple Bridge to the Dragon Bridge along the curves of the river, it consists of a vibrant outdoor fruit market and a monumental, double-story stone colonnade structure designed by Jože Plečnik. Under these stone archways, visitors can purchase artisanal cheeses, traditional cured meats, pumpkin seed oil, and hot traditional pastries.",
+      "history": "Designed by Jože Plečnik between 1940 and 1944, the elegant stone market building was constructed to replace an old diocesan college that was completely demolished during the great 1895 earthquake.",
+      "accessibility": "An outdoor riverside market, entirely flat, featuring wide paved lanes perfectly comfortable for walking.",
+      "best_season": "Spring, Summer, Autumn",
+      "keywords": [
+        "Ljubljana Central Market",
+        "Plečnik colonnades",
+        "Slovenian food market",
+        "local products Ljubljana",
+        "Vodnikov trg"
+      ],
+      "long_tail_keywords": [
+        "where to eat local food Ljubljana",
+        "Jože Plečnik riverside market",
+        "traditional Slovenian products market"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 92,
+      "topical_depth_score": 7,
+      "latitude": 46.0511,
+      "longitude": 14.5085,
+      "google_maps_url": "https://www.google.com/maps?q=46.0511,14.5085",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ljubljana_Central_Market",
+      "wikidata_id": "Q6660935",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ljubljana_market.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "nearby_attractions": [
+        "Cathedral of St. Nicholas",
+        "Dragon Bridge",
+        "Triple Bridge"
+      ],
+      "related_attractions": [
+        "Lent District",
+        "Main Square Celje"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Ljubljana",
+      "name": "Robba Fountain",
+      "seo_title": "Robba Fountain Ljubljana: Baroque Allegory of Carniolan Rivers",
+      "seo_description": "See the historic Robba Fountain in Mestni Trg. Admire the stunning marble craftsmanship symbolizing Slovenia's three primary historical rivers.",
+      "description_short": "A masterpiece of baroque sculpture depicting three allegorical river gods pouring crystal water from marble urns.",
+      "description_long": "The Robba Fountain, also known as the Fountain of the Three Carniolan Rivers, is a centerpiece of Mestni Trg, positioned just in front of the historic Town Hall. Crafted out of fine local limestone and imported white Carrara marble, the monument depicts three powerful river gods who symbolize the Sava, the Krka, and the Ljubljanica rivers. The monument on the square is an incredibly precise, weather-protected replica; the precious original sculpture resides safely within the climate-controlled grand foyer of the National Gallery.",
+      "history": "Sculpted by the famous Venetian master Francesco Robba between 1743 and 1751, it was directly inspired by Gian Lorenzo Bernini's famous Fountain of the Four Rivers in Rome's Piazza Navona.",
+      "accessibility": "Positioned right in the middle of a flat, stone-paved pedestrian street, completely open and accessible to view 24/7.",
+      "best_season": "Year-round",
+      "keywords": [
+        "Robba Fountain",
+        "Robbov vodnjak",
+        "Mestni Trg baroque",
+        "Francesco Robba sculpture",
+        "Ljubljana town hall fountain"
+      ],
+      "long_tail_keywords": [
+        "famous baroque monuments Slovenia",
+        "Francesco Robba artwork Ljubljana",
+        "historic fountains in central Europe"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 85,
+      "topical_depth_score": 8,
+      "latitude": 46.0505,
+      "longitude": 14.5067,
+      "google_maps_url": "https://www.google.com/maps?q=46.0505,14.5067",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Robba_Fountain",
+      "wikidata_id": "Q1277158",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ljubljana_Robbov_vodnjak_2011.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "nearby_attractions": [
+        "Cathedral of St. Nicholas",
+        "Triple Bridge",
+        "Congress Square"
+      ],
+      "related_attractions": [
+        "Da Ponte Fountain",
+        "Orpheus Monument"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Ljubljana",
+      "name": "National Gallery of Slovenia",
+      "seo_title": "National Gallery of Slovenia: Fine Arts & Cultural Masterpieces",
+      "seo_description": "Visit the National Gallery of Slovenia in Ljubljana. Explore the extensive collection of fine art stretching from the high Middle Ages to Impressionism.",
+      "description_short": "Slovenia's premier fine arts museum, housing the nation's definitive collection of paintings and sculptures from the 12th to 20th centuries.",
+      "description_long": "The National Gallery of Slovenia is the ultimate destination for art history enthusiasts visiting the capital. Contained within an elegant late 19th-century Neo-Renaissance palace, the museum features a wide array of fine art, showcasing sacred medieval woodcarvings, emotional baroque masterworks, and the country's world-renowned early 20th-century impressionist paintings. The centerpiece of the modern glass entry wing is the original 18th-century Robba Fountain, carefully preserved from urban erosion.",
+      "history": "The institution was founded in 1918 after the collapse of the Austro-Hungarian Empire. It moved into its current grand premises, the Narodni Dom building, in 1925, expanding with a modern glass pavilion in 2001.",
+      "accessibility": "Fully modernized, climate-controlled museum spaces equipped with ramps, elevators, and wide doorways for complete mobility access.",
+      "best_season": "Winter, Rainy Days, Year-round",
+      "keywords": [
+        "National Gallery Slovenia",
+        "Narodna galerija",
+        "Slovenian art museum",
+        "Slovenian Impressionists",
+        "Ljubljana culture"
+      ],
+      "long_tail_keywords": [
+        "best art museums in Ljubljana",
+        "indoor cultural activities Slovenia",
+        "where to see historical art Ljubljana"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 89,
+      "topical_depth_score": 9,
+      "latitude": 46.0536,
+      "longitude": 14.5003,
+      "google_maps_url": "https://www.google.com/maps?q=46.0536,14.5003",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/National_Gallery_of_Slovenia",
+      "wikidata_id": "Q174744",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Narodna_galerija_Ljubljana_Slovenia.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "nearby_attractions": [
+        "Tivoli Park",
+        "Congress Square",
+        "Prešeren Square"
+      ],
+      "related_attractions": [
+        "Celje Regional Museum",
+        "Regional Museum Maribor"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Ljubljana",
+      "name": "Congress Square",
+      "seo_title": "Congress Square: Neo-Classical Architecture & Academic Heritage",
+      "seo_description": "Stroll across Congress Square (Kongresni Trg) in Ljubljana. Enjoy views of the Baroque Holy Trinity Church and the grand University Palace.",
+      "description_short": "A grand, historically significant neo-classical square framed by the University Palace and the beautiful Baroque Holy Trinity Church.",
+      "description_long": "Congress Square, or Kongresni Trg, is one of the largest and most photographically striking open spaces in Ljubljana. Lined by rows of mature plane trees, the square opens up views toward the University of Ljubljana main palace, the elegant Slovenian Philharmonic Hall, and the dramatic baroque facade of the Holy Trinity Church. The square is a focal point for national state ceremonies, vibrant summer cultural programs, and peaceful evening strolls with views up toward the illuminated castle hill.",
+      "history": "The square was originally excavated over an old Capuchin monastery orchard in 1821 for the historic Congress of Laibach, a high-level European diplomatic meeting that reshaped post-Napoleonic European politics.",
+      "accessibility": "Completely flat, wide pedestrian plaza paved with gravel and stone, situated directly above a modern, elevator-accessible underground public parking garage.",
+      "best_season": "Spring, Summer, Autumn",
+      "keywords": [
+        "Congress Square",
+        "Kongresni Trg",
+        "University of Ljubljana",
+        "Philharmonic Hall Slovenia",
+        "Ljubljana neo-classical architecture"
+      ],
+      "long_tail_keywords": [
+        "historic squares in Ljubljana city",
+        "where to photograph Ljubljana castle",
+        "Slovenian state ceremony locations"
+      ],
+      "search_intent": "navigational",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 91,
+      "topical_depth_score": 8,
+      "latitude": 46.0501,
+      "longitude": 14.5039,
+      "google_maps_url": "https://www.google.com/maps?q=46.0501,14.5039",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Congress_Square",
+      "wikidata_id": "Q1242335",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Kongresni_trg_Ljubljana_Slovenia.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "nearby_attractions": [
+        "Prešeren Square",
+        "Triple Bridge",
+        "Tivoli Park"
+      ],
+      "related_attractions": [
+        "Tito Square Koper",
+        "Europe Square Nova Gorica"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Maribor",
+      "name": "Old Vine House",
+      "seo_title": "The Old Vine House Maribor: World's Oldest Fruit-Bearing Grapevine",
+      "seo_description": "Visit the Old Vine House in Maribor, home to the Guinness World Record's oldest living grapevine. Experience local Styrian wine tasting and regional history.",
+      "description_short": "A historic riverside house showcasing the oldest living and fruit-bearing grapevine in the world.",
+      "description_long": "The Old Vine House (Hiša stare trte) is a world-renowned destination for enophiles and history lovers alike. Creeping along the front facade of this medieval timbered house is a resilient grapevine that still bears fruit every year. Inside the meticulously restored building, visitors can explore a dedicated museum chronicling the complex viticultural traditions of the Drava region, join tutored wine tastings featuring local premium Styrian whites, and view the precise official documents certifying its place in the Guinness Book of World Records.",
+      "history": "The central grapevine was planted at the tail end of the Middle Ages, around 1570, enduring devastating historical fires, Ottoman sieges, and the widespread phylloxera blight that wiped out most European vineyards in the late 19th century.",
+      "accessibility": "Located in the flat, pedestrianized Lent district along the river, with ramp entry options to the wine tasting room.",
+      "best_season": "Autumn, Late Summer",
+      "keywords": [
+        "Old Vine House Maribor",
+        "world oldest grapevine",
+        "Styrian wine tasting",
+        "Lent district Maribor",
+        "Hiša stare trte"
+      ],
+      "long_tail_keywords": [
+        "oldest wine vine in the world",
+        "Maribor wine tours and tastings",
+        "top tourist spots in Maribor Slovenia"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 97,
+      "topical_depth_score": 9,
+      "latitude": 46.5566,
+      "longitude": 15.6439,
+      "google_maps_url": "https://www.google.com/maps?q=46.5566,15.6439",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Old_Vine_House",
+      "wikidata_id": "Q7085350",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Old_vine_house_Maribor.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "nearby_attractions": [
+        "Lent District",
+        "Judgment Tower",
+        "Water Tower"
+      ],
+      "related_attractions": [
+        "Wine Cellar Ptuj",
+        "Central Market Ljubljana"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Maribor",
+      "name": "Maribor Castle",
+      "seo_title": "Maribor Castle: Regional Museum & Royal Baroque Interiors",
+      "seo_description": "Discover Maribor Castle, a beautiful palace-fortress housing the Regional Museum. Admire the stunning Baroque Staircase and the festive Knights' Hall.",
+      "description_short": "An elegant, palace-like urban fortress located right in the city center, home to a rich regional history museum.",
+      "description_long": "Unlike isolated mountaintop strongholds, Maribor Castle is integrated directly into the urban fabric of the city's main shopping squares. This architectural marvel features elements from the Gothic, Renaissance, and Baroque eras. Visitors step inside to marvel at the magnificent Baroque Staircase, adorned with pink stuccowork and classical stone statues, and the Knights' Hall, which displays beautiful ceiling frescoes. Today, the castle holds the Regional Museum, featuring an extensive array of armor, clothing, and historic artifacts.",
+      "history": "Commissioned by Emperor Frederick III between 1478 and 1483, the fortress was originally built to reinforce the northeastern town walls against impending Ottoman incursions before transitioning into a luxurious residential manor.",
+      "accessibility": "Located on the level pedestrianized Grajski Trg; the museum exhibits span multiple floors accessible via broad historic staircases.",
+      "best_season": "Year-round",
+      "keywords": [
+        "Maribor Castle",
+        "Mariborski grad",
+        "Maribor Regional Museum",
+        "Knights Hall Maribor",
+        "Slovenian palace architecture"
+      ],
+      "long_tail_keywords": [
+        "historic castles in eastern Slovenia",
+        "what to do inside Maribor castle",
+        "best museums in Maribor city"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 93,
+      "topical_depth_score": 9,
+      "latitude": 46.5614,
+      "longitude": 15.6483,
+      "google_maps_url": "https://www.google.com/maps?q=46.5614,15.6483",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Maribor_Castle",
+      "wikidata_id": "Q3434114",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Mariborski_grad_02.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "nearby_attractions": [
+        "Main Square",
+        "Franciscan Church",
+        "Maribor City Park"
+      ],
+      "related_attractions": [
+        "Ljubljana Castle",
+        "Khislstein Castle"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Maribor",
+      "name": "Main Square",
+      "seo_title": "Main Square Maribor: Renaissance Architecture & Plague Column",
+      "seo_description": "Explore Maribor Main Square (Glavni Trg). Marvel at the Renaissance Town Hall and the historic marble Plague Column at its center.",
+      "description_short": "The spacious central square of Maribor, showcasing a grand Renaissance Town Hall and an ornate white marble commemorative column.",
+      "description_long": "Maribor Main Square, or Glavni Trg, is the historical core of the city's commerce and civic assembly. Lined with pastel-colored historic townhouses that feature beautiful ground-floor arched arcades, the square is an ideal spot for outdoor café dining. Its center is dominated by the Plague Column, a monument sculpted from white marble. Dominating the northern boundary is the grand Town Hall (Rotovž), featuring an elegant Renaissance balcony and a distinctive asymmetric bell tower.",
+      "history": "The square first appeared in historical documents in 1315 as a major medieval market marketplace. The central Plague Column was erected by grateful town citizens in 1743 to celebrate the absolute end of a devastating epidemic.",
+      "accessibility": "Completely pedestrianized, open public plaza with flat stone paving, highly accessible from all surrounding streets.",
+      "best_season": "Spring, Summer, Autumn",
+      "keywords": [
+        "Maribor Main Square",
+        "Glavni Trg Maribor",
+        "Maribor Town Hall",
+        "Plague Column Maribor",
+        "Rotovž"
+      ],
+      "long_tail_keywords": [
+        "historic squares in Maribor town",
+        "Renaissance architecture in Slovenia",
+        "where to find outdoor cafes Maribor"
+      ],
+      "search_intent": "navigational",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 90,
+      "topical_depth_score": 7,
+      "latitude": 46.5576,
+      "longitude": 15.6455,
+      "google_maps_url": "https://www.google.com/maps?q=46.5576,15.6455",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Main_Square_(Maribor)",
+      "wikidata_id": "Q11202568",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Glavni_trg_Maribor_2011.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "nearby_attractions": [
+        "Maribor Castle",
+        "Lent District",
+        "Cathedral of St. John the Baptist"
+      ],
+      "related_attractions": [
+        "Prešeren Square",
+        "Tartini Square"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Maribor",
+      "name": "Franciscan Church",
+      "seo_title": "Franciscan Church Maribor: Red-Brick Neo-Romanesque Icon",
+      "seo_description": "Visit the iconic red-brick Franciscan Church of St. Mary in Maribor. Marvel at its twin spires, ornate stone altars, and serene interior.",
+      "description_short": "A striking monument of Neo-Romanesque architecture built entirely from distinct red clay bricks, featuring twin soaring bell towers.",
+      "description_long": "The Franciscan Church of St. Mary Mother of Mercy is one of Maribor's most prominent landmarks. Constructed from deep red exposed facing bricks, its imposing facade contrasts beautifully with the surrounding pastel city architecture. Inside, the massive three-nave nave basilica features a quiet sanctuary with stone altars, historic stations of the cross, and a grand organ loft. The church serves as a peaceful refuge for quiet contemplation amid the bustling city center.",
+      "history": "Designed by the celebrated Viennese architect Richard Jordan, this monument was erected between 1892 and 1900 on the site of a former, smaller 17th-century Capuchin monastery church.",
+      "accessibility": "Located right on Partizanska Cesta; the main entrance foyer is step-free, though minor interior steps exist near side chapels.",
+      "best_season": "Year-round",
+      "keywords": [
+        "Franciscan Church Maribor",
+        "red brick church Slovenia",
+        "Richard Jordan architecture",
+        "Maribor basilicas",
+        "religious sights Maribor"
+      ],
+      "long_tail_keywords": [
+        "famous red brick churches central Europe",
+        "Maribor architectural landmarks",
+        "visiting Franciscan sights Slovenia"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 87,
+      "topical_depth_score": 8,
+      "latitude": 46.5603,
+      "longitude": 15.6493,
+      "google_maps_url": "https://www.google.com/maps?q=46.5603,15.6493",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Franciscan_Church,_Maribor",
+      "wikidata_id": "Q5482914",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Fran%C4%8Diskani-maribor.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "nearby_attractions": [
+        "Maribor Castle",
+        "Main Square",
+        "Maribor City Park"
+      ],
+      "related_attractions": [
+        "Ljubljana Cathedral",
+        "Minorite Monastery Ptuj"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Maribor",
+      "name": "Cathedral of St. John the Baptist",
+      "seo_title": "Maribor Cathedral: Gothic Architecture & Slomšek Sanctuary",
+      "seo_description": "Explore Maribor Cathedral (St. John the Baptist). Discover its 12th-century origins, long Gothic choir, and climb the public bell tower for scenic city views.",
+      "description_short": "A solemn Gothic cathedral featuring an elongated presbytery, historic stone tombstones, and a panoramic viewing platform.",
+      "description_long": "The Cathedral of St. John the Baptist stands as Maribor's oldest operating spiritual landmark. Originally configured as a simple Romanesque hall, it evolved into a grand Gothic monument with a long, soaring vaulted choir and intricate stone window tracery. The church houses the artistic metal shrine of Bishop Anton Martin Slomšek, a key figure in Slovenian cultural history. Visitors can climb up the steep stairs of the bell tower to access a historical firewatch platform offering views over the Styrian hills.",
+      "history": "Founded around 1150 as a modest parish sanctuary, the church received its signature long Gothic rib-vaulted presbytery in the 14th century, followed by a dramatic 18th-century Baroque remodeling of its side chapels.",
+      "accessibility": "Located on Slomškov Trg; the cathedral ground floor is accessible, though the historic bell tower requires climbing a steep spiral staircase.",
+      "best_season": "Year-round",
+      "keywords": [
+        "Maribor Cathedral",
+        "St John the Baptist Maribor",
+        "Anton Martin Slomšek",
+        "Gothic architecture Slovenia",
+        "Maribor bell tower"
+      ],
+      "long_tail_keywords": [
+        "oldest buildings in Maribor",
+        "climbing the cathedral tower Maribor",
+        "Gothic rib vaulted churches Slovenia"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 88,
+      "topical_depth_score": 8,
+      "latitude": 46.5592,
+      "longitude": 15.645,
+      "google_maps_url": "https://www.google.com/maps?q=46.5592,15.645",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Maribor_Cathedral",
+      "wikidata_id": "Q1235122",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mariborska_stolnica_2011.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "nearby_attractions": [
+        "Main Square",
+        "Maribor Castle",
+        "Lent District"
+      ],
+      "related_attractions": [
+        "Ljubljana Cathedral",
+        "Church of St. Cantianus Kranj"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Maribor",
+      "name": "Lent District",
+      "seo_title": "Lent District Maribor: Historic Drava River Waterfront Promenade",
+      "seo_description": "Stroll down Lent, Maribor's oldest and most scenic riverside district. Discover medieval defense fortifications, historic towers, and summer festivals.",
+      "description_short": "The ancient, atmospheric riverbanks of Maribor, lined with historic defense fortifications and a wide walking path.",
+      "description_long": "Lent is the oldest urbanized quarter of Maribor, stretching gracefully along the northern bank of the wide Drava River. Once a busy medieval timber rafting port, it has transformed into a scenic, pedestrian-friendly waterfront lined with outdoor coffee bars, seafood bistros, and old defense towers. Every summer, this district bursts into life during the Lent Festival, hosting international open-air stages, folklore shows, and art installations along the river current.",
+      "history": "During the Middle Ages, Lent served as the primary trading port for commercial rafts navigating toward the Danube. It was fortified heavily in the 15th and 16th centuries to shield Maribor from Ottoman assaults.",
+      "accessibility": "A fully flat, beautifully paved riverside promenade, perfectly suited for long walks, strollers, and bicycles.",
+      "best_season": "Summer, Spring",
+      "keywords": [
+        "Lent district Maribor",
+        "Drava river promenade",
+        "Maribor waterfront",
+        "Lent festival Slovenia",
+        "historic Maribor porto"
+      ],
+      "long_tail_keywords": [
+        "where to walk along Drava river",
+        "oldest part of Maribor city",
+        "summer festivals in eastern Slovenia"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 92,
+      "topical_depth_score": 7,
+      "latitude": 46.5564,
+      "longitude": 15.6435,
+      "google_maps_url": "https://www.google.com/maps?q=46.5564,15.6435",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lent_(Maribor)",
+      "wikidata_id": "Q11211756",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Maribor_-_Lent_01.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "nearby_attractions": [
+        "Old Vine House",
+        "Judgment Tower",
+        "Water Tower"
+      ],
+      "related_attractions": [
+        "Savinja River Promenade Celje",
+        "Piran Harbour"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Maribor",
+      "name": "Maribor City Park",
+      "seo_title": "Maribor City Park: Lakeside Walks & Botanical Serenity",
+      "seo_description": "Relax in Maribor City Park (Mestni Park). Explore its three tranquil fishing ponds, mature tree avenues, and beautiful open-air aquarium pavilion.",
+      "description_short": "A beautifully landscaped landscape park featuring three peaceful lakes, mature exotic trees, and a historic musical pavilion.",
+      "description_long": "Maribor City Park (Mestni park) serves as the primary green lungs of the city, extending north toward the rolling vineyard hills. This park features deep gravel walking paths, vast meadows, and an avenue lined with hundred-year-old chestnut and walnut trees. At the northern end lie three interconnected lakes that attract swans and local waterfowl. The park also hosts a classic wooden music pavilion where open-air classical concerts are staged on sunny Sunday afternoons.",
+      "history": "Laid out in 1872 as the town expanded beyond its medieval walls, the park was consciously designed to mimic British landscape gardens, introducing non-native ornamental trees from around the globe.",
+      "accessibility": "Fully flat gravel and paved pathways, making it highly accessible for leisurely strolls directly from the city center.",
+      "best_season": "Spring, Summer, Autumn",
+      "keywords": [
+        "Maribor City Park",
+        "Mestni Park Maribor",
+        "Slovenia urban parks",
+        "Maribor lakes",
+        "exotic trees Maribor"
+      ],
+      "long_tail_keywords": [
+        "where to relax in Maribor",
+        "family friendly outdoor activities Maribor",
+        "scenic walking tracks in Maribor"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 85,
+      "topical_depth_score": 7,
+      "latitude": 46.5647,
+      "longitude": 15.6492,
+      "google_maps_url": "https://www.google.com/maps?q=46.5647,15.6492",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/City_Park_(Maribor)",
+      "wikidata_id": "Q12796338",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Mestni_park_v_Mariboru_02.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "nearby_attractions": [
+        "Maribor Castle",
+        "Franciscan Church",
+        "Pyramid Hill"
+      ],
+      "related_attractions": [
+        "Tivoli Park Ljubljana",
+        "City Park Celje"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Maribor",
+      "name": "Water Tower",
+      "seo_title": "The Water Tower Maribor: Medieval Bastion Turned Wine Store",
+      "seo_description": "Visit the late-medieval Water Tower (Vodni Stolp) along the Drava River in Maribor. Discover its unique pentagonal design and modern wine tasting boutique.",
+      "description_short": "A striking pentagonal medieval defense tower positioned along the riverbank, now operating as an elegant wine boutique.",
+      "description_long": "The Water Tower, or Vodni stolp, is a marvel of late-medieval military engineering standing firmly along the Drava riverbank. This massive fortification features a pentagonal plan constructed from thick stone blocks and topped by a heavy, red-tiled conical roof. Once an asset for defending against attacks from the river, it has been beautifully converted into a wine boutique. Visitors can sample premium local Slovenian wines inside its thick stone walls.",
+      "history": "Erected in 1555 by city authorities to safeguard Maribor's southern flank from heavy Ottoman assaults, it was later saved from flooding in the 1960s through an engineering project that raised the entire 1,500-ton stone structure by 2.6 meters.",
+      "accessibility": "Positioned directly on the level Lent riverbank trail; the ground floor entry is accessible, but upper levels require stairs.",
+      "best_season": "Year-round",
+      "keywords": [
+        "Water Tower Maribor",
+        "Vodni stolp",
+        "medieval fortifications Slovenia",
+        "Drava river towers",
+        "Maribor wine room"
+      ],
+      "long_tail_keywords": [
+        "historic military defense towers Slovenia",
+        "how was the Maribor water tower raised",
+        "wine tasting in historic monuments"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 86,
+      "topical_depth_score": 8,
+      "latitude": 46.5562,
+      "longitude": 15.6511,
+      "google_maps_url": "https://www.google.com/maps?q=46.5562,15.6511",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Water_Tower_(Maribor)",
+      "wikidata_id": "Q7973719",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Vodni_stolp_Maribor_2011.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "nearby_attractions": [
+        "Lent District",
+        "Old Vine House",
+        "Judgment Tower"
+      ],
+      "related_attractions": [
+        "Water Tower Celje",
+        "Piran Town Walls"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Maribor",
+      "name": "Judgment Tower",
+      "seo_title": "Judgment Tower Maribor: Medieval Fortification & Cultural Stage",
+      "seo_description": "Explore the historic Judgment Tower (Sodni Stolp) in Maribor's Lent district. Learn about its defensive past and its modern role as a cultural venue.",
+      "description_short": "A massive, cylindrical medieval corner bastion that has been renovated into a modern acoustic cultural hall.",
+      "description_long": "The Judgment Tower, known locally as Sodni stolp, anchor's the western edge of the old city defense line. This imposing circular stone structure features thick masonry and a distinctive conical wooden roof. Throughout its history, it served various functions before being repurposed into an intimate cultural venue. Today, its historic interior hosts evening jazz concerts, acoustic musical performances, and contemporary art exhibitions under its vaulted timber ceiling.",
+      "history": "The foundations were laid in the early 14th century as a corner fortification. The tower was completely rebuilt in 1540 with enhanced cannon ports, and later received its high conical roof after surviving a major fire in the 17th century.",
+      "accessibility": "Located on the flat edge of the Lent promenade, the ground-level event foyer is fully accessible to visitors during scheduled events.",
+      "best_season": "Year-round",
+      "keywords": [
+        "Judgment Tower Maribor",
+        "Sodni stolp",
+        "medieval bastion Slovenia",
+        "Maribor cultural venues",
+        "historic fortresses Drava"
+      ],
+      "long_tail_keywords": [
+        "medieval city walls Maribor",
+        "cultural transformation of historic sites",
+        "jazz venues in Maribor Slovenia"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 84,
+      "topical_depth_score": 8,
+      "latitude": 46.5564,
+      "longitude": 15.6418,
+      "google_maps_url": "https://www.google.com/maps?q=46.5564,15.6418",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Judgment_Tower_(Maribor)",
+      "wikidata_id": "Q12800366",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sodni_stolp_Maribor_2011.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "nearby_attractions": [
+        "Old Vine House",
+        "Lent District",
+        "Water Tower"
+      ],
+      "related_attractions": [
+        "Water Tower Celje",
+        "Tollhouse Kranj"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Maribor",
+      "name": "Pyramid Hill",
+      "seo_title": "Pyramid Hill Maribor: Hiking Trails, Vineyards & City Views",
+      "seo_description": "Hike up Pyramid Hill (Piramida) in Maribor. Walk through historic hillside vineyards to reach a classic white chapel with beautiful panoramic views.",
+      "description_short": "A scenic vine-covered hill overlooking Maribor, topped with a charming white devotional chapel on the site of a medieval castle.",
+      "description_long": "Pyramid Hill, or Piramida, offers an ideal combination of nature, agriculture, and history just steps from Maribor's urban center. Terraced rows of wine grapes climb up its slopes, which are crisscrossed by well-maintained gravel trails. A gentle, 20-minute walk rewards hikers with a view of the city and the winding Drava valley below. At the summit stands a classic white 19th-century chapel, which marks the historic location where the city's founding stronghold once stood.",
+      "history": "The hill was originally home to the 12th-century Upper Maribor Castle (Marchburch), which gave the town its name. The castle was demolished in 1790, and its remaining stones were used to construct an obelisk that was later replaced by the current chapel in 1821.",
+      "accessibility": "Accessible via a well-graded gravel trail that ascends the hill from the edge of the City Park; requires a light uphill walk.",
+      "best_season": "Autumn, Spring, Summer",
+      "keywords": [
+        "Pyramid Hill Maribor",
+        "Piramida Maribor",
+        "Maribor hiking view",
+        "Slovenian vineyards hill",
+        "panoramic lookout Styria"
+      ],
+      "long_tail_keywords": [
+        "easy hikes near Maribor center",
+        "where to see vineyards in Maribor",
+        "history of Marchburch castle Slovenia"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 89,
+      "topical_depth_score": 8,
+      "latitude": 46.5701,
+      "longitude": 15.6533,
+      "google_maps_url": "https://www.google.com/maps?q=46.5701,15.6533",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pyramid_(hill)",
+      "wikidata_id": "Q7263483",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Maribor_Piramida_1.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "nearby_attractions": [
+        "Maribor City Park",
+        "Maribor Castle",
+        "Franciscan Church"
+      ],
+      "related_attractions": [
+        "Ljubljana Castle",
+        "Celje Old Castle"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Piran",
+      "name": "Tartini Square",
+      "seo_title": "Tartini Square Piran: Venetian Gothic Gem on the Adriatic",
+      "seo_description": "Explore Tartini Square, the oval pedestrian center of Piran. Admire the Venetian architecture and the bronze statue of violinist Giuseppe Tartini.",
+      "description_short": "A sweeping, oval-shaped marble pedestrian square surrounded by colorful Venetian palaces and the Adriatic sea.",
+      "description_long": "Tartini Square (Tartinijev trg) is the true jewel of Slovenia's short, beautiful coastline. This marble-paved pedestrian plaza is ringed by elegant Venetian Gothic townhouses, pastel-colored facades, and lively seafood restaurants. At its center stands a prominent bronze monument dedicated to the world-famous baroque composer and violinist Giuseppe Tartini, who was born nearby. The square's open design creates a welcoming atmosphere where children play, and visitors can enjoy coffee with views of the harbor.",
+      "history": "The square was originally a safe inner harbor for fishing boats outside the town walls. In 1894, due to sanitation issues and urban expansion, the basin was filled in with stone, creating this expansive open square.",
+      "accessibility": "Completely flat, polished marble pedestrian zone, highly accessible to all visitors directly from the waterfront buses.",
+      "best_season": "Summer, Late Spring, Early Autumn",
+      "keywords": [
+        "Tartini Square Piran",
+        "Tartinijev trg",
+        "Venetian Gothic Piran",
+        "Giuseppe Tartini monument",
+        "Slovenian coast travel"
+      ],
+      "long_tail_keywords": [
+        "most beautiful squares in Slovenia",
+        "Venetian architecture in Piran coast",
+        "what to see in Piran old town"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 99,
+      "topical_depth_score": 9,
+      "latitude": 45.5283,
+      "longitude": 13.5684,
+      "google_maps_url": "https://www.google.com/maps?q=45.5283,13.5684",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tartini_Square",
+      "wikidata_id": "Q3434199",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Tartini_Square_Piran_Slovenia.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "nearby_attractions": [
+        "Venetian House",
+        "Piran Harbour",
+        "St. George's Parish Church"
+      ],
+      "related_attractions": [
+        "Prešeren Square Ljubljana",
+        "Tito Square Koper"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Piran",
+      "name": "St. George's Parish Church",
+      "seo_title": "St. George's Church Piran: Clifftop Views & Venetian Bell Tower",
+      "seo_description": "Visit St. George's Parish Church in Piran. Climb the clifftop bell tower modeled after St. Mark's in Venice for vistas of Italy and Croatia.",
+      "description_short": "A historic church perched on a cliff overlooking the Adriatic Sea, featuring a bell tower modeled after St. Mark's Campanile.",
+      "description_long": "Perched on a ridge high above Tartini Square, St. George's Parish Church (Cerkev sv. Jurija) is Piran's most prominent landmark. The church compound offers views out over the Adriatic Sea, extending to the coastlines of Italy and Croatia on clear days. Its detached bell tower is a scaled replica of the famous St. Mark's Campanile in Venice, topped with a copper archangel Michael weather vane that rotates with the sea breezes. Inside, the church features wooden altars and a collection of sacred art.",
+      "history": "The present Renaissance-Baroque structure was completed in 1614, built on the foundations of an early 14th-century Romanesque church. The bell tower was added in 1608 to emphasize Piran's ties to the Venetian Republic.",
+      "accessibility": "Accessible via stone pedestrian lanes climbing up from Tartini Square; the interior is level, but the path up the hill is moderately steep.",
+      "best_season": "Spring, Summer, Autumn",
+      "keywords": [
+        "St Georges Church Piran",
+        "Cerkev sv Jurija",
+        "Piran bell tower view",
+        "clifftop church Adriatic",
+        "Venetian architecture Slovenia"
+      ],
+      "long_tail_keywords": [
+        "best panoramic viewpoints in Piran",
+        "climbing the campanile in Piran",
+        "historic churches on Slovenian coast"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 94,
+      "topical_depth_score": 9,
+      "latitude": 45.5293,
+      "longitude": 13.5691,
+      "google_maps_url": "https://www.google.com/maps?q=45.5293,13.5691",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St.George%27s_Parish_Church(Piran)",
+      "wikidata_id": "Q7588126",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Piran_-_Church_of_St._George_03.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "nearby_attractions": [
+        "Tartini Square",
+        "Piran Town Walls",
+        "Venetian House"
+      ],
+      "related_attractions": [
+        "Ljubljana Cathedral",
+        "Cathedral of the Assumption Koper"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Piran",
+      "name": "Piran Town Walls",
+      "seo_title": "Piran Town Walls: Medieval Fortifications & Panoramic Sunsets",
+      "seo_description": "Walk the ancient Piran Town Walls. Explore preserved stone fortifications, watchtowers, and step onto walkways for unforgettable sunset views over the peninsula.",
+      "description_short": "A beautifully preserved system of medieval stone walls and defensive towers offering views over the Piran peninsula.",
+      "description_long": "The Piran Town Walls (Obzidje Piran) represent a historic monument of coastal military architecture. Climbing up the stone steps of the fortified towers allows visitors to walk along the crenellated walkways, which look out over the tiled red roofs of the town below. The walls are a popular spot for photography enthusiasts, especially during sunset when the light colors the Adriatic horizon. The stone towers and narrow archways provide a window into Piran's maritime history.",
+      "history": "Constructed in waves between the 7th and 15th centuries to shield the expanding town from regional threats, the most impressive remaining eastern section was built between 1475 and 1533 to withstand Ottoman military raids.",
+      "accessibility": "Requires walking up an uphill stone pathway from the center; exploring the narrow watchtower platforms requires climbing steep wooden stairs.",
+      "best_season": "Spring, Summer, Autumn",
+      "keywords": [
+        "Piran Town Walls",
+        "Obzidje Piran",
+        "medieval fortifications coast",
+        "Piran sunset spot",
+        "Slovenia historical walls"
+      ],
+      "long_tail_keywords": [
+        "walking on medieval walls Piran",
+        "best photography locations on Slovenian coast",
+        "historical military sites Piran"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 95,
+      "topical_depth_score": 8,
+      "latitude": 45.5276,
+      "longitude": 13.5731,
+      "google_maps_url": "https://www.google.com/maps?q=45.5276,13.5731",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Walls_of_Piran",
+      "wikidata_id": "Q28001550",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Piran_town_walls_view.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "nearby_attractions": [
+        "St. George's Parish Church",
+        "Tartini Square",
+        "Minorite Monastery"
+      ],
+      "related_attractions": [
+        "Celje Old Castle",
+        "Vodni Stolp Maribor"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Piran",
+      "name": "Venetian House",
+      "seo_title": "The Venetian House Piran: Gothic Architecture & Mid-15th Century Legend",
+      "seo_description": "See the historic Venetian House (Benečanka) on Tartini Square. Admire its red facade, Gothic windows, and learn the local legend behind its romantic inscription.",
+      "description_short": "A beautiful 15th-century Venetian Gothic palace featuring a bright red exterior facade and detailed stone balconies.",
+      "description_long": "The Venetian House, known locally as Benečanka, is the oldest fully preserved residential building on Tartini Square. It stands as a prime example of classic Venetian Gothic design, featuring elegant pointed stone windows, intricate corner reliefs, and an ornate balcony. The exterior is washed in a rich crimson hue, and it features a stone lion emblem above the corner. Today, the ground floor operates as a local boutique shop, allowing visitors to glimpse inside its historic walls.",
+      "history": "Built in the mid-15th century by a wealthy merchant from Venice, the house features a stone inscription that translates to 'Let them talk,' rumored to be a response to local gossip regarding his romance with a Piran woman.",
+      "accessibility": "Located right on the flat pedestrian edge of Tartini Square, making the exterior easily viewable to all.",
+      "best_season": "Year-round",
+      "keywords": [
+        "Venetian House Piran",
+        "Benečanka",
+        "Venetian Gothic Slovenia",
+        "Tartini Square architecture",
+        "historic palaces Piran"
+      ],
+      "long_tail_keywords": [
+        "oldest buildings on Slovenian coast",
+        "romantic legends in Piran town",
+        "Venetian architecture examples Europe"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 89,
+      "topical_depth_score": 8,
+      "latitude": 45.5284,
+      "longitude": 13.5688,
+      "google_maps_url": "https://www.google.com/maps?q=45.5284,13.5688",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Venetian_House,_Piran",
+      "wikidata_id": "Q12785864",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Piran_-_Venetian_House_01.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "nearby_attractions": [
+        "Tartini Square",
+        "St. George's Parish Church",
+        "Piran Harbour"
+      ],
+      "related_attractions": [
+        "Praetorian Palace Koper",
+        "Loggia Palace Koper"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Piran",
+      "name": "Minorite Monastery of St. Francis",
+      "seo_title": "Minorite Monastery Piran: Serene Cloisters & Summer Concerts",
+      "seo_description": "Visit the peaceful Minorite Monastery of St. Francis in Piran. Admire its cross-vaulted acoustic cloister courtyard and historic library collections.",
+      "description_short": "A serene, historic monastery complex featuring an acoustic cross-vaulted stone cloister courtyard.",
+      "description_long": "The Minorite Monastery of St. Francis (Minoritski samostan) is a sanctuary of quiet reflection nestled in the narrow stone lanes of the town. The centerpiece of the complex is its central cloister courtyard, which features stone columns and cross-vaulted ceilings. Renowned for its exceptional natural acoustics, the courtyard is transformed into an open-air chamber music venue during the summer months. The monastery also preserves a historic library containing centuries-old theological texts.",
+      "history": "Established by Franciscan friars prior to 1301, the monastery complex was extensively remodeled in the Baroque style in the 17th and 18th centuries, preserving its historic place in Piran's spiritual heritage.",
+      "accessibility": "Tucked away up the hillside lanes from the main square; the central cloister courtyard is level and flat once inside the main gates.",
+      "best_season": "Summer, Spring",
+      "keywords": [
+        "Minorite Monastery Piran",
+        "Franciscan cloister Slovenia",
+        "Piran chamber music",
+        "monastery library Piran",
+        "religious heritage coast"
+      ],
+      "long_tail_keywords": [
+        "peaceful places to visit in Piran",
+        "summer classical concerts in Piran",
+        "historic cloisters in Central Europe"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 83,
+      "topical_depth_score": 8,
+      "latitude": 45.5281,
+      "longitude": 13.5703,
+      "google_maps_url": "https://www.google.com/maps?q=45.5281,13.5703",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Minorite_Monastery_of_St._Francis_in_Piran",
+      "wikidata_id": "Q12796791",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Minoritski_samostan_Piran_02.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "nearby_attractions": [
+        "Tartini Square",
+        "Piran Town Walls",
+        "First May Square"
+      ],
+      "related_attractions": [
+        "Minorite Monastery Ptuj",
+        "Franciscan Church Maribor"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Piran",
+      "name": "Piran Harbour",
+      "seo_title": "Piran Harbour: Coastal Walks, Fishing Boats & Seafood Bistros",
+      "seo_description": "Stroll around the scenic Piran Harbour. Watch local fishing boats, admire docked yachts, and enjoy fresh Mediterranean cuisine along the pier.",
+      "description_short": "A charming and active fishing port and marina that borders Tartini Square, lined with seafood terraces.",
+      "description_long": "Piran Harbour is the lively maritime gateway to the old town, filled with a mix of local white wooden fishing boats and modern recreational yachts. The harbor crescent features wide pedestrian piers where visitors can enjoy a walk along the water, surrounded by the calls of seagulls. The docks are lined with open-air restaurant terraces that serve fresh seafood, caught daily by local fishermen. It offers a great view looking back at the town's stone facades.",
+      "history": "Serving as Piran's main link to the Adriatic trade routes for over a millennium, the modern harbor piers were formalized and deepened during the late 19th century under Austro-Hungarian maritime administration.",
+      "accessibility": "Completely flat, wide paved promenade running directly alongside the water, fully accessible for casual strolls.",
+      "best_season": "Summer, Spring, Autumn",
+      "keywords": [
+        "Piran Harbour",
+        "Piran marina",
+        "Slovenia coast pier",
+        "seafood restaurants Piran",
+        "Adriatic fishing boats"
+      ],
+      "long_tail_keywords": [
+        "where to eat fresh seafood in Piran",
+        "walking tours along Piran marina",
+        "coastal towns to visit in Slovenia"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 91,
+      "topical_depth_score": 6,
+      "latitude": 45.5275,
+      "longitude": 13.5672,
+      "google_maps_url": "https://www.google.com/maps?q=45.5275,13.5672",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Piran",
+      "wikidata_id": "Q1227181",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Port_of_Piran.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "nearby_attractions": [
+        "Tartini Square",
+        "Maritime Museum",
+        "Aquarium Piran"
+      ],
+      "related_attractions": [
+        "Lent District Maribor",
+        "Koper Harbour"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Piran",
+      "name": "Maritime Museum Sergej Mašera",
+      "seo_title": "Sergej Mašera Maritime Museum Piran: Slovenia's Naval History",
+      "seo_description": "Visit the Sergej Mašera Maritime Museum in Piran. Explore ship models, historic maps, and naval artifacts inside a beautiful Baroque palace.",
+      "description_short": "A museum housed within an elegant 19th-century palace, dedicated to showcasing Slovenia's maritime and naval history.",
+      "description_long": "The Sergej Mašera Maritime Museum is the premier cultural institution dedicated to Slovenia's seafaring heritage. Located inside the historic Gabrielli Palace along the waterfront, its grand rooms display a collection of ship models, old naval uniforms, and historical navigation instruments. Exhibits trace the history of the region from Roman times through the Venetian era to the traditional salt-making practices of the nearby Sečovlje salt pans.",
+      "history": "Founded in 1954, the museum is housed inside a classicist palace built in the mid-19th century by the wealthy Gabrielli family, showcasing Piran's historical ties to the sea.",
+      "accessibility": "Located along the flat harbor front road; upper floors are accessed via a broad central staircase inside the palace.",
+      "best_season": "Winter, Rainy Days, Year-round",
+      "keywords": [
+        "Maritime Museum Piran",
+        "Sergej Mašera museum",
+        "Gabrielli Palace",
+        "Slovenian naval history",
+        "ship models museum"
+      ],
+      "long_tail_keywords": [
+        "cultural attractions in Piran town",
+        "Slovenian coast maritime history",
+        "best indoor museums in Piran"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 86,
+      "topical_depth_score": 8,
+      "latitude": 45.5277,
+      "longitude": 13.5664,
+      "google_maps_url": "https://www.google.com/maps?q=45.5277,13.5664",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sergej_Ma%C5%A1era_Maritime_Museum",
+      "wikidata_id": "Q23891483",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Piran_-_Gabrielli_Palace_01.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "nearby_attractions": [
+        "Piran Harbour",
+        "Aquarium Piran",
+        "Tartini Square"
+      ],
+      "related_attractions": [
+        "Belgramoni Tacco Palace Koper",
+        "Regional Museum Maribor"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "name": "Maribor",
+      "city": "Maribor",
+      "region": "Slovenia",
+      "latitude": 46.5575,
+      "longitude": 15.64555556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Maribor",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Mariborski_Glavni_trg.jpg/800px-Mariborski_Glavni_trg.jpg",
+      "description_short": "Maribor — a notable landmark in Maribor, Slovenia.",
+      "keywords": [
+        "Maribor",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Ljubljana",
+      "city": "Maribor",
+      "region": "Slovenia",
+      "latitude": 46.05138889,
+      "longitude": 14.50611111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ljubljana",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ljubljana_Old_Town%2C_Slovenia_%28Old_Camera%29_%2833286165680%29.jpg/800px-Ljubljana_Old_Town%2C_Slovenia_%28Old_Camera%29_%2833286165680%29.jpg",
+      "description_short": "Ljubljana — a notable landmark in Maribor, Slovenia.",
+      "keywords": [
+        "Maribor",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Archdiocese of Ljubljana",
+      "city": "Maribor",
+      "region": "Slovenia",
+      "latitude": 46.05063056,
+      "longitude": 14.50762222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Archdiocese_of_Ljubljana",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/NadskofijaStolnica-Ljubljana.JPG",
+      "description_short": "Archdiocese of Ljubljana — a notable landmark in Maribor, Slovenia.",
+      "keywords": [
+        "Maribor",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Archdiocese of Maribor",
+      "city": "Maribor",
+      "region": "Slovenia",
+      "latitude": 46.55913056,
+      "longitude": 15.64499722,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Archdiocese_of_Maribor",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Maribor%2C_Slovenia_%2852221164315%29.jpg/800px-Maribor%2C_Slovenia_%2852221164315%29.jpg",
+      "description_short": "Archdiocese of Maribor — a notable landmark in Maribor, Slovenia.",
+      "keywords": [
+        "Maribor",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Maribor Cathedral",
+      "city": "Maribor",
+      "region": "Slovenia",
+      "latitude": 46.55913056,
+      "longitude": 15.64499722,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Maribor_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Maribor%2C_Slovenia_%2852221164315%29.jpg/800px-Maribor%2C_Slovenia_%2852221164315%29.jpg",
+      "description_short": "Maribor Cathedral — a notable landmark in Maribor, Slovenia.",
+      "keywords": [
+        "Maribor",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Maribor railway station",
+      "city": "Maribor",
+      "region": "Slovenia",
+      "latitude": 46.56166667,
+      "longitude": 15.6575,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Maribor_railway_station",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Maribor_train_station2.jpg/800px-Maribor_train_station2.jpg",
+      "description_short": "Maribor railway station — a notable landmark in Maribor, Slovenia.",
+      "keywords": [
+        "Maribor",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Aquileia",
+      "city": "Piran",
+      "region": "Slovenia",
+      "latitude": 45.769725,
+      "longitude": 13.37119167,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aquileia",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Basilica_Patriarcale_%28Aquileia%29_-_Exterior.jpg/800px-Basilica_Patriarcale_%28Aquileia%29_-_Exterior.jpg",
+      "description_short": "Aquileia — a notable landmark in Piran, Slovenia.",
+      "keywords": [
+        "Piran",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Piran",
+      "city": "Piran",
+      "region": "Slovenia",
+      "latitude": 45.52833333,
+      "longitude": 13.56833333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Piran",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Piran%2C_Slovenia%2C_Viewpoint.jpg/800px-Piran%2C_Slovenia%2C_Viewpoint.jpg",
+      "description_short": "Piran — a notable landmark in Piran, Slovenia.",
+      "keywords": [
+        "Piran",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Slovene Littoral",
+      "city": "Piran",
+      "region": "Slovenia",
+      "latitude": 45.98932778,
+      "longitude": 13.80981389,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Slovene_Littoral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%C5%A0martno_Brda.jpg/800px-%C5%A0martno_Brda.jpg",
+      "description_short": "Slovene Littoral — a notable landmark in Piran, Slovenia.",
+      "keywords": [
+        "Piran",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Rogaška Slatina",
+      "city": "Celje",
+      "region": "Slovenia",
+      "latitude": 46.23138889,
+      "longitude": 15.63805556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Roga%C5%A1ka_Slatina",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Roga%C5%A1ka_Slatina_Park.jpg/800px-Roga%C5%A1ka_Slatina_Park.jpg",
+      "description_short": "Rogaška Slatina — a notable landmark in Celje, Slovenia.",
+      "keywords": [
+        "Celje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Šentjur",
+      "city": "Celje",
+      "region": "Slovenia",
+      "latitude": 46.21758611,
+      "longitude": 15.39598056,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%A0entjur",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%C5%A0entjur_06.jpg/800px-%C5%A0entjur_06.jpg",
+      "description_short": "Šentjur — a notable landmark in Celje, Slovenia.",
+      "keywords": [
+        "Celje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Žalec",
+      "city": "Celje",
+      "region": "Slovenia",
+      "latitude": 46.25099722,
+      "longitude": 15.16393889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%BDalec",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Saint_Nicholas_Church%2C_%C5%BDalec_08.JPG/800px-Saint_Nicholas_Church%2C_%C5%BDalec_08.JPG",
+      "description_short": "Žalec — a notable landmark in Celje, Slovenia.",
+      "keywords": [
+        "Celje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Radovljica",
+      "city": "Celje",
+      "region": "Slovenia",
+      "latitude": 46.34251667,
+      "longitude": 14.17207778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Radovljica",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radovljica_%283%29.jpg/800px-Radovljica_%283%29.jpg",
+      "description_short": "Radovljica — a notable landmark in Celje, Slovenia.",
+      "keywords": [
+        "Celje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Dobrna",
+      "city": "Celje",
+      "region": "Slovenia",
+      "latitude": 46.33806667,
+      "longitude": 15.22928056,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dobrna",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dobrna_near_Celje_2015.JPG/800px-Dobrna_near_Celje_2015.JPG",
+      "description_short": "Dobrna — a notable landmark in Celje, Slovenia.",
+      "keywords": [
+        "Celje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Gornji Grad",
+      "city": "Celje",
+      "region": "Slovenia",
+      "latitude": 46.29612222,
+      "longitude": 14.80517222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gornji_Grad%2C_Slovenia",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Gornji_Grad.jpg/800px-Gornji_Grad.jpg",
+      "description_short": "Gornji Grad, Slovenia — a notable landmark in Celje, Slovenia.",
+      "keywords": [
+        "Celje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Zidani Most",
+      "city": "Celje",
+      "region": "Slovenia",
+      "latitude": 46.08777778,
+      "longitude": 15.17361111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Zidani_Most",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Zidani_most_-_most_in_%C5%BEel._postaja_2.jpg/800px-Zidani_most_-_most_in_%C5%BEel._postaja_2.jpg",
+      "description_short": "Zidani Most — a notable landmark in Celje, Slovenia.",
+      "keywords": [
+        "Celje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Diocese of Celje",
+      "city": "Celje",
+      "region": "Slovenia",
+      "latitude": 46.22915278,
+      "longitude": 15.26275,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Diocese_of_Celje",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Celje_Cathedral_18.jpg/800px-Celje_Cathedral_18.jpg",
+      "description_short": "Diocese of Celje — a notable landmark in Celje, Slovenia.",
+      "keywords": [
+        "Celje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Celje Hall",
+      "city": "Celje",
+      "region": "Slovenia",
+      "latitude": 46.22830833,
+      "longitude": 15.26688056,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Celje_Hall",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2023-05-24_Celje_detail_01.jpg/800px-2023-05-24_Celje_detail_01.jpg",
+      "description_short": "Celje Hall — a notable landmark in Celje, Slovenia.",
+      "keywords": [
+        "Celje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Šmartno ob Dreti",
+      "city": "Celje",
+      "region": "Slovenia",
+      "latitude": 46.28354722,
+      "longitude": 14.88917778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%A0martno_ob_Dreti",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Smartno_ob_Dreti_Slovenia.jpg/800px-Smartno_ob_Dreti_Slovenia.jpg",
+      "description_short": "Šmartno ob Dreti — a notable landmark in Celje, Slovenia.",
+      "keywords": [
+        "Celje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Gomilsko",
+      "city": "Celje",
+      "region": "Slovenia",
+      "latitude": 46.25335833,
+      "longitude": 15.04241389,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gomilsko",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gomilsko_Slovenia_2.jpg/800px-Gomilsko_Slovenia_2.jpg",
+      "description_short": "Gomilsko — a notable landmark in Celje, Slovenia.",
+      "keywords": [
+        "Celje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Šempeter v Savinjski Dolini",
+      "city": "Celje",
+      "region": "Slovenia",
+      "latitude": 46.25618333,
+      "longitude": 15.11790833,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%A0empeter_v_Savinjski_Dolini",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sempeter_v_Savinjski_Dolini_Slovenia_3.jpg/800px-Sempeter_v_Savinjski_Dolini_Slovenia_3.jpg",
+      "description_short": "Šempeter v Savinjski Dolini — a notable landmark in Celje, Slovenia.",
+      "keywords": [
+        "Celje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Klek",
+      "city": "Celje",
+      "region": "Slovenia",
+      "latitude": 46.16048889,
+      "longitude": 15.03833056,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Klek%2C_Trbovlje",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Postcard_of_Klek%2C_Trbovlje_1939.jpg/800px-Postcard_of_Klek%2C_Trbovlje_1939.jpg",
+      "description_short": "Klek, Trbovlje — a notable landmark in Celje, Slovenia.",
+      "keywords": [
+        "Celje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Celje Cathedral",
+      "city": "Celje",
+      "region": "Slovenia",
+      "latitude": 46.2272,
+      "longitude": 15.2648,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Celje_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Celje_Cathedral_18.jpg/800px-Celje_Cathedral_18.jpg",
+      "description_short": "Celje Cathedral — a notable landmark in Celje, Slovenia.",
+      "keywords": [
+        "Celje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Kranj",
+      "city": "Kranj",
+      "region": "Slovenia",
+      "latitude": 46.23333333,
+      "longitude": 14.36666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kranj",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kranj_veduta_Kranja_Andra%C5%BE_Muljavec_Fotomorgana.jpg/800px-Kranj_veduta_Kranja_Andra%C5%BE_Muljavec_Fotomorgana.jpg",
+      "description_short": "Kranj — a notable landmark in Kranj, Slovenia.",
+      "keywords": [
+        "Kranj",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Ljubljana railway station",
+      "city": "Kranj",
+      "region": "Slovenia",
+      "latitude": 46.05888889,
+      "longitude": 14.51305556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ljubljana_railway_station",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ljubljana_-_%C5%BDelezni%C5%A1ka_postaja_Ljubljana_%26_Spomenik_Rudolfu_Maistru_%2848874550281%29.jpg/800px-Ljubljana_-_%C5%BDelezni%C5%A1ka_postaja_Ljubljana_%26_Spomenik_Rudolfu_Maistru_%2848874550281%29.jpg",
+      "description_short": "Ljubljana railway station — a notable landmark in Kranj, Slovenia.",
+      "keywords": [
+        "Kranj",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Brdo Castle near Kranj",
+      "city": "Kranj",
+      "region": "Slovenia",
+      "latitude": 46.273025,
+      "longitude": 14.37690278,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Brdo_Castle_near_Kranj",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Grad_Brdo_pri_Kranju_%28Brdo_Castle%29.jpg/800px-Grad_Brdo_pri_Kranju_%28Brdo_Castle%29.jpg",
+      "description_short": "Brdo Castle near Kranj — a notable landmark in Kranj, Slovenia.",
+      "keywords": [
+        "Kranj",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Lower Carniola",
+      "city": "Kranj",
+      "region": "Slovenia",
+      "latitude": 45.86666667,
+      "longitude": 14.98333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lower_Carniola",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sveti_Vrh.jpg/800px-Sveti_Vrh.jpg",
+      "description_short": "Lower Carniola — a notable landmark in Kranj, Slovenia.",
+      "keywords": [
+        "Kranj",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Turn Castle",
+      "city": "Kranj",
+      "region": "Slovenia",
+      "latitude": 46.30541667,
+      "longitude": 14.43299444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Turn_Castle%2C_Preddvor",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/GradTurn.jpg/800px-GradTurn.jpg",
+      "description_short": "Turn Castle, Preddvor — a notable landmark in Kranj, Slovenia.",
+      "keywords": [
+        "Kranj",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Golnik",
+      "city": "Kranj",
+      "region": "Slovenia",
+      "latitude": 46.33149444,
+      "longitude": 14.330575,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Golnik",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Golnik%2C_Slovenija.JPG/800px-Golnik%2C_Slovenija.JPG",
+      "description_short": "Golnik — a notable landmark in Kranj, Slovenia.",
+      "keywords": [
+        "Kranj",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Predoslje",
+      "city": "Kranj",
+      "region": "Slovenia",
+      "latitude": 46.26133611,
+      "longitude": 14.38214722,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Predoslje",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Predoslje_Slovenia.JPG/800px-Predoslje_Slovenia.JPG",
+      "description_short": "Predoslje — a notable landmark in Kranj, Slovenia.",
+      "keywords": [
+        "Kranj",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Kieselstein Castle",
+      "city": "Kranj",
+      "region": "Slovenia",
+      "latitude": 46.23839167,
+      "longitude": 14.35435833,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kieselstein_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Valvasor_-_Grad_Kieselstein.jpg",
+      "description_short": "Kieselstein Castle — a notable landmark in Kranj, Slovenia.",
+      "keywords": [
+        "Kranj",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Zgornja Pristava",
+      "city": "Kranj",
+      "region": "Slovenia",
+      "latitude": 46.339725,
+      "longitude": 15.40790833,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Zgornja_Pristava%2C_Slovenske_Konjice",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Zgornja_Pristava.jpg/800px-Zgornja_Pristava.jpg",
+      "description_short": "Zgornja Pristava, Slovenske Konjice — a notable landmark in Kranj, Slovenia.",
+      "keywords": [
+        "Kranj",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Schrottenturn Manor",
+      "city": "Kranj",
+      "region": "Slovenia",
+      "latitude": 46.23540833,
+      "longitude": 14.33926111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Schrottenturn_Manor",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Valvasor_-_%C5%A0rotenturn.jpg/800px-Valvasor_-_%C5%A0rotenturn.jpg",
+      "description_short": "Schrottenturn Manor — a notable landmark in Kranj, Slovenia.",
+      "keywords": [
+        "Kranj",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Stražišče",
+      "city": "Kranj",
+      "region": "Slovenia",
+      "latitude": 46.23114167,
+      "longitude": 14.34203333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Stra%C5%BEi%C5%A1%C4%8De%2C_Kranj",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%C5%A0marjetna_gora_03.jpg/800px-%C5%A0marjetna_gora_03.jpg",
+      "description_short": "Stražišče, Kranj — a notable landmark in Kranj, Slovenia.",
+      "keywords": [
+        "Kranj",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Klagenfurt",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 46.61666667,
+      "longitude": 14.3,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Klagenfurt",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Klagenfurt_Villacher_Vorstadt_Kreuzbergl-Stadtblick_20102015_8306.jpg/800px-Klagenfurt_Villacher_Vorstadt_Kreuzbergl-Stadtblick_20102015_8306.jpg",
+      "description_short": "Klagenfurt — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Koper",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 45.55,
+      "longitude": 13.73333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Koper",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Koper%2C_mesto.jpg/800px-Koper%2C_mesto.jpg",
+      "description_short": "Koper — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Muggia",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 45.6,
+      "longitude": 13.76666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Muggia",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Muggia_z001.JPG/800px-Muggia_z001.JPG",
+      "description_short": "Muggia — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Diocese of Trieste",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 45.6465,
+      "longitude": 13.7722,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Diocese_of_Trieste",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Trieste_Cattedrale_di_San_Giusto_frontside.jpg/800px-Trieste_Cattedrale_di_San_Giusto_frontside.jpg",
+      "description_short": "Diocese of Trieste — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Diocese of Koper",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 45.54764444,
+      "longitude": 13.73060278,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Diocese_of_Koper",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Koper-Kathedrale-%28280711%29.jpg/800px-Koper-Kathedrale-%28280711%29.jpg",
+      "description_short": "Diocese of Koper — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "St. Bassus's Church",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 45.54513611,
+      "longitude": 13.73018611,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St._Bassus's_Church",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Koper-St.-Bassa-Kirche-%28280711%29.jpg/800px-Koper-St.-Bassa-Kirche-%28280711%29.jpg",
+      "description_short": "St. Bassus's Church — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Assumption Cathedral",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 45.5482,
+      "longitude": 13.7301,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Assumption_Cathedral%2C_Koper",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/SLO-Koper058.jpg/800px-SLO-Koper058.jpg",
+      "description_short": "Assumption Cathedral, Koper — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Vipava",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 45.84755833,
+      "longitude": 13.96235556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Vipava%2C_Vipava",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Vipava_Slovenia.jpg/800px-Vipava_Slovenia.jpg",
+      "description_short": "Vipava, Vipava — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Nova Gorica",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 45.95583333,
+      "longitude": 13.64333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nova_Gorica",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nova_Gorica.jpg/800px-Nova_Gorica.jpg",
+      "description_short": "Nova Gorica — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Postojna",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 45.77586389,
+      "longitude": 14.21366111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Postojna",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Postojna_cave_mansion.JPG/800px-Postojna_cave_mansion.JPG",
+      "description_short": "Postojna — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Tolmin",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 46.18574722,
+      "longitude": 13.73515,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tolmin",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/View_of_Tolmin_%282%29.jpg/800px-View_of_Tolmin_%282%29.jpg",
+      "description_short": "Tolmin — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Sevnica",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 46.00921389,
+      "longitude": 15.30409444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sevnica",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sevnica%2C_Slovenija_%282026%29.jpg/800px-Sevnica%2C_Slovenija_%282026%29.jpg",
+      "description_short": "Sevnica — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Kanal",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 46.08795833,
+      "longitude": 13.63471111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kanal%2C_Kanal",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kanal_ob_Soci_bridge.JPG/800px-Kanal_ob_Soci_bridge.JPG",
+      "description_short": "Kanal, Kanal — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Brestanica",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 45.99611389,
+      "longitude": 15.47714167,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Brestanica",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Brestanica_iz_gradu.jpg/800px-Brestanica_iz_gradu.jpg",
+      "description_short": "Brestanica — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Ilirska Bistrica",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 45.56790556,
+      "longitude": 14.25269167,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ilirska_Bistrica",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ilirska_Bistrica.jpg/800px-Ilirska_Bistrica.jpg",
+      "description_short": "Ilirska Bistrica — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Štanjel",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 45.82329722,
+      "longitude": 13.84401667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%A0tanjel",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/%C5%A0tanjel_view_at_village_06072008_00.jpg/800px-%C5%A0tanjel_view_at_village_06072008_00.jpg",
+      "description_short": "Štanjel — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Loka",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 45.53561944,
+      "longitude": 13.88909722,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Loka%2C_Koper",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Loka.jpg/800px-Loka.jpg",
+      "description_short": "Loka, Koper — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Socerb",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 45.58858889,
+      "longitude": 13.85857778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Socerb",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Socerb1.jpg",
+      "description_short": "Socerb — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Kromberk",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 45.95915,
+      "longitude": 13.66857778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kromberk",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kromberk.jpg/800px-Kromberk.jpg",
+      "description_short": "Kromberk — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Miren",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 45.89615278,
+      "longitude": 13.60719444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Miren",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mirenskigrad1.jpg/800px-Mirenskigrad1.jpg",
+      "description_short": "Miren — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Vipolže",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 45.97626111,
+      "longitude": 13.53718056,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Vipol%C5%BEe",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Vipol%C5%BEe_Slovenia.jpg/800px-Vipol%C5%BEe_Slovenia.jpg",
+      "description_short": "Vipolže — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Col",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 45.88012222,
+      "longitude": 14.00194444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Col%2C_Ajdov%C5%A1%C4%8Dina",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Col_Ajdovscina_Slovenia_3.jpg/800px-Col_Ajdovscina_Slovenia_3.jpg",
+      "description_short": "Col, Ajdovščina — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Vipavski Križ",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 45.88106111,
+      "longitude": 13.86163056,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Vipavski_Kri%C5%BE",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Vipavski_Kriz_Slovenia.jpg/800px-Vipavski_Kriz_Slovenia.jpg",
+      "description_short": "Vipavski Križ — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Orehek",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 45.749075,
+      "longitude": 14.15388611,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Orehek%2C_Postojna",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Orehek_%28pri_Postojni%29.jpg/800px-Orehek_%28pri_Postojni%29.jpg",
+      "description_short": "Orehek, Postojna — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Prem",
+      "city": "Koper",
+      "region": "Slovenia",
+      "latitude": 45.60459722,
+      "longitude": 14.18336389,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Prem%2C_Ilirska_Bistrica",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Prem1.jpg/800px-Prem1.jpg",
+      "description_short": "Prem, Ilirska Bistrica — a notable landmark in Koper, Slovenia.",
+      "keywords": [
+        "Koper",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Varaždin",
+      "city": "Ptuj",
+      "region": "Slovenia",
+      "latitude": 46.30805556,
+      "longitude": 16.33777778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Vara%C5%BEdin",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Vara%C5%BEdin_Center_Croatia_2025.jpg/800px-Vara%C5%BEdin_Center_Croatia_2025.jpg",
+      "description_short": "Varaždin — a notable landmark in Ptuj, Slovenia.",
+      "keywords": [
+        "Ptuj",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Tuji Grm",
+      "city": "Ptuj",
+      "region": "Slovenia",
+      "latitude": 46.052025,
+      "longitude": 14.72008889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tuji_Grm",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Tuji_Grm_Slovenia.JPG/800px-Tuji_Grm_Slovenia.JPG",
+      "description_short": "Tuji Grm — a notable landmark in Ptuj, Slovenia.",
+      "keywords": [
+        "Ptuj",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "St. George's Church (Ptuj)",
+      "city": "Ptuj",
+      "region": "Slovenia",
+      "latitude": 46.42033611,
+      "longitude": 15.87111111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St._George's_Church_(Ptuj)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ptuj_church.JPG/800px-Ptuj_church.JPG",
+      "description_short": "St. George's Church (Ptuj) — a notable landmark in Ptuj, Slovenia.",
+      "keywords": [
+        "Ptuj",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Roman Aquileia",
+      "city": "Ptuj",
+      "region": "Slovenia",
+      "latitude": 45.773291,
+      "longitude": 13.366509,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_Aquileia",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/AQUILEIA_romana.png/800px-AQUILEIA_romana.png",
+      "description_short": "Roman Aquileia — a notable landmark in Ptuj, Slovenia.",
+      "keywords": [
+        "Ptuj",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Ptuj",
+      "city": "Ptuj",
+      "region": "Slovenia",
+      "latitude": 46.41944444,
+      "longitude": 15.86944444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ptuj",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ptuj_Town_Hall.jpg/800px-Ptuj_Town_Hall.jpg",
+      "description_short": "Ptuj — a notable landmark in Ptuj, Slovenia.",
+      "keywords": [
+        "Ptuj",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Podsreda Castle",
+      "city": "Ptuj",
+      "region": "Slovenia",
+      "latitude": 46.0279,
+      "longitude": 15.59,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Podsreda_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Castle_Podsreda.jpg/800px-Castle_Podsreda.jpg",
+      "description_short": "Podsreda Castle — a notable landmark in Ptuj, Slovenia.",
+      "keywords": [
+        "Ptuj",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Haloze",
+      "city": "Ptuj",
+      "region": "Slovenia",
+      "latitude": 46.369675,
+      "longitude": 15.93566944,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Haloze",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Haloze150808.jpg/800px-Haloze150808.jpg",
+      "description_short": "Haloze — a notable landmark in Ptuj, Slovenia.",
+      "keywords": [
+        "Ptuj",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Orpheus Monument",
+      "city": "Ptuj",
+      "region": "Slovenia",
+      "latitude": 46.42009167,
+      "longitude": 15.87038056,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Orpheus_Monument",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Ptuj_-_Orfejev_spomenik_1.jpg/800px-Ptuj_-_Orfejev_spomenik_1.jpg",
+      "description_short": "Orpheus Monument — a notable landmark in Ptuj, Slovenia.",
+      "keywords": [
+        "Ptuj",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Ptujska Gora",
+      "city": "Ptuj",
+      "region": "Slovenia",
+      "latitude": 46.35348056,
+      "longitude": 15.76105278,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ptujska_Gora",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/PtujskaGora1.jpg/800px-PtujskaGora1.jpg",
+      "description_short": "Ptujska Gora — a notable landmark in Ptuj, Slovenia.",
+      "keywords": [
+        "Ptuj",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Puch Bridge",
+      "city": "Ptuj",
+      "region": "Slovenia",
+      "latitude": 46.412831,
+      "longitude": 15.878141,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Puch_Bridge",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/PtujskoJezero1.JPG/800px-PtujskoJezero1.JPG",
+      "description_short": "Puch Bridge — a notable landmark in Ptuj, Slovenia.",
+      "keywords": [
+        "Ptuj",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Trebnje",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 45.91037778,
+      "longitude": 15.00862778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Trebnje",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Trebnje_Golia_rojstna_hi%C5%A1a_2.jpg/800px-Trebnje_Golia_rojstna_hi%C5%A1a_2.jpg",
+      "description_short": "Trebnje — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Krka (Sava)",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 45.89361111,
+      "longitude": 15.60027778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Krka_(Sava)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Krka_zgornji_tok_Slovenija.jpg",
+      "description_short": "Krka (Sava) — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Tivoli City Park",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 46.05388889,
+      "longitude": 14.49666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tivoli_City_Park",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ljubljana_%28322%29_%283896844335%29.jpg/800px-Ljubljana_%28322%29_%283896844335%29.jpg",
+      "description_short": "Tivoli City Park — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Celje Castle",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 46.21972222,
+      "longitude": 15.27166667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Celje_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Celje_Castle_panorama.jpg",
+      "description_short": "Celje Castle — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Mirna",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 45.94755278,
+      "longitude": 15.0664,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mirna%2C_Mirna",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mirna_-_panorama_od_cerkve_sv._Helene.jpg/800px-Mirna_-_panorama_od_cerkve_sv._Helene.jpg",
+      "description_short": "Mirna, Mirna — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Raka",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 45.92853889,
+      "longitude": 15.38230556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Raka%2C_Kr%C5%A1ko",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Raka.jpg/800px-Raka.jpg",
+      "description_short": "Raka, Krško — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Soteska",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 45.78125556,
+      "longitude": 15.02275,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Soteska%2C_Dolenjske_Toplice",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Soteska%2C_Dolenjske_Toplice_-_pogled_z_mosta_%C4%8Dez_Krko.jpg/800px-Soteska%2C_Dolenjske_Toplice_-_pogled_z_mosta_%C4%8Dez_Krko.jpg",
+      "description_short": "Soteska, Dolenjske Toplice — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Otočec Castle",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 45.83777778,
+      "longitude": 15.23472222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oto%C4%8Dec_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Castle_Oto%C4%8Dec_-_Slovenia_-_panoramio_%281%29.jpg/800px-Castle_Oto%C4%8Dec_-_Slovenia_-_panoramio_%281%29.jpg",
+      "description_short": "Otočec Castle — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Krško",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 45.95,
+      "longitude": 15.48333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kr%C5%A1ko",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Darja_Gramc_Kav%C4%8Di%C4%8D_-_Panorama_Videm-Kr%C5%A1ko.jpg/800px-Darja_Gramc_Kav%C4%8Di%C4%8D_-_Panorama_Videm-Kr%C5%A1ko.jpg",
+      "description_short": "Krško — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Diocese of Novo Mesto",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 45.80347222,
+      "longitude": 15.166875,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Diocese_of_Novo_Mesto",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kapiteljska_cerkev_%2845798232335%29.jpg/800px-Kapiteljska_cerkev_%2845798232335%29.jpg",
+      "description_short": "Diocese of Novo Mesto — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Dolž",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 45.76001667,
+      "longitude": 15.24886389,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dol%C5%BE",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dol%C5%BE_panorama.jpg/800px-Dol%C5%BE_panorama.jpg",
+      "description_short": "Dolž — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Srednje Grčevje",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 45.85613333,
+      "longitude": 15.19328056,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Srednje_Gr%C4%8Devje",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Cerkev_sv._Jurija%2C_Srednje_Gr%C4%8Devje%2C_Slovenija.jpg/800px-Cerkev_sv._Jurija%2C_Srednje_Gr%C4%8Devje%2C_Slovenija.jpg",
+      "description_short": "Srednje Grčevje — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Trška Gora",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 45.84321667,
+      "longitude": 15.18061667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tr%C5%A1ka_Gora%2C_Novo_Mesto",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Sevno%2C_Novo_mesto_2.jpg/800px-Sevno%2C_Novo_mesto_2.jpg",
+      "description_short": "Trška Gora, Novo Mesto — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Uršna Sela",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 45.7173,
+      "longitude": 15.12471389,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ur%C5%A1na_Sela",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ur%C5%A1na_sela.jpg/800px-Ur%C5%A1na_sela.jpg",
+      "description_short": "Uršna Sela — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Šmihel pri Novem Mestu",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 45.79175833,
+      "longitude": 15.16797222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%A0mihel_pri_Novem_Mestu",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/%C5%A0mihel%2C_Novo_mesto.jpg/800px-%C5%A0mihel%2C_Novo_mesto.jpg",
+      "description_short": "Šmihel pri Novem Mestu — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Zajčji Vrh pri Stopičah",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 45.772,
+      "longitude": 15.24158889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Zaj%C4%8Dji_Vrh_pri_Stopi%C4%8Dah",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Zaj%C4%8Dji_Vrh_pri_Stopi%C4%8Dah_panorama.jpg/800px-Zaj%C4%8Dji_Vrh_pri_Stopi%C4%8Dah_panorama.jpg",
+      "description_short": "Zajčji Vrh pri Stopičah — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Gabrje",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 45.77833611,
+      "longitude": 15.26543056,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gabrje%2C_Novo_Mesto",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Gabrje%2C_Novo_mesto1.jpg/800px-Gabrje%2C_Novo_mesto1.jpg",
+      "description_short": "Gabrje, Novo Mesto — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Gorenje Kamence",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 45.83569722,
+      "longitude": 15.14043056,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gorenje_Kamence",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gorenje_Kamence.jpg/800px-Gorenje_Kamence.jpg",
+      "description_short": "Gorenje Kamence — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Podgrad",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 45.73419722,
+      "longitude": 15.20056389,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Podgrad%2C_Novo_Mesto",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sv._Marija%2C_Podgrad_na_Gorjancih.jpg/800px-Sv._Marija%2C_Podgrad_na_Gorjancih.jpg",
+      "description_short": "Podgrad, Novo Mesto — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Stranska Vas",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 45.759,
+      "longitude": 15.16530278,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Stranska_Vas%2C_Novo_Mesto",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Stranska_vas_2.jpg/800px-Stranska_vas_2.jpg",
+      "description_short": "Stranska Vas, Novo Mesto — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Velike Brusnice",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 45.80974722,
+      "longitude": 15.26131111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Velike_Brusnice",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Velike_Brusnice_2.jpg/800px-Velike_Brusnice_2.jpg",
+      "description_short": "Velike Brusnice — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Veliki Slatnik",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 45.79479444,
+      "longitude": 15.22741111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Veliki_Slatnik",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Veliki_Slatnik%2C_Novo_mesto%2C_Slovenia.jpg/800px-Veliki_Slatnik%2C_Novo_mesto%2C_Slovenia.jpg",
+      "description_short": "Veliki Slatnik — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Novo Mesto Cathedral",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 45.8034,
+      "longitude": 15.1669,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Novo_Mesto_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kapiteljska_cerkev_%2845798232335%29.jpg/800px-Kapiteljska_cerkev_%2845798232335%29.jpg",
+      "description_short": "Novo Mesto Cathedral — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Gotna Vas",
+      "city": "Novo Mesto",
+      "region": "Slovenia",
+      "latitude": 45.79166667,
+      "longitude": 15.17944444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gotna_Vas",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gotna_vas%2C_Novo_mesto.jpg/800px-Gotna_vas%2C_Novo_mesto.jpg",
+      "description_short": "Gotna Vas — a notable landmark in Novo Mesto, Slovenia.",
+      "keywords": [
+        "Novo Mesto",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Carinthia (Slovenia)",
+      "city": "Velenje",
+      "region": "Slovenia",
+      "latitude": 46.53333333,
+      "longitude": 15.16666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Carinthia_(Slovenia)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Topla-kmetija.JPG/800px-Topla-kmetija.JPG",
+      "description_short": "Carinthia (Slovenia) — a notable landmark in Velenje, Slovenia.",
+      "keywords": [
+        "Velenje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Velenje",
+      "city": "Velenje",
+      "region": "Slovenia",
+      "latitude": 46.3625,
+      "longitude": 15.11444444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Velenje",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Velenjski_grad_iz_zraka.jpg/800px-Velenjski_grad_iz_zraka.jpg",
+      "description_short": "Velenje — a notable landmark in Velenje, Slovenia.",
+      "keywords": [
+        "Velenje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Šoštanj",
+      "city": "Velenje",
+      "region": "Slovenia",
+      "latitude": 46.37976667,
+      "longitude": 15.04823611,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%A0o%C5%A1tanj",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sostanj%2C_Trg_bratov_Mravljakov_03.jpg/800px-Sostanj%2C_Trg_bratov_Mravljakov_03.jpg",
+      "description_short": "Šoštanj — a notable landmark in Velenje, Slovenia.",
+      "keywords": [
+        "Velenje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Pivka Park of Military History",
+      "city": "Velenje",
+      "region": "Slovenia",
+      "latitude": 45.66787222,
+      "longitude": 14.18888611,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pivka_Park_of_Military_History",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/SLO_%E2%80%94_Primorsko-notranjska_Pivka_%E2%80%94_Kolodvorska_cesta_51_%28Park_voja%C5%A1ke_zgodovine_Pivka%29_2020.JPG/800px-SLO_%E2%80%94_Primorsko-notranjska_Pivka_%E2%80%94_Kolodvorska_cesta_51_%28Park_voja%C5%A1ke_zgodovine_Pivka%29_2020.JPG",
+      "description_short": "Pivka Park of Military History — a notable landmark in Velenje, Slovenia.",
+      "keywords": [
+        "Velenje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Mislinja (settlement)",
+      "city": "Velenje",
+      "region": "Slovenia",
+      "latitude": 46.44305556,
+      "longitude": 15.19305556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mislinja_(settlement)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Mislinja_panorama.jpg/800px-Mislinja_panorama.jpg",
+      "description_short": "Mislinja (settlement) — a notable landmark in Velenje, Slovenia.",
+      "keywords": [
+        "Velenje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Boč",
+      "city": "Velenje",
+      "region": "Slovenia",
+      "latitude": 46.28938333,
+      "longitude": 15.5996,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bo%C4%8D",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bo%C4%8D_2.JPG/800px-Bo%C4%8D_2.JPG",
+      "description_short": "Boč — a notable landmark in Velenje, Slovenia.",
+      "keywords": [
+        "Velenje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Arnače",
+      "city": "Velenje",
+      "region": "Slovenia",
+      "latitude": 46.33922778,
+      "longitude": 15.11795833,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Arna%C4%8De",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Arnace1.jpg/800px-Arnace1.jpg",
+      "description_short": "Arnače — a notable landmark in Velenje, Slovenia.",
+      "keywords": [
+        "Velenje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Šenbric",
+      "city": "Velenje",
+      "region": "Slovenia",
+      "latitude": 46.38221944,
+      "longitude": 15.13274444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%A0enbric",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Senbric-cerkev.jpg/800px-Senbric-cerkev.jpg",
+      "description_short": "Šenbric — a notable landmark in Velenje, Slovenia.",
+      "keywords": [
+        "Velenje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Barbara Pit massacre",
+      "city": "Velenje",
+      "region": "Slovenia",
+      "latitude": 46.15873889,
+      "longitude": 15.18618889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Barbara_Pit_massacre",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Barbara_Pit_massacre.jpg/800px-Barbara_Pit_massacre.jpg",
+      "description_short": "Barbara Pit massacre — a notable landmark in Velenje, Slovenia.",
+      "keywords": [
+        "Velenje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Nova Cerkev",
+      "city": "Velenje",
+      "region": "Slovenia",
+      "latitude": 46.31319722,
+      "longitude": 15.28617778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nova_Cerkev",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Postcard_of_Nova_Cerkev.jpg/800px-Postcard_of_Nova_Cerkev.jpg",
+      "description_short": "Nova Cerkev — a notable landmark in Velenje, Slovenia.",
+      "keywords": [
+        "Velenje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Andraž nad Polzelo",
+      "city": "Velenje",
+      "region": "Slovenia",
+      "latitude": 46.31919167,
+      "longitude": 15.08648889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Andra%C5%BE_nad_Polzelo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Andraz_nad_Polzelo_Slovenia.jpg/800px-Andraz_nad_Polzelo_Slovenia.jpg",
+      "description_short": "Andraž nad Polzelo — a notable landmark in Velenje, Slovenia.",
+      "keywords": [
+        "Velenje",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Zagreb",
+      "city": "Nova Gorica",
+      "region": "Slovenia",
+      "latitude": 45.81305556,
+      "longitude": 15.9775,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Zagreb",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zagreb_%2829255640143%29.jpg/800px-Zagreb_%2829255640143%29.jpg",
+      "description_short": "Zagreb — a notable landmark in Nova Gorica, Slovenia.",
+      "keywords": [
+        "Nova Gorica",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Trieste",
+      "city": "Nova Gorica",
+      "region": "Slovenia",
+      "latitude": 45.65027778,
+      "longitude": 13.77027778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Trieste",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Trieste_%2828766391880%29.jpg/800px-Trieste_%2828766391880%29.jpg",
+      "description_short": "Trieste — a notable landmark in Nova Gorica, Slovenia.",
+      "keywords": [
+        "Nova Gorica",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Gorizia",
+      "city": "Nova Gorica",
+      "region": "Slovenia",
+      "latitude": 45.93333333,
+      "longitude": 13.61666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gorizia",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gorizia-Gorica.JPG/800px-Gorizia-Gorica.JPG",
+      "description_short": "Gorizia — a notable landmark in Nova Gorica, Slovenia.",
+      "keywords": [
+        "Nova Gorica",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "National and University Library of Slovenia",
+      "city": "Nova Gorica",
+      "region": "Slovenia",
+      "latitude": 46.0469,
+      "longitude": 14.5039,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/National_and_University_Library_of_Slovenia",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/National_Library_Ljubljana_2010.jpg/800px-National_Library_Ljubljana_2010.jpg",
+      "description_short": "National and University Library of Slovenia — a notable landmark in Nova Gorica, Slovenia.",
+      "keywords": [
+        "Nova Gorica",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Slovenian Philharmonic Orchestra",
+      "city": "Nova Gorica",
+      "region": "Slovenia",
+      "latitude": 46.04944444,
+      "longitude": 14.50472222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Slovenian_Philharmonic_Orchestra",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ljubljana_BW_2014-10-09_13-57-30.jpg/800px-Ljubljana_BW_2014-10-09_13-57-30.jpg",
+      "description_short": "Slovenian Philharmonic Orchestra — a notable landmark in Nova Gorica, Slovenia.",
+      "keywords": [
+        "Nova Gorica",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Rooster Bridge",
+      "city": "Nova Gorica",
+      "region": "Slovenia",
+      "latitude": 46.04341944,
+      "longitude": 14.50356667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rooster_Bridge",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Rooster_Bridge_Ljubljana.jpg/800px-Rooster_Bridge_Ljubljana.jpg",
+      "description_short": "Rooster Bridge — a notable landmark in Nova Gorica, Slovenia.",
+      "keywords": [
+        "Nova Gorica",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Trnovo Bridge",
+      "city": "Nova Gorica",
+      "region": "Slovenia",
+      "latitude": 46.0434,
+      "longitude": 14.502,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Trnovo_Bridge",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Le_pont_et_l%27%C3%A9glise_de_Trnovo_%28Ljubljana%29_%289397818425%29.jpg/800px-Le_pont_et_l%27%C3%A9glise_de_Trnovo_%28Ljubljana%29_%289397818425%29.jpg",
+      "description_short": "Trnovo Bridge — a notable landmark in Nova Gorica, Slovenia.",
+      "keywords": [
+        "Nova Gorica",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Ljubljana Slovene National Theatre Drama",
+      "city": "Nova Gorica",
+      "region": "Slovenia",
+      "latitude": 46.048868,
+      "longitude": 14.501207,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ljubljana_Slovene_National_Theatre_Drama",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/SNG_Drama.jpg/800px-SNG_Drama.jpg",
+      "description_short": "Ljubljana Slovene National Theatre Drama — a notable landmark in Nova Gorica, Slovenia.",
+      "keywords": [
+        "Nova Gorica",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Republic Square (Ljubljana)",
+      "city": "Nova Gorica",
+      "region": "Slovenia",
+      "latitude": 46.05074722,
+      "longitude": 14.50035556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Republic_Square_(Ljubljana)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ljubljana%2C_Trg_republike_%281%29.jpg/800px-Ljubljana%2C_Trg_republike_%281%29.jpg",
+      "description_short": "Republic Square (Ljubljana) — a notable landmark in Nova Gorica, Slovenia.",
+      "keywords": [
+        "Nova Gorica",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Fužine (Ljubljana)",
+      "city": "Nova Gorica",
+      "region": "Slovenia",
+      "latitude": 46.04916667,
+      "longitude": 14.56388889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fu%C5%BEine_(Ljubljana)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fuzine_Ljubljana_Slovenia_1.jpg/800px-Fuzine_Ljubljana_Slovenia_1.jpg",
+      "description_short": "Fužine (Ljubljana) — a notable landmark in Nova Gorica, Slovenia.",
+      "keywords": [
+        "Nova Gorica",
+        "Slovenia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    }
+  ],
+  "adventure_locations": [
+    {
+      "name": "Brdo Castle near Kranj",
+      "region": "Slovenia",
+      "latitude": 46.273025,
+      "longitude": 14.37690278,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Brdo_Castle_near_Kranj",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Grad_Brdo_pri_Kranju_%28Brdo_Castle%29.jpg/800px-Grad_Brdo_pri_Kranju_%28Brdo_Castle%29.jpg",
+      "description_short": "Brdo Castle near Kranj — a must-see landmark on a Slovenia road trip.",
+      "keywords": [
+        "Brdo Castle near Kranj",
+        "Slovenia",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 90
+    },
+    {
+      "name": "Bled Castle",
+      "region": "Slovenia",
+      "latitude": 46.36972222,
+      "longitude": 14.10055556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bled_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/The_Great_Bled_Castle.jpg/800px-The_Great_Bled_Castle.jpg",
+      "description_short": "Bled Castle — a must-see landmark on a Slovenia road trip.",
+      "keywords": [
+        "Bled Castle",
+        "Slovenia",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 89
+    },
+    {
+      "name": "Ljubljana Castle",
+      "region": "Slovenia",
+      "latitude": 46.04888889,
+      "longitude": 14.50833333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ljubljana_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ljubljanski_grad_in_Grajski_gri%C4%8D.jpg/800px-Ljubljanski_grad_in_Grajski_gri%C4%8D.jpg",
+      "description_short": "Ljubljana Castle — a must-see landmark on a Slovenia road trip.",
+      "keywords": [
+        "Ljubljana Castle",
+        "Slovenia",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 88
+    },
+    {
+      "name": "Predjama Castle",
+      "region": "Slovenia",
+      "latitude": 45.81527778,
+      "longitude": 14.12666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Predjama_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/H%C3%B6hlenburg_Predjama_in_Slovenien.jpg/800px-H%C3%B6hlenburg_Predjama_in_Slovenien.jpg",
+      "description_short": "Predjama Castle — a must-see landmark on a Slovenia road trip.",
+      "keywords": [
+        "Predjama Castle",
+        "Slovenia",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 87
+    },
+    {
+      "name": "Celje Castle",
+      "region": "Slovenia",
+      "latitude": 46.21972222,
+      "longitude": 15.27166667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Celje_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Celje_Castle_panorama.jpg",
+      "description_short": "Celje Castle — a must-see landmark on a Slovenia road trip.",
+      "keywords": [
+        "Celje Castle",
+        "Slovenia",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 86
+    },
+    {
+      "name": "Ptuj Castle",
+      "region": "Slovenia",
+      "latitude": 46.42098889,
+      "longitude": 15.86792778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ptuj_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ptuj_en_1687.PNG/800px-Ptuj_en_1687.PNG",
+      "description_short": "Ptuj Castle — a must-see landmark on a Slovenia road trip.",
+      "keywords": [
+        "Ptuj Castle",
+        "Slovenia",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Strmol Castle",
+      "region": "Slovenia",
+      "latitude": 46.26473333,
+      "longitude": 14.47905278,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Strmol_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Grad_Strmol_02.jpg/800px-Grad_Strmol_02.jpg",
+      "description_short": "Strmol Castle — a must-see landmark on a Slovenia road trip.",
+      "keywords": [
+        "Strmol Castle",
+        "Slovenia",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 84
+    },
+    {
+      "name": "Branik Castle",
+      "region": "Slovenia",
+      "latitude": 45.8512,
+      "longitude": 13.7918,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Branik_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Branik02.jpg/800px-Branik02.jpg",
+      "description_short": "Branik Castle — a must-see landmark on a Slovenia road trip.",
+      "keywords": [
+        "Branik Castle",
+        "Slovenia",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 83
+    },
+    {
+      "name": "Snežnik Castle",
+      "region": "Slovenia",
+      "latitude": 45.68283889,
+      "longitude": 14.46931667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sne%C5%BEnik_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Grad_Sneznik01.jpg",
+      "description_short": "Snežnik Castle — a must-see landmark on a Slovenia road trip.",
+      "keywords": [
+        "Snežnik Castle",
+        "Slovenia",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 82
+    },
+    {
+      "name": "Bogenšperk Castle",
+      "region": "Slovenia",
+      "latitude": 46.02353056,
+      "longitude": 14.85744722,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bogen%C5%A1perk_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bogen%C5%A1perk_vhodna_stran.JPG/800px-Bogen%C5%A1perk_vhodna_stran.JPG",
+      "description_short": "Bogenšperk Castle — a must-see landmark on a Slovenia road trip.",
+      "keywords": [
+        "Bogenšperk Castle",
+        "Slovenia",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 81
+    }
+  ],
+  "country_cover_image": {
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Bled_jezero_m.jpg",
+    "image_source": "Wikimedia Commons",
+    "image_license": "CC BY-SA 3.0",
+    "description": "Iconic aerial panoramic view of Lake Bled with the island church and the medieval castle against the backdrop of the snow-capped Julian Alps."
+  }
+}

@@ -1,0 +1,4420 @@
+{
+  "country": "United Kingdom",
+  "cities": [
+    {
+      "name": "London"
+    },
+    {
+      "name": "Edinburgh"
+    },
+    {
+      "name": "Bath"
+    },
+    {
+      "name": "York"
+    },
+    {
+      "name": "Oxford"
+    },
+    {
+      "name": "Cambridge"
+    },
+    {
+      "name": "Liverpool"
+    },
+    {
+      "name": "Manchester"
+    },
+    {
+      "name": "Belfast"
+    },
+    {
+      "name": "Cardiff"
+    }
+  ],
+  "attractions": [
+    {
+      "country": "United Kingdom",
+      "city": "London",
+      "region": "England",
+      "name": "The London Eye",
+      "latitude": 51.5033,
+      "longitude": -0.1195,
+      "google_maps_url": "https://www.google.com/maps?q=51.5033,-0.1195",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/London_Eye",
+      "wikidata_id": "Q170364",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/London_Eye_London_Jan_2006.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "London Eye Guide | Panoramic Capital Skyline Views",
+      "seo_description": "Plan your visit to the London Eye. Experience panoramic views over the River Thames and historic capital monuments.",
+      "description_short": "A giant observation wheel located on the South Bank of the Thames.",
+      "description_long": "Opened in 2000 to mark the millennium, this structural masterpiece offers spectacular 360-degree views. It stands 135 meters tall and has become an iconic symbol of modern London architecture.",
+      "keywords": [
+        "London Eye",
+        "Thames wheel",
+        "London observation deck"
+      ],
+      "long_tail_keywords": [
+        "best views of London skyline",
+        "London Eye visitor tickets guide"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 95,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Big Ben",
+        "Sea Life London"
+      ],
+      "related_attractions": [
+        "The Shard"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "London",
+      "region": "England",
+      "name": "Big Ben and Palace of Westminster",
+      "latitude": 51.5007,
+      "longitude": -0.1246,
+      "google_maps_url": "https://www.google.com/maps?q=51.5007,-0.1246",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Big_Ben",
+      "wikidata_id": "Q25290",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Clock_Tower_-Palace_of_Westminster%2C_London-_May_2007.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 2.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Big Ben Westminster | Iconic British Landmark Guide",
+      "seo_description": "Explore Big Ben and the historic Palace of Westminster. Discover the rich political heritage of the United Kingdom.",
+      "description_short": "The famous neo-Gothic clock tower and seat of the British Parliament.",
+      "description_long": "Completed in 1859, the Elizabeth Tower holds the massive bell known worldwide as Big Ben. Designed by Charles Barry and Augustus Pugin, it stands as a universal symbol of British democracy.",
+      "keywords": [
+        "Big Ben",
+        "Palace of Westminster",
+        "Houses of Parliament"
+      ],
+      "long_tail_keywords": [
+        "historic Westminster clock tower",
+        "visiting Parliament London tips"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 98,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "London Eye",
+        "Westminster Bridge"
+      ],
+      "related_attractions": [
+        "Tower Bridge"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "London",
+      "region": "England",
+      "name": "Tower Bridge",
+      "latitude": 51.5055,
+      "longitude": -0.0754,
+      "google_maps_url": "https://www.google.com/maps?q=51.5055,-0.0754",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tower_Bridge",
+      "wikidata_id": "Q83022",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tower_Bridge_from_Shad_Thames_London_Jan_2006.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Tower Bridge London | Victorian Engineering Landmark",
+      "seo_description": "Discover Tower Bridge in London. Learn about its Victorian engineering history and walk across the high-level glass floors.",
+      "description_short": "An iconic combined bascule and suspension bridge over the River Thames.",
+      "description_long": "Built between 1886 and 1894, this architectural marvel was designed to ease road traffic while maintaining river access to London's busy docks. Its high-level walkways offer incredible river panoramas.",
+      "keywords": [
+        "Tower Bridge",
+        "London bridges",
+        "Thames crossing"
+      ],
+      "long_tail_keywords": [
+        "Victorian architecture Tower Bridge",
+        "Tower Bridge glass floor experience"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 94,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Tower of London",
+        "The Shard"
+      ],
+      "related_attractions": [
+        "London Eye"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "London",
+      "region": "England",
+      "name": "Trafalgar Square",
+      "latitude": 51.508,
+      "longitude": -0.1281,
+      "google_maps_url": "https://www.google.com/maps?q=51.5080,-0.1281",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Trafalgar_Square",
+      "wikidata_id": "Q128704",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Trafalgar_Square_London_Nov_2005.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Trafalgar Square Guide | Historic Cultural Central Hub",
+      "seo_description": "Visit Trafalgar Square in central London. See Nelson's Column, the famous stone lions, and the National Gallery.",
+      "description_short": "A historic public square in the heart of Westminster.",
+      "description_long": "Designed by John Nash and opened in 1844, the square commemorates the British naval victory at the Battle of Trafalgar. It serves as a vibrant public space for celebrations and political rallies.",
+      "keywords": [
+        "Trafalgar Square",
+        "Nelson's Column",
+        "London plazas"
+      ],
+      "long_tail_keywords": [
+        "things to see in Trafalgar Square",
+        "central London historic squares"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 88,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "National Gallery",
+        "Covent Garden"
+      ],
+      "related_attractions": [
+        "Piccadilly Circus"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "London",
+      "region": "England",
+      "name": "The British Museum",
+      "latitude": 51.5194,
+      "longitude": -0.127,
+      "google_maps_url": "https://www.google.com/maps?q=51.5194,-0.1270",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/British_Museum",
+      "wikidata_id": "Q6373",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/British_Museum_from_NE_2.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 2.5",
+      "season_tags": [
+        "winter",
+        "autumn",
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "British Museum London | World History & Antiquities",
+      "seo_description": "Explore the world-famous British Museum. Discover global history, human culture, and remarkable ancient art exhibits.",
+      "description_short": "A public museum dedicated to human history, art, and culture.",
+      "description_long": "Established in 1753, it was the first national public museum in the world. It houses a vast permanent collection of historic artifacts documenting the story of human culture from its beginnings to the present.",
+      "keywords": [
+        "British Museum",
+        "London museums",
+        "ancient artifacts"
+      ],
+      "long_tail_keywords": [
+        "free museums in London to visit",
+        "British Museum history collection"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 96,
+      "topical_depth_score": 10,
+      "nearby_attractions": [
+        "Covent Garden",
+        "Russell Square"
+      ],
+      "related_attractions": [
+        "National Gallery"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "London",
+      "region": "England",
+      "name": "Hyde Park",
+      "latitude": 51.5073,
+      "longitude": -0.1657,
+      "google_maps_url": "https://www.google.com/maps?q=51.5073,-0.1657",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hyde_Park,_London",
+      "wikidata_id": "Q123738",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Serpentine_Hyde_Park_London_Aug_2004.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Hyde Park Travel Guide | Historic Royal Green Space",
+      "seo_description": "Relax in Hyde Park, one of London's largest Royal Parks. Discover the Serpentine lake and Speaker's Corner.",
+      "description_short": "A major Royal Park in central London offering vast green spaces.",
+      "description_long": "Established by King Henry VIII in 1536 for hunting, it opened to the public in the early 17th century. It remains a premier destination for leisure, boating, and major open-air summer concerts.",
+      "keywords": [
+        "Hyde Park",
+        "London Royal Parks",
+        "Serpentine lake"
+      ],
+      "long_tail_keywords": [
+        "boating in Hyde Park tips",
+        "outdoor things to do in London"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 90,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Kensington Gardens",
+        "Green Park"
+      ],
+      "related_attractions": [
+        "Regent's Park"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "London",
+      "region": "England",
+      "name": "Covent Garden Market",
+      "latitude": 51.5117,
+      "longitude": -0.124,
+      "google_maps_url": "https://www.google.com/maps?q=51.5117,-0.1240",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Covent_Garden",
+      "wikidata_id": "Q185111",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Covent_Garden_Market_Building_2.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Covent Garden Shopping | Street Performers & Dining",
+      "seo_description": "Experience Covent Garden's vibrant market building, boutique shopping, open-air cafes, and world-class street theatre.",
+      "description_short": "A popular shopping and entertainment hub in the West End.",
+      "description_long": "Once a famed fruit and vegetable market in the 17th century designed by Inigo Jones, it has evolved into a stylish pedestrian complex known for artisanal crafts, dining, and live street performances.",
+      "keywords": [
+        "Covent Garden",
+        "London markets",
+        "West End shopping"
+      ],
+      "long_tail_keywords": [
+        "Covent Garden street performers schedule",
+        "best places to eat in West End"
+      ],
+      "search_intent": "commercial",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 89,
+      "topical_depth_score": 6,
+      "nearby_attractions": [
+        "Trafalgar Square",
+        "British Museum"
+      ],
+      "related_attractions": [
+        "Borough Market"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "London",
+      "region": "England",
+      "name": "St James's Park",
+      "latitude": 51.5025,
+      "longitude": -0.1348,
+      "google_maps_url": "https://www.google.com/maps?q=51.5025,-0.1348",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St_James%27s_Park",
+      "wikidata_id": "Q216930",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/St_James%27s_Park_London_W_Aug_2004.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "St James's Park Visit | Royal Wildlife & Lake Walk",
+      "seo_description": "Visit St James's Park near Buckingham Palace. Enjoy scenic lake views, flower beds, and the famous resident pelicans.",
+      "description_short": "The oldest Royal Park in London, featuring a stunning central lake.",
+      "description_long": "Acquired by Henry VIII in 1532, it was landscaped elegantly by John Nash in the 1820s. It offers magnificent vistas of Buckingham Palace and serves as a wildlife haven in central London.",
+      "keywords": [
+        "St James's Park",
+        "Buckingham Palace park",
+        "London pelicans"
+      ],
+      "long_tail_keywords": [
+        "walk from St James Park to Buckingham Palace",
+        "scenic walking spots central London"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 87,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Palace of Westminster",
+        "Green Park"
+      ],
+      "related_attractions": [
+        "Hyde Park"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "London",
+      "region": "England",
+      "name": "Piccadilly Circus",
+      "latitude": 51.5101,
+      "longitude": -0.1349,
+      "google_maps_url": "https://www.google.com/maps?q=51.5101,-0.1349",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Piccadilly_Circus",
+      "wikidata_id": "Q215255",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Piccadilly_Circus_London_Jan_2006.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Piccadilly Circus Guide | Neon Lights & Theater District",
+      "seo_description": "Explore Piccadilly Circus, the bustling public junction famous for iconic neon signs, shopping, and the Shaftesbury Memorial Fountain.",
+      "description_short": "A famous road junction and public space in London's West End.",
+      "description_long": "Created in 1819 to connect Regent Street with Piccadilly, this vibrant hub is celebrated for its historic video displays and the famous statue of Anteros, often referred to colloquially as Eros.",
+      "keywords": [
+        "Piccadilly Circus",
+        "Eros statue",
+        "London neon signs"
+      ],
+      "long_tail_keywords": [
+        "visiting Piccadilly Circus at night",
+        "West End theater district hub"
+      ],
+      "search_intent": "navigational",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 85,
+      "topical_depth_score": 6,
+      "nearby_attractions": [
+        "Trafalgar Square",
+        "Covent Garden"
+      ],
+      "related_attractions": [
+        "Leicester Square"
+      ],
+      "internal_link_priority": "low"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "London",
+      "region": "England",
+      "name": "Borough Market",
+      "latitude": 51.5054,
+      "longitude": -0.091,
+      "google_maps_url": "https://www.google.com/maps?q=51.5054,-0.0910",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Borough_Market",
+      "wikidata_id": "Q894122",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Borough_Market_London_July_2005.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Borough Market Guide | Historic London Food Market",
+      "seo_description": "Discover Borough Market, London's oldest gourmet food market. Taste exceptional local produce, street food, and artisan delicacies.",
+      "description_short": "A historic wholesale and retail food market in Southwark.",
+      "description_long": "With origins dating back to the 12th century, the market occupies a historic Art Deco building. It is a premier culinary destination showcasing sustainable international and British food cultures.",
+      "keywords": [
+        "Borough Market",
+        "London food market",
+        "Southwark street food"
+      ],
+      "long_tail_keywords": [
+        "best food stalls Borough Market",
+        "historic markets in south London"
+      ],
+      "search_intent": "commercial",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 92,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "The Shard",
+        "London Bridge"
+      ],
+      "related_attractions": [
+        "Covent Garden Market"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Edinburgh",
+      "region": "Scotland",
+      "name": "Edinburgh Castle",
+      "latitude": 55.9486,
+      "longitude": -3.1999,
+      "google_maps_url": "https://www.google.com/maps?q=55.9486,-3.1999",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Edinburgh_Castle",
+      "wikidata_id": "Q212065",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Edinburgh_Castle_from_the_south-west.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Edinburgh Castle Guide | Historic Scottish Fortress Sights",
+      "seo_description": "Explore Edinburgh Castle, the magnificent fortress dominating the city skyline. Learn about royal history and historic crown jewels.",
+      "description_short": "A historic fortress built high upon a volcanic Castle Rock.",
+      "description_long": "Dating back to the 12th century under King David I, this Royal stronghold has withstood numerous historic sieges. It houses the Honors of Scotland, the nation's precious crown jewels.",
+      "keywords": [
+        "Edinburgh Castle",
+        "Scottish fortresses",
+        "Castle Rock"
+      ],
+      "long_tail_keywords": [
+        "visiting Edinburgh Castle tickets",
+        "historic castles in Scotland guide"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 98,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Royal Mile",
+        "Princes Street Gardens"
+      ],
+      "related_attractions": [
+        "Holyrood Palace"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Edinburgh",
+      "region": "Scotland",
+      "name": "The Royal Mile",
+      "latitude": 55.9504,
+      "longitude": -3.1853,
+      "google_maps_url": "https://www.google.com/maps?q=55.9504,-3.1853",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Royal_Mile",
+      "wikidata_id": "Q1046909",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/The_Royal_Mile%2C_Edinburgh.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "The Royal Mile Edinburgh | Old Town Historic Walk",
+      "seo_description": "Stroll down the Royal Mile in Edinburgh's historic Old Town. Discover historic stone closes, traditional pubs, and architecture.",
+      "description_short": "A historic succession of streets forming the main thoroughfare of the Old Town.",
+      "description_long": "Connecting Edinburgh Castle with Holyrood Palace, this historic stretch is lined with beautiful tenement buildings, subterranean passages, and remarkable landmarks reflecting centuries of Scottish history.",
+      "keywords": [
+        "Royal Mile",
+        "Edinburgh Old Town",
+        "historic streets Scotland"
+      ],
+      "long_tail_keywords": [
+        "things to see on the Royal Mile",
+        "Edinburgh historic walking tours"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 95,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Edinburgh Castle",
+        "St Giles' Cathedral"
+      ],
+      "related_attractions": [
+        "Grassmarket"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Edinburgh",
+      "region": "Scotland",
+      "name": "Calton Hill",
+      "latitude": 55.9544,
+      "longitude": -3.1825,
+      "google_maps_url": "https://www.google.com/maps?q=55.9544,-3.1825",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Calton_Hill",
+      "wikidata_id": "Q1027734",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Calton_Hill_Edinburgh_A.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Calton Hill Edinburgh | Athenian Monuments & Views",
+      "seo_description": "Visit Calton Hill for unmatched panoramic views of Edinburgh. See the National Monument and Nelson Monument.",
+      "description_short": "A hill in central Edinburgh included in the UNESCO World Heritage Site.",
+      "description_long": "Home to striking neoclassical monuments inspired by Athens, including the unfinished National Monument started in 1822, this prominent hill provides unforgettable panoramic photography spots overlooking the city.",
+      "keywords": [
+        "Calton Hill",
+        "Edinburgh viewpoints",
+        "National Monument Scotland"
+      ],
+      "long_tail_keywords": [
+        "best sunset spots in Edinburgh",
+        "photographing Calton Hill monuments"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 93,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Princes Street",
+        "Royal Mile"
+      ],
+      "related_attractions": [
+        "Arthur's Seat"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Edinburgh",
+      "region": "Scotland",
+      "name": "Princes Street Gardens",
+      "latitude": 55.9497,
+      "longitude": -3.2012,
+      "google_maps_url": "https://www.google.com/maps?q=55.9497,-3.2012",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Princes_Street_Gardens",
+      "wikidata_id": "Q2110292",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Princes_Street_Gardens_and_the_Castle.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Princes Street Gardens | Urban Oasis Below the Castle",
+      "seo_description": "Walk through Princes Street Gardens in Edinburgh. Enjoy pristine landscapes, historic statues, and beautiful castle views.",
+      "description_short": "A beautiful public park separating the Old and New Towns.",
+      "description_long": "Created in the 1820s following the draining of the old Nor Loch, these manicured gardens offer a lush green oasis directly beneath the dramatic cliffs of Edinburgh Castle.",
+      "keywords": [
+        "Princes Street Gardens",
+        "Edinburgh parks",
+        "Nor Loch history"
+      ],
+      "long_tail_keywords": [
+        "scenic walks in Edinburgh city center",
+        "Princes Street park castle views"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 89,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Scott Monument",
+        "Edinburgh Castle"
+      ],
+      "related_attractions": [
+        "Royal Botanic Garden"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Edinburgh",
+      "region": "Scotland",
+      "name": "Palace of Holyroodhouse",
+      "latitude": 55.9527,
+      "longitude": -3.1722,
+      "google_maps_url": "https://www.google.com/maps?q=55.9527,-3.1722",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Palace_of_Holyroodhouse",
+      "wikidata_id": "Q505934",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Holyrood_Palace_Edinburgh_20060905.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Palace of Holyroodhouse | Royal Residence History",
+      "seo_description": "Visit Holyrood Palace, the official royal residence in Scotland. Explore the historic state apartments and Mary, Queen of Scots' rooms.",
+      "description_short": "The elegant official residence of the British monarch in Scotland.",
+      "description_long": "Founded as a monastery in 1128, this grand palace has served as the principal seat of Scottish kings and queens since the 16th century, filled with incredible royal treasures.",
+      "keywords": [
+        "Holyrood Palace",
+        "Royal residences Scotland",
+        "Mary Queen of Scots"
+      ],
+      "long_tail_keywords": [
+        "visiting Holyrood Palace apartments",
+        "royal history attractions Edinburgh"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 94,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Royal Mile",
+        "Scottish Parliament Building"
+      ],
+      "related_attractions": [
+        "Edinburgh Castle"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Edinburgh",
+      "region": "Scotland",
+      "name": "Scottish National Gallery",
+      "latitude": 55.9509,
+      "longitude": -3.1957,
+      "google_maps_url": "https://www.google.com/maps?q=55.9509,-3.1957",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Scottish_National_Gallery",
+      "wikidata_id": "Q942732",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/National_Gallery_of_Scotland_from_the_NE.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "winter",
+        "autumn",
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Scottish National Gallery | Fine Art Museum Guide",
+      "seo_description": "Discover masterpiece paintings at the Scottish National Gallery. View iconic fine art in a stunning neoclassical building.",
+      "description_short": "The national art gallery of Scotland, situated in central Edinburgh.",
+      "description_long": "Housed in a beautiful building designed by William Henry Playfair, opened in 1859, the museum preserves an outstanding collection of fine art from the Renaissance to the early 20th century.",
+      "keywords": [
+        "Scottish National Gallery",
+        "Edinburgh art museums",
+        "Playfair architecture"
+      ],
+      "long_tail_keywords": [
+        "free art galleries in Edinburgh",
+        "fine art masterpieces Scotland"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 90,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Scott Monument",
+        "Princes Street Gardens"
+      ],
+      "related_attractions": [
+        "Scottish National Portrait Gallery"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Edinburgh",
+      "region": "Scotland",
+      "name": "The Scott Monument",
+      "latitude": 55.9524,
+      "longitude": -3.1933,
+      "google_maps_url": "https://www.google.com/maps?q=55.9524,-3.1933",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Scott_Monument",
+      "wikidata_id": "Q2502120",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Scott_Monument_from_S_Edinburgh_Jan_2006.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Scott Monument Edinburgh | Gothic Literary Landmark",
+      "seo_description": "See the dramatic Scott Monument on Princes Street. Learn about the Victorian spire dedicated to author Sir Walter Scott.",
+      "description_short": "A striking Victorian Gothic monument dedicated to Sir Walter Scott.",
+      "description_long": "Completed in 1844, this tower stands over 60 meters tall. It is decorated with intricate stone carvings representing characters from the author's famous historic novels.",
+      "keywords": [
+        "Scott Monument",
+        "Princes Street landmarks",
+        "Victorian Gothic spire"
+      ],
+      "long_tail_keywords": [
+        "Sir Walter Scott monument history",
+        "climbing the Scott Monument spire"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 88,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Scottish National Gallery",
+        "Princes Street Gardens"
+      ],
+      "related_attractions": [
+        "Calton Hill"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Edinburgh",
+      "region": "Scotland",
+      "name": "The Grassmarket",
+      "latitude": 55.9475,
+      "longitude": -3.1947,
+      "google_maps_url": "https://www.google.com/maps?q=55.9475,-3.1947",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Grassmarket",
+      "wikidata_id": "Q2394875",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/The_Grassmarket_Edinburgh_A.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Grassmarket Edinburgh | Vibrant Old Town Dining & History",
+      "seo_description": "Visit the historic Grassmarket marketplace. Enjoy atmospheric outdoor dining, independent shops, and direct castle views.",
+      "description_short": "A historic marketplace and bustling public square in the Old Town.",
+      "description_long": "Dating back to the 14th century as a key horse and cattle market, it features vibrant historic architecture and is a premier hub for traditional pubs and modern dining experiences.",
+      "keywords": [
+        "Grassmarket",
+        "Edinburgh marketplaces",
+        "Old Town dining"
+      ],
+      "long_tail_keywords": [
+        "historic pubs in Grassmarket Edinburgh",
+        "things to do in Old Town"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 91,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Edinburgh Castle",
+        "Royal Mile"
+      ],
+      "related_attractions": [
+        "Cowgate"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Edinburgh",
+      "region": "Scotland",
+      "name": "St Giles' Cathedral",
+      "latitude": 55.9495,
+      "longitude": -3.1908,
+      "google_maps_url": "https://www.google.com/maps?q=55.9495,-3.1908",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St_Giles%27_Cathedral",
+      "wikidata_id": "Q1547466",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/St_Giles%27_Cathedral_Edinburgh_A.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "St Giles' Cathedral | High Kirk of Edinburgh Guide",
+      "seo_description": "Visit St Giles' Cathedral on the Royal Mile. Admire the iconic crown spire and beautiful medieval stone architecture.",
+      "description_short": "The magnificent historic High Kirk of Edinburgh on the Royal Mile.",
+      "description_long": "Founded in the 12th century, this prominent church has been a focal point of Scottish spiritual life for centuries, notably serving as the birthplace of Presbyterianism during the Reformation.",
+      "keywords": [
+        "St Giles Cathedral",
+        "High Kirk",
+        "Royal Mile churches"
+      ],
+      "long_tail_keywords": [
+        "historic medieval churches Edinburgh",
+        "St Giles crown spire architecture"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 93,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Royal Mile",
+        "Real Mary King's Close"
+      ],
+      "related_attractions": [
+        "Holyrood Palace"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Edinburgh",
+      "region": "Scotland",
+      "name": "Dynamic Earth",
+      "latitude": 55.9503,
+      "longitude": -3.1747,
+      "google_maps_url": "https://www.google.com/maps?q=55.9503,-3.1747",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dynamic_Earth_(Edinburgh)",
+      "wikidata_id": "Q5318933",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Our_Dynamic_Earth_Edinburgh_20060905.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "winter",
+        "autumn",
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Dynamic Earth Edinburgh | Interactive Science Museum",
+      "seo_description": "Plan a family visit to Dynamic Earth. Explore interactive science exhibits detailing the natural history of planet Earth.",
+      "description_short": "An immersive, interactive science centre located near the parliament.",
+      "description_long": "Opened in 1999 as a major millennium project, this unique pavilion takes visitors on a multimedia journey through time, exploring volcanoes, glaciers, and geological forces that shaped Earth.",
+      "keywords": [
+        "Dynamic Earth",
+        "Edinburgh science museums",
+        "interactive exhibits"
+      ],
+      "long_tail_keywords": [
+        "family activities in Edinburgh",
+        "modern science centres Scotland"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 86,
+      "topical_depth_score": 6,
+      "nearby_attractions": [
+        "Palace of Holyroodhouse",
+        "Scottish Parliament Building"
+      ],
+      "related_attractions": [
+        "National Museum of Scotland"
+      ],
+      "internal_link_priority": "low"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Bath",
+      "region": "England",
+      "name": "The Roman Baths",
+      "latitude": 51.3811,
+      "longitude": -2.3596,
+      "google_maps_url": "https://www.google.com/maps?q=51.3811,-2.3596",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_Baths_(Bath)",
+      "wikidata_id": "Q1759654",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Roman_Baths_Great_Bath_Bath_Somerset.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "The Roman Baths | Historic Somerset Archeological Site",
+      "seo_description": "Explore the incredibly preserved Roman Baths in Somerset. Discover the ancient thermal springs and Roman engineering ruins.",
+      "description_short": "A beautifully preserved ancient Roman public bathing complex.",
+      "description_long": "Constructed around 70 AD as a grand thermal spa sanctuary named Aquae Sulis, this magnificent archeological complex reveals the bathing rituals and lifestyle of Roman Britain.",
+      "keywords": [
+        "Roman Baths",
+        "Bath Somerset landmarks",
+        "ancient thermal springs"
+      ],
+      "long_tail_keywords": [
+        "visiting Roman ruins in England",
+        "Roman Baths museum opening hours"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 99,
+      "topical_depth_score": 10,
+      "nearby_attractions": [
+        "Bath Abbey",
+        "Pulteney Bridge"
+      ],
+      "related_attractions": [
+        "The Royal Crescent"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Bath",
+      "region": "England",
+      "name": "The Royal Crescent",
+      "latitude": 51.3871,
+      "longitude": -2.3681,
+      "google_maps_url": "https://www.google.com/maps?q=51.3871,-2.3681",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Royal_Crescent",
+      "wikidata_id": "Q2292329",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Royal_Crescent_Bath_Somerset.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "The Royal Crescent | Georgian Architecture Landmark",
+      "seo_description": "Visit the iconic Royal Crescent in Bath. Admire the stunning Georgian townhouses arranged in a sweeping crescent format.",
+      "description_short": "A monumental crescent of 30 residential terraced houses.",
+      "description_long": "Designed by the architect John Wood the Younger and constructed between 1767 and 1774, it stands as one of the greatest examples of Georgian Palladian architecture in Europe.",
+      "keywords": [
+        "Royal Crescent",
+        "Georgian architecture",
+        "John Wood architect"
+      ],
+      "long_tail_keywords": [
+        "historic Georgian streets in Bath",
+        "photographing Royal Crescent park"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 96,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "The Circus",
+        "Jane Austen Centre"
+      ],
+      "related_attractions": [
+        "The Roman Baths"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Bath",
+      "region": "England",
+      "name": "Bath Abbey",
+      "latitude": 51.3814,
+      "longitude": -2.3589,
+      "google_maps_url": "https://www.google.com/maps?q=51.3814,-2.3589",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bath_Abbey",
+      "wikidata_id": "Q301438",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Bath_Abbey_West_Front_Somerset.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Bath Abbey Guide | Gothic Fan Vaulting Architecture",
+      "seo_description": "Visit Bath Abbey in the historic center. Marvel at spectacular Perpendicular Gothic windows and magnificent fan vaulting.",
+      "description_short": "A grand parish church and historic medieval Benedictine monastery.",
+      "description_long": "Founded in the 7th century, the current structure was built in the 16th century in exquisite Perpendicular Gothic style, famous for its unique ladders of angels on the west front facade.",
+      "keywords": [
+        "Bath Abbey",
+        "Gothic fan vaulting",
+        "Somerset medieval churches"
+      ],
+      "long_tail_keywords": [
+        "climbing Bath Abbey tower",
+        "historic Gothic architecture Somerset"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 94,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "The Roman Baths",
+        "Pulteney Bridge"
+      ],
+      "related_attractions": [
+        "Wells Cathedral"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Bath",
+      "region": "England",
+      "name": "Pulteney Bridge",
+      "latitude": 51.3831,
+      "longitude": -2.3578,
+      "google_maps_url": "https://www.google.com/maps?q=51.3831,-2.3578",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pulteney_Bridge",
+      "wikidata_id": "Q2065099",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Pulteney_Bridge_and_Weir_Bath_Somerset.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Pulteney Bridge Bath | Historic Built-Up River Crossing",
+      "seo_description": "See the historic Pulteney Bridge over the River Avon. Learn about this rare Georgian structure lined completely with shops.",
+      "description_short": "A classic Palladian bridge featuring shops built across its entire span.",
+      "description_long": "Completed in 1774 by Robert Adam, it is one of only four bridges worldwide with shops along both sides, crossing the scenic River Avon adjacent to a dramatic horseshoe weir.",
+      "keywords": [
+        "Pulteney Bridge",
+        "River Avon weir",
+        "Robert Adam architect"
+      ],
+      "long_tail_keywords": [
+        "historic shop lined bridges",
+        "photographing River Avon weir Bath"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 93,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Bath Abbey",
+        "The Roman Baths"
+      ],
+      "related_attractions": [
+        "The Circus"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Bath",
+      "region": "England",
+      "name": "The Circus",
+      "latitude": 51.3861,
+      "longitude": -2.3639,
+      "google_maps_url": "https://www.google.com/maps?q=51.3861,-2.3639",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Circus_(Bath)",
+      "wikidata_id": "Q2392435",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/The_Circus_Bath_Somerset.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "The Circus Bath | Masterpiece Georgian Ring Street",
+      "seo_description": "Walk around The Circus in Bath, a stunning circular ring of Georgian townhouses showcasing elegant classical orders of architecture.",
+      "description_short": "A historic circle of grand Georgian townhouses divided into three segments.",
+      "description_long": "Designed by John Wood the Elder and completed in 1768, this circular layout was inspired by the Roman Colosseum, displaying Doric, Ionic, and Corinthian columns on successive tiers.",
+      "keywords": [
+        "The Circus",
+        "John Wood the Elder",
+        "classical architecture ring"
+      ],
+      "long_tail_keywords": [
+        "Georgian townhouses circles Bath",
+        "architectural photography spots Somerset"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 91,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "The Royal Crescent",
+        "Jane Austen Centre"
+      ],
+      "related_attractions": [
+        "Pulteney Bridge"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Bath",
+      "region": "England",
+      "name": "The Holburne Museum",
+      "latitude": 51.3861,
+      "longitude": -2.3508,
+      "google_maps_url": "https://www.google.com/maps?q=51.3861,-2.3508",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Holburne_Museum",
+      "wikidata_id": "Q5878937",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Holburne_Museum_Bath_Somerset.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "winter",
+        "autumn",
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Holburne Museum Bath | Fine Art & Sydney Gardens",
+      "seo_description": "Visit the Holburne Museum. Admire fine art, silver, and porcelain collections housed in a historic Georgian building.",
+      "description_short": "The city's first public art gallery, set in a grand pleasure garden.",
+      "description_long": "Originally built as the Sydney Hotel in 1793, this elegant building reopened as a museum in 1916. It showcases the exquisite art collection of Sir William Holburne.",
+      "keywords": [
+        "Holburne Museum",
+        "Sydney Gardens",
+        "Bath art galleries"
+      ],
+      "long_tail_keywords": [
+        "Georgian pleasure gardens Bath",
+        "fine art collections Somerset"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 85,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Pulteney Bridge",
+        "Sydney Gardens"
+      ],
+      "related_attractions": [
+        "Victoria Art Gallery"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Bath",
+      "region": "England",
+      "name": "Prior Park Landscape Garden",
+      "latitude": 51.3667,
+      "longitude": -2.3444,
+      "google_maps_url": "https://www.google.com/maps?q=51.3667,-2.3444",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Prior_Park_Landscape_Garden",
+      "wikidata_id": "Q2110156",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Prior_Park_Palladian_Bridge_Bath_Somerset.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Prior Park Landscape Garden | Rare Palladian Bridge",
+      "seo_description": "Explore Prior Park Landscape Garden. Walk across the famous, rare 18th-century Palladian Bridge in a beautiful valley setting.",
+      "description_short": "An elegant 18th-century landscape garden featuring a Palladian bridge.",
+      "description_long": "Designed by the famous poet Alexander Pope and capability landscape master Capability Brown in the 1740s, this historic valley garden features one of only four remaining Palladian bridges worldwide.",
+      "keywords": [
+        "Prior Park",
+        "Palladian Bridge Bath",
+        "Capability Brown garden"
+      ],
+      "long_tail_keywords": [
+        "historic English landscape gardens",
+        "National Trust parks in Somerset"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 88,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Bath Skyline Walk"
+      ],
+      "related_attractions": [
+        "The Royal Crescent"
+      ],
+      "internal_link_priority": "low"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Bath",
+      "region": "England",
+      "name": "The Assembly Rooms",
+      "latitude": 51.3867,
+      "longitude": -2.3619,
+      "google_maps_url": "https://www.google.com/maps?q=51.3867,-2.3619",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bath_Assembly_Rooms",
+      "wikidata_id": "Q1759620",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Bath_Assembly_Rooms_Ballroom_Somerset.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "winter",
+        "autumn",
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Bath Assembly Rooms | High Society Georgian Ballrooms",
+      "seo_description": "Step into the Bath Assembly Rooms. Discover the historic social hub of Georgian high society and magnificent crystal chandeliers.",
+      "description_short": "A historic complex of elegant public rooms designed for entertainment.",
+      "description_long": "Opened in 1771 by John Wood the Younger, these grand spaces were the heart of high society dancing, gambling, and concerts, famously frequented by author Jane Austen.",
+      "keywords": [
+        "Assembly Rooms",
+        "Georgian high society",
+        "Bath ballrooms"
+      ],
+      "long_tail_keywords": [
+        "Jane Austen locations in Bath",
+        "historic public buildings Somerset"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 86,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "The Circus",
+        "Jane Austen Centre"
+      ],
+      "related_attractions": [
+        "The Holburne Museum"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Bath",
+      "region": "England",
+      "name": "The Jane Austen Centre",
+      "latitude": 51.3853,
+      "longitude": -2.3633,
+      "google_maps_url": "https://www.google.com/maps?q=51.3853,-2.3633",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jane_Austen_Centre",
+      "wikidata_id": "Q6151139",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Jane_Austen_Centre_Bath_Somerset.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Jane Austen Centre Bath | Literary History Museum",
+      "seo_description": "Visit the Jane Austen Centre. Learn about the author's life in Bath and her classic novels reflecting Regency society.",
+      "description_short": "A permanent exhibition celebrating the famous author's relationship with the city.",
+      "description_long": "Located in a historic Georgian townhouse, this interactive exhibition explores how the city's fashion and architecture inspired Jane Austen's timeless masterpieces like Persuasion and Northanger Abbey.",
+      "keywords": [
+        "Jane Austen Centre",
+        "Regency Bath history",
+        "literary museums England"
+      ],
+      "long_tail_keywords": [
+        "Jane Austen tours in Somerset",
+        "Regency fashion exhibitions Bath"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 87,
+      "topical_depth_score": 6,
+      "nearby_attractions": [
+        "The Circus",
+        "The Assembly Rooms"
+      ],
+      "related_attractions": [
+        "Bath Abbey"
+      ],
+      "internal_link_priority": "low"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Bath",
+      "region": "England",
+      "name": "Parade Gardens",
+      "latitude": 51.3814,
+      "longitude": -2.3564,
+      "google_maps_url": "https://www.google.com/maps?q=51.3814,-2.3564",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Parade_Gardens,_Bath",
+      "wikidata_id": "Q7134076",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Parade_Gardens_Bath_Somerset.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Parade Gardens Bath | Riverside Floral Displays",
+      "seo_description": "Stroll through Parade Gardens. Enjoy beautiful formal flower beds, a historic bandstand, and views of Pulteney Bridge.",
+      "description_short": "A historic, beautifully manicured riverside public park.",
+      "description_long": "Dating back to the 18th century as a premium social walking ground, these gardens sit on the banks of the River Avon, offering stunning overlooks of the historic Pulteney weir.",
+      "keywords": [
+        "Parade Gardens",
+        "River Avon walks",
+        "Bath public parks"
+      ],
+      "long_tail_keywords": [
+        "riverside things to do in Bath",
+        "best flower displays Somerset"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 84,
+      "topical_depth_score": 6,
+      "nearby_attractions": [
+        "Bath Abbey",
+        "Pulteney Bridge"
+      ],
+      "related_attractions": [
+        "Sydney Gardens"
+      ],
+      "internal_link_priority": "low"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "York",
+      "region": "England",
+      "name": "York Minster",
+      "latitude": 53.9623,
+      "longitude": -1.0819,
+      "google_maps_url": "https://www.google.com/maps?q=53.9623,-1.0819",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/York_Minster",
+      "wikidata_id": "Q210741",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/York_Minster_from_the_south_east.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "York Minster Guide | Gothic Cathedral Architectural Wonders",
+      "seo_description": "Visit York Minster, one of the world's grandest Gothic cathedrals. Admire magnificent medieval stained glass masterpieces.",
+      "description_short": "The magnificent cathedral of York and one of the largest in Northern Europe.",
+      "description_long": "Completed in 1472 after centuries of construction, this cathedral is celebrated for its spectacular Great East Window, the largest expanse of medieval stained glass in the world.",
+      "keywords": [
+        "York Minster",
+        "Gothic cathedrals",
+        "medieval stained glass"
+      ],
+      "long_tail_keywords": [
+        "visiting historic churches in Yorkshire",
+        "York Minster tower climb guide"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 99,
+      "topical_depth_score": 10,
+      "nearby_attractions": [
+        "The Shambles",
+        "York City Walls"
+      ],
+      "related_attractions": [
+        "Bath Abbey"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "York",
+      "region": "England",
+      "name": "The Shambles",
+      "latitude": 53.9598,
+      "longitude": -1.0798,
+      "google_maps_url": "https://www.google.com/maps?q=53.9598,-1.0798",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Shambles",
+      "wikidata_id": "Q1519782",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/The_Shambles_York_A.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "The Shambles York | Medieval Timber Framed Street",
+      "seo_description": "Walk down The Shambles in York. Explore the incredibly preserved medieval timber-framed buildings and charming boutique shops.",
+      "description_short": "A historic narrow street featuring overhanging timber buildings.",
+      "description_long": "Dating back to the 14th century as a street of butchers' shops, its unique historic structures lean inward over the cobblestones. It heavily inspired the fictional Diagon Alley.",
+      "keywords": [
+        "The Shambles",
+        "medieval York",
+        "timber framed buildings"
+      ],
+      "long_tail_keywords": [
+        "oldest shopping streets in England",
+        "Harry Potter inspired spots York"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 97,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "York Minster",
+        "Jorvik Viking Centre"
+      ],
+      "related_attractions": [
+        "Royal Mile"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "York",
+      "region": "England",
+      "name": "York City Walls",
+      "latitude": 53.9556,
+      "longitude": -1.0772,
+      "google_maps_url": "https://www.google.com/maps?q=53.9556,-1.0772",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/York_city_walls",
+      "wikidata_id": "Q8055627",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/York_City_Walls_at_Micklegate_Bar.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "York City Walls Walk | Historic Roman & Medieval Ramparts",
+      "seo_description": "Walk along the York City Walls. Experience the longest medieval town walls in England with panoramic city views.",
+      "description_short": "The beautifully intact historic stone defensive walls surrounding York.",
+      "description_long": "Built primarily in the 13th and 14th centuries over older Roman foundations, these historic stone ramparts wrap around the city center, offering excellent scenic elevated pathways.",
+      "keywords": [
+        "York City Walls",
+        "medieval ramparts",
+        "Roman foundations"
+      ],
+      "long_tail_keywords": [
+        "free things to do in York",
+        "walking the historic walls Yorkshire"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 94,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "York Minster",
+        "Clifford's Tower"
+      ],
+      "related_attractions": [
+        "Conwy Castle Walls"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "York",
+      "region": "England",
+      "name": "Clifford's Tower",
+      "latitude": 53.9558,
+      "longitude": -1.0803,
+      "google_maps_url": "https://www.google.com/maps?q=53.9558,-1.0803",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Clifford%27s_Tower",
+      "wikidata_id": "Q17548148",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Cliffords_Tower_York_A.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Clifford's Tower York | Norman Keep Castle Ruins",
+      "seo_description": "Visit Clifford's Tower, the historic Norman stone keep. Enjoy excellent panoramic vistas over the old city of York.",
+      "description_short": "The historic ruined keep of York's medieval Norman castle.",
+      "description_long": "Originally constructed in timber by William the Conqueror in 1068, the current unique four-lobed stone structure was rebuilt by King Henry III in the 13th century.",
+      "keywords": [
+        "Clifford's Tower",
+        "Norman castle keeps",
+        "William the Conqueror York"
+      ],
+      "long_tail_keywords": [
+        "historic castle ruins in Yorkshire",
+        "best panoramic view spots York"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 92,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "York Castle Museum",
+        "The Shambles"
+      ],
+      "related_attractions": [
+        "Edinburgh Castle"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "York",
+      "region": "England",
+      "name": "National Railway Museum",
+      "latitude": 53.9595,
+      "longitude": -1.0963,
+      "google_maps_url": "https://www.google.com/maps?q=53.9595,-1.0963",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/National_Railway_Museum",
+      "wikidata_id": "Q1435212",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/National_Railway_Museum_York.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "winter",
+        "autumn",
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "National Railway Museum | Historic Trains & Locomotives",
+      "seo_description": "Explore the National Railway Museum in York. Discover iconic historic steam engines, royal trains, and engineering history.",
+      "description_short": "A world-class museum showcasing centuries of British railway engineering.",
+      "description_long": "Opened in 1975, this immense museum houses a legendary national collection including the world-record-breaking Mallard steam locomotive and historic carriages used by Queen Victoria.",
+      "keywords": [
+        "National Railway Museum",
+        "steam locomotives",
+        "British transport history"
+      ],
+      "long_tail_keywords": [
+        "free family museums in York",
+        "Mallard steam train exhibition"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 95,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "York Central Station",
+        "York City Walls"
+      ],
+      "related_attractions": [
+        "British Museum"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "York",
+      "region": "England",
+      "name": "York Museum Gardens",
+      "latitude": 53.9619,
+      "longitude": -1.0881,
+      "google_maps_url": "https://www.google.com/maps?q=53.9619,-1.0881",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/York_Museum_Gardens",
+      "wikidata_id": "Q8055524",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/St_Marys_Abbey_York_Museum_Gardens.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "York Museum Gardens | St Mary's Abbey Ruins Walk",
+      "seo_description": "Stroll through York Museum Gardens. Walk among the beautiful botanical collections and atmospheric medieval abbey ruins.",
+      "description_short": "Botanical gardens featuring the dramatic ruins of St Mary's Abbey.",
+      "description_long": "Established in the 1830s by the Yorkshire Philosophical Society, these tranquil gardens surround the picturesque medieval ruins of what was once Northern England's wealthiest monastery.",
+      "keywords": [
+        "York Museum Gardens",
+        "St Mary's Abbey ruins",
+        "botanical parks"
+      ],
+      "long_tail_keywords": [
+        "scenic picnic spots in York center",
+        "medieval monastic ruins Yorkshire"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 89,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Yorkshire Museum",
+        "York Minster"
+      ],
+      "related_attractions": [
+        "Princes Street Gardens"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "York",
+      "region": "England",
+      "name": "Jorvik Viking Centre",
+      "latitude": 53.9578,
+      "longitude": -1.0808,
+      "google_maps_url": "https://www.google.com/maps?q=53.9578,-1.0808",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jorvik_Viking_Centre",
+      "wikidata_id": "Q2626248",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Jorvik_Viking_Centre_entrance.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "winter",
+        "autumn",
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Jorvik Viking Centre York | Interactive Historic Sights",
+      "seo_description": "Visit the Jorvik Viking Centre. Journey through reconstructed historic Viking-age streets based on authentic excavation findings.",
+      "description_short": "An interactive museum showcasing reconstructed Viking history and artifacts.",
+      "description_long": "Opened in 1984 on the exact site of historic excavations, it utilizes an immersive ride system to recreate an authentic 10th-century Viking city with incredible historic accuracy.",
+      "keywords": [
+        "Jorvik Viking Centre",
+        "Viking history York",
+        "archeological excavations"
+      ],
+      "long_tail_keywords": [
+        "interactive history museums Yorkshire",
+        "Viking settlements in England guide"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 93,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "The Shambles",
+        "Clifford's Tower"
+      ],
+      "related_attractions": [
+        "Dynamic Earth"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "York",
+      "region": "England",
+      "name": "York Castle Museum",
+      "latitude": 53.9561,
+      "longitude": -1.0792,
+      "google_maps_url": "https://www.google.com/maps?q=53.9561,-1.0792",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/York_Castle_Museum",
+      "wikidata_id": "Q8055375",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/York_Castle_Museum_Kirkgate.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "winter",
+        "autumn",
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "York Castle Museum | Kirkgate Reconstructed Victorian Street",
+      "seo_description": "Explore York Castle Museum. Walk down Kirkgate, a completely immersive, authentic replica of an English Victorian street.",
+      "description_short": "A social history museum housed in historic 18th-century prison buildings.",
+      "description_long": "Founded in 1938, the museum is world-renowned for its life-sized reconstructed Victorian street, displaying centuries of British daily life, costume, and domestic history.",
+      "keywords": [
+        "York Castle Museum",
+        "Kirkgate Victorian street",
+        "social history"
+      ],
+      "long_tail_keywords": [
+        "reconstructed historic streets England",
+        "best museum displays in York"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 90,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Clifford's Tower",
+        "Jorvik Viking Centre"
+      ],
+      "related_attractions": [
+        "British Museum"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "York",
+      "region": "England",
+      "name": "Treasurer's House",
+      "latitude": 53.9631,
+      "longitude": -1.0817,
+      "google_maps_url": "https://www.google.com/maps?q=53.9631,-1.0817",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Treasurer%27s_House,_York",
+      "wikidata_id": "Q7836859",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Treasurers_House_York.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Treasurer's House York | Historic Manor & Period Rooms",
+      "seo_description": "Visit the Treasurer's House behind York Minster. Discover a historic townhouse filled with fine antique collections.",
+      "description_short": "A historic National Trust property displaying elegant period interiors.",
+      "description_long": "Standing on the site of the official residence of the treasurers of York Minster, the historic house was lavishly restored in the late 19th century by wealthy industrialist Frank Green.",
+      "keywords": [
+        "Treasurer's House",
+        "National Trust York",
+        "Frank Green mansion"
+      ],
+      "long_tail_keywords": [
+        "historic townhouses in York center",
+        "antique furniture collections Yorkshire"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 85,
+      "topical_depth_score": 6,
+      "nearby_attractions": [
+        "York Minster",
+        "York City Walls"
+      ],
+      "related_attractions": [
+        "Assembly Rooms"
+      ],
+      "internal_link_priority": "low"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "York",
+      "region": "England",
+      "name": "The Merchant Adventurers' Hall",
+      "latitude": 53.9583,
+      "longitude": -1.0789,
+      "google_maps_url": "https://www.google.com/maps?q=53.9583,-1.0789",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Merchant_Adventurers%27_Hall",
+      "wikidata_id": "Q6815049",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Merchant_Adventurers_Hall_York_A.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Merchant Adventurers' Hall | Medieval Guildhall History",
+      "seo_description": "Discover the Merchant Adventurers' Hall in York. Tour one of Europe's finest intact timber medieval guildhalls.",
+      "description_short": "A magnificent timber-framed medieval guildhall dating to the 14th century.",
+      "description_long": "Constructed between 1357 and 1361, this rare historic building served as the central hub for trade, charity, and commerce in medieval York, remaining in active institutional use today.",
+      "keywords": [
+        "Merchant Adventurers Hall",
+        "medieval guildhalls",
+        "timber architecture"
+      ],
+      "long_tail_keywords": [
+        "historic trade halls in England",
+        "medieval architecture attractions York"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 87,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "The Shambles",
+        "Jorvik Viking Centre"
+      ],
+      "related_attractions": [
+        "The Circus"
+      ],
+      "internal_link_priority": "low"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Oxford",
+      "region": "England",
+      "name": "Bodleian Library",
+      "latitude": 51.7542,
+      "longitude": -1.2539,
+      "google_maps_url": "https://www.google.com/maps?q=51.7542,-1.2539",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bodleian_Library",
+      "wikidata_id": "Q82133",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bodleian_Library_Oxford_A.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Bodleian Library Oxford | Historic University Research Sights",
+      "seo_description": "Tour the legendary Bodleian Library at Oxford University. Discover majestic historic reading rooms and valuable book archives.",
+      "description_short": "The historic primary research library of the University of Oxford.",
+      "description_long": "Opened in 1602 by Sir Thomas Bodley, it is one of the oldest libraries in Europe. It possesses millions of texts, featuring stunning architecture like the Divinity School.",
+      "keywords": [
+        "Bodleian Library",
+        "Oxford University buildings",
+        "historic reading rooms"
+      ],
+      "long_tail_keywords": [
+        "visiting Oxford University libraries",
+        "Divinity School architecture tour"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 98,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Radcliffe Camera",
+        "Sheldonian Theatre"
+      ],
+      "related_attractions": [
+        "British Museum"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Oxford",
+      "region": "England",
+      "name": "Radcliffe Camera",
+      "latitude": 51.7534,
+      "longitude": -1.254,
+      "google_maps_url": "https://www.google.com/maps?q=51.7534,-1.2540",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Radcliffe_Camera",
+      "wikidata_id": "Q1602498",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Radcliffe_Camera_Oxford_A.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Radcliffe Camera Guide | Neoclassical Oxford Architecture",
+      "seo_description": "See the iconic Radcliffe Camera in Oxford. Admire this spectacular circular neoclassical library monument.",
+      "description_short": "A magnificent circular neoclassical building serving as a university reading room.",
+      "description_long": "Built between 1737 and 1749 from designs by the famed James Gibbs, this masterpiece architectural landmark was funded by a legacy from royal physician John Radcliffe.",
+      "keywords": [
+        "Radcliffe Camera",
+        "James Gibbs architect",
+        "Oxford landmarks"
+      ],
+      "long_tail_keywords": [
+        "circular libraries in England",
+        "photographing Oxford University landmarks"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 97,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Bodleian Library",
+        "University Church"
+      ],
+      "related_attractions": [
+        "The Circus"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Oxford",
+      "region": "England",
+      "name": "Ashmolean Museum",
+      "latitude": 51.7553,
+      "longitude": -1.26,
+      "google_maps_url": "https://www.google.com/maps?q=51.7553,-1.2600",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ashmolean_Museum",
+      "wikidata_id": "Q637174",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Ashmolean_Museum_Oxford.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "winter",
+        "autumn",
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Ashmolean Museum Oxford | Art & Archeology Exhibits",
+      "seo_description": "Visit the Ashmolean Museum, the world's first university museum. Explore global art and historic archeological treasures.",
+      "description_short": "The university's premier museum of art and ancient archaeology.",
+      "description_long": "Opened originally in 1683 to house Elias Ashmole's collection of curiosities, the museum preserves exceptional historic antiquities ranging from ancient Egypt to European fine art paintings.",
+      "keywords": [
+        "Ashmolean Museum",
+        "university museums",
+        "ancient art collections"
+      ],
+      "long_tail_keywords": [
+        "free art museums in Oxford",
+        "oldest public museums in England"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 94,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Oxford Covered Market",
+        "Bodleian Library"
+      ],
+      "related_attractions": [
+        "British Museum"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Oxford",
+      "region": "England",
+      "name": "Christ Church Meadow",
+      "latitude": 51.7483,
+      "longitude": -1.2536,
+      "google_maps_url": "https://www.google.com/maps?q=51.7483,-1.2536",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Christ_Church_Meadow",
+      "wikidata_id": "Q5108666",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Christ_Church_Meadow_Oxford_A.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Christ Church Meadow Walk | Scenic Oxford River Views",
+      "seo_description": "Walk through Christ Church Meadow in Oxford. Enjoy tranquil paths alongside the River Thames and Cherwell.",
+      "description_short": "A vast, historic open flood-meadow bordering the city's rivers.",
+      "description_long": "Maintained by Christ Church College for centuries, this beautiful open space provides an idyllic escape with cattle grazing, offering beautiful vistas of the university's spires.",
+      "keywords": [
+        "Christ Church Meadow",
+        "Oxford river walks",
+        "Thames green spaces"
+      ],
+      "long_tail_keywords": [
+        "scenic college walks in Oxford",
+        "where to see punting in Oxford"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 89,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Christ Church College",
+        "Oxford Botanic Garden"
+      ],
+      "related_attractions": [
+        "Princes Street Gardens"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Oxford",
+      "region": "England",
+      "name": "Oxford Botanic Garden",
+      "latitude": 51.7508,
+      "longitude": -1.2475,
+      "google_maps_url": "https://www.google.com/maps?q=51.7508,-1.2475",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_Oxford_Botanic_Garden",
+      "wikidata_id": "Q1536413",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Oxford_Botanic_Garden_Glasshouse.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Oxford Botanic Garden | Historic Physic Garden Plants",
+      "seo_description": "Explore the University of Oxford Botanic Garden, the oldest in Britain. Admire unique glasshouses and diverse plant species.",
+      "description_short": "The historic, classic botanical garden of Oxford University.",
+      "description_long": "Founded in 1621 as a medical physic garden to grow medicinal plants, it encompasses beautiful historic glasshouses and curated walled collections representing global biodiversity.",
+      "keywords": [
+        "Oxford Botanic Garden",
+        "physic gardens Britain",
+        "historic glasshouses"
+      ],
+      "long_tail_keywords": [
+        "oldest botanical gardens in England",
+        "Oxford university plant collections"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 90,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Magdalen College",
+        "Christ Church Meadow"
+      ],
+      "related_attractions": [
+        "Kew Gardens"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Oxford",
+      "region": "England",
+      "name": "Sheldonian Theatre",
+      "latitude": 51.7544,
+      "longitude": -1.2547,
+      "google_maps_url": "https://www.google.com/maps?q=51.7544,-1.2547",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sheldonian_Theatre",
+      "wikidata_id": "Q1757049",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Sheldonian_Theatre_Oxford_A.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Sheldonian Theatre Oxford | Christopher Wren Architecture",
+      "seo_description": "Visit the Sheldonian Theatre. Discover the masterpiece ceremonial hall designed by legendary architect Christopher Wren.",
+      "description_short": "The official ceremonial graduation hall of the University of Oxford.",
+      "description_long": "Built between 1664 and 1669, this architectural wonder was the first major design of Sir Christopher Wren, featuring an extraordinary self-supporting flat timber roof construction.",
+      "keywords": [
+        "Sheldonian Theatre",
+        "Christopher Wren designs",
+        "Oxford ceremonies"
+      ],
+      "long_tail_keywords": [
+        "historic graduation halls Oxford",
+        "Christopher Wren architecture guide"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 88,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Bodleian Library",
+        "Radcliffe Camera"
+      ],
+      "related_attractions": [
+        "Assembly Rooms"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Oxford",
+      "region": "England",
+      "name": "Oxford Covered Market",
+      "latitude": 51.7525,
+      "longitude": -1.2561,
+      "google_maps_url": "https://www.google.com/maps?q=51.7525,-1.2561",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oxford_Covered_Market",
+      "wikidata_id": "Q7113110",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Oxford_Covered_Market_A.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Oxford Covered Market | Historic Food stalls & Crafts",
+      "seo_description": "Shop at Oxford Covered Market. Discover independent local traders, fresh food stalls, and artisanal gifts under one roof.",
+      "description_short": "A historic covered marketplace featuring independent shops and stalls.",
+      "description_long": "Opened in 1774 to clear messy open-air stalls from the main city streets, this charming historic market remains a vibrant destination for local crafts, meat, and pastries.",
+      "keywords": [
+        "Oxford Covered Market",
+        "historic markets England",
+        "independent traders"
+      ],
+      "long_tail_keywords": [
+        "best food stalls in Oxford center",
+        "historic market structures Oxfordshire"
+      ],
+      "search_intent": "commercial",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 87,
+      "topical_depth_score": 6,
+      "nearby_attractions": [
+        "Radcliffe Camera",
+        "Ashmolean Museum"
+      ],
+      "related_attractions": [
+        "Borough Market"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Oxford",
+      "region": "England",
+      "name": "University Church of St Mary the Virgin",
+      "latitude": 51.7528,
+      "longitude": -1.2542,
+      "google_maps_url": "https://www.google.com/maps?q=51.7528,-1.2542",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/University_Church_of_St_Mary_the_Virgin",
+      "wikidata_id": "Q2301592",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/University_Church_of_St_Mary_the_Virgin_Oxford_A.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "University Church Oxford | Historic Spire Climbing Views",
+      "seo_description": "Visit the University Church of St Mary the Virgin. Climb the historic 13th-century tower for views over Radcliffe Square.",
+      "description_short": "The historic spiritual hub around which Oxford University grew.",
+      "description_long": "Dating primarily to the 13th and 14th centuries, this beautiful church features a highly decorated Gothic spire, acting as the setting for many historic university trials.",
+      "keywords": [
+        "University Church",
+        "St Mary the Virgin",
+        "Radcliffe Square church"
+      ],
+      "long_tail_keywords": [
+        "best views of Radcliffe Camera",
+        "historic church towers Oxford"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 91,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Radcliffe Camera",
+        "All Souls College"
+      ],
+      "related_attractions": [
+        "York Minster"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Oxford",
+      "region": "England",
+      "name": "The Museum of Natural History",
+      "latitude": 51.7581,
+      "longitude": -1.2561,
+      "google_maps_url": "https://www.google.com/maps?q=51.7581,-1.2561",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oxford_University_Museum_of_Natural_History",
+      "wikidata_id": "Q1536417",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Oxford_University_Museum_of_Natural_History_Interior.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "winter",
+        "autumn",
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Oxford Museum of Natural History | Neo-Gothic Science Hub",
+      "seo_description": "Explore natural history specimens in a breathtaking Victorian Neo-Gothic building featuring unique iron arches.",
+      "description_short": "The university's museum housing an extensive natural history collection.",
+      "description_long": "Opened in 1860, this striking architectural masterpiece was the historic forum for the famous 100-year old evolution debate between Thomas Huxley and Samuel Wilberforce.",
+      "keywords": [
+        "Oxford Natural History",
+        "Neo-Gothic museums",
+        "evolution debate site"
+      ],
+      "long_tail_keywords": [
+        "free science museums in Oxford",
+        "Victorian architecture iron columns"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 89,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Pitt Rivers Museum",
+        "Keble College"
+      ],
+      "related_attractions": [
+        "British Museum"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Oxford",
+      "region": "England",
+      "name": "Magdalen College Tower and Grounds",
+      "latitude": 51.7519,
+      "longitude": -1.2467,
+      "google_maps_url": "https://www.google.com/maps?q=51.7519,-1.2467",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Magdalen_College,_Oxford",
+      "wikidata_id": "Q731422",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Magdalen_College_Tower_Oxford_A.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Magdalen College Tower | Historic Riverside Meadows",
+      "seo_description": "Visit Magdalen College in Oxford. Admire the landmark bell tower, serene historic cloisters, and riverside deer park.",
+      "description_short": "One of Oxford's oldest and most architecturally beautiful colleges.",
+      "description_long": "Founded in 1458, the college features the grand Magdalen Tower, constructed between 1492 and 1509, which forms a commanding presence alongside the classic River Cherwell bridge.",
+      "keywords": [
+        "Magdalen College",
+        "Magdalen Tower",
+        "Oxford deer park"
+      ],
+      "long_tail_keywords": [
+        "historic colleges to visit in Oxford",
+        "riverside college campuses England"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 92,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Oxford Botanic Garden",
+        "Merton College"
+      ],
+      "related_attractions": [
+        "King's College Cambridge"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Cambridge",
+      "region": "England",
+      "name": "King's College Chapel",
+      "latitude": 52.2048,
+      "longitude": 0.1165,
+      "google_maps_url": "https://www.google.com/maps?q=52.2048,0.1165",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/King%27s_College_Chapel,_Cambridge",
+      "wikidata_id": "Q1266155",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Kings_College_Chapel_Cambridge_A.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "King's College Chapel | Masterpiece Gothic Fan Vaulting",
+      "seo_description": "Visit King's College Chapel in Cambridge. Marvel at the largest fan vault ceiling in the world and historic stained glass.",
+      "description_short": "The magnificent medieval chapel of King's College, Cambridge University.",
+      "description_long": "Begun in 1446 by King Henry VI and completed under Henry VIII, this spectacular chapel stands as a premier example of late Perpendicular Gothic architecture in Britain.",
+      "keywords": [
+        "Kings College Chapel",
+        "Cambridge fan vaulting",
+        "Henry VI architecture"
+      ],
+      "long_tail_keywords": [
+        "historic chapels in Cambridge University",
+        "largest fan vault ceilings worldwide"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 99,
+      "topical_depth_score": 10,
+      "nearby_attractions": [
+        "The Backs",
+        "Senate House"
+      ],
+      "related_attractions": [
+        "Bath Abbey"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Cambridge",
+      "region": "England",
+      "name": "The Backs",
+      "latitude": 52.2056,
+      "longitude": 0.1119,
+      "google_maps_url": "https://www.google.com/maps?q=52.2056,0.1119",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Backs",
+      "wikidata_id": "Q1411516",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Backs_Cambridge_A.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "The Backs Cambridge | Riverside College View Landscape",
+      "seo_description": "Discover The Backs in Cambridge. Experience the scenic riverside parks where prestigious university colleges back onto the River Cam.",
+      "description_short": "A picturesque landscape of lawns and bridges along the River Cam.",
+      "description_long": "Lined with magnificent college bridges and landscaped meadows, this tranquil historic area offers iconic viewpoints for punting boats floating past the university campuses.",
+      "keywords": [
+        "The Backs",
+        "River Cam lawns",
+        "Cambridge punting views"
+      ],
+      "long_tail_keywords": [
+        "scenic riverside views in Cambridge",
+        "best photography spots River Cam"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 96,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "King's College Chapel",
+        "Mathematical Bridge"
+      ],
+      "related_attractions": [
+        "Christ Church Meadow"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Cambridge",
+      "region": "England",
+      "name": "Mathematical Bridge",
+      "latitude": 52.2023,
+      "longitude": 0.1147,
+      "google_maps_url": "https://www.google.com/maps?q=52.2023,0.1147",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mathematical_Bridge",
+      "wikidata_id": "Q225576",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Mathematical_Bridge_Queens_College_Cambridge.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Mathematical Bridge Cambridge | Historic Timber Arch",
+      "seo_description": "See the Mathematical Bridge at Queens' College. Learn about its unique tangent-and-radial timber engineering design over the River Cam.",
+      "description_short": "A famous wooden footbridge connecting two parts of Queens' College.",
+      "description_long": "Designed by William Etheridge and constructed in 1749 by James Essex, its sophisticated geometric configuration creates an efficient arch using entirely straight timber timbers.",
+      "keywords": [
+        "Mathematical Bridge",
+        "Queens College timber",
+        "William Etheridge design"
+      ],
+      "long_tail_keywords": [
+        "geometric wooden bridges England",
+        "historic bridges over River Cam"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 93,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "The Backs",
+        "Queens' College"
+      ],
+      "related_attractions": [
+        "Pulteney Bridge"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Cambridge",
+      "region": "England",
+      "name": "Fitzwilliam Museum",
+      "latitude": 52.2003,
+      "longitude": 0.1194,
+      "google_maps_url": "https://www.google.com/maps?q=52.2003,0.1194",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fitzwilliam_Museum",
+      "wikidata_id": "Q1421423",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Fitzwilliam_Museum_Cambridge_A.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "winter",
+        "autumn",
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Fitzwilliam Museum Cambridge | Fine Art Antiquities",
+      "seo_description": "Visit the Fitzwilliam Museum. Discover world-class art masterpieces and antiquities inside a grand neoclassical monument.",
+      "description_short": "The primary art and museum museum of the University of Cambridge.",
+      "description_long": "Founded in 1816 by the bequest of Richard FitzWilliam, this palatial museum preserves superb historic treasures ranging from ancient Greek antiquities to masterpieces of European painting.",
+      "keywords": [
+        "Fitzwilliam Museum",
+        "Cambridge art galleries",
+        "Richard FitzWilliam bequest"
+      ],
+      "long_tail_keywords": [
+        "free art museums in Cambridgeshire",
+        "neoclassical museum buildings England"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 94,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Mathematical Bridge",
+        "Sedgwick Museum"
+      ],
+      "related_attractions": [
+        "Ashmolean Museum"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Cambridge",
+      "region": "England",
+      "name": "Cambridge University Botanic Garden",
+      "latitude": 52.1936,
+      "longitude": 0.1244,
+      "google_maps_url": "https://www.google.com/maps?q=52.1936,0.1244",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cambridge_University_Botanic_Garden",
+      "wikidata_id": "Q5025585",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Cambridge_University_Botanic_Garden_Glasshouses.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Cambridge Botanic Garden | Plant Science Arboretums",
+      "seo_description": "Explore the Cambridge University Botanic Garden. Discover historic glasshouses, sensory plant collections, and rare tree species.",
+      "description_short": "A vast, beautiful research botanical garden supporting university science.",
+      "description_long": "Opened in 1846 by professor John Stevens Henslow, Charles Darwin's mentor, the garden houses thousands of global plant species across an elegant network of historic trails.",
+      "keywords": [
+        "Cambridge Botanic Garden",
+        "John Henslow founder",
+        "university glasshouses"
+      ],
+      "long_tail_keywords": [
+        "historic plant research gardens Britain",
+        "best nature trails in Cambridge center"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 89,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Fitzwilliam Museum"
+      ],
+      "related_attractions": [
+        "Oxford Botanic Garden"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Cambridge",
+      "region": "England",
+      "name": "Bridge of Sighs",
+      "latitude": 52.2094,
+      "longitude": 0.1161,
+      "google_maps_url": "https://www.google.com/maps?q=52.2094,0.1161",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bridge_of_Sighs_(Cambridge)",
+      "wikidata_id": "Q914109",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bridge_of_Sighs_St_Johns_College_Cambridge.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Bridge of Sighs Cambridge | Neo-Gothic St John's Bridge",
+      "seo_description": "See the historic Bridge of Sighs at St John's College. Admire this beautifully enclosed stone bridge over the River Cam.",
+      "description_short": "An elegant covered Neo-Gothic stone bridge built across the River Cam.",
+      "description_long": "Completed in 1831 by Henry Hutchinson, this architectural jewel connects old and new courts of St John's College, named after the famous covered historic bridge in Venice.",
+      "keywords": [
+        "Bridge of Sighs",
+        "St John's College bridge",
+        "Henry Hutchinson architect"
+      ],
+      "long_tail_keywords": [
+        "enclosed stone bridges England",
+        "photographing St John's college from River Cam"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 92,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "The Backs",
+        "Round Church"
+      ],
+      "related_attractions": [
+        "Pulteney Bridge"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Cambridge",
+      "region": "England",
+      "name": "The Round Church",
+      "latitude": 52.2081,
+      "longitude": 0.1197,
+      "google_maps_url": "https://www.google.com/maps?q=52.2081,0.1197",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Holy_Sepulchre,_Cambridge",
+      "wikidata_id": "Q1625442",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Round_Church_Cambridge_A.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "The Round Church Cambridge | Norman Architecture Sights",
+      "seo_description": "Visit The Round Church, a rare medieval architectural treasure. Learn about its historic Norman style and Crusader connections.",
+      "description_short": "A rare medieval circular church, one of only four in England.",
+      "description_long": "Constructed around 1130 by the Fraternity of the Holy Sepulchre, its circular design was directly inspired by the famous Church of the Holy Sepulchre in Jerusalem.",
+      "keywords": [
+        "Round Church",
+        "Norman architecture",
+        "medieval circular churches"
+      ],
+      "long_tail_keywords": [
+        "historic Crusader churches England",
+        "oldest structures in Cambridge center"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 90,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Bridge of Sighs",
+        "Great St Mary's"
+      ],
+      "related_attractions": [
+        "Temple Church"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Cambridge",
+      "region": "England",
+      "name": "Great St Mary's Church",
+      "latitude": 52.2053,
+      "longitude": 0.1189,
+      "google_maps_url": "https://www.google.com/maps?q=52.2053,0.1189",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Great_St_Mary%27s",
+      "wikidata_id": "Q1544372",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Great_St_Marys_Church_Cambridge.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Great St Mary's Church | Cambridge University Church Tower",
+      "seo_description": "Visit Great St Mary's, the historic university church. Climb the tower for spectacular bird's-eye views over Market Square.",
+      "description_short": "The official university church of Cambridge, featuring a historic tower.",
+      "description_long": "Constructed in Perpendicular Gothic style between 1478 and 1519, this prominent church serves as the geographic center from which all college distances are measured.",
+      "keywords": [
+        "Great St Marys",
+        "Cambridge university churches",
+        "Gothic towers"
+      ],
+      "long_tail_keywords": [
+        "climbing church towers in Cambridge",
+        "best viewpoints of Cambridge market"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 87,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "King's College Chapel",
+        "Round Church"
+      ],
+      "related_attractions": [
+        "University Church Oxford"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Cambridge",
+      "region": "England",
+      "name": "Sedgwick Museum of Earth Sciences",
+      "latitude": 52.2031,
+      "longitude": 0.1228,
+      "google_maps_url": "https://www.google.com/maps?q=52.2031,0.1228",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sedgwick_Museum_of_Earth_Sciences",
+      "wikidata_id": "Q3325656",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Sedgwick_Museum_of_Earth_Sciences_Interior.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "winter",
+        "autumn",
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Sedgwick Museum Cambridge | Geology & Fossil Exhibits",
+      "seo_description": "Explore the Sedgwick Museum of Earth Sciences. View extensive rock, mineral, and historic dinosaur fossil collections.",
+      "description_short": "The oldest of the University of Cambridge museums, focused on geology.",
+      "description_long": "Opened in 1904 as a memorial to geologist Adam Sedgwick, this historic collection includes thousands of fossil specimens collected by Charles Darwin during his HMS Beagle voyage.",
+      "keywords": [
+        "Sedgwick Museum",
+        "Adam Sedgwick geology",
+        "Charles Darwin fossils"
+      ],
+      "long_tail_keywords": [
+        "free science museums in Cambridge",
+        "dinosaur fossil exhibitions England"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 85,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Fitzwilliam Museum",
+        "Great St Mary's"
+      ],
+      "related_attractions": [
+        "Museum of Natural History Oxford"
+      ],
+      "internal_link_priority": "low"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Cambridge",
+      "region": "England",
+      "name": "The Corpus Clock",
+      "latitude": 52.2042,
+      "longitude": 0.1178,
+      "google_maps_url": "https://www.google.com/maps?q=52.2042,0.1178",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Corpus_Clock",
+      "wikidata_id": "Q1135111",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Corpus_Clock_Cambridge_A.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "The Corpus Clock Cambridge | Unique Public Timepiece",
+      "seo_description": "See the fascinating Corpus Clock outside Corpus Christi College. Admire this intricate, gold-plated mechanical public art piece.",
+      "description_short": "A striking, unique public clock topped by an insect sculpture.",
+      "description_long": "Unveiled in 2008 by physicist Stephen Hawking, this unique clock was designed by John C. Taylor, featuring a scary grasshopper sculpture called the Chronophage eating time.",
+      "keywords": [
+        "Corpus Clock",
+        "Chronophage grasshopper",
+        "John Taylor design"
+      ],
+      "long_tail_keywords": [
+        "unique public art in Cambridge center",
+        "Stephen Hawking unveiled monuments"
+      ],
+      "search_intent": "navigational",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 86,
+      "topical_depth_score": 6,
+      "nearby_attractions": [
+        "King's College Chapel",
+        "Great St Mary's"
+      ],
+      "related_attractions": [
+        "London Eye"
+      ],
+      "internal_link_priority": "low"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Liverpool",
+      "region": "England",
+      "name": "Royal Albert Dock",
+      "latitude": 53.4011,
+      "longitude": -2.9928,
+      "google_maps_url": "https://www.google.com/maps?q=53.4011,-2.9928",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Royal_Albert_Dock",
+      "wikidata_id": "Q1435345",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Albert_Dock_Liverpool_2014.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Royal Albert Dock Liverpool | Historic Waterfront Warehouses",
+      "seo_description": "Explore the Royal Albert Dock. Discover a vibrant historic complex of cast-iron warehouses, museums, and waterfront dining.",
+      "description_short": "A historic complex of dock buildings and warehouses opened in 1846.",
+      "description_long": "Designed by Jesse Hartley and opened by Prince Albert, it was the first non-combustible warehouse system in the world, constructed completely from cast iron, brick, and stone.",
+      "keywords": [
+        "Royal Albert Dock",
+        "Jesse Hartley docks",
+        "Liverpool waterfront"
+      ],
+      "long_tail_keywords": [
+        "historic maritime warehouses England",
+        "things to do on Liverpool waterfront"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 98,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "The Beatles Story",
+        "Tate Liverpool"
+      ],
+      "related_attractions": [
+        "Borough Market"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Liverpool",
+      "region": "England",
+      "name": "The Beatles Story",
+      "latitude": 53.3992,
+      "longitude": -2.9922,
+      "google_maps_url": "https://www.google.com/maps?q=53.3992,-2.9922",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Beatles_Story",
+      "wikidata_id": "Q3519910",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/The_Beatles_Story_Albert_Dock.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 2.0",
+      "season_tags": [
+        "winter",
+        "autumn",
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "The Beatles Story Liverpool | Immersive Music Museum",
+      "seo_description": "Visit The Beatles Story at Albert Dock. Immerse yourself in the history, memorabilia, and music of the Fab Four.",
+      "description_short": "The world's largest permanent museum exhibition dedicated purely to The Beatles.",
+      "description_long": "Opened in 1990, this award-winning museum takes fans on an atmospheric journey through the lives, times, and musical evolution of John, Paul, George, and Ringo.",
+      "keywords": [
+        "The Beatles Story",
+        "Liverpool pop music",
+        "Fab Four memorabilia"
+      ],
+      "long_tail_keywords": [
+        "The Beatles museum tickets Liverpool",
+        "music heritage tours in Merseyside"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 96,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Royal Albert Dock",
+        "Merseyside Maritime Museum"
+      ],
+      "related_attractions": [
+        "Jorvik Viking Centre"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Liverpool",
+      "region": "England",
+      "name": "Liverpool Cathedral",
+      "latitude": 53.3975,
+      "longitude": -2.9731,
+      "google_maps_url": "https://www.google.com/maps?q=53.3975,-2.9731",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Liverpool_Cathedral",
+      "wikidata_id": "Q1814640",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Liverpool_Anglican_Cathedral_from_the_north_west.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Liverpool Cathedral | Monumental Gothic Revival Spire",
+      "seo_description": "Visit Liverpool Cathedral, the largest cathedral in Britain. Admire Giles Gilbert Scott's massive Gothic Revival architecture.",
+      "description_short": "A colossal Anglican cathedral commanding the city's highest ridge.",
+      "description_long": "Designed by Sir Giles Gilbert Scott and constructed between 1904 and 1978, it ranks as one of the world's longest ecclesiastical buildings, built from beautiful red sandstone.",
+      "keywords": [
+        "Liverpool Cathedral",
+        "Giles Gilbert Scott",
+        "Gothic Revival architecture"
+      ],
+      "long_tail_keywords": [
+        "largest cathedrals in the United Kingdom",
+        "historic red sandstone churches England"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 95,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "St James Mount",
+        "Philharmonic Hall"
+      ],
+      "related_attractions": [
+        "York Minster"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Liverpool",
+      "region": "England",
+      "name": "St George's Hall",
+      "latitude": 53.4078,
+      "longitude": -2.9797,
+      "google_maps_url": "https://www.google.com/maps?q=53.4078,-2.9797",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St_George%27s_Hall,_Liverpool",
+      "wikidata_id": "Q3914842",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/St_Georges_Hall_Liverpool_A.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "winter",
+        "autumn",
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "St George's Hall | Neoclassical Civic Architecture",
+      "seo_description": "See St George's Hall in Liverpool. Tour the grand neoclassical courtrooms and magnificent concert halls.",
+      "description_short": "A monumental 19th-century neoclassical building housing courts and concert halls.",
+      "description_long": "Opened in 1854, this grand structure designed by Harvey Lonsdale Elmes contains an extraordinary concert hall featuring the world's finest Minton tile mosaic pavement floors.",
+      "keywords": [
+        "St Georges Hall",
+        "Harvey Elmes architect",
+        "Minton tile mosaic"
+      ],
+      "long_tail_keywords": [
+        "neoclassical civil architecture England",
+        "historic halls near Liverpool Lime Street"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 91,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Walker Art Gallery",
+        "World Museum"
+      ],
+      "related_attractions": [
+        "Radcliffe Camera"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Liverpool",
+      "region": "England",
+      "name": "Museum of Liverpool",
+      "latitude": 53.4028,
+      "longitude": -2.9942,
+      "google_maps_url": "https://www.google.com/maps?q=53.4028,-2.9942",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Museum_of_Liverpool",
+      "wikidata_id": "Q1751141",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Museum_of_Liverpool_2011.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "winter",
+        "autumn",
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Museum of Liverpool | Waterfront Cultural History",
+      "seo_description": "Visit the Museum of Liverpool. Discover the rich social, industrial, and maritime history of this iconic port city.",
+      "description_short": "A striking modern museum dedicated entirely to the city's heritage.",
+      "description_long": "Opened in 2011 in a state-of-the-art geometric waterfront pavilion, it explores how Liverpool's unique trade culture and musical heritage shaped global popular trends.",
+      "keywords": [
+        "Museum of Liverpool",
+        "waterfront museums",
+        "social history port"
+      ],
+      "long_tail_keywords": [
+        "free modern museums in Liverpool",
+        "Merseyside history exhibitions"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 92,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Royal Albert Dock",
+        "Pier Head"
+      ],
+      "related_attractions": [
+        "Museum of London"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Liverpool",
+      "region": "England",
+      "name": "Walker Art Gallery",
+      "latitude": 53.4099,
+      "longitude": -2.9797,
+      "google_maps_url": "https://www.google.com/maps?q=53.4099,-2.9797",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Walker_Art_Gallery",
+      "wikidata_id": "Q1779958",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Walker_Art_Gallery_Liverpool_A.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "winter",
+        "autumn",
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Walker Art Gallery | National Fine Art Collections",
+      "seo_description": "Explore the Walker Art Gallery. View exquisite Renaissance masterworks, Pre-Raphaelite paintings, and modern British sculpture.",
+      "description_short": "One of the finest and largest public art galleries in England outside London.",
+      "description_long": "Opened in 1877, this neo-Grecian palace houses a magnificent collection of fine arts, earning it the reputation of being the National Gallery of the North.",
+      "keywords": [
+        "Walker Art Gallery",
+        "Pre-Raphaelite paintings",
+        "Liverpool art museums"
+      ],
+      "long_tail_keywords": [
+        "free fine art galleries in Merseyside",
+        "Renaissance masterpieces northern England"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 89,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "St George's Hall",
+        "World Museum"
+      ],
+      "related_attractions": [
+        "Scottish National Gallery"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Liverpool",
+      "region": "England",
+      "name": "The Cavern Club",
+      "latitude": 53.4064,
+      "longitude": -2.9877,
+      "google_maps_url": "https://www.google.com/maps?q=53.4064,-2.9877",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Cavern_Club",
+      "wikidata_id": "Q1134015",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Cavern_Club_Liverpool_2009.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "The Cavern Club | Birthplace of British Rock Pop",
+      "seo_description": "Visit the world-famous Cavern Club on Mathew Street. Experience live music in the brick cellar where The Beatles played.",
+      "description_short": "The historic brick cellar club that launched the 1960s Merseybeat sound.",
+      "description_long": "Opened in 1957 as a jazz haven, it became the cradle of British pop music, hosting 292 historic early performances by The Beatles between 1961 and 1963.",
+      "keywords": [
+        "Cavern Club",
+        "Mathew Street",
+        "Merseybeat live music"
+      ],
+      "long_tail_keywords": [
+        "where did The Beatles play in Liverpool",
+        "historic music clubs in England"
+      ],
+      "search_intent": "commercial",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 93,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Mathew Street",
+        "St George's Hall"
+      ],
+      "related_attractions": [
+        "The Beatles Story"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Liverpool",
+      "region": "England",
+      "name": "World Museum",
+      "latitude": 53.4097,
+      "longitude": -2.9814,
+      "google_maps_url": "https://www.google.com/maps?q=53.4097,-2.9814",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/World_Museum_(Liverpool)",
+      "wikidata_id": "Q2344791",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/World_Museum_Liverpool_Exterior.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "winter",
+        "autumn",
+        "spring",
+        "summer"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "World Museum Liverpool | Planetarium & Ethnography",
+      "seo_description": "Discover natural sciences and ethnography at the World Museum. Visit the state-of-the-art planetarium and ancient archeological galleries.",
+      "description_short": "A large multidisciplinary museum featuring planetariums and science exhibits.",
+      "description_long": "Established in 1851, this expansive museum houses extensive collections detailing natural history, space exploration, and historic world cultures under a grand classical facade.",
+      "keywords": [
+        "World Museum",
+        "Liverpool planetariums",
+        "ethnography collections"
+      ],
+      "long_tail_keywords": [
+        "family science museums in Liverpool",
+        "free planetariums northern England"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 86,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Walker Art Gallery",
+        "St George's Hall"
+      ],
+      "related_attractions": [
+        "Museum of Natural History Oxford"
+      ],
+      "internal_link_priority": "low"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Liverpool",
+      "region": "England",
+      "name": "Sudley House",
+      "latitude": 53.3769,
+      "longitude": -2.9239,
+      "google_maps_url": "https://www.google.com/maps?q=53.3769,-2.9239",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sudley_House",
+      "wikidata_id": "Q7633857",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Sudley_House_Liverpool.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Sudley House | Historic Shipowner Mansion Art",
+      "seo_description": "Visit Sudley House. Explore a historic merchant mansion containing an intact 19th-century fine art collection.",
+      "description_short": "An elegant period mansion displaying merchant fine art collections.",
+      "description_long": "Built in 1824, this upscale home was bought by shipping magnate George Holt in 1884. It houses a rare intact collection of paintings featuring works by Turner and Gainsborough.",
+      "keywords": [
+        "Sudley House",
+        "George Holt shipping",
+        "merchant mansions"
+      ],
+      "long_tail_keywords": [
+        "historic period homes in Liverpool",
+        "George Holt art collection Turner"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 83,
+      "topical_depth_score": 6,
+      "nearby_attractions": [
+        "Sefton Park"
+      ],
+      "related_attractions": [
+        "Treasurer's House"
+      ],
+      "internal_link_priority": "low"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Liverpool",
+      "region": "England",
+      "name": "Sefton Park Palm House",
+      "latitude": 53.3819,
+      "longitude": -2.9356,
+      "google_maps_url": "https://www.google.com/maps?q=53.3819,-2.9356",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sefton_Park_Palm_House",
+      "wikidata_id": "Q7446261",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sefton_Park_Palm_House_Liverpool.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "seo_title": "Sefton Park Palm House | Victorian Glass Conservatory",
+      "seo_description": "Visit the spectacular Sefton Park Palm House. Admire the historic Victorian glass conservatory housing rare botanical palms.",
+      "description_short": "A magnificent three-tier glass dome conservatory inside Sefton Park.",
+      "description_long": "Opened in 1896, this stunning Victorian structural iron dome houses exotic botanical plant collections and marble statues, serving as a focal point of leisure within the park.",
+      "keywords": [
+        "Sefton Park",
+        "Palm House conservatory",
+        "Victorian glass domes"
+      ],
+      "long_tail_keywords": [
+        "historic conservatories in northern England",
+        "botanical photography spots Liverpool"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 88,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Sefton Park Lake"
+      ],
+      "related_attractions": [
+        "Cambridge Botanic Garden"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "name": "Salford",
+      "city": "Manchester",
+      "region": "United Kingdom",
+      "latitude": 53.483,
+      "longitude": -2.2931,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Salford",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Manchester_%26_Salford_Skyline_2020.jpg/800px-Manchester_%26_Salford_Skyline_2020.jpg",
+      "description_short": "Salford — a notable landmark in Manchester, United Kingdom.",
+      "keywords": [
+        "Manchester",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Manchester Airport",
+      "city": "Manchester",
+      "region": "United Kingdom",
+      "latitude": 53.35388889,
+      "longitude": -2.275,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Manchester_Airport",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Manchester_Airport_EGCC.jpg/800px-Manchester_Airport_EGCC.jpg",
+      "description_short": "Manchester Airport — a notable landmark in Manchester, United Kingdom.",
+      "keywords": [
+        "Manchester",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "No. 1 Deansgate",
+      "city": "Manchester",
+      "region": "United Kingdom",
+      "latitude": 53.48361111,
+      "longitude": -2.24555556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/No._1_Deansgate",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Inside_Manchester_%286865901850%29.jpg/800px-Inside_Manchester_%286865901850%29.jpg",
+      "description_short": "No. 1 Deansgate — a notable landmark in Manchester, United Kingdom.",
+      "keywords": [
+        "Manchester",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Chelmsford Cathedral",
+      "city": "Manchester",
+      "region": "United Kingdom",
+      "latitude": 51.7355,
+      "longitude": 0.4741,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Chelmsford_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chelmsford_Cathedral_Exterior%2C_Essex%2C_UK_-_Diliff.jpg/800px-Chelmsford_Cathedral_Exterior%2C_Essex%2C_UK_-_Diliff.jpg",
+      "description_short": "Chelmsford Cathedral — a notable landmark in Manchester, United Kingdom.",
+      "keywords": [
+        "Manchester",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Leeds Cathedral",
+      "city": "Manchester",
+      "region": "United Kingdom",
+      "latitude": 53.8007,
+      "longitude": -1.5468,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Leeds_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Leeds_Cathedral.jpg/800px-Leeds_Cathedral.jpg",
+      "description_short": "Leeds Cathedral — a notable landmark in Manchester, United Kingdom.",
+      "keywords": [
+        "Manchester",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Manchester Tennis and Racquet Club",
+      "city": "Manchester",
+      "region": "United Kingdom",
+      "latitude": 53.4859,
+      "longitude": -2.2524,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Manchester_Tennis_and_Racquet_Club",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/ImageManchester_Tennis_and_Racquet_Club.jpg",
+      "description_short": "Manchester Tennis and Racquet Club — a notable landmark in Manchester, United Kingdom.",
+      "keywords": [
+        "Manchester",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Manchester Arena bombing",
+      "city": "Manchester",
+      "region": "United Kingdom",
+      "latitude": 53.48805556,
+      "longitude": -2.24388889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Manchester_Arena_bombing",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Manchester_Arena_exterior%2C_%282%29_May19.jpg/800px-Manchester_Arena_exterior%2C_%282%29_May19.jpg",
+      "description_short": "Manchester Arena bombing — a notable landmark in Manchester, United Kingdom.",
+      "keywords": [
+        "Manchester",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Bamburgh Castle",
+      "city": "Manchester",
+      "region": "United Kingdom",
+      "latitude": 55.608,
+      "longitude": -1.709,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bamburgh_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bamburgh_Castle%2C_beautiful_day.jpg/800px-Bamburgh_Castle%2C_beautiful_day.jpg",
+      "description_short": "Bamburgh Castle — a notable landmark in Manchester, United Kingdom.",
+      "keywords": [
+        "Manchester",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Science and Industry Museum",
+      "city": "Manchester",
+      "region": "United Kingdom",
+      "latitude": 53.47694444,
+      "longitude": -2.25555556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Science_and_Industry_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Science_and_Industry_Museum.jpg/800px-Science_and_Industry_Museum.jpg",
+      "description_short": "Science and Industry Museum — a notable landmark in Manchester, United Kingdom.",
+      "keywords": [
+        "Manchester",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Imperial War Museum North",
+      "city": "Manchester",
+      "region": "United Kingdom",
+      "latitude": 53.4697,
+      "longitude": -2.2989,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Imperial_War_Museum_North",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Imperial_War_Museum_2008cropped.jpg",
+      "description_short": "Imperial War Museum North — a notable landmark in Manchester, United Kingdom.",
+      "keywords": [
+        "Manchester",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Old Trafford",
+      "city": "Manchester",
+      "region": "United Kingdom",
+      "latitude": 53.46305556,
+      "longitude": -2.29138889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Old_Trafford",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg/800px-2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg",
+      "description_short": "Old Trafford — a notable landmark in Manchester, United Kingdom.",
+      "keywords": [
+        "Manchester",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Manchester Museum",
+      "city": "Manchester",
+      "region": "United Kingdom",
+      "latitude": 53.46638889,
+      "longitude": -2.23444444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Manchester_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/The_Manchester_Museum.jpg/800px-The_Manchester_Museum.jpg",
+      "description_short": "Manchester Museum — a notable landmark in Manchester, United Kingdom.",
+      "keywords": [
+        "Manchester",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "People's History Museum",
+      "city": "Manchester",
+      "region": "United Kingdom",
+      "latitude": 53.48134,
+      "longitude": -2.2533,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/People's_History_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/PeoplesHistoryMuseum.JPG/800px-PeoplesHistoryMuseum.JPG",
+      "description_short": "People's History Museum — a notable landmark in Manchester, United Kingdom.",
+      "keywords": [
+        "Manchester",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "National Army Museum",
+      "city": "Manchester",
+      "region": "United Kingdom",
+      "latitude": 51.486111,
+      "longitude": -0.16,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/National_Army_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/National_Army_Museum_-_Joy_of_Museums.jpg/800px-National_Army_Museum_-_Joy_of_Museums.jpg",
+      "description_short": "National Army Museum — a notable landmark in Manchester, United Kingdom.",
+      "keywords": [
+        "Manchester",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Belfast",
+      "city": "Belfast",
+      "region": "United Kingdom",
+      "latitude": 54.5967,
+      "longitude": -5.93,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Belfast",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Custom_House%2C_River_Lagan%2C_Belfast.jpg/800px-Custom_House%2C_River_Lagan%2C_Belfast.jpg",
+      "description_short": "Belfast — a notable landmark in Belfast, United Kingdom.",
+      "keywords": [
+        "Belfast",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Liverpool Metropolitan Cathedral",
+      "city": "Belfast",
+      "region": "United Kingdom",
+      "latitude": 53.4047,
+      "longitude": -2.9688,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Liverpool_Metropolitan_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Liverpool_Metropolitan_Cathedral_Exterior%2C_Liverpool%2C_UK_-_Diliff.jpg/800px-Liverpool_Metropolitan_Cathedral_Exterior%2C_Liverpool%2C_UK_-_Diliff.jpg",
+      "description_short": "Liverpool Metropolitan Cathedral — a notable landmark in Belfast, United Kingdom.",
+      "keywords": [
+        "Belfast",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Falls Road",
+      "city": "Belfast",
+      "region": "United Kingdom",
+      "latitude": 54.59347,
+      "longitude": -5.95823,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Falls_Road%2C_Belfast",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Catholicbelfast.jpg/800px-Catholicbelfast.jpg",
+      "description_short": "Falls Road, Belfast — a notable landmark in Belfast, United Kingdom.",
+      "keywords": [
+        "Belfast",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "St Peter's Cathedral",
+      "city": "Belfast",
+      "region": "United Kingdom",
+      "latitude": 54.599038,
+      "longitude": -5.944408,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St_Peter's_Cathedral%2C_Belfast",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/St_petersbelfast-2.jpg",
+      "description_short": "St Peter's Cathedral, Belfast — a notable landmark in Belfast, United Kingdom.",
+      "keywords": [
+        "Belfast",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "St Mary's Cathedral",
+      "city": "Belfast",
+      "region": "United Kingdom",
+      "latitude": 55.9561,
+      "longitude": -3.1877,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St_Mary's_Cathedral%2C_Edinburgh_(Catholic)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/St_Mary%27s_Roman_Catholic_Cathedral_Edinburgh_2.JPG/800px-St_Mary%27s_Roman_Catholic_Cathedral_Edinburgh_2.JPG",
+      "description_short": "St Mary's Cathedral, Edinburgh (Catholic) — a notable landmark in Belfast, United Kingdom.",
+      "keywords": [
+        "Belfast",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "St Mary's Cathedral",
+      "city": "Belfast",
+      "region": "United Kingdom",
+      "latitude": 57.1454,
+      "longitude": -2.1064,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St_Mary's_Cathedral%2C_Aberdeen",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/St_Mary%27s_Cathedral%2C_Aberdeen_2025.jpg/800px-St_Mary%27s_Cathedral%2C_Aberdeen_2025.jpg",
+      "description_short": "St Mary's Cathedral, Aberdeen — a notable landmark in Belfast, United Kingdom.",
+      "keywords": [
+        "Belfast",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "St Joseph's Cathedral",
+      "city": "Belfast",
+      "region": "United Kingdom",
+      "latitude": 51.632778,
+      "longitude": -3.943889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St_Joseph's_Cathedral%2C_Swansea",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Saint_Josephs_Cathedral_swansea-2.jpg/800px-Saint_Josephs_Cathedral_swansea-2.jpg",
+      "description_short": "St Joseph's Cathedral, Swansea — a notable landmark in Belfast, United Kingdom.",
+      "keywords": [
+        "Belfast",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "HMS Belfast",
+      "city": "Belfast",
+      "region": "United Kingdom",
+      "latitude": 51.50666667,
+      "longitude": -0.08138889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/HMS_Belfast",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/London_November_2013-14a.jpg/800px-London_November_2013-14a.jpg",
+      "description_short": "HMS Belfast — a notable landmark in Belfast, United Kingdom.",
+      "keywords": [
+        "Belfast",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Hillsborough Castle",
+      "city": "Belfast",
+      "region": "United Kingdom",
+      "latitude": 54.46127,
+      "longitude": -6.08604,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hillsborough_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Hillsborough_Castle%2C_Northern_Ireland.jpg",
+      "description_short": "Hillsborough Castle — a notable landmark in Belfast, United Kingdom.",
+      "keywords": [
+        "Belfast",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Belfast City Hall",
+      "city": "Belfast",
+      "region": "United Kingdom",
+      "latitude": 54.596484,
+      "longitude": -5.930053,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Belfast_City_Hall",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Belfast_City_Hall_-_Belfast%2C_Northern_Ireland%2C_UK_-_August_13%2C_2017_-_01.jpg/800px-Belfast_City_Hall_-_Belfast%2C_Northern_Ireland%2C_UK_-_August_13%2C_2017_-_01.jpg",
+      "description_short": "Belfast City Hall — a notable landmark in Belfast, United Kingdom.",
+      "keywords": [
+        "Belfast",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Quintin Castle",
+      "city": "Belfast",
+      "region": "United Kingdom",
+      "latitude": 54.3768,
+      "longitude": -5.4891,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Quintin_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Quintin_Castle_crop.jpg",
+      "description_short": "Quintin Castle — a notable landmark in Belfast, United Kingdom.",
+      "keywords": [
+        "Belfast",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Cardiff",
+      "city": "Cardiff",
+      "region": "United Kingdom",
+      "latitude": 51.48166667,
+      "longitude": -3.17916667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cardiff",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Cardiff_Bay_WMC.jpg",
+      "description_short": "Cardiff — a notable landmark in Cardiff, United Kingdom.",
+      "keywords": [
+        "Cardiff",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "National Museum Cardiff",
+      "city": "Cardiff",
+      "region": "United Kingdom",
+      "latitude": 51.4858,
+      "longitude": -3.1773,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/National_Museum_Cardiff",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Amgueddfa_Genedlaethol_Caerdydd.JPG/800px-Amgueddfa_Genedlaethol_Caerdydd.JPG",
+      "description_short": "National Museum Cardiff — a notable landmark in Cardiff, United Kingdom.",
+      "keywords": [
+        "Cardiff",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Arundel Cathedral",
+      "city": "Cardiff",
+      "region": "United Kingdom",
+      "latitude": 50.8552,
+      "longitude": -0.559,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Arundel_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Arundel_Cathedral_Exterior%2C_West_Sussex%2C_UK_-_Diliff.jpg/800px-Arundel_Cathedral_Exterior%2C_West_Sussex%2C_UK_-_Diliff.jpg",
+      "description_short": "Arundel Cathedral — a notable landmark in Cardiff, United Kingdom.",
+      "keywords": [
+        "Cardiff",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "St David's",
+      "city": "Cardiff",
+      "region": "United Kingdom",
+      "latitude": 51.48083333,
+      "longitude": -3.17555556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St_David's%2C_Cardiff",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/St_David%27s_Centre_newly_opened.jpg/800px-St_David%27s_Centre_newly_opened.jpg",
+      "description_short": "St David's, Cardiff — a notable landmark in Cardiff, United Kingdom.",
+      "keywords": [
+        "Cardiff",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Cardiff Metropolitan Cathedral",
+      "city": "Cardiff",
+      "region": "United Kingdom",
+      "latitude": 51.4809,
+      "longitude": -3.174,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cardiff_Metropolitan_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Eglwys_Gadeiriol_Caerdydd.jpg/800px-Eglwys_Gadeiriol_Caerdydd.jpg",
+      "description_short": "Cardiff Metropolitan Cathedral — a notable landmark in Cardiff, United Kingdom.",
+      "keywords": [
+        "Cardiff",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Spillers Records",
+      "city": "Cardiff",
+      "region": "United Kingdom",
+      "latitude": 51.47879,
+      "longitude": -3.17707,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Spillers_Records",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Spillers_Records%2C_27_Morgan_Arcade%2C_Cardiff.jpg/800px-Spillers_Records%2C_27_Morgan_Arcade%2C_Cardiff.jpg",
+      "description_short": "Spillers Records — a notable landmark in Cardiff, United Kingdom.",
+      "keywords": [
+        "Cardiff",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Caerphilly Castle",
+      "city": "Cardiff",
+      "region": "United Kingdom",
+      "latitude": 51.5761,
+      "longitude": -3.2203,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Caerphilly_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Caerphilly_aerial.jpg/800px-Caerphilly_aerial.jpg",
+      "description_short": "Caerphilly Castle — a notable landmark in Cardiff, United Kingdom.",
+      "keywords": [
+        "Cardiff",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Cardiff Airport",
+      "city": "Cardiff",
+      "region": "United Kingdom",
+      "latitude": 51.39666667,
+      "longitude": -3.34333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cardiff_Airport",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Cardiff_Airport_September_2023_02.jpg/800px-Cardiff_Airport_September_2023_02.jpg",
+      "description_short": "Cardiff Airport — a notable landmark in Cardiff, United Kingdom.",
+      "keywords": [
+        "Cardiff",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Cardiff City Stadium",
+      "city": "Cardiff",
+      "region": "United Kingdom",
+      "latitude": 51.47278,
+      "longitude": -3.20306,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cardiff_City_Stadium",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cardiff_City_Stadium_Pitch.jpg/800px-Cardiff_City_Stadium_Pitch.jpg",
+      "description_short": "Cardiff City Stadium — a notable landmark in Cardiff, United Kingdom.",
+      "keywords": [
+        "Cardiff",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Animal Wall",
+      "city": "Cardiff",
+      "region": "United Kingdom",
+      "latitude": 51.481146,
+      "longitude": -3.183024,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Animal_Wall",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_Animal_Wall_-_Bute_Park%2C_Cardiff.jpg/800px-The_Animal_Wall_-_Bute_Park%2C_Cardiff.jpg",
+      "description_short": "Animal Wall — a notable landmark in Cardiff, United Kingdom.",
+      "keywords": [
+        "Cardiff",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Cardiff Market",
+      "city": "Cardiff",
+      "region": "United Kingdom",
+      "latitude": 51.4801,
+      "longitude": -3.1787,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cardiff_Market",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cardiff_Market_interior%2C_Nov_2022.jpg/800px-Cardiff_Market_interior%2C_Nov_2022.jpg",
+      "description_short": "Cardiff Market — a notable landmark in Cardiff, United Kingdom.",
+      "keywords": [
+        "Cardiff",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle Quarter (Cardiff)",
+      "city": "Cardiff",
+      "region": "United Kingdom",
+      "latitude": 51.48,
+      "longitude": -3.175,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_Quarter_(Cardiff)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Cardiff_Castle_clock_tower.jpg/800px-Cardiff_Castle_clock_tower.jpg",
+      "description_short": "Castle Quarter (Cardiff) — a notable landmark in Cardiff, United Kingdom.",
+      "keywords": [
+        "Cardiff",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Work of William Burges at Cardiff Castle",
+      "city": "Cardiff",
+      "region": "United Kingdom",
+      "latitude": 51.4824,
+      "longitude": -3.1837,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Work_of_William_Burges_at_Cardiff_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cardiff_Castle_from_Bute_Park_arboretum.jpg/800px-Cardiff_Castle_from_Bute_Park_arboretum.jpg",
+      "description_short": "Work of William Burges at Cardiff Castle — a notable landmark in Cardiff, United Kingdom.",
+      "keywords": [
+        "Cardiff",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Twmpath Castle",
+      "city": "Cardiff",
+      "region": "United Kingdom",
+      "latitude": 51.532355,
+      "longitude": -3.221363,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Twmpath_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Twmpath_Castle_%282%29.jpg/800px-Twmpath_Castle_%282%29.jpg",
+      "description_short": "Twmpath Castle — a notable landmark in Cardiff, United Kingdom.",
+      "keywords": [
+        "Cardiff",
+        "United Kingdom",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    }
+  ],
+  "adventure_locations": [
+    {
+      "country": "United Kingdom",
+      "region": "Northern Ireland",
+      "name": "Giant's Causeway",
+      "latitude": 55.2408,
+      "longitude": -6.5115,
+      "google_maps_url": "https://www.google.com/maps?q=55.2408,-6.5115",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giant%27s_Causeway",
+      "wikidata_id": "Q106187",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Giants_Causeway_Northern_Ireland.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "summer",
+        "spring",
+        "autumn"
+      ],
+      "accessibility_type": "accessible_by_car",
+      "seo_title": "Giant's Causeway Guide | Basalt Columns Coastal Wonders",
+      "seo_description": "Explore the majestic Giant's Causeway in Northern Ireland. Walk across thousands of natural basalt columns created by historic volcanic action.",
+      "description_short": "An area of about 40,000 interlocking basalt columns on the coast.",
+      "description_long": "Formed roughly 50 to 60 million years ago during a period of intense volcanic activity, the rapidly cooling lava hardened into regular hexagonal pillars, inspiring rich traditional Celtic folklore.",
+      "keywords": [
+        "Giants Causeway",
+        "basalt columns coast",
+        "volcanic rock pillars"
+      ],
+      "long_tail_keywords": [
+        "visiting natural wonders Northern Ireland",
+        "Giants Causeway car park tips"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 100,
+      "topical_depth_score": 10,
+      "nearby_attractions": [
+        "Dunluce Castle"
+      ],
+      "related_attractions": [
+        "Fingal's Cave"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "country": "United Kingdom",
+      "region": "England",
+      "name": "Lulworth Cove and Durdle Door",
+      "latitude": 50.6212,
+      "longitude": -2.2766,
+      "google_maps_url": "https://www.google.com/maps?q=50.6212,-2.2766",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Durdle_Door",
+      "wikidata_id": "Q1266858",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Durdle_Door_Dorset_2015.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "summer",
+        "spring",
+        "autumn"
+      ],
+      "accessibility_type": "accessible_by_car",
+      "seo_title": "Durdle Door Dorset | Jurassic Coast Natural Arch",
+      "seo_description": "Visit Durdle Door on the Jurassic Coast. Walk alongside iconic limestone sea arches and perfect circular coastal coves.",
+      "description_short": "A world-famous natural limestone arch on the Dorset coast.",
+      "description_long": "Forming part of a UNESCO World Heritage site, this remarkable coastal rock formation demonstrates millions of years of marine erosion carving through tilted Mesozoic limestone strata layers.",
+      "keywords": [
+        "Durdle Door",
+        "Jurassic Coast arch",
+        "Lulworth Cove geology"
+      ],
+      "long_tail_keywords": [
+        "coastal walks in Dorset England",
+        "photographing limestone arches Jurassic coast"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 96,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Lulworth Castle"
+      ],
+      "related_attractions": [
+        "Giant's Causeway"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "region": "England",
+      "name": "Cheddar Gorge",
+      "latitude": 51.2828,
+      "longitude": -2.7601,
+      "google_maps_url": "https://www.google.com/maps?q=51.2828,-2.7601",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cheddar_Gorge",
+      "wikidata_id": "Q1068864",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Cheddar_Gorge_Somerset_2012.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility_type": "accessible_by_car",
+      "seo_title": "Cheddar Gorge Somerset | Limestone Ravine Climbing Sights",
+      "seo_description": "Drive or hike through Cheddar Gorge, England's grandest limestone ravine. Admire spectacular sheer crag cliffs and valleys.",
+      "description_short": "A monumental limestone gorge in the Mendip Hills.",
+      "description_long": "Carved out by meltwater floods during successive ice ages over the last million years, this majestic crag feature contains spectacular precipitous rock faces rising nearly 140 meters high.",
+      "keywords": [
+        "Cheddar Gorge",
+        "Mendip Hills cliffs",
+        "limestone ravines"
+      ],
+      "long_tail_keywords": [
+        "scenic gorge drives Somerset",
+        "hiking Cheddar cliff top trails"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 94,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Wookey Hole"
+      ],
+      "related_attractions": [
+        "Glencoe Valley"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "name": "Loch Lomond and The Trossachs",
+      "latitude": 56.1031,
+      "longitude": -4.6312,
+      "google_maps_url": "https://www.google.com/maps?q=56.1031,-4.6312",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Loch_Lomond_and_The_Trossachs_National_Park",
+      "wikidata_id": "Q1143899",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Loch_Lomond_from_Firkin_Point.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility_type": "accessible_by_car",
+      "seo_title": "Loch Lomond Trossachs | Highland Glens & Lakes",
+      "seo_description": "Explore Loch Lomond and The Trossachs. Discover majestic freshwater lakes, dense pine forests, and mountain peaks.",
+      "description_short": "A vast, pristine national park showcasing classic Scottish loch scenery.",
+      "description_long": "Straddling the historic Highland Boundary Fault line, this majestic park encompasses Great Britain's largest body of inland freshwater, serving as a hub for kayaking, sailing, and forest exploration.",
+      "keywords": [
+        "Loch Lomond",
+        "The Trossachs park",
+        "Highland fault lochs"
+      ],
+      "long_tail_keywords": [
+        "lakeside walks near Glasgow",
+        "boating tours Loch Lomond tips"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 95,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Ben Lomond"
+      ],
+      "related_attractions": [
+        "Windermere Lake"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "region": "Scotland",
+      "name": "The Old Man of Storr",
+      "latitude": 57.5072,
+      "longitude": -6.1744,
+      "google_maps_url": "https://www.google.com/maps?q=57.5072,-6.1744",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Old_Man_of_Storr",
+      "wikidata_id": "Q2018316",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Old_Man_of_Storr_Isle_of_Skye.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "summer",
+        "spring",
+        "autumn"
+      ],
+      "accessibility_type": "local_guide_recommended",
+      "seo_title": "Old Man of Storr | Isle of Skye Basalt Pinnacles",
+      "seo_description": "Hike to the Old Man of Storr on the Isle of Skye. Witness iconic basalt rock pinnacles towering above the coastline.",
+      "description_short": "A monumental rock pinnacle standing on the Trotternish ridge.",
+      "description_long": "Created by a massive ancient landslide sequence along volcanic cliffs, this sharp rock monolith rises dramatically into the sky, creating one of the most photographed geology locations in Scotland.",
+      "keywords": [
+        "Old Man of Storr",
+        "Isle of Skye peaks",
+        "Trotternish landslides"
+      ],
+      "long_tail_keywords": [
+        "hiking trails Isle of Skye tips",
+        "photographing basalt rock pinnacles Scotland"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 96,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Portree town"
+      ],
+      "related_attractions": [
+        "Giant's Causeway"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "country": "United Kingdom",
+      "region": "England",
+      "name": "Malham Cove / Yorkshire Dales",
+      "latitude": 54.0728,
+      "longitude": -2.1583,
+      "google_maps_url": "https://www.google.com/maps?q=54.0728,-2.1583",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Malham_Cove",
+      "wikidata_id": "Q3281858",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Malham_Cove_Yorkshire_Dales.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility_type": "accessible_by_car",
+      "seo_title": "Malham Cove Guide | Limestone Pavement Amphitheater",
+      "seo_description": "Visit Malham Cove in the Yorkshire Dales. Hike across the spectacular cliff-top limestone pavement amphitheater formations.",
+      "description_short": "A huge curved limestone cliff feature formed by ice age rivers.",
+      "description_long": "This monumental 80-meter-high curved amphitheater was sculpted by massive glacial meltwater cascades. The top surface displays a rare, deeply eroded limestone pavement pattern.",
+      "keywords": [
+        "Malham Cove",
+        "Yorkshire Dales cliffs",
+        "limestone pavement plateau"
+      ],
+      "long_tail_keywords": [
+        "Harry Potter filming locations Yorkshire",
+        "hiking loops around Malham cove"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 92,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Gordale Scar"
+      ],
+      "related_attractions": [
+        "Cheddar Gorge"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "name": "St George's Chapel",
+      "region": "United Kingdom",
+      "latitude": 51.48361111,
+      "longitude": -0.60694444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St_George's_Chapel%2C_Windsor_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/St._Georges_Chapel%2C_Windsor_Castle_%282%29.jpg/800px-St._Georges_Chapel%2C_Windsor_Castle_%282%29.jpg",
+      "description_short": "St George's Chapel — a must-see landmark on a United Kingdom road trip.",
+      "keywords": [
+        "St George's Chapel",
+        "United Kingdom",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 90
+    },
+    {
+      "name": "Shane's Castle",
+      "region": "United Kingdom",
+      "latitude": 54.73194167,
+      "longitude": -6.27032667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Shane's_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Shane%27s_Castle%2C_County_Antrim_-_geograph.org.uk_-_155426.jpg",
+      "description_short": "Shane's Castle — a must-see landmark on a United Kingdom road trip.",
+      "keywords": [
+        "Shane's Castle",
+        "United Kingdom",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 89
+    },
+    {
+      "name": "Patriarchal Stavropegic Monastery of St John the Baptist",
+      "region": "United Kingdom",
+      "latitude": 51.79568,
+      "longitude": 0.78247,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Patriarchal_Stavropegic_Monastery_of_St_John_the_Baptist",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Eldersophrony.jpg",
+      "description_short": "Patriarchal Stavropegic Monastery of St John the Baptist — a must-see landmark on a United Kingdom road trip.",
+      "keywords": [
+        "Patriarchal Stavropegic Monastery of St John the Baptist",
+        "United Kingdom",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 88
+    },
+    {
+      "name": "Buckingham Palace",
+      "region": "United Kingdom",
+      "latitude": 51.50083333,
+      "longitude": -0.14194444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Buckingham_Palace",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Buckingham_Palace_London_Morning_2020_01_%28cropped%29.jpg/800px-Buckingham_Palace_London_Morning_2020_01_%28cropped%29.jpg",
+      "description_short": "Buckingham Palace — a must-see landmark on a United Kingdom road trip.",
+      "keywords": [
+        "Buckingham Palace",
+        "United Kingdom",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 87
+    }
+  ],
+  "country_cover_image": {
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Elizabeth_Tower%2C_June_2022.jpg",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Big_Ben"
+  }
+}

@@ -1,0 +1,3303 @@
+{
+  "country": "Norway",
+  "cities": [
+    {
+      "name": "Oslo",
+      "region": "Østlandet"
+    },
+    {
+      "name": "Bergen",
+      "region": "Vestlandet"
+    },
+    {
+      "name": "Trondheim",
+      "region": "Trøndelag"
+    },
+    {
+      "name": "Stavanger",
+      "region": "Vestlandet"
+    },
+    {
+      "name": "Tromsø",
+      "region": "Nord-Norge"
+    },
+    {
+      "name": "Ålesund",
+      "region": "Vestlandet"
+    },
+    {
+      "name": "Kristiansand",
+      "region": "Sørlandet"
+    },
+    {
+      "name": "Fredrikstad",
+      "region": "Østlandet"
+    },
+    {
+      "name": "Haugesund",
+      "region": "Vestlandet"
+    },
+    {
+      "name": "Bodø",
+      "region": "Nord-Norge"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Oslo",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.91333333,
+      "longitude": 10.73888889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oslo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nationaltheatret_evening.jpg/800px-Nationaltheatret_evening.jpg",
+      "description_short": "Oslo — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "University of Oslo",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.93993611,
+      "longitude": 10.72206389,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_Oslo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Universitetet_i_Oslo_sentrum.jpg",
+      "description_short": "University of Oslo — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Munch Museum",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.90575,
+      "longitude": 10.75531,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Munch_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/The_new_Munch_Museum_%28white_color_sign%29.jpg/800px-The_new_Munch_Museum_%28white_color_sign%29.jpg",
+      "description_short": "Munch Museum — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Akershus Fortress",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.90666667,
+      "longitude": 10.73611111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Akershus_Fortress",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/14-09-02-oslo-RalfR-370.jpg/800px-14-09-02-oslo-RalfR-370.jpg",
+      "description_short": "Akershus Fortress — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "National Museum of Norway",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.91162657,
+      "longitude": 10.72923516,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/National_Museum_of_Norway",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Nye_Nasjonalmuseet_%282022%29_%282%29.jpg/800px-Nye_Nasjonalmuseet_%282022%29_%282%29.jpg",
+      "description_short": "National Museum of Norway — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Royal Palace",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.91691111,
+      "longitude": 10.72756667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Royal_Palace%2C_Oslo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Slottet_i_Oslo_1.jpg/800px-Slottet_i_Oslo_1.jpg",
+      "description_short": "Royal Palace, Oslo — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Oslo City Museum",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.92428056,
+      "longitude": 10.70305,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oslo_City_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Oslo_City_Museum.jpg/800px-Oslo_City_Museum.jpg",
+      "description_short": "Oslo City Museum — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Norwegian Museum of Cultural History",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.90691111,
+      "longitude": 10.68595833,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_Museum_of_Cultural_History",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gol_stavkirke%2C_vinter.JPG/800px-Gol_stavkirke%2C_vinter.JPG",
+      "description_short": "Norwegian Museum of Cultural History — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Viking Ship Museum (Oslo)",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.90475556,
+      "longitude": 10.68446111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Viking_Ship_Museum_(Oslo)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mus%C3%A9e_des_navires_vikings_%28Oslo%29_%284874556533%29.jpg/800px-Mus%C3%A9e_des_navires_vikings_%28Oslo%29_%284874556533%29.jpg",
+      "description_short": "Viking Ship Museum (Oslo) — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Center for Studies of the Holocaust and Religious Minorities",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.89888889,
+      "longitude": 10.67833333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Center_for_Studies_of_the_Holocaust_and_Religious_Minorities",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Villa_Grande_facade_in_Bygdoy_Oslo.jpg/800px-Villa_Grande_facade_in_Bygdoy_Oslo.jpg",
+      "description_short": "Center for Studies of the Holocaust and Religious Minorities — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Museum of Cultural History",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.91680556,
+      "longitude": 10.73547222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Museum_of_Cultural_History%2C_Oslo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Museum_of_Cultural_History%2C_Oslo_-_main_building_20140524.jpg/800px-Museum_of_Cultural_History%2C_Oslo_-_main_building_20140524.jpg",
+      "description_short": "Museum of Cultural History, Oslo — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Norwegian Museum of Science and Technology",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.96666667,
+      "longitude": 10.78277778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_Museum_of_Science_and_Technology",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Norsk_Teknisk_Museum_TRS_070501_011.jpg/800px-Norsk_Teknisk_Museum_TRS_070501_011.jpg",
+      "description_short": "Norwegian Museum of Science and Technology — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Ibsen Museum (Oslo)",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.9152,
+      "longitude": 10.727,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ibsen_Museum_(Oslo)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ibsen_photography.jpg/800px-Ibsen_photography.jpg",
+      "description_short": "Ibsen Museum (Oslo) — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Fram Museum",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.90333333,
+      "longitude": 10.69944444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fram_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fram_Museum_building%2C_February_2018.jpg/800px-Fram_Museum_building%2C_February_2018.jpg",
+      "description_short": "Fram Museum — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Oslo Tramway Museum",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.9311,
+      "longitude": 10.7166,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oslo_Tramway_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Old_Tram_in_Oslo_TRS_050515_008.jpg/800px-Old_Tram_in_Oslo_TRS_050515_008.jpg",
+      "description_short": "Oslo Tramway Museum — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Kon-Tiki Museum",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.90361111,
+      "longitude": 10.69805556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kon-Tiki_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/The_Kon-Tiki_Museum%2C_Oslo%2C_cropped.jpg/800px-The_Kon-Tiki_Museum%2C_Oslo%2C_cropped.jpg",
+      "description_short": "Kon-Tiki Museum — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Natural History Museum at the University of Oslo",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.9198,
+      "longitude": 10.7717,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Natural_History_Museum_at_the_University_of_Oslo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Zoology_Museum_Oslo%2C_Norway.JPG/800px-Zoology_Museum_Oslo%2C_Norway.JPG",
+      "description_short": "Natural History Museum at the University of Oslo — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Vigeland Museum",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.92285,
+      "longitude": 10.70013,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Vigeland_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vigelandmuseet_utenfor.jpg/800px-Vigelandmuseet_utenfor.jpg",
+      "description_short": "Vigeland Museum — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Norwegian Maritime Museum",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.9025,
+      "longitude": 10.6985,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_Maritime_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Norwegian_Maritime_Museum_oslo_main-entrance.jpg/800px-Norwegian_Maritime_Museum_oslo_main-entrance.jpg",
+      "description_short": "Norwegian Maritime Museum — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Norway's Resistance Museum",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.9079,
+      "longitude": 10.7358,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Norway's_Resistance_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hjemmefrontmuseet_Akershus.jpg/800px-Hjemmefrontmuseet_Akershus.jpg",
+      "description_short": "Norway's Resistance Museum — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "National Gallery (Norway)",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.9162,
+      "longitude": 10.7375,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/National_Gallery_(Norway)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Nasjonalgalleriet_oslo.jpg/800px-Nasjonalgalleriet_oslo.jpg",
+      "description_short": "National Gallery (Norway) — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Oslo Police Museum",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.91527778,
+      "longitude": 10.75083333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oslo_Police_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Hammersborggata_with_Politidirektoratet_and_Oslo_Sentrum_Police_Station_-_2007.04.03.jpg",
+      "description_short": "Oslo Police Museum — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Armed Forces Museum (Norway)",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.90444444,
+      "longitude": 10.74083333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Armed_Forces_Museum_(Norway)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hovedarsenalet_Akershus.jpg/800px-Hovedarsenalet_Akershus.jpg",
+      "description_short": "Armed Forces Museum (Norway) — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Oslo Jewish Museum",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.91638889,
+      "longitude": 10.75527778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oslo_Jewish_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/J%C3%B8disk_Museum_i_Oslo_-_2010-07-05_at_15-21-17.jpg/800px-J%C3%B8disk_Museum_i_Oslo_-_2010-07-05_at_15-21-17.jpg",
+      "description_short": "Oslo Jewish Museum — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Norwegian Pharmacy Museum",
+      "city": "Oslo",
+      "region": "Norway",
+      "latitude": 59.90613056,
+      "longitude": 10.68686944,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_Pharmacy_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Norsk_Farmasihistorisk_Museum.JPG/800px-Norsk_Farmasihistorisk_Museum.JPG",
+      "description_short": "Norwegian Pharmacy Museum — a notable landmark in Oslo, Norway.",
+      "keywords": [
+        "Oslo",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Bergen",
+      "city": "Bergen",
+      "region": "Norway",
+      "latitude": 60.38944444,
+      "longitude": 5.33,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bergen",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bergen_panorama_at_night_-_panoramio_%281%29.jpg/800px-Bergen_panorama_at_night_-_panoramio_%281%29.jpg",
+      "description_short": "Bergen — a notable landmark in Bergen, Norway.",
+      "keywords": [
+        "Bergen",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Western Norway",
+      "city": "Bergen",
+      "region": "Norway",
+      "latitude": 60.88777778,
+      "longitude": 6.72361111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Western_Norway",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Norwegian_Fjord.jpg/800px-Norwegian_Fjord.jpg",
+      "description_short": "Western Norway — a notable landmark in Bergen, Norway.",
+      "keywords": [
+        "Bergen",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Tønsberg Fortress",
+      "city": "Bergen",
+      "region": "Norway",
+      "latitude": 59.27125,
+      "longitude": 10.40388889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/T%C3%B8nsberg_Fortress",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tower_in_T%C3%B8nsberg.JPG/800px-Tower_in_T%C3%B8nsberg.JPG",
+      "description_short": "Tønsberg Fortress — a notable landmark in Bergen, Norway.",
+      "keywords": [
+        "Bergen",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Sverresborg",
+      "city": "Bergen",
+      "region": "Norway",
+      "latitude": 63.41972222,
+      "longitude": 10.35722222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sverresborg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/SverresborgHill.jpg/800px-SverresborgHill.jpg",
+      "description_short": "Sverresborg — a notable landmark in Bergen, Norway.",
+      "keywords": [
+        "Bergen",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Bergenhus Fortress",
+      "city": "Bergen",
+      "region": "Norway",
+      "latitude": 60.40058611,
+      "longitude": 5.31768333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bergenhus_Fortress",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bergenhus.2.JPG/800px-Bergenhus.2.JPG",
+      "description_short": "Bergenhus Fortress — a notable landmark in Bergen, Norway.",
+      "keywords": [
+        "Bergen",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Gamlehaugen",
+      "city": "Bergen",
+      "region": "Norway",
+      "latitude": 60.34256111,
+      "longitude": 5.33695833,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gamlehaugen",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gamlehaugen1.jpg/800px-Gamlehaugen1.jpg",
+      "description_short": "Gamlehaugen — a notable landmark in Bergen, Norway.",
+      "keywords": [
+        "Bergen",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Sverresborg (Bergen)",
+      "city": "Bergen",
+      "region": "Norway",
+      "latitude": 60.4,
+      "longitude": 5.32,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sverresborg_(Bergen)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sverresborg_smt.jpg/800px-Sverresborg_smt.jpg",
+      "description_short": "Sverresborg (Bergen) — a notable landmark in Bergen, Norway.",
+      "keywords": [
+        "Bergen",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Audunborg",
+      "city": "Bergen",
+      "region": "Norway",
+      "latitude": 61.53028,
+      "longitude": 6.23194,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Audunborg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Audun_Hugleiksson.JPG/800px-Audun_Hugleiksson.JPG",
+      "description_short": "Audunborg — a notable landmark in Bergen, Norway.",
+      "keywords": [
+        "Bergen",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Oslo Kongsgård estate",
+      "city": "Bergen",
+      "region": "Norway",
+      "latitude": 59.9035,
+      "longitude": 10.7634,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oslo_Kongsg%C3%A5rd_estate",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Oslokongsgard.JPG/800px-Oslokongsgard.JPG",
+      "description_short": "Oslo Kongsgård estate — a notable landmark in Bergen, Norway.",
+      "keywords": [
+        "Bergen",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Avaldsnes Kongsgård estate",
+      "city": "Bergen",
+      "region": "Norway",
+      "latitude": 59.35666667,
+      "longitude": 5.29194444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Avaldsnes_Kongsg%C3%A5rd_estate",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Olavskirken_Avaldsnes.jpg",
+      "description_short": "Avaldsnes Kongsgård estate — a notable landmark in Bergen, Norway.",
+      "keywords": [
+        "Bergen",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Norway",
+      "city": "Trondheim",
+      "region": "Norway",
+      "latitude": 61,
+      "longitude": 8,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Norway",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/800px-Flag_of_Norway.svg.png",
+      "description_short": "Norway — a notable landmark in Trondheim, Norway.",
+      "keywords": [
+        "Trondheim",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Trondheim",
+      "city": "Trondheim",
+      "region": "Norway",
+      "latitude": 63.42972222,
+      "longitude": 10.39333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Trondheim",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Trondheim_overview_01.jpg/800px-Trondheim_overview_01.jpg",
+      "description_short": "Trondheim — a notable landmark in Trondheim, Norway.",
+      "keywords": [
+        "Trondheim",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Norwegian University of Science and Technology",
+      "city": "Trondheim",
+      "region": "Norway",
+      "latitude": 63.41944444,
+      "longitude": 10.4025,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_University_of_Science_and_Technology",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/NTNU_Trondheim_Mainbuilding.jpg/800px-NTNU_Trondheim_Mainbuilding.jpg",
+      "description_short": "Norwegian University of Science and Technology — a notable landmark in Trondheim, Norway.",
+      "keywords": [
+        "Trondheim",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Trøndelag",
+      "city": "Trondheim",
+      "region": "Norway",
+      "latitude": 63.42694444,
+      "longitude": 10.39305556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tr%C3%B8ndelag",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Norway_Counties_Tr%C3%B8ndelag_Position.svg/800px-Norway_Counties_Tr%C3%B8ndelag_Position.svg.png",
+      "description_short": "Trøndelag — a notable landmark in Trondheim, Norway.",
+      "keywords": [
+        "Trondheim",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Kristiansten Fortress",
+      "city": "Trondheim",
+      "region": "Norway",
+      "latitude": 63.42694444,
+      "longitude": 10.41055556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kristiansten_Fortress",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kristiansten_Fortress_Trondheim_2009_1.JPG/800px-Kristiansten_Fortress_Trondheim_2009_1.JPG",
+      "description_short": "Kristiansten Fortress — a notable landmark in Trondheim, Norway.",
+      "keywords": [
+        "Trondheim",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Munkholmen",
+      "city": "Trondheim",
+      "region": "Norway",
+      "latitude": 63.4515,
+      "longitude": 10.3825,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Munkholmen",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Islote_Munkholmen%2C_Trondheim%2C_Noruega%2C_2019-09-06%2C_DD_13.jpg/800px-Islote_Munkholmen%2C_Trondheim%2C_Noruega%2C_2019-09-06%2C_DD_13.jpg",
+      "description_short": "Munkholmen — a notable landmark in Trondheim, Norway.",
+      "keywords": [
+        "Trondheim",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Trondheim Science Museum",
+      "city": "Trondheim",
+      "region": "Norway",
+      "latitude": 63.43027778,
+      "longitude": 10.40027778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Trondheim_Science_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Norges_Banks_gamle_bygg_Trondheim.jpg/800px-Norges_Banks_gamle_bygg_Trondheim.jpg",
+      "description_short": "Trondheim Science Museum — a notable landmark in Trondheim, Norway.",
+      "keywords": [
+        "Trondheim",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Trondheim Tramway Museum",
+      "city": "Trondheim",
+      "region": "Norway",
+      "latitude": 63.4306,
+      "longitude": 10.3577,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Trondheim_Tramway_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Str%C3%B8mmen_and_Leopold_tram_at_Munkvoll.jpg/800px-Str%C3%B8mmen_and_Leopold_tram_at_Munkvoll.jpg",
+      "description_short": "Trondheim Tramway Museum — a notable landmark in Trondheim, Norway.",
+      "keywords": [
+        "Trondheim",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Trondheim Tramway",
+      "city": "Trondheim",
+      "region": "Norway",
+      "latitude": 63.41416667,
+      "longitude": 10.37722222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Trondheim_Tramway",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Trondheim_Tram93_2018_front.JPG/800px-Trondheim_Tram93_2018_front.JPG",
+      "description_short": "Trondheim Tramway — a notable landmark in Trondheim, Norway.",
+      "keywords": [
+        "Trondheim",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Lade",
+      "city": "Trondheim",
+      "region": "Norway",
+      "latitude": 63.4463,
+      "longitude": 10.4434,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lade%2C_Trondheim",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ladestien_Trondheim_07052006.jpg/800px-Ladestien_Trondheim_07052006.jpg",
+      "description_short": "Lade, Trondheim — a notable landmark in Trondheim, Norway.",
+      "keywords": [
+        "Trondheim",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Trondheim Synagogue",
+      "city": "Trondheim",
+      "region": "Norway",
+      "latitude": 63.4264,
+      "longitude": 10.3928,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Trondheim_Synagogue",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Synagogue_de_Trondheim_%28Int%C3%A9rieur%29_mod_timm.jpg/800px-Synagogue_de_Trondheim_%28Int%C3%A9rieur%29_mod_timm.jpg",
+      "description_short": "Trondheim Synagogue — a notable landmark in Trondheim, Norway.",
+      "keywords": [
+        "Trondheim",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "NTNU University Museum",
+      "city": "Trondheim",
+      "region": "Norway",
+      "latitude": 63.42916667,
+      "longitude": 10.3875,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/NTNU_University_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dknvs_museet_trondheim.jpg/800px-Dknvs_museet_trondheim.jpg",
+      "description_short": "NTNU University Museum — a notable landmark in Trondheim, Norway.",
+      "keywords": [
+        "Trondheim",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Ringve Museum",
+      "city": "Trondheim",
+      "region": "Norway",
+      "latitude": 63.4475,
+      "longitude": 10.45416667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ringve_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/En_lumsk_sommerdag.jpg/800px-En_lumsk_sommerdag.jpg",
+      "description_short": "Ringve Museum — a notable landmark in Trondheim, Norway.",
+      "keywords": [
+        "Trondheim",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Ålesund",
+      "city": "Trondheim",
+      "region": "Norway",
+      "latitude": 62.47226,
+      "longitude": 6.1549,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%85lesund",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/View_on_%C3%85lesund.jpg/800px-View_on_%C3%85lesund.jpg",
+      "description_short": "Ålesund — a notable landmark in Trondheim, Norway.",
+      "keywords": [
+        "Trondheim",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Nordstern (city)",
+      "city": "Trondheim",
+      "region": "Norway",
+      "latitude": 63.33111111,
+      "longitude": 10.23527778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nordstern_(city)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bundesarchiv_Bild_121-1431%2C_Drontheim%2C_Stadtansicht.jpg",
+      "description_short": "Nordstern (city) — a notable landmark in Trondheim, Norway.",
+      "keywords": [
+        "Trondheim",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Norsk Døvemuseum",
+      "city": "Trondheim",
+      "region": "Norway",
+      "latitude": 63.4275,
+      "longitude": 10.39111111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Norsk_D%C3%B8vemuseum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/D%C3%B8vehistorisk_museum_Trondheim_01.jpg/800px-D%C3%B8vehistorisk_museum_Trondheim_01.jpg",
+      "description_short": "Norsk Døvemuseum — a notable landmark in Trondheim, Norway.",
+      "keywords": [
+        "Trondheim",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Trondheim Art Museum",
+      "city": "Trondheim",
+      "region": "Norway",
+      "latitude": 63.42722222,
+      "longitude": 10.39444444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Trondheim_Art_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Trondheim_Kunstnuseum%2C_Innherredsveien_20.jpg/800px-Trondheim_Kunstnuseum%2C_Innherredsveien_20.jpg",
+      "description_short": "Trondheim Art Museum — a notable landmark in Trondheim, Norway.",
+      "keywords": [
+        "Trondheim",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Trondheim Airport",
+      "city": "Trondheim",
+      "region": "Norway",
+      "latitude": 63.39083333,
+      "longitude": 10.55305556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Trondheim_Airport%2C_Jonsvatnet",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Trondheim_Jonsvatnet_IMG_4564.JPG/800px-Trondheim_Jonsvatnet_IMG_4564.JPG",
+      "description_short": "Trondheim Airport, Jonsvatnet — a notable landmark in Trondheim, Norway.",
+      "keywords": [
+        "Trondheim",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Norwegian National Museum of Justice",
+      "city": "Trondheim",
+      "region": "Norway",
+      "latitude": 63.4303,
+      "longitude": 10.3781,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_National_Museum_of_Justice",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/The_National_Museum_of_Justice_Norway.jpg/800px-The_National_Museum_of_Justice_Norway.jpg",
+      "description_short": "Norwegian National Museum of Justice — a notable landmark in Trondheim, Norway.",
+      "keywords": [
+        "Trondheim",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Rockheim",
+      "city": "Trondheim",
+      "region": "Norway",
+      "latitude": 63.43861111,
+      "longitude": 10.40083333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rockheim",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ROCKHEIM_POSTKORT_1.jpg/800px-ROCKHEIM_POSTKORT_1.jpg",
+      "description_short": "Rockheim — a notable landmark in Trondheim, Norway.",
+      "keywords": [
+        "Trondheim",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Archbishop's Palace",
+      "city": "Trondheim",
+      "region": "Norway",
+      "latitude": 63.4261,
+      "longitude": 10.3945,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Archbishop's_Palace%2C_Trondheim",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Nidarosdomen_og_Erkebispeg%C3%A5rden_Trondheim_01.jpg/800px-Nidarosdomen_og_Erkebispeg%C3%A5rden_Trondheim_01.jpg",
+      "description_short": "Archbishop's Palace, Trondheim — a notable landmark in Trondheim, Norway.",
+      "keywords": [
+        "Trondheim",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Rogaland",
+      "city": "Stavanger",
+      "region": "Norway",
+      "latitude": 59,
+      "longitude": 6,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rogaland",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Norway_Counties_Rogaland_Position.svg/800px-Norway_Counties_Rogaland_Position.svg.png",
+      "description_short": "Rogaland — a notable landmark in Stavanger, Norway.",
+      "keywords": [
+        "Stavanger",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Stavanger",
+      "city": "Stavanger",
+      "region": "Norway",
+      "latitude": 58.97,
+      "longitude": 5.73138889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Stavanger",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Breiavatnet_-_Stavanger%2C_Norway_2021-08-01_%2802%29.jpg/800px-Breiavatnet_-_Stavanger%2C_Norway_2021-08-01_%2802%29.jpg",
+      "description_short": "Stavanger — a notable landmark in Stavanger, Norway.",
+      "keywords": [
+        "Stavanger",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Sandnes",
+      "city": "Stavanger",
+      "region": "Norway",
+      "latitude": 58.85166667,
+      "longitude": 5.73611111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sandnes",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Aerial_view_of_Sandnes%2C_Norway_in_2015.jpg/800px-Aerial_view_of_Sandnes%2C_Norway_in_2015.jpg",
+      "description_short": "Sandnes — a notable landmark in Stavanger, Norway.",
+      "keywords": [
+        "Stavanger",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Sola",
+      "city": "Stavanger",
+      "region": "Norway",
+      "latitude": 58.88,
+      "longitude": 5.62861111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sola%2C_Norway",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Beach_of_Sola.JPG/800px-Beach_of_Sola.JPG",
+      "description_short": "Sola, Norway — a notable landmark in Stavanger, Norway.",
+      "keywords": [
+        "Stavanger",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Stavanger Airport",
+      "city": "Stavanger",
+      "region": "Norway",
+      "latitude": 58.87666667,
+      "longitude": 5.63777778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Stavanger_Airport",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ENZV_Aerial_2011.JPG/800px-ENZV_Aerial_2011.JPG",
+      "description_short": "Stavanger Airport — a notable landmark in Stavanger, Norway.",
+      "keywords": [
+        "Stavanger",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Bryne",
+      "city": "Stavanger",
+      "region": "Norway",
+      "latitude": 58.73521,
+      "longitude": 5.65256,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bryne",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Lyefjell2.jpg/800px-Lyefjell2.jpg",
+      "description_short": "Bryne — a notable landmark in Stavanger, Norway.",
+      "keywords": [
+        "Stavanger",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Gamle Stavanger",
+      "city": "Stavanger",
+      "region": "Norway",
+      "latitude": 58.97277778,
+      "longitude": 5.72527778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gamle_Stavanger",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gamle_Stavanger.jpg/800px-Gamle_Stavanger.jpg",
+      "description_short": "Gamle Stavanger — a notable landmark in Stavanger, Norway.",
+      "keywords": [
+        "Stavanger",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Stavanger Cathedral",
+      "city": "Stavanger",
+      "region": "Norway",
+      "latitude": 58.969787,
+      "longitude": 5.733162,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Stavanger_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Stavanger_Cathedral_2025.jpg/800px-Stavanger_Cathedral_2025.jpg",
+      "description_short": "Stavanger Cathedral — a notable landmark in Stavanger, Norway.",
+      "keywords": [
+        "Stavanger",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "University of Stavanger",
+      "city": "Stavanger",
+      "region": "Norway",
+      "latitude": 58.9375,
+      "longitude": 5.6975,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_Stavanger",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Campus_ullandhaug_MBMultimedia-110426-6239.jpg_%28rw_largeArt_1201%29.jpg",
+      "description_short": "University of Stavanger — a notable landmark in Stavanger, Norway.",
+      "keywords": [
+        "Stavanger",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Norwegian Petroleum Museum",
+      "city": "Stavanger",
+      "region": "Norway",
+      "latitude": 58.97361111,
+      "longitude": 5.73472222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_Petroleum_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Stavanger_Norwegisches_%C3%96lmuseum_3.JPG/800px-Stavanger_Norwegisches_%C3%96lmuseum_3.JPG",
+      "description_short": "Norwegian Petroleum Museum — a notable landmark in Stavanger, Norway.",
+      "keywords": [
+        "Stavanger",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Flyhistorisk Museum",
+      "city": "Stavanger",
+      "region": "Norway",
+      "latitude": 58.89638889,
+      "longitude": 5.6325,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Flyhistorisk_Museum%2C_Sola",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sola_airplane_museum.jpg/800px-Sola_airplane_museum.jpg",
+      "description_short": "Flyhistorisk Museum, Sola — a notable landmark in Stavanger, Norway.",
+      "keywords": [
+        "Stavanger",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Ledaal",
+      "city": "Stavanger",
+      "region": "Norway",
+      "latitude": 58.96695833,
+      "longitude": 5.72016944,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ledaal",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ledaal-Stavanger.jpg/800px-Ledaal-Stavanger.jpg",
+      "description_short": "Ledaal — a notable landmark in Stavanger, Norway.",
+      "keywords": [
+        "Stavanger",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Våland",
+      "city": "Stavanger",
+      "region": "Norway",
+      "latitude": 58.95,
+      "longitude": 5.73333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/V%C3%A5land",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/City_map_stavanger.png/800px-City_map_stavanger.png",
+      "description_short": "Våland — a notable landmark in Stavanger, Norway.",
+      "keywords": [
+        "Stavanger",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Stavanger Museum",
+      "city": "Stavanger",
+      "region": "Norway",
+      "latitude": 58.96472222,
+      "longitude": 5.73305556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Stavanger_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Stavanger_Museum.JPG/800px-Stavanger_Museum.JPG",
+      "description_short": "Stavanger Museum — a notable landmark in Stavanger, Norway.",
+      "keywords": [
+        "Stavanger",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Haraldshaugen",
+      "city": "Stavanger",
+      "region": "Norway",
+      "latitude": 59.42888889,
+      "longitude": 5.25888889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Haraldshaugen",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/National_Monument%2C_Haugesund_Norway.JPG/800px-National_Monument%2C_Haugesund_Norway.JPG",
+      "description_short": "Haraldshaugen — a notable landmark in Stavanger, Norway.",
+      "keywords": [
+        "Stavanger",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Tromsø",
+      "city": "Tromsø",
+      "region": "Norway",
+      "latitude": 69.6517,
+      "longitude": 18.9556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Troms%C3%B8",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Troms%C3%B8_sentrum_%285835702754%29.jpg/800px-Troms%C3%B8_sentrum_%285835702754%29.jpg",
+      "description_short": "Tromsø — a notable landmark in Tromsø, Norway.",
+      "keywords": [
+        "Tromsø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Finnsnes",
+      "city": "Tromsø",
+      "region": "Norway",
+      "latitude": 69.22944444,
+      "longitude": 17.98111111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Finnsnes",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Finnsnes_anno_2006.JPG/800px-Finnsnes_anno_2006.JPG",
+      "description_short": "Finnsnes — a notable landmark in Tromsø, Norway.",
+      "keywords": [
+        "Tromsø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Polaria",
+      "city": "Tromsø",
+      "region": "Norway",
+      "latitude": 69.6437,
+      "longitude": 18.9501,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Polaria",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Polaria_Troms%C3%B8.jpg",
+      "description_short": "Polaria — a notable landmark in Tromsø, Norway.",
+      "keywords": [
+        "Tromsø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Tromsø Airport",
+      "city": "Tromsø",
+      "region": "Norway",
+      "latitude": 69.68138889,
+      "longitude": 18.91777778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Troms%C3%B8_Airport",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Troms%C3%B8_airport%2C_Norway.jpg/800px-Troms%C3%B8_airport%2C_Norway.jpg",
+      "description_short": "Tromsø Airport — a notable landmark in Tromsø, Norway.",
+      "keywords": [
+        "Tromsø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Tromsøya",
+      "city": "Tromsø",
+      "region": "Norway",
+      "latitude": 69.6676,
+      "longitude": 18.9258,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Troms%C3%B8ya",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Tromsoeya-from-south.jpg/800px-Tromsoeya-from-south.jpg",
+      "description_short": "Tromsøya — a notable landmark in Tromsø, Norway.",
+      "keywords": [
+        "Tromsø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Arctic–Alpine Botanic Garden",
+      "city": "Tromsø",
+      "region": "Norway",
+      "latitude": 69.6768,
+      "longitude": 18.9763,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Arctic%E2%80%93Alpine_Botanic_Garden",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Botanicgardentromso.jpg/800px-Botanicgardentromso.jpg",
+      "description_short": "Arctic–Alpine Botanic Garden — a notable landmark in Tromsø, Norway.",
+      "keywords": [
+        "Tromsø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Operation Catechism",
+      "city": "Tromsø",
+      "region": "Norway",
+      "latitude": 69.64694444,
+      "longitude": 18.80722222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Catechism",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/The_Wreck_of_the_Tirpitz%2C_June_1945_by_Stephen_Bone_IWM_IWM_LD_5441.jpg/800px-The_Wreck_of_the_Tirpitz%2C_June_1945_by_Stephen_Bone_IWM_IWM_LD_5441.jpg",
+      "description_short": "Operation Catechism — a notable landmark in Tromsø, Norway.",
+      "keywords": [
+        "Tromsø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Tirpitz Museum (Norway)",
+      "city": "Tromsø",
+      "region": "Norway",
+      "latitude": 69.9315,
+      "longitude": 23.015,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tirpitz_Museum_(Norway)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/K%C3%A5fjord%2C_museo_tirpitz%2C_esterno_02.jpg/800px-K%C3%A5fjord%2C_museo_tirpitz%2C_esterno_02.jpg",
+      "description_short": "Tirpitz Museum (Norway) — a notable landmark in Tromsø, Norway.",
+      "keywords": [
+        "Tromsø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Norwegian Telecom Museum",
+      "city": "Tromsø",
+      "region": "Norway",
+      "latitude": 59.9661,
+      "longitude": 10.7834,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_Telecom_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Telemuseet.jpg",
+      "description_short": "Norwegian Telecom Museum — a notable landmark in Tromsø, Norway.",
+      "keywords": [
+        "Tromsø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Nordnorsk Kunstmuseum",
+      "city": "Tromsø",
+      "region": "Norway",
+      "latitude": 69.6482,
+      "longitude": 18.9599,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nordnorsk_Kunstmuseum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Nordnorsk_Kunstmuseum_Troms%C3%B8.jpg/800px-Nordnorsk_Kunstmuseum_Troms%C3%B8.jpg",
+      "description_short": "Nordnorsk Kunstmuseum — a notable landmark in Tromsø, Norway.",
+      "keywords": [
+        "Tromsø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "MS Polstjerna",
+      "city": "Tromsø",
+      "region": "Norway",
+      "latitude": 69.64388,
+      "longitude": 18.95113,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/MS_Polstjerna",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/M_S_Polstjerna.JPG/800px-M_S_Polstjerna.JPG",
+      "description_short": "MS Polstjerna — a notable landmark in Tromsø, Norway.",
+      "keywords": [
+        "Tromsø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Norrbottens Museum",
+      "city": "Tromsø",
+      "region": "Norway",
+      "latitude": 65.582167,
+      "longitude": 22.138167,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Norrbottens_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Norrbottens_museum%2C_2015-12-10.jpg/800px-Norrbottens_museum%2C_2015-12-10.jpg",
+      "description_short": "Norrbottens Museum — a notable landmark in Tromsø, Norway.",
+      "keywords": [
+        "Tromsø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Perspektivet Museum",
+      "city": "Tromsø",
+      "region": "Norway",
+      "latitude": 69.65231,
+      "longitude": 18.95924,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Perspektivet_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Perspektivet.jpg/800px-Perspektivet.jpg",
+      "description_short": "Perspektivet Museum — a notable landmark in Tromsø, Norway.",
+      "keywords": [
+        "Tromsø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Måløy",
+      "city": "Ålesund",
+      "region": "Norway",
+      "latitude": 61.93534,
+      "longitude": 5.11366,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/M%C3%A5l%C3%B8y",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/M%C3%A5l%C3%B8y3.JPG/800px-M%C3%A5l%C3%B8y3.JPG",
+      "description_short": "Måløy — a notable landmark in Ålesund, Norway.",
+      "keywords": [
+        "Ålesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Vemork",
+      "city": "Ålesund",
+      "region": "Norway",
+      "latitude": 59.87111111,
+      "longitude": 8.49138889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Vemork",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/VemorkHydroelectricPlant.jpg",
+      "description_short": "Vemork — a notable landmark in Ålesund, Norway.",
+      "keywords": [
+        "Ålesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Operation Mascot",
+      "city": "Ålesund",
+      "region": "Norway",
+      "latitude": 69.9353,
+      "longitude": 23.0454,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Mascot",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Corsair_fighters_and_Fairey_Barracuda_torpedo_bombers_ranged_on_the_flight_deck_of_HMS_FORMIDABLE_off_Norway_in_July_1944.jpg/800px-Corsair_fighters_and_Fairey_Barracuda_torpedo_bombers_ranged_on_the_flight_deck_of_HMS_FORMIDABLE_off_Norway_in_July_1944.jpg",
+      "description_short": "Operation Mascot — a notable landmark in Ålesund, Norway.",
+      "keywords": [
+        "Ålesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Jugendstilsenteret",
+      "city": "Ålesund",
+      "region": "Norway",
+      "latitude": 62.47101,
+      "longitude": 6.15109,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jugendstilsenteret",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jugendstilsenteret.jpg/800px-Jugendstilsenteret.jpg",
+      "description_short": "Jugendstilsenteret — a notable landmark in Ålesund, Norway.",
+      "keywords": [
+        "Ålesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "MS Palatia",
+      "city": "Ålesund",
+      "region": "Norway",
+      "latitude": 57.96833333,
+      "longitude": 7.23333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/MS_Palatia",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Palatia_1928.jpg",
+      "description_short": "MS Palatia — a notable landmark in Ålesund, Norway.",
+      "keywords": [
+        "Ålesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Kristiansund (town)",
+      "city": "Ålesund",
+      "region": "Norway",
+      "latitude": 63.1104,
+      "longitude": 7.7279,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kristiansund_(town)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kristiansund3.jpg/800px-Kristiansund3.jpg",
+      "description_short": "Kristiansund (town) — a notable landmark in Ålesund, Norway.",
+      "keywords": [
+        "Ålesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Old Stordal Church",
+      "city": "Ålesund",
+      "region": "Norway",
+      "latitude": 62.38390796,
+      "longitude": 7.01441512,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Old_Stordal_Church",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Stordal-gamlekyrkje-HH.jpg/800px-Stordal-gamlekyrkje-HH.jpg",
+      "description_short": "Old Stordal Church — a notable landmark in Ålesund, Norway.",
+      "keywords": [
+        "Ålesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Molde",
+      "city": "Ålesund",
+      "region": "Norway",
+      "latitude": 62.7375,
+      "longitude": 7.1591,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Molde",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Downtown_Molde_%282023-10-26_11-31-23%29.jpg/800px-Downtown_Molde_%282023-10-26_11-31-23%29.jpg",
+      "description_short": "Molde — a notable landmark in Ålesund, Norway.",
+      "keywords": [
+        "Ålesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Egersund",
+      "city": "Ålesund",
+      "region": "Norway",
+      "latitude": 58.45246,
+      "longitude": 6.00178,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Egersund",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Egersund_panorama_small.jpg",
+      "description_short": "Egersund — a notable landmark in Ålesund, Norway.",
+      "keywords": [
+        "Ålesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Lahti",
+      "city": "Ålesund",
+      "region": "Norway",
+      "latitude": 60.98333333,
+      "longitude": 25.65,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lahti",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lahti_view_2.jpg/800px-Lahti_view_2.jpg",
+      "description_short": "Lahti — a notable landmark in Ålesund, Norway.",
+      "keywords": [
+        "Ålesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Geiranger",
+      "city": "Ålesund",
+      "region": "Norway",
+      "latitude": 62.1019,
+      "longitude": 7.2072,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Geiranger",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/View_to_Geiranger_from_Flydalsjuvet%2C_2013_June.jpg/800px-View_to_Geiranger_from_Flydalsjuvet%2C_2013_June.jpg",
+      "description_short": "Geiranger — a notable landmark in Ålesund, Norway.",
+      "keywords": [
+        "Ålesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Sunnmøre",
+      "city": "Ålesund",
+      "region": "Norway",
+      "latitude": 62.15,
+      "longitude": 6.33333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sunnm%C3%B8re",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Sunnmore-region.svg/800px-Sunnmore-region.svg.png",
+      "description_short": "Sunnmøre — a notable landmark in Ålesund, Norway.",
+      "keywords": [
+        "Ålesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Geirangerfjord",
+      "city": "Ålesund",
+      "region": "Norway",
+      "latitude": 62.121,
+      "longitude": 7.129,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Geirangerfjord",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Geirangerfjord_.jpg/800px-Geirangerfjord_.jpg",
+      "description_short": "Geirangerfjord — a notable landmark in Ålesund, Norway.",
+      "keywords": [
+        "Ålesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Nordfjordeid",
+      "city": "Ålesund",
+      "region": "Norway",
+      "latitude": 61.9122,
+      "longitude": 5.9856,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nordfjordeid",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Eidsgata_04_Nordfjordeid_Sogn_og_Fjordane_Norway_2014-09-17.JPG/800px-Eidsgata_04_Nordfjordeid_Sogn_og_Fjordane_Norway_2014-09-17.JPG",
+      "description_short": "Nordfjordeid — a notable landmark in Ålesund, Norway.",
+      "keywords": [
+        "Ålesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Tønsberg",
+      "city": "Kristiansand",
+      "region": "Norway",
+      "latitude": 59.26753,
+      "longitude": 10.40763,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/T%C3%B8nsberg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/View_of_T%C3%B8nsberg_-_panoramio.jpg/800px-View_of_T%C3%B8nsberg_-_panoramio.jpg",
+      "description_short": "Tønsberg — a notable landmark in Kristiansand, Norway.",
+      "keywords": [
+        "Kristiansand",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Kristiansand Zoo and Amusement Park",
+      "city": "Kristiansand",
+      "region": "Norway",
+      "latitude": 58.182718,
+      "longitude": 8.145923,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kristiansand_Zoo_and_Amusement_Park",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Swimming_Tigers.jpg/800px-Swimming_Tigers.jpg",
+      "description_short": "Kristiansand Zoo and Amusement Park — a notable landmark in Kristiansand, Norway.",
+      "keywords": [
+        "Kristiansand",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Hunderfossen Familiepark",
+      "city": "Kristiansand",
+      "region": "Norway",
+      "latitude": 61.22423889,
+      "longitude": 10.42825833,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hunderfossen_Familiepark",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hunderfossen_-_Trollet.JPG/800px-Hunderfossen_-_Trollet.JPG",
+      "description_short": "Hunderfossen Familiepark — a notable landmark in Kristiansand, Norway.",
+      "keywords": [
+        "Kristiansand",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Fredriksholm Fortress",
+      "city": "Kristiansand",
+      "region": "Norway",
+      "latitude": 58.09638889,
+      "longitude": 7.98277778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fredriksholm_Fortress",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Fredriksholm_festning_1756.jpg",
+      "description_short": "Fredriksholm Fortress — a notable landmark in Kristiansand, Norway.",
+      "keywords": [
+        "Kristiansand",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Kristiansand",
+      "city": "Kristiansand",
+      "region": "Norway",
+      "latitude": 58.14722222,
+      "longitude": 7.99722222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kristiansand",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Kvadraturen-01.jpg",
+      "description_short": "Kristiansand — a notable landmark in Kristiansand, Norway.",
+      "keywords": [
+        "Kristiansand",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Christiansholm Fortress",
+      "city": "Kristiansand",
+      "region": "Norway",
+      "latitude": 58.1442,
+      "longitude": 8.0035,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Christiansholm_Fortress",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Christiansholm_festning_twierdza1_ks_ubt.jpg",
+      "description_short": "Christiansholm Fortress — a notable landmark in Kristiansand, Norway.",
+      "keywords": [
+        "Kristiansand",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Flekkerøy",
+      "city": "Kristiansand",
+      "region": "Norway",
+      "latitude": 58.069,
+      "longitude": 7.9895,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Flekker%C3%B8y",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flekker%C3%B8ya_aerial.jpg/800px-Flekker%C3%B8ya_aerial.jpg",
+      "description_short": "Flekkerøy — a notable landmark in Kristiansand, Norway.",
+      "keywords": [
+        "Kristiansand",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Kristiansand Cannon Museum",
+      "city": "Kristiansand",
+      "region": "Norway",
+      "latitude": 58.09194444,
+      "longitude": 7.96833333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kristiansand_Cannon_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Batterie_vara_kanon.JPG/800px-Batterie_vara_kanon.JPG",
+      "description_short": "Kristiansand Cannon Museum — a notable landmark in Kristiansand, Norway.",
+      "keywords": [
+        "Kristiansand",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Odderøya",
+      "city": "Kristiansand",
+      "region": "Norway",
+      "latitude": 58.1334,
+      "longitude": 8.0075,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Odder%C3%B8ya",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Gravanekanalen_16.jpg/800px-Gravanekanalen_16.jpg",
+      "description_short": "Odderøya — a notable landmark in Kristiansand, Norway.",
+      "keywords": [
+        "Kristiansand",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Vågsbygd",
+      "city": "Kristiansand",
+      "region": "Norway",
+      "latitude": 58.1,
+      "longitude": 7.94,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/V%C3%A5gsbygd",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/V%C3%A5gsbygd-kristiansand.jpg",
+      "description_short": "Vågsbygd — a notable landmark in Kristiansand, Norway.",
+      "keywords": [
+        "Kristiansand",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Kvadraturen (Kristiansand)",
+      "city": "Kristiansand",
+      "region": "Norway",
+      "latitude": 58.1468,
+      "longitude": 7.9953,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kvadraturen_(Kristiansand)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Kvadraturen-01.jpg",
+      "description_short": "Kvadraturen (Kristiansand) — a notable landmark in Kristiansand, Norway.",
+      "keywords": [
+        "Kristiansand",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Møvik",
+      "city": "Kristiansand",
+      "region": "Norway",
+      "latitude": 58.104,
+      "longitude": 7.9738,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/M%C3%B8vik",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/M%C3%B8vig%2C_Kristiansand.jpg/800px-M%C3%B8vig%2C_Kristiansand.jpg",
+      "description_short": "Møvik — a notable landmark in Kristiansand, Norway.",
+      "keywords": [
+        "Kristiansand",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Marvika",
+      "city": "Kristiansand",
+      "region": "Norway",
+      "latitude": 58.1494,
+      "longitude": 8.031,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marvika",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/S%C3%B8r-Arena-1.jpg/800px-S%C3%B8r-Arena-1.jpg",
+      "description_short": "Marvika — a notable landmark in Kristiansand, Norway.",
+      "keywords": [
+        "Kristiansand",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Fredriksten",
+      "city": "Fredrikstad",
+      "region": "Norway",
+      "latitude": 59.11666667,
+      "longitude": 11.4,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fredriksten",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Fredriksten_fortress_Norway_seen_from_Halden_harbor.jpg/800px-Fredriksten_fortress_Norway_seen_from_Halden_harbor.jpg",
+      "description_short": "Fredriksten — a notable landmark in Fredrikstad, Norway.",
+      "keywords": [
+        "Fredrikstad",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Tune ship",
+      "city": "Fredrikstad",
+      "region": "Norway",
+      "latitude": 59.2792,
+      "longitude": 11.0028,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tune_ship",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/TuneShip.jpg/800px-TuneShip.jpg",
+      "description_short": "Tune ship — a notable landmark in Fredrikstad, Norway.",
+      "keywords": [
+        "Fredrikstad",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Onsøy",
+      "city": "Fredrikstad",
+      "region": "Norway",
+      "latitude": 59.25,
+      "longitude": 10.85,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ons%C3%B8y",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2011-04-11_Minneplate_Ons%C3%B8y.jpg/800px-2011-04-11_Minneplate_Ons%C3%B8y.jpg",
+      "description_short": "Onsøy — a notable landmark in Fredrikstad, Norway.",
+      "keywords": [
+        "Fredrikstad",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Rolvsøy",
+      "city": "Fredrikstad",
+      "region": "Norway",
+      "latitude": 59.26666667,
+      "longitude": 11.01666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rolvs%C3%B8y",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Rolvs%C3%B8y_kirke.JPG/800px-Rolvs%C3%B8y_kirke.JPG",
+      "description_short": "Rolvsøy — a notable landmark in Fredrikstad, Norway.",
+      "keywords": [
+        "Fredrikstad",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Apoteket Hjorten",
+      "city": "Fredrikstad",
+      "region": "Norway",
+      "latitude": 59.91331111,
+      "longitude": 10.76007778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Apoteket_Hjorten",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gr%C3%B8nland.10.JPG/800px-Gr%C3%B8nland.10.JPG",
+      "description_short": "Apoteket Hjorten — a notable landmark in Fredrikstad, Norway.",
+      "keywords": [
+        "Fredrikstad",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Elingård",
+      "city": "Fredrikstad",
+      "region": "Norway",
+      "latitude": 59.25222222,
+      "longitude": 10.8025,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Eling%C3%A5rd",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Elingaard_front.jpg/800px-Elingaard_front.jpg",
+      "description_short": "Elingård — a notable landmark in Fredrikstad, Norway.",
+      "keywords": [
+        "Fredrikstad",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Fredrikstad",
+      "city": "Fredrikstad",
+      "region": "Norway",
+      "latitude": 59.20527778,
+      "longitude": 10.95,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fredrikstad",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Fredrikstad_bridge_-_view_from_the_the_old_town%27s_port.jpg/800px-Fredrikstad_bridge_-_view_from_the_the_old_town%27s_port.jpg",
+      "description_short": "Fredrikstad — a notable landmark in Fredrikstad, Norway.",
+      "keywords": [
+        "Fredrikstad",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Nidaros Cathedral",
+      "city": "Fredrikstad",
+      "region": "Norway",
+      "latitude": 63.4267,
+      "longitude": 10.3962,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nidaros_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nidaros_Cathedral%2C_Trondheim%2C_West_view_20150605_1.jpg/800px-Nidaros_Cathedral%2C_Trondheim%2C_West_view_20150605_1.jpg",
+      "description_short": "Nidaros Cathedral — a notable landmark in Fredrikstad, Norway.",
+      "keywords": [
+        "Fredrikstad",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Østfold",
+      "city": "Fredrikstad",
+      "region": "Norway",
+      "latitude": 59.33333333,
+      "longitude": 11.33333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%98stfold",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/R%C3%B8denes_2006.jpg/800px-R%C3%B8denes_2006.jpg",
+      "description_short": "Østfold — a notable landmark in Fredrikstad, Norway.",
+      "keywords": [
+        "Fredrikstad",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Sarpsborg",
+      "city": "Fredrikstad",
+      "region": "Norway",
+      "latitude": 59.28583333,
+      "longitude": 11.11194444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sarpsborg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sarpsborg_station_and_town_centre_from_north_%282%29.jpg/800px-Sarpsborg_station_and_town_centre_from_north_%282%29.jpg",
+      "description_short": "Sarpsborg — a notable landmark in Fredrikstad, Norway.",
+      "keywords": [
+        "Fredrikstad",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Oslo Cathedral",
+      "city": "Fredrikstad",
+      "region": "Norway",
+      "latitude": 59.91231944,
+      "longitude": 10.74695833,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oslo_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Oslo_Cathedral.jpg/800px-Oslo_Cathedral.jpg",
+      "description_short": "Oslo Cathedral — a notable landmark in Fredrikstad, Norway.",
+      "keywords": [
+        "Fredrikstad",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Borge",
+      "city": "Fredrikstad",
+      "region": "Norway",
+      "latitude": 59.2278,
+      "longitude": 11.0433,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Borge%2C_%C3%98stfold",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Borge_kyrkje_01.JPG/800px-Borge_kyrkje_01.JPG",
+      "description_short": "Borge, Østfold — a notable landmark in Fredrikstad, Norway.",
+      "keywords": [
+        "Fredrikstad",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Tromsø Cathedral",
+      "city": "Fredrikstad",
+      "region": "Norway",
+      "latitude": 69.648737,
+      "longitude": 18.956756,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Troms%C3%B8_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/NOR-2016-Troms%C3%B8-Troms%C3%B8_Cathedral.jpg/800px-NOR-2016-Troms%C3%B8-Troms%C3%B8_Cathedral.jpg",
+      "description_short": "Tromsø Cathedral — a notable landmark in Fredrikstad, Norway.",
+      "keywords": [
+        "Fredrikstad",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Bergen Cathedral",
+      "city": "Fredrikstad",
+      "region": "Norway",
+      "latitude": 60.39387471,
+      "longitude": 5.33085045,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bergen_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Bergen_domkirken.jpg",
+      "description_short": "Bergen Cathedral — a notable landmark in Fredrikstad, Norway.",
+      "keywords": [
+        "Fredrikstad",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Kristiansand Cathedral",
+      "city": "Fredrikstad",
+      "region": "Norway",
+      "latitude": 58.1461,
+      "longitude": 7.9947,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kristiansand_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kristiansand_Church.jpg/800px-Kristiansand_Church.jpg",
+      "description_short": "Kristiansand Cathedral — a notable landmark in Fredrikstad, Norway.",
+      "keywords": [
+        "Fredrikstad",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Fredrikstad Cathedral",
+      "city": "Fredrikstad",
+      "region": "Norway",
+      "latitude": 59.2095,
+      "longitude": 10.9429,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fredrikstad_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Fredrikstad_Cathedral01.JPG/800px-Fredrikstad_Cathedral01.JPG",
+      "description_short": "Fredrikstad Cathedral — a notable landmark in Fredrikstad, Norway.",
+      "keywords": [
+        "Fredrikstad",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Spjærøy Church",
+      "city": "Fredrikstad",
+      "region": "Norway",
+      "latitude": 59.08845,
+      "longitude": 10.91868,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Spj%C3%A6r%C3%B8y_Church",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Spj%C3%A6r%C3%B8y_kyrkje01.JPG/800px-Spj%C3%A6r%C3%B8y_kyrkje01.JPG",
+      "description_short": "Spjærøy Church — a notable landmark in Fredrikstad, Norway.",
+      "keywords": [
+        "Fredrikstad",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Kopervik",
+      "city": "Haugesund",
+      "region": "Norway",
+      "latitude": 59.28354,
+      "longitude": 5.30671,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kopervik",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/St%C3%B8lebukten%2C_Kopervik_%28May_2010%29.jpg/800px-St%C3%B8lebukten%2C_Kopervik_%28May_2010%29.jpg",
+      "description_short": "Kopervik — a notable landmark in Haugesund, Norway.",
+      "keywords": [
+        "Haugesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Haugesund",
+      "city": "Haugesund",
+      "region": "Norway",
+      "latitude": 59.41719,
+      "longitude": 5.27288,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Haugesund",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Smedasundet_-_Haugesund%2C_Norway_2021-08-05_%2802%29.jpg/800px-Smedasundet_-_Haugesund%2C_Norway_2021-08-05_%2802%29.jpg",
+      "description_short": "Haugesund — a notable landmark in Haugesund, Norway.",
+      "keywords": [
+        "Haugesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Vinje",
+      "city": "Haugesund",
+      "region": "Norway",
+      "latitude": 59.80138889,
+      "longitude": 7.77916667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Vinje",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Mirror_-_panoramio_%282%29.jpg/800px-Mirror_-_panoramio_%282%29.jpg",
+      "description_short": "Vinje — a notable landmark in Haugesund, Norway.",
+      "keywords": [
+        "Haugesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Haugaland",
+      "city": "Haugesund",
+      "region": "Norway",
+      "latitude": 59.071,
+      "longitude": 5.9291,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Haugaland",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Eivindsvatnet_-_Haugesund%2C_Norway_2021-08-04_%2803%29.jpg/800px-Eivindsvatnet_-_Haugesund%2C_Norway_2021-08-04_%2803%29.jpg",
+      "description_short": "Haugaland — a notable landmark in Haugesund, Norway.",
+      "keywords": [
+        "Haugesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Fevik",
+      "city": "Haugesund",
+      "region": "Norway",
+      "latitude": 58.3782,
+      "longitude": 8.676,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fevik",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Fevik_2.jpg/800px-Fevik_2.jpg",
+      "description_short": "Fevik — a notable landmark in Haugesund, Norway.",
+      "keywords": [
+        "Haugesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Battle of Hafrsfjord",
+      "city": "Haugesund",
+      "region": "Norway",
+      "latitude": 58.94138889,
+      "longitude": 5.67138889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Hafrsfjord",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ole_Peter_Hansen_Balling_Harald_H%C3%A5rfagre_i_slaget_ved_Hafrsfjord.jpg",
+      "description_short": "Battle of Hafrsfjord — a notable landmark in Haugesund, Norway.",
+      "keywords": [
+        "Haugesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Karmsundet",
+      "city": "Haugesund",
+      "region": "Norway",
+      "latitude": 59.29722,
+      "longitude": 5.32639,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Karmsundet",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/H%C3%B8gspentmaster_p%C3%A5_Fosen_Karm%C3%B8y.jpg/800px-H%C3%B8gspentmaster_p%C3%A5_Fosen_Karm%C3%B8y.jpg",
+      "description_short": "Karmsundet — a notable landmark in Haugesund, Norway.",
+      "keywords": [
+        "Haugesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Avaldsnes",
+      "city": "Haugesund",
+      "region": "Norway",
+      "latitude": 59.35392,
+      "longitude": 5.28324,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Avaldsnes",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Dahl.I.C.1820.jpg",
+      "description_short": "Avaldsnes — a notable landmark in Haugesund, Norway.",
+      "keywords": [
+        "Haugesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Old Dyrskartunnel",
+      "city": "Haugesund",
+      "region": "Norway",
+      "latitude": 59.84472222,
+      "longitude": 7.05388889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Old_Dyrskartunnel",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dyrskartunnel0003.jpg/800px-Dyrskartunnel0003.jpg",
+      "description_short": "Old Dyrskartunnel — a notable landmark in Haugesund, Norway.",
+      "keywords": [
+        "Haugesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Western Norway University of Applied Sciences",
+      "city": "Haugesund",
+      "region": "Norway",
+      "latitude": 60.3691,
+      "longitude": 5.3495,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Western_Norway_University_of_Applied_Sciences",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/StudiestedBergen.jpg/800px-StudiestedBergen.jpg",
+      "description_short": "Western Norway University of Applied Sciences — a notable landmark in Haugesund, Norway.",
+      "keywords": [
+        "Haugesund",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Operation Leader",
+      "city": "Bodø",
+      "region": "Norway",
+      "latitude": 67.28416667,
+      "longitude": 14.38111111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Leader",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/SBD-3_CV-4_Norway_1943_NAN10-1-45.jpg",
+      "description_short": "Operation Leader — a notable landmark in Bodø, Norway.",
+      "keywords": [
+        "Bodø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Skjerstad",
+      "city": "Bodø",
+      "region": "Norway",
+      "latitude": 67.2331,
+      "longitude": 15.0257,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Skjerstad",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Skjerstad1.JPG/800px-Skjerstad1.JPG",
+      "description_short": "Skjerstad — a notable landmark in Bodø, Norway.",
+      "keywords": [
+        "Bodø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Mosjøen",
+      "city": "Bodø",
+      "region": "Norway",
+      "latitude": 65.837,
+      "longitude": 13.1913,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mosj%C3%B8en",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Mosjoeen_Olderskog.jpg/800px-Mosjoeen_Olderskog.jpg",
+      "description_short": "Mosjøen — a notable landmark in Bodø, Norway.",
+      "keywords": [
+        "Bodø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Lofoten",
+      "city": "Bodø",
+      "region": "Norway",
+      "latitude": 68.33333333,
+      "longitude": 14.66666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lofoten",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Moskenes_Reinebringen_lub_2025-07-21_img09_Aussicht.jpg/800px-Moskenes_Reinebringen_lub_2025-07-21_img09_Aussicht.jpg",
+      "description_short": "Lofoten — a notable landmark in Bodø, Norway.",
+      "keywords": [
+        "Bodø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Aspmyra Stadion",
+      "city": "Bodø",
+      "region": "Norway",
+      "latitude": 67.27666667,
+      "longitude": 14.38444444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aspmyra_Stadion",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Aspmyra_stadion.jpg/800px-Aspmyra_stadion.jpg",
+      "description_short": "Aspmyra Stadion — a notable landmark in Bodø, Norway.",
+      "keywords": [
+        "Bodø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Leknes",
+      "city": "Bodø",
+      "region": "Norway",
+      "latitude": 68.1475,
+      "longitude": 13.6115,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Leknes",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Leknes-winter.jpg/800px-Leknes-winter.jpg",
+      "description_short": "Leknes — a notable landmark in Bodø, Norway.",
+      "keywords": [
+        "Bodø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Svolvær",
+      "city": "Bodø",
+      "region": "Norway",
+      "latitude": 68.2353,
+      "longitude": 14.5636,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Svolv%C3%A6r",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Svolvaer%2C_Lofoten%2C_Norway.JPG/800px-Svolvaer%2C_Lofoten%2C_Norway.JPG",
+      "description_short": "Svolvær — a notable landmark in Bodø, Norway.",
+      "keywords": [
+        "Bodø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Nordland Museum",
+      "city": "Bodø",
+      "region": "Norway",
+      "latitude": 67.2819,
+      "longitude": 14.3823,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nordland_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Nordlandsmuseet_2015.jpg/800px-Nordlandsmuseet_2015.jpg",
+      "description_short": "Nordland Museum — a notable landmark in Bodø, Norway.",
+      "keywords": [
+        "Bodø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Bodø Airport",
+      "city": "Bodø",
+      "region": "Norway",
+      "latitude": 67.26916667,
+      "longitude": 14.36527778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bod%C3%B8_Airport",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bod%C3%B8_lufthavn.jpg/800px-Bod%C3%B8_lufthavn.jpg",
+      "description_short": "Bodø Airport — a notable landmark in Bodø, Norway.",
+      "keywords": [
+        "Bodø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Kjerringøy",
+      "city": "Bodø",
+      "region": "Norway",
+      "latitude": 67.5195,
+      "longitude": 14.7643,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kjerring%C3%B8y",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kjerring%C3%B8y_Handelssted.jpg/800px-Kjerring%C3%B8y_Handelssted.jpg",
+      "description_short": "Kjerringøy — a notable landmark in Bodø, Norway.",
+      "keywords": [
+        "Bodø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Haukåsen Radar",
+      "city": "Bodø",
+      "region": "Norway",
+      "latitude": 59.90388889,
+      "longitude": 10.89666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hauk%C3%A5sen_Radar",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Radaren_p%C3%A5_Hauk%C3%A5sen_%28bilde04%29_%2821._mai_2018%29.jpg/800px-Radaren_p%C3%A5_Hauk%C3%A5sen_%28bilde04%29_%2821._mai_2018%29.jpg",
+      "description_short": "Haukåsen Radar — a notable landmark in Bodø, Norway.",
+      "keywords": [
+        "Bodø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Norwegian Armed Forces Aircraft Collection",
+      "city": "Bodø",
+      "region": "Norway",
+      "latitude": 60.18915278,
+      "longitude": 11.06955278,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_Armed_Forces_Aircraft_Collection",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/FFS_Z.jpg/800px-FFS_Z.jpg",
+      "description_short": "Norwegian Armed Forces Aircraft Collection — a notable landmark in Bodø, Norway.",
+      "keywords": [
+        "Bodø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Bodø (town)",
+      "city": "Bodø",
+      "region": "Norway",
+      "latitude": 67.2827,
+      "longitude": 14.3751,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bod%C3%B8_(town)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bod%C3%B8-Panorama-04-2019-gje.jpg/800px-Bod%C3%B8-Panorama-04-2019-gje.jpg",
+      "description_short": "Bodø (town) — a notable landmark in Bodø, Norway.",
+      "keywords": [
+        "Bodø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Fauske (town)",
+      "city": "Bodø",
+      "region": "Norway",
+      "latitude": 67.2594,
+      "longitude": 15.3933,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fauske_(town)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fauske_og_Finneid_fra_fly.jpg/800px-Fauske_og_Finneid_fra_fly.jpg",
+      "description_short": "Fauske (town) — a notable landmark in Bodø, Norway.",
+      "keywords": [
+        "Bodø",
+        "Norway",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    }
+  ],
+  "adventure_locations": [
+    {
+      "name": "Royal Palace",
+      "region": "Norway",
+      "latitude": 59.91691111,
+      "longitude": 10.72756667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Royal_Palace%2C_Oslo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Slottet_i_Oslo_1.jpg/800px-Slottet_i_Oslo_1.jpg",
+      "description_short": "Royal Palace — a must-see landmark on a Norway road trip.",
+      "keywords": [
+        "Royal Palace",
+        "Norway",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 90
+    },
+    {
+      "name": "Old Bishop's Palace in Oslo",
+      "region": "Norway",
+      "latitude": 59.90618611,
+      "longitude": 10.76750556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Old_Bishop's_Palace_in_Oslo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Oslo_ladeg%C3%A5rd.jpg/800px-Oslo_ladeg%C3%A5rd.jpg",
+      "description_short": "Old Bishop's Palace in Oslo — a must-see landmark on a Norway road trip.",
+      "keywords": [
+        "Old Bishop's Palace in Oslo",
+        "Norway",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 89
+    },
+    {
+      "name": "Palace Park",
+      "region": "Norway",
+      "latitude": 59.9175,
+      "longitude": 10.7283,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Palace_Park",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kongespeilet_i_Slottsparken.JPG/800px-Kongespeilet_i_Slottsparken.JPG",
+      "description_short": "Palace Park — a must-see landmark on a Norway road trip.",
+      "keywords": [
+        "Palace Park",
+        "Norway",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 88
+    },
+    {
+      "name": "Akershus Fortress",
+      "region": "Norway",
+      "latitude": 59.90666667,
+      "longitude": 10.73611111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Akershus_Fortress",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/14-09-02-oslo-RalfR-370.jpg/800px-14-09-02-oslo-RalfR-370.jpg",
+      "description_short": "Akershus Fortress — a must-see landmark on a Norway road trip.",
+      "keywords": [
+        "Akershus Fortress",
+        "Norway",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 90
+    },
+    {
+      "name": "Bergenhus Fortress",
+      "region": "Norway",
+      "latitude": 60.40058611,
+      "longitude": 5.31768333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bergenhus_Fortress",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bergenhus.2.JPG/800px-Bergenhus.2.JPG",
+      "description_short": "Bergenhus Fortress — a must-see landmark on a Norway road trip.",
+      "keywords": [
+        "Bergenhus Fortress",
+        "Norway",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 89
+    },
+    {
+      "name": "Steinvikholm Castle",
+      "region": "Norway",
+      "latitude": 63.54361111,
+      "longitude": 10.81305556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Steinvikholm_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Steinvikholm_slott.JPG/800px-Steinvikholm_slott.JPG",
+      "description_short": "Steinvikholm Castle — a must-see landmark on a Norway road trip.",
+      "keywords": [
+        "Steinvikholm Castle",
+        "Norway",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 88
+    },
+    {
+      "name": "Nidaros Cathedral",
+      "region": "Norway",
+      "latitude": 63.4267,
+      "longitude": 10.3962,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nidaros_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nidaros_Cathedral%2C_Trondheim%2C_West_view_20150605_1.jpg/800px-Nidaros_Cathedral%2C_Trondheim%2C_West_view_20150605_1.jpg",
+      "description_short": "Nidaros Cathedral — a must-see landmark on a Norway road trip.",
+      "keywords": [
+        "Nidaros Cathedral",
+        "Norway",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 87
+    },
+    {
+      "name": "Stavanger Cathedral",
+      "region": "Norway",
+      "latitude": 58.969787,
+      "longitude": 5.733162,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Stavanger_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Stavanger_Cathedral_2025.jpg/800px-Stavanger_Cathedral_2025.jpg",
+      "description_short": "Stavanger Cathedral — a must-see landmark on a Norway road trip.",
+      "keywords": [
+        "Stavanger Cathedral",
+        "Norway",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 86
+    },
+    {
+      "name": "Oslo Cathedral",
+      "region": "Norway",
+      "latitude": 59.91231944,
+      "longitude": 10.74695833,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oslo_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Oslo_Cathedral.jpg/800px-Oslo_Cathedral.jpg",
+      "description_short": "Oslo Cathedral — a must-see landmark on a Norway road trip.",
+      "keywords": [
+        "Oslo Cathedral",
+        "Norway",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Arctic Cathedral",
+      "region": "Norway",
+      "latitude": 69.6482,
+      "longitude": 18.9871,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Arctic_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Arctic_Cathedral_in_Tromsoe.jpg/800px-Arctic_Cathedral_in_Tromsoe.jpg",
+      "description_short": "Arctic Cathedral — a must-see landmark on a Norway road trip.",
+      "keywords": [
+        "Arctic Cathedral",
+        "Norway",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 84
+    }
+  ],
+  "country_cover_image": {
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bryggen%2C_Bergen%2C_Noruega%2C_2019-09-08%2C_DD_115-117_PAN.jpg",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bryggen"
+  }
+}

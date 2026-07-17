@@ -1,0 +1,3236 @@
+{
+  "version": 2,
+  "country": "Austria",
+  "published": true,
+  "cities": [
+    {
+      "city": "Vienna",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "wiki_title": "Vienna",
+      "seo": {
+        "title": "Top 10 Things to Do in Vienna, Austria",
+        "description": "Discover 10 must-see landmarks in Vienna, Austria. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Vienna? Explore the best places to visit in Vienna, Austria.",
+        "keywords": [
+          "things to do in Vienna",
+          "Vienna Austria travel guide",
+          "best places to visit in Vienna",
+          "Vienna landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Schönbrunn Palace",
+          "wiki_title": "Schönbrunn Palace",
+          "lat": 48.1845,
+          "lng": 16.3122,
+          "order_index": 0,
+          "description": "Imperial palace and gardens in Vienna.",
+          "seo_phrase": "Schönbrunn Palace Vienna Guide",
+          "seo_keywords": [
+            "Schönbrunn Palace",
+            "Vienna palace",
+            "Habsburg residence",
+            "UNESCO Vienna",
+            "imperial Austria"
+          ],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schloss_Sch%C3%B6nbrunn_Wien_2014.jpg/960px-Schloss_Sch%C3%B6nbrunn_Wien_2014.jpg",
+          "seo_priority": 99,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Hofburg Palace",
+            "Belvedere Palace",
+            "Vienna State Opera"
+          ]
+        },
+        {
+          "name": "Hofburg Palace",
+          "wiki_title": "Hofburg",
+          "lat": 48.206,
+          "lng": 16.365,
+          "order_index": 1,
+          "seo_phrase": "Hofburg Palace",
+          "seo_keywords": [
+            "Hofburg Palace",
+            "Vienna",
+            "Austria"
+          ],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wien_-_Neue_Hofburg.JPG/960px-Wien_-_Neue_Hofburg.JPG",
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Belvedere Palace",
+          "wiki_title": "Belvedere, Vienna",
+          "lat": 48.191,
+          "lng": 16.38,
+          "order_index": 2,
+          "seo_phrase": "Belvedere Palace",
+          "seo_keywords": [
+            "Belvedere Palace",
+            "Vienna",
+            "Austria"
+          ],
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "St Stephen's Cathedral",
+          "wiki_title": "St. Stephen's Cathedral, Vienna",
+          "lat": 48.208,
+          "lng": 16.373,
+          "order_index": 3,
+          "seo_phrase": "St Stephen's Cathedral",
+          "seo_keywords": [
+            "St Stephen's Cathedral",
+            "Vienna",
+            "Austria"
+          ],
+          "seo_priority": 77,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Vienna State Opera",
+          "wiki_title": "Vienna State Opera",
+          "lat": 48.203,
+          "lng": 16.369,
+          "order_index": 4,
+          "seo_phrase": "Vienna State Opera",
+          "seo_keywords": [
+            "Vienna State Opera",
+            "Vienna",
+            "Austria"
+          ],
+          "seo_priority": 76,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Prater",
+          "wiki_title": "Wurstelprater",
+          "lat": 48.216,
+          "lng": 16.395,
+          "order_index": 5,
+          "seo_phrase": "Prater",
+          "seo_keywords": [
+            "Prater",
+            "Vienna",
+            "Austria"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Karlskirche",
+          "wiki_title": "Karlskirche, Vienna",
+          "lat": 48.1984,
+          "lng": 16.3717,
+          "order_index": 6,
+          "seo_phrase": "Karlskirche Vienna",
+          "seo_keywords": [
+            "Karlskirche",
+            "Vienna",
+            "Austria",
+            "Baroque church"
+          ],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Vienna_-_Karlskirche.jpg",
+          "seo_priority": 74,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Albertina",
+          "wiki_title": "Albertina",
+          "lat": 48.204,
+          "lng": 16.368,
+          "order_index": 7,
+          "seo_phrase": "Albertina",
+          "seo_keywords": [
+            "Albertina",
+            "Vienna",
+            "Austria"
+          ],
+          "seo_priority": 73,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Hundertwasserhaus",
+          "wiki_title": "Hundertwasserhaus",
+          "lat": 48.207,
+          "lng": 16.394,
+          "order_index": 8,
+          "seo_phrase": "Hundertwasserhaus",
+          "seo_keywords": [
+            "Hundertwasserhaus",
+            "Vienna",
+            "Austria"
+          ],
+          "seo_priority": 72,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Spanish Riding School",
+          "wiki_title": "Spanish Riding School",
+          "lat": 48.206,
+          "lng": 16.366,
+          "order_index": 9,
+          "seo_phrase": "Spanish Riding School",
+          "seo_keywords": [
+            "Spanish Riding School",
+            "Vienna",
+            "Austria"
+          ],
+          "seo_priority": 71,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Salzburg",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "wiki_title": "Salzburg",
+      "seo": {
+        "title": "Top 10 Things to Do in Salzburg, Austria",
+        "description": "Discover 10 must-see landmarks in Salzburg, Austria. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Salzburg? Explore the best places to visit in Salzburg, Austria.",
+        "keywords": [
+          "things to do in Salzburg",
+          "Salzburg Austria travel guide",
+          "best places to visit in Salzburg",
+          "Salzburg landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Hohensalzburg Fortress",
+          "wiki_title": "Hohensalzburg Fortress",
+          "lat": 47.7956,
+          "lng": 13.0465,
+          "order_index": 0,
+          "description": "Medieval fortress above Salzburg Old Town.",
+          "seo_phrase": "Hohensalzburg Fortress Salzburg Guide",
+          "seo_keywords": [
+            "Salzburg fortress",
+            "Hohensalzburg",
+            "medieval castle Austria"
+          ],
+          "commons_file": "Hohensalzburg Fortress Salzburg.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Hohensalzburg_Fortress_Salzburg.jpg",
+          "seo_priority": 97,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Salzburg Cathedral",
+            "Mozart's Birthplace",
+            "Mirabell Palace"
+          ]
+        },
+        {
+          "name": "Mirabell Palace",
+          "wiki_title": "Mirabell Palace",
+          "lat": 47.8056,
+          "lng": 13.0433,
+          "order_index": 1,
+          "seo_phrase": "Mirabell Palace",
+          "seo_keywords": [
+            "Mirabell Palace",
+            "Salzburg",
+            "Austria"
+          ],
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Salzburg Cathedral",
+          "wiki_title": "Salzburg Cathedral",
+          "lat": 47.7972,
+          "lng": 13.0467,
+          "order_index": 2,
+          "seo_phrase": "Salzburg Cathedral",
+          "seo_keywords": [
+            "Salzburg Cathedral",
+            "Salzburg",
+            "Austria"
+          ],
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Mozart's Birthplace",
+          "wiki_title": "Mozart's Birthplace",
+          "lat": 47.8028,
+          "lng": 13.0433,
+          "order_index": 3,
+          "seo_phrase": "Mozart's Birthplace",
+          "seo_keywords": [
+            "Mozart's Birthplace",
+            "Salzburg",
+            "Austria"
+          ],
+          "seo_priority": 77,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Hellbrunn Palace",
+          "wiki_title": "Hellbrunn Palace",
+          "lat": 47.762,
+          "lng": 13.06,
+          "order_index": 4,
+          "seo_phrase": "Hellbrunn Palace",
+          "seo_keywords": [
+            "Hellbrunn Palace",
+            "Salzburg",
+            "Austria"
+          ],
+          "seo_priority": 76,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "St Peter's Abbey",
+          "wiki_title": "St Peter's Abbey, Salzburg",
+          "lat": 47.797,
+          "lng": 13.046,
+          "order_index": 5,
+          "seo_phrase": "St Peter's Abbey",
+          "seo_keywords": [
+            "St Peter's Abbey",
+            "Salzburg",
+            "Austria"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Getreidegasse",
+          "wiki_title": "Getreidegasse",
+          "lat": 47.8003,
+          "lng": 13.043,
+          "order_index": 6,
+          "seo_phrase": "Getreidegasse",
+          "seo_keywords": [
+            "Getreidegasse",
+            "Salzburg",
+            "Austria"
+          ],
+          "seo_priority": 74,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Mönchsberg",
+          "wiki_title": "Mönchsberg",
+          "lat": 47.799,
+          "lng": 13.04,
+          "order_index": 7,
+          "seo_phrase": "Mönchsberg",
+          "seo_keywords": [
+            "Mönchsberg",
+            "Salzburg",
+            "Austria"
+          ],
+          "seo_priority": 73,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Nonnberg Abbey",
+          "wiki_title": "Nonnberg Abbey",
+          "lat": 47.796,
+          "lng": 13.052,
+          "order_index": 8,
+          "seo_phrase": "Nonnberg Abbey",
+          "seo_keywords": [
+            "Nonnberg Abbey",
+            "Salzburg",
+            "Austria"
+          ],
+          "seo_priority": 72,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Residenzplatz",
+          "wiki_title": "Residenzplatz",
+          "lat": 47.7995,
+          "lng": 13.046,
+          "order_index": 9,
+          "seo_phrase": "Residenzplatz",
+          "seo_keywords": [
+            "Residenzplatz",
+            "Salzburg",
+            "Austria"
+          ],
+          "seo_priority": 71,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Innsbruck",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "wiki_title": "Innsbruck",
+      "seo": {
+        "title": "Top 10 Things to Do in Innsbruck, Austria",
+        "description": "Discover 10 must-see landmarks in Innsbruck, Austria. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Innsbruck? Explore the best places to visit in Innsbruck, Austria.",
+        "keywords": [
+          "things to do in Innsbruck",
+          "Innsbruck Austria travel guide",
+          "best places to visit in Innsbruck",
+          "Innsbruck landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Innsbruck Old Town (Altstadt)",
+          "wiki_title": "Innsbruck",
+          "lat": 47.2684,
+          "lng": 11.3933,
+          "order_index": 0,
+          "description": "Historic Alpine old town in Tyrol.",
+          "seo_phrase": "Innsbruck Old Town Travel Guide",
+          "seo_keywords": [
+            "Innsbruck Altstadt",
+            "Golden Roof",
+            "Tyrol old town"
+          ],
+          "commons_file": "Altstadt Innsbruck.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Altstadt_Innsbruck.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Nordkette Cable Car",
+            "Ambras Castle",
+            "Bergisel Ski Jump"
+          ]
+        },
+        {
+          "name": "Golden Roof",
+          "wiki_title": "Golden Roof",
+          "lat": 47.2685,
+          "lng": 11.3933,
+          "order_index": 1,
+          "seo_phrase": "Golden Roof",
+          "seo_keywords": [
+            "Golden Roof",
+            "Innsbruck",
+            "Austria"
+          ],
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Ambras Castle",
+          "wiki_title": "Ambras Castle",
+          "lat": 47.256,
+          "lng": 11.434,
+          "order_index": 2,
+          "seo_phrase": "Ambras Castle",
+          "seo_keywords": [
+            "Ambras Castle",
+            "Innsbruck",
+            "Austria"
+          ],
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Bergisel Ski Jump",
+          "wiki_title": "Bergisel Ski Jump",
+          "lat": 47.258,
+          "lng": 11.401,
+          "order_index": 3,
+          "seo_phrase": "Bergisel Ski Jump",
+          "seo_keywords": [
+            "Bergisel Ski Jump",
+            "Innsbruck",
+            "Austria"
+          ],
+          "seo_priority": 77,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Nordkette Cable Car",
+          "wiki_title": "Nordkette",
+          "lat": 47.283,
+          "lng": 11.393,
+          "order_index": 4,
+          "seo_phrase": "Nordkette Cable Car",
+          "seo_keywords": [
+            "Nordkette Cable Car",
+            "Innsbruck",
+            "Austria"
+          ],
+          "seo_priority": 76,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Hofburg, Innsbruck",
+          "wiki_title": "Hofburg, Innsbruck",
+          "lat": 47.268,
+          "lng": 11.394,
+          "order_index": 5,
+          "seo_phrase": "Hofburg, Innsbruck",
+          "seo_keywords": [
+            "Hofburg, Innsbruck",
+            "Innsbruck",
+            "Austria"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Court Church",
+          "wiki_title": "Court Church, Innsbruck",
+          "lat": 47.2685,
+          "lng": 11.395,
+          "order_index": 6,
+          "seo_phrase": "Court Church",
+          "seo_keywords": [
+            "Court Church",
+            "Innsbruck",
+            "Austria"
+          ],
+          "seo_priority": 74,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Triumphpforte",
+          "wiki_title": "Triumphpforte",
+          "lat": 47.262,
+          "lng": 11.394,
+          "order_index": 7,
+          "seo_phrase": "Triumphpforte",
+          "seo_keywords": [
+            "Triumphpforte",
+            "Innsbruck",
+            "Austria"
+          ],
+          "seo_priority": 73,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Alpenzoo Innsbruck",
+          "wiki_title": "Alpenzoo",
+          "lat": 47.288,
+          "lng": 11.395,
+          "order_index": 8,
+          "seo_phrase": "Alpenzoo Innsbruck",
+          "seo_keywords": [
+            "Alpenzoo Innsbruck",
+            "Innsbruck",
+            "Austria"
+          ],
+          "seo_priority": 72,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Swarovski Kristallwelten",
+          "wiki_title": "Swarovski Kristallwelten",
+          "lat": 47.293,
+          "lng": 11.601,
+          "order_index": 9,
+          "seo_phrase": "Swarovski Kristallwelten",
+          "seo_keywords": [
+            "Swarovski Kristallwelten",
+            "Innsbruck",
+            "Austria"
+          ],
+          "seo_priority": 71,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Graz",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "wiki_title": "Graz",
+      "seo": {
+        "title": "Top 10 Things to Do in Graz, Austria",
+        "description": "Discover 10 must-see landmarks in Graz, Austria. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Graz? Explore the best places to visit in Graz, Austria.",
+        "keywords": [
+          "things to do in Graz",
+          "Graz Austria travel guide",
+          "best places to visit in Graz",
+          "Graz landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Schlossberg & Uhrturm",
+          "wiki_title": "Schlossberg (Graz)",
+          "lat": 47.0765,
+          "lng": 15.4343,
+          "order_index": 0,
+          "description": "Hilltop park with panoramic city views.",
+          "seo_phrase": "Schlossberg Graz Clock Tower Guide",
+          "seo_keywords": [
+            "Graz Schlossberg",
+            "Uhrturm",
+            "Graz viewpoint"
+          ],
+          "commons_file": "Graz Schlossberg Uhrturm.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Graz_Schlossberg_Uhrturm.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Graz Old Town",
+            "Mur Island",
+            "Eggenberg Palace"
+          ]
+        },
+        {
+          "name": "Eggenberg Palace",
+          "wiki_title": "Eggenberg Palace, Graz",
+          "lat": 47.073,
+          "lng": 15.391,
+          "order_index": 1,
+          "seo_phrase": "Eggenberg Palace",
+          "seo_keywords": [
+            "Eggenberg Palace",
+            "Graz",
+            "Austria"
+          ],
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Murinsel",
+          "wiki_title": "Murinsel",
+          "lat": 47.0705,
+          "lng": 15.438,
+          "order_index": 2,
+          "seo_phrase": "Murinsel",
+          "seo_keywords": [
+            "Murinsel",
+            "Graz",
+            "Austria"
+          ],
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Graz Cathedral",
+          "wiki_title": "Graz Cathedral",
+          "lat": 47.071,
+          "lng": 15.438,
+          "order_index": 3,
+          "seo_phrase": "Graz Cathedral",
+          "seo_keywords": [
+            "Graz Cathedral",
+            "Graz",
+            "Austria"
+          ],
+          "seo_priority": 77,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Landeszeughaus",
+          "wiki_title": "Landeszeughaus",
+          "lat": 47.07,
+          "lng": 15.437,
+          "order_index": 4,
+          "seo_phrase": "Landeszeughaus",
+          "seo_keywords": [
+            "Landeszeughaus",
+            "Graz",
+            "Austria"
+          ],
+          "seo_priority": 76,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Graz Old Town",
+          "wiki_title": "Graz",
+          "lat": 47.071,
+          "lng": 15.438,
+          "order_index": 5,
+          "seo_phrase": "Graz Old Town",
+          "seo_keywords": [
+            "Graz Old Town",
+            "Graz",
+            "Austria"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Kunsthaus Graz",
+          "wiki_title": "Kunsthaus Graz",
+          "lat": 47.071,
+          "lng": 15.434,
+          "order_index": 6,
+          "seo_phrase": "Kunsthaus Graz",
+          "seo_keywords": [
+            "Kunsthaus Graz",
+            "Graz",
+            "Austria"
+          ],
+          "seo_priority": 74,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Marienkapelle, Graz",
+          "wiki_title": "Marienkapelle, Graz",
+          "lat": 47.071,
+          "lng": 15.437,
+          "order_index": 7,
+          "seo_phrase": "Marienkapelle, Graz",
+          "seo_keywords": [
+            "Marienkapelle, Graz",
+            "Graz",
+            "Austria"
+          ],
+          "seo_priority": 73,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Graz Opera House",
+          "wiki_title": "Oper Graz",
+          "lat": 47.073,
+          "lng": 15.442,
+          "order_index": 8,
+          "seo_phrase": "Graz Opera House",
+          "seo_keywords": [
+            "Graz Opera House",
+            "Graz",
+            "Austria"
+          ],
+          "seo_priority": 72,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Botanical Garden Graz",
+          "wiki_title": "Botanical Garden of Graz",
+          "lat": 47.08,
+          "lng": 15.456,
+          "order_index": 9,
+          "seo_phrase": "Botanical Garden Graz",
+          "seo_keywords": [
+            "Botanical Garden Graz",
+            "Graz",
+            "Austria"
+          ],
+          "seo_priority": 71,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Linz",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "wiki_title": "Linz",
+      "seo": {
+        "title": "Top 10 Things to Do in Linz, Austria",
+        "description": "Discover 10 must-see landmarks in Linz, Austria. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Linz? Explore the best places to visit in Linz, Austria.",
+        "keywords": [
+          "things to do in Linz",
+          "Linz Austria travel guide",
+          "best places to visit in Linz",
+          "Linz landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Ars Electronica Center",
+          "wiki_title": "Ars Electronica Center",
+          "lat": 48.307,
+          "lng": 14.284,
+          "order_index": 0,
+          "seo_phrase": "Ars Electronica Center",
+          "seo_keywords": [
+            "Ars Electronica Center",
+            "Linz",
+            "Austria"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Lentos Art Museum",
+          "wiki_title": "Lentos Art Museum",
+          "lat": 48.305,
+          "lng": 14.286,
+          "order_index": 1,
+          "seo_phrase": "Lentos Art Museum",
+          "seo_keywords": [
+            "Lentos Art Museum",
+            "Linz",
+            "Austria"
+          ],
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Pöstlingberg",
+          "wiki_title": "Pöstlingberg",
+          "lat": 48.324,
+          "lng": 14.259,
+          "order_index": 2,
+          "seo_phrase": "Pöstlingberg",
+          "seo_keywords": [
+            "Pöstlingberg",
+            "Linz",
+            "Austria"
+          ],
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "New Cathedral, Linz",
+          "wiki_title": "New Cathedral, Linz",
+          "lat": 48.3,
+          "lng": 14.286,
+          "order_index": 3,
+          "seo_phrase": "New Cathedral, Linz",
+          "seo_keywords": [
+            "New Cathedral, Linz",
+            "Linz",
+            "Austria"
+          ],
+          "seo_priority": 77,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Linz Castle",
+          "wiki_title": "Linz Castle",
+          "lat": 48.306,
+          "lng": 14.279,
+          "order_index": 4,
+          "seo_phrase": "Linz Castle",
+          "seo_keywords": [
+            "Linz Castle",
+            "Linz",
+            "Austria"
+          ],
+          "seo_priority": 76,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Hauptplatz, Linz",
+          "wiki_title": "Hauptplatz (Linz)",
+          "lat": 48.306,
+          "lng": 14.286,
+          "order_index": 5,
+          "seo_phrase": "Hauptplatz, Linz",
+          "seo_keywords": [
+            "Hauptplatz, Linz",
+            "Linz",
+            "Austria"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Voestalpine Stahlwelt",
+          "wiki_title": "Voestalpine Stahlwelt",
+          "lat": 48.283,
+          "lng": 14.32,
+          "order_index": 6,
+          "seo_phrase": "Voestalpine Stahlwelt",
+          "seo_keywords": [
+            "Voestalpine Stahlwelt",
+            "Linz",
+            "Austria"
+          ],
+          "seo_priority": 74,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Botanical Garden Linz",
+          "wiki_title": "Botanical Garden of the Upper Austrian State Museum",
+          "lat": 48.298,
+          "lng": 14.278,
+          "order_index": 7,
+          "seo_phrase": "Botanical Garden Linz",
+          "seo_keywords": [
+            "Botanical Garden Linz",
+            "Linz",
+            "Austria"
+          ],
+          "seo_priority": 73,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Old Cathedral, Linz",
+          "wiki_title": "Old Cathedral, Linz",
+          "lat": 48.305,
+          "lng": 14.285,
+          "order_index": 8,
+          "seo_phrase": "Old Cathedral, Linz",
+          "seo_keywords": [
+            "Old Cathedral, Linz",
+            "Linz",
+            "Austria"
+          ],
+          "seo_priority": 72,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Danube River Linz",
+          "wiki_title": "Danube",
+          "lat": 48.305,
+          "lng": 14.29,
+          "order_index": 9,
+          "seo_phrase": "Danube River Linz",
+          "seo_keywords": [
+            "Danube River Linz",
+            "Linz",
+            "Austria"
+          ],
+          "seo_priority": 71,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Klagenfurt",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "wiki_title": "Klagenfurt",
+      "seo": {
+        "title": "Top 10 Things to Do in Klagenfurt, Austria",
+        "description": "Discover 10 must-see landmarks in Klagenfurt, Austria. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Klagenfurt? Explore the best places to visit in Klagenfurt, Austria.",
+        "keywords": [
+          "things to do in Klagenfurt",
+          "Klagenfurt Austria travel guide",
+          "best places to visit in Klagenfurt",
+          "Klagenfurt landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Lindwurm Fountain",
+          "wiki_title": "Lindwurmbrunnen",
+          "lat": 46.624,
+          "lng": 14.305,
+          "order_index": 0,
+          "seo_phrase": "Lindwurm Fountain",
+          "seo_keywords": [
+            "Lindwurm Fountain",
+            "Klagenfurt",
+            "Austria"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Minimundus",
+          "wiki_title": "Minimundus",
+          "lat": 46.609,
+          "lng": 14.271,
+          "order_index": 1,
+          "seo_phrase": "Minimundus",
+          "seo_keywords": [
+            "Minimundus",
+            "Klagenfurt",
+            "Austria"
+          ],
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Wörthersee",
+          "wiki_title": "Wörthersee",
+          "lat": 46.633,
+          "lng": 14.133,
+          "order_index": 2,
+          "seo_phrase": "Wörthersee",
+          "seo_keywords": [
+            "Wörthersee",
+            "Klagenfurt",
+            "Austria"
+          ],
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Klagenfurt Cathedral",
+          "wiki_title": "Klagenfurt Cathedral",
+          "lat": 46.624,
+          "lng": 14.306,
+          "order_index": 3,
+          "seo_phrase": "Klagenfurt Cathedral",
+          "seo_keywords": [
+            "Klagenfurt Cathedral",
+            "Klagenfurt",
+            "Austria"
+          ],
+          "seo_priority": 77,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Landhaus Klagenfurt",
+          "wiki_title": "Landhaus Klagenfurt",
+          "lat": 46.624,
+          "lng": 14.307,
+          "order_index": 4,
+          "seo_phrase": "Landhaus Klagenfurt",
+          "seo_keywords": [
+            "Landhaus Klagenfurt",
+            "Klagenfurt",
+            "Austria"
+          ],
+          "seo_priority": 76,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Pyramidenkogel",
+          "wiki_title": "Pyramidenkogel",
+          "lat": 46.607,
+          "lng": 14.145,
+          "order_index": 5,
+          "seo_phrase": "Pyramidenkogel",
+          "seo_keywords": [
+            "Pyramidenkogel",
+            "Klagenfurt",
+            "Austria"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Maria Saal Basilica",
+          "wiki_title": "Maria Saal Basilica",
+          "lat": 46.671,
+          "lng": 14.348,
+          "order_index": 6,
+          "seo_phrase": "Maria Saal Basilica",
+          "seo_keywords": [
+            "Maria Saal Basilica",
+            "Klagenfurt",
+            "Austria"
+          ],
+          "seo_priority": 74,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Hochosterwitz Castle",
+          "wiki_title": "Hochosterwitz Castle",
+          "lat": 46.755,
+          "lng": 14.453,
+          "order_index": 7,
+          "seo_phrase": "Hochosterwitz Castle",
+          "seo_keywords": [
+            "Hochosterwitz Castle",
+            "Klagenfurt",
+            "Austria"
+          ],
+          "seo_priority": 73,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Kreuzbergl",
+          "wiki_title": "Kreuzbergl",
+          "lat": 46.635,
+          "lng": 14.318,
+          "order_index": 8,
+          "seo_phrase": "Kreuzbergl",
+          "seo_keywords": [
+            "Kreuzbergl",
+            "Klagenfurt",
+            "Austria"
+          ],
+          "seo_priority": 72,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Robert Musil Literature Museum",
+          "wiki_title": "Robert Musil Literature Museum",
+          "lat": 46.624,
+          "lng": 14.305,
+          "order_index": 9,
+          "seo_phrase": "Robert Musil Literature Museum",
+          "seo_keywords": [
+            "Robert Musil Literature Museum",
+            "Klagenfurt",
+            "Austria"
+          ],
+          "seo_priority": 71,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Bregenz",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "wiki_title": "Bregenz",
+      "seo": {
+        "title": "Top 10 Things to Do in Bregenz, Austria",
+        "description": "Discover 10 must-see landmarks in Bregenz, Austria. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Bregenz? Explore the best places to visit in Bregenz, Austria.",
+        "keywords": [
+          "things to do in Bregenz",
+          "Bregenz Austria travel guide",
+          "best places to visit in Bregenz",
+          "Bregenz landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Pfänder",
+          "wiki_title": "Pfänder",
+          "lat": 47.502,
+          "lng": 9.773,
+          "order_index": 0,
+          "seo_phrase": "Pfänder",
+          "seo_keywords": [
+            "Pfänder",
+            "Bregenz",
+            "Austria"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Lake Constance Promenade",
+          "wiki_title": "Lake Constance",
+          "lat": 47.503,
+          "lng": 9.747,
+          "order_index": 1,
+          "seo_phrase": "Lake Constance Promenade",
+          "seo_keywords": [
+            "Lake Constance Promenade",
+            "Bregenz",
+            "Austria"
+          ],
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Bregenz Festival House",
+          "wiki_title": "Festspielhaus Bregenz",
+          "lat": 47.503,
+          "lng": 9.747,
+          "order_index": 2,
+          "seo_phrase": "Bregenz Festival House",
+          "seo_keywords": [
+            "Bregenz Festival House",
+            "Bregenz",
+            "Austria"
+          ],
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Martins Tower",
+          "wiki_title": "Martinsturm (Bregenz)",
+          "lat": 47.503,
+          "lng": 9.747,
+          "order_index": 3,
+          "seo_phrase": "Martins Tower",
+          "seo_keywords": [
+            "Martins Tower",
+            "Bregenz",
+            "Austria"
+          ],
+          "seo_priority": 77,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Kunsthaus Bregenz",
+          "wiki_title": "Kunsthaus Bregenz",
+          "lat": 47.504,
+          "lng": 9.747,
+          "order_index": 4,
+          "seo_phrase": "Kunsthaus Bregenz",
+          "seo_keywords": [
+            "Kunsthaus Bregenz",
+            "Bregenz",
+            "Austria"
+          ],
+          "seo_priority": 76,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Vorarlberg Museum",
+          "wiki_title": "Vorarlberg Museum",
+          "lat": 47.503,
+          "lng": 9.747,
+          "order_index": 5,
+          "seo_phrase": "Vorarlberg Museum",
+          "seo_keywords": [
+            "Vorarlberg Museum",
+            "Bregenz",
+            "Austria"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "St Gallus Church Bregenz",
+          "wiki_title": "St Gallus Church, Bregenz",
+          "lat": 47.503,
+          "lng": 9.747,
+          "order_index": 6,
+          "seo_phrase": "St Gallus Church Bregenz",
+          "seo_keywords": [
+            "St Gallus Church Bregenz",
+            "Bregenz",
+            "Austria"
+          ],
+          "seo_priority": 74,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Hard Castle",
+          "wiki_title": "Hard Castle",
+          "lat": 47.489,
+          "lng": 9.687,
+          "order_index": 7,
+          "seo_phrase": "Hard Castle",
+          "seo_keywords": [
+            "Hard Castle",
+            "Bregenz",
+            "Austria"
+          ],
+          "seo_priority": 73,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Mehrerau Abbey",
+          "wiki_title": "Mehrerau Abbey",
+          "lat": 47.497,
+          "lng": 9.723,
+          "order_index": 8,
+          "seo_phrase": "Mehrerau Abbey",
+          "seo_keywords": [
+            "Mehrerau Abbey",
+            "Bregenz",
+            "Austria"
+          ],
+          "seo_priority": 72,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Floating Stage Bregenz",
+          "wiki_title": "Bregenz Festival",
+          "lat": 47.503,
+          "lng": 9.747,
+          "order_index": 9,
+          "seo_phrase": "Floating Stage Bregenz",
+          "seo_keywords": [
+            "Floating Stage Bregenz",
+            "Bregenz",
+            "Austria"
+          ],
+          "seo_priority": 71,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Hallstatt",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "wiki_title": "Hallstatt",
+      "seo": {
+        "title": "Top 10 Things to Do in Hallstatt, Austria",
+        "description": "Discover 10 must-see landmarks in Hallstatt, Austria. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Hallstatt? Explore the best places to visit in Hallstatt, Austria.",
+        "keywords": [
+          "things to do in Hallstatt",
+          "Hallstatt Austria travel guide",
+          "best places to visit in Hallstatt",
+          "Hallstatt landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Hallstatt Village Center",
+          "wiki_title": "Hallstatt",
+          "lat": 47.5623,
+          "lng": 13.6491,
+          "order_index": 0,
+          "description": "Famous lakeside Alpine village.",
+          "seo_phrase": "Hallstatt Travel Guide Austria",
+          "seo_keywords": [
+            "Hallstatt Austria",
+            "Salzkammergut",
+            "Alpine village"
+          ],
+          "commons_file": "Hallstatt Altstadt.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Hallstatt_Altstadt.jpg",
+          "seo_priority": 100,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Hallstatt Salt Mine",
+            "Skywalk Hallstatt",
+            "Dachstein Ice Cave"
+          ]
+        },
+        {
+          "name": "Hallstatt Salt Mine",
+          "wiki_title": "Hallstatt Salt Mine",
+          "lat": 47.562,
+          "lng": 13.649,
+          "order_index": 1,
+          "seo_phrase": "Hallstatt Salt Mine",
+          "seo_keywords": [
+            "Hallstatt Salt Mine",
+            "Hallstatt",
+            "Austria"
+          ],
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Skywalk Hallstatt",
+          "wiki_title": "Hallstatt Skywalk",
+          "lat": 47.563,
+          "lng": 13.65,
+          "order_index": 2,
+          "seo_phrase": "Skywalk Hallstatt",
+          "seo_keywords": [
+            "Skywalk Hallstatt",
+            "Hallstatt",
+            "Austria"
+          ],
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Hallstätter See",
+          "wiki_title": "Hallstätter See",
+          "lat": 47.567,
+          "lng": 13.655,
+          "order_index": 3,
+          "seo_phrase": "Hallstätter See",
+          "seo_keywords": [
+            "Hallstätter See",
+            "Hallstatt",
+            "Austria"
+          ],
+          "seo_priority": 77,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Dachstein Ice Cave",
+          "wiki_title": "Dachstein Ice Cave",
+          "lat": 47.528,
+          "lng": 13.619,
+          "order_index": 4,
+          "seo_phrase": "Dachstein Ice Cave",
+          "seo_keywords": [
+            "Dachstein Ice Cave",
+            "Hallstatt",
+            "Austria"
+          ],
+          "seo_priority": 76,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Hallstatt Bone House",
+          "wiki_title": "Hallstatt Charnel House",
+          "lat": 47.562,
+          "lng": 13.649,
+          "order_index": 5,
+          "seo_phrase": "Hallstatt Bone House",
+          "seo_keywords": [
+            "Hallstatt",
+            "Austria"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Catholic Parish Church Hallstatt",
+          "wiki_title": "Catholic Parish Church Hallstatt",
+          "lat": 47.562,
+          "lng": 13.649,
+          "order_index": 6,
+          "seo_phrase": "Catholic Parish Church Hallstatt",
+          "seo_keywords": [
+            "Catholic Parish Church Hallstatt",
+            "Hallstatt",
+            "Austria"
+          ],
+          "seo_priority": 74,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Market Square Hallstatt",
+          "wiki_title": "Hallstatt",
+          "lat": 47.562,
+          "lng": 13.649,
+          "order_index": 7,
+          "seo_phrase": "Market Square Hallstatt",
+          "seo_keywords": [
+            "Market Square Hallstatt",
+            "Hallstatt",
+            "Austria"
+          ],
+          "seo_priority": 73,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Gosau Valley",
+          "wiki_title": "Gosau",
+          "lat": 47.584,
+          "lng": 13.533,
+          "order_index": 8,
+          "seo_phrase": "Gosau Valley",
+          "seo_keywords": [
+            "Gosau Valley",
+            "Hallstatt",
+            "Austria"
+          ],
+          "seo_priority": 72,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Five Fingers Viewing Platform",
+          "wiki_title": "Five Fingers (Dachstein)",
+          "lat": 47.528,
+          "lng": 13.619,
+          "order_index": 9,
+          "seo_phrase": "Five Fingers Viewing Platform",
+          "seo_keywords": [
+            "Five Fingers Viewing Platform",
+            "Hallstatt",
+            "Austria"
+          ],
+          "seo_priority": 71,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Melk (Wachau Valley)",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "wiki_title": "Melk, Austria",
+      "seo": {
+        "title": "Top 10 Things to Do in Melk (Wachau Valley), Austria",
+        "description": "Discover 10 must-see landmarks in Melk (Wachau Valley), Austria. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Melk (Wachau Valley)? Explore the best places to visit in Melk (Wachau Valley), Austria.",
+        "keywords": [
+          "things to do in Melk (Wachau Valley)",
+          "Melk (Wachau Valley) Austria travel guide",
+          "best places to visit in Melk (Wachau Valley)",
+          "Melk (Wachau Valley) landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Melk Abbey",
+          "wiki_title": "Melk Abbey",
+          "lat": 48.2277,
+          "lng": 15.3317,
+          "order_index": 0,
+          "description": "Baroque abbey above the Danube River.",
+          "seo_phrase": "Melk Abbey Wachau Guide",
+          "seo_keywords": [
+            "Melk Abbey",
+            "Wachau Valley",
+            "Danube Austria"
+          ],
+          "commons_file": "Stift Melk Abbey.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Stift_Melk_Abbey.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Wachau vineyards",
+            "Krems Old Town",
+            "Danube River cruise"
+          ]
+        },
+        {
+          "name": "Wachau Valley",
+          "wiki_title": "Wachau",
+          "lat": 48.37,
+          "lng": 15.416,
+          "order_index": 1,
+          "seo_phrase": "Wachau Valley",
+          "seo_keywords": [
+            "Wachau Valley",
+            "Melk (Wachau Valley)",
+            "Austria"
+          ],
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Stift Göttweig",
+          "wiki_title": "Göttweig Abbey",
+          "lat": 48.364,
+          "lng": 15.451,
+          "order_index": 2,
+          "seo_phrase": "Stift Göttweig",
+          "seo_keywords": [
+            "Stift Göttweig",
+            "Melk (Wachau Valley)",
+            "Austria"
+          ],
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Aggstein Castle",
+          "wiki_title": "Aggstein Castle",
+          "lat": 48.312,
+          "lng": 15.421,
+          "order_index": 3,
+          "seo_phrase": "Aggstein Castle",
+          "seo_keywords": [
+            "Aggstein Castle",
+            "Melk (Wachau Valley)",
+            "Austria"
+          ],
+          "seo_priority": 77,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Dürnstein Abbey",
+          "wiki_title": "Dürnstein Abbey",
+          "lat": 48.396,
+          "lng": 15.52,
+          "order_index": 4,
+          "seo_phrase": "Dürnstein Abbey",
+          "seo_keywords": [
+            "Dürnstein Abbey",
+            "Melk (Wachau Valley)",
+            "Austria"
+          ],
+          "seo_priority": 76,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Krems Old Town",
+          "wiki_title": "Krems an der Donau",
+          "lat": 48.409,
+          "lng": 15.614,
+          "order_index": 5,
+          "seo_phrase": "Krems Old Town",
+          "seo_keywords": [
+            "Krems Old Town",
+            "Melk (Wachau Valley)",
+            "Austria"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Spitz an der Donau",
+          "wiki_title": "Spitz, Austria",
+          "lat": 48.417,
+          "lng": 15.367,
+          "order_index": 6,
+          "seo_phrase": "Spitz an der Donau",
+          "seo_keywords": [
+            "Spitz an der Donau",
+            "Melk (Wachau Valley)",
+            "Austria"
+          ],
+          "seo_priority": 74,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Schallaburg Castle",
+          "wiki_title": "Schallaburg",
+          "lat": 48.183,
+          "lng": 15.456,
+          "order_index": 7,
+          "seo_phrase": "Schallaburg Castle",
+          "seo_keywords": [
+            "Schallaburg Castle",
+            "Melk (Wachau Valley)",
+            "Austria"
+          ],
+          "seo_priority": 73,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Danube River Wachau",
+          "wiki_title": "Danube",
+          "lat": 48.227,
+          "lng": 15.331,
+          "order_index": 8,
+          "seo_phrase": "Danube River Wachau",
+          "seo_keywords": [
+            "Danube River Wachau",
+            "Melk (Wachau Valley)",
+            "Austria"
+          ],
+          "seo_priority": 72,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Maria Taferl Basilica",
+          "wiki_title": "Maria Taferl Basilica",
+          "lat": 48.15,
+          "lng": 15.153,
+          "order_index": 9,
+          "seo_phrase": "Maria Taferl Basilica",
+          "seo_keywords": [
+            "Maria Taferl Basilica",
+            "Melk (Wachau Valley)",
+            "Austria"
+          ],
+          "seo_priority": 71,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Zell am See",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "wiki_title": "Zell am See",
+      "seo": {
+        "title": "Top 10 Things to Do in Zell am See, Austria",
+        "description": "Discover 10 must-see landmarks in Zell am See, Austria. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Zell am See? Explore the best places to visit in Zell am See, Austria.",
+        "keywords": [
+          "things to do in Zell am See",
+          "Zell am See Austria travel guide",
+          "best places to visit in Zell am See",
+          "Zell am See landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Zell am See Lake Promenade",
+          "wiki_title": "Zell am See",
+          "lat": 47.3257,
+          "lng": 12.7981,
+          "order_index": 0,
+          "description": "Alpine lake town in Salzburg region.",
+          "seo_phrase": "Zell am See Travel Guide",
+          "seo_keywords": [
+            "Zell am See",
+            "Lake Zell",
+            "Alps Austria"
+          ],
+          "commons_file": "Zell am See lake.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Zell_am_See_lake.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kaprun Glacier",
+            "Kitzsteinhorn",
+            "Saalbach-Hinterglemm"
+          ]
+        },
+        {
+          "name": "Kaprun Glacier",
+          "wiki_title": "Kitzsteinhorn",
+          "lat": 47.191,
+          "lng": 12.685,
+          "order_index": 1,
+          "seo_phrase": "Kaprun Glacier",
+          "seo_keywords": [
+            "Kaprun Glacier",
+            "Zell am See",
+            "Austria"
+          ],
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Schmittenhöhe",
+          "wiki_title": "Schmittenhöhe",
+          "lat": 47.325,
+          "lng": 12.731,
+          "order_index": 2,
+          "seo_phrase": "Schmittenhöhe",
+          "seo_keywords": [
+            "Schmittenhöhe",
+            "Zell am See",
+            "Austria"
+          ],
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Lake Zell",
+          "wiki_title": "Zeller See (Salzburg)",
+          "lat": 47.325,
+          "lng": 12.798,
+          "order_index": 3,
+          "seo_phrase": "Lake Zell",
+          "seo_keywords": [
+            "Lake Zell",
+            "Zell am See",
+            "Austria"
+          ],
+          "seo_priority": 77,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Krimml Waterfalls",
+          "wiki_title": "Krimml Waterfalls",
+          "lat": 47.2,
+          "lng": 12.172,
+          "order_index": 4,
+          "seo_phrase": "Krimml Waterfalls",
+          "seo_keywords": [
+            "Krimml Waterfalls",
+            "Zell am See",
+            "Austria"
+          ],
+          "seo_priority": 76,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Saalbach-Hinterglemm",
+          "wiki_title": "Saalbach-Hinterglemm",
+          "lat": 47.391,
+          "lng": 12.636,
+          "order_index": 5,
+          "seo_phrase": "Saalbach-Hinterglemm",
+          "seo_keywords": [
+            "Saalbach-Hinterglemm",
+            "Zell am See",
+            "Austria"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Pinzgauer Lokalbahn",
+          "wiki_title": "Pinzgauer Lokalbahn",
+          "lat": 47.325,
+          "lng": 12.798,
+          "order_index": 6,
+          "seo_phrase": "Pinzgauer Lokalbahn",
+          "seo_keywords": [
+            "Pinzgauer Lokalbahn",
+            "Zell am See",
+            "Austria"
+          ],
+          "seo_priority": 74,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "St Hippolyte Church Zell",
+          "wiki_title": "St Hippolyte's Church, Zell am See",
+          "lat": 47.325,
+          "lng": 12.798,
+          "order_index": 7,
+          "seo_phrase": "St Hippolyte Church Zell",
+          "seo_keywords": [
+            "St Hippolyte Church Zell",
+            "Zell am See",
+            "Austria"
+          ],
+          "seo_priority": 73,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Areitbahn Cable Car",
+          "wiki_title": "Schmittenhöhe cable car",
+          "lat": 47.325,
+          "lng": 12.731,
+          "order_index": 8,
+          "seo_phrase": "Areitbahn Cable Car",
+          "seo_keywords": [
+            "Areitbahn Cable Car",
+            "Zell am See",
+            "Austria"
+          ],
+          "seo_priority": 72,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Thumersbach",
+          "wiki_title": "Thumersbach",
+          "lat": 47.335,
+          "lng": 12.805,
+          "order_index": 9,
+          "seo_phrase": "Thumersbach",
+          "seo_keywords": [
+            "Thumersbach",
+            "Zell am See",
+            "Austria"
+          ],
+          "seo_priority": 71,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "Austria Alps & Alpine Road Trip",
+    "subtitle": "10-day scenic drive through Austria's mountains, lakes, and alpine passes",
+    "wiki_title": "Austria",
+    "totalDays": 10,
+    "seo": {
+      "title": "10-Day Austria Road Trip — Alps, Lakes & Scenic Drives",
+      "description": "Plan a 10-day Austria road trip: Grossglockner, alpine lakes, national parks, and hidden mountain routes.",
+      "intro": "Explore Austria beyond the cities — high alpine roads, glacier valleys, and lake districts by car.",
+      "keywords": [
+        "Austria road trip",
+        "Austrian Alps drive",
+        "Grossglockner",
+        "Austria by car"
+      ]
+    },
+    "places": [
+      {
+        "name": "Grossglockner High Alpine Road",
+        "wiki_title": "Grossglockner High Alpine Road",
+        "region": "Carinthia",
+        "lat": 47.0742,
+        "lng": 12.8393,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem"
+        ],
+        "description": "Scenic alpine mountain pass road.",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Grossglockner_Hochalpenstrasse.jpg",
+        "commons_file": "Grossglockner Hochalpenstrasse.jpg",
+        "seo_phrase": "Grossglockner Alpine Road Drive",
+        "seo_keywords": [
+          "Grossglockner road",
+          "Alpine drive Austria",
+          "Hohe Tauern"
+        ],
+        "seo_priority": 99,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4
+      },
+      {
+        "name": "Hohe Tauern National Park",
+        "wiki_title": "Hohe Tauern National Park",
+        "region": "Salzburg",
+        "lat": 47.083,
+        "lng": 12.833,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem"
+        ],
+        "seo_phrase": "Hohe Tauern National Park",
+        "seo_keywords": [
+          "Hohe Tauern National Park",
+          "Austria",
+          "road trip"
+        ],
+        "seo_priority": 89,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4
+      },
+      {
+        "name": "Semmering Railway",
+        "wiki_title": "Semmering railway",
+        "region": "Styria",
+        "lat": 47.643,
+        "lng": 15.828,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem"
+        ],
+        "seo_phrase": "Semmering Railway",
+        "seo_keywords": [
+          "Semmering Railway",
+          "Austria",
+          "road trip"
+        ],
+        "seo_priority": 88,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4
+      },
+      {
+        "name": "Achensee",
+        "wiki_title": "Achensee",
+        "region": "Tyrol",
+        "lat": 47.44,
+        "lng": 11.72,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem"
+        ],
+        "seo_phrase": "Achensee",
+        "seo_keywords": [
+          "Achensee",
+          "Austria",
+          "road trip"
+        ],
+        "seo_priority": 87,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4
+      },
+      {
+        "name": "Dachstein",
+        "wiki_title": "Dachstein (mountain)",
+        "region": "Upper Austria",
+        "lat": 47.475,
+        "lng": 13.605,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem"
+        ],
+        "seo_phrase": "Dachstein",
+        "seo_keywords": [
+          "Dachstein",
+          "Austria",
+          "road trip"
+        ],
+        "seo_priority": 86,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4
+      },
+      {
+        "name": "Wachau Valley",
+        "wiki_title": "Wachau",
+        "region": "Lower Austria",
+        "lat": 48.37,
+        "lng": 15.416,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem"
+        ],
+        "seo_phrase": "Wachau Valley",
+        "seo_keywords": [
+          "Wachau Valley",
+          "Austria",
+          "road trip"
+        ],
+        "seo_priority": 85,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4
+      },
+      {
+        "name": "National Park Neusiedler See",
+        "wiki_title": "Neusiedler See-Seewinkel National Park",
+        "region": "Burgenland",
+        "lat": 47.833,
+        "lng": 16.833,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem"
+        ],
+        "seo_phrase": "National Park Neusiedler See",
+        "seo_keywords": [
+          "National Park Neusiedler See",
+          "Austria",
+          "road trip"
+        ],
+        "seo_priority": 84,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4
+      },
+      {
+        "name": "Krimml Waterfalls",
+        "wiki_title": "Krimml Waterfalls",
+        "region": "Salzburg",
+        "lat": 47.2,
+        "lng": 12.172,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem"
+        ],
+        "seo_phrase": "Krimml Waterfalls",
+        "seo_keywords": [
+          "Krimml Waterfalls",
+          "Austria",
+          "road trip"
+        ],
+        "seo_priority": 83,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4
+      },
+      {
+        "name": "Eisriesenwelt",
+        "wiki_title": "Eisriesenwelt",
+        "region": "Salzburg",
+        "lat": 47.502,
+        "lng": 13.189,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem"
+        ],
+        "seo_phrase": "Eisriesenwelt",
+        "seo_keywords": [
+          "Eisriesenwelt",
+          "Austria",
+          "road trip"
+        ],
+        "seo_priority": 82,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4
+      },
+      {
+        "name": "Salzkammergut",
+        "wiki_title": "Salzkammergut",
+        "region": "Upper Austria",
+        "lat": 47.75,
+        "lng": 13.5,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem"
+        ],
+        "seo_phrase": "Salzkammergut",
+        "seo_keywords": [
+          "Salzkammergut",
+          "Austria",
+          "road trip"
+        ],
+        "seo_priority": 81,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4
+      }
+    ]
+  }
+}

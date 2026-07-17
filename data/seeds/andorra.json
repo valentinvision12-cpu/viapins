@@ -1,0 +1,3620 @@
+{
+  "version": 2,
+  "country": "Andorra",
+  "published": true,
+  "cities": [
+    {
+      "city": "Andorra la Vella",
+      "tags": [
+        "capital",
+        "culture",
+        "shopping",
+        "history"
+      ],
+      "wiki_title": "Andorra la Vella",
+      "seo": {
+        "title": "Top 10 Places to Visit in Andorra la Vella",
+        "description": "Explore the vibrant capital city of Andorra, featuring medieval churches, scenic parks, and historic parliamentary buildings.",
+        "intro": "Andorra la Vella is the highest capital city in Europe, blending historic Romanesque architecture with lively modern shopping streets.",
+        "keywords": [
+          "Andorra la Vella",
+          "Andorra capital",
+          "Pyrenees travel",
+          "Casa de la Vall"
+        ]
+      },
+      "places": [
+        {
+          "name": "Casa de la Vall",
+          "wiki_title": "Casa de la Vall",
+          "lat": 42.5063,
+          "lng": 1.5211,
+          "order_index": 0,
+          "description": "A historical house and former headquarters of the General Council of Andorra.",
+          "seo_phrase": "Casa de la Vall — historic parliament building",
+          "seo_keywords": [
+            "Casa de la Vall",
+            "Andorra parliament",
+            "historic sites Andorra"
+          ],
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church of Sant Esteve",
+            "Plaça del Poble",
+            "Comú d'Andorra la Vella"
+          ]
+        },
+        {
+          "name": "Church of Santa Coloma d'Andorra",
+          "wiki_title": "Church of Santa Coloma d'Andorra",
+          "lat": 42.4944,
+          "lng": 1.4975,
+          "order_index": 1,
+          "description": "An ancient church known for its unique pre-Romanesque architecture and circular bell tower.",
+          "seo_phrase": "Church of Santa Coloma — medieval architecture",
+          "seo_keywords": [
+            "Santa Coloma d'Andorra",
+            "circular bell tower",
+            "oldest church Andorra"
+          ],
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Pont de la Margineda",
+            "Sant Vicenç d'Enclar",
+            "Estadi Comunal"
+          ]
+        },
+        {
+          "name": "La Noblesse du Temps",
+          "wiki_title": "La Noblesse du Temps",
+          "lat": 42.5082,
+          "lng": 1.5303,
+          "order_index": 2,
+          "description": "A fascinating bronze sculpture by Salvador Dalí, located in a prominent city square.",
+          "seo_phrase": "La Noblesse du Temps — Salvador Dali sculpture",
+          "seo_keywords": [
+            "Noblesse du Temps",
+            "Dali sculpture Andorra",
+            "surrealist art"
+          ],
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "navigational"
+          ],
+          "type": "monument",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Parc Central",
+            "Pont de Paris",
+            "Avinguda Meritxell"
+          ]
+        },
+        {
+          "name": "Church of Sant Esteve",
+          "wiki_title": "Església de Sant Esteve",
+          "lat": 42.5073,
+          "lng": 1.5216,
+          "order_index": 3,
+          "description": "A prominent parish church located in the historic center of Andorra la Vella.",
+          "seo_phrase": "Church of Sant Esteve in Andorra la Vella",
+          "seo_keywords": [
+            "Sant Esteve Andorra",
+            "Romanesque church",
+            "Andorra la Vella sights"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Casa de la Vall",
+            "Parc Central",
+            "Plaça del Poble"
+          ]
+        },
+        {
+          "name": "Pont de la Margineda",
+          "wiki_title": "Pont de la Margineda",
+          "lat": 42.4841,
+          "lng": 1.4922,
+          "order_index": 4,
+          "description": "The largest medieval bridge in Andorra, spanning the Valira River.",
+          "seo_phrase": "Pont de la Margineda — historic stone bridge",
+          "seo_keywords": [
+            "Pont de la Margineda",
+            "medieval bridge Andorra",
+            "Valira river"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "bridge",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Church of Santa Coloma",
+            "Sant Vicenç d'Enclar",
+            "Santa Coloma village"
+          ]
+        },
+        {
+          "name": "Central Park of Andorra la Vella",
+          "wiki_title": "Parc Central, Andorra la Vella",
+          "lat": 42.5075,
+          "lng": 1.5269,
+          "order_index": 5,
+          "description": "A lush urban park providing a relaxing green space in the heart of the capital.",
+          "seo_phrase": "Central Park — urban oasis in Andorra la Vella",
+          "seo_keywords": [
+            "Parc Central Andorra",
+            "green space",
+            "relaxing parks"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "local",
+            "travel_planning"
+          ],
+          "type": "park",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "La Noblesse du Temps",
+            "Church of Sant Esteve",
+            "Avinguda Meritxell"
+          ]
+        },
+        {
+          "name": "Church of Sant Vicenç d'Enclar",
+          "wiki_title": "Església de Sant Vicenç d'Enclar",
+          "lat": 42.4958,
+          "lng": 1.4947,
+          "order_index": 6,
+          "description": "A fortified medieval church offering panoramic views of the valley.",
+          "seo_phrase": "Sant Vicenç d'Enclar — fortified medieval church",
+          "seo_keywords": [
+            "Sant Vicenç d'Enclar",
+            "fortified church",
+            "Andorra viewpoints"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "archaeological_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Church of Santa Coloma",
+            "Santa Coloma village",
+            "Pont de la Margineda"
+          ]
+        },
+        {
+          "name": "Estadi Nacional",
+          "wiki_title": "Estadi Nacional",
+          "lat": 42.5046,
+          "lng": 1.5144,
+          "order_index": 7,
+          "description": "The national stadium of Andorra, a central hub for football and rugby.",
+          "seo_phrase": "Estadi Nacional — national sports stadium",
+          "seo_keywords": [
+            "Estadi Nacional Andorra",
+            "sports in Andorra",
+            "rugby Andorra"
+          ],
+          "seo_priority": 60,
+          "search_intent": [
+            "informational",
+            "local"
+          ],
+          "type": "monument",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Parc Central",
+            "Poliesportiu d'Andorra",
+            "Estadi Comunal d'Andorra la Vella"
+          ]
+        },
+        {
+          "name": "Estadi Comunal d'Andorra la Vella",
+          "wiki_title": "Estadi Comunal d'Andorra la Vella",
+          "lat": 42.5049,
+          "lng": 1.5143,
+          "order_index": 8,
+          "description": "A picturesque stadium surrounded by mountains, hosting national football matches.",
+          "seo_phrase": "Estadi Comunal — scenic sports venue",
+          "seo_keywords": [
+            "Estadi Comunal",
+            "Andorra stadium",
+            "football Andorra"
+          ],
+          "seo_priority": 55,
+          "search_intent": [
+            "informational",
+            "local"
+          ],
+          "type": "monument",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Estadi Nacional",
+            "Santa Coloma village",
+            "River Valira"
+          ]
+        },
+        {
+          "name": "Church of Sant Andreu d'Andorra la Vella",
+          "wiki_title": "Església de Sant Andreu d'Andorra la Vella",
+          "lat": 42.5085,
+          "lng": 1.523,
+          "order_index": 9,
+          "description": "A small, historic Romanesque church retaining its original architectural charm.",
+          "seo_phrase": "Sant Andreu d'Andorra la Vella — historic chapel",
+          "seo_keywords": [
+            "Sant Andreu Andorra",
+            "Romanesque chapel",
+            "medieval architecture"
+          ],
+          "seo_priority": 50,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Casa de la Vall",
+            "Church of Sant Esteve",
+            "Andorra la Vella old town"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Escaldes-Engordany",
+      "tags": [
+        "spa",
+        "wellness",
+        "nature",
+        "art"
+      ],
+      "wiki_title": "Escaldes-Engordany",
+      "seo": {
+        "title": "Best Attractions in Escaldes-Engordany",
+        "description": "Discover thermal spas, beautiful valleys, and stunning Romanesque art in Escaldes-Engordany.",
+        "intro": "Famed for its hot springs and the magnificent Madriu-Perafita-Claror Valley, Escaldes-Engordany is a haven for wellness and nature lovers.",
+        "keywords": [
+          "Escaldes-Engordany",
+          "Caldea",
+          "thermal spa Andorra",
+          "Madriu Valley"
+        ]
+      },
+      "places": [
+        {
+          "name": "Centre Termolúdic Caldea",
+          "wiki_title": "Caldea",
+          "lat": 42.5116,
+          "lng": 1.5372,
+          "order_index": 0,
+          "description": "The largest thermal spa complex in southern Europe, known for its futuristic glass tower.",
+          "seo_phrase": "Caldea — largest thermal spa in southern Europe",
+          "seo_keywords": [
+            "Caldea spa",
+            "Andorra hot springs",
+            "thermal waters"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "commercial",
+            "travel_planning",
+            "navigational"
+          ],
+          "type": "monument",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 4,
+          "nearby_places": [
+            "Parc de la Mola",
+            "Pont dels Escalls",
+            "Avinguda Carlemany"
+          ]
+        },
+        {
+          "name": "Madriu-Perafita-Claror Valley",
+          "wiki_title": "Madriu-Perafita-Claror Valley",
+          "lat": 42.4764,
+          "lng": 1.6025,
+          "order_index": 1,
+          "description": "A UNESCO World Heritage site featuring breathtaking glacial landscapes and traditional mountain pastures.",
+          "seo_phrase": "Madriu-Perafita-Claror Valley — UNESCO World Heritage site",
+          "seo_keywords": [
+            "Madriu valley",
+            "UNESCO Andorra",
+            "glacial landscape",
+            "hiking Pyrenees"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "national_park",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 8,
+          "nearby_places": [
+            "Lake Engolasters",
+            "Sant Miquel d'Engolasters",
+            "Ramió"
+          ]
+        },
+        {
+          "name": "Museu Carmen Thyssen Andorra",
+          "wiki_title": "Museu Carmen Thyssen Andorra",
+          "lat": 42.5101,
+          "lng": 1.5358,
+          "order_index": 2,
+          "description": "A premier art museum hosting temporary exhibitions from the renowned Carmen Thyssen-Bornemisza collection.",
+          "seo_phrase": "Museu Carmen Thyssen — fine art gallery",
+          "seo_keywords": [
+            "Carmen Thyssen Andorra",
+            "art museum",
+            "fine arts"
+          ],
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Caldea",
+            "Church of Sant Pere Màrtir",
+            "Avinguda Carlemany"
+          ]
+        },
+        {
+          "name": "Lake Engolasters",
+          "wiki_title": "Lake Engolasters",
+          "lat": 42.52,
+          "lng": 1.5666,
+          "order_index": 3,
+          "description": "A picturesque alpine lake offering easy walking trails and beautiful pine forest views.",
+          "seo_phrase": "Lake Engolasters — scenic alpine lake",
+          "seo_keywords": [
+            "Lake Engolasters",
+            "Andorra lakes",
+            "family hiking Andorra"
+          ],
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "lake",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Sant Miquel d'Engolasters",
+            "Madriu-Perafita-Claror Valley",
+            "Encamp"
+          ]
+        },
+        {
+          "name": "Church of Sant Miquel d'Engolasters",
+          "wiki_title": "Església de Sant Miquel d'Engolasters",
+          "lat": 42.5103,
+          "lng": 1.5586,
+          "order_index": 4,
+          "description": "A beautiful Romanesque church famous for its asymmetrical bell tower and stunning frescoes.",
+          "seo_phrase": "Sant Miquel d'Engolasters — Romanesque gem",
+          "seo_keywords": [
+            "Sant Miquel d'Engolasters",
+            "Romanesque frescoes",
+            "Andorran churches"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Lake Engolasters",
+            "Madriu-Perafita-Claror Valley",
+            "Escaldes village"
+          ]
+        },
+        {
+          "name": "Church of Sant Pere Màrtir",
+          "wiki_title": "Església de Sant Pere Màrtir",
+          "lat": 42.5093,
+          "lng": 1.5398,
+          "order_index": 5,
+          "description": "A neo-Romanesque church dedicated to the patron saint of the parish.",
+          "seo_phrase": "Sant Pere Màrtir — prominent parish church",
+          "seo_keywords": [
+            "Sant Pere Màrtir",
+            "Escaldes church",
+            "neo-Romanesque Andorra"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Museu Carmen Thyssen Andorra",
+            "Caldea",
+            "Pont d'Engordany"
+          ]
+        },
+        {
+          "name": "Pont d'Engordany",
+          "wiki_title": "Pont d'Engordany",
+          "lat": 42.5098,
+          "lng": 1.5385,
+          "order_index": 6,
+          "description": "A charming old stone bridge connecting the historic parts of Escaldes and Engordany.",
+          "seo_phrase": "Pont d'Engordany — historic stone bridge",
+          "seo_keywords": [
+            "Pont d'Engordany",
+            "historic bridge",
+            "Valira d'Orient"
+          ],
+          "seo_priority": 65,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "bridge",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Church of Sant Pere Màrtir",
+            "Engordany village",
+            "Valira d'Orient river"
+          ]
+        },
+        {
+          "name": "Pont dels Escalls",
+          "wiki_title": "Pont dels Escalls",
+          "lat": 42.5126,
+          "lng": 1.5348,
+          "order_index": 7,
+          "description": "A historic medieval bridge spanning the Valira del Nord river.",
+          "seo_phrase": "Pont dels Escalls — medieval river crossing",
+          "seo_keywords": [
+            "Pont dels Escalls",
+            "medieval architecture",
+            "Escaldes bridges"
+          ],
+          "seo_priority": 65,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "bridge",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Caldea",
+            "Valira del Nord river",
+            "Escaldes village"
+          ]
+        },
+        {
+          "name": "Valira d'Orient",
+          "wiki_title": "Valira d'Orient",
+          "lat": 42.513,
+          "lng": 1.54,
+          "order_index": 8,
+          "description": "One of the primary rivers in Andorra, offering scenic walking paths along its banks.",
+          "seo_phrase": "Valira d'Orient — scenic river paths",
+          "seo_keywords": [
+            "Valira d'Orient",
+            "Andorra rivers",
+            "river walks"
+          ],
+          "seo_priority": 60,
+          "search_intent": [
+            "informational",
+            "local"
+          ],
+          "type": "park",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Pont d'Engordany",
+            "Caldea",
+            "Madriu Valley access"
+          ]
+        },
+        {
+          "name": "Church of Sant Romà dels Vilars",
+          "wiki_title": "Església de Sant Romà dels Vilars",
+          "lat": 42.5147,
+          "lng": 1.5369,
+          "order_index": 9,
+          "description": "A small pre-Romanesque chapel located in the high part of Escaldes.",
+          "seo_phrase": "Sant Romà dels Vilars — pre-Romanesque chapel",
+          "seo_keywords": [
+            "Sant Romà dels Vilars",
+            "pre-Romanesque",
+            "old chapels"
+          ],
+          "seo_priority": 50,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Escaldes village",
+            "Engordany",
+            "Caldea"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Ordino",
+      "tags": [
+        "culture",
+        "nature",
+        "history",
+        "hiking"
+      ],
+      "wiki_title": "Ordino",
+      "seo": {
+        "title": "Ordino Travel Guide",
+        "description": "Experience the cultural heart of Andorra in Ordino, featuring noble houses, iron mines, and stunning national parks.",
+        "intro": "Ordino is revered for its pristine natural reserves, such as the Sorteny Valley, and its rich historical museums.",
+        "keywords": [
+          "Ordino",
+          "Sorteny National Park",
+          "Casa d'Areny-Plandolit",
+          "Andorra culture"
+        ]
+      },
+      "places": [
+        {
+          "name": "Tristaina Lakes",
+          "wiki_title": "Estanys de Tristaina",
+          "lat": 42.6366,
+          "lng": 1.4883,
+          "order_index": 0,
+          "description": "A group of three stunning high-mountain lakes, accessible via a popular hiking trail.",
+          "seo_phrase": "Tristaina Lakes — high-mountain lakes hike",
+          "seo_keywords": [
+            "Tristaina Lakes",
+            "alpine lakes",
+            "best hikes Andorra"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "lake",
+          "best_season": [
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 4,
+          "nearby_places": [
+            "Ordino Arcalís",
+            "Pic de Font Blanca",
+            "Sorteny National Park"
+          ]
+        },
+        {
+          "name": "Sorteny National Park",
+          "wiki_title": "Parc Natural de la Vall de Sorteny",
+          "lat": 42.6236,
+          "lng": 1.5544,
+          "order_index": 1,
+          "description": "A protected nature reserve boasting extreme biodiversity and hundreds of plant species.",
+          "seo_phrase": "Sorteny National Park — biodiversity reserve",
+          "seo_keywords": [
+            "Sorteny National Park",
+            "nature reserve",
+            "botanical garden"
+          ],
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "national_park",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 4,
+          "nearby_places": [
+            "El Serrat",
+            "Llorts Iron Mine",
+            "Tristaina Lakes"
+          ]
+        },
+        {
+          "name": "Casa d'Areny-Plandolit",
+          "wiki_title": "Casa d'Areny-Plandolit",
+          "lat": 42.5566,
+          "lng": 1.533,
+          "order_index": 2,
+          "description": "An aristocratic manor house museum offering a glimpse into the life of a wealthy 19th-century Andorran family.",
+          "seo_phrase": "Casa d'Areny-Plandolit — aristocratic manor museum",
+          "seo_keywords": [
+            "Casa d'Areny-Plandolit",
+            "manor house",
+            "Andorran nobility"
+          ],
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church of Sant Corneli",
+            "Postal Museum of Andorra",
+            "Ordino village square"
+          ]
+        },
+        {
+          "name": "Church of Sant Martí de la Cortinada",
+          "wiki_title": "Església de Sant Martí de la Cortinada",
+          "lat": 42.5763,
+          "lng": 1.518,
+          "order_index": 3,
+          "description": "A beautifully decorated Romanesque church famous for its preserved wall paintings.",
+          "seo_phrase": "Sant Martí de la Cortinada — Romanesque wall paintings",
+          "seo_keywords": [
+            "Sant Martí de la Cortinada",
+            "Romanesque frescoes",
+            "historic church"
+          ],
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "La Cortinada Nature Centre",
+            "Cal Pal Mill",
+            "Ordino village"
+          ]
+        },
+        {
+          "name": "Pic de Font Blanca",
+          "wiki_title": "Pic de Font Blanca",
+          "lat": 42.6494,
+          "lng": 1.5333,
+          "order_index": 4,
+          "description": "A majestic mountain offering challenging ascents and border views with France.",
+          "seo_phrase": "Pic de Font Blanca — majestic mountain ascent",
+          "seo_keywords": [
+            "Pic de Font Blanca",
+            "mountain climbing",
+            "border peaks"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "mountain",
+          "best_season": [
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 8,
+          "nearby_places": [
+            "Tristaina Lakes",
+            "Sorteny National Park",
+            "El Serrat"
+          ]
+        },
+        {
+          "name": "Church of Sant Corneli i Sant Cebrià d'Ordino",
+          "wiki_title": "Església de Sant Corneli i Sant Cebrià d'Ordino",
+          "lat": 42.5566,
+          "lng": 1.533,
+          "order_index": 5,
+          "description": "The main parish church of Ordino, housing important wooden carvings.",
+          "seo_phrase": "Sant Corneli i Sant Cebrià — main parish church of Ordino",
+          "seo_keywords": [
+            "Sant Corneli",
+            "Sant Cebrià",
+            "Ordino church"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Casa d'Areny-Plandolit",
+            "Postal Museum of Andorra",
+            "Ordino village"
+          ]
+        },
+        {
+          "name": "Llorts Iron Mine",
+          "wiki_title": "Mina de Llorts",
+          "lat": 42.5983,
+          "lng": 1.5316,
+          "order_index": 6,
+          "description": "A historical mine where visitors can explore a 30-meter gallery dug in the 19th century.",
+          "seo_phrase": "Llorts Iron Mine — 19th-century mine gallery",
+          "seo_keywords": [
+            "Llorts Iron Mine",
+            "historic mines",
+            "Iron Route Andorra"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Iron Route",
+            "Sorteny National Park",
+            "El Serrat"
+          ]
+        },
+        {
+          "name": "Postal Museum of Andorra",
+          "wiki_title": "Museu Postal d'Andorra",
+          "lat": 42.5563,
+          "lng": 1.5333,
+          "order_index": 7,
+          "description": "A fascinating museum detailing the history of the postal service and stamp collection in Andorra.",
+          "seo_phrase": "Postal Museum of Andorra — stamp and postal history",
+          "seo_keywords": [
+            "Postal Museum Andorra",
+            "stamp collection",
+            "history museum"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Casa d'Areny-Plandolit",
+            "Church of Sant Corneli",
+            "Ordino square"
+          ]
+        },
+        {
+          "name": "Church of Sant Pere del Serrat",
+          "wiki_title": "Església de Sant Pere del Serrat",
+          "lat": 42.6158,
+          "lng": 1.5383,
+          "order_index": 8,
+          "description": "A classic alpine church situated in the high-altitude village of El Serrat.",
+          "seo_phrase": "Sant Pere del Serrat — alpine village church",
+          "seo_keywords": [
+            "Sant Pere del Serrat",
+            "El Serrat",
+            "alpine church"
+          ],
+          "seo_priority": 60,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "El Serrat village",
+            "Sorteny National Park",
+            "Llorts Iron Mine"
+          ]
+        },
+        {
+          "name": "Church of Sant Miquel d'Ansalonga",
+          "wiki_title": "Església de Sant Miquel d'Ansalonga",
+          "lat": 42.5663,
+          "lng": 1.523,
+          "order_index": 9,
+          "description": "A small 17th-century chapel featuring a modest but beautiful wooden altarpiece.",
+          "seo_phrase": "Sant Miquel d'Ansalonga — 17th-century chapel",
+          "seo_keywords": [
+            "Sant Miquel d'Ansalonga",
+            "wooden altarpiece",
+            "rural chapel"
+          ],
+          "seo_priority": 50,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "La Cortinada",
+            "Ordino village",
+            "Llorts"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "La Massana",
+      "tags": [
+        "mountains",
+        "biking",
+        "history",
+        "nature"
+      ],
+      "wiki_title": "La Massana",
+      "seo": {
+        "title": "La Massana: Mountains and Museums",
+        "description": "Discover La Massana, home to the highest peak in Andorra, world-class mountain biking, and fascinating museums.",
+        "intro": "La Massana is an adventure hub known for the Vallnord bike park and the towering Coma Pedrosa peak.",
+        "keywords": [
+          "La Massana",
+          "Coma Pedrosa",
+          "Vallnord",
+          "mountain biking"
+        ]
+      },
+      "places": [
+        {
+          "name": "Vallnord",
+          "wiki_title": "Vallnord",
+          "lat": 42.5422,
+          "lng": 1.5147,
+          "order_index": 0,
+          "description": "A premier mountain resort, legendary for its summer bike park and winter ski slopes.",
+          "seo_phrase": "Vallnord — premier mountain resort",
+          "seo_keywords": [
+            "Vallnord",
+            "mountain biking",
+            "ski resort Andorra"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "commercial",
+            "travel_planning",
+            "navigational"
+          ],
+          "type": "mountain",
+          "best_season": [
+            "summer",
+            "winter"
+          ],
+          "visit_duration_hours": 8,
+          "nearby_places": [
+            "Pal village",
+            "Arinsal village",
+            "Coma Pedrosa"
+          ]
+        },
+        {
+          "name": "Coma Pedrosa",
+          "wiki_title": "Coma Pedrosa",
+          "lat": 42.59,
+          "lng": 1.443,
+          "order_index": 1,
+          "description": "The highest mountain peak in Andorra, offering a rewarding trek for experienced hikers.",
+          "seo_phrase": "Coma Pedrosa — highest peak in Andorra",
+          "seo_keywords": [
+            "Coma Pedrosa",
+            "highest peak Andorra",
+            "trekking Pyrenees"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "mountain",
+          "best_season": [
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 8,
+          "nearby_places": [
+            "Arinsal village",
+            "Vallnord",
+            "Refugi de Coma Pedrosa"
+          ]
+        },
+        {
+          "name": "Church of Sant Climent de Pal",
+          "wiki_title": "Església de Sant Climent de Pal",
+          "lat": 42.535,
+          "lng": 1.4741,
+          "order_index": 2,
+          "description": "One of the most perfectly preserved Romanesque churches in the Pyrenees.",
+          "seo_phrase": "Sant Climent de Pal — perfectly preserved Romanesque church",
+          "seo_keywords": [
+            "Sant Climent de Pal",
+            "Romanesque architecture",
+            "historic Pyrenees"
+          ],
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Pal village",
+            "Vallnord",
+            "Coll de la Botella"
+          ]
+        },
+        {
+          "name": "Farga Rossell",
+          "wiki_title": "Farga Rossell",
+          "lat": 42.5447,
+          "lng": 1.5208,
+          "order_index": 3,
+          "description": "An interpretive center housed in an old iron forge, showcasing Andorra's metallurgical history.",
+          "seo_phrase": "Farga Rossell — historic iron forge",
+          "seo_keywords": [
+            "Farga Rossell",
+            "iron forge",
+            "metallurgy Andorra"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "La Massana center",
+            "Church of Sant Iscle",
+            "Casa Rull"
+          ]
+        },
+        {
+          "name": "Pic de Medacorba",
+          "wiki_title": "Pic de Medacorba",
+          "lat": 42.6052,
+          "lng": 1.4338,
+          "order_index": 4,
+          "description": "A tripoint peak where the borders of Andorra, France, and Spain meet.",
+          "seo_phrase": "Pic de Medacorba — tripoint peak",
+          "seo_keywords": [
+            "Pic de Medacorba",
+            "tripoint border",
+            "Andorra France Spain"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "mountain",
+          "best_season": [
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 8,
+          "nearby_places": [
+            "Coma Pedrosa",
+            "Arinsal village",
+            "Vallferrera"
+          ]
+        },
+        {
+          "name": "Museu Casa Rull",
+          "wiki_title": "Casa Rull",
+          "lat": 42.5322,
+          "lng": 1.5161,
+          "order_index": 5,
+          "description": "A traditional Andorran house museum depicting 19th-century rural life.",
+          "seo_phrase": "Museu Casa Rull — traditional house museum",
+          "seo_keywords": [
+            "Casa Rull",
+            "traditional Andorran life",
+            "rural museum"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Sispony village",
+            "Sant Joan de Sispony",
+            "La Massana center"
+          ]
+        },
+        {
+          "name": "Church of Sant Cristòfol d'Anyós",
+          "wiki_title": "Església de Sant Cristòfol d'Anyós",
+          "lat": 42.5347,
+          "lng": 1.523,
+          "order_index": 6,
+          "description": "A quaint church sitting atop a hill, providing stunning panoramic views of the valley.",
+          "seo_phrase": "Sant Cristòfol d'Anyós — hilltop chapel",
+          "seo_keywords": [
+            "Sant Cristòfol d'Anyós",
+            "hilltop views",
+            "Anyós church"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Anyós village",
+            "La Massana center",
+            "Sispony"
+          ]
+        },
+        {
+          "name": "Church of Sant Iscle i Santa Victòria",
+          "wiki_title": "Església de Sant Iscle i Santa Victòria",
+          "lat": 42.5458,
+          "lng": 1.5152,
+          "order_index": 7,
+          "description": "The main parish church of La Massana, featuring beautiful baroque altarpieces.",
+          "seo_phrase": "Sant Iscle i Santa Victòria — main parish church",
+          "seo_keywords": [
+            "Sant Iscle",
+            "La Massana church",
+            "baroque altarpiece"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "La Massana center",
+            "Farga Rossell",
+            "Anyós"
+          ]
+        },
+        {
+          "name": "Church of Sant Joan de Sispony",
+          "wiki_title": "Església de Sant Joan de Sispony",
+          "lat": 42.5325,
+          "lng": 1.5158,
+          "order_index": 8,
+          "description": "A 17th-century church with unique architectural details in the village of Sispony.",
+          "seo_phrase": "Sant Joan de Sispony — 17th-century church",
+          "seo_keywords": [
+            "Sant Joan de Sispony",
+            "historic church",
+            "Sispony village"
+          ],
+          "seo_priority": 65,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Museu Casa Rull",
+            "Sispony village",
+            "Anyós"
+          ]
+        },
+        {
+          "name": "Church of Sant Romà d'Erts",
+          "wiki_title": "Església de Sant Romà d'Erts",
+          "lat": 42.5613,
+          "lng": 1.4975,
+          "order_index": 9,
+          "description": "A picturesque small church located in the mountain village of Erts.",
+          "seo_phrase": "Sant Romà d'Erts — mountain village church",
+          "seo_keywords": [
+            "Sant Romà d'Erts",
+            "mountain village",
+            "Erts church"
+          ],
+          "seo_priority": 55,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Erts village",
+            "Arinsal village",
+            "Pal village"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Canillo",
+      "tags": [
+        "views",
+        "nature",
+        "churches",
+        "winter_sports"
+      ],
+      "wiki_title": "Canillo",
+      "seo": {
+        "title": "Explore Canillo: Viewpoints and Valleys",
+        "description": "Visit the highest parish in Andorra, home to spectacular viewpoints, glacial valleys, and the Palau de Gel.",
+        "intro": "Canillo offers dramatic alpine scenery and important cultural sites, including the striking Roc del Quer viewpoint.",
+        "keywords": [
+          "Canillo",
+          "Roc del Quer",
+          "Vall d'Incles",
+          "Andorra high altitude"
+        ]
+      },
+      "places": [
+        {
+          "name": "Mirador del Roc del Quer",
+          "wiki_title": "Mirador del Roc del Quer",
+          "lat": 42.5611,
+          "lng": 1.5925,
+          "order_index": 0,
+          "description": "A spectacular suspended observation deck offering dramatic, sweeping views over the valley.",
+          "seo_phrase": "Roc del Quer — suspended observation deck",
+          "seo_keywords": [
+            "Roc del Quer",
+            "Andorra viewpoint",
+            "suspended deck"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "viewpoint",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Montaup Pass",
+            "Canillo village",
+            "Palau de Gel"
+          ]
+        },
+        {
+          "name": "Church of Sant Joan de Caselles",
+          "wiki_title": "Sant Joan de Caselles",
+          "lat": 42.5708,
+          "lng": 1.6075,
+          "order_index": 1,
+          "description": "An exquisite 11th-century Romanesque church, considered one of the finest in Andorra.",
+          "seo_phrase": "Sant Joan de Caselles — 11th-century masterpiece",
+          "seo_keywords": [
+            "Sant Joan de Caselles",
+            "Romanesque masterpiece",
+            "historic church Andorra"
+          ],
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Canillo village",
+            "Cascada de Moles",
+            "Palau de Gel"
+          ]
+        },
+        {
+          "name": "Vall d'Incles",
+          "wiki_title": "Vall d'Incles",
+          "lat": 42.6,
+          "lng": 1.6833,
+          "order_index": 2,
+          "description": "A pristine U-shaped glacial valley known for its wild flora and excellent hiking routes.",
+          "seo_phrase": "Vall d'Incles — pristine glacial valley",
+          "seo_keywords": [
+            "Vall d'Incles",
+            "glacial valley",
+            "Andorra hiking"
+          ],
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "park",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 4,
+          "nearby_places": [
+            "Soldeu",
+            "Estany de Juclà",
+            "Pic de l'Estanyó"
+          ]
+        },
+        {
+          "name": "Palau de Gel",
+          "wiki_title": "Palau de Gel",
+          "lat": 42.566,
+          "lng": 1.5977,
+          "order_index": 3,
+          "description": "An indoor ice rink and sports complex perfect for family entertainment year-round.",
+          "seo_phrase": "Palau de Gel — indoor ice rink",
+          "seo_keywords": [
+            "Palau de Gel",
+            "ice skating Andorra",
+            "indoor sports"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "monument",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Canillo village",
+            "Church of Sant Serni",
+            "Roc del Quer"
+          ]
+        },
+        {
+          "name": "Pic de l'Estanyó",
+          "wiki_title": "Pic de l'Estanyó",
+          "lat": 42.6105,
+          "lng": 1.58,
+          "order_index": 4,
+          "description": "One of the highest peaks in Andorra, challenging hikers with its steep ascent.",
+          "seo_phrase": "Pic de l'Estanyó — towering mountain peak",
+          "seo_keywords": [
+            "Pic de l'Estanyó",
+            "high peaks Andorra",
+            "advanced hiking"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "mountain",
+          "best_season": [
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 8,
+          "nearby_places": [
+            "Vall d'Incles",
+            "Sorteny National Park",
+            "Estanyó lake"
+          ]
+        },
+        {
+          "name": "Church of Sant Serni de Canillo",
+          "wiki_title": "Església de Sant Serni de Canillo",
+          "lat": 42.5666,
+          "lng": 1.5975,
+          "order_index": 5,
+          "description": "A prominent parish church featuring the tallest original Romanesque tower in the region.",
+          "seo_phrase": "Sant Serni de Canillo — prominent parish church",
+          "seo_keywords": [
+            "Sant Serni de Canillo",
+            "Canillo church",
+            "Romanesque tower"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Palau de Gel",
+            "Canillo village center",
+            "Roc del Quer"
+          ]
+        },
+        {
+          "name": "Cascada de Moles",
+          "wiki_title": "Cascada de Moles",
+          "lat": 42.5741,
+          "lng": 1.6166,
+          "order_index": 6,
+          "description": "A beautiful natural waterfall easily accessible from the main road.",
+          "seo_phrase": "Cascada de Moles — accessible natural waterfall",
+          "seo_keywords": [
+            "Cascada de Moles",
+            "waterfall Andorra",
+            "natural sights"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "waterfall",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Sant Joan de Caselles",
+            "Canillo village",
+            "El Tarter"
+          ]
+        },
+        {
+          "name": "Creu dels Set Braços",
+          "wiki_title": "Creu dels Set Braços",
+          "lat": 42.567,
+          "lng": 1.602,
+          "order_index": 7,
+          "description": "A tragic historical stone cross tied to local Andorran folklore.",
+          "seo_phrase": "Creu dels Set Braços — historic stone cross",
+          "seo_keywords": [
+            "Creu dels Set Braços",
+            "Andorran folklore",
+            "stone cross"
+          ],
+          "seo_priority": 65,
+          "search_intent": [
+            "informational",
+            "local"
+          ],
+          "type": "monument",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Prats village",
+            "Sant Miquel de Prats",
+            "Canillo village"
+          ]
+        },
+        {
+          "name": "Church of Sant Miquel de Prats",
+          "wiki_title": "Església de Sant Miquel de Prats",
+          "lat": 42.5599,
+          "lng": 1.5947,
+          "order_index": 8,
+          "description": "A rural Romanesque church known for its simplicity and serene mountain setting.",
+          "seo_phrase": "Sant Miquel de Prats — serene rural church",
+          "seo_keywords": [
+            "Sant Miquel de Prats",
+            "rural church",
+            "mountain chapel"
+          ],
+          "seo_priority": 60,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Creu dels Set Braços",
+            "Canillo village",
+            "Roc del Quer"
+          ]
+        },
+        {
+          "name": "Church of Santa Creu de Canillo",
+          "wiki_title": "Església de Santa Creu de Canillo",
+          "lat": 42.5658,
+          "lng": 1.5991,
+          "order_index": 9,
+          "description": "A picturesque riverside chapel situated in the heart of Canillo.",
+          "seo_phrase": "Santa Creu de Canillo — riverside chapel",
+          "seo_keywords": [
+            "Santa Creu de Canillo",
+            "riverside chapel",
+            "historic Canillo"
+          ],
+          "seo_priority": 50,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Valira d'Orient river",
+            "Palau de Gel",
+            "Sant Serni de Canillo"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Encamp",
+      "tags": [
+        "ski",
+        "mountains",
+        "history",
+        "museums"
+      ],
+      "wiki_title": "Encamp",
+      "seo": {
+        "title": "Top Sights in Encamp",
+        "description": "Explore Encamp's historical monuments, vibrant ski resorts, and fascinating automobile museum.",
+        "intro": "Encamp serves as a major gateway to the Grandvalira ski resort while maintaining a rich historical core.",
+        "keywords": [
+          "Encamp",
+          "Funicamp",
+          "Grandvalira gateway",
+          "Andorra museums"
+        ]
+      },
+      "places": [
+        {
+          "name": "Funicamp",
+          "wiki_title": "Funicamp",
+          "lat": 42.534,
+          "lng": 1.5866,
+          "order_index": 0,
+          "description": "One of the longest gondola lifts in Europe, providing quick access to the ski slopes.",
+          "seo_phrase": "Funicamp — epic gondola ride",
+          "seo_keywords": [
+            "Funicamp",
+            "Grandvalira gondola",
+            "ski lift Andorra"
+          ],
+          "seo_priority": 90,
+          "search_intent": [
+            "commercial",
+            "travel_planning",
+            "navigational"
+          ],
+          "type": "monument",
+          "best_season": [
+            "summer",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Grandvalira",
+            "Encamp center",
+            "National Automobile Museum"
+          ]
+        },
+        {
+          "name": "Church of Sant Romà de les Bons",
+          "wiki_title": "Església de Sant Romà de les Bons",
+          "lat": 42.5386,
+          "lng": 1.5872,
+          "order_index": 1,
+          "description": "An iconic 12th-century Romanesque church set within a historical architectural ensemble.",
+          "seo_phrase": "Sant Romà de les Bons — 12th-century church",
+          "seo_keywords": [
+            "Sant Romà de les Bons",
+            "Les Bons ensemble",
+            "medieval Andorra"
+          ],
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Torre dels Moros",
+            "Encamp center",
+            "Santa Eulàlia d'Encamp"
+          ]
+        },
+        {
+          "name": "Llac de l'Illa",
+          "wiki_title": "Llac de l'Illa",
+          "lat": 42.4975,
+          "lng": 1.6547,
+          "order_index": 2,
+          "description": "The second largest lake in Andorra, surrounded by breathtaking high-altitude landscapes.",
+          "seo_phrase": "Llac de l'Illa — magnificent alpine lake",
+          "seo_keywords": [
+            "Llac de l'Illa",
+            "high-altitude lake",
+            "Pyrenees nature"
+          ],
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "lake",
+          "best_season": [
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 6,
+          "nearby_places": [
+            "Madriu-Perafita-Claror Valley",
+            "Pessons lakes",
+            "Grandvalira"
+          ]
+        },
+        {
+          "name": "National Automobile Museum",
+          "wiki_title": "National Automobile Museum (Andorra)",
+          "lat": 42.5325,
+          "lng": 1.5772,
+          "order_index": 3,
+          "description": "A museum showcasing a vast collection of vintage cars, motorcycles, and bicycles.",
+          "seo_phrase": "National Automobile Museum — vintage car collection",
+          "seo_keywords": [
+            "Automobile Museum Andorra",
+            "vintage cars",
+            "motorcycle collection"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Encamp center",
+            "Funicamp",
+            "Ràdio Andorra"
+          ]
+        },
+        {
+          "name": "Church of Santa Eulàlia d'Encamp",
+          "wiki_title": "Església de Santa Eulàlia d'Encamp",
+          "lat": 42.5344,
+          "lng": 1.5816,
+          "order_index": 4,
+          "description": "A beautiful Romanesque church boasting the tallest bell tower in Andorra.",
+          "seo_phrase": "Santa Eulàlia d'Encamp — tallest bell tower in Andorra",
+          "seo_keywords": [
+            "Santa Eulàlia d'Encamp",
+            "Romanesque bell tower",
+            "historic Encamp"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Encamp center",
+            "Sant Miquel de la Mosquera",
+            "National Automobile Museum"
+          ]
+        },
+        {
+          "name": "Ràdio Andorra",
+          "wiki_title": "Ràdio Andorra",
+          "lat": 42.5225,
+          "lng": 1.5663,
+          "order_index": 5,
+          "description": "The historic broadcasting building that played a significant role in European radio history.",
+          "seo_phrase": "Ràdio Andorra — historic broadcasting station",
+          "seo_keywords": [
+            "Ràdio Andorra",
+            "broadcasting history",
+            "radio museum"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Lake Engolasters access",
+            "Encamp center",
+            "National Automobile Museum"
+          ]
+        },
+        {
+          "name": "Pic de Padern",
+          "wiki_title": "Pic de Padern",
+          "lat": 42.5377,
+          "lng": 1.5502,
+          "order_index": 6,
+          "description": "A prominent mountain peak offering scenic hiking trails above the town.",
+          "seo_phrase": "Pic de Padern — scenic mountain peak",
+          "seo_keywords": [
+            "Pic de Padern",
+            "Andorra hiking",
+            "mountain peaks"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "mountain",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 4,
+          "nearby_places": [
+            "Encamp village",
+            "Anyós",
+            "Escaldes"
+          ]
+        },
+        {
+          "name": "Torre dels Moros",
+          "wiki_title": "Torre dels Moros (Les Bons)",
+          "lat": 42.5388,
+          "lng": 1.5875,
+          "order_index": 7,
+          "description": "A historic defensive tower offering great views over the village of Encamp.",
+          "seo_phrase": "Torre dels Moros — historic defensive tower",
+          "seo_keywords": [
+            "Torre dels Moros",
+            "defensive tower",
+            "Les Bons"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Sant Romà de les Bons",
+            "Encamp center",
+            "Les Bons village"
+          ]
+        },
+        {
+          "name": "Church of Sant Miquel de la Mosquera",
+          "wiki_title": "Església de Sant Miquel de la Mosquera",
+          "lat": 42.5355,
+          "lng": 1.5841,
+          "order_index": 8,
+          "description": "A late Romanesque church nestled in a traditional neighborhood of Encamp.",
+          "seo_phrase": "Sant Miquel de la Mosquera — historic chapel",
+          "seo_keywords": [
+            "Sant Miquel de la Mosquera",
+            "Encamp history",
+            "traditional architecture"
+          ],
+          "seo_priority": 60,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Santa Eulàlia d'Encamp",
+            "Encamp center",
+            "Funicamp"
+          ]
+        },
+        {
+          "name": "Church of Sant Marc i Santa Maria",
+          "wiki_title": "Església de Sant Marc i Santa Maria",
+          "lat": 42.5322,
+          "lng": 1.5719,
+          "order_index": 9,
+          "description": "A charming small church surrounded by the old cemetery of Encamp.",
+          "seo_phrase": "Sant Marc i Santa Maria — charming historic church",
+          "seo_keywords": [
+            "Sant Marc i Santa Maria",
+            "Encamp churches",
+            "Andorran heritage"
+          ],
+          "seo_priority": 55,
+          "search_intent": [
+            "informational",
+            "local"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Encamp center",
+            "Valira d'Orient river"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Pas de la Casa",
+      "tags": [
+        "winter_sports",
+        "shopping",
+        "mountains",
+        "border"
+      ],
+      "wiki_title": "Pas de la Casa",
+      "seo": {
+        "title": "Pas de la Casa: High Altitude Adventures",
+        "description": "Discover Pas de la Casa, a premier ski destination right on the French border, known for snow sports and duty-free shopping.",
+        "intro": "Located high in the Pyrenees, Pas de la Casa is a bustling hub for skiers and snowboarders.",
+        "keywords": [
+          "Pas de la Casa",
+          "Grandvalira",
+          "skiing Andorra",
+          "French border"
+        ]
+      },
+      "places": [
+        {
+          "name": "Grandvalira",
+          "wiki_title": "Grandvalira",
+          "lat": 42.5366,
+          "lng": 1.7333,
+          "order_index": 0,
+          "description": "The largest ski domain in the Pyrenees, providing hundreds of kilometers of pristine slopes.",
+          "seo_phrase": "Grandvalira — largest ski domain in the Pyrenees",
+          "seo_keywords": [
+            "Grandvalira",
+            "skiing Pyrenees",
+            "snowboarding Andorra"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "commercial",
+            "travel_planning",
+            "navigational"
+          ],
+          "type": "mountain",
+          "best_season": [
+            "winter"
+          ],
+          "visit_duration_hours": 8,
+          "nearby_places": [
+            "Port d'Envalira",
+            "Pas de la Casa town",
+            "Grau Roig"
+          ]
+        },
+        {
+          "name": "Port d'Envalira",
+          "wiki_title": "Port d'Envalira",
+          "lat": 42.5405,
+          "lng": 1.7,
+          "order_index": 1,
+          "description": "The highest paved road in the Pyrenees, offering breathtaking views year-round.",
+          "seo_phrase": "Port d'Envalira — highest paved road in the Pyrenees",
+          "seo_keywords": [
+            "Port d'Envalira",
+            "mountain pass",
+            "highest road Pyrenees"
+          ],
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning",
+            "navigational"
+          ],
+          "type": "viewpoint",
+          "best_season": [
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Pas de la Casa",
+            "Pic d'Envalira",
+            "Grandvalira"
+          ]
+        },
+        {
+          "name": "Estany de les Abelletes",
+          "wiki_title": "Estany de les Abelletes",
+          "lat": 42.5322,
+          "lng": 1.7302,
+          "order_index": 2,
+          "description": "A serene alpine lake located right on the border between Andorra and France.",
+          "seo_phrase": "Estany de les Abelletes — border alpine lake",
+          "seo_keywords": [
+            "Estany de les Abelletes",
+            "border lake",
+            "Andorra France border"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "lake",
+          "best_season": [
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Pas de la Casa town",
+            "French border",
+            "Grandvalira slopes"
+          ]
+        },
+        {
+          "name": "Pic d'Envalira",
+          "wiki_title": "Pic d'Envalira",
+          "lat": 42.5219,
+          "lng": 1.7047,
+          "order_index": 3,
+          "description": "A dominant mountain peak towering over the Envalira pass.",
+          "seo_phrase": "Pic d'Envalira — towering mountain peak",
+          "seo_keywords": [
+            "Pic d'Envalira",
+            "mountain climbing",
+            "Envalira peaks"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "mountain",
+          "best_season": [
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 4,
+          "nearby_places": [
+            "Port d'Envalira",
+            "Pic Negre d'Envalira",
+            "Grau Roig"
+          ]
+        },
+        {
+          "name": "Sud Radio Transmitter",
+          "wiki_title": "Sud Radio transmitter",
+          "lat": 42.5322,
+          "lng": 1.7144,
+          "order_index": 4,
+          "description": "An abandoned high-altitude broadcasting facility with a futuristic aesthetic.",
+          "seo_phrase": "Sud Radio Transmitter — abandoned high-altitude station",
+          "seo_keywords": [
+            "Sud Radio transmitter",
+            "abandoned places",
+            "high altitude radio"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Port d'Envalira",
+            "Pic Blanc",
+            "Pas de la Casa"
+          ]
+        },
+        {
+          "name": "Estany de Font Negra",
+          "wiki_title": "Estany de Font Negra",
+          "lat": 42.533,
+          "lng": 1.7177,
+          "order_index": 5,
+          "description": "A picturesque small mountain lake surrounded by rugged ridges.",
+          "seo_phrase": "Estany de Font Negra — picturesque mountain lake",
+          "seo_keywords": [
+            "Estany de Font Negra",
+            "mountain lakes",
+            "hiking trails"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "lake",
+          "best_season": [
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Port d'Envalira",
+            "Pic d'Envalira",
+            "Pas de la Casa"
+          ]
+        },
+        {
+          "name": "Pic Negre d'Envalira",
+          "wiki_title": "Pic Negre d'Envalira",
+          "lat": 42.5186,
+          "lng": 1.7138,
+          "order_index": 6,
+          "description": "A stark, dark-rock peak offering dramatic alpine landscapes.",
+          "seo_phrase": "Pic Negre d'Envalira — dark rock peak",
+          "seo_keywords": [
+            "Pic Negre d'Envalira",
+            "rugged hiking",
+            "dramatic peaks"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "mountain",
+          "best_season": [
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 4,
+          "nearby_places": [
+            "Pic d'Envalira",
+            "Grau Roig",
+            "Port d'Envalira"
+          ]
+        },
+        {
+          "name": "Bony d'Envalira",
+          "wiki_title": "Bony d'Envalira",
+          "lat": 42.5208,
+          "lng": 1.6961,
+          "order_index": 7,
+          "description": "A rocky summit popular among backcountry skiers and summer hikers.",
+          "seo_phrase": "Bony d'Envalira — rocky summit",
+          "seo_keywords": [
+            "Bony d'Envalira",
+            "backcountry skiing",
+            "summer hikes"
+          ],
+          "seo_priority": 65,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "mountain",
+          "best_season": [
+            "summer",
+            "winter"
+          ],
+          "visit_duration_hours": 4,
+          "nearby_places": [
+            "Grau Roig",
+            "Pic d'Envalira",
+            "Grandvalira"
+          ]
+        },
+        {
+          "name": "Church of Sant Pere del Pas de la Casa",
+          "wiki_title": "Església de Sant Pere del Pas de la Casa",
+          "lat": 42.5422,
+          "lng": 1.7344,
+          "order_index": 8,
+          "description": "A modern church serving the high-altitude community of Pas de la Casa.",
+          "seo_phrase": "Sant Pere del Pas de la Casa — high-altitude church",
+          "seo_keywords": [
+            "Sant Pere church",
+            "Pas de la Casa",
+            "modern church"
+          ],
+          "seo_priority": 60,
+          "search_intent": [
+            "informational",
+            "local"
+          ],
+          "type": "church",
+          "best_season": [
+            "winter",
+            "summer"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Pas de la Casa center",
+            "Grandvalira access",
+            "French border"
+          ]
+        },
+        {
+          "name": "TSD4 Pas de la Casa",
+          "wiki_title": "TSD4 Pas de la Casa",
+          "lat": 42.5427,
+          "lng": 1.7316,
+          "order_index": 9,
+          "description": "A vital chairlift providing access to the higher slopes and panoramic viewpoints.",
+          "seo_phrase": "TSD4 Pas de la Casa — vital ski chairlift",
+          "seo_keywords": [
+            "TSD4 Pas de la Casa",
+            "chairlift",
+            "ski access"
+          ],
+          "seo_priority": 50,
+          "search_intent": [
+            "commercial",
+            "navigational"
+          ],
+          "type": "monument",
+          "best_season": [
+            "winter",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Grandvalira",
+            "Pas de la Casa town",
+            "Estany de les Abelletes"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Sant Julià de Lòria",
+      "tags": [
+        "nature",
+        "adventure",
+        "history",
+        "views"
+      ],
+      "wiki_title": "Sant Julià de Lòria",
+      "seo": {
+        "title": "Visit Sant Julià de Lòria",
+        "description": "Explore the southernmost parish of Andorra, featuring the Naturlandia eco-park and historical mountain sanctuaries.",
+        "intro": "Known for its milder climate and extensive forests, Sant Julià de Lòria is a perfect mix of outdoor fun and history.",
+        "keywords": [
+          "Sant Julià de Lòria",
+          "Naturlandia",
+          "Santuari de Canòlich",
+          "Andorra family travel"
+        ]
+      },
+      "places": [
+        {
+          "name": "Naturlandia",
+          "wiki_title": "Naturlandia",
+          "lat": 42.4419,
+          "lng": 1.5175,
+          "order_index": 0,
+          "description": "An eco-adventure park featuring the Tobotronc, the longest alpine coaster in the world.",
+          "seo_phrase": "Naturlandia — eco-adventure park and alpine coaster",
+          "seo_keywords": [
+            "Naturlandia",
+            "Tobotronc",
+            "adventure park Andorra"
+          ],
+          "seo_priority": 90,
+          "search_intent": [
+            "commercial",
+            "travel_planning",
+            "navigational"
+          ],
+          "type": "park",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 6,
+          "nearby_places": [
+            "La Rabassa",
+            "Juberri",
+            "Aixirivall"
+          ]
+        },
+        {
+          "name": "Santuari de Canòlich",
+          "wiki_title": "Santuari de Canòlich",
+          "lat": 42.4633,
+          "lng": 1.4691,
+          "order_index": 1,
+          "description": "A sacred mountain sanctuary offering deep cultural significance and sweeping valley views.",
+          "seo_phrase": "Santuari de Canòlich — sacred mountain sanctuary",
+          "seo_keywords": [
+            "Santuari de Canòlich",
+            "mountain sanctuary",
+            "pilgrimage Andorra"
+          ],
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Bixessarri",
+            "Coll de la Gallina",
+            "Os de Civís"
+          ]
+        },
+        {
+          "name": "Church of Sant Serni de Nagol",
+          "wiki_title": "Església de Sant Serni de Nagol",
+          "lat": 42.4705,
+          "lng": 1.4972,
+          "order_index": 2,
+          "description": "An iconic Romanesque church spectacularly perched on a rocky outcrop.",
+          "seo_phrase": "Sant Serni de Nagol — cliffside Romanesque church",
+          "seo_keywords": [
+            "Sant Serni de Nagol",
+            "cliffside church",
+            "Romanesque views"
+          ],
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Sant Martí de Nagol",
+            "Nagol village",
+            "Sant Julià de Lòria center"
+          ]
+        },
+        {
+          "name": "Museu del Tabac",
+          "wiki_title": "Museu del Tabac",
+          "lat": 42.465,
+          "lng": 1.4919,
+          "order_index": 3,
+          "description": "A museum dedicated to the history of tobacco cultivation and manufacturing in Andorra.",
+          "seo_phrase": "Museu del Tabac — tobacco history museum",
+          "seo_keywords": [
+            "Museu del Tabac",
+            "tobacco history",
+            "industrial heritage"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Sant Julià de Lòria center",
+            "Church of Sant Julià",
+            "Pont de la Fontaneda"
+          ]
+        },
+        {
+          "name": "Coll de la Gallina",
+          "wiki_title": "Coll de la Gallina",
+          "lat": 42.4586,
+          "lng": 1.4786,
+          "order_index": 4,
+          "description": "A legendary mountain pass known for its steep gradients and popularity in professional cycling.",
+          "seo_phrase": "Coll de la Gallina — legendary cycling climb",
+          "seo_keywords": [
+            "Coll de la Gallina",
+            "cycling Andorra",
+            "mountain pass"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "mountain",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Santuari de Canòlich",
+            "Fontaneda",
+            "Bixessarri"
+          ]
+        },
+        {
+          "name": "Church of Sant Julià i Sant Germà",
+          "wiki_title": "Església de Sant Julià i Sant Germà",
+          "lat": 42.4663,
+          "lng": 1.4916,
+          "order_index": 5,
+          "description": "The central parish church featuring a modernized exterior and a beautifully preserved Romanesque bell tower.",
+          "seo_phrase": "Sant Julià i Sant Germà — central parish church",
+          "seo_keywords": [
+            "Sant Julià i Sant Germà",
+            "parish church",
+            "Romanesque bell tower"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Museu del Tabac",
+            "Sant Julià center",
+            "Valira river"
+          ]
+        },
+        {
+          "name": "Pont de la Fontaneda",
+          "wiki_title": "Pont de la Fontaneda",
+          "lat": 42.463,
+          "lng": 1.492,
+          "order_index": 6,
+          "description": "A charming old stone bridge crossing the Valira river.",
+          "seo_phrase": "Pont de la Fontaneda — old stone bridge",
+          "seo_keywords": [
+            "Pont de la Fontaneda",
+            "Valira river",
+            "stone bridge"
+          ],
+          "seo_priority": 65,
+          "search_intent": [
+            "informational",
+            "local"
+          ],
+          "type": "bridge",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Museu del Tabac",
+            "Valira river",
+            "Fontaneda road"
+          ]
+        },
+        {
+          "name": "Church of Sant Martí de Nagol",
+          "wiki_title": "Església de Sant Martí de Nagol",
+          "lat": 42.4727,
+          "lng": 1.4941,
+          "order_index": 7,
+          "description": "A small, simple Romanesque chapel hidden away in the mountainside.",
+          "seo_phrase": "Sant Martí de Nagol — hidden Romanesque chapel",
+          "seo_keywords": [
+            "Sant Martí de Nagol",
+            "hidden chapel",
+            "Nagol churches"
+          ],
+          "seo_priority": 60,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Sant Serni de Nagol",
+            "Nagol village",
+            "Sant Julià de Lòria"
+          ]
+        },
+        {
+          "name": "Church of Sant Esteve de Juberri",
+          "wiki_title": "Església de Sant Esteve de Juberri",
+          "lat": 42.4452,
+          "lng": 1.4977,
+          "order_index": 8,
+          "description": "A picturesque church set against the backdrop of dense green forests.",
+          "seo_phrase": "Sant Esteve de Juberri — forest backdrop church",
+          "seo_keywords": [
+            "Sant Esteve de Juberri",
+            "Juberri village",
+            "scenic churches"
+          ],
+          "seo_priority": 60,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Juberri village",
+            "Naturlandia",
+            "Aixirivall"
+          ]
+        },
+        {
+          "name": "Church of Sant Miquel de Fontaneda",
+          "wiki_title": "Església de Sant Miquel de Fontaneda",
+          "lat": 42.4544,
+          "lng": 1.4641,
+          "order_index": 9,
+          "description": "A rustic mountain church surrounded by vineyards and agricultural terraces.",
+          "seo_phrase": "Sant Miquel de Fontaneda — rustic mountain church",
+          "seo_keywords": [
+            "Sant Miquel de Fontaneda",
+            "mountain church",
+            "Fontaneda village"
+          ],
+          "seo_priority": 55,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Fontaneda village",
+            "Coll de la Gallina",
+            "Sant Julià de Lòria"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Soldeu",
+      "tags": [
+        "luxury",
+        "ski",
+        "nature",
+        "summer_hikes"
+      ],
+      "wiki_title": "Soldeu",
+      "seo": {
+        "title": "Soldeu Resort Guide",
+        "description": "Experience luxury ski resorts, world-class slopes, and beautiful high-altitude hiking in Soldeu.",
+        "intro": "Soldeu is an upscale mountain village that forms a central part of the expansive Grandvalira ski area.",
+        "keywords": [
+          "Soldeu",
+          "luxury ski Andorra",
+          "Grandvalira Soldeu",
+          "Avet piste"
+        ]
+      },
+      "places": [
+        {
+          "name": "Soldeu Ski Resort",
+          "wiki_title": "Soldeu",
+          "lat": 42.5766,
+          "lng": 1.668,
+          "order_index": 0,
+          "description": "A premier winter sports destination famous for its excellent snow conditions and luxury hotels.",
+          "seo_phrase": "Soldeu Ski Resort — premier winter destination",
+          "seo_keywords": [
+            "Soldeu ski resort",
+            "winter sports",
+            "luxury ski"
+          ],
+          "seo_priority": 90,
+          "search_intent": [
+            "commercial",
+            "travel_planning",
+            "navigational"
+          ],
+          "type": "mountain",
+          "best_season": [
+            "winter"
+          ],
+          "visit_duration_hours": 8,
+          "nearby_places": [
+            "Grandvalira",
+            "Avet Ski Piste",
+            "El Tarter"
+          ]
+        },
+        {
+          "name": "Avet Ski Piste",
+          "wiki_title": "Avet ski piste",
+          "lat": 42.5736,
+          "lng": 1.6658,
+          "order_index": 1,
+          "description": "A legendary black diamond ski run that has hosted numerous World Cup alpine skiing events.",
+          "seo_phrase": "Avet Ski Piste — World Cup ski run",
+          "seo_keywords": [
+            "Avet ski piste",
+            "World Cup ski",
+            "black diamond run"
+          ],
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "mountain",
+          "best_season": [
+            "winter"
+          ],
+          "visit_duration_hours": 4,
+          "nearby_places": [
+            "Soldeu Ski Resort",
+            "Grandvalira",
+            "Soldeu village"
+          ]
+        },
+        {
+          "name": "Estany de Siscaró",
+          "wiki_title": "Estany de Siscaró",
+          "lat": 42.6005,
+          "lng": 1.7111,
+          "order_index": 2,
+          "description": "A beautiful alpine lake characterized by its surrounding reed beds and dramatic peaks.",
+          "seo_phrase": "Estany de Siscaró — beautiful alpine lake",
+          "seo_keywords": [
+            "Estany de Siscaró",
+            "alpine lake hike",
+            "reed beds"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "lake",
+          "best_season": [
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 4,
+          "nearby_places": [
+            "Vall d'Incles",
+            "Riu d'Incles",
+            "Pic de la Cabaneta"
+          ]
+        },
+        {
+          "name": "Church of Sant Bartomeu de Soldeu",
+          "wiki_title": "Església de Sant Bartomeu de Soldeu",
+          "lat": 42.5769,
+          "lng": 1.6669,
+          "order_index": 3,
+          "description": "A quaint historical chapel situated in the center of the modern resort town.",
+          "seo_phrase": "Sant Bartomeu de Soldeu — historic chapel in resort town",
+          "seo_keywords": [
+            "Sant Bartomeu",
+            "Soldeu church",
+            "chapel"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Soldeu village",
+            "Soldeu Ski Resort",
+            "Valira d'Orient river"
+          ]
+        },
+        {
+          "name": "Riu d'Incles",
+          "wiki_title": "Riu d'Incles",
+          "lat": 42.5813,
+          "lng": 1.6675,
+          "order_index": 4,
+          "description": "A pristine mountain river flowing down from the glacial Vall d'Incles near Soldeu.",
+          "seo_phrase": "Riu d'Incles — pristine mountain river",
+          "seo_keywords": [
+            "Riu d'Incles",
+            "mountain river",
+            "fresh water"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "waterfall",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Vall d'Incles",
+            "Soldeu village",
+            "Estany de Siscaró"
+          ]
+        },
+        {
+          "name": "Bosc de Moretó",
+          "wiki_title": "Bosc de Moretó",
+          "lat": 42.58,
+          "lng": 1.65,
+          "order_index": 5,
+          "description": "A dense pine forest offering sheltered walking paths during the summer months.",
+          "seo_phrase": "Bosc de Moretó — dense pine forest paths",
+          "seo_keywords": [
+            "Bosc de Moretó",
+            "pine forest",
+            "nature walks"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "park",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Soldeu village",
+            "Riu d'Incles",
+            "El Tarter"
+          ]
+        },
+        {
+          "name": "Pic de la Cabaneta",
+          "wiki_title": "Pic de la Cabaneta",
+          "lat": 42.5936,
+          "lng": 1.7,
+          "order_index": 6,
+          "description": "A rugged mountain peak offering expansive views over the Incles and Soldeu valleys.",
+          "seo_phrase": "Pic de la Cabaneta — rugged mountain peak",
+          "seo_keywords": [
+            "Pic de la Cabaneta",
+            "mountain views",
+            "Incles valley"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "mountain",
+          "best_season": [
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 6,
+          "nearby_places": [
+            "Estany de Siscaró",
+            "Vall d'Incles",
+            "Ransol"
+          ]
+        },
+        {
+          "name": "Estany de les Manguetes",
+          "wiki_title": "Estany de les Manguetes",
+          "lat": 42.5958,
+          "lng": 1.6888,
+          "order_index": 7,
+          "description": "A tranquil, lesser-known mountain lake perfect for a quiet summer hike.",
+          "seo_phrase": "Estany de les Manguetes — tranquil mountain lake",
+          "seo_keywords": [
+            "Estany de les Manguetes",
+            "quiet hike",
+            "hidden lakes"
+          ],
+          "seo_priority": 65,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "lake",
+          "best_season": [
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 4,
+          "nearby_places": [
+            "Vall d'Incles",
+            "Estany de Siscaró",
+            "Pic de la Cabaneta"
+          ]
+        },
+        {
+          "name": "TC8 Canillo-Soldeu",
+          "wiki_title": "TC8 Canillo-Soldeu",
+          "lat": 42.5761,
+          "lng": 1.6672,
+          "order_index": 8,
+          "description": "The main gondola connecting the village of Soldeu directly to the high ski slopes.",
+          "seo_phrase": "TC8 Gondola — main access to Soldeu slopes",
+          "seo_keywords": [
+            "TC8 gondola",
+            "ski lift Soldeu",
+            "mountain access"
+          ],
+          "seo_priority": 60,
+          "search_intent": [
+            "commercial",
+            "navigational"
+          ],
+          "type": "monument",
+          "best_season": [
+            "summer",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Soldeu village",
+            "Soldeu Ski Resort",
+            "Avet Ski Piste"
+          ]
+        },
+        {
+          "name": "TSD6 Bosc",
+          "wiki_title": "TSD6 Bosc",
+          "lat": 42.5702,
+          "lng": 1.6563,
+          "order_index": 9,
+          "description": "A high-speed chairlift providing crucial links within the Grandvalira ski network.",
+          "seo_phrase": "TSD6 Bosc — high-speed chairlift",
+          "seo_keywords": [
+            "TSD6 Bosc",
+            "chairlift",
+            "Grandvalira network"
+          ],
+          "seo_priority": 55,
+          "search_intent": [
+            "commercial",
+            "navigational"
+          ],
+          "type": "monument",
+          "best_season": [
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Soldeu Ski Resort",
+            "Grandvalira",
+            "Soldeu village"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Arinsal",
+      "tags": [
+        "hiking",
+        "skiing",
+        "nature",
+        "villages"
+      ],
+      "wiki_title": "Arinsal",
+      "seo": {
+        "title": "Arinsal: Gateway to the Peaks",
+        "description": "Visit Arinsal for excellent winter sports and summer access to the highest mountains in Andorra.",
+        "intro": "Arinsal is a charming village that transforms into a bustling ski resort in winter and a hiker's paradise in summer.",
+        "keywords": [
+          "Arinsal",
+          "Vallnord Arinsal",
+          "Coma Pedrosa refuge",
+          "Andorra hiking"
+        ]
+      },
+      "places": [
+        {
+          "name": "Arinsal Ski Resort",
+          "wiki_title": "Arinsal",
+          "lat": 42.5736,
+          "lng": 1.4827,
+          "order_index": 0,
+          "description": "A popular family-friendly ski area, part of the Vallnord domain.",
+          "seo_phrase": "Arinsal Ski Resort — family-friendly skiing",
+          "seo_keywords": [
+            "Arinsal ski resort",
+            "Vallnord",
+            "family skiing"
+          ],
+          "seo_priority": 90,
+          "search_intent": [
+            "commercial",
+            "travel_planning",
+            "navigational"
+          ],
+          "type": "mountain",
+          "best_season": [
+            "winter"
+          ],
+          "visit_duration_hours": 8,
+          "nearby_places": [
+            "Arinsal village",
+            "Pal Ski Resort",
+            "Vallnord"
+          ]
+        },
+        {
+          "name": "Refugi de Coma Pedrosa",
+          "wiki_title": "Refugi de Coma Pedrosa",
+          "lat": 42.5833,
+          "lng": 1.4416,
+          "order_index": 1,
+          "description": "A vital mountain hut providing shelter and food for hikers climbing the highest peak.",
+          "seo_phrase": "Refugi de Coma Pedrosa — mountain hut shelter",
+          "seo_keywords": [
+            "Refugi Coma Pedrosa",
+            "mountain hut",
+            "hiker shelter"
+          ],
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning",
+            "navigational"
+          ],
+          "type": "monument",
+          "best_season": [
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Coma Pedrosa peak",
+            "Estany de les Truites",
+            "Arinsal village"
+          ]
+        },
+        {
+          "name": "Vall d'Arinsal",
+          "wiki_title": "Vall d'Arinsal",
+          "lat": 42.575,
+          "lng": 1.478,
+          "order_index": 2,
+          "description": "The picturesque valley encompassing the village, known for lush forests and winter trails.",
+          "seo_phrase": "Vall d'Arinsal — picturesque green valley",
+          "seo_keywords": [
+            "Vall d'Arinsal",
+            "lush forests",
+            "winter trails"
+          ],
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "park",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 4,
+          "nearby_places": [
+            "Arinsal village",
+            "Arinsal Ski Resort",
+            "Coma Pedrosa"
+          ]
+        },
+        {
+          "name": "Estany de les Truites",
+          "wiki_title": "Estany de les Truites",
+          "lat": 42.5822,
+          "lng": 1.4427,
+          "order_index": 3,
+          "description": "A scenic high-altitude trout lake located near the Coma Pedrosa refuge.",
+          "seo_phrase": "Estany de les Truites — scenic high-altitude trout lake",
+          "seo_keywords": [
+            "Estany de les Truites",
+            "trout lake",
+            "fishing Andorra"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "lake",
+          "best_season": [
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Refugi de Coma Pedrosa",
+            "Coma Pedrosa peak",
+            "Arinsal village"
+          ]
+        },
+        {
+          "name": "Estany Negre",
+          "wiki_title": "Estany Negre (Arinsal)",
+          "lat": 42.5941,
+          "lng": 1.4394,
+          "order_index": 4,
+          "description": "A deep, dark-watered alpine lake nestled in a rocky glacial cirque.",
+          "seo_phrase": "Estany Negre — dark-watered alpine lake",
+          "seo_keywords": [
+            "Estany Negre",
+            "glacial cirque",
+            "dark water lake"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "lake",
+          "best_season": [
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 5,
+          "nearby_places": [
+            "Coma Pedrosa",
+            "Refugi de Coma Pedrosa",
+            "Arinsal village"
+          ]
+        },
+        {
+          "name": "Pic de Sanfonts",
+          "wiki_title": "Pic de Sanfonts",
+          "lat": 42.5908,
+          "lng": 1.4302,
+          "order_index": 5,
+          "description": "A massive peak offering extraordinary views over the western Pyrenees.",
+          "seo_phrase": "Pic de Sanfonts — extraordinary Pyrenees views",
+          "seo_keywords": [
+            "Pic de Sanfonts",
+            "western Pyrenees",
+            "mountain views"
+          ],
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "mountain",
+          "best_season": [
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 6,
+          "nearby_places": [
+            "Coma Pedrosa",
+            "Port de Baiau",
+            "Arinsal village"
+          ]
+        },
+        {
+          "name": "Church of Sant Andreu d'Arinsal",
+          "wiki_title": "Església de Sant Andreu d'Arinsal",
+          "lat": 42.5722,
+          "lng": 1.4844,
+          "order_index": 6,
+          "description": "A traditional stone church standing proudly in the center of Arinsal village.",
+          "seo_phrase": "Sant Andreu d'Arinsal — traditional stone church",
+          "seo_keywords": [
+            "Sant Andreu d'Arinsal",
+            "Arinsal church",
+            "village center"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Arinsal village",
+            "Arinsal Ski Resort",
+            "Riu d'Arinsal"
+          ]
+        },
+        {
+          "name": "Riu d'Arinsal",
+          "wiki_title": "Riu d'Arinsal",
+          "lat": 42.5708,
+          "lng": 1.4852,
+          "order_index": 7,
+          "description": "The fast-flowing river that cuts through the valley, fed by mountain snowmelt.",
+          "seo_phrase": "Riu d'Arinsal — fast-flowing mountain river",
+          "seo_keywords": [
+            "Riu d'Arinsal",
+            "snowmelt river",
+            "valley streams"
+          ],
+          "seo_priority": 65,
+          "search_intent": [
+            "informational",
+            "local"
+          ],
+          "type": "park",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Arinsal village",
+            "Sant Andreu d'Arinsal",
+            "Vall d'Arinsal"
+          ]
+        },
+        {
+          "name": "Pic de Percanela",
+          "wiki_title": "Pic de Percanela",
+          "lat": 42.5875,
+          "lng": 1.4727,
+          "order_index": 8,
+          "description": "A challenging peak near Arinsal rewarding climbers with solitary, unspoiled vistas.",
+          "seo_phrase": "Pic de Percanela — challenging solitary peak",
+          "seo_keywords": [
+            "Pic de Percanela",
+            "unspoiled vistas",
+            "challenging climbs"
+          ],
+          "seo_priority": 65,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "mountain",
+          "best_season": [
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 5,
+          "nearby_places": [
+            "Arinsal village",
+            "Les Fonts",
+            "Pic de les Fonts"
+          ]
+        },
+        {
+          "name": "Borda de l'Aldosa",
+          "wiki_title": "Borda de l'Aldosa (Arinsal)",
+          "lat": 42.57,
+          "lng": 1.485,
+          "order_index": 9,
+          "description": "Traditional Andorran farm buildings, examples of which can still be seen around Arinsal.",
+          "seo_phrase": "Borda de l'Aldosa — traditional farm buildings",
+          "seo_keywords": [
+            "Borda de l'Aldosa",
+            "traditional Borda",
+            "Andorran farm"
+          ],
+          "seo_priority": 60,
+          "search_intent": [
+            "informational",
+            "local"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "L'Aldosa village",
+            "Arinsal village",
+            "Anyós"
+          ]
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "Andorran Peaks and Valleys",
+    "subtitle": "A stunning road trip through the Pyrenees",
+    "wiki_title": "Andorra",
+    "totalDays": 10,
+    "seo": {
+      "title": "10-Day Andorra Road Trip: Peaks & Valleys",
+      "description": "Embark on a 10-day adventure through Andorra's most spectacular natural landscapes, viewpoints, and hidden gems.",
+      "intro": "Drive through the breathtaking Pyrenees, stopping at glacial valleys, ancient ruins, and dramatic high-altitude passes.",
+      "keywords": [
+        "Andorra road trip",
+        "Pyrenees adventure",
+        "mountain driving",
+        "hidden gems Andorra"
+      ]
+    },
+    "places": [
+      {
+        "name": "Pont de la Margineda",
+        "wiki_title": "Pont de la Margineda",
+        "region": "Andorra la Vella",
+        "lat": 42.4841,
+        "lng": 1.4922,
+        "day": 1,
+        "requires_car": true,
+        "tags": [
+          "monument",
+          "ruins"
+        ],
+        "order_index": 0,
+        "description": "Start the journey exploring the largest and best-preserved medieval bridge in Andorra.",
+        "seo_phrase": "Pont de la Margineda medieval bridge",
+        "seo_keywords": [
+          "Pont de la Margineda",
+          "medieval bridge"
+        ],
+        "seo_priority": 80,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 0.5
+      },
+      {
+        "name": "Coll de la Gallina",
+        "wiki_title": "Coll de la Gallina",
+        "region": "Sant Julià de Lòria",
+        "lat": 42.4586,
+        "lng": 1.4786,
+        "day": 2,
+        "requires_car": true,
+        "tags": [
+          "viewpoint",
+          "nature"
+        ],
+        "order_index": 1,
+        "description": "Drive up this legendary, steep mountain pass for sweeping views of the southern valleys.",
+        "seo_phrase": "Coll de la Gallina mountain pass",
+        "seo_keywords": [
+          "Coll de la Gallina",
+          "mountain pass"
+        ],
+        "seo_priority": 80,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 1
+      },
+      {
+        "name": "Santuari de Canòlich",
+        "wiki_title": "Santuari de Canòlich",
+        "region": "Sant Julià de Lòria",
+        "lat": 42.4633,
+        "lng": 1.4691,
+        "day": 3,
+        "requires_car": true,
+        "tags": [
+          "monument",
+          "viewpoint"
+        ],
+        "order_index": 2,
+        "description": "Visit this isolated mountain sanctuary, accessible by a scenic winding road.",
+        "seo_phrase": "Santuari de Canòlich mountain sanctuary",
+        "seo_keywords": [
+          "Santuari de Canòlich",
+          "mountain sanctuary"
+        ],
+        "seo_priority": 85,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 1
+      },
+      {
+        "name": "Madriu-Perafita-Claror Valley",
+        "wiki_title": "Madriu-Perafita-Claror Valley",
+        "region": "Escaldes-Engordany",
+        "lat": 42.4764,
+        "lng": 1.6025,
+        "day": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem"
+        ],
+        "order_index": 3,
+        "description": "Park at the trailhead and hike into this spectacular UNESCO World Heritage glacial valley.",
+        "seo_phrase": "Madriu-Perafita-Claror Valley UNESCO",
+        "seo_keywords": [
+          "Madriu Valley",
+          "UNESCO site"
+        ],
+        "seo_priority": 95,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 8
+      },
+      {
+        "name": "Mirador del Roc del Quer",
+        "wiki_title": "Mirador del Roc del Quer",
+        "region": "Canillo",
+        "lat": 42.5611,
+        "lng": 1.5925,
+        "day": 5,
+        "requires_car": true,
+        "tags": [
+          "viewpoint"
+        ],
+        "order_index": 4,
+        "description": "Experience vertigo on this suspended observation deck over the Canillo valley.",
+        "seo_phrase": "Mirador del Roc del Quer suspended deck",
+        "seo_keywords": [
+          "Roc del Quer",
+          "suspended deck"
+        ],
+        "seo_priority": 95,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 1
+      },
+      {
+        "name": "Vall d'Incles",
+        "wiki_title": "Vall d'Incles",
+        "region": "Canillo",
+        "lat": 42.6,
+        "lng": 1.6833,
+        "day": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem"
+        ],
+        "order_index": 5,
+        "description": "Drive into one of Andorra's most pristine and idyllic U-shaped glacial valleys.",
+        "seo_phrase": "Vall d'Incles glacial valley",
+        "seo_keywords": [
+          "Vall d'Incles",
+          "glacial valley"
+        ],
+        "seo_priority": 85,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4
+      },
+      {
+        "name": "Sorteny National Park",
+        "wiki_title": "Parc Natural de la Vall de Sorteny",
+        "region": "Ordino",
+        "lat": 42.6236,
+        "lng": 1.5544,
+        "day": 7,
+        "requires_car": true,
+        "tags": [
+          "nature"
+        ],
+        "order_index": 6,
+        "description": "Explore the rich botanical diversity of this protected nature reserve in the northern mountains.",
+        "seo_phrase": "Sorteny National Park botanical reserve",
+        "seo_keywords": [
+          "Sorteny",
+          "nature reserve"
+        ],
+        "seo_priority": 90,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4
+      },
+      {
+        "name": "Estanys de Tristaina",
+        "wiki_title": "Estanys de Tristaina",
+        "region": "Ordino",
+        "lat": 42.6366,
+        "lng": 1.4883,
+        "day": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "viewpoint"
+        ],
+        "order_index": 7,
+        "description": "Drive up to the Arcalís area to hike the stunning circuit of the three Tristaina lakes.",
+        "seo_phrase": "Estanys de Tristaina alpine lakes",
+        "seo_keywords": [
+          "Tristaina Lakes",
+          "alpine hiking"
+        ],
+        "seo_priority": 95,
+        "best_season": [
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4
+      },
+      {
+        "name": "Coma Pedrosa",
+        "wiki_title": "Coma Pedrosa",
+        "region": "La Massana",
+        "lat": 42.59,
+        "lng": 1.443,
+        "day": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem"
+        ],
+        "order_index": 8,
+        "description": "Tackle the trails near Andorra's highest peak, exploring deep forests and rugged terrain.",
+        "seo_phrase": "Coma Pedrosa highest peak",
+        "seo_keywords": [
+          "Coma Pedrosa",
+          "highest mountain"
+        ],
+        "seo_priority": 95,
+        "best_season": [
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 8
+      },
+      {
+        "name": "Port d'Envalira",
+        "wiki_title": "Port d'Envalira",
+        "region": "Pas de la Casa",
+        "lat": 42.5405,
+        "lng": 1.7,
+        "day": 10,
+        "requires_car": true,
+        "tags": [
+          "viewpoint",
+          "nature"
+        ],
+        "order_index": 9,
+        "description": "Conclude the road trip at the highest paved road in the Pyrenees, watching the sunset over the peaks.",
+        "seo_phrase": "Port d'Envalira highest paved road",
+        "seo_keywords": [
+          "Port d'Envalira",
+          "Pyrenees pass"
+        ],
+        "seo_priority": 90,
+        "best_season": [
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 0.5
+      }
+    ]
+  }
+}

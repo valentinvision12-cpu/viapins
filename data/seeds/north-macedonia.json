@@ -1,0 +1,3008 @@
+{
+  "version": 2,
+  "country": "North Macedonia",
+  "published": true,
+  "cities": [
+    {
+      "city": "Skopje",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Skopje",
+      "seo": {
+        "title": "Top 10 Things to Do in Skopje, North Macedonia",
+        "description": "Discover 10 must-see landmarks in Skopje, North Macedonia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Skopje? Explore the best places to visit in Skopje, North Macedonia.",
+        "keywords": [
+          "things to do in Skopje",
+          "Skopje North Macedonia travel guide",
+          "best places to visit in Skopje",
+          "Skopje landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Stone Bridge",
+          "wiki_title": "Stone Bridge (Skopje)",
+          "lat": 41.9969,
+          "lng": 21.4328,
+          "order_index": 0,
+          "description": "Средновековен каменен мост в сърцето на Скопие, свързващ площада със Старата чаршия.",
+          "seo_phrase": "Каменният мост в Скопие – Историческата връзка през река Вардар",
+          "seo_keywords": [
+            "Каменен мост Скопие",
+            "забележителности Скопие",
+            "река Вардар мост",
+            "история на Скопие"
+          ],
+          "commons_file": "Skopje - Stone Bridge 02.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Skopje_-_Stone_Bridge_02.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Macedonia Square",
+            "Skopje Fortress",
+            "Old Bazaar"
+          ]
+        },
+        {
+          "name": "Old Bazaar",
+          "wiki_title": "Old Bazaar, Skopje",
+          "lat": 42.0003,
+          "lng": 21.4369,
+          "order_index": 1,
+          "description": "Исторически търговски и културен квартал в Скопие с калдъръмени улици и занаятчии.",
+          "seo_phrase": "Старата скопска чаршия – Автентичен дух и пазари от османско време",
+          "seo_keywords": [
+            "Стара чаршия Скопие",
+            "турски пазар Скопие",
+            "занаяти Скопие",
+            "стария град"
+          ],
+          "commons_file": "Old Bazaar Skopje 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Old_Bazaar_Skopje_01.jpg",
+          "seo_priority": 97,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Skopje Fortress",
+            "Stone Bridge",
+            "Daut Pasha Hamam"
+          ]
+        },
+        {
+          "name": "Skopje Fortress",
+          "wiki_title": "Skopje Fortress",
+          "lat": 41.9994,
+          "lng": 21.4336,
+          "order_index": 2,
+          "description": "Древна крепост, разположена на най-високата точка в Скопие с изглед към река Вардар.",
+          "seo_phrase": "Крепост Кале Скопие – Панорамна история и древни стени",
+          "seo_keywords": [
+            "Крепост Кале",
+            "Скопие крепост",
+            "панорама Скопие",
+            "исторически места Македония"
+          ],
+          "commons_file": "Skopsko Kale in 2016.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Skopsko_Kale_in_2016.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Stone Bridge",
+            "Old Bazaar"
+          ]
+        },
+        {
+          "name": "Macedonia Square",
+          "wiki_title": "Macedonia Square",
+          "lat": 41.9961,
+          "lng": 21.4317,
+          "order_index": 3,
+          "description": "Най-големият и главен площад в Северна Македония, разположен до река Вардар.",
+          "seo_phrase": "Площад Македония Скопие – Сърцето на модерната столица",
+          "seo_keywords": [
+            "Площад Македония",
+            "център Скопие",
+            "паметник войн на кон",
+            "Скопие 2014"
+          ],
+          "commons_file": "Macedonia Square Skopje.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Macedonia_Square_Skopje.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Stone Bridge",
+            "Porta Macedonia"
+          ]
+        },
+        {
+          "name": "Mother Teresa Memorial House",
+          "wiki_title": "Memorial House of Mother Teresa",
+          "lat": 41.9942,
+          "lng": 21.4319,
+          "order_index": 4,
+          "description": "Мемориален комплекс и музей, посветен на хуманитарката Майка Тереза, родена в Скопие.",
+          "seo_phrase": "Спомен-къща на Майка Тереза – Духовно наследство в Скопие",
+          "seo_keywords": [
+            "Майка Тереза музей",
+            "Скопие Майка Тереза",
+            "мемориална къща Скопие",
+            "безплатен музей"
+          ],
+          "commons_file": "Spomen kukja Majka Tereza 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Spomen_kukja_Majka_Tereza_01.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Macedonia Square",
+            "Feudal Tower"
+          ]
+        },
+        {
+          "name": "Church of St. Spas",
+          "wiki_title": "Church",
+          "lat": 42.0006,
+          "lng": 21.4344,
+          "order_index": 5,
+          "description": "Възрожденска църква от XIX век, известна със своя изключителен дървен иконостас.",
+          "seo_phrase": "Църква Свети Спас Скопие – Шедьовър на дърворезбата",
+          "seo_keywords": [
+            "Свети Спас Скопие",
+            "църква Свети Спас",
+            "иконостас Скопие",
+            "Дебърска школа"
+          ],
+          "commons_file": "Sveti Spas Skopje 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Sveti_Spas_Skopje_01.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Skopje Fortress",
+            "Old Bazaar"
+          ]
+        },
+        {
+          "name": "Daut Pasha Hamam",
+          "wiki_title": "Daut Pasha Hamam",
+          "lat": 41.9989,
+          "lng": 21.4358,
+          "order_index": 6,
+          "description": "Бивша османска обществена баня, днес функционираща като Национална галерия.",
+          "seo_phrase": "Даут-пашин амам – Национална галерия и османска архитектура",
+          "seo_keywords": [
+            "Даут пашин амам",
+            "Национална галерия Скопие",
+            "османска архитектура",
+            "изкуство Скопие"
+          ],
+          "commons_file": "Daut-pašin amam 01.jpg",
+          "image_url": "",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Bazaar",
+            "Stone Bridge"
+          ]
+        },
+        {
+          "name": "Kursumli An",
+          "wiki_title": "Kuršumli An",
+          "lat": 42.0019,
+          "lng": 21.4373,
+          "order_index": 7,
+          "description": "Исторически кервансарай от османската епоха, разположен в Старата чаршия.",
+          "seo_phrase": "Куршумли ан Скопие – Средновековен кервансарай в чаршията",
+          "seo_keywords": [
+            "Куршумли ан",
+            "кервансарай Скопие",
+            "османски хан",
+            "забележителности чаршия"
+          ],
+          "commons_file": "Kuršumli An Skopje.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Kur%C5%A1umli_An_Skopje.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Bazaar",
+            "Museum of Macedonia"
+          ]
+        },
+        {
+          "name": "Porta Macedonia",
+          "wiki_title": "Porta Macedonia",
+          "lat": 41.9951,
+          "lng": 21.4325,
+          "order_index": 8,
+          "description": "Триумфална арка, разположена близо до централния площад на Скопие.",
+          "seo_phrase": "Триумфална арка Порта Македония – Модерна градска архитектура",
+          "seo_keywords": [
+            "Порта Македония",
+            "триумфална арка Скопие",
+            "архитектура Скопие",
+            "нова история"
+          ],
+          "commons_file": "Porta Macedonia Skopje.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Porta_Macedonia_Skopje.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Macedonia Square",
+            "Stone Bridge"
+          ]
+        },
+        {
+          "name": "Skopje",
+          "wiki_title": "Skopje",
+          "lat": 41.99611111,
+          "lng": 21.43166667,
+          "order_index": 9,
+          "description": "Skopje — a notable landmark in Bitola, North Macedonia.",
+          "seo_phrase": "Skopje",
+          "seo_keywords": [
+            "Bitola",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "73/Skopje view from Kale 3.jpg/800px-Skopje view from Kale 3.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Skopje_view_from_Kale_3.jpg/800px-Skopje_view_from_Kale_3.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Ohrid",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Ohrid",
+      "seo": {
+        "title": "Top 10 Things to Do in Ohrid, North Macedonia",
+        "description": "Discover 10 must-see landmarks in Ohrid, North Macedonia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Ohrid? Explore the best places to visit in Ohrid, North Macedonia.",
+        "keywords": [
+          "things to do in Ohrid",
+          "Ohrid North Macedonia travel guide",
+          "best places to visit in Ohrid",
+          "Ohrid landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Church of St. John at Kaneo",
+          "wiki_title": "Church of St. John at Kaneo",
+          "lat": 41.1111,
+          "lng": 20.7884,
+          "order_index": 0,
+          "description": "Средновековна православна църква, разположена на скала над Охридското езеро.",
+          "seo_phrase": "Свети Йоан Канео – Най-фотографираната църква на Охридското езеро",
+          "seo_keywords": [
+            "Свети Йоан Канео",
+            "Охрид църква Канео",
+            "Охридско езеро забележителности",
+            "византийска архитектура"
+          ],
+          "commons_file": "Kaneo Jovan Ohrid.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Kaneo_Jovan_Ohrid.jpg",
+          "seo_priority": 100,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Samuel's Fortress",
+            "Ancient Theatre of Ohrid",
+            "Plaošnik"
+          ]
+        },
+        {
+          "name": "Samuel's Fortress",
+          "wiki_title": "Samuel's Fortress, Ohrid",
+          "lat": 41.1153,
+          "lng": 20.7914,
+          "order_index": 1,
+          "description": "Древна укрепена цитадела, извисяваща се над стария град на Охрид.",
+          "seo_phrase": "Самуилова крепост Охрид – Средновековна твърдина и панорама",
+          "seo_keywords": [
+            "Самуилова крепост",
+            "Охрид крепост",
+            "цар Самуил Охрид",
+            "исторически туризъм"
+          ],
+          "commons_file": "Samuils fortress Ohrid 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Samuils_fortress_Ohrid_01.jpg",
+          "seo_priority": 99,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Ancient Theatre of Ohrid",
+            "Church of St. John at Kaneo"
+          ]
+        },
+        {
+          "name": "Pláoshnik Archaeological Site",
+          "wiki_title": "Plaošnik",
+          "lat": 41.1125,
+          "lng": 20.7892,
+          "order_index": 2,
+          "description": "Свещено място и археологически обект, дом на първия славянски университет.",
+          "seo_phrase": "Плаошник Охрид – Люлка на славянската писменост и култура",
+          "seo_keywords": [
+            "Плаошник",
+            "Свети Климент Охридски",
+            "Охридска книжовна школа",
+            "древни мозайки"
+          ],
+          "commons_file": "Plaosnik Ohrid 02.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Plaosnik_Ohrid_02.jpg",
+          "seo_priority": 97,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church of St. John at Kaneo",
+            "Samuel's Fortress"
+          ]
+        },
+        {
+          "name": "Ancient Theatre of Ohrid",
+          "wiki_title": "Ancient Theatre of Ohrid",
+          "lat": 41.1151,
+          "lng": 20.7942,
+          "order_index": 3,
+          "description": "Древен гръко-римски театър на открито, разположен в сърцето на стария град.",
+          "seo_phrase": "Античен театър в Охрид – Римско наследство и летни фестивали",
+          "seo_keywords": [
+            "Античен театър Охрид",
+            "римски театър Охрид",
+            "елинистически паметници",
+            "Охридско лято"
+          ],
+          "commons_file": "Anticki Teatar Ohrid 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Anticki_Teatar_Ohrid_01.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Samuel's Fortress",
+            "Church of Holy Mary Perybleptos"
+          ]
+        },
+        {
+          "name": "Church of St. Sophia",
+          "wiki_title": "Church of St. Sophia, Ohrid",
+          "lat": 41.1121,
+          "lng": 20.7941,
+          "order_index": 4,
+          "description": "Една от най-значимите средновековни църкви в региона, бивше седалище на Охридската архиепископия.",
+          "seo_phrase": "Църква Света София Охрид – Величествени средновековни стенописи",
+          "seo_keywords": [
+            "Света София Охрид",
+            "Охридска архиепископия",
+            "средновековни стенописи",
+            "старинни църкви"
+          ],
+          "commons_file": "St. Sophia Ohrid 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/St._Sophia_Ohrid_01.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Ancient Theatre of Ohrid",
+            "Robev Family House"
+          ]
+        },
+        {
+          "name": "Ohrid Boardwalk",
+          "wiki_title": "Ohrid",
+          "lat": 41.1118,
+          "lng": 20.7919,
+          "order_index": 5,
+          "description": "Пешеходна дървена мостова пътека, закрепена за скалите директно над езерото.",
+          "seo_phrase": "Дървената пътека на Охрид – Романтична разходка над водата",
+          "seo_keywords": [
+            "Охрид пътека над водата",
+            "дървен мост Охрид",
+            "плаж Потпеш",
+            "романтични места Охрид"
+          ],
+          "commons_file": "Ohrid lake wooden bridge.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ohrid_lake_wooden_bridge.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church of St. Sophia",
+            "Church of St. John at Kaneo"
+          ]
+        },
+        {
+          "name": "National Workshop for Handmade Paper",
+          "wiki_title": "Ohrid",
+          "lat": 41.1124,
+          "lng": 20.7958,
+          "order_index": 6,
+          "description": "Автентична работилница-музей за ръчно производство на хартия върху дървена преса.",
+          "seo_phrase": "Работилница за ръчна хартия Охрид – Древен занаят на живо",
+          "seo_keywords": [
+            "Ръчна хартия Охрид",
+            "преса на Гутенберг",
+            "занаяти Охрид",
+            "стари занаяти"
+          ],
+          "commons_file": "Handmade paper workshop Ohrid.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Handmade_paper_workshop_Ohrid.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Robev Family House",
+            "Church of St. Sophia"
+          ]
+        },
+        {
+          "name": "Robev Family House",
+          "wiki_title": "Robev Family House",
+          "lat": 41.1122,
+          "lng": 20.7953,
+          "order_index": 7,
+          "description": "Възрожденска възстановена къща, превърната в музей на културното наследство.",
+          "seo_phrase": "Къщата на Робевци – Традиционна възрожденска архитектура в Охрид",
+          "seo_keywords": [
+            "Къща на Робевци",
+            "Охридска архитектура",
+            "възрожденски къщи",
+            "етнографски музей Охрид"
+          ],
+          "commons_file": "Kuka na Robevci Ohrid 02.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Kuka_na_Robevci_Ohrid_02.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church of St. Sophia",
+            "Ohrid Boardwalk"
+          ]
+        },
+        {
+          "name": "Church of Holy Mary Perybleptos",
+          "wiki_title": "Church of Holy Mary Perybleptos",
+          "lat": 41.1147,
+          "lng": 20.7954,
+          "order_index": 8,
+          "description": "Византийска църква от XIII век, известна със своите драматични и иновативни фрески.",
+          "seo_phrase": "Света Богородица Перивлепта – Ранно ренесансово изкуство",
+          "seo_keywords": [
+            "Богородица Перивлепта",
+            "Охрид стенописи",
+            "Михаил и Евтихий",
+            "византийски фрески"
+          ],
+          "commons_file": "Sv Bogorodica Perivlepta Ohrid 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Sv_Bogorodica_Perivlepta_Ohrid_01.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Ancient Theatre of Ohrid",
+            "Icon Gallery Ohrid"
+          ]
+        },
+        {
+          "name": "Ohrid Icon Gallery",
+          "wiki_title": "Ohrid",
+          "lat": 41.1146,
+          "lng": 20.7951,
+          "order_index": 9,
+          "description": "Специализиран музей, съхраняващ безценни икони от XI до XIX век.",
+          "seo_phrase": "Галерия за икони Охрид – Световна колекция от шедьоври",
+          "seo_keywords": [
+            "Галерия за икони Охрид",
+            "православни икони",
+            "музей Охрид",
+            "християнско изкуство"
+          ],
+          "commons_file": "Icon from Ohrid Gallery.jpg",
+          "image_url": "",
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Church of Holy Mary Perybleptos",
+            "Ancient Theatre of Ohrid"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Bitola",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Bitola",
+      "seo": {
+        "title": "Top 10 Things to Do in Bitola, North Macedonia",
+        "description": "Discover 10 must-see landmarks in Bitola, North Macedonia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Bitola? Explore the best places to visit in Bitola, North Macedonia.",
+        "keywords": [
+          "things to do in Bitola",
+          "Bitola North Macedonia travel guide",
+          "best places to visit in Bitola",
+          "Bitola landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Bitola",
+          "wiki_title": "Bitola",
+          "lat": 41.03194444,
+          "lng": 21.33472222,
+          "order_index": 0,
+          "description": "Bitola — a notable landmark in Bitola, North Macedonia.",
+          "seo_phrase": "Bitola",
+          "seo_keywords": [
+            "Bitola",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "b8/Ambientalna ulica Marsal Tito-Bitola (10).jpg/800px-Ambientalna ulica Marsal Tito-Bitola (10).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ambientalna_ulica_Marsal_Tito-Bitola_%2810%29.jpg/800px-Ambientalna_ulica_Marsal_Tito-Bitola_%2810%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Ohrid",
+          "wiki_title": "Ohrid",
+          "lat": 41.11694444,
+          "lng": 20.80166667,
+          "order_index": 1,
+          "description": "Ohrid — a notable landmark in Bitola, North Macedonia.",
+          "seo_phrase": "Ohrid",
+          "seo_keywords": [
+            "Bitola",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "82/03760-Ohrid (16064511578).jpg/800px-03760-Ohrid (16064511578).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/03760-Ohrid_%2816064511578%29.jpg/800px-03760-Ohrid_%2816064511578%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Edessa",
+          "wiki_title": "Edessa, Greece",
+          "lat": 40.8,
+          "lng": 22.05,
+          "order_index": 2,
+          "description": "Edessa, Greece — a notable landmark in Bitola, North Macedonia.",
+          "seo_phrase": "Edessa",
+          "seo_keywords": [
+            "Bitola",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "44/La cascata - panoramio (1).jpg/800px-La cascata - panoramio (1).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/La_cascata_-_panoramio_%281%29.jpg/800px-La_cascata_-_panoramio_%281%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Cathedral of the Sacred Heart of Jesus (Skopje)",
+          "wiki_title": "Cathedral of the Sacred Heart of Jesus (Skopje)",
+          "lat": 41.99472222,
+          "lng": 21.41777778,
+          "order_index": 3,
+          "description": "Cathedral of the Sacred Heart of Jesus (Skopje) — a notable landmark in Bitola, North Macedonia.",
+          "seo_phrase": "Cathedral of the Sacred Heart of Jesus (Skopje)",
+          "seo_keywords": [
+            "Bitola",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "3c/Sacred Heart of Jesus Skopje 1.jpg/800px-Sacred Heart of Jesus Skopje 1.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sacred_Heart_of_Jesus_Skopje_1.jpg/800px-Sacred_Heart_of_Jesus_Skopje_1.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Saint Cyril and Methodius Church (Petralinci)",
+          "wiki_title": "Saint Cyril and Methodius Church (Petralinci)",
+          "lat": 41.4706,
+          "lng": 22.7272,
+          "order_index": 4,
+          "description": "Saint Cyril and Methodius Church (Petralinci) — a notable landmark in Bitola, North Macedonia.",
+          "seo_phrase": "Saint Cyril and Methodius Church (Petralinci)",
+          "seo_keywords": [
+            "Bitola",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "22/Sts. Cyril and Methodius Church (Petralinci) (2).jpg/800px-Sts. Cyril and Methodius Church (Petralinci) (2).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sts._Cyril_and_Methodius_Church_%28Petralinci%29_%282%29.jpg/800px-Sts._Cyril_and_Methodius_Church_%28Petralinci%29_%282%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Cathedral of the Assumption of Blessed Virgin Mary",
+          "wiki_title": "Cathedral of the Assumption of Blessed Virgin Mary, Strumica",
+          "lat": 41.435,
+          "lng": 22.64,
+          "order_index": 5,
+          "description": "Cathedral of the Assumption of Blessed Virgin Mary, Strumica — a notable landmark in Bitola, North Macedonia.",
+          "seo_phrase": "Cathedral of the Assumption of Blessed Virgin Mary",
+          "seo_keywords": [
+            "Bitola",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "Assumption of Our Lady Church Strumica 3.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Assumption_of_Our_Lady_Church_Strumica_3.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Co-Cathedral of the Sacred Heart",
+          "wiki_title": "Co-Cathedral of the Sacred Heart, Bitola",
+          "lat": 41.02879,
+          "lng": 21.33594,
+          "order_index": 6,
+          "description": "Co-Cathedral of the Sacred Heart, Bitola — a notable landmark in Bitola, North Macedonia.",
+          "seo_phrase": "Co-Cathedral of the Sacred Heart",
+          "seo_keywords": [
+            "Bitola",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "4f/Catolic church bitola.jpg/800px-Catolic church bitola.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Catolic_church_bitola.jpg/800px-Catolic_church_bitola.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Battle of Skopje",
+          "wiki_title": "Battle of Skopje",
+          "lat": 42,
+          "lng": 21.43333333,
+          "order_index": 7,
+          "description": "Battle of Skopje — a notable landmark in Bitola, North Macedonia.",
+          "seo_phrase": "Battle of Skopje",
+          "seo_keywords": [
+            "Bitola",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "03/The Chronicle of Ioannis Skylitzis Bulagar Defeat.jpg/800px-The Chronicle of Ioannis Skylitzis Bulagar Defeat.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/The_Chronicle_of_Ioannis_Skylitzis_Bulagar_Defeat.jpg/800px-The_Chronicle_of_Ioannis_Skylitzis_Bulagar_Defeat.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Battle of Setina",
+          "wiki_title": "Battle of Setina",
+          "lat": 40.86666667,
+          "lng": 21.61666667,
+          "order_index": 8,
+          "description": "Battle of Setina — a notable landmark in Bitola, North Macedonia.",
+          "seo_phrase": "Battle of Setina",
+          "seo_keywords": [
+            "Bitola",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "34/John Harris Valda - Basil II at battle near Setania (Setina) in 1017.jpg/800px-John Harris Valda - Basil II at battle near Setania (Setina) in 1017.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/John_Harris_Valda_-_Basil_II_at_battle_near_Setania_%28Setina%29_in_1017.jpg/800px-John_Harris_Valda_-_Basil_II_at_battle_near_Setania_%28Setina%29_in_1017.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Bogomila",
+          "wiki_title": "Bogomila",
+          "lat": 41.65,
+          "lng": 21.4,
+          "order_index": 9,
+          "description": "Bogomila — a notable landmark in Veles, North Macedonia.",
+          "seo_phrase": "Bogomila",
+          "seo_keywords": [
+            "Veles",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "1a/Римски мост на Бабуна во Богомила 6532.jpg/800px-Римски мост на Бабуна во Богомила 6532.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B8_%D0%BC%D0%BE%D1%81%D1%82_%D0%BD%D0%B0_%D0%91%D0%B0%D0%B1%D1%83%D0%BD%D0%B0_%D0%B2%D0%BE_%D0%91%D0%BE%D0%B3%D0%BE%D0%BC%D0%B8%D0%BB%D0%B0_6532.jpg/800px-%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B8_%D0%BC%D0%BE%D1%81%D1%82_%D0%BD%D0%B0_%D0%91%D0%B0%D0%B1%D1%83%D0%BD%D0%B0_%D0%B2%D0%BE_%D0%91%D0%BE%D0%B3%D0%BE%D0%BC%D0%B8%D0%BB%D0%B0_6532.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Gostivar",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Gostivar",
+      "seo": {
+        "title": "Top 10 Things to Do in Gostivar, North Macedonia",
+        "description": "Discover 10 must-see landmarks in Gostivar, North Macedonia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Gostivar? Explore the best places to visit in Gostivar, North Macedonia.",
+        "keywords": [
+          "things to do in Gostivar",
+          "Gostivar North Macedonia travel guide",
+          "best places to visit in Gostivar",
+          "Gostivar landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Gostivar",
+          "wiki_title": "Gostivar",
+          "lat": 41.8,
+          "lng": 20.91666667,
+          "order_index": 0,
+          "description": "Gostivar — a notable landmark in Gostivar, North Macedonia.",
+          "seo_phrase": "Gostivar",
+          "seo_keywords": [
+            "Gostivar",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "4d/Church Gostivar Macedonia.jpg/800px-Church Gostivar Macedonia.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Church_Gostivar_Macedonia.jpg/800px-Church_Gostivar_Macedonia.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Skopska Crna Gora",
+          "wiki_title": "Skopska Crna Gora",
+          "lat": 42.19,
+          "lng": 21.44,
+          "order_index": 1,
+          "description": "Skopska Crna Gora — a notable landmark in Gostivar, North Macedonia.",
+          "seo_phrase": "Skopska Crna Gora",
+          "seo_keywords": [
+            "Gostivar",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "bf/Skopska Crna Gora-MKD.JPG/800px-Skopska Crna Gora-MKD.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Skopska_Crna_Gora-MKD.JPG/800px-Skopska_Crna_Gora-MKD.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Tetovo",
+          "wiki_title": "Tetovo",
+          "lat": 42,
+          "lng": 20.96666667,
+          "order_index": 2,
+          "description": "Tetovo — a notable landmark in Gostivar, North Macedonia.",
+          "seo_phrase": "Tetovo",
+          "seo_keywords": [
+            "Gostivar",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "e2/20090715 Tetovo view from the mountain.jpg/800px-20090715 Tetovo view from the mountain.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20090715_Tetovo_view_from_the_mountain.jpg/800px-20090715_Tetovo_view_from_the_mountain.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Kičevo",
+          "wiki_title": "Kičevo",
+          "lat": 41.51777778,
+          "lng": 20.96555556,
+          "order_index": 3,
+          "description": "Kičevo — a notable landmark in Gostivar, North Macedonia.",
+          "seo_phrase": "Kičevo",
+          "seo_keywords": [
+            "Gostivar",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "b1/Kicevo 11-08-2006.jpg/800px-Kicevo 11-08-2006.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kicevo_11-08-2006.jpg/800px-Kicevo_11-08-2006.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Debar",
+          "wiki_title": "Debar",
+          "lat": 41.51666667,
+          "lng": 20.53333333,
+          "order_index": 4,
+          "description": "Debar — a notable landmark in Gostivar, North Macedonia.",
+          "seo_phrase": "Debar",
+          "seo_keywords": [
+            "Gostivar",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "93/Debar.jpg/800px-Debar.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Debar.jpg/800px-Debar.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Saint Jovan Bigorski Monastery",
+          "wiki_title": "Saint Jovan Bigorski Monastery",
+          "lat": 41.62194444,
+          "lng": 20.61166667,
+          "order_index": 5,
+          "description": "Saint Jovan Bigorski Monastery — a notable landmark in Gostivar, North Macedonia.",
+          "seo_phrase": "Saint Jovan Bigorski Monastery",
+          "seo_keywords": [
+            "Gostivar",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "32/Панорама на Бигорски Манастир.jpg/800px-Панорама на Бигорски Манастир.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0_%D0%BD%D0%B0_%D0%91%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8_%D0%9C%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80.jpg/800px-%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0_%D0%BD%D0%B0_%D0%91%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8_%D0%9C%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Mavrovo Lake",
+          "wiki_title": "Mavrovo Lake",
+          "lat": 41.68,
+          "lng": 20.75,
+          "order_index": 6,
+          "description": "Mavrovo Lake — a notable landmark in Gostivar, North Macedonia.",
+          "seo_phrase": "Mavrovo Lake",
+          "seo_keywords": [
+            "Gostivar",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "8a/20090714 Mavrovo panoramic summer.jpg/800px-20090714 Mavrovo panoramic summer.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/20090714_Mavrovo_panoramic_summer.jpg/800px-20090714_Mavrovo_panoramic_summer.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": []
+        },
+        {
+          "name": "Lešok Monastery",
+          "wiki_title": "Lešok Monastery",
+          "lat": 42.06388889,
+          "lng": 21.03277778,
+          "order_index": 7,
+          "description": "Lešok Monastery — a notable landmark in Gostivar, North Macedonia.",
+          "seo_phrase": "Lešok Monastery",
+          "seo_keywords": [
+            "Gostivar",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "dc/Lešočki na esen (4).JPG/800px-Lešočki na esen (4).JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Le%C5%A1o%C4%8Dki_na_esen_%284%29.JPG/800px-Le%C5%A1o%C4%8Dki_na_esen_%284%29.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Mavrovi Anovi",
+          "wiki_title": "Mavrovi Anovi",
+          "lat": 41.7,
+          "lng": 20.75,
+          "order_index": 8,
+          "description": "Mavrovi Anovi — a notable landmark in Gostivar, North Macedonia.",
+          "seo_phrase": "Mavrovi Anovi",
+          "seo_keywords": [
+            "Gostivar",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "01/Iglesia de San Cirilo y Metodio, Mavrovi Anovi, lago Mavrovo, Macedonia, 2014-04-17, DD 01.JPG/800px-Iglesia de San Cirilo y Metodio, Mavrovi Anovi, lago Mavrovo, Macedonia, 2014-04-17, DD 01.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Iglesia_de_San_Cirilo_y_Metodio%2C_Mavrovi_Anovi%2C_lago_Mavrovo%2C_Macedonia%2C_2014-04-17%2C_DD_01.JPG/800px-Iglesia_de_San_Cirilo_y_Metodio%2C_Mavrovi_Anovi%2C_lago_Mavrovo%2C_Macedonia%2C_2014-04-17%2C_DD_01.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "St. Peter's Church (Kajmakčalan)",
+          "wiki_title": "St. Peter's Church (Kajmakčalan)",
+          "lat": 40.93055556,
+          "lng": 21.78611111,
+          "order_index": 9,
+          "description": "St. Peter's Church (Kajmakčalan) — a notable landmark in Gostivar, North Macedonia.",
+          "seo_phrase": "St. Peter's Church (Kajmakčalan)",
+          "seo_keywords": [
+            "Gostivar",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "5d/Serbian chapel on Kajmakčalan (2521m).jpg/800px-Serbian chapel on Kajmakčalan (2521m).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Serbian_chapel_on_Kajmak%C4%8Dalan_%282521m%29.jpg/800px-Serbian_chapel_on_Kajmak%C4%8Dalan_%282521m%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Veles",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Veles",
+      "seo": {
+        "title": "Top 10 Things to Do in Veles, North Macedonia",
+        "description": "Discover 10 must-see landmarks in Veles, North Macedonia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Veles? Explore the best places to visit in Veles, North Macedonia.",
+        "keywords": [
+          "things to do in Veles",
+          "Veles North Macedonia travel guide",
+          "best places to visit in Veles",
+          "Veles landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Štip",
+          "wiki_title": "Štip",
+          "lat": 41.73750278,
+          "lng": 22.19355833,
+          "order_index": 0,
+          "description": "Štip — a notable landmark in Veles, North Macedonia.",
+          "seo_phrase": "Štip",
+          "seo_keywords": [
+            "Veles",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "e9/Štip 23.JPG/800px-Štip 23.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/%C5%A0tip_23.JPG/800px-%C5%A0tip_23.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Tauresium",
+          "wiki_title": "Tauresium",
+          "lat": 41.89805556,
+          "lng": 21.61138889,
+          "order_index": 1,
+          "description": "Tauresium — a notable landmark in Veles, North Macedonia.",
+          "seo_phrase": "Tauresium",
+          "seo_keywords": [
+            "Veles",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "f7/Tauresium, Macedonia2.JPG/800px-Tauresium, Macedonia2.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Tauresium%2C_Macedonia2.JPG/800px-Tauresium%2C_Macedonia2.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Kilkis",
+          "wiki_title": "Kilkis",
+          "lat": 40.9937,
+          "lng": 22.875,
+          "order_index": 2,
+          "description": "Kilkis — a notable landmark in Veles, North Macedonia.",
+          "seo_phrase": "Kilkis",
+          "seo_keywords": [
+            "Veles",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "00/White Kilkis.jpg/800px-White Kilkis.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/White_Kilkis.jpg/800px-White_Kilkis.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Battle of Krivolak",
+          "wiki_title": "Battle of Krivolak",
+          "lat": 41.5272,
+          "lng": 22.1208,
+          "order_index": 3,
+          "description": "Battle of Krivolak — a notable landmark in Veles, North Macedonia.",
+          "seo_phrase": "Battle of Krivolak",
+          "seo_keywords": [
+            "Veles",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "7a/French soldiers-salonika-1915.jpg/800px-French soldiers-salonika-1915.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/French_soldiers-salonika-1915.jpg/800px-French_soldiers-salonika-1915.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Transportation Center Skopje",
+          "wiki_title": "Transportation Center Skopje",
+          "lat": 41.9909,
+          "lng": 21.4465,
+          "order_index": 4,
+          "description": "Transportation Center Skopje — a notable landmark in Veles, North Macedonia.",
+          "seo_phrase": "Transportation Center Skopje",
+          "seo_keywords": [
+            "Veles",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "Skopje Train Station from Mount Vodno.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Skopje_Train_Station_from_Mount_Vodno.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Veles railway station",
+          "wiki_title": "Veles railway station",
+          "lat": 41.724019,
+          "lng": 21.769295,
+          "order_index": 5,
+          "description": "Veles railway station — a notable landmark in Veles, North Macedonia.",
+          "seo_phrase": "Veles railway station",
+          "seo_keywords": [
+            "Veles",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "ab/Железничката станица во Велес 2.JPG/800px-Железничката станица во Велес 2.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%B8%D1%87%D0%BA%D0%B0%D1%82%D0%B0_%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_%D0%B2%D0%BE_%D0%92%D0%B5%D0%BB%D0%B5%D1%81_2.JPG/800px-%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%B8%D1%87%D0%BA%D0%B0%D1%82%D0%B0_%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_%D0%B2%D0%BE_%D0%92%D0%B5%D0%BB%D0%B5%D1%81_2.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Veles",
+          "wiki_title": "Veles, North Macedonia",
+          "lat": 41.72,
+          "lng": 21.79333333,
+          "order_index": 6,
+          "description": "Veles, North Macedonia — a notable landmark in Veles, North Macedonia.",
+          "seo_phrase": "Veles",
+          "seo_keywords": [
+            "Veles",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "e9/Veles X17.jpg/800px-Veles X17.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Veles_X17.jpg/800px-Veles_X17.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Prilep",
+          "wiki_title": "Prilep",
+          "lat": 41.34444444,
+          "lng": 21.55277778,
+          "order_index": 7,
+          "description": "Prilep — a notable landmark in Veles, North Macedonia.",
+          "seo_phrase": "Prilep",
+          "seo_keywords": [
+            "Veles",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "bb/Panorama of Prilep, 2019.jpg/800px-Panorama of Prilep, 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Panorama_of_Prilep%2C_2019.jpg/800px-Panorama_of_Prilep%2C_2019.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Vardar",
+          "wiki_title": "Vardar",
+          "lat": 41.94083333,
+          "lng": 22.7175,
+          "order_index": 8,
+          "description": "Vardar — a notable landmark in Veles, North Macedonia.",
+          "seo_phrase": "Vardar",
+          "seo_keywords": [
+            "Veles",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "8d/Vardar Skopje 2.jpg/800px-Vardar Skopje 2.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Vardar_Skopje_2.jpg/800px-Vardar_Skopje_2.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Kumanovo",
+          "wiki_title": "Kumanovo",
+          "lat": 42.13583333,
+          "lng": 21.71805556,
+          "order_index": 9,
+          "description": "Kumanovo — a notable landmark in Veles, North Macedonia.",
+          "seo_phrase": "Kumanovo",
+          "seo_keywords": [
+            "Veles",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "20/Куманово.jpg/800px-Куманово.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%D0%9A%D1%83%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE.jpg/800px-%D0%9A%D1%83%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Vinica",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Vinica",
+      "seo": {
+        "title": "Top 10 Things to Do in Vinica, North Macedonia",
+        "description": "Discover 10 must-see landmarks in Vinica, North Macedonia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Vinica? Explore the best places to visit in Vinica, North Macedonia.",
+        "keywords": [
+          "things to do in Vinica",
+          "Vinica North Macedonia travel guide",
+          "best places to visit in Vinica",
+          "Vinica landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Viničko Kale",
+          "wiki_title": "Viničko Kale",
+          "lat": 41.87777778,
+          "lng": 22.50222222,
+          "order_index": 0,
+          "description": "Viničko Kale — a notable landmark in Vinica, North Macedonia.",
+          "seo_phrase": "Viničko Kale",
+          "seo_keywords": [
+            "Vinica",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "22/Виничка тврдина 1.JPG/800px-Виничка тврдина 1.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/%D0%92%D0%B8%D0%BD%D0%B8%D1%87%D0%BA%D0%B0_%D1%82%D0%B2%D1%80%D0%B4%D0%B8%D0%BD%D0%B0_1.JPG/800px-%D0%92%D0%B8%D0%BD%D0%B8%D1%87%D0%BA%D0%B0_%D1%82%D0%B2%D1%80%D0%B4%D0%B8%D0%BD%D0%B0_1.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Vinica",
+          "wiki_title": "Vinica, North Macedonia",
+          "lat": 41.86666667,
+          "lng": 22.5,
+          "order_index": 1,
+          "description": "Vinica, North Macedonia — a notable landmark in Vinica, North Macedonia.",
+          "seo_phrase": "Vinica",
+          "seo_keywords": [
+            "Vinica",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "37/Makedonij.JPG/800px-Makedonij.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Makedonij.JPG/800px-Makedonij.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Delčevo",
+          "wiki_title": "Delčevo",
+          "lat": 41.96666667,
+          "lng": 22.76666667,
+          "order_index": 2,
+          "description": "Delčevo — a notable landmark in Vinica, North Macedonia.",
+          "seo_phrase": "Delčevo",
+          "seo_keywords": [
+            "Vinica",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "96/Grad Delcevo.JPG/800px-Grad Delcevo.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Grad_Delcevo.JPG/800px-Grad_Delcevo.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Jakimovo",
+          "wiki_title": "Jakimovo, Vinica",
+          "lat": 41.899362,
+          "lng": 22.511948,
+          "order_index": 3,
+          "description": "Jakimovo, Vinica — a notable landmark in Vinica, North Macedonia.",
+          "seo_phrase": "Jakimovo",
+          "seo_keywords": [
+            "Vinica",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "2b/Јакимово 2006.JPG/800px-Јакимово 2006.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%D0%88%D0%B0%D0%BA%D0%B8%D0%BC%D0%BE%D0%B2%D0%BE_2006.JPG/800px-%D0%88%D0%B0%D0%BA%D0%B8%D0%BC%D0%BE%D0%B2%D0%BE_2006.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Bargala",
+          "wiki_title": "Bargala",
+          "lat": 41.79861111,
+          "lng": 22.29,
+          "order_index": 4,
+          "description": "Bargala — a notable landmark in Vinica, North Macedonia.",
+          "seo_phrase": "Bargala",
+          "seo_keywords": [
+            "Vinica",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "c9/Bargala (7438552338).jpg/800px-Bargala (7438552338).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bargala_%287438552338%29.jpg/800px-Bargala_%287438552338%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Lake Prespa",
+          "wiki_title": "Lake Prespa",
+          "lat": 40.9,
+          "lng": 21.03333333,
+          "order_index": 5,
+          "description": "Lake Prespa — a notable landmark in North Macedonia, North Macedonia.",
+          "seo_phrase": "Lake Prespa",
+          "seo_keywords": [
+            "North Macedonia",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "5f/Liqeni Prespes. Ishulli Mali Gradit. Korce. Albania.jpg/800px-Liqeni Prespes. Ishulli Mali Gradit. Korce. Albania.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Liqeni_Prespes._Ishulli_Mali_Gradit._Korce._Albania.jpg/800px-Liqeni_Prespes._Ishulli_Mali_Gradit._Korce._Albania.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": []
+        },
+        {
+          "name": "Prosek",
+          "wiki_title": "Prosek, North Macedonia",
+          "lat": 41.4008,
+          "lng": 22.2634,
+          "order_index": 6,
+          "description": "Prosek, North Macedonia — a notable landmark in North Macedonia, North Macedonia.",
+          "seo_phrase": "Prosek",
+          "seo_keywords": [
+            "North Macedonia",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "32/Prosek.png/800px-Prosek.png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Prosek.png/800px-Prosek.png",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Museum of the Republic of North Macedonia",
+          "wiki_title": "Museum of the Republic of North Macedonia",
+          "lat": 42.0025,
+          "lng": 21.43583333,
+          "order_index": 7,
+          "description": "Museum of the Republic of North Macedonia — a notable landmark in North Macedonia, North Macedonia.",
+          "seo_phrase": "Museum of the Republic of North Macedonia",
+          "seo_keywords": [
+            "North Macedonia",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "89/Museum of Macedonia 1.jpg/800px-Museum of Macedonia 1.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Museum_of_Macedonia_1.jpg/800px-Museum_of_Macedonia_1.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "National Gallery (North Macedonia)",
+          "wiki_title": "National Gallery (North Macedonia)",
+          "lat": 41.9986,
+          "lng": 21.4356,
+          "order_index": 8,
+          "description": "National Gallery (North Macedonia) — a notable landmark in North Macedonia, North Macedonia.",
+          "seo_phrase": "National Gallery (North Macedonia)",
+          "seo_keywords": [
+            "North Macedonia",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "58/Daut Pasha Hamam.jpg/800px-Daut Pasha Hamam.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Daut_Pasha_Hamam.jpg/800px-Daut_Pasha_Hamam.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Mogila",
+          "wiki_title": "Mogila, North Macedonia",
+          "lat": 41.10805556,
+          "lng": 21.37833333,
+          "order_index": 9,
+          "description": "Mogila, North Macedonia — a notable landmark in North Macedonia, North Macedonia.",
+          "seo_phrase": "Mogila",
+          "seo_keywords": [
+            "North Macedonia",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "68/Камбанарија Могила 09.JPG/800px-Камбанарија Могила 09.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/%D0%9A%D0%B0%D0%BC%D0%B1%D0%B0%D0%BD%D0%B0%D1%80%D0%B8%D1%98%D0%B0_%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D0%B0_09.JPG/800px-%D0%9A%D0%B0%D0%BC%D0%B1%D0%B0%D0%BD%D0%B0%D1%80%D0%B8%D1%98%D0%B0_%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D0%B0_09.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Tetovo",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Tetovo",
+      "seo": {
+        "title": "Top 10 Things to Do in Tetovo, North Macedonia",
+        "description": "Discover 10 must-see landmarks in Tetovo, North Macedonia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Tetovo? Explore the best places to visit in Tetovo, North Macedonia.",
+        "keywords": [
+          "things to do in Tetovo",
+          "Tetovo North Macedonia travel guide",
+          "best places to visit in Tetovo",
+          "Tetovo landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Resen",
+          "wiki_title": "Resen, North Macedonia",
+          "lat": 41.08888889,
+          "lng": 21.01222222,
+          "order_index": 0,
+          "description": "Resen, North Macedonia — a notable landmark in North Macedonia, North Macedonia.",
+          "seo_phrase": "Resen",
+          "seo_keywords": [
+            "North Macedonia",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "85/Resen-19.jpg/800px-Resen-19.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Resen-19.jpg/800px-Resen-19.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Kratovo",
+          "wiki_title": "Kratovo, North Macedonia",
+          "lat": 42.06666667,
+          "lng": 22.18333333,
+          "order_index": 1,
+          "description": "Kratovo, North Macedonia — a notable landmark in North Macedonia, North Macedonia.",
+          "seo_phrase": "Kratovo",
+          "seo_keywords": [
+            "North Macedonia",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "b7/Kratovo-panorama.jpg/800px-Kratovo-panorama.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kratovo-panorama.jpg/800px-Kratovo-panorama.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Heraclea Lyncestis",
+          "wiki_title": "Heraclea Lyncestis",
+          "lat": 41.01083333,
+          "lng": 21.3425,
+          "order_index": 2,
+          "description": "Heraclea Lyncestis — a notable landmark in North Macedonia, North Macedonia.",
+          "seo_phrase": "Heraclea Lyncestis",
+          "seo_keywords": [
+            "North Macedonia",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "Ancientbitola.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ancientbitola.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Stobi",
+          "wiki_title": "Stobi",
+          "lat": 41.55166667,
+          "lng": 21.975,
+          "order_index": 3,
+          "description": "Stobi — a notable landmark in North Macedonia, North Macedonia.",
+          "seo_phrase": "Stobi",
+          "seo_keywords": [
+            "North Macedonia",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "Stobi aerial.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Stobi_aerial.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Assembly of North Macedonia",
+          "wiki_title": "Assembly of North Macedonia",
+          "lat": 41.99269444,
+          "lng": 21.43247222,
+          "order_index": 4,
+          "description": "Assembly of North Macedonia — a notable landmark in North Macedonia, North Macedonia.",
+          "seo_phrase": "Assembly of North Macedonia",
+          "seo_keywords": [
+            "North Macedonia",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "Лого на Собрание на Северна Македонија.png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/%D0%9B%D0%BE%D0%B3%D0%BE_%D0%BD%D0%B0_%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%98%D0%B0.png",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Memorial House of Mother Teresa",
+          "wiki_title": "Memorial House of Mother Teresa",
+          "lat": 41.99381,
+          "lng": 21.43084,
+          "order_index": 5,
+          "description": "Memorial House of Mother Teresa — a notable landmark in North Macedonia, North Macedonia.",
+          "seo_phrase": "Memorial House of Mother Teresa",
+          "seo_keywords": [
+            "North Macedonia",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "e2/Memorial House of Mother Teresa.jpg/800px-Memorial House of Mother Teresa.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Memorial_House_of_Mother_Teresa.jpg/800px-Memorial_House_of_Mother_Teresa.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Sobranie Palace",
+          "wiki_title": "Sobranie Palace",
+          "lat": 41.99269444,
+          "lng": 21.43247222,
+          "order_index": 6,
+          "description": "Sobranie Palace — a notable landmark in North Macedonia, North Macedonia.",
+          "seo_phrase": "Sobranie Palace",
+          "seo_keywords": [
+            "North Macedonia",
+            "North Macedonia",
+            "travel"
+          ],
+          "commons_file": "38/Skopje, Macedonia (17106382131).jpg/800px-Skopje, Macedonia (17106382131).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Skopje%2C_Macedonia_%2817106382131%29.jpg/800px-Skopje%2C_Macedonia_%2817106382131%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Feudal Tower",
+          "wiki_title": "Feudal Tower (Skopje)",
+          "lat": 41.9944,
+          "lng": 21.4314,
+          "order_index": 7,
+          "description": "Историческа отбранителна кула от късния средновековен или османски период.",
+          "seo_phrase": "Феудална кула Скопие – Отбранителна средновековна архитектура",
+          "seo_keywords": [
+            "Феудална кула",
+            "Кула Скопие",
+            "средновековна архитектура",
+            "отбранителна кула"
+          ],
+          "commons_file": "Feudal Tower Skopje.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Feudal_Tower_Skopje.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Mother Teresa Memorial House",
+            "Macedonia Square"
+          ]
+        },
+        {
+          "name": "Painted Mosque",
+          "wiki_title": "Painted Mosque, Tetovo",
+          "lat": 42.0103,
+          "lng": 20.9714,
+          "order_index": 8,
+          "description": "Painted Mosque — Tetovo, North Macedonia.",
+          "seo_phrase": "Painted Mosque",
+          "seo_keywords": [
+            "Painted Mosque",
+            "Tetovo",
+            "North Macedonia"
+          ],
+          "commons_file": "Šarena Džamija, Tetovo.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Šarena_Džamija%2C_Tetovo.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Arabati Baba Tekke",
+          "wiki_title": "Arabati Baba Tek’e",
+          "lat": 42.0156,
+          "lng": 20.9639,
+          "order_index": 9,
+          "description": "Arabati Baba Tekke — Tetovo, North Macedonia.",
+          "seo_phrase": "Arabati Baba Tekke",
+          "seo_keywords": [
+            "Arabati Baba Tekke",
+            "Tetovo",
+            "North Macedonia"
+          ],
+          "commons_file": "Arabati Baba Tekke.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Arabati_Baba_Tekke.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Kumanovo",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Kumanovo",
+      "seo": {
+        "title": "Top 10 Things to Do in Kumanovo, North Macedonia",
+        "description": "Discover 10 must-see landmarks in Kumanovo, North Macedonia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Kumanovo? Explore the best places to visit in Kumanovo, North Macedonia.",
+        "keywords": [
+          "things to do in Kumanovo",
+          "Kumanovo North Macedonia travel guide",
+          "best places to visit in Kumanovo",
+          "Kumanovo landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Church of St. George Kumanovo",
+          "wiki_title": "Kumanovo",
+          "lat": 42.1322,
+          "lng": 21.7144,
+          "order_index": 0,
+          "description": "Church of St. George Kumanovo — Kumanovo, North Macedonia.",
+          "seo_phrase": "Church of St. George Kumanovo",
+          "seo_keywords": [
+            "Church of St. George Kumanovo",
+            "Kumanovo",
+            "North Macedonia"
+          ],
+          "commons_file": "Kumanovo City Hall.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Kumanovo_City_Hall.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Kosturnica Memorial",
+          "wiki_title": "Kosturnica Memorial",
+          "lat": 42.1278,
+          "lng": 21.7083,
+          "order_index": 1,
+          "description": "Kosturnica Memorial — Kumanovo, North Macedonia.",
+          "seo_phrase": "Kosturnica Memorial",
+          "seo_keywords": [
+            "Kosturnica Memorial",
+            "Kumanovo",
+            "North Macedonia"
+          ],
+          "commons_file": "Kosturnica Memorial.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Kosturnica_Memorial.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Prilep",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Prilep",
+      "seo": {
+        "title": "Top 10 Things to Do in Prilep, North Macedonia",
+        "description": "Discover 10 must-see landmarks in Prilep, North Macedonia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Prilep? Explore the best places to visit in Prilep, North Macedonia.",
+        "keywords": [
+          "things to do in Prilep",
+          "Prilep North Macedonia travel guide",
+          "best places to visit in Prilep",
+          "Prilep landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Treskavec Monastery",
+          "wiki_title": "Treskavec Monastery",
+          "lat": 41.3167,
+          "lng": 21.5833,
+          "order_index": 0,
+          "description": "Treskavec Monastery — Prilep, North Macedonia.",
+          "seo_phrase": "Treskavec Monastery",
+          "seo_keywords": [
+            "Treskavec Monastery",
+            "Prilep",
+            "North Macedonia"
+          ],
+          "commons_file": "Treskavec Monastery.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Treskavec_Monastery.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Markovi Kuli",
+          "wiki_title": "Markovi Kuli",
+          "lat": 41.3458,
+          "lng": 21.5536,
+          "order_index": 1,
+          "description": "Markovi Kuli — Prilep, North Macedonia.",
+          "seo_phrase": "Markovi Kuli",
+          "seo_keywords": [
+            "Markovi Kuli",
+            "Prilep",
+            "North Macedonia"
+          ],
+          "commons_file": "Panorama of Prilep, 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Panorama_of_Prilep%2C_2019.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Struga",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Struga",
+      "seo": {
+        "title": "Top 10 Things to Do in Struga, North Macedonia",
+        "description": "Discover 10 must-see landmarks in Struga, North Macedonia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Struga? Explore the best places to visit in Struga, North Macedonia.",
+        "keywords": [
+          "things to do in Struga",
+          "Struga North Macedonia travel guide",
+          "best places to visit in Struga",
+          "Struga landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Church of St. Sophia Struga",
+          "wiki_title": "Church of St. Sophia, Ohrid",
+          "lat": 41.1781,
+          "lng": 20.6786,
+          "order_index": 0,
+          "description": "Church of St. Sophia Struga — Struga, North Macedonia.",
+          "seo_phrase": "Church of St. Sophia Struga",
+          "seo_keywords": [
+            "Church of St. Sophia Struga",
+            "Struga",
+            "North Macedonia"
+          ],
+          "commons_file": "Sveta Sofija Ohrid.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Sveta_Sofija_Ohrid.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Black Drin River Springs",
+          "wiki_title": "Black Drin",
+          "lat": 41.1775,
+          "lng": 20.6778,
+          "order_index": 1,
+          "description": "Black Drin River Springs — Struga, North Macedonia.",
+          "seo_phrase": "Black Drin River Springs",
+          "seo_keywords": [
+            "Black Drin River Springs",
+            "Struga",
+            "North Macedonia"
+          ],
+          "commons_file": "Struga (North Macedonia).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Struga_%28North_Macedonia%29.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": []
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "North Macedonia Scenic Road Trip",
+    "subtitle": "Explore North Macedonia beyond the cities — nature, coastlines, and scenic routes.",
+    "wiki_title": "North Macedonia",
+    "hero_image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/KaleFortress-Skopje1.JPG",
+    "totalDays": 10,
+    "seo": {
+      "title": "North Macedonia Road Trip Adventure",
+      "description": "Plan a North Macedonia road trip with GPS stops and scenic routes.",
+      "intro": "Explore North Macedonia beyond the cities with this adventure route.",
+      "keywords": [
+        "North Macedonia road trip",
+        "North Macedonia by car"
+      ]
+    },
+    "places": [
+      {
+        "name": "Matka Canyon",
+        "wiki_title": "Matka Canyon",
+        "region": "Skopje Region",
+        "lat": 41.9511,
+        "lng": 21.2978,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Грандиозен каньон с тюркоазено езеро, средновековни манастири и дълбоки пещери.",
+        "seo_phrase": "Каньон Матка – Лодки, пещери и дива природа край Скопие",
+        "seo_keywords": [
+          "Каньон Матка",
+          "пещера Врело",
+          "каяк Матка",
+          "природа Скопие"
+        ],
+        "commons_file": "Canyon Matka 03.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Canyon_Matka_03.jpg",
+        "seo_priority": 100,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Kokino Megalithic Observatory",
+        "wiki_title": "Kokino",
+        "region": "Northeastern Region",
+        "lat": 42.2644,
+        "lng": 21.9536,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Древна археологическа и мегалитна астрономическа обсерватория на вулканичен връх.",
+        "seo_phrase": "Мегалитна обсерватория Кокино – Древно астрономическо светилище",
+        "seo_keywords": [
+          "Кокино обсерватория",
+          "мегалити Македония",
+          "древна астрономия",
+          "НАСА Кокино"
+        ],
+        "commons_file": "Megalithic Observatory Kokino.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Megalithic_Observatory_Kokino.jpg",
+        "seo_priority": 92,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Kuklica Stone Dolls",
+        "wiki_title": "Stone Town of Kuklica",
+        "region": "Northeastern Region",
+        "lat": 42.1228,
+        "lng": 22.0553,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Уникална геоморфоложка зона с над 120 естествено оформени каменни стълба.",
+        "seo_phrase": "Каменните кукли в Куклица – Природен феномен и легенди",
+        "seo_keywords": [
+          "Куклица каменни кукли",
+          "вкаменената сватба Кратово",
+          "скални феномени",
+          "природни забележителности"
+        ],
+        "commons_file": "Kameni Kukli Kuklica 02.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Kameni_Kukli_Kuklica_02.jpg",
+        "seo_priority": 90,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Smolare Waterfall",
+        "wiki_title": "Smolare Waterfall",
+        "region": "Southeastern Region",
+        "lat": 41.3761,
+        "lng": 22.9419,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Впечатляващ воден пад, разположен в северните склонове на планината Беласица.",
+        "seo_phrase": "Смоларски водопад – Най-високият постоянен водопад в страната",
+        "seo_keywords": [
+          "Смоларски водопад",
+          "водопади Беласица",
+          "най-висок водопад Македония",
+          "екопътеки"
+        ],
+        "commons_file": "Smolarski Vodopad 01.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Smolarski_Vodopad_01.jpg",
+        "seo_priority": 89,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Stone Bridge",
+        "wiki_title": "Stone Bridge (Skopje)",
+        "region": "Skopje",
+        "lat": 41.9969,
+        "lng": 21.4328,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Средновековен каменен мост в сърцето на Скопие, свързващ площада със Старата чаршия.",
+        "seo_phrase": "Каменният мост в Скопие – Историческата връзка през река Вардар",
+        "seo_keywords": [
+          "Каменен мост Скопие",
+          "забележителности Скопие",
+          "река Вардар мост",
+          "история на Скопие"
+        ],
+        "commons_file": "Skopje - Stone Bridge 02.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Skopje_-_Stone_Bridge_02.jpg",
+        "seo_priority": 98,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Skopje Fortress",
+        "wiki_title": "Skopje Fortress",
+        "region": "Skopje",
+        "lat": 41.9994,
+        "lng": 21.4336,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Древна крепост, разположена на най-високата точка в Скопие с изглед към река Вардар.",
+        "seo_phrase": "Крепост Кале Скопие – Панорамна история и древни стени",
+        "seo_keywords": [
+          "Крепост Кале",
+          "Скопие крепост",
+          "панорама Скопие",
+          "исторически места Македония"
+        ],
+        "commons_file": "Skopsko Kale in 2016.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Skopsko_Kale_in_2016.jpg",
+        "seo_priority": 95,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Old Bazaar",
+        "wiki_title": "Old Bazaar, Skopje",
+        "region": "Skopje",
+        "lat": 42.0003,
+        "lng": 21.4369,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Исторически търговски и културен квартал в Скопие с калдъръмени улици и занаятчии.",
+        "seo_phrase": "Старата скопска чаршия – Автентичен дух и пазари от османско време",
+        "seo_keywords": [
+          "Стара чаршия Скопие",
+          "турски пазар Скопие",
+          "занаяти Скопие",
+          "стария град"
+        ],
+        "commons_file": "Old Bazaar Skopje 01.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Old_Bazaar_Skopje_01.jpg",
+        "seo_priority": 97,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Macedonia Square",
+        "wiki_title": "Macedonia Square",
+        "region": "Skopje",
+        "lat": 41.9961,
+        "lng": 21.4317,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Най-големият и главен площад в Северна Македония, разположен до река Вардар.",
+        "seo_phrase": "Площад Македония Скопие – Сърцето на модерната столица",
+        "seo_keywords": [
+          "Площад Македония",
+          "център Скопие",
+          "паметник войн на кон",
+          "Скопие 2014"
+        ],
+        "commons_file": "Macedonia Square Skopje.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Macedonia_Square_Skopje.jpg",
+        "seo_priority": 94,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Porta Macedonia",
+        "wiki_title": "Porta Macedonia",
+        "region": "Skopje",
+        "lat": 41.9951,
+        "lng": 21.4325,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Триумфална арка, разположена близо до централния площад на Скопие.",
+        "seo_phrase": "Триумфална арка Порта Македония – Модерна градска архитектура",
+        "seo_keywords": [
+          "Порта Македония",
+          "триумфална арка Скопие",
+          "архитектура Скопие",
+          "нова история"
+        ],
+        "commons_file": "Porta Macedonia Skopje.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Porta_Macedonia_Skopje.jpg",
+        "seo_priority": 85,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Mother Teresa Memorial House",
+        "wiki_title": "Memorial House of Mother Teresa",
+        "region": "Skopje",
+        "lat": 41.9942,
+        "lng": 21.4319,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Мемориален комплекс и музей, посветен на хуманитарката Майка Тереза, родена в Скопие.",
+        "seo_phrase": "Спомен-къща на Майка Тереза – Духовно наследство в Скопие",
+        "seo_keywords": [
+          "Майка Тереза музей",
+          "Скопие Майка Тереза",
+          "мемориална къща Скопие",
+          "безплатен музей"
+        ],
+        "commons_file": "Spomen kukja Majka Tereza 01.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Spomen_kukja_Majka_Tereza_01.jpg",
+        "seo_priority": 93,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      }
+    ]
+  }
+}

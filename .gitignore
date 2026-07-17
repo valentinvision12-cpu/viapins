@@ -1,0 +1,77 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+.yarn/install-state.gz
+.npm-cache/
+.npm/
+.pnpm-store/
+
+# Next.js / build
+.next/
+out/
+build/
+dist/
+coverage/
+.turbo/
+.vercel/
+
+# Env & secrets
+.env
+.env.*
+!.env.example
+!.env.local.example
+
+# Logs & local run artifacts
+*.log
+*.log.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+audit-out.txt
+tmp-*.log
+*-run.log
+*-import.log
+*-ingest.log
+*-reingest.log
+*-fix.log
+*-fix2.log
+pipeline-*.txt
+gap-fill-*.txt
+fix-incomplete-log.txt
+complete-microstates-log.txt
+finish-phase1.log
+retry-phase1.log
+batch-import*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# TypeScript / tooling
+*.tsbuildinfo
+next-env.d.ts
+
+# Certificates / keys
+*.pem
+*.key
+
+# Supabase local
+.supabase/
+
+# Data-generator local output/cache
+data-generator/node_modules/
+data-generator/cache/
+data-generator/output/
+data-generator/.env
+
+# Misc local scratch
+tmp/
+temp/
+.cache/

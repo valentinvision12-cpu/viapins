@@ -1,0 +1,4129 @@
+{
+  "version": 2,
+  "country": "Croatia",
+  "published": true,
+  "cities": [
+    {
+      "city": "Zagreb",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "religious",
+        "history"
+      ],
+      "wiki_title": "Zagreb",
+      "seo": {
+        "title": "Zagreb, Croatia travel guide",
+        "description": "Explore Zagreb with city breaks, museums, parks, and historic upper-town streets.",
+        "intro": "Croatia's capital with a strong mix of museums, history, and everyday city life.",
+        "keywords": [
+          "things to do in Zagreb Croatia",
+          "best Zagreb city break itinerary",
+          "Zagreb travel guide",
+          "Zagreb museums and old town"
+        ]
+      },
+      "places": [
+        {
+          "name": "St. Mark's Church",
+          "wiki_title": "St. Mark's Church, Zagreb",
+          "lat": 45.8136,
+          "lng": 15.9731,
+          "order_index": 0,
+          "seo_phrase": "St. Mark's Church in Zagreb, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Zagreb",
+            "St. Mark's Church",
+            "Croatia",
+            "historic skyline and religious heritage",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "St Marks Church.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/St_Marks_Church.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Zagreb Cathedral",
+            "Ban Jelačić Square"
+          ]
+        },
+        {
+          "name": "Zagreb Cathedral",
+          "wiki_title": "Zagreb Cathedral",
+          "lat": 45.8149,
+          "lng": 15.978,
+          "order_index": 1,
+          "seo_phrase": "Zagreb Cathedral in Zagreb, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Zagreb",
+            "Zagreb Cathedral",
+            "Croatia",
+            "historic skyline and religious heritage",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Zagreb Cathedral.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zagreb_Cathedral.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Ban Jelačić Square",
+            "St. Mark's Church"
+          ]
+        },
+        {
+          "name": "Dolac Market",
+          "wiki_title": "Dolac Market",
+          "lat": 45.8131,
+          "lng": 15.9782,
+          "order_index": 2,
+          "seo_phrase": "Dolac Market in Zagreb, Croatia",
+          "seo_keywords": [
+            "Zagreb",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Ban Jelačić Square",
+            "Lotrščak Tower",
+            "Zagreb Cathedral"
+          ],
+          "description": "Dolac is Zagreb’s open-air market at the foot of the upper town, famous for red umbrellas, local produce, and everyday city life."
+        },
+        {
+          "name": "Ban Jelačić Square",
+          "wiki_title": "Ban Jelačić Square",
+          "lat": 45.8129,
+          "lng": 15.9779,
+          "order_index": 3,
+          "seo_phrase": "Ban Jelačić Square in Zagreb, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Zagreb",
+            "Ban Jelačić Square",
+            "Croatia",
+            "local life, cafés, and easy orientation",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Ban Jelacic Square.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ban_Jelacic_Square.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Lotrščak Tower",
+            "Zagreb Funicular"
+          ]
+        },
+        {
+          "name": "Lotrščak Tower",
+          "wiki_title": "Lotrščak Tower",
+          "lat": 45.8138,
+          "lng": 15.9729,
+          "order_index": 4,
+          "seo_phrase": "Lotrščak Tower in Zagreb, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Zagreb",
+            "Lotrščak Tower",
+            "Croatia",
+            "defensive history and high viewpoints",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Lotrscak Tower.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lotrscak_Tower.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Zagreb Funicular",
+            "Croatian National Theatre in Zagreb",
+            "Ban Jelačić Square"
+          ]
+        },
+        {
+          "name": "Zagreb Funicular",
+          "wiki_title": "Zagreb Funicular",
+          "lat": 45.8142,
+          "lng": 15.9726,
+          "order_index": 5,
+          "seo_phrase": "Zagreb Funicular in Zagreb, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Zagreb",
+            "Zagreb Funicular",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Zagreb Funicular.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zagreb_Funicular.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Croatian National Theatre in Zagreb",
+            "Museum of Broken Relationships",
+            "Lotrščak Tower"
+          ]
+        },
+        {
+          "name": "Croatian National Theatre in Zagreb",
+          "wiki_title": "Croatian National Theatre in Zagreb",
+          "lat": 45.8097,
+          "lng": 15.967,
+          "order_index": 6,
+          "seo_phrase": "Croatian National Theatre in Zagreb in Zagreb, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Zagreb",
+            "Croatian National Theatre in Zagreb",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Croatian National Theatre in Zagreb.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Croatian_National_Theatre_in_Zagreb.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Museum of Broken Relationships",
+            "Maksimir Park",
+            "Zagreb Funicular"
+          ]
+        },
+        {
+          "name": "Museum of Broken Relationships",
+          "wiki_title": "Museum of Broken Relationships",
+          "lat": 45.8141,
+          "lng": 15.9727,
+          "order_index": 7,
+          "seo_phrase": "Museum of Broken Relationships in Zagreb, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Zagreb",
+            "Museum of Broken Relationships",
+            "Croatia",
+            "curated collections and rainy-day sightseeing",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Museum of Broken Relationships.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Museum_of_Broken_Relationships.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Maksimir Park",
+            "Upper Town",
+            "Croatian National Theatre in Zagreb"
+          ]
+        },
+        {
+          "name": "Maksimir Park",
+          "wiki_title": "Maksimir Park",
+          "lat": 45.8246,
+          "lng": 16.0195,
+          "order_index": 8,
+          "seo_phrase": "Maksimir Park in Zagreb, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Zagreb",
+            "Maksimir Park",
+            "Croatia",
+            "green space and relaxed pacing",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Maksimir Park.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maksimir_Park.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Upper Town",
+            "Museum of Broken Relationships",
+            "Croatian National Theatre in Zagreb"
+          ]
+        },
+        {
+          "name": "Upper Town",
+          "wiki_title": "Upper Town, Zagreb",
+          "lat": 45.814,
+          "lng": 15.973,
+          "order_index": 9,
+          "seo_phrase": "Upper Town in Zagreb, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Zagreb",
+            "Upper Town",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Upper Town.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Upper_Town.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Maksimir Park",
+            "Museum of Broken Relationships"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Split",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "history",
+        "religious",
+        "culture"
+      ],
+      "wiki_title": "Split, Croatia",
+      "seo": {
+        "title": "Split, Croatia travel guide",
+        "description": "Plan a Split city break around the palace, seafront, and coastal views.",
+        "intro": "Dalmatia's main city with Roman layers and Adriatic energy.",
+        "keywords": [
+          "things to do in Split Croatia",
+          "Split old town guide",
+          "Split travel itinerary",
+          "best time to visit Split"
+        ]
+      },
+      "places": [
+        {
+          "name": "Diocletian's Palace",
+          "wiki_title": "Diocletian's Palace",
+          "lat": 43.508,
+          "lng": 16.44,
+          "order_index": 0,
+          "seo_phrase": "Diocletian's Palace in Split, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Split",
+            "Diocletian's Palace",
+            "Croatia",
+            "historic fortification and strong views",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Diocletians Palace.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Diocletians_Palace.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Cathedral of Saint Domnius",
+            "Peristil",
+            "Gregory of Nin"
+          ]
+        },
+        {
+          "name": "Cathedral of Saint Domnius",
+          "wiki_title": "Cathedral of Saint Domnius",
+          "lat": 43.5083,
+          "lng": 16.4406,
+          "order_index": 1,
+          "seo_phrase": "Cathedral of Saint Domnius in Split, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Split",
+            "Cathedral of Saint Domnius",
+            "Croatia",
+            "historic skyline and religious heritage",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Cathedral of Saint Domnius.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cathedral_of_Saint_Domnius.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Peristil",
+            "Gregory of Nin",
+            "Diocletian's Palace"
+          ]
+        },
+        {
+          "name": "Peristil",
+          "wiki_title": "Peristyle of Diocletian's Palace",
+          "lat": 43.5081,
+          "lng": 16.4407,
+          "order_index": 2,
+          "seo_phrase": "Peristil in Split, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Split",
+            "Peristil",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Peristil.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Peristil.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Gregory of Nin",
+            "Riva",
+            "Cathedral of Saint Domnius"
+          ]
+        },
+        {
+          "name": "Gregory of Nin",
+          "wiki_title": "Gregory of Nin",
+          "lat": 43.5087,
+          "lng": 16.4409,
+          "order_index": 3,
+          "seo_phrase": "Gregory of Nin in Split, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Split",
+            "Gregory of Nin",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Gregory of Nin.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gregory_of_Nin.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Riva",
+            "Marjan Hill",
+            "Peristil"
+          ]
+        },
+        {
+          "name": "Riva",
+          "wiki_title": "Riva (Split)",
+          "lat": 43.5079,
+          "lng": 16.438,
+          "order_index": 4,
+          "seo_phrase": "Riva in Split, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Split",
+            "Riva",
+            "Croatia",
+            "local life, cafés, and easy orientation",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Riva.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Riva.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Marjan Hill",
+            "Meštrović Gallery",
+            "Gregory of Nin"
+          ]
+        },
+        {
+          "name": "Marjan Hill",
+          "wiki_title": "Marjan (hill)",
+          "lat": 43.5147,
+          "lng": 16.4144,
+          "order_index": 5,
+          "seo_phrase": "Marjan Hill in Split, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Split",
+            "Marjan Hill",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Marjan Hill.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marjan_Hill.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Meštrović Gallery",
+            "Bacvice Beach",
+            "Riva"
+          ]
+        },
+        {
+          "name": "Meštrović Gallery",
+          "wiki_title": "Meštrović Gallery",
+          "lat": 43.511,
+          "lng": 16.419,
+          "order_index": 6,
+          "seo_phrase": "Meštrović Gallery in Split, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Split",
+            "Meštrović Gallery",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Mestrovic Gallery.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mestrovic_Gallery.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Bacvice Beach",
+            "Golden Gate",
+            "Marjan Hill"
+          ]
+        },
+        {
+          "name": "Bacvice Beach",
+          "wiki_title": "Bačvice",
+          "lat": 43.5038,
+          "lng": 16.4465,
+          "order_index": 7,
+          "seo_phrase": "Bacvice Beach in Split, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Split",
+            "Bacvice Beach",
+            "Croatia",
+            "coastal downtime and summer atmosphere",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Bacvice Beach.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bacvice_Beach.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Golden Gate",
+            "Split City Museum",
+            "Meštrović Gallery"
+          ]
+        },
+        {
+          "name": "Golden Gate",
+          "wiki_title": "Golden Gate, Split",
+          "lat": 43.5084,
+          "lng": 16.4397,
+          "order_index": 8,
+          "seo_phrase": "Golden Gate in Split, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Split",
+            "Golden Gate",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Golden Gate.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Golden_Gate.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Split City Museum",
+            "Bacvice Beach",
+            "Meštrović Gallery"
+          ]
+        },
+        {
+          "name": "Split City Museum",
+          "wiki_title": "Split City Museum",
+          "lat": 43.508,
+          "lng": 16.4408,
+          "order_index": 9,
+          "seo_phrase": "Split City Museum in Split, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Split",
+            "Split City Museum",
+            "Croatia",
+            "curated collections and rainy-day sightseeing",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Split City Museum.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Split_City_Museum.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Golden Gate",
+            "Bacvice Beach"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Dubrovnik",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "history",
+        "religious"
+      ],
+      "wiki_title": "Dubrovnik",
+      "seo": {
+        "title": "Dubrovnik, Croatia travel guide",
+        "description": "Discover Dubrovnik's walls, old town, and Adriatic viewpoints.",
+        "intro": "A walled Adriatic city famous for medieval streets and sea views.",
+        "keywords": [
+          "things to do in Dubrovnik Croatia",
+          "Dubrovnik old town guide",
+          "Dubrovnik walls travel tips",
+          "best viewpoints in Dubrovnik"
+        ]
+      },
+      "places": [
+        {
+          "name": "Walls of Dubrovnik",
+          "wiki_title": "Walls of Dubrovnik",
+          "lat": 42.64,
+          "lng": 18.108,
+          "order_index": 0,
+          "seo_phrase": "Walls of Dubrovnik in Dubrovnik, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Dubrovnik",
+            "Walls of Dubrovnik",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Walls of Dubrovnik.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Walls_of_Dubrovnik.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Stradun",
+            "Rector's Palace",
+            "Sponza Palace"
+          ]
+        },
+        {
+          "name": "Stradun",
+          "wiki_title": "Stradun",
+          "lat": 42.6402,
+          "lng": 18.1084,
+          "order_index": 1,
+          "seo_phrase": "Stradun in Dubrovnik, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Dubrovnik",
+            "Stradun",
+            "Croatia",
+            "local life, cafés, and easy orientation",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Stradun.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stradun.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Rector's Palace",
+            "Sponza Palace",
+            "Walls of Dubrovnik"
+          ]
+        },
+        {
+          "name": "Rector's Palace",
+          "wiki_title": "Rector's Palace, Dubrovnik",
+          "lat": 42.6406,
+          "lng": 18.1091,
+          "order_index": 2,
+          "seo_phrase": "Rector's Palace in Dubrovnik, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Dubrovnik",
+            "Rector's Palace",
+            "Croatia",
+            "historic fortification and strong views",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Rectors Palace.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rectors_Palace.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Sponza Palace",
+            "Fort Lovrijenac",
+            "Stradun"
+          ]
+        },
+        {
+          "name": "Sponza Palace",
+          "wiki_title": "Sponza Palace",
+          "lat": 42.6407,
+          "lng": 18.109,
+          "order_index": 3,
+          "seo_phrase": "Sponza Palace in Dubrovnik, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Dubrovnik",
+            "Sponza Palace",
+            "Croatia",
+            "historic fortification and strong views",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Sponza Palace.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sponza_Palace.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Fort Lovrijenac",
+            "Dubrovnik Cathedral",
+            "Rector's Palace"
+          ]
+        },
+        {
+          "name": "Fort Lovrijenac",
+          "wiki_title": "Fort Lovrijenac",
+          "lat": 42.6419,
+          "lng": 18.1043,
+          "order_index": 4,
+          "seo_phrase": "Fort Lovrijenac in Dubrovnik, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Dubrovnik",
+            "Fort Lovrijenac",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Fort Lovrijenac.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fort_Lovrijenac.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Dubrovnik Cathedral",
+            "Franciscan Monastery, Dubrovnik",
+            "Sponza Palace"
+          ]
+        },
+        {
+          "name": "Dubrovnik Cathedral",
+          "wiki_title": "Dubrovnik Cathedral",
+          "lat": 42.6404,
+          "lng": 18.1088,
+          "order_index": 5,
+          "seo_phrase": "Dubrovnik Cathedral in Dubrovnik, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Dubrovnik",
+            "Dubrovnik Cathedral",
+            "Croatia",
+            "historic skyline and religious heritage",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Dubrovnik Cathedral.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dubrovnik_Cathedral.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Franciscan Monastery, Dubrovnik",
+            "Mount Srđ",
+            "Fort Lovrijenac"
+          ]
+        },
+        {
+          "name": "Franciscan Monastery, Dubrovnik",
+          "wiki_title": "Franciscan Monastery, Dubrovnik",
+          "lat": 42.6411,
+          "lng": 18.1078,
+          "order_index": 6,
+          "seo_phrase": "Franciscan Monastery, Dubrovnik in Dubrovnik, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Dubrovnik",
+            "Franciscan Monastery, Dubrovnik",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Franciscan Monastery Dubrovnik.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Franciscan_Monastery_Dubrovnik.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mount Srđ",
+            "Lokrum",
+            "Dubrovnik Cathedral"
+          ]
+        },
+        {
+          "name": "Mount Srđ",
+          "wiki_title": "Mount Srđ",
+          "lat": 42.653,
+          "lng": 18.094,
+          "order_index": 7,
+          "seo_phrase": "Mount Srđ in Dubrovnik, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Dubrovnik",
+            "Mount Srđ",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Mount Srd.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount_Srd.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Lokrum",
+            "Dubrovnik Cable Car",
+            "Franciscan Monastery, Dubrovnik"
+          ]
+        },
+        {
+          "name": "Lokrum",
+          "wiki_title": "Lokrum",
+          "lat": 42.6248,
+          "lng": 18.1279,
+          "order_index": 8,
+          "seo_phrase": "Lokrum in Dubrovnik, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Dubrovnik",
+            "Lokrum",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Lokrum.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lokrum.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Dubrovnik Cable Car",
+            "Mount Srđ",
+            "Franciscan Monastery, Dubrovnik"
+          ]
+        },
+        {
+          "name": "Dubrovnik Cable Car",
+          "wiki_title": "Dubrovnik Cable Car",
+          "lat": 42.6409,
+          "lng": 18.1115,
+          "order_index": 9,
+          "seo_phrase": "Dubrovnik Cable Car in Dubrovnik, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Dubrovnik",
+            "Dubrovnik Cable Car",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Dubrovnik Cable Car.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dubrovnik_Cable_Car.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Lokrum",
+            "Mount Srđ"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Zadar",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "religious",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Zadar",
+      "seo": {
+        "title": "Zadar, Croatia travel guide",
+        "description": "Use Zadar for sea-front sights, Roman history, and creative sunset stops.",
+        "intro": "A coastal city mixing ancient layers with modern installations.",
+        "keywords": [
+          "things to do in Zadar Croatia",
+          "Zadar old town guide",
+          "best sunset spots in Zadar",
+          "Zadar waterfront attractions"
+        ]
+      },
+      "places": [
+        {
+          "name": "Sea Organ",
+          "wiki_title": "Sea Organ",
+          "lat": 44.1165,
+          "lng": 15.221,
+          "order_index": 0,
+          "seo_phrase": "Sea Organ in Zadar, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Zadar",
+            "Sea Organ",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Sea Organ.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sea_Organ.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Greeting to the Sun",
+            "Church of St. Donatus",
+            "Roman Forum"
+          ]
+        },
+        {
+          "name": "Greeting to the Sun",
+          "wiki_title": "Greeting to the Sun",
+          "lat": 44.1168,
+          "lng": 15.222,
+          "order_index": 1,
+          "seo_phrase": "Greeting to the Sun in Zadar, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Zadar",
+            "Greeting to the Sun",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Greeting to the Sun.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Greeting_to_the_Sun.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church of St. Donatus",
+            "Roman Forum",
+            "Sea Organ"
+          ]
+        },
+        {
+          "name": "Church of St. Donatus",
+          "wiki_title": "Church of St. Donatus",
+          "lat": 44.1157,
+          "lng": 15.2251,
+          "order_index": 2,
+          "seo_phrase": "Church of St. Donatus in Zadar, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Zadar",
+            "Church of St. Donatus",
+            "Croatia",
+            "historic skyline and religious heritage",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Church of St Donatus.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Church_of_St_Donatus.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Roman Forum",
+            "Cathedral of St. Anastasia",
+            "Greeting to the Sun"
+          ]
+        },
+        {
+          "name": "Roman Forum",
+          "wiki_title": "Roman Forum, Zadar",
+          "lat": 44.1158,
+          "lng": 15.2238,
+          "order_index": 3,
+          "seo_phrase": "Roman Forum in Zadar, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Zadar",
+            "Roman Forum",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Roman Forum.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roman_Forum.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Cathedral of St. Anastasia",
+            "Land Gate",
+            "Church of St. Donatus"
+          ]
+        },
+        {
+          "name": "Cathedral of St. Anastasia",
+          "wiki_title": "Zadar Cathedral",
+          "lat": 44.1154,
+          "lng": 15.2248,
+          "order_index": 4,
+          "seo_phrase": "Cathedral of St. Anastasia in Zadar, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Zadar",
+            "Cathedral of St. Anastasia",
+            "Croatia",
+            "historic skyline and religious heritage",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Cathedral of St Anastasia.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cathedral_of_St_Anastasia.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Land Gate",
+            "Five Wells Square",
+            "Roman Forum"
+          ]
+        },
+        {
+          "name": "Land Gate",
+          "wiki_title": "Land Gate",
+          "lat": 44.1148,
+          "lng": 15.2267,
+          "order_index": 5,
+          "seo_phrase": "Land Gate in Zadar, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Zadar",
+            "Land Gate",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Land Gate.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Land_Gate.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Five Wells Square",
+            "People's Square, Zadar",
+            "Cathedral of St. Anastasia"
+          ]
+        },
+        {
+          "name": "Five Wells Square",
+          "wiki_title": "Five Wells Square",
+          "lat": 44.1145,
+          "lng": 15.2275,
+          "order_index": 6,
+          "seo_phrase": "Five Wells Square in Zadar, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Zadar",
+            "Five Wells Square",
+            "Croatia",
+            "local life, cafés, and easy orientation",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Five Wells Square.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Five_Wells_Square.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "People's Square, Zadar",
+            "Museum of Ancient Glass",
+            "Land Gate"
+          ]
+        },
+        {
+          "name": "People's Square, Zadar",
+          "wiki_title": "People's Square, Zadar",
+          "lat": 44.114,
+          "lng": 15.2261,
+          "order_index": 7,
+          "seo_phrase": "People's Square, Zadar in Zadar, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Zadar",
+            "People's Square, Zadar",
+            "Croatia",
+            "local life, cafés, and easy orientation",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Peoples Square Zadar.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Peoples_Square_Zadar.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Museum of Ancient Glass",
+            "Kolovare Beach",
+            "Five Wells Square"
+          ]
+        },
+        {
+          "name": "Museum of Ancient Glass",
+          "wiki_title": "Museum of Ancient Glass",
+          "lat": 44.1168,
+          "lng": 15.2312,
+          "order_index": 8,
+          "seo_phrase": "Museum of Ancient Glass in Zadar, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Zadar",
+            "Museum of Ancient Glass",
+            "Croatia",
+            "curated collections and rainy-day sightseeing",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Museum of Ancient Glass.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Museum_of_Ancient_Glass.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Kolovare Beach",
+            "People's Square, Zadar",
+            "Five Wells Square"
+          ]
+        },
+        {
+          "name": "Kolovare Beach",
+          "wiki_title": "Kolovare Beach",
+          "lat": 44.1082,
+          "lng": 15.2367,
+          "order_index": 9,
+          "seo_phrase": "Kolovare Beach in Zadar, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Zadar",
+            "Kolovare Beach",
+            "Croatia",
+            "coastal downtime and summer atmosphere",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Kolovare Beach.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kolovare_Beach.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Museum of Ancient Glass",
+            "People's Square, Zadar"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Rijeka",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "history",
+        "religious",
+        "culture"
+      ],
+      "wiki_title": "Rijeka",
+      "seo": {
+        "title": "Rijeka, Croatia travel guide",
+        "description": "Plan a Rijeka visit for ports, architecture, and Kvarner Bay views.",
+        "intro": "Croatia's major port city with a lively urban core.",
+        "keywords": [
+          "things to do in Rijeka Croatia",
+          "Rijeka city guide",
+          "Rijeka old town attractions",
+          "best views in Rijeka"
+        ]
+      },
+      "places": [
+        {
+          "name": "Trsat Castle",
+          "wiki_title": "Trsat Castle",
+          "lat": 45.3335,
+          "lng": 14.4633,
+          "order_index": 0,
+          "seo_phrase": "Trsat Castle in Rijeka, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Rijeka",
+            "Trsat Castle",
+            "Croatia",
+            "historic fortification and strong views",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Trsat Castle.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Trsat_Castle.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Rijeka City Tower",
+            "Korzo",
+            "St. Vitus Cathedral"
+          ]
+        },
+        {
+          "name": "Rijeka City Tower",
+          "wiki_title": "Rijeka City Tower",
+          "lat": 45.3276,
+          "lng": 14.4422,
+          "order_index": 1,
+          "seo_phrase": "Rijeka City Tower in Rijeka, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Rijeka",
+            "Rijeka City Tower",
+            "Croatia",
+            "defensive history and high viewpoints",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Rijeka City Tower.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rijeka_City_Tower.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Korzo",
+            "St. Vitus Cathedral",
+            "Trsat Castle"
+          ]
+        },
+        {
+          "name": "Korzo",
+          "wiki_title": "Korzo (Rijeka)",
+          "lat": 45.3271,
+          "lng": 14.4428,
+          "order_index": 2,
+          "seo_phrase": "Korzo in Rijeka, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Rijeka",
+            "Korzo",
+            "Croatia",
+            "local life, cafés, and easy orientation",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Korzo.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Korzo.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Vitus Cathedral",
+            "Governor's Palace, Rijeka",
+            "Rijeka City Tower"
+          ]
+        },
+        {
+          "name": "St. Vitus Cathedral",
+          "wiki_title": "Cathedral of Saint Vitus, Rijeka",
+          "lat": 45.3267,
+          "lng": 14.4446,
+          "order_index": 3,
+          "seo_phrase": "St. Vitus Cathedral in Rijeka, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Rijeka",
+            "St. Vitus Cathedral",
+            "Croatia",
+            "historic skyline and religious heritage",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "St Vitus Cathedral.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/St_Vitus_Cathedral.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Governor's Palace, Rijeka",
+            "Maritime and History Museum of the Croatian Littoral",
+            "Korzo"
+          ]
+        },
+        {
+          "name": "Governor's Palace, Rijeka",
+          "wiki_title": "Governor's Palace, Rijeka",
+          "lat": 45.3279,
+          "lng": 14.4389,
+          "order_index": 4,
+          "seo_phrase": "Governor's Palace, Rijeka in Rijeka, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Rijeka",
+            "Governor's Palace, Rijeka",
+            "Croatia",
+            "historic fortification and strong views",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Governors Palace Rijeka.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Governors_Palace_Rijeka.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Maritime and History Museum of the Croatian Littoral",
+            "Croatian National Theatre Ivan pl. Zajc",
+            "St. Vitus Cathedral"
+          ]
+        },
+        {
+          "name": "Maritime and History Museum of the Croatian Littoral",
+          "wiki_title": "Maritime and History Museum of the Croatian Littoral",
+          "lat": 45.3288,
+          "lng": 14.4408,
+          "order_index": 5,
+          "seo_phrase": "Maritime and History Museum of the Croatian Littoral in Rijeka, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Rijeka",
+            "Maritime and History Museum of the Croatian Littoral",
+            "Croatia",
+            "curated collections and rainy-day sightseeing",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Maritime and History Museum of the Croatian Littoral.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maritime_and_History_Museum_of_the_Croatian_Littoral.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Croatian National Theatre Ivan pl. Zajc",
+            "Rijeka Market",
+            "Governor's Palace, Rijeka"
+          ]
+        },
+        {
+          "name": "Croatian National Theatre Ivan pl. Zajc",
+          "wiki_title": "Croatian National Theatre Ivan pl. Zajc",
+          "lat": 45.3258,
+          "lng": 14.443,
+          "order_index": 6,
+          "seo_phrase": "Croatian National Theatre Ivan pl. Zajc in Rijeka, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Rijeka",
+            "Croatian National Theatre Ivan pl. Zajc",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Croatian National Theatre Ivan pl Zajc.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Croatian_National_Theatre_Ivan_pl_Zajc.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Rijeka Market",
+            "Peek & Poke Computer Museum",
+            "Maritime and History Museum of the Croatian Littoral"
+          ]
+        },
+        {
+          "name": "Rijeka Market",
+          "wiki_title": "Rijeka Market",
+          "lat": 45.3275,
+          "lng": 14.4459,
+          "order_index": 7,
+          "seo_phrase": "Rijeka Market in Rijeka, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Rijeka",
+            "Rijeka Market",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Rijeka Market.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rijeka_Market.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Peek & Poke Computer Museum",
+            "Molo Longo",
+            "Croatian National Theatre Ivan pl. Zajc"
+          ]
+        },
+        {
+          "name": "Peek & Poke Computer Museum",
+          "wiki_title": "Peek & Poke Computer Museum",
+          "lat": 45.328,
+          "lng": 14.441,
+          "order_index": 8,
+          "seo_phrase": "Peek & Poke Computer Museum in Rijeka, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Rijeka",
+            "Peek & Poke Computer Museum",
+            "Croatia",
+            "curated collections and rainy-day sightseeing",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Peek and Poke Computer Museum.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Peek_and_Poke_Computer_Museum.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Molo Longo",
+            "Rijeka Market",
+            "Croatian National Theatre Ivan pl. Zajc"
+          ]
+        },
+        {
+          "name": "Molo Longo",
+          "wiki_title": "Molo Longo",
+          "lat": 45.3248,
+          "lng": 14.437,
+          "order_index": 9,
+          "seo_phrase": "Molo Longo in Rijeka, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Rijeka",
+            "Molo Longo",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Molo Longo.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Molo_Longo.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Peek & Poke Computer Museum",
+            "Rijeka Market"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Pula",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "history"
+      ],
+      "wiki_title": "Pula",
+      "seo": {
+        "title": "Pula, Croatia travel guide",
+        "description": "Explore Pula for Roman monuments, coastal views, and Istrian city life.",
+        "intro": "An Istrian city known for Roman heritage and harbor scenery.",
+        "keywords": [
+          "things to do in Pula Croatia",
+          "Pula Arena guide",
+          "Pula Roman monuments",
+          "best time to visit Pula"
+        ]
+      },
+      "places": [
+        {
+          "name": "Pula Arena",
+          "wiki_title": "Pula Arena",
+          "lat": 44.873,
+          "lng": 13.8505,
+          "order_index": 0,
+          "seo_phrase": "Pula Arena in Pula, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Pula",
+            "Pula Arena",
+            "Croatia",
+            "Roman legacy and major heritage value",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Pula Arena.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pula_Arena.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Temple of Augustus",
+            "Arch of the Sergii",
+            "Pula Communal Palace"
+          ]
+        },
+        {
+          "name": "Temple of Augustus",
+          "wiki_title": "Temple of Augustus, Pula",
+          "lat": 44.8732,
+          "lng": 13.8498,
+          "order_index": 1,
+          "seo_phrase": "Temple of Augustus in Pula, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Pula",
+            "Temple of Augustus",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Temple of Augustus.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Temple_of_Augustus.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Arch of the Sergii",
+            "Pula Communal Palace",
+            "Pula Arena"
+          ]
+        },
+        {
+          "name": "Arch of the Sergii",
+          "wiki_title": "Arch of the Sergii",
+          "lat": 44.8698,
+          "lng": 13.8508,
+          "order_index": 2,
+          "seo_phrase": "Arch of the Sergii in Pula, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Pula",
+            "Arch of the Sergii",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Arch of the Sergii.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arch_of_the_Sergii.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Pula Communal Palace",
+            "Porta Gemina",
+            "Temple of Augustus"
+          ]
+        },
+        {
+          "name": "Pula Communal Palace",
+          "wiki_title": "Pula Communal Palace",
+          "lat": 44.8699,
+          "lng": 13.8501,
+          "order_index": 3,
+          "seo_phrase": "Pula Communal Palace in Pula, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Pula",
+            "Pula Communal Palace",
+            "Croatia",
+            "historic fortification and strong views",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Pula Communal Palace.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pula_Communal_Palace.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Porta Gemina",
+            "Gate of Hercules",
+            "Arch of the Sergii"
+          ]
+        },
+        {
+          "name": "Porta Gemina",
+          "wiki_title": "Porta Gemina",
+          "lat": 44.8722,
+          "lng": 13.8501,
+          "order_index": 4,
+          "seo_phrase": "Porta Gemina in Pula, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Pula",
+            "Porta Gemina",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Porta Gemina.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Porta_Gemina.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Gate of Hercules",
+            "Pula Fortress",
+            "Pula Communal Palace"
+          ]
+        },
+        {
+          "name": "Gate of Hercules",
+          "wiki_title": "Gate of Hercules",
+          "lat": 44.8737,
+          "lng": 13.8497,
+          "order_index": 5,
+          "seo_phrase": "Gate of Hercules in Pula, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Pula",
+            "Gate of Hercules",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Gate of Hercules.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gate_of_Hercules.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Pula Fortress",
+            "Zerostrasse",
+            "Porta Gemina"
+          ]
+        },
+        {
+          "name": "Pula Fortress",
+          "wiki_title": "Pula Fortress",
+          "lat": 44.8711,
+          "lng": 13.8478,
+          "order_index": 6,
+          "seo_phrase": "Pula Fortress in Pula, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Pula",
+            "Pula Fortress",
+            "Croatia",
+            "defensive history and high viewpoints",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Pula Fortress.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pula_Fortress.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Zerostrasse",
+            "Forum, Pula",
+            "Gate of Hercules"
+          ]
+        },
+        {
+          "name": "Zerostrasse",
+          "wiki_title": "Zerostrasse",
+          "lat": 44.872,
+          "lng": 13.8499,
+          "order_index": 7,
+          "seo_phrase": "Zerostrasse in Pula, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Pula",
+            "Zerostrasse",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Zerostrasse.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zerostrasse.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Forum, Pula",
+            "Aquarium Pula",
+            "Pula Fortress"
+          ]
+        },
+        {
+          "name": "Forum, Pula",
+          "wiki_title": "Forum (Pula)",
+          "lat": 44.8731,
+          "lng": 13.8501,
+          "order_index": 8,
+          "seo_phrase": "Forum, Pula in Pula, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Pula",
+            "Forum, Pula",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Forum Pula.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Forum_Pula.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Aquarium Pula",
+            "Zerostrasse",
+            "Pula Fortress"
+          ]
+        },
+        {
+          "name": "Aquarium Pula",
+          "wiki_title": "Aquarium Pula",
+          "lat": 44.889,
+          "lng": 13.7997,
+          "order_index": 9,
+          "seo_phrase": "Aquarium Pula in Pula, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Pula",
+            "Aquarium Pula",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Aquarium Pula.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aquarium_Pula.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Forum, Pula",
+            "Zerostrasse"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Šibenik",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "religious",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Šibenik",
+      "seo": {
+        "title": "Šibenik, Croatia travel guide",
+        "description": "See Šibenik's fortresses, cathedral, and compact historic waterfront.",
+        "intro": "A coastal heritage city with strong fortification character.",
+        "keywords": [
+          "things to do in Šibenik Croatia",
+          "Šibenik fortresses guide",
+          "Šibenik old town attractions",
+          "best views in Šibenik"
+        ]
+      },
+      "places": [
+        {
+          "name": "Cathedral of St. James, Šibenik",
+          "wiki_title": "Cathedral of St. James, Šibenik",
+          "lat": 43.7356,
+          "lng": 15.8909,
+          "order_index": 0,
+          "seo_phrase": "Cathedral of St. James, Šibenik in Šibenik, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Šibenik",
+            "Cathedral of St. James, Šibenik",
+            "Croatia",
+            "historic skyline and religious heritage",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Cathedral of St James Sibenik.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cathedral_of_St_James_Sibenik.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Michael's Fortress",
+            "Barone Fortress",
+            "St. Nicholas Fortress"
+          ]
+        },
+        {
+          "name": "St. Michael's Fortress",
+          "wiki_title": "St. Michael's Fortress",
+          "lat": 43.7407,
+          "lng": 15.8864,
+          "order_index": 1,
+          "seo_phrase": "St. Michael's Fortress in Šibenik, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Šibenik",
+            "St. Michael's Fortress",
+            "Croatia",
+            "defensive history and high viewpoints",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "St Michaels Fortress.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/St_Michaels_Fortress.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Barone Fortress",
+            "St. Nicholas Fortress",
+            "Cathedral of St. James, Šibenik"
+          ]
+        },
+        {
+          "name": "Barone Fortress",
+          "wiki_title": "Barone Fortress",
+          "lat": 43.74,
+          "lng": 15.8957,
+          "order_index": 2,
+          "seo_phrase": "Barone Fortress in Šibenik, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Šibenik",
+            "Barone Fortress",
+            "Croatia",
+            "defensive history and high viewpoints",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Barone Fortress.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Barone_Fortress.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Nicholas Fortress",
+            "Šibenik City Hall",
+            "St. Michael's Fortress"
+          ]
+        },
+        {
+          "name": "St. Nicholas Fortress",
+          "wiki_title": "St. Nicholas Fortress",
+          "lat": 43.7077,
+          "lng": 15.8648,
+          "order_index": 3,
+          "seo_phrase": "St. Nicholas Fortress in Šibenik, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Šibenik",
+            "St. Nicholas Fortress",
+            "Croatia",
+            "defensive history and high viewpoints",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "St Nicholas Fortress.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/St_Nicholas_Fortress.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Šibenik City Hall",
+            "Old Town Šibenik",
+            "Barone Fortress"
+          ]
+        },
+        {
+          "name": "Šibenik City Hall",
+          "wiki_title": "Šibenik town hall",
+          "lat": 43.7356,
+          "lng": 15.8906,
+          "order_index": 4,
+          "seo_phrase": "Šibenik City Hall in Šibenik, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Šibenik",
+            "Šibenik City Hall",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Sibenik City Hall.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sibenik_City_Hall.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Town Šibenik",
+            "St. Lawrence Monastery Garden",
+            "St. Nicholas Fortress"
+          ]
+        },
+        {
+          "name": "Old Town Šibenik",
+          "wiki_title": "Cathedral of St. James, Šibenik",
+          "lat": 43.7356,
+          "lng": 15.8892,
+          "order_index": 5,
+          "seo_phrase": "Old Town Šibenik in Šibenik, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Šibenik",
+            "Old Town Šibenik",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Old Town Sibenik.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Old_Town_Sibenik.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Lawrence Monastery Garden",
+            "Šibenik City Museum",
+            "Šibenik City Hall"
+          ],
+          "maps_query": "Cathedral of St. James, Šibenik, Croatia"
+        },
+        {
+          "name": "St. Lawrence Monastery Garden",
+          "wiki_title": "St. Lawrence Monastery Garden",
+          "lat": 43.7373,
+          "lng": 15.8888,
+          "order_index": 6,
+          "seo_phrase": "St. Lawrence Monastery Garden in Šibenik, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Šibenik",
+            "St. Lawrence Monastery Garden",
+            "Croatia",
+            "green space and relaxed pacing",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "St Lawrence Monastery Garden.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/St_Lawrence_Monastery_Garden.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Šibenik City Museum",
+            "Church of St. Barbara, Šibenik",
+            "Old Town Šibenik"
+          ]
+        },
+        {
+          "name": "Šibenik City Museum",
+          "wiki_title": "Šibenik City Museum",
+          "lat": 43.7364,
+          "lng": 15.8914,
+          "order_index": 7,
+          "seo_phrase": "Šibenik City Museum in Šibenik, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Šibenik",
+            "Šibenik City Museum",
+            "Croatia",
+            "curated collections and rainy-day sightseeing",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Sibenik City Museum.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sibenik_City_Museum.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Church of St. Barbara, Šibenik",
+            "Banj Beach",
+            "St. Lawrence Monastery Garden"
+          ]
+        },
+        {
+          "name": "Church of St. Barbara, Šibenik",
+          "wiki_title": "Church of St. Barbara, Šibenik",
+          "lat": 43.7358,
+          "lng": 15.892,
+          "order_index": 8,
+          "seo_phrase": "Church of St. Barbara, Šibenik in Šibenik, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Šibenik",
+            "Church of St. Barbara, Šibenik",
+            "Croatia",
+            "historic skyline and religious heritage",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Church of St Barbara Sibenik.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Church_of_St_Barbara_Sibenik.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Banj Beach",
+            "Šibenik City Museum",
+            "St. Lawrence Monastery Garden"
+          ]
+        },
+        {
+          "name": "Banj Beach",
+          "wiki_title": "Banj Beach",
+          "lat": 43.739,
+          "lng": 15.8877,
+          "order_index": 9,
+          "seo_phrase": "Banj Beach in Šibenik, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Šibenik",
+            "Banj Beach",
+            "Croatia",
+            "coastal downtime and summer atmosphere",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Banj Beach.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Banj_Beach.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church of St. Barbara, Šibenik",
+            "Šibenik City Museum"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Rovinj",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "religious",
+        "culture",
+        "nature"
+      ],
+      "wiki_title": "Rovinj",
+      "seo": {
+        "title": "Rovinj, Croatia travel guide",
+        "description": "Plan Rovinj for colorful streets, harbor views, and Istrian coastal scenery.",
+        "intro": "A postcard-like Istrian town with a strong seaside identity.",
+        "keywords": [
+          "things to do in Rovinj Croatia",
+          "Rovinj old town guide",
+          "best beaches near Rovinj",
+          "Rovinj travel itinerary"
+        ]
+      },
+      "places": [
+        {
+          "name": "Church of St. Euphemia",
+          "wiki_title": "Church of St. Euphemia, Rovinj",
+          "lat": 45.0809,
+          "lng": 13.6396,
+          "order_index": 0,
+          "seo_phrase": "Church of St. Euphemia in Rovinj, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Rovinj",
+            "Church of St. Euphemia",
+            "Croatia",
+            "historic skyline and religious heritage",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Church of St Euphemia.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Church_of_St_Euphemia.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Balbi's Arch",
+            "Grisia Street",
+            "Rovinj Old Town"
+          ]
+        },
+        {
+          "name": "Balbi's Arch",
+          "wiki_title": "Balbi's Arch",
+          "lat": 45.0805,
+          "lng": 13.6378,
+          "order_index": 1,
+          "seo_phrase": "Balbi's Arch in Rovinj, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Rovinj",
+            "Balbi's Arch",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Balbis Arch.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Balbis_Arch.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Grisia Street",
+            "Rovinj Old Town",
+            "Church of St. Euphemia"
+          ]
+        },
+        {
+          "name": "Grisia Street",
+          "wiki_title": "Grisia Street",
+          "lat": 45.0799,
+          "lng": 13.6385,
+          "order_index": 2,
+          "seo_phrase": "Grisia Street in Rovinj, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Rovinj",
+            "Grisia Street",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Grisia Street.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grisia_Street.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Rovinj Old Town",
+            "Batana Eco-Museum",
+            "Balbi's Arch"
+          ]
+        },
+        {
+          "name": "Rovinj Old Town",
+          "wiki_title": "Church of St. Euphemia, Rovinj",
+          "lat": 45.0822,
+          "lng": 13.6347,
+          "order_index": 3,
+          "seo_phrase": "Rovinj Old Town in Rovinj, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Rovinj",
+            "Rovinj Old Town",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Rovinj Old Town.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rovinj_Old_Town.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Batana Eco-Museum",
+            "Punta Corrente Forest Park",
+            "Grisia Street"
+          ],
+          "maps_query": "Church of St. Euphemia, Rovinj, Croatia"
+        },
+        {
+          "name": "Batana Eco-Museum",
+          "wiki_title": "Batana Ecomuseum",
+          "lat": 45.0798,
+          "lng": 13.638,
+          "order_index": 4,
+          "seo_phrase": "Batana Eco-Museum in Rovinj, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Rovinj",
+            "Batana Eco-Museum",
+            "Croatia",
+            "curated collections and rainy-day sightseeing",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Batana Eco Museum.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Batana_Eco_Museum.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Punta Corrente Forest Park",
+            "Lone Bay",
+            "Rovinj Old Town"
+          ]
+        },
+        {
+          "name": "Punta Corrente Forest Park",
+          "wiki_title": "Punta Corrente park forest",
+          "lat": 45.0706,
+          "lng": 13.6415,
+          "order_index": 5,
+          "seo_phrase": "Punta Corrente Forest Park in Rovinj, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Rovinj",
+            "Punta Corrente Forest Park",
+            "Croatia",
+            "green space and relaxed pacing",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Punta Corrente Forest Park.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Punta_Corrente_Forest_Park.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Lone Bay",
+            "Rovinj Heritage Museum",
+            "Batana Eco-Museum"
+          ]
+        },
+        {
+          "name": "Lone Bay",
+          "wiki_title": "Lone Bay",
+          "lat": 45.077,
+          "lng": 13.637,
+          "order_index": 6,
+          "seo_phrase": "Lone Bay in Rovinj, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Rovinj",
+            "Lone Bay",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Lone Bay.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lone_Bay.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Rovinj Heritage Museum",
+            "Rovinj Marina",
+            "Punta Corrente Forest Park"
+          ],
+          "maps_query": "Lone Bay Beach, Rovinj, Croatia"
+        },
+        {
+          "name": "Rovinj Heritage Museum",
+          "wiki_title": "Rovinj Heritage Museum",
+          "lat": 45.0802,
+          "lng": 13.6386,
+          "order_index": 7,
+          "seo_phrase": "Rovinj Heritage Museum in Rovinj, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Rovinj",
+            "Rovinj Heritage Museum",
+            "Croatia",
+            "curated collections and rainy-day sightseeing",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Rovinj Heritage Museum.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rovinj_Heritage_Museum.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Rovinj Marina",
+            "Katarina Island",
+            "Lone Bay"
+          ]
+        },
+        {
+          "name": "Rovinj Marina",
+          "wiki_title": "Rovinj Marina",
+          "lat": 45.0811,
+          "lng": 13.6344,
+          "order_index": 8,
+          "seo_phrase": "Rovinj Marina in Rovinj, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Rovinj",
+            "Rovinj Marina",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Rovinj Marina.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rovinj_Marina.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Katarina Island",
+            "Rovinj Heritage Museum",
+            "Lone Bay"
+          ],
+          "maps_query": "ACI Marina Rovinj, Rovinj, Croatia"
+        },
+        {
+          "name": "Katarina Island",
+          "wiki_title": "Katarina Island",
+          "lat": 45.0814,
+          "lng": 13.6275,
+          "order_index": 9,
+          "seo_phrase": "Katarina Island in Rovinj, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Rovinj",
+            "Katarina Island",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Katarina Island.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Katarina_Island.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Rovinj Marina",
+            "Rovinj Heritage Museum"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Osijek",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "religious",
+        "nature",
+        "culture"
+      ],
+      "wiki_title": "Osijek",
+      "seo": {
+        "title": "Osijek, Croatia travel guide",
+        "description": "Discover Osijek for Baroque architecture, riverside walks, and Slavonia culture.",
+        "intro": "A calm eastern Croatian city with a strong riverside character.",
+        "keywords": [
+          "things to do in Osijek Croatia",
+          "Osijek city guide",
+          "best Osijek attractions",
+          "Osijek riverside walks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Tvrđa",
+          "wiki_title": "Tvrđa",
+          "lat": 45.5587,
+          "lng": 18.6947,
+          "order_index": 0,
+          "seo_phrase": "Tvrđa in Osijek, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Osijek",
+            "Tvrđa",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Tvrda.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tvrda.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Peter and Paul Co-cathedral, Osijek",
+            "Drava Promenade",
+            "Croatian National Theatre in Osijek"
+          ]
+        },
+        {
+          "name": "St. Peter and Paul Co-cathedral, Osijek",
+          "wiki_title": "Co-cathedral of Saint Peter and Paul, Osijek",
+          "lat": 45.5557,
+          "lng": 18.6965,
+          "order_index": 1,
+          "seo_phrase": "St. Peter and Paul Co-cathedral, Osijek in Osijek, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Osijek",
+            "St. Peter and Paul Co-cathedral, Osijek",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "St Peter and Paul Co cathedral Osijek.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/St_Peter_and_Paul_Co_cathedral_Osijek.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Drava Promenade",
+            "Croatian National Theatre in Osijek",
+            "Tvrđa"
+          ]
+        },
+        {
+          "name": "Drava Promenade",
+          "wiki_title": "Drava Promenade",
+          "lat": 45.5631,
+          "lng": 18.682,
+          "order_index": 2,
+          "seo_phrase": "Drava Promenade in Osijek, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Osijek",
+            "Drava Promenade",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Drava Promenade.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Drava_Promenade.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Croatian National Theatre in Osijek",
+            "Osijek Citadel",
+            "St. Peter and Paul Co-cathedral, Osijek"
+          ],
+          "maps_query": "Promenada uz Dravu, Osijek, Croatia"
+        },
+        {
+          "name": "Croatian National Theatre in Osijek",
+          "wiki_title": "Croatian National Theatre in Osijek",
+          "lat": 45.5568,
+          "lng": 18.697,
+          "order_index": 3,
+          "seo_phrase": "Croatian National Theatre in Osijek in Osijek, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Osijek",
+            "Croatian National Theatre in Osijek",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Croatian National Theatre in Osijek.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Croatian_National_Theatre_in_Osijek.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Osijek Citadel",
+            "Museum of Slavonia",
+            "Drava Promenade"
+          ]
+        },
+        {
+          "name": "Osijek Citadel",
+          "wiki_title": "Tvrđa",
+          "lat": 45.5592,
+          "lng": 18.6938,
+          "order_index": 4,
+          "seo_phrase": "Osijek Citadel in Osijek, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Osijek",
+            "Osijek Citadel",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Osijek Citadel.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Osijek_Citadel.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Museum of Slavonia",
+            "City and University Library in Osijek",
+            "Croatian National Theatre in Osijek"
+          ]
+        },
+        {
+          "name": "Museum of Slavonia",
+          "wiki_title": "Museum of Slavonia",
+          "lat": 45.5562,
+          "lng": 18.694,
+          "order_index": 5,
+          "seo_phrase": "Museum of Slavonia in Osijek, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Osijek",
+            "Museum of Slavonia",
+            "Croatia",
+            "curated collections and rainy-day sightseeing",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Museum of Slavonia.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Museum_of_Slavonia.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "City and University Library in Osijek",
+            "Osijek Zoo and Aquarium",
+            "Osijek Citadel"
+          ]
+        },
+        {
+          "name": "City and University Library in Osijek",
+          "wiki_title": "City and University Library in Osijek",
+          "lat": 45.558,
+          "lng": 18.6941,
+          "order_index": 6,
+          "seo_phrase": "City and University Library in Osijek in Osijek, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Osijek",
+            "City and University Library in Osijek",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "City and University Library in Osijek.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/City_and_University_Library_in_Osijek.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Osijek Zoo and Aquarium",
+            "Ante Starčević Square",
+            "Museum of Slavonia"
+          ]
+        },
+        {
+          "name": "Osijek Zoo and Aquarium",
+          "wiki_title": "Osijek Zoo and Aquarium",
+          "lat": 45.5582,
+          "lng": 18.6707,
+          "order_index": 7,
+          "seo_phrase": "Osijek Zoo and Aquarium in Osijek, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Osijek",
+            "Osijek Zoo and Aquarium",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Osijek Zoo and Aquarium.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Osijek_Zoo_and_Aquarium.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Ante Starčević Square",
+            "Sakuntala Park",
+            "City and University Library in Osijek"
+          ]
+        },
+        {
+          "name": "Ante Starčević Square",
+          "wiki_title": "Ante Starčević Square",
+          "lat": 45.5572,
+          "lng": 18.6953,
+          "order_index": 8,
+          "seo_phrase": "Ante Starčević Square in Osijek, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Osijek",
+            "Ante Starčević Square",
+            "Croatia",
+            "local life, cafés, and easy orientation",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Ante Starcevic Square.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ante_Starcevic_Square.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Sakuntala Park",
+            "Osijek Zoo and Aquarium",
+            "City and University Library in Osijek"
+          ]
+        },
+        {
+          "name": "Sakuntala Park",
+          "wiki_title": "Sakuntala Park",
+          "lat": 45.5608,
+          "lng": 18.6958,
+          "order_index": 9,
+          "seo_phrase": "Sakuntala Park in Osijek, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Osijek",
+            "Sakuntala Park",
+            "Croatia",
+            "green space and relaxed pacing",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Sakuntala Park.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sakuntala_Park.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Ante Starčević Square",
+            "Osijek Zoo and Aquarium"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Varaždin",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "religious",
+        "history",
+        "nature"
+      ],
+      "wiki_title": "Varaždin",
+      "seo": {
+        "title": "Varaždin, Croatia travel guide",
+        "description": "Use Varaždin for baroque streets, gardens, and a refined northern city break.",
+        "intro": "A polished baroque city with a compact and elegant center.",
+        "keywords": [
+          "things to do in Varaždin Croatia",
+          "Varaždin travel guide",
+          "best Varaždin attractions",
+          "baroque city break Croatia"
+        ]
+      },
+      "places": [
+        {
+          "name": "Varaždin Old Town",
+          "wiki_title": "Varaždin Castle",
+          "lat": 46.3073,
+          "lng": 16.3364,
+          "order_index": 0,
+          "seo_phrase": "Varaždin Old Town in Varaždin, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Varaždin",
+            "Varaždin Old Town",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Varazdin Old Town.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Varazdin_Old_Town.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Nicholas Church, Varaždin",
+            "Varaždin Cathedral",
+            "Varaždin Town Hall"
+          ],
+          "maps_query": "Stari grad Varaždin, Varaždin, Croatia"
+        },
+        {
+          "name": "St. Nicholas Church, Varaždin",
+          "wiki_title": "St. Nicholas Church, Varaždin",
+          "lat": 46.3054,
+          "lng": 16.3358,
+          "order_index": 1,
+          "seo_phrase": "St. Nicholas Church, Varaždin in Varaždin, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Varaždin",
+            "St. Nicholas Church, Varaždin",
+            "Croatia",
+            "historic skyline and religious heritage",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "St Nicholas Church Varazdin.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/St_Nicholas_Church_Varazdin.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Varaždin Cathedral",
+            "Varaždin Town Hall",
+            "Varaždin Old Town"
+          ]
+        },
+        {
+          "name": "Varaždin Cathedral",
+          "wiki_title": "Varaždin Cathedral",
+          "lat": 46.307,
+          "lng": 16.3387,
+          "order_index": 2,
+          "seo_phrase": "Varaždin Cathedral in Varaždin, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Varaždin",
+            "Varaždin Cathedral",
+            "Croatia",
+            "historic skyline and religious heritage",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Varazdin Cathedral.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Varazdin_Cathedral.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Varaždin Town Hall",
+            "Sermage Palace",
+            "St. Nicholas Church, Varaždin"
+          ]
+        },
+        {
+          "name": "Varaždin Town Hall",
+          "wiki_title": "Varaždin Town Hall",
+          "lat": 46.3074,
+          "lng": 16.336,
+          "order_index": 3,
+          "seo_phrase": "Varaždin Town Hall in Varaždin, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Varaždin",
+            "Varaždin Town Hall",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Varazdin Town Hall.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Varazdin_Town_Hall.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Sermage Palace",
+            "Patacic Palace",
+            "Varaždin Cathedral"
+          ]
+        },
+        {
+          "name": "Sermage Palace",
+          "wiki_title": "Sermage Palace",
+          "lat": 46.3077,
+          "lng": 16.3369,
+          "order_index": 4,
+          "seo_phrase": "Sermage Palace in Varaždin, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Varaždin",
+            "Sermage Palace",
+            "Croatia",
+            "historic fortification and strong views",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Sermage Palace.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sermage_Palace.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Patacic Palace",
+            "Franciscan Church and Monastery, Varaždin",
+            "Varaždin Town Hall"
+          ]
+        },
+        {
+          "name": "Patacic Palace",
+          "wiki_title": "Patacic Palace",
+          "lat": 46.308,
+          "lng": 16.3374,
+          "order_index": 5,
+          "seo_phrase": "Patacic Palace in Varaždin, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Varaždin",
+            "Patacic Palace",
+            "Croatia",
+            "historic fortification and strong views",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Patacic Palace.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Patacic_Palace.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Franciscan Church and Monastery, Varaždin",
+            "Sermage Palace"
+          ]
+        },
+        {
+          "name": "Franciscan Church and Monastery, Varaždin",
+          "wiki_title": "Franciscan Church and Monastery, Varaždin",
+          "lat": 46.3083,
+          "lng": 16.3355,
+          "order_index": 6,
+          "seo_phrase": "Franciscan Church and Monastery, Varaždin in Varaždin, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Varaždin",
+            "Franciscan Church and Monastery, Varaždin",
+            "Croatia",
+            "historic skyline and religious heritage",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Franciscan Church and Monastery Varazdin.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Franciscan_Church_and_Monastery_Varazdin.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Croatian National Theatre in Varaždin",
+            "Patacic Palace"
+          ]
+        },
+        {
+          "name": "King Tomislav Square",
+          "wiki_title": "King Tomislav Square, Varaždin",
+          "lat": 46.3047,
+          "lng": 16.3378,
+          "order_index": 7,
+          "seo_phrase": "King Tomislav Square in Varaždin, Croatia",
+          "seo_keywords": [
+            "Varaždin",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Croatian National Theatre in Varaždin",
+            "St. Florian Square",
+            "Franciscan Church and Monastery, Varaždin"
+          ],
+          "description": "King Tomislav Square is the elegant heart of Varaždin’s historic centre, framed by Baroque facades and a lively café scene."
+        },
+        {
+          "name": "Croatian National Theatre in Varaždin",
+          "wiki_title": "Croatian National Theatre in Varaždin",
+          "lat": 46.3049,
+          "lng": 16.3378,
+          "order_index": 8,
+          "seo_phrase": "Croatian National Theatre in Varaždin in Varaždin, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Varaždin",
+            "Croatian National Theatre in Varaždin",
+            "Croatia",
+            "civic history, architecture, and walkable landmarks",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "Croatian National Theatre in Varazdin.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Croatian_National_Theatre_in_Varazdin.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Florian Square",
+            "Franciscan Church and Monastery, Varaždin"
+          ]
+        },
+        {
+          "name": "St. Florian Square",
+          "wiki_title": "St. Florian Square",
+          "lat": 46.3064,
+          "lng": 16.3392,
+          "order_index": 9,
+          "seo_phrase": "St. Florian Square in Varaždin, Croatia: travel guide and visitor tips",
+          "seo_keywords": [
+            "Varaždin",
+            "St. Florian Square",
+            "Croatia",
+            "local life, cafés, and easy orientation",
+            "travel",
+            "sightseeing"
+          ],
+          "commons_file": "St Florian Square.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/St_Florian_Square.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Croatian National Theatre in Varaždin"
+          ],
+          "maps_query": "Trg sv. Florijana, Varaždin, Croatia"
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "Croatia Nature & Road Trip Adventure",
+    "subtitle": "Explore Croatia beyond the cities — parks, coast, and scenic drives.",
+    "wiki_title": "Croatia",
+    "totalDays": 10,
+    "seo": {
+      "title": "Croatia Road Trip — Nature Adventure Guide",
+      "description": "Plan a Croatia road trip with GPS stops, national parks, and scenic routes.",
+      "intro": "Explore Croatia beyond the cities with this nature adventure route.",
+      "keywords": [
+        "Croatia road trip",
+        "Croatia nature",
+        "Croatia by car"
+      ]
+    },
+    "places": [
+      {
+        "name": "Plitvice Lakes National Park",
+        "wiki_title": "Plitvice Lakes National Park",
+        "region": "Lika-Senj County and Karlovac County",
+        "lat": 44.88,
+        "lng": 15.616,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "seo_phrase": "Plitvice Lakes National Park, Croatia: nature guide",
+        "seo_keywords": [
+          "Plitvice Lakes",
+          "Croatia",
+          "waterfalls",
+          "lakes",
+          "nature"
+        ],
+        "commons_file": "Plitvicka jezera veliki slap.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Plitvicka_jezera_veliki_slap.jpg?width=900",
+        "seo_priority": 100,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Krka National Park",
+        "wiki_title": "Krka National Park",
+        "region": "Šibenik-Knin County",
+        "lat": 43.848,
+        "lng": 15.969,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "seo_phrase": "Krka National Park, Croatia: waterfall guide",
+        "seo_keywords": [
+          "Krka",
+          "Croatia",
+          "waterfall",
+          "national park",
+          "river"
+        ],
+        "commons_file": "Skradinski buk.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Skradinski_buk.jpg?width=900",
+        "seo_priority": 98,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Paklenica National Park",
+        "wiki_title": "Paklenica National Park",
+        "region": "Zadar County",
+        "lat": 44.364,
+        "lng": 15.425,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "seo_phrase": "Paklenica National Park, Croatia: hiking guide",
+        "seo_keywords": [
+          "Paklenica",
+          "Croatia",
+          "hiking",
+          "Velebit",
+          "national park"
+        ],
+        "commons_file": "Paklenica.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paklenica.jpg?width=900",
+        "seo_priority": 97,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Mljet National Park",
+        "wiki_title": "Mljet National Park",
+        "region": "Dubrovnik-Neretva County",
+        "lat": 42.748,
+        "lng": 17.403,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "seo_phrase": "Mljet National Park, Croatia: island nature guide",
+        "seo_keywords": [
+          "Mljet",
+          "Croatia",
+          "national park",
+          "island",
+          "lakes"
+        ],
+        "commons_file": "Parc National Mljet (Croatie) - Lacs sales.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Parc_National_Mljet_(Croatie)_-_Lacs_sales.jpg?width=900",
+        "seo_priority": 96,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Kornati National Park",
+        "wiki_title": "Kornati National Park",
+        "region": "Šibenik-Knin County",
+        "lat": 43.8,
+        "lng": 15.333,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "seo_phrase": "Kornati National Park, Croatia: island-hopping guide",
+        "seo_keywords": [
+          "Kornati",
+          "Croatia",
+          "islands",
+          "boat trip",
+          "national park"
+        ],
+        "commons_file": "Kornati.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kornati.jpg?width=900",
+        "seo_priority": 95,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Risnjak National Park",
+        "wiki_title": "Risnjak National Park",
+        "region": "Primorje-Gorski Kotar County",
+        "lat": 45.432,
+        "lng": 14.611,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "seo_phrase": "Risnjak National Park, Croatia: mountain nature guide",
+        "seo_keywords": [
+          "Risnjak",
+          "Croatia",
+          "forest",
+          "hiking",
+          "national park"
+        ],
+        "commons_file": "Risnjak National Park.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Risnjak_National_Park.jpg?width=900",
+        "seo_priority": 93,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Biokovo Nature Park",
+        "wiki_title": "Biokovo Nature Park",
+        "region": "Split-Dalmatia County",
+        "lat": 43.307,
+        "lng": 17.06,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "seo_phrase": "Biokovo Nature Park, Croatia: mountain scenery guide",
+        "seo_keywords": [
+          "Biokovo",
+          "Croatia",
+          "mountains",
+          "views",
+          "nature park"
+        ],
+        "commons_file": "The highest peak Sv Jure (1762 m) in Biokovo Nature Park.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_highest_peak_Sv_Jure_(1762_m)_in_Biokovo_Nature_Park.jpg?width=900",
+        "seo_priority": 94,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Nature park Učka",
+        "wiki_title": "Nature park Učka",
+        "region": "Primorje-Gorski Kotar County",
+        "lat": 45.233,
+        "lng": 14.17,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "seo_phrase": "Učka Nature Park, Croatia: hiking and viewpoint guide",
+        "seo_keywords": [
+          "Učka",
+          "Croatia",
+          "hiking",
+          "viewpoints",
+          "nature park"
+        ],
+        "commons_file": "Vela Draga 2008 Valley, Northwest Croatia.JPG",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vela_Draga_2008_Valley%2C_Northwest_Croatia.JPG?width=900",
+        "seo_priority": 92,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Velebit",
+        "wiki_title": "Velebit",
+        "region": "Lika-Senj County and Zadar County",
+        "lat": 44.52,
+        "lng": 15.25,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A long mountain backbone with classic Croatian wilderness feel.",
+        "seo_phrase": "Velebit, Croatia: mountain guide",
+        "seo_keywords": [
+          "Velebit",
+          "Croatia",
+          "mountains",
+          "hiking",
+          "nature"
+        ],
+        "commons_file": "Velebit mountains.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Velebit_mountains.jpg?width=900",
+        "seo_priority": 91,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Northern Velebit National Park",
+        "wiki_title": "Northern Velebit National Park",
+        "region": "Lika-Senj County",
+        "lat": 44.72,
+        "lng": 14.98,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "seo_phrase": "Northern Velebit National Park, Croatia: mountain guide",
+        "seo_keywords": [
+          "Northern Velebit",
+          "Croatia",
+          "mountains",
+          "hiking",
+          "national park"
+        ],
+        "commons_file": "Aerial image of Northern Velebit National Park (view from the southwest).jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial_image_of_Northern_Velebit_National_Park_(view_from_the_southwest).jpg?width=900",
+        "seo_priority": 92,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      }
+    ]
+  }
+}

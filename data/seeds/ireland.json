@@ -1,0 +1,4041 @@
+{
+  "version": 2,
+  "country": "Ireland",
+  "published": true,
+  "cities": [
+    {
+      "city": "Dublin",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Dublin",
+      "seo": {
+        "title": "Top 10 Things to Do in Dublin, Ireland",
+        "description": "Discover 10 must-see landmarks in Dublin, Ireland. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Dublin? Explore the best places to visit in Dublin, Ireland.",
+        "keywords": [
+          "things to do in Dublin",
+          "Dublin Ireland travel guide",
+          "best places to visit in Dublin",
+          "Dublin landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Trinity College Library",
+          "wiki_title": "Old Library, Trinity College Dublin",
+          "lat": 53.3438,
+          "lng": -6.2546,
+          "order_index": 0,
+          "description": "Home to the Book of Kells, this 18th-century library is an architectural masterpiece.",
+          "seo_phrase": "Visit the Historic Trinity College Library in Dublin",
+          "seo_keywords": [
+            "Trinity College",
+            "Book of Kells",
+            "Dublin libraries",
+            "Irish history",
+            "Long Room"
+          ],
+          "commons_file": "Long Room Interior, Trinity College Dublin.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Long_Room_Interior%2C_Trinity_College_Dublin.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Stephen's Green",
+            "Grafton Street",
+            "Dublin Castle"
+          ]
+        },
+        {
+          "name": "St. Patrick's Cathedral",
+          "wiki_title": "St Patrick's Cathedral, Dublin",
+          "lat": 53.3394,
+          "lng": -6.2736,
+          "order_index": 1,
+          "description": "The largest cathedral in Ireland, built in honor of the country's patron saint.",
+          "seo_phrase": "Discover St. Patrick's Cathedral Dublin",
+          "seo_keywords": [
+            "St Patrick's Cathedral",
+            "Dublin churches",
+            "Gothic architecture",
+            "Jonathan Swift",
+            "Irish landmarks"
+          ],
+          "commons_file": "St Patricks Cathedral Dublin 2016.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/St_Patricks_Cathedral_Dublin_2016.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Marsh's Library",
+            "Dublin Castle",
+            "Guinness Storehouse"
+          ]
+        },
+        {
+          "name": "Guinness Storehouse",
+          "wiki_title": "Guinness Storehouse",
+          "lat": 53.3419,
+          "lng": -6.2867,
+          "order_index": 2,
+          "description": "An immersive seven-story experience detailing the brewing process of Guinness.",
+          "seo_phrase": "Guinness Storehouse: Dublin's Top Attraction",
+          "seo_keywords": [
+            "Guinness Storehouse",
+            "Dublin beer tour",
+            "St James Gate",
+            "Gravity Bar",
+            "Things to do in Dublin"
+          ],
+          "commons_file": "Guinness Storehouse Dublin.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Guinness_Storehouse_Dublin.JPG",
+          "seo_priority": 100,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Patrick's Cathedral",
+            "Dublin Castle"
+          ]
+        },
+        {
+          "name": "Dublin Castle",
+          "wiki_title": "Dublin Castle",
+          "lat": 53.343,
+          "lng": -6.2673,
+          "order_index": 3,
+          "description": "Dublin Castle has been the site of significant historical events for over 800 years. Today, it functions as a major government complex and a tourist destination. Highlights include the State Apartment",
+          "seo_phrase": "Explore Dublin Castle: History & State Apartments",
+          "seo_keywords": [
+            "Dublin Castle",
+            "Irish history",
+            "Dublin state apartments",
+            "Government buildings Dublin",
+            "Medieval tower"
+          ],
+          "commons_file": "Dublin Castle State Apartments courtyard.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Dublin_Castle_State_Apartments_courtyard.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "City Hall",
+            "Temple Bar",
+            "Christ Church Cathedral"
+          ]
+        },
+        {
+          "name": "Phoenix Park",
+          "wiki_title": "Phoenix Park, Dublin",
+          "lat": 53.3556,
+          "lng": -6.3298,
+          "order_index": 4,
+          "description": "A massive urban park offering wildlife, heritage, and recreational space.",
+          "seo_phrase": "Visit Phoenix Park: Dublin's Urban Oasis",
+          "seo_keywords": [
+            "Phoenix Park",
+            "Dublin parks",
+            "Dublin Zoo",
+            "wild deer Dublin",
+            "Áras an Uachtaráin"
+          ],
+          "commons_file": "Phoenix Park Deer.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Phoenix_Park_Deer.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Dublin Zoo",
+            "Farmleigh House"
+          ]
+        },
+        {
+          "name": "St. Stephen's Green",
+          "wiki_title": "St Stephen's Green",
+          "lat": 53.3374,
+          "lng": -6.2575,
+          "order_index": 5,
+          "description": "A historic, beautifully landscaped park at the top of Grafton Street.",
+          "seo_phrase": "St. Stephen's Green: Iconic Dublin Park",
+          "seo_keywords": [
+            "St Stephens Green",
+            "Dublin city center parks",
+            "Dublin walking tours",
+            "Victorian gardens Dublin"
+          ],
+          "commons_file": "St Stephens Green Dublin Ireland.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/St_Stephens_Green_Dublin_Ireland.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Grafton Street",
+            "Little Museum of Dublin",
+            "National Museum of Ireland"
+          ]
+        },
+        {
+          "name": "National Museum of Ireland - Archaeology",
+          "wiki_title": "National Museum of Ireland – Archaeology",
+          "lat": 53.3401,
+          "lng": -6.2536,
+          "order_index": 6,
+          "description": "A world-class museum showcasing Ireland's prehistoric and historical treasures.",
+          "seo_phrase": "National Museum of Ireland: Archaeology Highlights",
+          "seo_keywords": [
+            "National Museum of Ireland",
+            "Irish archaeology",
+            "Celtic artifacts",
+            "Viking Dublin",
+            "Irish gold"
+          ],
+          "commons_file": "National Museum of Ireland Archaeology Dublin.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/National_Museum_of_Ireland_Archaeology_Dublin.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "National Library of Ireland",
+            "Leinster House",
+            "St. Stephen's Green"
+          ]
+        },
+        {
+          "name": "EPIC The Irish Emigration Museum",
+          "wiki_title": "EPIC The Irish Emigration Museum",
+          "lat": 53.3496,
+          "lng": -6.2476,
+          "order_index": 7,
+          "description": "An interactive museum exploring the global history of the Irish diaspora.",
+          "seo_phrase": "EPIC The Irish Emigration Museum - Dublin",
+          "seo_keywords": [
+            "EPIC Museum",
+            "Irish diaspora",
+            "Dublin interactive museums",
+            "Irish emigration",
+            "Chq Building"
+          ],
+          "commons_file": "EPIC The Irish Emigration Museum.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/EPIC_The_Irish_Emigration_Museum.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Jeanie Johnston Tall Ship",
+            "Custom House"
+          ]
+        },
+        {
+          "name": "Merrion Square",
+          "wiki_title": "Merrion Square",
+          "lat": 53.3385,
+          "lng": -6.2492,
+          "order_index": 8,
+          "description": "A beautiful Georgian square surrounded by elegant period townhouses.",
+          "seo_phrase": "Merrion Square: Georgian Dublin Charm",
+          "seo_keywords": [
+            "Merrion Square",
+            "Georgian Dublin",
+            "Oscar Wilde statue",
+            "Dublin city parks",
+            "Leinster House"
+          ],
+          "commons_file": "Oscar Wilde statue Merrion Square.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Oscar_Wilde_statue_Merrion_Square.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "National Gallery of Ireland",
+            "National Museum",
+            "Leinster House"
+          ]
+        },
+        {
+          "name": "Grafton Street",
+          "wiki_title": "Grafton Street",
+          "lat": 53.3421,
+          "lng": -6.2592,
+          "order_index": 9,
+          "description": "The city's most famous pedestrianized shopping street.",
+          "seo_phrase": "Grafton Street: Dublin's Famous Shopping Hub",
+          "seo_keywords": [
+            "Grafton Street",
+            "Dublin shopping",
+            "Dublin street performers",
+            "Bewley's Cafe",
+            "Dublin attractions"
+          ],
+          "commons_file": "Grafton Street Dublin Ireland.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Grafton_Street_Dublin_Ireland.jpg",
+          "seo_priority": 97,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Stephen's Green",
+            "Trinity College",
+            "Royal College of Surgeons"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Cork",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Cork",
+      "seo": {
+        "title": "Top 10 Things to Do in Cork, Ireland",
+        "description": "Discover 10 must-see landmarks in Cork, Ireland. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Cork? Explore the best places to visit in Cork, Ireland.",
+        "keywords": [
+          "things to do in Cork",
+          "Cork Ireland travel guide",
+          "best places to visit in Cork",
+          "Cork landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "The English Market",
+          "wiki_title": "English Market",
+          "lat": 51.8973,
+          "lng": -8.4754,
+          "order_index": 0,
+          "description": "A bustling indoor market featuring fresh local produce and artisanal goods.",
+          "seo_phrase": "Visit The English Market in Cork City",
+          "seo_keywords": [
+            "English Market",
+            "Cork food",
+            "artisan food Cork",
+            "Irish markets",
+            "Cork city centre"
+          ],
+          "commons_file": "English Market, Cork.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/English_Market%2C_Cork.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "St. Fin Barre's Cathedral",
+            "Crawford Art Gallery"
+          ]
+        },
+        {
+          "name": "St. Fin Barre's Cathedral",
+          "wiki_title": "Saint Fin Barre's Cathedral",
+          "lat": 51.895,
+          "lng": -8.4788,
+          "order_index": 1,
+          "description": "A stunning 19th-century cathedral known for its intricate stone carvings.",
+          "seo_phrase": "St. Fin Barre's Cathedral: Gothic Splendor in Cork",
+          "seo_keywords": [
+            "St Fin Barre's Cathedral",
+            "Cork architecture",
+            "Gothic churches Ireland",
+            "William Burges",
+            "historic Cork"
+          ],
+          "commons_file": "St Fin Barre's Cathedral, Cork.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/St_Fin_Barre%27s_Cathedral%2C_Cork.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Elizabeth Fort",
+            "University College Cork"
+          ]
+        },
+        {
+          "name": "University College Cork (UCC)",
+          "wiki_title": "University College Cork",
+          "lat": 51.8931,
+          "lng": -8.4907,
+          "order_index": 2,
+          "description": "An architecturally significant campus with rich history and gardens.",
+          "seo_phrase": "Discover University College Cork: A Historic Campus",
+          "seo_keywords": [
+            "University College Cork",
+            "UCC campus",
+            "historic buildings Cork",
+            "Glucksman Gallery",
+            "Cork walking"
+          ],
+          "commons_file": "UCC Main Quad.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/UCC_Main_Quad.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Fitzgerald Park",
+            "Cork Public Museum"
+          ]
+        },
+        {
+          "name": "Fitzgerald Park",
+          "wiki_title": "Fitzgerald Park, Cork",
+          "lat": 51.8966,
+          "lng": -8.4965,
+          "order_index": 3,
+          "description": "A lush, riverside park providing a peaceful retreat from the city center.",
+          "seo_phrase": "Fitzgerald Park: Cork's Peaceful Green Space",
+          "seo_keywords": [
+            "Fitzgerald Park",
+            "Cork parks",
+            "Cork Public Museum",
+            "River Lee walk",
+            "gardens Cork"
+          ],
+          "commons_file": "Fitzgerald Park Cork.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Fitzgerald_Park_Cork.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "UCC",
+            "Cork Public Museum",
+            "Daly's Bridge"
+          ]
+        },
+        {
+          "name": "Crawford Art Gallery",
+          "wiki_title": "Crawford Art Gallery",
+          "lat": 51.9008,
+          "lng": -8.4735,
+          "order_index": 4,
+          "description": "A premier art institution housing a significant permanent collection.",
+          "seo_phrase": "Explore Art at the Crawford Art Gallery, Cork",
+          "seo_keywords": [
+            "Crawford Art Gallery",
+            "Cork art",
+            "Irish art galleries",
+            "Cork culture",
+            "sculpture collection"
+          ],
+          "commons_file": "Crawford Art Gallery Cork.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Crawford_Art_Gallery_Cork.JPG",
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "English Market",
+            "St. Mary's Cathedral"
+          ]
+        },
+        {
+          "name": "Nano Nagle Place",
+          "wiki_title": "Nano Nagle Place",
+          "lat": 51.8955,
+          "lng": -8.4746,
+          "order_index": 5,
+          "description": "A stunningly restored heritage site, museum, and secret garden.",
+          "seo_phrase": "Visit Nano Nagle Place: Heritage and Gardens",
+          "seo_keywords": [
+            "Nano Nagle Place",
+            "Cork heritage sites",
+            "hidden gems Cork",
+            "Cork gardens",
+            "history of Cork"
+          ],
+          "commons_file": "Nano Nagle Place Cork.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Nano_Nagle_Place_Cork.JPG",
+          "seo_priority": 86,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "English Market",
+            "Elizabeth Fort"
+          ]
+        },
+        {
+          "name": "Shandon Bells & St. Anne's Church",
+          "wiki_title": "St. Anne's Church, Shandon",
+          "lat": 51.9029,
+          "lng": -8.4771,
+          "order_index": 6,
+          "description": "A historic church tower where visitors can ring the bells themselves.",
+          "seo_phrase": "Ring the Shandon Bells in Cork City",
+          "seo_keywords": [
+            "Shandon Bells",
+            "St Anne's Church Cork",
+            "Cork landmarks",
+            "interactive tourist attractions Cork"
+          ],
+          "commons_file": "Shandon Bells Cork.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Shandon_Bells_Cork.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Butter Museum",
+            "Cork City Centre"
+          ]
+        },
+        {
+          "name": "Elizabeth Fort",
+          "wiki_title": "Elizabeth Fort",
+          "lat": 51.894,
+          "lng": -8.4731,
+          "order_index": 7,
+          "description": "A well-preserved star-shaped fort with ancient stone walls.",
+          "seo_phrase": "Explore Elizabeth Fort: A Historic Cork Landmark",
+          "seo_keywords": [
+            "Elizabeth Fort",
+            "Cork history",
+            "military history Cork",
+            "star forts Ireland",
+            "Cork panoramic views"
+          ],
+          "commons_file": "Elizabeth Fort Cork.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Elizabeth_Fort_Cork.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Nano Nagle Place",
+            "St. Fin Barre's Cathedral"
+          ]
+        },
+        {
+          "name": "Blackrock Castle Observatory",
+          "wiki_title": "Blackrock Castle Observatory",
+          "lat": 51.8845,
+          "lng": -8.4049,
+          "order_index": 8,
+          "description": "A riverside castle that now houses an observatory and science center.",
+          "seo_phrase": "Visit Blackrock Castle Observatory in Cork",
+          "seo_keywords": [
+            "Blackrock Castle",
+            "Cork Observatory",
+            "space science Ireland",
+            "riverside castles Cork",
+            "astronomy center"
+          ],
+          "commons_file": "Blackrock Castle.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Blackrock_Castle.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Marina Park"
+          ]
+        },
+        {
+          "name": "Cork Public Museum",
+          "wiki_title": "Cork Public Museum",
+          "lat": 51.8969,
+          "lng": -8.496,
+          "order_index": 9,
+          "description": "A municipal museum dedicated to the history and heritage of Cork.",
+          "seo_phrase": "Discover History at Cork Public Museum",
+          "seo_keywords": [
+            "Cork Public Museum",
+            "Cork local history",
+            "museums in Cork",
+            "Fitzgerald Park",
+            "Irish city history"
+          ],
+          "commons_file": "Cork Public Museum.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Cork_Public_Museum.JPG",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Fitzgerald Park",
+            "UCC"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Galway",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Galway",
+      "seo": {
+        "title": "Top 10 Things to Do in Galway, Ireland",
+        "description": "Discover 10 must-see landmarks in Galway, Ireland. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Galway? Explore the best places to visit in Galway, Ireland.",
+        "keywords": [
+          "things to do in Galway",
+          "Galway Ireland travel guide",
+          "best places to visit in Galway",
+          "Galway landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Eyre Square",
+          "wiki_title": "Eyre Square",
+          "lat": 53.2736,
+          "lng": -9.0506,
+          "order_index": 0,
+          "description": "The primary public park and meeting point in the city center.",
+          "seo_phrase": "Eyre Square: The Heart of Galway City",
+          "seo_keywords": [
+            "Eyre Square",
+            "Galway city center",
+            "Galway meeting point",
+            "Galway shopping",
+            "John F Kennedy Memorial Park"
+          ],
+          "commons_file": "Eyre Square, Galway.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Eyre_Square%2C_Galway.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Shop Street",
+            "Galway Railway Station"
+          ]
+        },
+        {
+          "name": "Spanish Arch",
+          "wiki_title": "Spanish Arch, Galway",
+          "lat": 53.2694,
+          "lng": -9.0536,
+          "order_index": 1,
+          "description": "A historic landmark and former city gate on the riverbank.",
+          "seo_phrase": "Explore the Iconic Spanish Arch in Galway",
+          "seo_keywords": [
+            "Spanish Arch",
+            "Galway history",
+            "Galway landmarks",
+            "River Corrib",
+            "medieval Galway"
+          ],
+          "commons_file": "Spanish Arch Galway.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Spanish_Arch_Galway.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Galway City Museum",
+            "Quay Street"
+          ]
+        },
+        {
+          "name": "Galway Cathedral",
+          "wiki_title": "Galway Cathedral",
+          "lat": 53.2754,
+          "lng": -9.0567,
+          "order_index": 2,
+          "description": "A striking modern cathedral built on the site of an old prison.",
+          "seo_phrase": "Visit the Stunning Galway Cathedral",
+          "seo_keywords": [
+            "Galway Cathedral",
+            "Galway architecture",
+            "churches in Ireland",
+            "religious sites Galway"
+          ],
+          "commons_file": "Galway Cathedral Ireland.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Galway_Cathedral_Ireland.JPG",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Salmon Weir Bridge",
+            "University of Galway"
+          ]
+        },
+        {
+          "name": "Lynch's Castle",
+          "wiki_title": "Lynch's Castle",
+          "lat": 53.2721,
+          "lng": -9.0535,
+          "order_index": 3,
+          "description": "A fine example of a medieval Irish fortified townhouse.",
+          "seo_phrase": "Visit Lynch's Castle: Medieval Gem in Galway",
+          "seo_keywords": [
+            "Lynch's Castle",
+            "Galway medieval history",
+            "historic buildings Ireland",
+            "Galway city center"
+          ],
+          "commons_file": "Lynch's Castle Galway.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Lynch%27s_Castle_Galway.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Shop Street",
+            "Eyre Square"
+          ]
+        },
+        {
+          "name": "Quay Street",
+          "wiki_title": "Quay Street, Galway",
+          "lat": 53.2707,
+          "lng": -9.0543,
+          "order_index": 4,
+          "description": "The most famous street in Galway, renowned for its lively nightlife and buskers.",
+          "seo_phrase": "Quay Street: Galway's Vibrant Cultural Strip",
+          "seo_keywords": [
+            "Quay Street",
+            "Galway pubs",
+            "Galway music",
+            "Irish nightlife",
+            "Galway tourism"
+          ],
+          "commons_file": "Quay Street Galway.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Quay_Street_Galway.jpg",
+          "seo_priority": 99,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Spanish Arch",
+            "Latin Quarter"
+          ]
+        },
+        {
+          "name": "Salthill Promenade",
+          "wiki_title": "Salthill",
+          "lat": 53.2587,
+          "lng": -9.0722,
+          "order_index": 5,
+          "description": "A long seaside promenade perfect for ocean views and fresh air.",
+          "seo_phrase": "Stroll the Salthill Promenade in Galway",
+          "seo_keywords": [
+            "Salthill Promenade",
+            "Galway Bay",
+            "seaside walks Ireland",
+            "Galway outdoor activities"
+          ],
+          "commons_file": "Salthill Promenade.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Salthill_Promenade.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Galway Bay",
+            "Blackrock Diving Tower"
+          ]
+        },
+        {
+          "name": "Hall of the Red Earl",
+          "wiki_title": "Hall of the Red Earl",
+          "lat": 53.2709,
+          "lng": -9.053,
+          "order_index": 6,
+          "description": "An ancient archaeological site and former seat of power.",
+          "seo_phrase": "Discover the Hall of the Red Earl, Galway",
+          "seo_keywords": [
+            "Hall of the Red Earl",
+            "medieval Galway",
+            "Galway history",
+            "archaeology Ireland"
+          ],
+          "commons_file": "Hall of the Red Earl Galway.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Hall_of_the_Red_Earl_Galway.jpg",
+          "seo_priority": 81,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Spanish Arch",
+            "Quay Street"
+          ]
+        },
+        {
+          "name": "University of Galway",
+          "wiki_title": "University of Galway",
+          "lat": 53.2755,
+          "lng": -9.0601,
+          "order_index": 7,
+          "description": "An academic institution with a historic and picturesque campus.",
+          "seo_phrase": "Explore the University of Galway Campus",
+          "seo_keywords": [
+            "University of Galway",
+            "NUIG campus",
+            "Galway architecture",
+            "historic colleges Ireland"
+          ],
+          "commons_file": "University of Galway Quad.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/University_of_Galway_Quad.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Galway Cathedral",
+            "Salmon Weir Bridge"
+          ]
+        },
+        {
+          "name": "Menlo Castle",
+          "wiki_title": "Menlo Castle",
+          "lat": 53.2875,
+          "lng": -9.0538,
+          "order_index": 8,
+          "description": "A historic, picturesque castle ruin near the river.",
+          "seo_phrase": "Explore the Ruins of Menlo Castle",
+          "seo_keywords": [
+            "Menlo Castle",
+            "Galway ruins",
+            "castles in Galway",
+            "River Corrib"
+          ],
+          "commons_file": "Menlo Castle.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Menlo_Castle.jpg",
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "River Corrib"
+          ]
+        },
+        {
+          "name": "Salmon Weir Bridge",
+          "wiki_title": "Salmon Weir Bridge",
+          "lat": 53.2741,
+          "lng": -9.0545,
+          "order_index": 9,
+          "description": "A picturesque bridge that offers some of the best city photos.",
+          "seo_phrase": "Salmon Weir Bridge: Iconic View in Galway",
+          "seo_keywords": [
+            "Salmon Weir Bridge",
+            "Galway views",
+            "River Corrib",
+            "Galway photography spots"
+          ],
+          "commons_file": "Salmon Weir Bridge Galway.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Salmon_Weir_Bridge_Galway.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Galway Cathedral",
+            "University of Galway"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Limerick",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Limerick",
+      "seo": {
+        "title": "Top 10 Things to Do in Limerick, Ireland",
+        "description": "Discover 10 must-see landmarks in Limerick, Ireland. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Limerick? Explore the best places to visit in Limerick, Ireland.",
+        "keywords": [
+          "things to do in Limerick",
+          "Limerick Ireland travel guide",
+          "best places to visit in Limerick",
+          "Limerick landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "King John's Castle",
+          "wiki_title": "King John's Castle (Limerick)",
+          "lat": 52.6687,
+          "lng": -8.6258,
+          "order_index": 0,
+          "description": "A 13th-century castle located on King's Island in the city center.",
+          "seo_phrase": "Visit King John's Castle in Limerick",
+          "seo_keywords": [
+            "King John's Castle",
+            "Limerick history",
+            "Norman castles Ireland",
+            "Limerick attractions"
+          ],
+          "commons_file": "King John's Castle Limerick.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/King_John%27s_Castle_Limerick.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "St. Mary's Cathedral",
+            "Hunt Museum"
+          ]
+        },
+        {
+          "name": "St. Mary's Cathedral",
+          "wiki_title": "St Mary's Cathedral, Limerick",
+          "lat": 52.6664,
+          "lng": -8.6231,
+          "order_index": 1,
+          "description": "A historic cathedral featuring ancient stone architecture.",
+          "seo_phrase": "Discover St. Mary's Cathedral in Limerick",
+          "seo_keywords": [
+            "St Mary's Cathedral",
+            "Limerick landmarks",
+            "oldest buildings Limerick",
+            "Irish medieval history"
+          ],
+          "commons_file": "St Marys Cathedral Limerick.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/St_Marys_Cathedral_Limerick.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "King John's Castle",
+            "Hunt Museum"
+          ]
+        },
+        {
+          "name": "The Hunt Museum",
+          "wiki_title": "The Hunt Museum",
+          "lat": 52.6644,
+          "lng": -8.6225,
+          "order_index": 2,
+          "description": "A museum housing a diverse range of historical artifacts and art.",
+          "seo_phrase": "The Hunt Museum: Art & Antiquities in Limerick",
+          "seo_keywords": [
+            "Hunt Museum",
+            "Limerick museums",
+            "Irish art collections",
+            "historical artifacts Limerick"
+          ],
+          "commons_file": "The Hunt Museum Limerick.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/The_Hunt_Museum_Limerick.JPG",
+          "seo_priority": 93,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "King John's Castle",
+            "St. Mary's Cathedral"
+          ]
+        },
+        {
+          "name": "People's Park",
+          "wiki_title": "People's Park, Limerick",
+          "lat": 52.6596,
+          "lng": -8.6256,
+          "order_index": 3,
+          "description": "A historic, beautifully landscaped urban park.",
+          "seo_phrase": "Relax at the People's Park in Limerick",
+          "seo_keywords": [
+            "People's Park",
+            "Limerick parks",
+            "Limerick gardens",
+            "Victorian parks Ireland"
+          ],
+          "commons_file": "Peoples Park Limerick.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Peoples_Park_Limerick.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Limerick City Gallery of Art",
+            "O'Brien Park"
+          ]
+        },
+        {
+          "name": "Thomond Park",
+          "wiki_title": "Thomond Park",
+          "lat": 52.6738,
+          "lng": -8.6322,
+          "order_index": 4,
+          "description": "An iconic stadium famous for its electric rugby atmosphere.",
+          "seo_phrase": "Visit Thomond Park: Home of Munster Rugby",
+          "seo_keywords": [
+            "Thomond Park",
+            "Munster Rugby",
+            "rugby Ireland",
+            "Limerick stadiums",
+            "sports tourism Limerick"
+          ],
+          "commons_file": "Thomond Park.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Thomond_Park.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "King John's Castle"
+          ]
+        },
+        {
+          "name": "Frank McCourt Museum",
+          "wiki_title": "Frank McCourt Museum",
+          "lat": 52.6575,
+          "lng": -8.6258,
+          "order_index": 5,
+          "description": "A small, evocative museum detailing the life of the author in Limerick.",
+          "seo_phrase": "Frank McCourt Museum: Literary History in Limerick",
+          "seo_keywords": [
+            "Frank McCourt Museum",
+            "Angela's Ashes",
+            "Limerick literature",
+            "Irish authors",
+            "Limerick cultural sites"
+          ],
+          "commons_file": "Frank McCourt Museum.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Frank_McCourt_Museum.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "People's Park"
+          ]
+        },
+        {
+          "name": "The Milk Market",
+          "wiki_title": "Milk Market, Limerick",
+          "lat": 52.6631,
+          "lng": -8.6212,
+          "order_index": 6,
+          "description": "A lively, covered market that acts as a community hub.",
+          "seo_phrase": "The Milk Market: Food and Fun in Limerick",
+          "seo_keywords": [
+            "Milk Market",
+            "Limerick food",
+            "local markets Limerick",
+            "Limerick city centre"
+          ],
+          "commons_file": "Milk Market Limerick.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Milk_Market_Limerick.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Hunt Museum"
+          ]
+        },
+        {
+          "name": "Treaty Stone",
+          "wiki_title": "Treaty Stone",
+          "lat": 52.6676,
+          "lng": -8.6288,
+          "order_index": 7,
+          "description": "A symbolic stone marking a significant historical treaty.",
+          "seo_phrase": "See the Treaty Stone in Limerick",
+          "seo_keywords": [
+            "Treaty Stone",
+            "Limerick history",
+            "Treaty of Limerick",
+            "historic monuments Limerick"
+          ],
+          "commons_file": "Treaty Stone Limerick.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Treaty_Stone_Limerick.jpg",
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "King John's Castle"
+          ]
+        },
+        {
+          "name": "Curragower Falls",
+          "wiki_title": "River Shannon",
+          "lat": 52.6685,
+          "lng": -8.628,
+          "order_index": 8,
+          "description": "A dramatic waterfall located in the heart of the city.",
+          "seo_phrase": "View the Curragower Falls in Limerick",
+          "seo_keywords": [
+            "Curragower Falls",
+            "River Shannon",
+            "Limerick riverside",
+            "nature in Limerick"
+          ],
+          "commons_file": "Curragower Falls.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Curragower_Falls.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "King John's Castle"
+          ]
+        },
+        {
+          "name": "O'Brien Park",
+          "wiki_title": "Limerick City",
+          "lat": 52.6601,
+          "lng": -8.6282,
+          "order_index": 9,
+          "description": "A peaceful park area along the banks of the Shannon.",
+          "seo_phrase": "O'Brien Park: Riverside Greenery in Limerick",
+          "seo_keywords": [
+            "O'Brien Park",
+            "Limerick riverside walks",
+            "Limerick city parks",
+            "River Shannon walk"
+          ],
+          "commons_file": "Limerick city riverside.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Limerick_city_riverside.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "People's Park"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Waterford",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Waterford",
+      "seo": {
+        "title": "Top 10 Things to Do in Waterford, Ireland",
+        "description": "Discover 10 must-see landmarks in Waterford, Ireland. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Waterford? Explore the best places to visit in Waterford, Ireland.",
+        "keywords": [
+          "things to do in Waterford",
+          "Waterford Ireland travel guide",
+          "best places to visit in Waterford",
+          "Waterford landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "House of Waterford Crystal",
+          "wiki_title": "Waterford Crystal",
+          "lat": 52.2619,
+          "lng": -7.1121,
+          "order_index": 0,
+          "description": "A premium visitor experience featuring factory tours and a showroom.",
+          "seo_phrase": "Tour the House of Waterford Crystal",
+          "seo_keywords": [
+            "Waterford Crystal",
+            "Waterford attractions",
+            "crystal factory tour",
+            "Irish crafts",
+            "shopping in Waterford"
+          ],
+          "commons_file": "Waterford Crystal Visitor Centre.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Waterford_Crystal_Visitor_Centre.jpg",
+          "seo_priority": 99,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Reginald's Tower",
+            "Bishop's Palace"
+          ]
+        },
+        {
+          "name": "Reginald's Tower",
+          "wiki_title": "Reginald's Tower",
+          "lat": 52.2592,
+          "lng": -7.1065,
+          "order_index": 1,
+          "description": "A historic circular stone tower with deep Viking roots.",
+          "seo_phrase": "Reginald's Tower: Waterford's Viking History",
+          "seo_keywords": [
+            "Reginald's Tower",
+            "Viking history Ireland",
+            "Waterford landmarks",
+            "Viking Triangle"
+          ],
+          "commons_file": "Reginald's Tower.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Reginald%27s_Tower.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Bishop's Palace",
+            "Medieval Museum"
+          ]
+        },
+        {
+          "name": "Bishop's Palace",
+          "wiki_title": "Bishop's Palace, Waterford",
+          "lat": 52.2601,
+          "lng": -7.1088,
+          "order_index": 2,
+          "description": "A magnificent Georgian building turned museum.",
+          "seo_phrase": "Visit the Bishop's Palace Museum, Waterford",
+          "seo_keywords": [
+            "Bishop's Palace",
+            "Waterford museums",
+            "Waterford Treasures",
+            "Georgian architecture Ireland"
+          ],
+          "commons_file": "Bishops Palace Waterford.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bishops_Palace_Waterford.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Medieval Museum",
+            "Reginald's Tower"
+          ]
+        },
+        {
+          "name": "Medieval Museum",
+          "wiki_title": "Medieval Museum, Waterford",
+          "lat": 52.2605,
+          "lng": -7.1083,
+          "order_index": 3,
+          "description": "A modern museum built over medieval ruins.",
+          "seo_phrase": "Explore the Medieval Museum in Waterford",
+          "seo_keywords": [
+            "Medieval Museum",
+            "Waterford history",
+            "medieval Ireland",
+            "Waterford Treasures"
+          ],
+          "commons_file": "Medieval Museum Waterford.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Medieval_Museum_Waterford.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Bishop's Palace",
+            "Reginald's Tower"
+          ]
+        },
+        {
+          "name": "Christ Church Cathedral",
+          "wiki_title": "Christ Church Cathedral, Waterford",
+          "lat": 52.2603,
+          "lng": -7.1082,
+          "order_index": 4,
+          "description": "A neoclassical cathedral built on the site of earlier religious structures.",
+          "seo_phrase": "Discover Christ Church Cathedral, Waterford",
+          "seo_keywords": [
+            "Christ Church Cathedral",
+            "Waterford architecture",
+            "cathedrals in Ireland",
+            "John Roberts"
+          ],
+          "commons_file": "Christ Church Cathedral Waterford.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Christ_Church_Cathedral_Waterford.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Medieval Museum",
+            "Bishop's Palace"
+          ]
+        },
+        {
+          "name": "People's Park",
+          "wiki_title": "Waterford City",
+          "lat": 52.2571,
+          "lng": -7.1026,
+          "order_index": 5,
+          "description": "A well-maintained public park perfect for a leisurely afternoon.",
+          "seo_phrase": "Enjoy the People's Park in Waterford",
+          "seo_keywords": [
+            "People's Park",
+            "Waterford city parks",
+            "leisure in Waterford",
+            "outdoor activities Waterford"
+          ],
+          "commons_file": "Waterford Park.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Waterford_Park.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Waterford City Centre"
+          ]
+        },
+        {
+          "name": "Mount Congreve Gardens",
+          "wiki_title": "Mount Congreve",
+          "lat": 52.2476,
+          "lng": -7.1994,
+          "order_index": 6,
+          "description": "An expansive, world-class garden estate.",
+          "seo_phrase": "Explore the Mount Congreve Gardens, Waterford",
+          "seo_keywords": [
+            "Mount Congreve",
+            "Waterford gardens",
+            "gardens Ireland",
+            "nature lovers Waterford"
+          ],
+          "commons_file": "Mount Congreve Gardens.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Mount_Congreve_Gardens.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Waterford Greenway"
+          ]
+        },
+        {
+          "name": "Viking Triangle",
+          "wiki_title": "Waterford Viking Triangle",
+          "lat": 52.26,
+          "lng": -7.107,
+          "order_index": 7,
+          "description": "The historic quarter of Waterford, rich in Viking and medieval heritage.",
+          "seo_phrase": "Walk the Viking Triangle in Waterford",
+          "seo_keywords": [
+            "Viking Triangle",
+            "Waterford tourism",
+            "history of Waterford",
+            "Viking heritage Ireland"
+          ],
+          "commons_file": "Viking Triangle Waterford.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Viking_Triangle_Waterford.jpg",
+          "seo_priority": 97,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Reginald's Tower",
+            "Medieval Museum"
+          ]
+        },
+        {
+          "name": "John Roberts Square",
+          "wiki_title": "John Roberts Square",
+          "lat": 52.2586,
+          "lng": -7.1084,
+          "order_index": 8,
+          "description": "The main shopping plaza in Waterford city centre.",
+          "seo_phrase": "Visit John Roberts Square: Waterford's Shopping Hub",
+          "seo_keywords": [
+            "John Roberts Square",
+            "Waterford shopping",
+            "Waterford city centre",
+            "Irish pedestrian plazas"
+          ],
+          "commons_file": "John Roberts Square Waterford.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/John_Roberts_Square_Waterford.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Viking Triangle"
+          ]
+        },
+        {
+          "name": "Waterford Treasures",
+          "wiki_title": "Waterford Treasures",
+          "lat": 52.2598,
+          "lng": -7.1075,
+          "order_index": 9,
+          "description": "A collective of world-class museums in the Viking Triangle.",
+          "seo_phrase": "Discover Waterford Treasures: Museums of History",
+          "seo_keywords": [
+            "Waterford Treasures",
+            "Waterford museums",
+            "history of Waterford",
+            "Irish museum collective"
+          ],
+          "commons_file": "Waterford Treasures Museums.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Waterford_Treasures_Museums.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Reginald's Tower",
+            "Medieval Museum"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Kilkenny",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Kilkenny",
+      "seo": {
+        "title": "Top 10 Things to Do in Kilkenny, Ireland",
+        "description": "Discover 10 must-see landmarks in Kilkenny, Ireland. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Kilkenny? Explore the best places to visit in Kilkenny, Ireland.",
+        "keywords": [
+          "things to do in Kilkenny",
+          "Kilkenny Ireland travel guide",
+          "best places to visit in Kilkenny",
+          "Kilkenny landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Kilkenny Castle",
+          "wiki_title": "Kilkenny Castle",
+          "lat": 52.6486,
+          "lng": -7.2479,
+          "order_index": 0,
+          "description": "A magnificent castle with beautiful parklands and interior tours.",
+          "seo_phrase": "Visit the Historic Kilkenny Castle",
+          "seo_keywords": [
+            "Kilkenny Castle",
+            "Kilkenny tourism",
+            "castles in Ireland",
+            "Kilkenny history"
+          ],
+          "commons_file": "Kilkenny Castle.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Kilkenny_Castle.jpg",
+          "seo_priority": 100,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "St. Canice's Cathedral",
+            "Medieval Mile"
+          ]
+        },
+        {
+          "name": "St. Canice's Cathedral",
+          "wiki_title": "St Canice's Cathedral, Kilkenny",
+          "lat": 52.6558,
+          "lng": -7.2555,
+          "order_index": 1,
+          "description": "A medieval cathedral with a famous round tower.",
+          "seo_phrase": "Explore St. Canice's Cathedral, Kilkenny",
+          "seo_keywords": [
+            "St Canice's Cathedral",
+            "Kilkenny round tower",
+            "medieval Kilkenny",
+            "Irish cathedrals"
+          ],
+          "commons_file": "St Canice's Cathedral.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/St_Canice%27s_Cathedral.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kilkenny Castle",
+            "Medieval Mile"
+          ]
+        },
+        {
+          "name": "The Black Abbey",
+          "wiki_title": "Black Abbey, Kilkenny",
+          "lat": 52.6554,
+          "lng": -7.2524,
+          "order_index": 2,
+          "description": "A historic, peaceful Dominican friary.",
+          "seo_phrase": "Discover the Black Abbey in Kilkenny",
+          "seo_keywords": [
+            "Black Abbey",
+            "Kilkenny history",
+            "Dominican friaries",
+            "Kilkenny churches"
+          ],
+          "commons_file": "Black Abbey Kilkenny.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Black_Abbey_Kilkenny.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Canice's Cathedral",
+            "Medieval Mile"
+          ]
+        },
+        {
+          "name": "Rothe House",
+          "wiki_title": "Rothe House",
+          "lat": 52.6528,
+          "lng": -7.2514,
+          "order_index": 3,
+          "description": "An excellently preserved merchant townhouse museum.",
+          "seo_phrase": "Explore Rothe House: Medieval Townhouse in Kilkenny",
+          "seo_keywords": [
+            "Rothe House",
+            "Kilkenny history",
+            "medieval houses Ireland",
+            "Kilkenny museums"
+          ],
+          "commons_file": "Rothe House Kilkenny.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Rothe_House_Kilkenny.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Medieval Mile",
+            "Kilkenny Castle"
+          ]
+        },
+        {
+          "name": "Medieval Mile",
+          "wiki_title": "Kilkenny",
+          "lat": 52.653,
+          "lng": -7.252,
+          "order_index": 4,
+          "description": "A historical route through the center of Kilkenny city.",
+          "seo_phrase": "Walk the Medieval Mile in Kilkenny",
+          "seo_keywords": [
+            "Medieval Mile",
+            "Kilkenny city walks",
+            "Kilkenny history",
+            "medieval Ireland"
+          ],
+          "commons_file": "Kilkenny Medieval Mile.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Kilkenny_Medieval_Mile.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kilkenny Castle",
+            "St. Canice's Cathedral"
+          ]
+        },
+        {
+          "name": "Smithwick's Experience",
+          "wiki_title": "Smithwick's",
+          "lat": 52.6515,
+          "lng": -7.251,
+          "order_index": 5,
+          "description": "An interactive tour of a famous historic brewery.",
+          "seo_phrase": "Visit Smithwick's Experience in Kilkenny",
+          "seo_keywords": [
+            "Smithwick's Experience",
+            "Kilkenny breweries",
+            "Irish beer",
+            "Kilkenny attractions"
+          ],
+          "commons_file": "Smithwicks Experience Kilkenny.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Smithwicks_Experience_Kilkenny.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kilkenny Castle",
+            "Medieval Mile"
+          ]
+        },
+        {
+          "name": "Butler Gallery",
+          "wiki_title": "Butler Gallery",
+          "lat": 52.648,
+          "lng": -7.247,
+          "order_index": 6,
+          "description": "An art gallery housed in a former castle building.",
+          "seo_phrase": "Visit the Butler Gallery in Kilkenny",
+          "seo_keywords": [
+            "Butler Gallery",
+            "Kilkenny art",
+            "contemporary art Ireland",
+            "Kilkenny culture"
+          ],
+          "commons_file": "Butler Gallery Kilkenny.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Butler_Gallery_Kilkenny.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Kilkenny Castle",
+            "Medieval Mile"
+          ]
+        },
+        {
+          "name": "The Tholsel",
+          "wiki_title": "The Tholsel, Kilkenny",
+          "lat": 52.6521,
+          "lng": -7.2515,
+          "order_index": 7,
+          "description": "A landmark historic building now serving as city hall.",
+          "seo_phrase": "The Tholsel: Historic Building in Kilkenny",
+          "seo_keywords": [
+            "The Tholsel",
+            "Kilkenny buildings",
+            "historic architecture Ireland",
+            "Kilkenny city hall"
+          ],
+          "commons_file": "The Tholsel Kilkenny.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/The_Tholsel_Kilkenny.jpg",
+          "seo_priority": 76,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Medieval Mile",
+            "Rothe House"
+          ]
+        },
+        {
+          "name": "Canal Walk",
+          "wiki_title": "Kilkenny",
+          "lat": 52.6465,
+          "lng": -7.245,
+          "order_index": 8,
+          "description": "A tranquil riverside walk near the castle.",
+          "seo_phrase": "Stroll the Canal Walk in Kilkenny",
+          "seo_keywords": [
+            "Canal Walk",
+            "Kilkenny walks",
+            "River Nore",
+            "nature Kilkenny"
+          ],
+          "commons_file": "Kilkenny Canal Walk.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Kilkenny_Canal_Walk.jpg",
+          "seo_priority": 79,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kilkenny Castle"
+          ]
+        },
+        {
+          "name": "St. Mary's Medieval Mile Museum",
+          "wiki_title": "Medieval Mile Museum",
+          "lat": 52.6533,
+          "lng": -7.2518,
+          "order_index": 9,
+          "description": "A state-of-the-art museum documenting the city's medieval past.",
+          "seo_phrase": "Medieval Mile Museum: History of Kilkenny",
+          "seo_keywords": [
+            "Medieval Mile Museum",
+            "Kilkenny history",
+            "Irish museums",
+            "Kilkenny cultural heritage"
+          ],
+          "commons_file": "Medieval Mile Museum.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Medieval_Mile_Museum.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Medieval Mile",
+            "Rothe House"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Killarney",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Killarney",
+      "seo": {
+        "title": "Top 10 Things to Do in Killarney, Ireland",
+        "description": "Discover 10 must-see landmarks in Killarney, Ireland. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Killarney? Explore the best places to visit in Killarney, Ireland.",
+        "keywords": [
+          "things to do in Killarney",
+          "Killarney Ireland travel guide",
+          "best places to visit in Killarney",
+          "Killarney landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Ross Castle",
+          "wiki_title": "Ross Castle",
+          "lat": 52.0468,
+          "lng": -9.5312,
+          "order_index": 0,
+          "description": "A historic fortress on the banks of Killarney's main lake.",
+          "seo_phrase": "Visit the Historic Ross Castle in Killarney",
+          "seo_keywords": [
+            "Ross Castle",
+            "Killarney National Park",
+            "castles in Kerry",
+            "Irish history"
+          ],
+          "commons_file": "Ross Castle Killarney.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Ross_Castle_Killarney.jpg",
+          "seo_priority": 97,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Killarney National Park",
+            "Innisfallen Island"
+          ]
+        },
+        {
+          "name": "Muckross House",
+          "wiki_title": "Muckross House",
+          "lat": 52.0227,
+          "lng": -9.5011,
+          "order_index": 1,
+          "description": "A grand Victorian mansion and working farm setting.",
+          "seo_phrase": "Explore Muckross House in Killarney",
+          "seo_keywords": [
+            "Muckross House",
+            "Killarney attractions",
+            "Victorian architecture Ireland",
+            "Kerry heritage"
+          ],
+          "commons_file": "Muckross House Killarney.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Muckross_House_Killarney.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Torc Waterfall",
+            "Ross Castle"
+          ]
+        },
+        {
+          "name": "St. Mary's Cathedral",
+          "wiki_title": "St Mary's Cathedral, Killarney",
+          "lat": 52.0622,
+          "lng": -9.5165,
+          "order_index": 2,
+          "description": "A beautiful, soaring Gothic Revival cathedral.",
+          "seo_phrase": "Visit St. Mary's Cathedral in Killarney",
+          "seo_keywords": [
+            "St Mary's Cathedral",
+            "Killarney churches",
+            "Gothic revival architecture Ireland"
+          ],
+          "commons_file": "St Marys Cathedral Killarney.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/St_Marys_Cathedral_Killarney.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Killarney House"
+          ]
+        },
+        {
+          "name": "Killarney National Park",
+          "wiki_title": "Killarney National Park",
+          "lat": 52.0233,
+          "lng": -9.5111,
+          "order_index": 3,
+          "description": "A massive, world-famous national park.",
+          "seo_phrase": "Discover Killarney National Park",
+          "seo_keywords": [
+            "Killarney National Park",
+            "nature in Kerry",
+            "lakes of Killarney",
+            "hiking in Ireland"
+          ],
+          "commons_file": "Killarney National Park View.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Killarney_National_Park_View.jpg",
+          "seo_priority": 100,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Ross Castle",
+            "Muckross House",
+            "Torc Waterfall"
+          ]
+        },
+        {
+          "name": "Innisfallen Island",
+          "wiki_title": "Innisfallen Island",
+          "lat": 52.0526,
+          "lng": -9.5446,
+          "order_index": 4,
+          "description": "A beautiful, historic island in the middle of Lough Leane.",
+          "seo_phrase": "Visit Innisfallen Island, Killarney",
+          "seo_keywords": [
+            "Innisfallen Island",
+            "Killarney boat tours",
+            "Irish monastic history",
+            "Lough Leane"
+          ],
+          "commons_file": "Innisfallen Island Killarney.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Innisfallen_Island_Killarney.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Ross Castle",
+            "Killarney National Park"
+          ]
+        },
+        {
+          "name": "Torc Waterfall",
+          "wiki_title": "Torc Waterfall",
+          "lat": 52.015,
+          "lng": -9.4938,
+          "order_index": 5,
+          "description": "A stunning 20-meter high waterfall surrounded by lush nature.",
+          "seo_phrase": "Visit Torc Waterfall in Killarney",
+          "seo_keywords": [
+            "Torc Waterfall",
+            "Killarney nature",
+            "waterfalls in Ireland",
+            "Killarney walking"
+          ],
+          "commons_file": "Torc Waterfall Killarney.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Torc_Waterfall_Killarney.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Muckross House",
+            "Killarney National Park"
+          ]
+        },
+        {
+          "name": "Knockreer Estate",
+          "wiki_title": "Killarney National Park",
+          "lat": 52.065,
+          "lng": -9.508,
+          "order_index": 6,
+          "description": "A quiet and scenic part of the national park.",
+          "seo_phrase": "Stroll through Knockreer Estate",
+          "seo_keywords": [
+            "Knockreer Estate",
+            "Killarney walking trails",
+            "nature in Kerry",
+            "Killarney views"
+          ],
+          "commons_file": "Knockreer House Killarney.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Knockreer_House_Killarney.jpg",
+          "seo_priority": 79,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Killarney House",
+            "St. Mary's Cathedral"
+          ]
+        },
+        {
+          "name": "Franciscan Friary",
+          "wiki_title": "Killarney",
+          "lat": 52.06,
+          "lng": -9.513,
+          "order_index": 7,
+          "description": "A historic church and friary in the center of town.",
+          "seo_phrase": "Visit the Franciscan Friary in Killarney",
+          "seo_keywords": [
+            "Franciscan Friary",
+            "Killarney churches",
+            "history of Killarney"
+          ],
+          "commons_file": "Franciscan Friary Killarney.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Franciscan_Friary_Killarney.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Mary's Cathedral",
+            "Killarney House"
+          ]
+        },
+        {
+          "name": "Deenagh Lodge",
+          "wiki_title": "Killarney National Park",
+          "lat": 52.061,
+          "lng": -9.512,
+          "order_index": 8,
+          "description": "A historic and charming lodge building.",
+          "seo_phrase": "Visit Deenagh Lodge in Killarney",
+          "seo_keywords": [
+            "Deenagh Lodge",
+            "Killarney National Park",
+            "Killarney photography spots"
+          ],
+          "commons_file": "Deenagh Lodge Killarney.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Deenagh_Lodge_Killarney.jpg",
+          "seo_priority": 77,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Mary's Cathedral",
+            "Killarney House"
+          ]
+        },
+        {
+          "name": "Killarney House",
+          "wiki_title": "Killarney House",
+          "lat": 52.062,
+          "lng": -9.51,
+          "order_index": 9,
+          "description": "A beautifully restored mansion with accessible gardens.",
+          "seo_phrase": "Explore Killarney House and Gardens",
+          "seo_keywords": [
+            "Killarney House",
+            "Killarney gardens",
+            "Killarney visitor center",
+            "Kerry heritage"
+          ],
+          "commons_file": "Killarney House.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Killarney_House.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Deenagh Lodge",
+            "St. Mary's Cathedral"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Westport",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Westport",
+      "seo": {
+        "title": "Top 10 Things to Do in Westport, Ireland",
+        "description": "Discover 10 must-see landmarks in Westport, Ireland. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Westport? Explore the best places to visit in Westport, Ireland.",
+        "keywords": [
+          "things to do in Westport",
+          "Westport Ireland travel guide",
+          "best places to visit in Westport",
+          "Westport landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Westport House",
+          "wiki_title": "Westport House",
+          "lat": 53.7937,
+          "lng": -9.5222,
+          "order_index": 0,
+          "description": "A grand historic estate with rich heritage and family activities.",
+          "seo_phrase": "Visit Westport House: A Historic Gem",
+          "seo_keywords": [
+            "Westport House",
+            "Westport attractions",
+            "Grace O'Malley",
+            "Irish historic houses"
+          ],
+          "commons_file": "Westport House Ireland.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Westport_House_Ireland.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Westport Quay",
+            "The Mall"
+          ]
+        },
+        {
+          "name": "The Mall",
+          "wiki_title": "Westport, County Mayo",
+          "lat": 53.7981,
+          "lng": -9.5255,
+          "order_index": 1,
+          "description": "A scenic, riverside street famous for its charm.",
+          "seo_phrase": "Stroll The Mall in Westport",
+          "seo_keywords": [
+            "The Mall Westport",
+            "Westport walking",
+            "beautiful streets Ireland",
+            "Westport town centre"
+          ],
+          "commons_file": "Westport Mall.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Westport_Mall.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Westport House",
+            "The Octagon"
+          ]
+        },
+        {
+          "name": "Clew Bay Heritage Centre",
+          "wiki_title": "Westport, County Mayo",
+          "lat": 53.795,
+          "lng": -9.53,
+          "order_index": 2,
+          "description": "A museum detailing the history of the local bay and town.",
+          "seo_phrase": "Visit the Clew Bay Heritage Centre",
+          "seo_keywords": [
+            "Clew Bay Heritage Centre",
+            "Westport history",
+            "local museums Westport",
+            "Clew Bay"
+          ],
+          "commons_file": "Westport Quay.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Westport_Quay.jpg",
+          "seo_priority": 84,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Westport House",
+            "Westport Quay"
+          ]
+        },
+        {
+          "name": "Holy Trinity Church",
+          "wiki_title": "Westport, County Mayo",
+          "lat": 53.7985,
+          "lng": -9.524,
+          "order_index": 3,
+          "description": "A landmark church that adds to the charm of Westport.",
+          "seo_phrase": "Visit Holy Trinity Church in Westport",
+          "seo_keywords": [
+            "Holy Trinity Church",
+            "Westport churches",
+            "architecture Westport"
+          ],
+          "commons_file": "Holy Trinity Church Westport.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Holy_Trinity_Church_Westport.jpg",
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Mall",
+            "The Octagon"
+          ]
+        },
+        {
+          "name": "Westport Quay",
+          "wiki_title": "Westport, County Mayo",
+          "lat": 53.796,
+          "lng": -9.535,
+          "order_index": 4,
+          "description": "A charming, historic harbor area near the town center.",
+          "seo_phrase": "Explore Westport Quay: Seaside Charm",
+          "seo_keywords": [
+            "Westport Quay",
+            "Clew Bay",
+            "Westport restaurants",
+            "seaside towns Ireland"
+          ],
+          "commons_file": "Westport Quay Ireland.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Westport_Quay_Ireland.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Westport House",
+            "Clew Bay Heritage Centre"
+          ]
+        },
+        {
+          "name": "St. Patrick's Church",
+          "wiki_title": "Westport, County Mayo",
+          "lat": 53.8,
+          "lng": -9.523,
+          "order_index": 5,
+          "description": "A large and imposing town church.",
+          "seo_phrase": "Visit St. Patrick's Church, Westport",
+          "seo_keywords": [
+            "St Patrick's Church",
+            "Westport landmarks",
+            "churches Mayo"
+          ],
+          "commons_file": "St Patricks Church Westport.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/St_Patricks_Church_Westport.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Octagon",
+            "The Mall"
+          ]
+        },
+        {
+          "name": "Carrowholly Stables",
+          "wiki_title": "Westport, County Mayo",
+          "lat": 53.82,
+          "lng": -9.54,
+          "order_index": 6,
+          "description": "A popular stable offering scenic rides.",
+          "seo_phrase": "Horse Riding at Carrowholly Stables, Westport",
+          "seo_keywords": [
+            "Carrowholly Stables",
+            "horse riding Mayo",
+            "Westport outdoor activities",
+            "Clew Bay riding"
+          ],
+          "commons_file": "Horseriding Ireland.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Horseriding_Ireland.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Westport Quay"
+          ]
+        },
+        {
+          "name": "Westport Woods",
+          "wiki_title": "Westport, County Mayo",
+          "lat": 53.79,
+          "lng": -9.51,
+          "order_index": 7,
+          "description": "A relaxing wooded area for walking.",
+          "seo_phrase": "Stroll in Westport Woods",
+          "seo_keywords": [
+            "Westport Woods",
+            "nature walks Mayo",
+            "walking Westport"
+          ],
+          "commons_file": "Irish Woodland.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Irish_Woodland.jpg",
+          "seo_priority": 77,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Westport House"
+          ]
+        },
+        {
+          "name": "The Octagon",
+          "wiki_title": "Westport, County Mayo",
+          "lat": 53.7983,
+          "lng": -9.5245,
+          "order_index": 8,
+          "description": "A landmark town square at the heart of Westport.",
+          "seo_phrase": "Visit The Octagon in Westport",
+          "seo_keywords": [
+            "The Octagon",
+            "Westport town centre",
+            "Georgian towns Ireland",
+            "historic squares"
+          ],
+          "commons_file": "The Octagon Westport.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/The_Octagon_Westport.jpg",
+          "seo_priority": 79,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Mall",
+            "St. Patrick's Church"
+          ]
+        },
+        {
+          "name": "Great Western Greenway",
+          "wiki_title": "Great Western Greenway",
+          "lat": 53.8,
+          "lng": -9.53,
+          "order_index": 9,
+          "description": "A world-class off-road trail through stunning coastal scenery.",
+          "seo_phrase": "Cycle the Great Western Greenway from Westport",
+          "seo_keywords": [
+            "Great Western Greenway",
+            "cycling Mayo",
+            "walking trails Ireland",
+            "Westport adventures"
+          ],
+          "commons_file": "Great Western Greenway.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Great_Western_Greenway.jpg",
+          "seo_priority": 100,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Westport Quay",
+            "Westport House"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Cobh",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Cobh",
+      "seo": {
+        "title": "Top 10 Things to Do in Cobh, Ireland",
+        "description": "Discover 10 must-see landmarks in Cobh, Ireland. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Cobh? Explore the best places to visit in Cobh, Ireland.",
+        "keywords": [
+          "things to do in Cobh",
+          "Cobh Ireland travel guide",
+          "best places to visit in Cobh",
+          "Cobh landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Cobh Cathedral (St. Colman's)",
+          "wiki_title": "Cobh Cathedral",
+          "lat": 51.8519,
+          "lng": -8.2974,
+          "order_index": 0,
+          "description": "A massive, stunning cathedral dominating the skyline.",
+          "seo_phrase": "Visit St. Colman's Cathedral in Cobh",
+          "seo_keywords": [
+            "St Colman's Cathedral",
+            "Cobh landmarks",
+            "Gothic churches Ireland",
+            "Cobh history"
+          ],
+          "commons_file": "St Colman's Cathedral Cobh.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/St_Colman%27s_Cathedral_Cobh.jpg",
+          "seo_priority": 97,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Titanic Experience",
+            "Cobh Promenade"
+          ]
+        },
+        {
+          "name": "Titanic Experience Cobh",
+          "wiki_title": "Titanic Experience Cobh",
+          "lat": 51.85,
+          "lng": -8.295,
+          "order_index": 1,
+          "description": "An immersive museum about the Titanic's last port of call.",
+          "seo_phrase": "Titanic Experience: Learn History in Cobh",
+          "seo_keywords": [
+            "Titanic Experience",
+            "Cobh history",
+            "Titanic Ireland",
+            "emigration history Cobh"
+          ],
+          "commons_file": "Titanic Experience Cobh.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Titanic_Experience_Cobh.jpg",
+          "seo_priority": 99,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Cobh Cathedral",
+            "Annie Moore Statue"
+          ]
+        },
+        {
+          "name": "Spike Island",
+          "wiki_title": "Spike Island, County Cork",
+          "lat": 51.843,
+          "lng": -8.279,
+          "order_index": 2,
+          "description": "A historic island fortress accessible by ferry.",
+          "seo_phrase": "Visit Spike Island in Cobh",
+          "seo_keywords": [
+            "Spike Island",
+            "Cobh tourism",
+            "Ireland's Alcatraz",
+            "historic forts Ireland"
+          ],
+          "commons_file": "Spike Island Fortress.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Spike_Island_Fortress.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Cobh Cathedral",
+            "Titanic Experience"
+          ]
+        },
+        {
+          "name": "Cobh Promenade",
+          "wiki_title": "Cobh",
+          "lat": 51.8505,
+          "lng": -8.293,
+          "order_index": 3,
+          "description": "A seaside promenade with great harbor views.",
+          "seo_phrase": "Stroll the Cobh Promenade",
+          "seo_keywords": [
+            "Cobh Promenade",
+            "seaside walks Ireland",
+            "Cobh harbor",
+            "Cobh tourism"
+          ],
+          "commons_file": "Cobh Promenade.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Cobh_Promenade.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Titanic Experience",
+            "Annie Moore Statue"
+          ]
+        },
+        {
+          "name": "Annie Moore Statue",
+          "wiki_title": "Annie Moore",
+          "lat": 51.85,
+          "lng": -8.2935,
+          "order_index": 4,
+          "description": "A touching monument to Irish emigration.",
+          "seo_phrase": "See the Annie Moore Statue in Cobh",
+          "seo_keywords": [
+            "Annie Moore Statue",
+            "Cobh history",
+            "Irish emigration",
+            "Cobh waterfront"
+          ],
+          "commons_file": "Annie Moore Statue Cobh.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Annie_Moore_Statue_Cobh.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Titanic Experience",
+            "Cobh Promenade"
+          ]
+        },
+        {
+          "name": "Deck of Cards Houses",
+          "wiki_title": "Cobh",
+          "lat": 51.853,
+          "lng": -8.298,
+          "order_index": 5,
+          "description": "A picturesque, colorful street in Cobh.",
+          "seo_phrase": "See the Deck of Cards Houses in Cobh",
+          "seo_keywords": [
+            "Deck of Cards houses",
+            "Cobh photography",
+            "colorful houses Ireland",
+            "Cobh views"
+          ],
+          "commons_file": "Cobh Deck of Cards.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Cobh_Deck_of_Cards.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Cobh Cathedral"
+          ]
+        },
+        {
+          "name": "Cobh Museum",
+          "wiki_title": "Cobh Museum",
+          "lat": 51.851,
+          "lng": -8.294,
+          "order_index": 6,
+          "description": "A small museum exploring the town's rich history.",
+          "seo_phrase": "Explore the Cobh Museum",
+          "seo_keywords": [
+            "Cobh Museum",
+            "local history Cobh",
+            "maritime history Ireland",
+            "things to do in Cobh"
+          ],
+          "commons_file": "Cobh Museum.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Cobh_Museum.jpg",
+          "seo_priority": 76,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Titanic Experience",
+            "Cobh Cathedral"
+          ]
+        },
+        {
+          "name": "Commodore Hotel",
+          "wiki_title": "Cobh",
+          "lat": 51.8502,
+          "lng": -8.2945,
+          "order_index": 7,
+          "description": "A beautiful, historic building overlooking the harbor.",
+          "seo_phrase": "The Commodore Hotel: Historic Cobh Landmark",
+          "seo_keywords": [
+            "Commodore Hotel",
+            "Cobh landmarks",
+            "Cobh harbor",
+            "historic buildings Ireland"
+          ],
+          "commons_file": "Commodore Hotel Cobh.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Commodore_Hotel_Cobh.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Titanic Experience",
+            "Annie Moore Statue"
+          ]
+        },
+        {
+          "name": "Queenstown Story",
+          "wiki_title": "Cobh",
+          "lat": 51.85,
+          "lng": -8.295,
+          "order_index": 8,
+          "description": "A key heritage site focusing on the emigration experience.",
+          "seo_phrase": "Discover the Queenstown Story in Cobh",
+          "seo_keywords": [
+            "Queenstown Story",
+            "Cobh emigration history",
+            "Irish emigration",
+            "Cobh heritage"
+          ],
+          "commons_file": "Cobh Emigration History.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Cobh_Emigration_History.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Titanic Experience",
+            "Cobh Museum"
+          ]
+        },
+        {
+          "name": "Fota Wildlife Park",
+          "wiki_title": "Fota Wildlife Park",
+          "lat": 51.87,
+          "lng": -8.31,
+          "order_index": 9,
+          "description": "A massive, world-class wildlife conservation park.",
+          "seo_phrase": "Visit Fota Wildlife Park near Cobh",
+          "seo_keywords": [
+            "Fota Wildlife Park",
+            "Cobh day trips",
+            "wildlife Ireland",
+            "family activities Cork"
+          ],
+          "commons_file": "Fota Wildlife Park.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Fota_Wildlife_Park.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Cobh town centre"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Sligo",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Sligo",
+      "seo": {
+        "title": "Top 10 Things to Do in Sligo, Ireland",
+        "description": "Discover 10 must-see landmarks in Sligo, Ireland. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Sligo? Explore the best places to visit in Sligo, Ireland.",
+        "keywords": [
+          "things to do in Sligo",
+          "Sligo Ireland travel guide",
+          "best places to visit in Sligo",
+          "Sligo landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "The Model Arts Centre",
+          "wiki_title": "The Model, Sligo",
+          "lat": 54.276,
+          "lng": -8.475,
+          "order_index": 0,
+          "description": "A vibrant hub for art and cultural events.",
+          "seo_phrase": "Visit The Model Arts Centre in Sligo",
+          "seo_keywords": [
+            "The Model Arts Centre",
+            "Sligo art",
+            "Sligo culture",
+            "Irish galleries"
+          ],
+          "commons_file": "The Model Sligo.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/The_Model_Sligo.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Sligo Cathedral",
+            "The Yeats Building"
+          ]
+        },
+        {
+          "name": "Sligo Cathedral (Immaculate Conception)",
+          "wiki_title": "Cathedral of the Immaculate Conception, Sligo",
+          "lat": 54.275,
+          "lng": -8.478,
+          "order_index": 1,
+          "description": "A stunning, neo-Romanesque cathedral.",
+          "seo_phrase": "Visit Sligo Cathedral: A Neo-Romanesque Gem",
+          "seo_keywords": [
+            "Sligo Cathedral",
+            "Sligo architecture",
+            "churches in Ireland",
+            "Sligo landmarks"
+          ],
+          "commons_file": "Sligo Cathedral.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Sligo_Cathedral.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Model Arts Centre",
+            "The Yeats Building"
+          ]
+        },
+        {
+          "name": "The Yeats Building",
+          "wiki_title": "William Butler Yeats",
+          "lat": 54.274,
+          "lng": -8.476,
+          "order_index": 2,
+          "description": "A heritage site and gallery dedicated to W.B. Yeats.",
+          "seo_phrase": "Visit the Yeats Building in Sligo",
+          "seo_keywords": [
+            "Yeats Building",
+            "W.B. Yeats",
+            "Sligo literature",
+            "Irish poets"
+          ],
+          "commons_file": "Yeats Building Sligo.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Yeats_Building_Sligo.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Model Arts Centre",
+            "Sligo Cathedral"
+          ]
+        },
+        {
+          "name": "Sligo Folk Park",
+          "wiki_title": "Sligo Folk Park",
+          "lat": 54.18,
+          "lng": -8.55,
+          "order_index": 3,
+          "description": "An immersive open-air museum.",
+          "seo_phrase": "Visit Sligo Folk Park",
+          "seo_keywords": [
+            "Sligo Folk Park",
+            "rural Ireland history",
+            "Sligo museums",
+            "Irish heritage"
+          ],
+          "commons_file": "Sligo Folk Park.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Sligo_Folk_Park.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Sligo town"
+          ]
+        },
+        {
+          "name": "Cleveragh Park",
+          "wiki_title": "Sligo",
+          "lat": 54.265,
+          "lng": -8.46,
+          "order_index": 4,
+          "description": "A large park for recreation and walking.",
+          "seo_phrase": "Relax at Cleveragh Park in Sligo",
+          "seo_keywords": [
+            "Cleveragh Park",
+            "Sligo parks",
+            "exercise in Sligo",
+            "outdoor spaces Sligo"
+          ],
+          "commons_file": "Cleveragh Park.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Cleveragh_Park.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Garavogue River Walk"
+          ]
+        },
+        {
+          "name": "Garavogue River Walk",
+          "wiki_title": "Garavogue",
+          "lat": 54.275,
+          "lng": -8.47,
+          "order_index": 5,
+          "description": "A riverside trail connecting parts of Sligo.",
+          "seo_phrase": "Walk the Garavogue River in Sligo",
+          "seo_keywords": [
+            "Garavogue River Walk",
+            "Sligo town walks",
+            "River Sligo",
+            "outdoor activities Sligo"
+          ],
+          "commons_file": "Garavogue River.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Garavogue_River.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Sligo Cathedral",
+            "The Model Arts Centre"
+          ]
+        },
+        {
+          "name": "Dooney Rock",
+          "wiki_title": "Lough Gill",
+          "lat": 54.25,
+          "lng": -8.45,
+          "order_index": 6,
+          "description": "A scenic viewpoint and forest walk.",
+          "seo_phrase": "Hike Dooney Rock near Sligo",
+          "seo_keywords": [
+            "Dooney Rock",
+            "Lough Gill",
+            "W.B. Yeats landscapes",
+            "Sligo hiking"
+          ],
+          "commons_file": "Dooney Rock.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Dooney_Rock.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Sligo town"
+          ]
+        },
+        {
+          "name": "Lough Gill",
+          "wiki_title": "Lough Gill",
+          "lat": 54.25,
+          "lng": -8.4,
+          "order_index": 7,
+          "description": "A beautiful lake of literary fame.",
+          "seo_phrase": "Explore Lough Gill near Sligo",
+          "seo_keywords": [
+            "Lough Gill",
+            "W.B. Yeats",
+            "lakes of Sligo",
+            "Irish landscape poetry"
+          ],
+          "commons_file": "Lough Gill.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Lough_Gill.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Dooney Rock",
+            "Sligo town"
+          ]
+        },
+        {
+          "name": "Strandhill Beach",
+          "wiki_title": "Strandhill",
+          "lat": 54.27,
+          "lng": -8.57,
+          "order_index": 8,
+          "description": "A stunning, popular surfing beach.",
+          "seo_phrase": "Visit Strandhill Beach near Sligo",
+          "seo_keywords": [
+            "Strandhill Beach",
+            "surfing Sligo",
+            "Sligo beaches",
+            "Atlantic coast Ireland"
+          ],
+          "commons_file": "Strandhill Beach.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Strandhill_Beach.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Sligo town"
+          ]
+        },
+        {
+          "name": "Sligo Abbey (Church Area)",
+          "wiki_title": "Sligo Abbey",
+          "lat": 54.27,
+          "lng": -8.472,
+          "order_index": 9,
+          "description": "A well-preserved medieval friary ruin.",
+          "seo_phrase": "Explore Historic Sligo Abbey",
+          "seo_keywords": [
+            "Sligo Abbey",
+            "medieval history Ireland",
+            "Sligo tourism",
+            "religious ruins Ireland"
+          ],
+          "commons_file": "Sligo Abbey Ruins.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Sligo_Abbey_Ruins.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Sligo Cathedral",
+            "The Model Arts Centre"
+          ]
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "Ireland Wild Atlantic & Scenic Road Trip",
+    "subtitle": "Explore Ireland beyond the cities — cliffs, national parks, and iconic coastal routes.",
+    "wiki_title": "Ireland",
+    "totalDays": 10,
+    "seo": {
+      "title": "Ireland Road Trip — Wild Atlantic Adventure",
+      "description": "Plan an Ireland road trip with GPS stops, cliffs, national parks, and scenic peninsulas.",
+      "intro": "Explore Ireland beyond the cities with this nature and coastal adventure route.",
+      "keywords": [
+        "Ireland road trip",
+        "Ireland Wild Atlantic Way",
+        "Ireland by car"
+      ]
+    },
+    "places": [
+      {
+        "name": "Cliffs of Moher",
+        "wiki_title": "Cliffs of Moher",
+        "region": "Ireland",
+        "lat": 52.9715,
+        "lng": -9.4264,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "One of Ireland's most spectacular natural landmarks.",
+        "seo_phrase": "Cliffs of Moher: Ireland's Dramatic Coastline",
+        "seo_keywords": [
+          "Cliffs of Moher",
+          "Ireland nature",
+          "Atlantic coast",
+          "Irish natural landmarks"
+        ],
+        "commons_file": "Cliffs of Moher.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Cliffs_of_Moher.jpg",
+        "seo_priority": 100,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Connemara National Park",
+        "wiki_title": "Connemara National Park",
+        "region": "Ireland",
+        "lat": 53.55,
+        "lng": -9.9,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A stunning, vast national park with dramatic mountain views.",
+        "seo_phrase": "Explore Connemara National Park",
+        "seo_keywords": [
+          "Connemara National Park",
+          "hiking Ireland",
+          "Galway nature",
+          "Twelve Bens"
+        ],
+        "commons_file": "Connemara National Park.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Connemara_National_Park.jpg",
+        "seo_priority": 98,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Wicklow Mountains National Park",
+        "wiki_title": "Wicklow Mountains National Park",
+        "region": "Ireland",
+        "lat": 53.05,
+        "lng": -6.35,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A diverse national park close to Dublin.",
+        "seo_phrase": "Visit Wicklow Mountains National Park",
+        "seo_keywords": [
+          "Wicklow Mountains",
+          "Glendalough",
+          "Ireland hiking",
+          "Dublin day trips"
+        ],
+        "commons_file": "Wicklow Mountains.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Wicklow_Mountains.jpg",
+        "seo_priority": 95,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "The Burren National Park",
+        "wiki_title": "The Burren",
+        "region": "Ireland",
+        "lat": 53.05,
+        "lng": -9.1,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A stunning, lunar-like landscape unique in Europe.",
+        "seo_phrase": "Discover The Burren National Park",
+        "seo_keywords": [
+          "The Burren",
+          "Clare nature",
+          "Ireland geology",
+          "Burren National Park"
+        ],
+        "commons_file": "The Burren.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/The_Burren.jpg",
+        "seo_priority": 93,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Ring of Kerry",
+        "wiki_title": "Ring of Kerry",
+        "region": "Ireland",
+        "lat": 51.9,
+        "lng": -10,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Ireland's most famous scenic drive.",
+        "seo_phrase": "Drive the Ring of Kerry",
+        "seo_keywords": [
+          "Ring of Kerry",
+          "Kerry road trip",
+          "Ireland scenic drive",
+          "Kerry tourism"
+        ],
+        "commons_file": "Ring of Kerry.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Ring_of_Kerry.jpg",
+        "seo_priority": 100,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Ring of Beara",
+        "wiki_title": "Beara Peninsula",
+        "region": "Ireland",
+        "lat": 51.65,
+        "lng": -9.8,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A stunning, quiet coastal route.",
+        "seo_phrase": "Explore the Ring of Beara",
+        "seo_keywords": [
+          "Ring of Beara",
+          "West Cork travel",
+          "Ireland road trip",
+          "hidden gems Ireland"
+        ],
+        "commons_file": "Beara Peninsula.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Beara_Peninsula.jpg",
+        "seo_priority": 85,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Dingle Peninsula",
+        "wiki_title": "Dingle Peninsula",
+        "region": "Ireland",
+        "lat": 52.15,
+        "lng": -10.25,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A beautiful coastal area with rich culture.",
+        "seo_phrase": "Visit the Dramatic Dingle Peninsula",
+        "seo_keywords": [
+          "Dingle Peninsula",
+          "Dingle town",
+          "Slea Head Drive",
+          "Ireland coast"
+        ],
+        "commons_file": "Dingle Peninsula.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Dingle_Peninsula.jpg",
+        "seo_priority": 99,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Aran Islands",
+        "wiki_title": "Aran Islands",
+        "region": "Ireland",
+        "lat": 53.13,
+        "lng": -9.7,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A remote, beautiful island chain with rich heritage.",
+        "seo_phrase": "Discover the Aran Islands",
+        "seo_keywords": [
+          "Aran Islands",
+          "Irish culture",
+          "Galway islands",
+          "traditional Ireland"
+        ],
+        "commons_file": "Aran Islands.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Aran_Islands.jpg",
+        "seo_priority": 96,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Loop Head Peninsula",
+        "wiki_title": "Loop Head",
+        "region": "Ireland",
+        "lat": 52.55,
+        "lng": -9.9,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A remote, beautiful coastal peninsula.",
+        "seo_phrase": "Explore Loop Head Peninsula",
+        "seo_keywords": [
+          "Loop Head",
+          "Clare coast",
+          "Ireland lighthouses",
+          "coastal walks Ireland"
+        ],
+        "commons_file": "Loop Head Lighthouse.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Loop_Head_Lighthouse.jpg",
+        "seo_priority": 82,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Slieve League Cliffs",
+        "wiki_title": "Slieve League",
+        "region": "Ireland",
+        "lat": 54.62,
+        "lng": -8.67,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Stunning, massive cliffs in the wild northwest.",
+        "seo_phrase": "Experience the Slieve League Cliffs",
+        "seo_keywords": [
+          "Slieve League",
+          "Donegal cliffs",
+          "Ireland highest cliffs",
+          "wild Atlantic way"
+        ],
+        "commons_file": "Slieve League.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Slieve_League.jpg",
+        "seo_priority": 94,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      }
+    ]
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "_comment": "Manual GPS / wiki / maps_query fixes for vague map pins. Key: country|city|name",
+  "fixes": {
+    "Croatia|Šibenik|Old Town Šibenik": {
+      "wiki_title": "Cathedral of St. James, Šibenik",
+      "lat": 43.7356,
+      "lng": 15.8892,
+      "maps_query": "Cathedral of St. James, Šibenik, Croatia"
+    },
+    "Croatia|Rovinj|Rovinj Old Town": {
+      "wiki_title": "Church of St. Euphemia, Rovinj",
+      "lat": 45.0822,
+      "lng": 13.6347,
+      "maps_query": "Church of St. Euphemia, Rovinj, Croatia"
+    },
+    "Croatia|Rovinj|Rovinj Marina": {
+      "wiki_title": "Rovinj Marina",
+      "lat": 45.0811,
+      "lng": 13.6344,
+      "maps_query": "ACI Marina Rovinj, Rovinj, Croatia"
+    },
+    "Croatia|Rovinj|Lone Bay": {
+      "maps_query": "Lone Bay Beach, Rovinj, Croatia"
+    },
+    "Croatia|Osijek|Drava Promenade": {
+      "wiki_title": "Drava Promenade",
+      "lat": 45.5631,
+      "lng": 18.682,
+      "maps_query": "Promenada uz Dravu, Osijek, Croatia"
+    },
+    "Croatia|Osijek|Sakuntala Park": {
+      "wiki_title": "Sakuntala Park",
+      "lat": 45.5608,
+      "lng": 18.6958,
+      "maps_query": "Sakuntala Park, Osijek, Croatia"
+    },
+    "Croatia|Varaždin|Varaždin Old Town": {
+      "wiki_title": "Varaždin Castle",
+      "lat": 46.3073,
+      "lng": 16.3364,
+      "maps_query": "Stari grad Varaždin, Varaždin, Croatia"
+    },
+    "Croatia|Varaždin|St. Florian Square": {
+      "wiki_title": "St. Florian Square",
+      "lat": 46.3064,
+      "lng": 16.3392,
+      "maps_query": "Trg sv. Florijana, Varaždin, Croatia"
+    },
+    "Cyprus|Limassol|Molos Promenade": {
+      "maps_query": "Molos Limassol promenade, Cyprus"
+    },
+    "Cyprus|Kyrenia|Shipwreck Museum": {
+      "lat": 35.3429,
+      "lng": 33.3216,
+      "maps_query": "Kyrenia Shipwreck Museum, Kyrenia Castle, Cyprus"
+    },
+    "Cyprus|Paralimni|Protaras Coastal Promenade": {
+      "wiki_title": "Protaras",
+      "lat": 35.0125,
+      "lng": 34.058,
+      "maps_query": "Protaras Fig Tree Bay promenade, Paralimni, Cyprus"
+    },
+    "Cyprus|Polis Chrysochous|Lara Bay": {
+      "wiki_title": "Akamas Peninsula",
+      "lat": 34.965,
+      "lng": 32.405,
+      "maps_query": "Lara Beach, Akamas, Cyprus"
+    },
+    "Czech Republic|Prague|Old Town Square": {
+      "wiki_title": "Old Town Square",
+      "lat": 50.0875,
+      "lng": 14.4213,
+      "maps_query": "Staroměstské náměstí, Prague, Czech Republic"
+    },
+    "Czech Republic|Prague|Old Town Hall": {
+      "wiki_title": "Old Town Hall (Prague)",
+      "lat": 50.0871,
+      "lng": 14.4207,
+      "maps_query": "Old Town Hall Prague Astronomical Clock, Czech Republic"
+    },
+    "Czech Republic|Prague|Prague Astronomical Clock": {
+      "lat": 50.087,
+      "lng": 14.4208,
+      "maps_query": "Prague Astronomical Clock, Old Town Square, Czech Republic"
+    },
+    "Czech Republic|Brno|Old Town Hall, Brno": {
+      "wiki_title": "Old Town Hall, Brno",
+      "lat": 49.194,
+      "lng": 16.6087,
+      "maps_query": "Old Town Hall Brno, Czech Republic"
+    },
+    "Czech Republic|Hradec Králové|Bílá věž view terrace": {
+      "lat": 50.2089,
+      "lng": 15.8328,
+      "maps_query": "White Tower viewing terrace, Hradec Králové, Czech Republic"
+    },
+    "Bosnia and Herzegovina|Tuzla|Tuzla City Fountain": {
+      "wiki_title": "Tuzla City Fountain",
+      "lat": 44.5384,
+      "lng": 18.6769,
+      "maps_query": "Slana Banja fountain, Tuzla, Bosnia and Herzegovina"
+    },
+    "Bosnia and Herzegovina|Zenica|City Museum Zenica": {
+      "wiki_title": "City Museum Zenica",
+      "lat": 44.2031,
+      "lng": 17.9078,
+      "maps_query": "City Museum Zenica, Bosnia and Herzegovina"
+    },
+    "Bosnia and Herzegovina|Bihać|Spring of Una": {
+      "wiki_title": "Una (river)",
+      "lat": 44.8185,
+      "lng": 15.8725,
+      "maps_query": "Una River spring, Bihać, Bosnia and Herzegovina"
+    },
+    "Bosnia and Herzegovina|Trebinje|Trebinje Old Town": {
+      "wiki_title": "Trebinje Old Town",
+      "lat": 42.7119,
+      "lng": 18.3444,
+      "maps_query": "Hercegovačka Gračanica, Trebinje, Bosnia and Herzegovina"
+    },
+    "Bosnia and Herzegovina|Jajce|Jajce Old Town": {
+      "wiki_title": "Jajce Old Town",
+      "lat": 44.3405,
+      "lng": 17.268,
+      "maps_query": "Jajce Fortress, Jajce, Bosnia and Herzegovina"
+    },
+    "Bosnia and Herzegovina|Neum|Neum Beach": {
+      "wiki_title": "Neum Beach",
+      "lat": 42.9236,
+      "lng": 17.6156,
+      "maps_query": "Neum Beach, Neum, Bosnia and Herzegovina"
+    },
+    "Bosnia and Herzegovina|Neum|Neum Bay": {
+      "wiki_title": "Neum Bay",
+      "lat": 42.9245,
+      "lng": 17.6175,
+      "maps_query": "Neum waterfront, Bosnia and Herzegovina"
+    },
+    "Bosnia and Herzegovina|Travnik|Travnik Old Town": {
+      "wiki_title": "Travnik Old Town",
+      "lat": 44.2255,
+      "lng": 17.6645,
+      "maps_query": "Travnik Old Town bazaar, Bosnia and Herzegovina"
+    },
+    "Estonia|Tallinn|Tallinn Old Town": {
+      "wiki_title": "Tallinn Old Town",
+      "lat": 59.4378,
+      "lng": 24.7456,
+      "maps_query": "Town Hall Square Tallinn, Estonia"
+    },
+    "Estonia|Tartu|Tartu Raatuse Bridge": {
+      "wiki_title": "Tartu Raatuse Bridge",
+      "lat": 58.378,
+      "lng": 26.728,
+      "maps_query": "Tartu Raatuse Bridge, Tartu, Estonia"
+    },
+    "Estonia|Pärnu|Pärnu Beach": {
+      "wiki_title": "Pärnu Beach",
+      "lat": 58.3742,
+      "lng": 24.5025,
+      "maps_query": "Pärnu Beach, Pärnu, Estonia"
+    },
+    "Estonia|Pärnu|Rannaküla promenade": {
+      "wiki_title": "Rannaküla promenade",
+      "lat": 58.3725,
+      "lng": 24.5042,
+      "maps_query": "Pärnu beach promenade Rannaküla, Estonia"
+    },
+    "Estonia|Pärnu|Pärnu Vallikäär": {
+      "wiki_title": "Pärnu Vallikäär",
+      "lat": 58.3862,
+      "lng": 24.4952,
+      "maps_query": "Pärnu Vallikäär, Pärnu, Estonia"
+    },
+    "Estonia|Pärnu|Pärnu Central Park": {
+      "wiki_title": "Pärnu Central Park",
+      "lat": 58.3848,
+      "lng": 24.4988,
+      "maps_query": "Pärnu Central Park, Estonia"
+    },
+    "Estonia|Pärnu|Pärnu Town Hall": {
+      "wiki_title": "Pärnu Town Hall",
+      "lat": 58.3854,
+      "lng": 24.4992,
+      "maps_query": "Pärnu Town Hall, Pärnu, Estonia"
+    },
+    "Estonia|Narva|Narva Bastions": {
+      "wiki_title": "Narva Castle",
+      "lat": 59.3768,
+      "lng": 28.1945,
+      "maps_query": "Narva Castle bastions, Narva, Estonia"
+    },
+    "Estonia|Narva|Narva Art Gallery": {
+      "wiki_title": "Narva Art Gallery",
+      "lat": 59.3782,
+      "lng": 28.1902,
+      "maps_query": "Narva Art Gallery, Narva, Estonia"
+    },
+    "Estonia|Narva|Victory Monument, Narva": {
+      "wiki_title": "Victory Monument, Narva",
+      "lat": 59.3762,
+      "lng": 28.1882,
+      "maps_query": "Victory Monument Narva, Estonia"
+    },
+    "Estonia|Narva|Narva River promenade": {
+      "wiki_title": "Narva River",
+      "lat": 59.3752,
+      "lng": 28.2002,
+      "maps_query": "Narva promenade Narva River, Estonia"
+    },
+    "Estonia|Haapsalu|Haapsalu Promenade": {
+      "wiki_title": "Haapsalu Promenade",
+      "lat": 58.9412,
+      "lng": 23.5382,
+      "maps_query": "Haapsalu seaside promenade, Estonia"
+    },
+    "Estonia|Haapsalu|Tchaikovsky Bench": {
+      "wiki_title": "Tchaikovsky Bench",
+      "lat": 58.9417,
+      "lng": 23.5378,
+      "maps_query": "Tchaikovsky Bench Haapsalu, Estonia"
+    },
+    "Estonia|Haapsalu|Haapsalu Bay": {
+      "wiki_title": "Haapsalu Bay",
+      "lat": 58.9352,
+      "lng": 23.5352,
+      "maps_query": "Haapsalu Bay viewpoint, Haapsalu, Estonia"
+    },
+    "Estonia|Haapsalu|Haapsalu Old Town": {
+      "wiki_title": "Haapsalu Old Town",
+      "lat": 58.9395,
+      "lng": 23.5405,
+      "maps_query": "Haapsalu Episcopal Castle, Haapsalu, Estonia"
+    },
+    "Estonia|Haapsalu|Museum of the Coastal Swedes": {
+      "wiki_title": "Museum of the Coastal Swedes",
+      "lat": 58.9402,
+      "lng": 23.5392,
+      "maps_query": "Museum of the Coastal Swedes, Haapsalu, Estonia"
+    },
+    "Estonia|Haapsalu|Haapsalu Maria-Magdalena Church": {
+      "wiki_title": "Haapsalu Cathedral",
+      "lat": 58.9425,
+      "lng": 23.5408,
+      "maps_query": "Haapsalu St Mary Magdalene Church, Estonia"
+    },
+    "Estonia|Viljandi|Viljandi Museum": {
+      "wiki_title": "Viljandi Museum",
+      "lat": 58.3637,
+      "lng": 25.5967,
+      "maps_query": "Viljandi Museum, Viljandi, Estonia"
+    },
+    "Estonia|Viljandi|Viljandi Suspension Bridge": {
+      "wiki_title": "Viljandi Suspension Bridge",
+      "lat": 58.3612,
+      "lng": 25.5992,
+      "maps_query": "Viljandi suspension bridge, Estonia"
+    },
+    "Estonia|Viljandi|Viljandi Water Tower": {
+      "wiki_title": "Viljandi Water Tower",
+      "lat": 58.3647,
+      "lng": 25.5987,
+      "maps_query": "Viljandi Water Tower, Viljandi, Estonia"
+    },
+    "Estonia|Viljandi|Viljandi Old Town": {
+      "wiki_title": "St Paul's Church, Viljandi",
+      "lat": 58.3638,
+      "lng": 25.5972,
+      "maps_query": "St Paul's Church, Viljandi, Estonia"
+    },
+    "Estonia|Kuressaare|Kuressaare Town Hall": {
+      "wiki_title": "Kuressaare Town Hall",
+      "lat": 58.2492,
+      "lng": 22.4852,
+      "maps_query": "Kuressaare Town Hall, Estonia"
+    },
+    "Estonia|Kuressaare|Spa Hall, Kuressaare": {
+      "wiki_title": "Spa Hall, Kuressaare",
+      "lat": 58.2512,
+      "lng": 22.4842,
+      "maps_query": "Kuressaare Spa Hall, Estonia"
+    },
+    "Estonia|Kuressaare|Kuressaare Beach": {
+      "wiki_title": "Kuressaare Beach",
+      "lat": 58.2482,
+      "lng": 22.4902,
+      "maps_query": "Kuressaare Beach, Estonia"
+    },
+    "Estonia|Kuressaare|Kuressaare Old Town": {
+      "wiki_title": "Kuressaare Old Town",
+      "lat": 58.2495,
+      "lng": 22.4845,
+      "maps_query": "Kuressaare Town Hall, Saaremaa, Estonia"
+    },
+    "Estonia|Kuressaare|Church of St Lawrence, Kuressaare": {
+      "wiki_title": "Church of St Lawrence, Kuressaare",
+      "lat": 58.2498,
+      "lng": 22.4855,
+      "maps_query": "Church of St Lawrence Kuressaare, Estonia"
+    },
+    "Estonia|Rakvere|Rakvere Citizen's Museum": {
+      "wiki_title": "Rakvere Citizen's Museum",
+      "lat": 59.3487,
+      "lng": 26.3567,
+      "maps_query": "Rakvere Citizen's Museum, Estonia"
+    },
+    "Estonia|Rakvere|Rakvere Central Square": {
+      "wiki_title": "Rakvere Central Square",
+      "lat": 59.3477,
+      "lng": 26.357,
+      "maps_query": "Rakvere Central Square, Estonia"
+    },
+    "Estonia|Rakvere|Rakvere Pikk Street": {
+      "wiki_title": "Rakvere Pikk Street",
+      "lat": 59.348,
+      "lng": 26.3577,
+      "maps_query": "Pikk Street Rakvere, Estonia"
+    },
+    "Estonia|Rakvere|Rakvere Lutheran Church": {
+      "wiki_title": "Holy Trinity Church, Rakvere",
+      "lat": 59.3485,
+      "lng": 26.3575,
+      "maps_query": "Rakvere Holy Trinity Church, Estonia"
+    },
+    "Estonia|Paide|Paide Church": {
+      "wiki_title": "Paide Church",
+      "lat": 58.8837,
+      "lng": 25.5577,
+      "maps_query": "Paide Church, Estonia"
+    },
+    "Estonia|Paide|Paide Central Square": {
+      "wiki_title": "Paide Central Square",
+      "lat": 58.8835,
+      "lng": 25.5574,
+      "maps_query": "Paide Central Square, Estonia"
+    },
+    "Estonia|Paide|Paide Museum": {
+      "wiki_title": "Paide Museum",
+      "lat": 58.884,
+      "lng": 25.557,
+      "maps_query": "Paide Museum, Estonia"
+    },
+    "Estonia|Paide|Paide Old Town": {
+      "wiki_title": "Paide Old Town",
+      "lat": 58.8834,
+      "lng": 25.5574,
+      "maps_query": "Paide Town Hall, Estonia"
+    },
+    "Estonia|Paide|Paide St Jacob Church": {
+      "wiki_title": "Paide St Jacob Church",
+      "lat": 58.8838,
+      "lng": 25.5578,
+      "maps_query": "Paide St Jacob Church, Estonia"
+    },
+    "Estonia|Paide|Eivere Manor": {
+      "wiki_title": "Eivere mõis",
+      "lat": 58.948191,
+      "lng": 25.555325,
+      "maps_query": "Eivere Manor, Järva County, Estonia"
+    },
+    "Estonia|Otepää|Otepää Ski Centre": {
+      "wiki_title": "Otepää Ski Centre",
+      "lat": 58.0596,
+      "lng": 26.496,
+      "maps_query": "Otepää Ski Centre, Estonia"
+    },
+    "Estonia|Otepää|Otepää Church Hill": {
+      "wiki_title": "Otepää Church Hill",
+      "lat": 58.0594,
+      "lng": 26.4957,
+      "maps_query": "Otepää Church Hill, Estonia"
+    },
+    "Estonia|Otepää|Otepää Lake": {
+      "wiki_title": "Otepää Lake",
+      "lat": 58.0602,
+      "lng": 26.4972,
+      "maps_query": "Otepää Lake, Estonia"
+    }
+  }
+}

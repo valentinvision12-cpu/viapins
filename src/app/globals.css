@@ -1,0 +1,200 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+/* ─── ViaPins Brand Theme ───────────────────────────────────────────────── */
+@theme inline {
+  --color-background:   var(--background);
+  --color-foreground:   var(--foreground);
+  --color-card:         var(--card);
+  --color-card-foreground:     var(--card-foreground);
+  --color-popover:      var(--popover);
+  --color-popover-foreground:  var(--popover-foreground);
+  --color-primary:      var(--primary);
+  --color-primary-foreground:  var(--primary-foreground);
+  --color-secondary:    var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted:        var(--muted);
+  --color-muted-foreground:    var(--muted-foreground);
+  --color-accent:       var(--accent);
+  --color-accent-foreground:   var(--accent-foreground);
+  --color-destructive:  var(--destructive);
+  --color-border:       var(--border);
+  --color-input:        var(--input);
+  --color-ring:         var(--ring);
+  --color-gold:         var(--gold);
+  --color-gold-foreground: var(--gold-foreground);
+
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+:root {
+  /* Layout offsets — nav + optional smart header ad */
+  --site-header-height: 4.75rem;
+  --smart-ad-height: 0px;
+  --footer-ad-height: 0px;
+
+  /* Luxury colour palette — light mode */
+  --radius: 0.625rem;
+
+  /* Warm ivory background */
+  --background:         oklch(0.97 0.012 75);
+  --foreground:         oklch(0.22 0.02 55);
+
+  --card:               oklch(0.99 0.008 75);
+  --card-foreground:    oklch(0.22 0.02 55);
+
+  --popover:            oklch(1     0     0);
+  --popover-foreground: oklch(0.12  0.008 260);
+
+  /* Deep midnight blue — primary brand colour */
+  --primary:            oklch(0.22  0.07  250);
+  --primary-foreground: oklch(0.985 0     0);
+
+  --secondary:          oklch(0.96  0.006 75);
+  --secondary-foreground: oklch(0.22 0.07 250);
+
+  --muted:              oklch(0.96  0.006 75);
+  --muted-foreground:   oklch(0.52  0.012 260);
+
+  --accent:             oklch(0.96  0.006 75);
+  --accent-foreground:  oklch(0.22  0.07  250);
+
+  --destructive:        oklch(0.577 0.245 27.325);
+
+  --border:             oklch(0.91  0.006 75);
+  --input:              oklch(0.91  0.006 75);
+  --ring:               oklch(0.22  0.07  250);
+
+  /* Antique bronze accent — warm, not neon yellow */
+  --gold:               oklch(0.58 0.07 75);
+  --gold-foreground:    oklch(0.99 0.004 75);
+}
+
+.dark {
+  --background:         oklch(0.12  0.008 260);
+  --foreground:         oklch(0.97  0.004 75);
+
+  --card:               oklch(0.17  0.01  260);
+  --card-foreground:    oklch(0.97  0.004 75);
+
+  --popover:            oklch(0.17  0.01  260);
+  --popover-foreground: oklch(0.97  0.004 75);
+
+  --primary:            oklch(0.97  0.004 75);
+  --primary-foreground: oklch(0.12  0.008 260);
+
+  --secondary:          oklch(0.22  0.012 260);
+  --secondary-foreground: oklch(0.97 0.004 75);
+
+  --muted:              oklch(0.22  0.012 260);
+  --muted-foreground:   oklch(0.62  0.012 260);
+
+  --accent:             oklch(0.22  0.012 260);
+  --accent-foreground:  oklch(0.97  0.004 75);
+
+  --destructive:        oklch(0.704 0.191 22.216);
+
+  --border:             oklch(1     0     0 / 10%);
+  --input:              oklch(1     0     0 / 15%);
+  --ring:               oklch(0.58 0.07 75);
+
+  --gold:               oklch(0.58 0.07 75);
+  --gold-foreground:    oklch(0.12  0.008 260);
+}
+
+/* ─── Base resets ────────────────────────────────────────────────────────── */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: calc(var(--site-header-height) + var(--smart-ad-height, 0px));
+}
+
+* {
+  border-color: var(--color-border);
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-sans), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding-bottom: calc(var(--footer-ad-height, 0px) + env(safe-area-inset-bottom, 0px));
+}
+
+/* ─── Luxury helpers ─────────────────────────────────────────────────────── */
+.text-gold {
+  color: var(--color-gold);
+}
+
+.bg-gold {
+  background-color: var(--color-gold);
+  color: var(--color-gold-foreground);
+}
+
+/* Cinematic image crop */
+.img-cover {
+  object-fit: cover;
+  object-position: center;
+  width: 100%;
+  height: 100%;
+}
+
+/* Smooth fade-in for page transitions */
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0);   }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.45s ease-out forwards;
+}
+
+@keyframes luxury-compass-spin {
+  to { transform: rotate(360deg); }
+}
+
+.hero-compass-spin {
+  animation: luxury-compass-spin 75s linear infinite;
+  will-change: transform;
+}
+
+/* Inner compass dial — rotates inside the brass bezel */
+.hero-compass-dial-spin {
+  position: absolute;
+  inset: -145%;
+  animation: luxury-compass-dial 50s linear infinite;
+  will-change: transform;
+}
+
+@keyframes luxury-compass-dial {
+  to { transform: rotate(360deg); }
+}
+
+/* Needle swings independently */
+.hero-compass-needle {
+  animation: luxury-compass-needle 9s ease-in-out infinite;
+  transform-origin: center center;
+  will-change: transform;
+}
+
+@keyframes luxury-compass-needle {
+  0%, 100% { transform: rotate(-28deg); }
+  50% { transform: rotate(28deg); }
+}
+
+.map-chip-scroll {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+.map-chip-scroll::-webkit-scrollbar {
+  display: none;
+}

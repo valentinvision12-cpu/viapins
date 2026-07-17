@@ -1,0 +1,2877 @@
+{
+  "country": "Liechtenstein",
+  "cities": [
+    {
+      "name": "Vaduz",
+      "region": "Oberland"
+    },
+    {
+      "name": "Schaan",
+      "region": "Unterland"
+    },
+    {
+      "name": "Balzers",
+      "region": "Oberland"
+    },
+    {
+      "name": "Triesenberg",
+      "region": "Oberland"
+    },
+    {
+      "name": "Eschen",
+      "region": "Unterland"
+    },
+    {
+      "name": "Mauren",
+      "region": "Unterland"
+    },
+    {
+      "name": "Triesen",
+      "region": "Oberland"
+    },
+    {
+      "name": "Ruggell",
+      "region": "Unterland"
+    },
+    {
+      "name": "Gamprin",
+      "region": "Unterland"
+    },
+    {
+      "name": "Planken",
+      "region": "Oberland"
+    }
+  ],
+  "attractions": [
+    {
+      "id": "vaduz_castle",
+      "name": "Schloss Vaduz",
+      "city_id": "vaduz",
+      "latitude": 47.1394,
+      "longitude": 9.5244,
+      "google_maps_url": "https://www.google.com/maps?q=47.1394,9.5244",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Vaduz_Castle",
+      "wikidata_id": "Q165484",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Vaduz_Castle_Liechtenstein.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "seo_title": "Vaduz Castle Guide - The Royal Palace of Liechtenstein",
+      "seo_description": "Explore Vaduz Castle, the iconic hilltop fortress and official residence of the Prince of Liechtenstein. Discover history, views, and structural evolution.",
+      "description_short": "The majestic hilltop palace serving as the official residence of the Princely Family.",
+      "description_long": "Perched on a dramatic hillside overlooking the capital, Vaduz Castle is the ultimate symbol of the nation. While the palace interior remains closed to the public to safeguard the privacy of the reigning family, visitors can walk up the scenic trail to admire its exterior medieval architecture and catch panoramic views of the Rhine Valley.",
+      "history_short": "Constructed in the 12th century, the fortress was expanded by the Counts of Werdenberg-Sargans before the Princely Family acquired it in 1712.",
+      "keywords": [
+        "Vaduz Castle",
+        "Liechtenstein royal palace",
+        "medieval fortress",
+        "Vaduz sightseeing",
+        "Rhine valley views"
+      ],
+      "long_tail_keywords": [
+        "how to get to Vaduz Castle",
+        "best photo spots Vaduz Castle",
+        "princely family residence Liechtenstein",
+        "historic castles in Liechtenstein"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 98,
+      "topical_depth_score": 9,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "kunstmuseum_liechtenstein",
+        "postal_museum"
+      ],
+      "related_attractions": [
+        "gutenberg_castle"
+      ],
+      "internal_link_priority": "high",
+      "city": "Vaduz"
+    },
+    {
+      "id": "kunstmuseum_liechtenstein",
+      "name": "Kunstmuseum Liechtenstein",
+      "city_id": "vaduz",
+      "latitude": 47.1391,
+      "longitude": 9.5225,
+      "google_maps_url": "https://www.google.com/maps?q=47.1391,9.5225",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kunstmuseum_Liechtenstein",
+      "wikidata_id": "Q668472",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Kunstmuseum_Liechtenstein_Vaduz.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "seo_title": "Kunstmuseum Liechtenstein - Modern Art Gallery in Vaduz",
+      "seo_description": "Plan your visit to the Kunstmuseum Liechtenstein. View contemporary art exhibitions housed in an award-winning architectural black cube.",
+      "description_short": "A striking black-cube museum showcasing cutting-edge modern and contemporary art.",
+      "description_long": "The Kunstmuseum Liechtenstein stands out with its minimalist architecture made of black basalt and river pebbles. Inside, it hosts a stellar collection of modern and contemporary art, alongside specialized temporary exhibitions that attract art connoisseurs from all over Europe.",
+      "history_short": "Opened in the year 2000, the museum was designed by Swiss architects Morger, Degelo & Kerez to house the state art collection.",
+      "keywords": [
+        "Kunstmuseum Liechtenstein",
+        "Vaduz art museum",
+        "contemporary art Vaduz",
+        "modern art gallery",
+        "Liechtenstein exhibitions"
+      ],
+      "long_tail_keywords": [
+        "modern art collections in Vaduz",
+        "Kunstmuseum black cube building",
+        "what to see in Vaduz downtown",
+        "Liechtenstein contemporary galleries"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 92,
+      "topical_depth_score": 8,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "vaduz_castle",
+        "national_museum"
+      ],
+      "related_attractions": [
+        "gasometer_triesen"
+      ],
+      "internal_link_priority": "high",
+      "city": "Vaduz"
+    },
+    {
+      "id": "national_museum",
+      "name": "Liechtenstein National Museum",
+      "city_id": "vaduz",
+      "latitude": 47.1385,
+      "longitude": 9.5227,
+      "google_maps_url": "https://www.google.com/maps?q=47.1385,9.5227",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Liechtenstein_National_Museum",
+      "wikidata_id": "Q1824945",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Liechtensteinisches_Landesmuseum.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Liechtenstein National Museum - Heritage and Culture",
+      "seo_description": "Discover the heritage, natural history, and culture of the principality at the Liechtenstein National Museum in central Vaduz.",
+      "description_short": "A comprehensive cultural museum detailing the country's unique history and natural world.",
+      "description_long": "Housed within an authentic historic tavern building, the Landesmuseum features dozens of rooms packed with artifacts tracing Liechtenstein's history from Neolithic times to the modern era. It provides excellent context regarding the region's folklore, rural roots, and political development.",
+      "history_short": "The main building dates back to 1438 and served as a princely tavern and custom house before conversion into the National Museum.",
+      "keywords": [
+        "Liechtenstein National Museum",
+        "Landesmuseum Vaduz",
+        "Liechtenstein history",
+        "cultural heritage Vaduz",
+        "historical artifacts"
+      ],
+      "long_tail_keywords": [
+        "history of Liechtenstein museum",
+        "educational things to do in Vaduz",
+        "Vaduz museum tickets and hours",
+        "cultural preservation in Liechtenstein"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 90,
+      "topical_depth_score": 9,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "kunstmuseum_liechtenstein",
+        "parliament_building"
+      ],
+      "related_attractions": [
+        "walser_museum"
+      ],
+      "internal_link_priority": "high",
+      "city": "Vaduz"
+    },
+    {
+      "id": "cathedral_st_florin",
+      "name": "Cathedral of St. Florin",
+      "city_id": "vaduz",
+      "latitude": 47.1363,
+      "longitude": 9.5227,
+      "google_maps_url": "https://www.google.com/maps?q=47.1363,9.5227",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cathedral_of_St._Florin",
+      "wikidata_id": "Q1579450",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/St._Florin_Cathedral%2C_Vaduz.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "St. Florin Cathedral Vaduz - Neo-Gothic Landmark Church",
+      "seo_description": "Visit the elegant Cathedral of St. Florin in Vaduz. Learn about its Neo-Gothic architecture, significance, and towering spire.",
+      "description_short": "The center of Roman Catholic worship in the country, featuring striking Neo-Gothic architectural spires.",
+      "description_long": "The Cathedral of St. Florin rises gracefully against the mountain backdrop of Vaduz. This active Catholic parish church is admired for its stained-glass windows, neat stonework, and peaceful interior sanctuary that welcomes travelers seeking quiet reflection.",
+      "history_short": "Designed by Friedrich von Schmidt, this elegant Neo-Gothic structure was erected between 1869 and 1873.",
+      "keywords": [
+        "St Florin Cathedral",
+        "Vaduz church",
+        "Neo Gothic architecture Vaduz",
+        "religious sites Liechtenstein",
+        "Vaduz cathedral spire"
+      ],
+      "long_tail_keywords": [
+        "historic churches in Vaduz",
+        "St Florin cathedral photography",
+        "Catholic architecture Liechtenstein",
+        "visiting the cathedral in Vaduz"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 88,
+      "topical_depth_score": 7,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "government_house",
+        "parliament_building"
+      ],
+      "related_attractions": [
+        "st_laurentius_schaan"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Vaduz"
+    },
+    {
+      "id": "government_house",
+      "name": "Government House",
+      "city_id": "vaduz",
+      "latitude": 47.1373,
+      "longitude": 9.5227,
+      "google_maps_url": "https://www.google.com/maps?q=47.1373,9.5227",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Government_House,_Vaduz",
+      "wikidata_id": "Q16839352",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Regierungsgeb%C3%A4ude_Liechtenstein_Vaduz.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Government House Vaduz - Neo-Baroque Political Seat",
+      "seo_description": "See the historic Government House in Vaduz, Liechtenstein's official political center featuring beautiful Neo-Baroque architecture.",
+      "description_short": "The stately administrative seat of the national government with beautiful fresco detailing.",
+      "description_long": "Located on Peter-Kaiser-Platz, the Government House stands out with its ornate Neo-Baroque facade. It serves as the official administrative hub where the cabinet meets, providing an excellent photo backdrop for architectural enthusiasts touring the civic center.",
+      "history_short": "Built between 1903 and 1905, it was heavily renovated over the years to balance historic charm with executive governance needs.",
+      "keywords": [
+        "Government House Vaduz",
+        "Peter Kaiser Platz",
+        "Neo Baroque architecture",
+        "Liechtenstein government building",
+        "Vaduz landmarks"
+      ],
+      "long_tail_keywords": [
+        "political center of Liechtenstein",
+        "beautiful buildings in Vaduz",
+        "government district walking tour Vaduz",
+        "historic neo baroque Vaduz"
+      ],
+      "search_intent": "navigational",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 82,
+      "topical_depth_score": 6,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "parliament_building",
+        "cathedral_st_florin"
+      ],
+      "related_attractions": [
+        "schaan_central_square"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Vaduz"
+    },
+    {
+      "id": "parliament_building",
+      "name": "Landtagsgebäude",
+      "city_id": "vaduz",
+      "latitude": 47.137,
+      "longitude": 9.5226,
+      "google_maps_url": "https://www.google.com/maps?q=47.137,9.5226",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Parliament_Building_of_Liechtenstein",
+      "wikidata_id": "Q1804473",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Landtagsgeb%C3%A4ude_Liechtenstein_Vaduz.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Liechtenstein Parliament Building - Avant-Garde Architecture",
+      "seo_description": "Discover the unique architecture of the Landtagsgebäude, Liechtenstein's modern parliament building in the heart of Vaduz.",
+      "description_short": "An avant-garde architectural masterpiece housing the nation's legislative chamber.",
+      "description_long": "With its iconic pitched roof design and extensive usage of warm ocher bricks, the Parliament Building is an architectural highlight. The open square below binds the state's democratic center with the surrounding pedestrian zones seamlessly.",
+      "history_short": "Designed by architect Hansjörg Göritz, the striking building complex was officially inaugurated in 2008.",
+      "keywords": [
+        "Parliament Building Vaduz",
+        "Landtagsgebäude",
+        "modern architecture Vaduz",
+        "Liechtenstein legislature",
+        "Hansjörg Göritz design"
+      ],
+      "long_tail_keywords": [
+        "modern architectural spots in Vaduz",
+        "where does Liechtenstein parliament meet",
+        "Peter Kaiser Platz landmarks",
+        "contemporary civic design Vaduz"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 85,
+      "topical_depth_score": 7,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "government_house",
+        "national_museum"
+      ],
+      "related_attractions": [
+        "alter_pfarrhof"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Vaduz"
+    },
+    {
+      "id": "postal_museum",
+      "name": "Postmuseum",
+      "city_id": "vaduz",
+      "latitude": 47.1386,
+      "longitude": 9.5227,
+      "google_maps_url": "https://www.google.com/maps?q=47.1386,9.5227",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Postal_Museum_(Liechtenstein)",
+      "wikidata_id": "Q2105741",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Postmuseum_Vaduz_Liechtenstein.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Postal Museum Vaduz - Philatelic History Collection",
+      "seo_description": "Visit the Postmuseum in Vaduz to view unique rare postage stamps and historic postal machinery unique to the principality.",
+      "description_short": "A highly specialized museum dedicated to the famous philatelic history of the nation.",
+      "description_long": "Liechtenstein is world-renowned among philatelists for its beautifully designed stamps. The Postal Museum preserves this heritage, showing rare collections, test prints, and historical tools used by postal couriers across the centuries.",
+      "history_short": "Founded in 1930 to safeguard the rich philatelic outputs of the state, it later integrated into the National Museum network.",
+      "keywords": [
+        "Postal Museum Vaduz",
+        "Postmuseum",
+        "Liechtenstein stamps",
+        "philatelic history",
+        "rare stamps collection"
+      ],
+      "long_tail_keywords": [
+        "free museums to visit in Vaduz",
+        "history of Liechtenstein post stamps",
+        "philatelist attractions in Europe",
+        "unique stamp designs Vaduz"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 86,
+      "topical_depth_score": 8,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "national_museum",
+        "treasure_chamber"
+      ],
+      "related_attractions": [
+        "costume_museum_triesen"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Vaduz"
+    },
+    {
+      "id": "red_house",
+      "name": "Das Rote Haus",
+      "city_id": "vaduz",
+      "latitude": 47.1436,
+      "longitude": 9.5273,
+      "google_maps_url": "https://www.google.com/maps?q=47.1436,9.5273",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Red_House_(Vaduz)",
+      "wikidata_id": "Q2168317",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Rotes_Haus_Vaduz_2020.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "The Red House Vaduz - Iconic Medieval Vine-Grower Landmark",
+      "seo_description": "Explore the history of the Red House (Rotes Haus) in Vaduz, a landmark residential medieval tower with a large active vineyard.",
+      "description_short": "A striking medieval residence featuring dark red stepped gables and deep viticulture history.",
+      "description_long": "Located in the historic Oberdorf area, the Red House is a picturesque residential compound framed by sweeping vineyards. Its deep dark red stepped gables and historical wine press assembly make it a staple photography spot along local walking trails.",
+      "history_short": "Constructed originally in the late Middle Ages, the property came into the possession of the Rheinberger artistic family in 1848.",
+      "keywords": [
+        "Red House Vaduz",
+        "Rotes Haus",
+        "medieval tower",
+        "Vaduz vineyards",
+        "historic residential landmarks"
+      ],
+      "long_tail_keywords": [
+        "scenic vineyard walks in Vaduz",
+        "Rotes Haus photography spots",
+        "old quarter of Vaduz attractions",
+        "Rheinberger family heritage Liechtenstein"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 89,
+      "topical_depth_score": 7,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "vaduz_castle",
+        "kunstmuseum_liechtenstein"
+      ],
+      "related_attractions": [
+        "ganni_historic_area"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Vaduz"
+    },
+    {
+      "id": "treasure_chamber",
+      "name": "Liechtenstein Treasure Chamber",
+      "city_id": "vaduz",
+      "latitude": 47.1384,
+      "longitude": 9.5228,
+      "google_maps_url": "https://www.google.com/maps?q=47.1384,9.5228",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Liechtenstein_Treasure_Chamber",
+      "wikidata_id": "Q25383547",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Schatzkammer_Liechtenstein_Entrance.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Schatzkammer Liechtenstein - Royal Treasure Chamber Vaduz",
+      "seo_description": "Plan your trip to the Liechtenstein Treasure Chamber. View crown jewels, historical armor, and rare lunar artifacts.",
+      "description_short": "A glittering high-security vault showcasing the crown jewels and historical treasures of the Prince.",
+      "description_long": "The Treasure Chamber (Schatzkammer) houses precious items owned by the Princely Family. Highlights include the magnificent Princely Crown replica, fine historical weaponry, gemstone collections, and unique moon rocks gifted to the state by NASA.",
+      "history_short": "Opened in 2015 as an extension of the National Museum to house delicate royal jewels under modern conservation conditions.",
+      "keywords": [
+        "Treasure Chamber Vaduz",
+        "Schatzkammer Liechtenstein",
+        "crown jewels",
+        "princely collection",
+        "moon rocks museum"
+      ],
+      "long_tail_keywords": [
+        "see the crown jewels of Liechtenstein",
+        "Schatzkammer Vaduz ticket prices",
+        "princely heritage museum vault",
+        "unique things to do in Vaduz city center"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 91,
+      "topical_depth_score": 8,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "postal_museum",
+        "national_museum"
+      ],
+      "related_attractions": [
+        "pfrundhaus_eschen"
+      ],
+      "internal_link_priority": "high",
+      "city": "Vaduz"
+    },
+    {
+      "id": "old_rhine_bridge",
+      "name": "Alte Rheinbrücke",
+      "city_id": "vaduz",
+      "latitude": 47.1347,
+      "longitude": 9.5122,
+      "google_maps_url": "https://www.google.com/maps?q=47.1347,9.5122",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Old_Rhine_Bridge_(Vaduz)",
+      "wikidata_id": "Q245645",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Alte_Rheinbruecke_Vaduz_Sevelen_2021.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Old Rhine Bridge - Historical Covered Wooden Bridge",
+      "seo_description": "Walk across the Old Rhine Bridge connecting Vaduz with Switzerland. Read about its rustic architecture and pedestrian paths.",
+      "description_short": "The last remaining old covered wooden bridge spanning across the upper Rhine river boundary.",
+      "description_long": "The Alte Rheinbrücke is a stunning covered rustic wooden bridge linking Vaduz with Sevelen in Switzerland. Reserved strictly for walkers and cyclists, it provides a scenic, historic path across the border with sweeping river vistas.",
+      "history_short": "Constructed in 1901 to formalize crossing paths, it stands today as an enduring symbol of regional wooden engineering.",
+      "keywords": [
+        "Old Rhine Bridge",
+        "Alte Rheinbrücke",
+        "wooden bridge Vaduz",
+        "cross Switzerland Liechtenstein border",
+        "Rhine river walkways"
+      ],
+      "long_tail_keywords": [
+        "pedestrian bridge across the Rhine",
+        "historic covered bridges Europe",
+        "biking paths in Vaduz valley",
+        "scenic border crossings Liechtenstein"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 87,
+      "topical_depth_score": 7,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "cathedral_st_florin",
+        "government_house"
+      ],
+      "related_attractions": [
+        "rheindamm_balzers"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Vaduz"
+    },
+    {
+      "id": "st_laurentius_schaan",
+      "name": "St. Laurentius Church",
+      "city_id": "schaan",
+      "latitude": 47.1654,
+      "longitude": 9.5103,
+      "google_maps_url": "https://www.google.com/maps?q=47.1654,9.5103",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/St.Laurentius(Schaan)",
+      "wikidata_id": "Q2316521",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Pfarrkirche_St._Laurentius_Schaan.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "St. Laurentius Church Schaan - Historic Neo-Gothic Landmark",
+      "seo_description": "Visit the iconic St. Laurentius Church in Schaan. Learn about its Neo-Gothic architectural features and towering spire.",
+      "description_short": "An imposing parish church dominating the Schaan skyline with its dramatic spire.",
+      "description_long": "The Pfarrkirche St. Laurentius stands out with its grand Neo-Gothic design. It serves as a spiritual anchor for Schaan's community, boasting well-preserved interior architecture and delicate stained-glass elements.",
+      "history_short": "Built between 1888 and 1893 to accommodate a growing congregation, replacing an older structure that outlived its utility.",
+      "keywords": [
+        "St Laurentius Schaan",
+        "Schaan church",
+        "Neo Gothic church Liechtenstein",
+        "religious heritage Schaan",
+        "skyline of Schaan"
+      ],
+      "long_tail_keywords": [
+        "historic parish churches in Schaan",
+        "Neo Gothic architecture northern Liechtenstein",
+        "visiting St Laurentius tower",
+        "religious landmarks near Vaduz"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 84,
+      "topical_depth_score": 6,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "roman_fort_schaan",
+        "tak_theater"
+      ],
+      "related_attractions": [
+        "cathedral_st_florin"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Schaan"
+    },
+    {
+      "id": "roman_fort_schaan",
+      "name": "Roman Fort Schaan Ruins",
+      "city_id": "schaan",
+      "latitude": 47.1661,
+      "longitude": 9.5107,
+      "google_maps_url": "https://www.google.com/maps?q=47.1661,9.5107",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Kastell_Schaan",
+      "wikidata_id": "Q15823126",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Kastell_Schaan_Ausgrabungen.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Roman Fort Schaan - Ancient Archaeological Excavations",
+      "seo_description": "Explore the ruins of the ancient Roman Fort in Schaan. Discover Roman defense networks along the upper Rhine frontier.",
+      "description_short": "Archaeological structural remains pointing to ancient Roman border fortifications.",
+      "description_long": "The Kastell Schaan ruins showcase historic foundation work from a late Roman fortification system. It offers a tangible look back to ancient times when Roman legionnaires patrolled the strategic river valleys of central Europe.",
+      "history_short": "Erected in the 4th century AD to guard against Germanic incursions, the site remains an important local archaeological zone.",
+      "keywords": [
+        "Roman Fort Schaan",
+        "Kastell Schaan",
+        "archaeological excavations",
+        "Roman ruins Liechtenstein",
+        "ancient history"
+      ],
+      "long_tail_keywords": [
+        "Roman empire sites in Liechtenstein",
+        "archaeological discoveries in Schaan",
+        "visiting ancient foundations Schaan",
+        "Roman defense lines Rhine valley"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 86,
+      "topical_depth_score": 8,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "st_laurentius_schaan",
+        "st_peter_chapel"
+      ],
+      "related_attractions": [
+        "clenia_roman_villa"
+      ],
+      "internal_link_priority": "high",
+      "city": "Schaan"
+    },
+    {
+      "id": "tak_theater",
+      "name": "TAK Theater Liechtenstein",
+      "city_id": "schaan",
+      "latitude": 47.1648,
+      "longitude": 9.5085,
+      "google_maps_url": "https://www.google.com/maps?q=47.1648,9.5085",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Theater_am_Kirchplatz",
+      "wikidata_id": "Q2383515",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/TAK_Theater_Schaan.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "TAK Theater am Kirchplatz Schaan - Performing Arts Center",
+      "seo_description": "Experience performing arts, concerts, and cultural drama at the premier TAK Theater am Kirchplatz venue in Schaan.",
+      "description_short": "The primary cultural hub for drama, concerts, and theatrical arts in the region.",
+      "description_long": "TAK Theater am Kirchplatz presents an array of stage performances ranging from classical drama to contemporary music concerts. It plays an active role in connecting the local artistic community with international touring acts.",
+      "history_short": "Established in 1970, the theater grew steadily to become the premier professional performing arts institution in the country.",
+      "keywords": [
+        "TAK Theater",
+        "Theater am Kirchplatz",
+        "Schaan performance venue",
+        "culture in Liechtenstein",
+        "concerts Schaan"
+      ],
+      "long_tail_keywords": [
+        "theatrical drama stages in Schaan",
+        "cultural events calendar Liechtenstein",
+        "TAK theater performing arts center",
+        "where to see live shows Schaan"
+      ],
+      "search_intent": "commercial",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "booking",
+      "seo_priority_score": 80,
+      "topical_depth_score": 7,
+      "season_tags": [
+        "spring",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "st_laurentius_schaan",
+        "schaan_central_square"
+      ],
+      "related_attractions": [
+        "gasometer_triesen"
+      ],
+      "internal_link_priority": "low",
+      "city": "Schaan"
+    },
+    {
+      "id": "st_peter_chapel",
+      "name": "Chapel of St. Peter",
+      "city_id": "schaan",
+      "latitude": 47.161,
+      "longitude": 9.514,
+      "google_maps_url": "https://www.google.com/maps?q=47.161,9.514",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/St.Peter(Schaan)",
+      "wikidata_id": "Q1832456",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/St._Peter_Chapel_Schaan_Exterior.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "St. Peter Chapel Schaan - Ancient Romanesque Church Site",
+      "seo_description": "Visit the Chapel of St. Peter in Schaan, one of the oldest preserved Christian church sites within the lower valley region.",
+      "description_short": "A serene historic Romanesque chapel holding deep archaeological and religious ties.",
+      "description_long": "The St. Peter Chapel is a cozy sanctuary prized for its preserved old masonry walls and peaceful courtyard environment. Its enduring stone architecture provides a quiet spot for historic contemplation.",
+      "history_short": "Foundation work dates back to early Christian times around the 5th century, with subsequent Romanesque stylistic additions.",
+      "keywords": [
+        "St Peter Chapel",
+        "Schaan historic chapel",
+        "Romanesque architecture",
+        "ancient churches Liechtenstein",
+        "religious sites Schaan"
+      ],
+      "long_tail_keywords": [
+        "oldest churches in Schaan town",
+        "St Peter Romanesque architecture",
+        "historic religious walks Liechtenstein",
+        "sacred art preservation Schaan"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 83,
+      "topical_depth_score": 7,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "roman_fort_schaan",
+        "schaan_station"
+      ],
+      "related_attractions": [
+        "st_mamerten_chapel"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Schaan"
+    },
+    {
+      "id": "dux_chapel",
+      "name": "Dux Forest Chapel",
+      "city_id": "schaan",
+      "latitude": 47.1691,
+      "longitude": 9.527,
+      "google_maps_url": "https://www.google.com/maps?q=47.1691,9.527",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Kapelle_St.Rochus(Schaan)",
+      "wikidata_id": "Q20015560",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Duxkapelle_Schaan_St_Rochus.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Dux Forest Chapel Schaan - St. Rochus Mountain Sanctuary",
+      "seo_description": "Hike up to the scenic Dux Forest Chapel (St. Rochus) in Schaan, a hillside refuge offering fine woodland vistas.",
+      "description_short": "A historic forest chapel dedicated to St. Rochus, framed by alpine woodland walking trails.",
+      "description_long": "Tucked away near the edge of the Dux forest area, this historic chapel is a favorite rest stop for trail walkers. Its peaceful mountain setting makes it a serene viewpoint over the lower settlement lines.",
+      "history_short": "Erected in the 17th century during plague outbreaks as a votive sanctuary dedicated to protective saint Rochus.",
+      "keywords": [
+        "Dux Chapel",
+        "St Rochus Schaan",
+        "forest chapel",
+        "hillside sanctuary",
+        "Schaan mountain trails"
+      ],
+      "long_tail_keywords": [
+        "walking trails to Dux chapel Schaan",
+        "historic plague chapels alpine",
+        "serene spots in Schaan woods",
+        "St Rochus shrine photography"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 81,
+      "topical_depth_score": 6,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "st_laurentius_schaan",
+        "ganni_historic_area"
+      ],
+      "related_attractions": [
+        "masescha_chapel"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Schaan"
+    },
+    {
+      "id": "donau_cultural_space",
+      "name": "DoNaU Cultural Space",
+      "city_id": "schaan",
+      "latitude": 47.164,
+      "longitude": 9.511,
+      "google_maps_url": "https://www.google.com/maps?q=47.164,9.511",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Schaan",
+      "wikidata_id": "Q1856",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Schaan_Zentrum_Strasse.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "DoNaU Cultural Space Schaan - Alternative Local Arts",
+      "seo_description": "Discover alternative arts and regional heritage showcases at the community-led DoNaU space in central Schaan.",
+      "description_short": "A vibrant alternative venue hosting local art expos and community design workshops.",
+      "description_long": "The DoNaU cultural space acts as an incubation point for young artists and craftspeople. It frequently adjusts its interior configurations to showcase modern installations and regional design workshops.",
+      "history_short": "Conceived by local creative groups in the late 2010s to offer flexible meeting venues outside classical state institutions.",
+      "keywords": [
+        "DoNaU Schaan",
+        "cultural spaces",
+        "local artists gallery",
+        "community workshops",
+        "creative Schaan hubs"
+      ],
+      "long_tail_keywords": [
+        "independent art spaces in Schaan",
+        "where to meet local artists Liechtenstein",
+        "alternative culture venues Vaduz Schaan",
+        "community design workshops regional"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 74,
+      "topical_depth_score": 5,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "tak_theater",
+        "schaan_central_square"
+      ],
+      "related_attractions": [
+        "kuefer_martis_huus"
+      ],
+      "internal_link_priority": "low",
+      "city": "Schaan"
+    },
+    {
+      "id": "schaan_central_square",
+      "name": "Schaan Central Square",
+      "city_id": "schaan",
+      "latitude": 47.165,
+      "longitude": 9.5095,
+      "google_maps_url": "https://www.google.com/maps?q=47.165,9.5095",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Schaan",
+      "wikidata_id": "Q1856",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Schaan_Zentrum_Rathausplatz.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Schaan Central Square - Vibrant Modern Civic Hub",
+      "seo_description": "Explore Schaan Central Square, the civic core of Liechtenstein's most populous municipality, bustling with local life.",
+      "description_short": "The modern open-air pedestrian plaza anchoring downtown business and seasonal events.",
+      "description_long": "As the heart of civic life, Schaan Central Square connects premium shopping trails with administrative offices. Its architectural open space regularly serves as a lively venue for open-air markets and seasonal town gatherings.",
+      "history_short": "Redesigned as part of an urban modernization initiative to create pedestrian-first green connection nodes.",
+      "keywords": [
+        "Schaan central square",
+        "Rathausplatz Schaan",
+        "civic hub downtown",
+        "pedestrian zones Liechtenstein",
+        "urban plazas"
+      ],
+      "long_tail_keywords": [
+        "things to do in downtown Schaan",
+        "local markets Schaan square",
+        "pedestrian walkways northern Liechtenstein",
+        "urban centers to explore near Vaduz"
+      ],
+      "search_intent": "navigational",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 78,
+      "topical_depth_score": 5,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "st_laurentius_schaan",
+        "donau_cultural_space"
+      ],
+      "related_attractions": [
+        "government_house"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Schaan"
+    },
+    {
+      "id": "ganni_historic_area",
+      "name": "Ganni Historic Farming Area",
+      "city_id": "schaan",
+      "latitude": 47.171,
+      "longitude": 9.515,
+      "google_maps_url": "https://www.google.com/maps?q=47.171,9.515",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Schaan",
+      "wikidata_id": "Q1856",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Schaan_Ganni_Landschaft.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Ganni Historic Area Schaan - Old Alpine Pastures",
+      "seo_description": "Walk through Ganni, an old farming cluster in Schaan displaying classic alpine architecture and wooden chalets.",
+      "description_short": "A rustic slope neighborhood highlighting traditional wooden barns and old alpine lifestyle.",
+      "description_long": "The Ganni district showcases the rural heritage of the area. Visitors can observe beautifully aged dark timber structures that highlight the old building techniques used by mountain farmers before industrialization arrived.",
+      "history_short": "Preserved for generations by local families to safeguard the original agrarian layout of upper Schaan.",
+      "keywords": [
+        "Ganni Schaan",
+        "historic farming houses",
+        "alpine architecture barns",
+        "wooden chalets",
+        "rural heritage fields"
+      ],
+      "long_tail_keywords": [
+        "traditional alpine barns in Schaan",
+        "rural historical strolls Liechtenstein",
+        "old wooden architecture photo spots",
+        "agrarian heritage preserved houses"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 79,
+      "topical_depth_score": 6,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "dux_chapel",
+        "st_laurentius_schaan"
+      ],
+      "related_attractions": [
+        "red_house"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Schaan"
+    },
+    {
+      "id": "schaan_station",
+      "name": "Schaan-Vaduz Railway Station",
+      "city_id": "schaan",
+      "latitude": 47.1666,
+      "longitude": 9.5161,
+      "google_maps_url": "https://www.google.com/maps?q=47.1666,9.5161",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Schaan-Vaduz_railway_station",
+      "wikidata_id": "Q801416",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Bahnhof_Schaan-Vaduz_2020.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Schaan-Vaduz Railway Station - Historic Train Transit Node",
+      "seo_description": "See the Schaan-Vaduz Railway Station, a well-preserved historic cross-border rail link dating back to the late 19th century.",
+      "description_short": "A landmark cross-border train station connecting the principality with Austria and Switzerland.",
+      "description_long": "Serving as a key transit point, the Schaan-Vaduz station building retains classic layout designs from old railway expansion eras. It forms a key piece of industrial heritage infrastructure within the valley basin.",
+      "history_short": "Inaugurated in 1872 by the Austrian Feldkirch–Buchs line, it remains an active heritage transit building.",
+      "keywords": [
+        "Schaan Vaduz station",
+        "railway heritage",
+        "Liechtenstein transit trains",
+        "historic station house",
+        "cross border tracks"
+      ],
+      "long_tail_keywords": [
+        "train stations in Liechtenstein",
+        "historic rail lines Rhine valley",
+        "Feldkirch Buchs railway connections",
+        "vintage transit infrastructure Schaan"
+      ],
+      "search_intent": "navigational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 77,
+      "topical_depth_score": 6,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "st_peter_chapel",
+        "schaan_central_square"
+      ],
+      "related_attractions": [
+        "nendeln_station"
+      ],
+      "internal_link_priority": "low",
+      "city": "Schaan"
+    },
+    {
+      "id": "specki_center",
+      "name": "Specki Community Space",
+      "city_id": "schaan",
+      "latitude": 47.1632,
+      "longitude": 9.5021,
+      "google_maps_url": "https://www.google.com/maps?q=47.1632,9.5021",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Schaan",
+      "wikidata_id": "Q1856",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Schaan_Industrie_Specki.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Specki Community Space - Modern Leisure Area Schaan",
+      "seo_description": "Visit the modern Specki community and leisure space in western Schaan, featuring green parks and public design features.",
+      "description_short": "A contemporary suburban parkland designed for family leisure and recreational sports.",
+      "description_long": "Specki provides open grassy meadows and modern play landscapes. It serves as a great rest point for cycling enthusiasts heading down the main flat trails near the Rhine pathways.",
+      "history_short": "Constructed by city planners to ensure ample green recreational pockets remained accessible amidst residential expansions.",
+      "keywords": [
+        "Specki Schaan",
+        "community parks",
+        "recreational fields",
+        "green spaces Schaan",
+        "family leisure spots"
+      ],
+      "long_tail_keywords": [
+        "family friendly parks in Schaan",
+        "where to rest near Rhine bike paths",
+        "recreational green zones Liechtenstein",
+        "outdoor family locations Schaan town"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 71,
+      "topical_depth_score": 5,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "schaan_central_square",
+        "donau_cultural_space"
+      ],
+      "related_attractions": [
+        "weiherring_park"
+      ],
+      "internal_link_priority": "low",
+      "city": "Schaan"
+    },
+    {
+      "id": "gutenberg_castle",
+      "name": "Burg Gutenberg",
+      "city_id": "balzers",
+      "latitude": 47.0658,
+      "longitude": 9.4994,
+      "google_maps_url": "https://www.google.com/maps?q=47.0658,9.4994",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gutenberg_Castle",
+      "wikidata_id": "Q666687",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Burg_Gutenberg_Balzers_04.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "seo_title": "Gutenberg Castle Balzers - Southern Fortress Landmark",
+      "seo_description": "Plan your tour of Gutenberg Castle in Balzers. Discover its beautiful hillside rose garden and medieval fortification structures.",
+      "description_short": "An exceptional preserved high-medieval castle standing proudly on a distinct rocky mound.",
+      "description_long": "Burg Gutenberg rises over seventy meters above the surrounding plain on a freestanding rocky hill. The lower courtyard and its manicured rose gardens are open to visitors, showcasing fine defense architecture and views of the southern mountains.",
+      "history_short": "Originating in the High Middle Ages as a church-owned property, it was converted into a fortress and fully restored in the early 1900s.",
+      "keywords": [
+        "Gutenberg Castle",
+        "Burg Gutenberg",
+        "Balzers castle fortress",
+        "medieval heritage",
+        "rose garden viewpoint"
+      ],
+      "long_tail_keywords": [
+        "visiting Gutenberg castle inner courtyard",
+        "best castles to photograph in Liechtenstein",
+        "Balzers historical walking tour",
+        "medieval defensive architecture southern Rhine"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 96,
+      "topical_depth_score": 9,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "st_nicholas_church",
+        "alter_pfarrhof"
+      ],
+      "related_attractions": [
+        "vaduz_castle"
+      ],
+      "internal_link_priority": "high",
+      "city": "Balzers"
+    },
+    {
+      "id": "st_nicholas_church",
+      "name": "Church of St. Nicholas",
+      "city_id": "balzers",
+      "latitude": 47.0671,
+      "longitude": 9.4988,
+      "google_maps_url": "https://www.google.com/maps?q=47.0671,9.4988",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Pfarrkirche_St.Nikolaus(Balzers)",
+      "wikidata_id": "Q15839958",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Pfarrkirche_St._Nikolaus_Balzers.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "St. Nicholas Church Balzers - Architectural Parish Jewel",
+      "seo_description": "Visit the majestic St. Nicholas Church below Gutenberg Castle in Balzers. Admire its stone craft and fine historic design.",
+      "description_short": "A stunning stone parish church located directly below the castle hill slopes.",
+      "description_long": "The Pfarrkirche St. Nikolaus frames the base of Gutenberg hill perfectly. Built with elegant light stonework, its monumental arches and central tower design deliver fine architectural depth to the local village core.",
+      "history_short": "Erected in the early 20th century to replace older parish facilities that suffered recurrent river flooding damage.",
+      "keywords": [
+        "St Nicholas Balzers",
+        "Balzers church",
+        "stone architecture church",
+        "parish house landmarks",
+        "religious sites southern valley"
+      ],
+      "long_tail_keywords": [
+        "historic stone churches Balzers",
+        "St Nicholas church photo spots",
+        "religious art inside Balzers parish",
+        "visiting historic sanctuaries southern Liechtenstein"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 85,
+      "topical_depth_score": 7,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "gutenberg_castle",
+        "st_peter_sanctuary"
+      ],
+      "related_attractions": [
+        "st_gallus_triesen"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Balzers"
+    },
+    {
+      "id": "mariahilf_chapel",
+      "name": "Mariahilf Chapel",
+      "city_id": "balzers",
+      "latitude": 47.0624,
+      "longitude": 9.4962,
+      "google_maps_url": "https://www.google.com/maps?q=47.0624,9.4962",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Kapelle_Mariahilf_(Balzers)",
+      "wikidata_id": "Q23816656",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Mariahilfkapelle_Balzers_M%C3%A4ls.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Mariahilf Chapel Balzers - Historic Mäls Alpine Shrine",
+      "seo_description": "Discover the historic Mariahilf Chapel in the Mäls district of Balzers, featuring baroque artwork and quiet shrines.",
+      "description_short": "A quaint Baroque-era district chapel displaying intimate religious artwork.",
+      "description_long": "Located in the quiet Mäls quarter, Mariahilf Chapel is highly valued for its interior altarpieces and ceiling details. It provides an authentic glance into local baroque devotion styles.",
+      "history_short": "Built around 1716 to give the regional farming neighborhood of Mäls its own local place of prayer.",
+      "keywords": [
+        "Mariahilf Chapel",
+        "Mäls Balzers",
+        "Baroque chapel",
+        "religious shrines",
+        "historic Balzers districts"
+      ],
+      "long_tail_keywords": [
+        "Baroque art inside Mariahilf Balzers",
+        "Mäls neighborhood historical walking path",
+        "quiet shrines to visit southern Liechtenstein",
+        "small historical chapels Rhine valley"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 80,
+      "topical_depth_score": 6,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "maels_historic_center",
+        "gutenberg_castle"
+      ],
+      "related_attractions": [
+        "st_mary_chapel_triesen"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Balzers"
+    },
+    {
+      "id": "st_peter_sanctuary",
+      "name": "St. Peter Sanctuary Site",
+      "city_id": "balzers",
+      "latitude": 47.0691,
+      "longitude": 9.499,
+      "google_maps_url": "https://www.google.com/maps?q=47.0691,9.499",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Balzers",
+      "wikidata_id": "Q185343",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Balzers_St_Peter_Kapelle_Grundmauern.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "St. Peter Sanctuary Balzers - Old Church Foundation Lines",
+      "seo_description": "Explore the structural foundation remnants of the historic St. Peter sanctuary grounds in Balzers.",
+      "description_short": "Preserved historic masonry grounds shedding light on early medieval village grids.",
+      "description_long": "The St. Peter sanctuary grounds house old structural traces from early historical settlements. It provides excellent context regarding the early spatial mapping of Balzers before contemporary expansions.",
+      "history_short": "The original stone structures dates back past the 10th century, serving as an ancient community waypoint.",
+      "keywords": [
+        "St Peter Sanctuary",
+        "Balzers archaeological",
+        "ancient foundations",
+        "medieval ruins",
+        "Balzers heritage paths"
+      ],
+      "long_tail_keywords": [
+        "ancient foundations in Balzers town",
+        "early medieval masonry fragments Liechtenstein",
+        "historical heritage trails southern region",
+        "archaeological mapping upper Rhine"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 78,
+      "topical_depth_score": 6,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "st_nicholas_church",
+        "alter_pfarrhof"
+      ],
+      "related_attractions": [
+        "roman_fort_schaan"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Balzers"
+    },
+    {
+      "id": "alter_pfarrhof",
+      "name": "Kulturzentrum Alter Pfarrhof",
+      "city_id": "balzers",
+      "latitude": 47.0664,
+      "longitude": 9.4975,
+      "google_maps_url": "https://www.google.com/maps?q=47.0664,9.4975",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Alter_Pfarrhof_(Balzers)",
+      "wikidata_id": "Q20012975",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Alter_Pfarrhof_Balzers_Aussenansicht.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Alter Pfarrhof Balzers - Cultural Heritage Center",
+      "seo_description": "Visit the Alter Pfarrhof cultural center in Balzers. Discover historical exhibits, art shows, and preserved civil architecture.",
+      "description_short": "A beautifully restored old rectory building operating as a vibrant arts venue.",
+      "description_long": "The Alter Pfarrhof functions as Balzers' main cultural center. The historical timber frames host rotating regional art exhibitions, local history lectures, and civic community projects.",
+      "history_short": "Dating back to the late medieval era as an official rectory residence, it was transformed into a community heritage space in the 2000s.",
+      "keywords": [
+        "Alter Pfarrhof",
+        "Balzers cultural center",
+        "historic rectory building",
+        "regional art shows",
+        "civic exhibitions"
+      ],
+      "long_tail_keywords": [
+        "local art exhibitions in Balzers",
+        "historic timber architecture southern valley",
+        "Kulturzentrum Alter Pfarrhof event calendar",
+        "community museums Liechtenstein"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 83,
+      "topical_depth_score": 7,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "gutenberg_castle",
+        "st_nicholas_church"
+      ],
+      "related_attractions": [
+        "walser_museum"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Balzers"
+    },
+    {
+      "id": "balzers_plaza",
+      "name": "Balzers Community Plaza",
+      "city_id": "balzers",
+      "latitude": 47.068,
+      "longitude": 9.4965,
+      "google_maps_url": "https://www.google.com/maps?q=47.068,9.4965",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Balzers",
+      "wikidata_id": "Q185343",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Balzers_Zentrum_Gemeindehaus.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Balzers Community Plaza - Southern Civic Center",
+      "seo_description": "Stroll through the central square of Balzers, an elegant civic space boasting scenic alpine mountain backdrops.",
+      "description_short": "The clean urban core of Balzers connecting administrative halls with local shopping lanes.",
+      "description_long": "The central square provides wide walking paths flanked by modern infrastructure. It serves as a comfortable orientation point for visitors exploring the southern tip of the country.",
+      "history_short": "Re-engineered recently to provide open communal grounds capable of hosting regional gatherings and craft fairs.",
+      "keywords": [
+        "Balzers plaza",
+        "community square Balzers",
+        "civic center southern valley",
+        "pedestrian lanes",
+        "town hall surrounds"
+      ],
+      "long_tail_keywords": [
+        "what to see in Balzers town center",
+        "central plazas in southern Liechtenstein",
+        "walking nodes near Gutenberg hill",
+        "public architecture Balzers town"
+      ],
+      "search_intent": "navigational",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 72,
+      "topical_depth_score": 5,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "alter_pfarrhof",
+        "balzers_cultural_center"
+      ],
+      "related_attractions": [
+        "schaan_central_square"
+      ],
+      "internal_link_priority": "low",
+      "city": "Balzers"
+    },
+    {
+      "id": "maels_center",
+      "name": "Mäls Historic Center",
+      "city_id": "balzers",
+      "latitude": 47.0595,
+      "longitude": 9.493,
+      "google_maps_url": "https://www.google.com/maps?q=47.0595,9.493",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Balzers",
+      "wikidata_id": "Q185343",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Balzers_Dorfteil_M%C3%A4ls_H%C3%A4user.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Mäls District Balzers - Traditional Alpine Quarter",
+      "seo_description": "Explore the peaceful old residential lanes of the Mäls quarter in Balzers, filled with traditional houses and country views.",
+      "description_short": "A quaint residential old quarter featuring historic farm houses and quiet village charm.",
+      "description_long": "The Mäls neighborhood preserves a distinctly slow-paced agrarian village layout. Walking through its narrow lanes provides an authentic glimpse into old community designs before modern urbanization.",
+      "history_short": "Originally a distinct farming hamlet that merged with Balzers over time while retaining its historical title.",
+      "keywords": [
+        "Mäls quarter",
+        "historic Balzers districts",
+        "old farming villages",
+        "traditional alpine houses",
+        "quiet residential lanes"
+      ],
+      "long_tail_keywords": [
+        "historic districts in southern Liechtenstein",
+        "Mäls neighborhood photo guide",
+        "traditional architecture paths Balzers",
+        "old village layout walking tours"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 76,
+      "topical_depth_score": 6,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "mariahilf_chapel",
+        "gutenberg_castle"
+      ],
+      "related_attractions": [
+        "triesen_old_town"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Balzers"
+    },
+    {
+      "id": "rheindamm_balzers",
+      "name": "Rheindamm Path Balzers",
+      "city_id": "balzers",
+      "latitude": 47.065,
+      "longitude": 9.488,
+      "google_maps_url": "https://www.google.com/maps?q=47.065,9.488",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Balzers",
+      "wikidata_id": "Q185343",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Rheindamm_Balzers_Flu%C3%9Flauf.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Rheindamm Path Balzers - Scenic River Embankment Trail",
+      "seo_description": "Stroll or cycle along the Rheindamm path in Balzers. Enjoy continuous flat trails alongside the iconic Rhine river.",
+      "description_short": "A scenic, flat defensive embankment trail offering panoramic mountain views alongside the Rhine.",
+      "description_long": "The Rheindamm in Balzers provides an excellent level path right next to the flowing waters of the Rhine. It is highly popular among local joggers and casual cyclists looking for fresh mountain air without steep slopes.",
+      "history_short": "Developed as an engineered flood control embankment system during modern river management projects.",
+      "keywords": [
+        "Rheindamm Balzers",
+        "Rhine river paths",
+        "flat cycling trails",
+        "waterfront walks",
+        "scenic valley views"
+      ],
+      "long_tail_keywords": [
+        "cycling routes along the Rhine Balzers",
+        "flat running paths in southern Liechtenstein",
+        "scenic riverbank photography points",
+        "outdoor walking routes Rhine valley"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 81,
+      "topical_depth_score": 6,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "balzers_plaza",
+        "gutenberg_castle"
+      ],
+      "related_attractions": [
+        "old_rhine_bridge"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Balzers"
+    },
+    {
+      "id": "widum_landmark",
+      "name": "Widum Historical Building",
+      "city_id": "balzers",
+      "latitude": 47.066,
+      "longitude": 9.4995,
+      "google_maps_url": "https://www.google.com/maps?q=47.066,9.4995",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Balzers",
+      "wikidata_id": "Q185343",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Balzers_Widum_Gebaeude.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Widum Building Balzers - Preserved Civil Architecture",
+      "seo_description": "See the historic Widum building complex in Balzers, highlighting traditional structural styling from previous centuries.",
+      "description_short": "A landmark historic administrative estate displaying fine wood and stone work.",
+      "description_long": "The Widum building complex is a fine example of traditional construction methods. Its exterior highlights the solid, practical building arts developed to support old estate management needs in the valley.",
+      "history_short": "Maintained through the generations to serve as a physical record of early civil architecture lines.",
+      "keywords": [
+        "Widum Balzers",
+        "historic civil architecture",
+        "traditional building style",
+        "estate landmarks",
+        "Balzers history"
+      ],
+      "long_tail_keywords": [
+        "historic estate buildings in Balzers",
+        "traditional civil construction styles alpine",
+        "architectural photography southern Liechtenstein",
+        "old structures near Gutenberg castle"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 70,
+      "topical_depth_score": 5,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "gutenberg_castle",
+        "st_nicholas_church"
+      ],
+      "related_attractions": [
+        "pfrundhaus_eschen"
+      ],
+      "internal_link_priority": "low",
+      "city": "Balzers"
+    },
+    {
+      "id": "balzers_cultural_center",
+      "name": "Balzers Community Hall",
+      "city_id": "balzers",
+      "latitude": 47.0685,
+      "longitude": 9.495,
+      "google_maps_url": "https://www.google.com/maps?q=47.0685,9.495",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Balzers",
+      "wikidata_id": "Q185343",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Balzers_Gemeindesaal_Aussen.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Balzers Community Hall - Regional Cultural Venue",
+      "seo_description": "Explore the Balzers Community Hall (Gemeindesaal), a central architectural site for seasonal musical and localized events.",
+      "description_short": "A modern multi-functional event space hosting music and cultural programs.",
+      "description_long": "The Gemeindesaal Balzers acts as a hub for musical societies, local choral performances, and civic assemblies. Its clean, functional design showcases modern regional public architecture.",
+      "history_short": "Constructed in the late 20th century to provide a spacious indoor stage for southern musical organizations.",
+      "keywords": [
+        "Balzers community hall",
+        "Gemeindesaal",
+        "local events venue",
+        "modern public architecture",
+        "southern culture"
+      ],
+      "long_tail_keywords": [
+        "local musical events in Balzers town",
+        "modern public buildings southern valley",
+        "where to attend local concerts Liechtenstein",
+        "community gatherings Balzers town"
+      ],
+      "search_intent": "commercial",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 68,
+      "topical_depth_score": 4,
+      "season_tags": [
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "balzers_plaza",
+        "alter_pfarrhof"
+      ],
+      "related_attractions": [
+        "tak_theater"
+      ],
+      "internal_link_priority": "low",
+      "city": "Balzers"
+    },
+    {
+      "id": "walser_museum",
+      "name": "Walser Museum Triesenberg",
+      "city_id": "triesenberg",
+      "latitude": 47.1181,
+      "longitude": 9.5441,
+      "google_maps_url": "https://www.google.com/maps?q=47.1181,9.5441",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Walsermuseum_Triesenberg",
+      "wikidata_id": "Q2543292",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Walsermuseum_Triesenberg_Aussen.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Walser Museum Triesenberg - Alpine Folk Heritage Culture",
+      "seo_description": "Discover the unique folk history of the Walser immigrants at the Walser Museum in high-altitude Triesenberg.",
+      "description_short": "An exceptional cultural museum dedicated to the unique history and distinct dialect of Walser settlers.",
+      "description_long": "The Walser Museum provides an immersive look into the alpine migration history of the Walser people who moved from Valais in the 13th century. Exhibits include traditional tools, costume descriptions, and multimedia displays detailing their unique dialect.",
+      "history_short": "Opened in 1961, the collection was curated by local historians to safeguard the unique identity of the mountain community.",
+      "keywords": [
+        "Walser Museum",
+        "Triesenberg heritage",
+        "Walser culture",
+        "alpine immigration history",
+        "mountain folk traditions"
+      ],
+      "long_tail_keywords": [
+        "history of Walser people Liechtenstein",
+        "things to see in Triesenberg village",
+        "alpine folk culture museums Europe",
+        "Triesenberg museum hours exhibition"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 93,
+      "topical_depth_score": 9,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "st_joseph_triesenberg",
+        "kulm_hotel_area"
+      ],
+      "related_attractions": [
+        "national_museum"
+      ],
+      "internal_link_priority": "high",
+      "city": "Triesenberg"
+    },
+    {
+      "id": "st_joseph_triesenberg",
+      "name": "St. Joseph Parish Church",
+      "city_id": "triesenberg",
+      "latitude": 47.1183,
+      "longitude": 9.5445,
+      "google_maps_url": "https://www.google.com/maps?q=47.1183,9.5445",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Pfarrkirche_St.Josef(Triesenberg)",
+      "wikidata_id": "Q2316568",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Pfarrkirche_St._Josef_Triesenberg.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "St. Joseph Church Triesenberg - Landmark Onion Dome Church",
+      "seo_description": "Visit St. Joseph Parish Church in Triesenberg, famous for its distinct onion dome roof and high mountain terrace views.",
+      "description_short": "The iconic alpine parish church of Triesenberg, easily recognized by its distinctive onion dome tower.",
+      "description_long": "The Pfarrkirche St. Josef sits elegantly on the mountain terrace of Triesenberg. Its bright white walls and distinctive green onion dome create a striking architectural silhouette against the sweeping valley below.",
+      "history_short": "Constructed between 1938 and 1940, replacing an older church building to provide a robust mountain sanctuary.",
+      "keywords": [
+        "St Joseph Triesenberg",
+        "onion dome church",
+        "Triesenberg landmark",
+        "mountain parish church",
+        "scenic church terrace"
+      ],
+      "long_tail_keywords": [
+        "onion dome churches in Liechtenstein",
+        "Triesenberg valley overlook photo spots",
+        "mountain parish architecture Europe",
+        "visiting St Josef shrine Triesenberg"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 90,
+      "topical_depth_score": 7,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "walser_museum",
+        "kulm_hotel_area"
+      ],
+      "related_attractions": [
+        "cathedral_st_florin"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Triesenberg"
+    },
+    {
+      "id": "malbun_resort",
+      "name": "Malbun Ski Resort",
+      "city_id": "triesenberg",
+      "latitude": 47.1025,
+      "longitude": 9.6081,
+      "google_maps_url": "https://www.google.com/maps?q=47.1025,9.6081",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Malbun",
+      "wikidata_id": "Q676189",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Malbun_Liechtenstein_Winter_View.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Malbun Alpine Resort - Premium Ski and Hiking Village",
+      "seo_description": "Plan your trip to Malbun, Liechtenstein's premier high alpine village for pristine family winter skiing and summer hiking trails.",
+      "description_short": "A picturesque, family-friendly high-mountain valley resort active across all seasons.",
+      "description_long": "Nestled deep within an alpine amphitheater at 1,600 meters, Malbun is the center for winter sports and summer high-trail trekking. Its car-free inner zones make it an exceptional haven for relaxed mountain relaxation.",
+      "history_short": "Transformed from an isolated summer alp pasture into a thriving family ski resort destination during the mid-20th century.",
+      "keywords": [
+        "Malbun ski resort",
+        "Liechtenstein winter sports",
+        "Malbun hiking village",
+        "high alpine resort",
+        "mountain valleys"
+      ],
+      "long_tail_keywords": [
+        "skiing in Malbun Liechtenstein prices",
+        "family friendly ski resorts Alps",
+        "Malbun summer mountain trails",
+        "where to stay in alpine Liechtenstein"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "booking",
+      "seo_priority_score": 95,
+      "topical_depth_score": 9,
+      "season_tags": [
+        "summer",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "sareis_chairlift",
+        "steg_reservoir"
+      ],
+      "related_attractions": [
+        "galina_falconry_center"
+      ],
+      "internal_link_priority": "high",
+      "city": "Triesenberg"
+    },
+    {
+      "id": "sareis_chairlift",
+      "name": "Sareis Chairlift Viewpoint",
+      "city_id": "triesenberg",
+      "latitude": 47.104,
+      "longitude": 9.617,
+      "google_maps_url": "https://www.google.com/maps?q=47.104,9.617",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Sareis",
+      "wikidata_id": "Q2223843",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Sareis_Bergstation_Malbun.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Sareis Chairlift Malbun - High Mountain Panoramic Overlook",
+      "seo_description": "Ride the Sareis Chairlift from Malbun to enjoy unparalleled mountain ridge vistas and high alpine restaurant dining.",
+      "description_short": "A panoramic chairlift scaling the Sareis ridge for instant high alpine trail connections.",
+      "description_long": "The Sareis chairlift transports guests effortlessly up to 2,000 meters above sea level. The panoramic station terrace at the top offers views across the border ridges into Austria and serves as a trailhead for mountain ridge walks.",
+      "history_short": "Constructed to expand alpine skiing infrastructure and support year-round sightseeing access to the high ridges.",
+      "keywords": [
+        "Sareis chairlift",
+        "Malbun viewpoint",
+        "mountain station Sareis",
+        "panoramic alpine terrace",
+        "ridge trails ridge"
+      ],
+      "long_tail_keywords": [
+        "Sareis chairlift summer operation hours",
+        "best mountain views in Malbun",
+        "high altitude restaurants Liechtenstein",
+        "cable cars and lifts Malbun resort"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 89,
+      "topical_depth_score": 7,
+      "season_tags": [
+        "summer",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "malbun_resort",
+        "steg_reservoir"
+      ],
+      "related_attractions": [
+        "gaflei_viewpoint"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Triesenberg"
+    },
+    {
+      "id": "steg_reservoir",
+      "name": "Steg Lake (Stausee Steg)",
+      "city_id": "triesenberg",
+      "latitude": 47.111,
+      "longitude": 9.577,
+      "google_maps_url": "https://www.google.com/maps?q=47.111,9.577",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Stausee_Steg",
+      "wikidata_id": "Q1317540",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Stausee_Steg_Liechtenstein.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Steg Reservoir Triesenberg - Scenic High Mountain Lake",
+      "seo_description": "Visit the peaceful Steg Reservoir (Stausee Steg). Perfect for serene alpine lakeside walks, cross-country skiing, and photography.",
+      "description_short": "A tranquil mountain lake tucked into an alpine valley, offering clear water reflections.",
+      "description_long": "Stausee Steg is a beautiful reservoir nestled along the mountain road to Malbun. Surrounded by rustic wooden huts and evergreen pine forests, the level walking path circling the lake is highly favored for gentle family relaxation.",
+      "history_short": "Formed to generate regional hydroelectricity while cleanly maintaining ecological integration with the local alpine stream patterns.",
+      "keywords": [
+        "Steg reservoir",
+        "Stausee Steg",
+        "mountain lake Liechtenstein",
+        "Triesenberg alpine lakes",
+        "scenic lakeside walks"
+      ],
+      "long_tail_keywords": [
+        "walking around Steg reservoir lake",
+        "scenic photo spots near Malbun",
+        "cross country ski trails Steg",
+        "mountain water reservoirs Alps"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 88,
+      "topical_depth_score": 7,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "suecka_pasture",
+        "malbun_resort"
+      ],
+      "related_attractions": [
+        "badesee_grossabuent"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Triesenberg"
+    },
+    {
+      "id": "suecka_pasture",
+      "name": "Sücka Alpine Pasture Area",
+      "city_id": "triesenberg",
+      "latitude": 47.118,
+      "longitude": 9.566,
+      "google_maps_url": "https://www.google.com/maps?q=47.118,9.566",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/S%C3%BCcka",
+      "wikidata_id": "Q2383842",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Alp_Suecka_Liechtenstein.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Sücka Alpine Pasture - Authentic Mountain Farm Estate",
+      "seo_description": "Explore the Sücka alpine pasture area in Triesenberg. Experience classic cheese-making heritage and scenic meadow walks.",
+      "description_short": "A traditional alpine farming meadow region famous for heritage mountain cheese production.",
+      "description_long": "Alp Sücka is an active traditional mountain pasture estate. Visitors can witness classical dairy customs, sample freshly crafted alpine cheese, and walk through rolling fields framed by old valley crests.",
+      "history_short": "Operated for generations as a communal mountain dairy base to manage livestock during summer grazing cycles.",
+      "keywords": [
+        "Sücka pasture",
+        "Alp Sücka",
+        "mountain cheese dairy",
+        "traditional alpine farming",
+        "Triesenberg valleys"
+      ],
+      "long_tail_keywords": [
+        "authentic alpine cheese dairies Liechtenstein",
+        "Sücka mountain sledding in winter",
+        "traditional farm stays near Triesenberg",
+        "scenic mountain pasture hikes"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 84,
+      "topical_depth_score": 7,
+      "season_tags": [
+        "summer",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "steg_reservoir",
+        "rizlina_space"
+      ],
+      "related_attractions": [
+        "ganni_historic_area"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Triesenberg"
+    },
+    {
+      "id": "gaflei_viewpoint",
+      "name": "Gaflei Viewpoint Spot",
+      "city_id": "triesenberg",
+      "latitude": 47.142,
+      "longitude": 9.549,
+      "google_maps_url": "https://www.google.com/maps?q=47.142,9.549",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Gaflei",
+      "wikidata_id": "Q1491745",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Gaflei_Aussichtspunkt_Liechtenstein.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Gaflei Viewpoint Triesenberg - Panoramic Alpine Overlook",
+      "seo_description": "Visit Gaflei, a historic high-altitude viewpoint spot offering breath-taking bird-eye panoramas of the entire Rhine Valley.",
+      "description_short": "A breath-taking high-altitude viewpoint acting as a key gateway to panoramic ridge tracks.",
+      "description_long": "Gaflei sits at an elevation of 1,500 meters, offering panoramic views across the valley plain below. The location features excellent public facilities and level lookout terraces suitable for all traveler types.",
+      "history_short": "Developed early as a high-altitude sanatorium health retreat destination during the late 19th century.",
+      "keywords": [
+        "Gaflei viewpoint",
+        "high altitude overlook",
+        "Triesenberg mountain views",
+        "Rhine valley vistas",
+        "panoramic viewing terraces"
+      ],
+      "long_tail_keywords": [
+        "how to travel to Gaflei viewpoint",
+        "best valley panoramic spots Liechtenstein",
+        "high altitude viewing platforms Alps",
+        "scenic driving locations near Vaduz"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 91,
+      "topical_depth_score": 8,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "masescha_chapel",
+        "rizlina_space"
+      ],
+      "related_attractions": [
+        "sareis_chairlift"
+      ],
+      "internal_link_priority": "high",
+      "city": "Triesenberg"
+    },
+    {
+      "id": "masescha_chapel",
+      "name": "Masescha Chapel",
+      "city_id": "triesenberg",
+      "latitude": 47.1317,
+      "longitude": 9.5442,
+      "google_maps_url": "https://www.google.com/maps?q=47.1317,9.5442",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Kapelle_Masescha",
+      "wikidata_id": "Q1900133",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Maseschachapel_Triesenberg.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Masescha Chapel Triesenberg - Historic Mountain Sanctuary",
+      "seo_description": "Visit Masescha Chapel in Triesenberg, the earliest recorded mountain religious sanctuary associated with original Walser settlements.",
+      "description_short": "A deeply historic hillside chapel tightly linked with early alpine pioneer history.",
+      "description_long": "The Kapelle Masescha is a historic stone chapel anchoring the ancient mountain hamlet of Masescha. It remains a symbolic site for regional heritage tracing back to early highland farming pioneers.",
+      "history_short": "First documentally cited in 1325, serving as the primary mountain house of worship for newly arriving Walser farming settlers.",
+      "keywords": [
+        "Masescha Chapel",
+        "historic mountain chapel",
+        "Walser pioneers",
+        "Triesenberg heritage shrines",
+        "ancient sanctuaries"
+      ],
+      "long_tail_keywords": [
+        "oldest chapels in Triesenberg area",
+        "Masescha historical mountain hamlet",
+        "early pioneer churches Liechtenstein",
+        "scenic small shrines alpine valley"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 82,
+      "topical_depth_score": 6,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "gaflei_viewpoint",
+        "kulm_hotel_area"
+      ],
+      "related_attractions": [
+        "dux_chapel"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Triesenberg"
+    },
+    {
+      "id": "rizlina_space",
+      "name": "Rizlina Outdoor Leisure Area",
+      "city_id": "triesenberg",
+      "latitude": 47.113,
+      "longitude": 9.551,
+      "google_maps_url": "https://www.google.com/maps?q=47.113,9.551",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Triesenberg",
+      "wikidata_id": "Q185547",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Triesenberg_Rizlina_Wiesen.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Rizlina Outdoor Area Triesenberg - Mountain Picnic Park",
+      "seo_description": "Relax at the Rizlina outdoor park in Triesenberg, featuring manicured green rest zones and alpine family recreation setups.",
+      "description_short": "A manicured high-altitude recreational field offering expansive valley lookouts.",
+      "description_long": "Rizlina offers wide green clearings equipped with robust wood benches and public rest facilities. It functions as a scenic base camp for families organizing light outdoor afternoon picnics.",
+      "history_short": "Preserved by municipality planners to ensure a modern, open-air recreational green node remained accessible for public gatherings.",
+      "keywords": [
+        "Rizlina Triesenberg",
+        "mountain picnic spots",
+        "recreational alpine fields",
+        "family relaxation parks",
+        "scenic valley lawns"
+      ],
+      "long_tail_keywords": [
+        "family picnic locations in Triesenberg",
+        "where to rest outdoors near Malbun road",
+        "recreational public parks mountain slopes",
+        "scenic family lawns Liechtenstein"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 73,
+      "topical_depth_score": 5,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "suecka_pasture",
+        "walser_museum"
+      ],
+      "related_attractions": [
+        "specki_center"
+      ],
+      "internal_link_priority": "low",
+      "city": "Triesenberg"
+    },
+    {
+      "id": "kulm_hotel_area",
+      "name": "Kulm Historic Village Ridge",
+      "city_id": "triesenberg",
+      "latitude": 47.119,
+      "longitude": 9.5435,
+      "google_maps_url": "https://www.google.com/maps?q=47.119,9.5435",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Triesenberg",
+      "wikidata_id": "Q185547",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Triesenberg_Kulm_Zentrum_Ansicht.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Kulm Village Ridge Triesenberg - Historic Center Walk",
+      "seo_description": "Stroll the Kulm historic village ridge in central Triesenberg, enjoying classic architecture and steep valley panoramas.",
+      "description_short": "The core heritage ridge of Triesenberg showcasing traditional dark-timber building style.",
+      "description_long": "The Kulm village ridge area stands as the dense architectural center of Triesenberg. It anchors old municipal walking trails, traditional sun-blackened timber houses, and fine panorama lookouts over the lower cities.",
+      "history_short": "Gradually expanded over the centuries around early high-altitude lodging houses to anchor corporate village identity.",
+      "keywords": [
+        "Kulm Triesenberg",
+        "historic village ridge",
+        "dark timber houses",
+        "mountain center strolls",
+        "panoramic alpine squares"
+      ],
+      "long_tail_keywords": [
+        "traditional timber architecture Triesenberg",
+        "historic core of mountain villages",
+        "where to walk in central Triesenberg",
+        "scenic mountain village layout Liechtenstein"
+      ],
+      "search_intent": "navigational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 79,
+      "topical_depth_score": 6,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "walser_museum",
+        "st_joseph_triesenberg"
+      ],
+      "related_attractions": [
+        "maels_historic_center"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Triesenberg"
+    },
+    {
+      "id": "st_martin_eschen",
+      "name": "St. Martin Church",
+      "city_id": "eschen",
+      "latitude": 47.2105,
+      "longitude": 9.5225,
+      "google_maps_url": "https://www.google.com/maps?q=47.2105,9.5225",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/St.Martin(Eschen)",
+      "wikidata_id": "Q20748117",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Pfarrkirche_St._Martin_Eschen.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "St. Martin Church Eschen - Historic Hillside Parish",
+      "seo_description": "Visit the elegant St. Martin Church in Eschen, a landmark religious structure featuring clean modern-classic interior styling.",
+      "description_short": "A landmark parish church overlooking Eschen town from a historic hilltop perch.",
+      "description_long": "The Pfarrkirche St. Martin stands prominently on an elevated terrace in Eschen. Its tall, light tower serves as a key visual orientation anchor for the entire northern lowlands region.",
+      "history_short": "Though historical records show an ancient church existed here since the 9th century, the present structure was rebuilt in late Neo-Gothic form.",
+      "keywords": [
+        "St Martin Eschen",
+        "Eschen parish church",
+        "hilltop church",
+        "northern lowlands landmark",
+        "religious heritage"
+      ],
+      "long_tail_keywords": [
+        "historic churches in Eschen town",
+        "St Martin church photo guide",
+        "religious landmarks northern Liechtenstein",
+        "visiting historic parishes Rhine plain"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 83,
+      "topical_depth_score": 6,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "pfrundhaus_eschen",
+        "eschen_plaza"
+      ],
+      "related_attractions": [
+        "st_peter_and_paul_mauren"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Eschen"
+    },
+    {
+      "id": "pfrundhaus_eschen",
+      "name": "Pfrundhaus Eschen",
+      "city_id": "eschen",
+      "latitude": 47.21,
+      "longitude": 9.523,
+      "google_maps_url": "https://www.google.com/maps?q=47.21,9.523",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Pfrundhaus_(Eschen)",
+      "wikidata_id": "Q23821014",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Pfrundhaus_Eschen_Detail.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Pfrundhaus Eschen - Traditional Timber Prebendary House",
+      "seo_description": "Explore the Pfrundhaus in Eschen, a beautifully restored historical prebendary house highlighting authentic timber design.",
+      "description_short": "A beautifully preserved traditional timber building serving as a local civic museum.",
+      "description_long": "The Pfrundhaus Eschen showcases traditional timber framework craft. It serves as an authentic record of domestic living arrangements from earlier centuries, housing small historical community records.",
+      "history_short": "Built in the late 18th century as a home for local prebendary clergy, it was later saved and restored for civic preservation.",
+      "keywords": [
+        "Pfrundhaus Eschen",
+        "timber frame building",
+        "prebendary house",
+        "Eschen local history",
+        "traditional architecture"
+      ],
+      "long_tail_keywords": [
+        "historic timber buildings in Eschen",
+        "traditional prebendary houses Europe",
+        "Eschen local history exhibitions",
+        "architectural heritage walks northern region"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 82,
+      "topical_depth_score": 7,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "st_martin_eschen",
+        "dr_schaedler_monument"
+      ],
+      "related_attractions": [
+        "alter_pfarrhof"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Eschen"
+    },
+    {
+      "id": "holy_cross_nendeln",
+      "name": "Holy Cross Chapel Nendeln",
+      "city_id": "eschen",
+      "latitude": 47.199,
+      "longitude": 9.543,
+      "google_maps_url": "https://www.google.com/maps?q=47.199,9.543",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Kapelle_Heiligkreuz_(Nendeln)",
+      "wikidata_id": "Q23816400",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Heiligkreuzkapelle_Nendeln_Aussen.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Holy Cross Chapel Nendeln - Quaint Historic Shrine",
+      "seo_description": "Visit the Holy Cross Chapel (Heiligkreuz) in Nendeln hamlet, a peaceful historic sanctuary along lowland walking routes.",
+      "description_short": "A peaceful heritage chapel tucked into the quiet residential hamlet of Nendeln.",
+      "description_long": "The Heiligkreuzkapelle in Nendeln features classic design lines on a small scale. Its clean interior sanctuary and exterior arches offer a peaceful rest node along the footpaths connecting Eschen and Mauren.",
+      "history_short": "Erected around 1695 to satisfy local devotional needs in the growing hamlet community of Nendeln.",
+      "keywords": [
+        "Holy Cross Chapel",
+        "Nendeln Eschen",
+        "Heiligkreuzkapelle",
+        "historic shrines",
+        "hamlet churches"
+      ],
+      "long_tail_keywords": [
+        "small historic chapels in Nendeln",
+        "walking trails near Nendeln hamlet",
+        "religious shrines northern Liechtenstein",
+        "quiet historic rest stops Rhine basin"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 77,
+      "topical_depth_score": 6,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "schaedler_pottery",
+        "nendeln_station"
+      ],
+      "related_attractions": [
+        "mariahilf_chapel"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Eschen"
+    },
+    {
+      "id": "clenia_roman_villa",
+      "name": "Clenia Roman Villa Ruins",
+      "city_id": "eschen",
+      "latitude": 47.202,
+      "longitude": 9.539,
+      "google_maps_url": "https://www.google.com/maps?q=47.202,9.539",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Eschen_(Liechtenstein)",
+      "wikidata_id": "Q185672",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Nendeln_Roemische_Ausgrabungen.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Clenia Roman Villa Ruins Nendeln - Archaeological Site",
+      "seo_description": "Discover the ancient foundation masonry of the Clenia Roman Villa estate excavated near Nendeln in Eschen municipality.",
+      "description_short": "Excavated structural foundation plots of a substantial ancient Roman country villa.",
+      "description_long": "The Clenia Roman Villa ruins show the stone base layout of an ancient country homestead. Information boards help visitors visualize how this agricultural estate functioned during Rome's ancient management of the territory.",
+      "history_short": "Dating back to the 2nd century AD, the foundation remnants were carefully uncovered during regional 20th-century development projects.",
+      "keywords": [
+        "Clenia Roman villa",
+        "Nendeln excavations",
+        "Roman ruins Eschen",
+        "ancient foundations",
+        "archaeological heritage"
+      ],
+      "long_tail_keywords": [
+        "Roman country estates in Liechtenstein",
+        "ancient history sites to visit Nendeln",
+        "archaeological mapping northern valley",
+        "Roman empire history Rhine valley"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 82,
+      "topical_depth_score": 8,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "holy_cross_nendeln",
+        "schaedler_pottery"
+      ],
+      "related_attractions": [
+        "roman_fort_schaan"
+      ],
+      "internal_link_priority": "high",
+      "city": "Eschen"
+    },
+    {
+      "id": "eschen_plaza",
+      "name": "Eschen Central Plaza",
+      "city_id": "eschen",
+      "latitude": 47.211,
+      "longitude": 9.5215,
+      "google_maps_url": "https://www.google.com/maps?q=47.211,9.5215",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Eschen_(Liechtenstein)",
+      "wikidata_id": "Q185672",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Eschen_Zentrum_Gemeindeplatz.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Eschen Central Plaza - Northern lowland Public Center",
+      "seo_description": "Stroll across the modern Eschen Central Plaza, the primary community gathering node in the northern lowlands.",
+      "description_short": "The spacious, modern open plaza forming the civic center of Eschen town.",
+      "description_long": "The main plaza of Eschen provides a wide pedestrian area bounded by clean public administration architecture. It acts as an excellent central node for setting off on historical walks around town.",
+      "history_short": "Upgraded recently by town planners to build an open, accessible walking plaza for seasonal community craft markets.",
+      "keywords": [
+        "Eschen plaza",
+        "community square Eschen",
+        "civic center lowlands",
+        "pedestrian square",
+        "town hall surrounds"
+      ],
+      "long_tail_keywords": [
+        "things to see in central Eschen",
+        "public plazas in northern Liechtenstein",
+        "walking loops around Eschen center",
+        "civic architecture lowland towns"
+      ],
+      "search_intent": "navigational",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 71,
+      "topical_depth_score": 5,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "st_martin_eschen",
+        "pfrundhaus_eschen"
+      ],
+      "related_attractions": [
+        "mauren_plaza"
+      ],
+      "internal_link_priority": "low",
+      "city": "Eschen"
+    },
+    {
+      "id": "sportpark_eschen",
+      "name": "Sportpark Eschen-Mauren",
+      "city_id": "eschen",
+      "latitude": 47.2177,
+      "longitude": 9.5283,
+      "google_maps_url": "https://www.google.com/maps?q=47.2177,9.5283",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sportpark_Eschen-Mauren",
+      "wikidata_id": "Q116246",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Sportpark_Eschen-Mauren_Stadion.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Sportpark Eschen-Mauren - National Football Stadium",
+      "seo_description": "Visit the Sportpark Eschen-Mauren, a modern multi-purpose athletic facility and stadium hosting local and youth football matches.",
+      "description_short": "A premium community athletic complex and football stadium shared by neighboring towns.",
+      "description_long": "The Sportpark Eschen-Mauren serves as a modern center for national track events and regional football matches. Its wide open running corridors and tidy stadium seating showcase fine local sport infrastructure.",
+      "history_short": "Opened in 1975, the complex has hosted numerous high-profile youth tournaments and served as the home base for USV Eschen/Mauren.",
+      "keywords": [
+        "Sportpark Eschen Mauren",
+        "stadium Liechtenstein",
+        "football grounds",
+        "athletic facilities",
+        "USV Eschen Mauren"
+      ],
+      "long_tail_keywords": [
+        "national football stadiums in Liechtenstein",
+        "community running tracks Eschen",
+        "sports facilities in northern lowlands",
+        "where to watch football matches Liechtenstein"
+      ],
+      "search_intent": "commercial",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 75,
+      "topical_depth_score": 6,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "eschen_plaza",
+        "mauren_plaza"
+      ],
+      "related_attractions": [
+        "specki_center"
+      ],
+      "internal_link_priority": "low",
+      "city": "Eschen"
+    },
+    {
+      "id": "schaedler_pottery",
+      "name": "Schädler Pottery Nendeln",
+      "city_id": "eschen",
+      "latitude": 47.1985,
+      "longitude": 9.544,
+      "google_maps_url": "https://www.google.com/maps?q=47.1985,9.544",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Eschen_(Liechtenstein)",
+      "wikidata_id": "Q185672",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Keramik_Schaedler_Nendeln.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Schädler Pottery Nendeln - Traditional Craft Workshop",
+      "seo_description": "Visit the historic Schädler Pottery workshop in Nendeln to view traditional ceramics manufacturing techniques.",
+      "description_short": "The nation's oldest active craft pottery workshop displaying fine ceramic arts.",
+      "description_long": "The Keramik Schädler workshop keeps local artisan traditions alive. Visitors can observe hand-throwing wheels, kiln designs, and a beautiful on-site showroom displaying delicate glazed stoneware.",
+      "history_short": "Established in 1836, it stands today as an iconic example of original manufacturing heritage surviving into the present day.",
+      "keywords": [
+        "Schädler Pottery",
+        "Nendeln ceramics",
+        "artisan workshop",
+        "traditional stoneware craft",
+        "handicrafts"
+      ],
+      "long_tail_keywords": [
+        "oldest pottery workshops in Liechtenstein",
+        "buy authentic local ceramics Nendeln",
+        "traditional handicrafts demonstrations Europe",
+        "craft culture tours northern lowlands"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 81,
+      "topical_depth_score": 7,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "clenia_roman_villa",
+        "holy_cross_nendeln"
+      ],
+      "related_attractions": [
+        "donau_cultural_space"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Eschen"
+    },
+    {
+      "id": "dr_schaedler_monument",
+      "name": "Dr. Albert Schädler Monument",
+      "city_id": "eschen",
+      "latitude": 47.2108,
+      "longitude": 9.5228,
+      "google_maps_url": "https://www.google.com/maps?q=47.2108,9.5228",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/St.Martin(Eschen)",
+      "wikidata_id": "Q20748117",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Albert_Schaedler_Denkmal_Eschen.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Dr. Albert Schädler Monument - Historic Civic Memorial",
+      "seo_description": "See the civic memorial dedicated to Dr. Albert Schädler in Eschen, honors a prominent historical statesman and physician.",
+      "description_short": "A finely crafted historical bronze portrait bust honor a key civic statesman.",
+      "description_long": "Located near the historic church grounds, this monument honors Dr. Albert Schädler. It serves as an informative historical marker celebrating his contributions to early public health and political organization.",
+      "history_short": "Dedicated in the 20th century by regional societies to secure the memory of one of Eschen's most versatile historic sons.",
+      "keywords": [
+        "Albert Schädler monument",
+        "Eschen memorials",
+        "civic history markers",
+        "bronze portrait bust",
+        "statesman history"
+      ],
+      "long_tail_keywords": [
+        "historical figures of Eschen town",
+        "civic monuments in northern Liechtenstein",
+        "political history walks Rhine valley",
+        "medical pioneer memorials Europe"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 67,
+      "topical_depth_score": 5,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "st_martin_eschen",
+        "pfrundhaus_eschen"
+      ],
+      "related_attractions": [
+        "peter_kaiser_monument"
+      ],
+      "internal_link_priority": "low",
+      "city": "Eschen"
+    },
+    {
+      "id": "eschen_cultural_path",
+      "name": "Eschen Cultural Path Marker",
+      "city_id": "eschen",
+      "latitude": 47.212,
+      "longitude": 9.524,
+      "google_maps_url": "https://www.google.com/maps?q=47.212,9.524",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Eschen_(Liechtenstein)",
+      "wikidata_id": "Q185672",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Eschen_Kulturweg_Infotafel.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Eschen Cultural Path Marker - Heritage Walking Node",
+      "seo_description": "Follow the Eschen Cultural Path. Check the central marker layout mapping out architectural history loops through town.",
+      "description_short": "An illustrative town marker mapping out historical trails and architecture paths.",
+      "description_long": "The Cultural Path marker functions as a great jumping-off node for independent walking tours. It outlines the chronological history of Eschen's expansion and alerts walkers to subtle historical designs hidden in local facades.",
+      "history_short": "Instituted by the local historical association to foster self-guided civic heritage tourism across the lowlands.",
+      "keywords": [
+        "Eschen cultural path",
+        "heritage walking node",
+        "self guided trails",
+        "Eschen historical markers",
+        "town design history"
+      ],
+      "long_tail_keywords": [
+        "self guided history walks Eschen",
+        "educational trail maps northern Liechtenstein",
+        "architectural heritage walking loops",
+        "outdoor history guides Rhine basin"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 72,
+      "topical_depth_score": 6,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "eschen_plaza",
+        "pfrundhaus_eschen"
+      ],
+      "related_attractions": [
+        "ruggell_community_center"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Eschen"
+    },
+    {
+      "id": "nendeln_station",
+      "name": "Nendeln Historic Train Station",
+      "city_id": "eschen",
+      "latitude": 47.1978,
+      "longitude": 9.5412,
+      "google_maps_url": "https://www.google.com/maps?q=47.1978,9.5412",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nendeln_railway_station",
+      "wikidata_id": "Q2348555",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bahnhof_Nendeln_Gleisanlagen.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Nendeln Railway Station - Classic Transit Heritage",
+      "seo_description": "See the Nendeln Railway Station, an important regional transit point retaining classic 19th-century track layouts.",
+      "description_short": "A historic international railway stop anchoring cross-border transit through Nendeln.",
+      "description_long": "Nendeln station serves as a quiet international border rail link. Its preserved platform architecture offers a look back at the early engineering efforts that integrated Liechtenstein with the wider European rail network.",
+      "history_short": "Constructed in 1872 as part of the Austrian Feldkirch–Buchs route, it remains a key point of industrial history.",
+      "keywords": [
+        "Nendeln station",
+        "railway transit history",
+        "cross border tracks",
+        "Nendeln infrastructure",
+        "industrial heritage"
+      ],
+      "long_tail_keywords": [
+        "train stops in northern Liechtenstein",
+        "Feldkirch Buchs railway line history",
+        "vintage transit buildings Eschen municipality",
+        "rail infrastructure cross border Europe"
+      ],
+      "search_intent": "navigational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 69,
+      "topical_depth_score": 5,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "schaedler_pottery",
+        "holy_cross_nendeln"
+      ],
+      "related_attractions": [
+        "schaan_station"
+      ],
+      "internal_link_priority": "low",
+      "city": "Eschen"
+    },
+    {
+      "id": "st_peter_paul_mauren",
+      "name": "St. Peter and Paul Church",
+      "city_id": "mauren",
+      "latitude": 47.2194,
+      "longitude": 9.5435,
+      "google_maps_url": "https://www.google.com/maps?q=47.2194,9.5435",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/St.Peter_und_Paul(Mauren)",
+      "wikidata_id": "Q20747471",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Pfarrkirche_St._Peter_und_Paul_Mauren.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "St. Peter and Paul Church Mauren - Classic Parish Church",
+      "seo_description": "Visit the central St. Peter and Paul Church in Mauren. Read about its architectural timeline and prominent community role.",
+      "description_short": "A beautifully maintained parish church anchoring Mauren's historical village core.",
+      "description_long": "The Pfarrkirche St. Peter und Paul features a bright classical design that defines the center of Mauren. Its elegant interior holds pristine sanctuary art and serves as a key community gathering point.",
+      "history_short": "Dating from ancient foundations, the current church building incorporates structural updates completed in the late 19th century.",
+      "keywords": [
+        "St Peter and Paul Mauren",
+        "Mauren parish church",
+        "classical church building",
+        "lowland religious sites",
+        "Mauren village center"
+      ],
+      "long_tail_keywords": [
+        "historic churches in Mauren town",
+        "parish art inside St Peter and Paul",
+        "religious walking loops northern lowlands",
+        "visiting local sanctuaries near Austrian border"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 82,
+      "topical_depth_score": 6,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "muura_museum",
+        "peter_kaiser_mauren"
+      ],
+      "related_attractions": [
+        "st_martin_eschen"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Mauren"
+    },
+    {
+      "id": "muura_museum",
+      "name": "Cultural House Muura",
+      "city_id": "mauren",
+      "latitude": 47.219,
+      "longitude": 9.544,
+      "google_maps_url": "https://www.google.com/maps?q=47.219,9.544",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Mauren_(Liechtenstein)",
+      "wikidata_id": "Q185661",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Kulturhaus_Muura_Mauren.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Cultural House Muura Mauren - Local Heritage Museum",
+      "seo_description": "Explore local heritage exhibits, historical photographs, and folk art inside the historic Cultural House Muura in Mauren.",
+      "description_short": "A charming neighborhood museum showcasing Mauren's local history and folk traditions.",
+      "description_long": "The Kulturhaus Muura serves as Mauren's local heritage center. It preserves old farming tools, vintage household items, and community document archives that trace the daily lifestyle of lowland families across past decades.",
+      "history_short": "Converted from a traditional domestic home into a community-run museum to preserve the specific village roots of Mauren.",
+      "keywords": [
+        "Cultural House Muura",
+        "Kulturhaus Muura",
+        "Mauren museum",
+        "local heritage displays",
+        "folk traditions"
+      ],
+      "long_tail_keywords": [
+        "local history museums in Mauren",
+        "traditional farming exhibits northern region",
+        "community heritage archives Liechtenstein",
+        "what to see in Mauren village center"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 79,
+      "topical_depth_score": 7,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "st_peter_paul_mauren",
+        "mauren_plaza"
+      ],
+      "related_attractions": [
+        "pfrundhaus_eschen"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Mauren"
+    },
+    {
+      "id": "schaanwald_customs",
+      "name": "Schaanwald Historic Customs House",
+      "city_id": "mauren",
+      "latitude": 47.2125,
+      "longitude": 9.563,
+      "google_maps_url": "https://www.google.com/maps?q=47.2125,9.563",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Schaanwald",
+      "wikidata_id": "Q683134",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Zollamt_Schaanwald_Grenzstation.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Schaanwald Customs House - Historic Border Link",
+      "seo_description": "See the historic Schaanwald Customs House, an important border checkpoint building linking the country with Austria.",
+      "description_short": "A landmark border administration building highlighting cross-border transit history.",
+      "description_long": "The Schaanwald Customs station stands as a key physical symbol of economic history. Its structural architecture marks the traditional main gateway for commerce moving between Feldkirch and the Rhine plain.",
+      "history_short": "Established in the early 20th century following economic customs treaties, it remains an active border post landmark.",
+      "keywords": [
+        "Schaanwald customs",
+        "border checkpoint house",
+        "Austria Liechtenstein link",
+        "transit history",
+        "Schaanwald landmarks"
+      ],
+      "long_tail_keywords": [
+        "historic border crossings Schaanwald",
+        "economic treaties customs history",
+        "transit buildings near Austrian line",
+        "where to see old customs posts"
+      ],
+      "search_intent": "navigational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 75,
+      "topical_depth_score": 6,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "st_theresa_schaanwald",
+        "schaanwald_trailhead"
+      ],
+      "related_attractions": [
+        "schaan_station"
+      ],
+      "internal_link_priority": "low",
+      "city": "Mauren"
+    },
+    {
+      "id": "st_theresa_schaanwald",
+      "name": "St. Theresa Chapel Schaanwald",
+      "city_id": "mauren",
+      "latitude": 47.213,
+      "longitude": 9.564,
+      "google_maps_url": "https://www.google.com/maps?q=47.213,9.564",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Kapelle_St.Theresia(Schaanwald)",
+      "wikidata_id": "Q23816578",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Theresiakapelle_Schaanwald_Front.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "St. Theresa Chapel Schaanwald - Modernist Sacred Site",
+      "seo_description": "Visit the unique St. Theresa Chapel in Schaanwald, featuring distinct mid-20th century architectural lines.",
+      "description_short": "A unique modernist district chapel serving the community of Schaanwald hamlet.",
+      "description_long": "The Kapelle St. Theresia stands out with its mid-20th-century modernist design lines. Its architectural geometry presents a striking contrast to the traditional rural chapels scattered across the lowlands.",
+      "history_short": "Constructed in 1948 to provide the border hamlet of Schaanwald with its own modern local sanctuary.",
+      "keywords": [
+        "St Theresa Schaanwald",
+        "Schaanwald chapel",
+        "modernist church design",
+        "hamlet shrines",
+        "20th century sacred art"
+      ],
+      "long_tail_keywords": [
+        "modernist church architecture Liechtenstein",
+        "small chapels in Schaanwald border village",
+        "20th century religious sites Europe",
+        "walking loops around Schaanwald houses"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 76,
+      "topical_depth_score": 6,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "schaanwald_customs",
+        "schaanwald_trailhead"
+      ],
+      "related_attractions": [
+        "holy_cross_nendeln"
+      ],
+      "internal_link_priority": "medium",
+      "city": "Mauren"
+    },
+    {
+      "id": "mauren_plaza",
+      "name": "Mauren Community Square",
+      "city_id": "mauren",
+      "latitude": 47.22,
+      "longitude": 9.543,
+      "google_maps_url": "https://www.google.com/maps?q=47.22,9.543",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Mauren_(Liechtenstein)",
+      "wikidata_id": "Q185661",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Mauren_Zentrum_Dorfplatz.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "seo_title": "Mauren Community Square - Lowland Village Center",
+      "seo_description": "Explore the central village plaza of Mauren, a tidy northern lowlands square hosting seasonal community events.",
+      "description_short": "The tidy, well-designed public core anchoring civic life in Mauren village.",
+      "description_long": "The main plaza of Mauren connects administrative spaces with local community benches. Its open layout serves as a peaceful rest point for walkers navigating regional valley paths.",
+      "history_short": "Redesigned by urban planners to form a centralized pedestrian space capable of hosting seasonal local markets.",
+      "keywords": [
+        "Mauren plaza",
+        "village square Mauren",
+        "civic hub lowlands",
+        "pedestrian zones",
+        "Mauren center"
+      ],
+      "long_tail_keywords": [
+        "what to see in Mauren town center",
+        "central plazas in northern Liechtenstein",
+        "walking paths near Mauren town hall",
+        "public spaces lowland farming villages"
+      ],
+      "search_intent": "navigational",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 70,
+      "topical_depth_score": 5,
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "accessibility": "walking_distance",
+      "nearby_attractions": [
+        "st_peter_paul_mauren",
+        "muura_museum"
+      ],
+      "related_attractions": [
+        "eschen_plaza"
+      ],
+      "internal_link_priority": "low",
+      "city": "Mauren"
+    }
+  ],
+  "adventure_locations": []
+}

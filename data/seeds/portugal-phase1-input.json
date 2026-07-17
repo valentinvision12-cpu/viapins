@@ -1,0 +1,4235 @@
+{
+  "country": "Portugal",
+  "cities": [
+    {
+      "name": "Lisbon",
+      "region": "Lisbon Region",
+      "latitude": 38.7223,
+      "longitude": -9.1393
+    },
+    {
+      "name": "Porto",
+      "region": "Norte",
+      "latitude": 41.1579,
+      "longitude": -8.6291
+    },
+    {
+      "name": "Sintra",
+      "region": "Lisbon Region",
+      "latitude": 38.7994,
+      "longitude": -9.3872
+    },
+    {
+      "name": "Braga",
+      "region": "Norte",
+      "latitude": 41.5503,
+      "longitude": -8.4201
+    },
+    {
+      "name": "Coimbra",
+      "region": "Centro",
+      "latitude": 40.2033,
+      "longitude": -8.4103
+    },
+    {
+      "name": "Evora",
+      "region": "Alentejo",
+      "latitude": 38.5714,
+      "longitude": -7.9096
+    },
+    {
+      "name": "Guimaraes",
+      "region": "Norte",
+      "latitude": 41.4425,
+      "longitude": -8.2918
+    },
+    {
+      "name": "Aveiro",
+      "region": "Centro",
+      "latitude": 40.6405,
+      "longitude": -8.6538
+    },
+    {
+      "name": "Faro",
+      "region": "Algarve",
+      "latitude": 37.0179,
+      "longitude": -7.9308
+    },
+    {
+      "name": "Lagos",
+      "region": "Algarve",
+      "latitude": 37.1028,
+      "longitude": -8.673
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Praca do Comercio",
+      "city": "Lisbon",
+      "region": "Lisbon Region",
+      "latitude": 38.7075,
+      "longitude": -9.1364,
+      "google_maps_url": "https://www.google.com/maps?q=38.7075,-9.1364",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pra%C3%A7a_do_Com%C3%A9rcio",
+      "wikidata_id": "Q1066504",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Pra%C3%A7a_do_Com%C3%A9rcio_-_Lisboa.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Year-round",
+      "short_history": "Built on the location of the old Royal Ribeira Palace after it was destroyed in the 1755 earthquake, representing Portugal's commercial revival.",
+      "seo_title": "Ultimate Guide to Praca do Comercio in Lisbon | Historic Waterfront Square",
+      "seo_description": "Explore Praca do Comercio, Lisbon's grandest plaza. Learn about its monumental Pombaline architecture, top photo spots, and waterfront walking paths.",
+      "description_short": "A majestic waterfront plaza in central Lisbon bordered by vibrant yellow arcade buildings.",
+      "description_long": "Serving as the historic symbolic gateway to the city of Lisbon, Praca do Comercio presents a grand layout bordered by elegant eighteenth-century symmetrical structures. Visitors can walk underneath the colossal Arco da Rua Augusta or stroll directly along the riverfront steps where historic trade merchants once docked.",
+      "keywords": [
+        "Praca do Comercio",
+        "Lisbon waterfront",
+        "Terreiro do Paco",
+        "Lisbon monuments"
+      ],
+      "long_tail_keywords": [
+        "things to do in Baixa Lisbon",
+        "famous squares in Portugal",
+        "visiting Praca do Comercio steps"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 95,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Arco da Rua Augusta",
+        "Lisbon Cathedral"
+      ],
+      "related_attractions": [
+        "Ribeira District",
+        "Praca do Giraldo"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "name": "Castelo de Sao Jorge",
+      "city": "Lisbon",
+      "region": "Lisbon Region",
+      "latitude": 38.7139,
+      "longitude": -9.1334,
+      "google_maps_url": "https://www.google.com/maps?q=38.7139,-9.1334",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castelo_de_S%C3%A3o_Jorge",
+      "wikidata_id": "Q732490",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Castelo_de_S%C3%A3o_Jorge_in_Lisbon_-_September_2021.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Spring",
+      "short_history": "An ancient hilltop fortress heavily occupied by the Phoenicians, Romans, and Moors before being captured by King Afonso Henriques in 1147.",
+      "seo_title": "Castelo de Sao Jorge Travel Guide | Lisbon's Hilltop Citadel",
+      "seo_description": "Plan your visit to Castelo de Sao Jorge in Lisbon. Discover panoramic views, medieval fortifications, and walking paths through ancient ruins.",
+      "description_short": "A dramatic medieval fortress overlooking the historic Alfama district and Tagus River.",
+      "description_long": "Perched on the highest hill of central Lisbon, Castelo de Sao Jorge offers unmatched panoramic vistas of the urban landscape. Visitors can climb the stone battlements, explore the tranquil archaeological site inside, and view the preserved defensive walls that have protected the settlement for centuries.",
+      "keywords": [
+        "Castelo de Sao Jorge",
+        "Lisbon castle",
+        "Alfama attractions",
+        "medieval Portugal"
+      ],
+      "long_tail_keywords": [
+        "how to get to Lisbon castle",
+        "best sunset spots in Lisbon",
+        "historical castles in Lisbon"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 96,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Alfama District",
+        "Lisbon Cathedral"
+      ],
+      "related_attractions": [
+        "Guimaraes Castle",
+        "Moorish Castle"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "name": "Se de Lisboa",
+      "city": "Lisbon",
+      "region": "Lisbon Region",
+      "latitude": 38.7099,
+      "longitude": -9.1326,
+      "google_maps_url": "https://www.google.com/maps?q=38.7099,-9.1326",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lisbon_Cathedral",
+      "wikidata_id": "Q432244",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Lisbon_Cathedral_July_2021.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Year-round",
+      "short_history": "Founded in 1147, this fortress-like structure is the oldest church in the capital, surviving multiple catastrophic earthquakes.",
+      "seo_title": "Lisbon Cathedral (Se de Lisboa) | Guide to Lisbon's Oldest Church",
+      "seo_description": "Discover Se de Lisboa, the iconic medieval cathedral. Explore its Romanesque architecture, Gothic cloisters, and ancient structural treasures.",
+      "description_short": "A imposing Romanesque cathedral featuring fortress-style towers located in the Alfama foothills.",
+      "description_long": "The Lisbon Cathedral presents a remarkable blend of architectural design styles, primarily exhibiting solid Romanesque stonework. Its dark, atmospheric interior houses beautiful relics, while the active archaeological excavations in the cloister reveal multiple layers of Roman and Moorish history underneath.",
+      "keywords": [
+        "Lisbon Cathedral",
+        "Se de Lisboa",
+        "Alfama churches",
+        "historic Lisbon"
+      ],
+      "long_tail_keywords": [
+        "oldest church in Lisbon",
+        "visiting Lisbon Cathedral cloister",
+        "tram 28 photo spots Lisbon"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 91,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Castelo de Sao Jorge",
+        "Praca do Comercio"
+      ],
+      "related_attractions": [
+        "Porto Cathedral",
+        "Evora Cathedral"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "name": "Elevador de Santa Justa",
+      "city": "Lisbon",
+      "region": "Lisbon Region",
+      "latitude": 38.7121,
+      "longitude": -9.1394,
+      "google_maps_url": "https://www.google.com/maps?q=38.7121,-9.1394",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Santa_Justa_Lift",
+      "wikidata_id": "Q1307521",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Elevador_de_Santa_Justa_-_Lisboa.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Autumn",
+      "short_history": "Designed by Raoul Mesnier du Ponsard and completed in 1902 to connect the lower streets of Baixa with the higher Carmo Square.",
+      "seo_title": "Santa Justa Lift Lisbon | Iconic Neo-Gothic Industrial Elevator",
+      "seo_description": "Plan your trip to the Santa Justa Lift in Lisbon. Learn about its structural history, ticket prices, and how to access the upper observation deck.",
+      "description_short": "A stunning iron elevator tower built in striking industrial Neo-Gothic design.",
+      "description_long": "As a highly unique urban transport solution turned landmark, the Elevador de Santa Justa stands proudly in downtown Lisbon. Constructed entirely of wrought iron, it features ornate filigree details and transports passengers up to a spectacular viewing deck with excellent views of Rossio and the castle hills.",
+      "keywords": [
+        "Santa Justa Lift",
+        "Elevador de Santa Justa",
+        "Lisbon viewpoint",
+        "Baixa lift"
+      ],
+      "long_tail_keywords": [
+        "how to avoid lines at Santa Justa lift",
+        "Lisbon iron elevator tickets",
+        "best viewpoint Baixa"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 93,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Convento do Carmo",
+        "Praca do Rossio"
+      ],
+      "related_attractions": [
+        "Clerigos Tower",
+        "Teleferico de Guimaraes"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "name": "Convento do Carmo",
+      "city": "Lisbon",
+      "region": "Lisbon Region",
+      "latitude": 38.7122,
+      "longitude": -9.1402,
+      "google_maps_url": "https://www.google.com/maps?q=38.7122,-9.1402",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Carmo_Convent_(Lisbon)",
+      "wikidata_id": "Q430580",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Convento_do_Carmo_July_2021.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Year-round",
+      "short_history": "Founded in 1389, this massive Gothic convent was ruined during the 1755 earthquake and left roofless as a permanent monument to the tragedy.",
+      "seo_title": "Carmo Convent Ruins Lisbon | Gothic Ruins & Archaeological Museum",
+      "seo_description": "Explore the roofless Gothic arches of Convento do Carmo. Discover the on-site archaeological museum and experience this unique open-air landmark.",
+      "description_short": "An unforgettable skeleton of a Gothic church standing roofless against the blue Lisbon sky.",
+      "description_long": "Convento do Carmo stands as a powerful reminder of nature's impact on Portuguese history. Walking down its central nave reveals striking pointed stone arches that frame the open sky, while the attached chancel functions as an eclectic museum storing unique historical treasures and artifacts.",
+      "keywords": [
+        "Carmo Convent",
+        "Convento do Carmo",
+        "Lisbon ruins",
+        "Gothic Lisbon"
+      ],
+      "long_tail_keywords": [
+        "roofless church Lisbon",
+        "Carmo archaeological museum tickets",
+        "historic landmarks Chiado"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 94,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Elevador de Santa Justa",
+        "Praca do Rossio"
+      ],
+      "related_attractions": [
+        "Mosteiro de Santa Cruz",
+        "Mosteiro de Tibaes"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "name": "Praca do Rossio",
+      "city": "Lisbon",
+      "region": "Lisbon Region",
+      "latitude": 38.7138,
+      "longitude": -9.1394,
+      "google_maps_url": "https://www.google.com/maps?q=38.7138,-9.1394",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rossio_Square",
+      "wikidata_id": "Q1411516",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Praca_do_Rossio_Lisboa.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Year-round",
+      "short_history": "The central hub of civic life in Lisbon since the Middle Ages, hosting revolts, celebrations, and theatrical performances across centuries.",
+      "seo_title": "Rossio Square Lisbon Guide | The Heart of Historic Downtown",
+      "seo_description": "Visit Rossio Square (Praca de D. Pedro IV) in Lisbon. Learn about its beautiful wave-patterned pavements, grand fountains, and historic cafes.",
+      "description_short": "A lively central square featuring classic Portuguese wave-patterned stone pavement.",
+      "description_long": "Officially known as Praca de D. Pedro IV, Rossio Square remains a bustling center of daily activity in downtown Lisbon. The expansive plaza is adorned with two beautiful monumental baroque fountains, a central statue, and striking architecture that hosts some of the city's oldest traditional coffee houses.",
+      "keywords": [
+        "Rossio Square",
+        "Praca Rossio",
+        "Lisbon center",
+        "Portuguese pavement"
+      ],
+      "long_tail_keywords": [
+        "things to see in Rossio Lisbon",
+        "historic cafes near Rossio",
+        "downtown Lisbon walking tour"
+      ],
+      "search_intent": "navigational",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 89,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Elevador de Santa Justa",
+        "Convento do Carmo"
+      ],
+      "related_attractions": [
+        "Praca da Republica",
+        "Largo da Oliveira"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "name": "Miradouro da Senhora do Monte",
+      "city": "Lisbon",
+      "region": "Lisbon Region",
+      "latitude": 38.7191,
+      "longitude": -9.1312,
+      "google_maps_url": "https://www.google.com/maps?q=38.7191,-9.1312",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Miradouro_da_Senhora_do_Monte",
+      "wikidata_id": "Q10330612",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Miradouro_da_Senhora_do_Monte_View.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Summer",
+      "short_history": "A historic lookout point crowned by a small chapel dedicated to Our Lady of the Mount, originally founded back in 1147.",
+      "seo_title": "Miradouro da Senhora do Monte | Best Panoramic Viewpoint in Lisbon",
+      "seo_description": "Discover Miradouro da Senhora do Monte. Find tips on reaching this hilltop viewpoint for incredible sunset vistas over the castle and river.",
+      "description_short": "The highest observation viewpoint in Lisbon offering unparalleled vistas across the city layout.",
+      "description_long": "Situated in the quiet Graca neighborhood, Miradouro da Senhora do Monte provides a truly magnificent perspective of Lisbon's rooftops, the ancient castle walls, and the distant suspension bridge. It is an idyllic, romantic spot popular for observing colorful sunsets away from the intense lower valley rush.",
+      "keywords": [
+        "Senhora do Monte",
+        "Lisbon viewpoint",
+        "miradouro sunset",
+        "Graca Lisbon"
+      ],
+      "long_tail_keywords": [
+        "highest viewpoint in Lisbon",
+        "best sunset spots Alfama Graca",
+        "free things to do in Lisbon"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 92,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Castelo de Sao Jorge",
+        "Alfama District"
+      ],
+      "related_attractions": [
+        "Santuario da Penha",
+        "Penedo da Saudade"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "name": "Padrao dos Descobrimentos",
+      "city": "Lisbon",
+      "region": "Lisbon Region",
+      "latitude": 38.6936,
+      "longitude": -9.2057,
+      "google_maps_url": "https://www.google.com/maps?q=38.6936,-9.2057",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Padr%C3%A3o_dos_Descobrimentos",
+      "wikidata_id": "Q1134591",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Padr%C3%A3o_dos_Descobrimentos_Lisbon.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Year-round",
+      "short_history": "First erected dynamically as a temporary structure in 1940, it was permanently rebuilt in 1960 to commemorate the 500th anniversary of Henry the Navigator's death.",
+      "seo_title": "Padrao dos Descobrimentos Belem | Discover Portugal's Age of Discovery",
+      "seo_description": "Visit the Monument to the Discoveries in Belem, Lisbon. Learn about the iconic historical figures carved into the stone and find observation deck info.",
+      "description_short": "A striking modern concrete monument shaped like a ship's prow on the banks of the Tagus.",
+      "description_long": "The Padrao dos Descobrimentos celebrates the historical maritime Age of Discovery with over thirty expertly carved statues of explorers, monarchs, and chroniclers lining its sides. Visitors can admire the vast wind rose mosaic map on the pavement below or take an elevator to the roof summit.",
+      "keywords": [
+        "Padrao dos Descobrimentos",
+        "Belem monument",
+        "Lisbon explorers",
+        "Tagus river landmarks"
+      ],
+      "long_tail_keywords": [
+        "monument to the discoveries tickets",
+        "what to see in Belem Lisbon",
+        "Henry the navigator monument"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 93,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Mosteiro dos Jeronimos",
+        "Torre de Belem"
+      ],
+      "related_attractions": [
+        "Palace of the Dukes of Braganza",
+        "Padrao do Salado"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "name": "Mosteiro dos Jeronimos",
+      "city": "Lisbon",
+      "region": "Lisbon Region",
+      "latitude": 38.6978,
+      "longitude": -9.2067,
+      "google_maps_url": "https://www.google.com/maps?q=38.6978,-9.2067",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jer%C3%B3nimos_Monastery",
+      "wikidata_id": "Q272778",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Mosteiro_dos_Jer%C3%B3nimos_July_2021.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Spring",
+      "short_history": "Construction began in 1501 funded by wealth from spice trade routes, serving as the supreme masterpiece of unique Portuguese Manueline architecture.",
+      "seo_title": "Jeronimos Monastery Guide | Lisbon's Manueline Architecture Marvel",
+      "seo_description": "Explore the historic Mosteiro dos Jeronimos in Belem. Read about the intricate stone carvings, royal heritage, and beautiful internal cloisters.",
+      "description_short": "A magnificent UNESCO World Heritage monastery boasting incredible maritime-themed late Gothic stone carvings.",
+      "description_long": "The Mosteiro dos Jeronimos stands as an exceptional symbol of Portuguese architectural achievement during the global age of exploration. Its breathtaking double-tiered cloister features pillars sculpted with maritime elements, coral reef details, and historic emblems that capture the adventurous essence of the old empire.",
+      "keywords": [
+        "Jeronimos Monastery",
+        "Mosteiro dos Jeronimos",
+        "Belem attractions",
+        "Manueline architecture"
+      ],
+      "long_tail_keywords": [
+        "visiting Jeronimos monastery cloisters",
+        "best Manueline buildings in Portugal",
+        "Belem day trip itinerary"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 98,
+      "topical_depth_score": 10,
+      "nearby_attractions": [
+        "Padrao dos Descobrimentos",
+        "Torre de Belem"
+      ],
+      "related_attractions": [
+        "Convento de Tibaes",
+        "Mosteiro de Santa Cruz"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "name": "Torre de Belem",
+      "city": "Lisbon",
+      "region": "Lisbon Region",
+      "latitude": 38.6916,
+      "longitude": -9.216,
+      "google_maps_url": "https://www.google.com/maps?q=38.6916,-9.2160",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Tower",
+      "wikidata_id": "Q215004",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Torre_de_Bel%C3%A9m_November_2021.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Autumn",
+      "short_history": "Commissioned by King John II and built in the early 16th century as a defensive fortress in the middle of the Tagus River channel.",
+      "seo_title": "Belem Tower Lisbon | Iconic Maritime Defensive Fortification",
+      "seo_description": "Discover Torre de Belem, Lisbon's prominent riverside fortress tower. Read tips on photography, interior exhibits, and historical defense details.",
+      "description_short": "A historic, ornamental stone tower standing guard along the shores of the Tagus estuary.",
+      "description_long": "The Torre de Belem remains an enduring cultural icon of Portugal, combining solid medieval battlements with intricate Manueline decorative motifs. Visitors can cross the wooden drawbridge to explore internal artillery rooms, bastions, and upper terraces that look out across the expansive Atlantic approach.",
+      "keywords": [
+        "Belem Tower",
+        "Torre de Belem",
+        "Lisbon defensive forts",
+        "UNESCO Portugal"
+      ],
+      "long_tail_keywords": [
+        "how to visit Belem tower inside",
+        "best photo spot Belem tower",
+        "historic fortifications in Lisbon"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 97,
+      "topical_depth_score": 10,
+      "nearby_attractions": [
+        "Mosteiro dos Jeronimos",
+        "Padrao dos Descobrimentos"
+      ],
+      "related_attractions": [
+        "Forte da Ponta da Bandeira",
+        "Guimaraes Castle"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "name": "Luis I Bridge",
+      "city": "Porto",
+      "region": "Norte",
+      "latitude": 41.1399,
+      "longitude": -8.6094,
+      "google_maps_url": "https://www.google.com/maps?q=41.1399,-8.6094",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dom_Lu%C3%ADs_I_Bridge",
+      "wikidata_id": "Q412959",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Dom_Lu%C3%ADs_I_Bridge_Porto.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Year-round",
+      "short_history": "Designed by Théophile Seyrig, a disciple of Gustave Eiffel, and opened in 1886 to link Porto with Vila Nova de Gaia.",
+      "seo_title": "Dom Luis I Bridge Porto | Iconic Double-Deck Metal Arch Guide",
+      "seo_description": "Walk across Porto's famous Dom Luis I Bridge. Find essential information on the pedestrian decks, scenic views, and sunset photography tips.",
+      "description_short": "A monumental double-deck iron arch bridge spanning the beautiful Douro River.",
+      "description_long": "The Luis I Bridge is an architectural icon of industrial ironworking in Porto. Its top deck accommodates the local metro line alongside a wide walkway for breathtaking sky-high pedestrian views, while the lower deck serves regular vehicles and visitors strolling between riverside cafes.",
+      "keywords": [
+        "Luis I Bridge",
+        "Porto bridge",
+        "Douro river crossing",
+        "Eiffel iron bridge"
+      ],
+      "long_tail_keywords": [
+        "walking across Porto bridge",
+        "best view of Ribeira Porto",
+        "historic bridges in northern Portugal"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 98,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Ribeira District",
+        "Porto Cathedral"
+      ],
+      "related_attractions": [
+        "Elevador de Santa Justa",
+        "Ponte de Santa Clara"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "name": "Clerigos Church and Tower",
+      "city": "Porto",
+      "region": "Norte",
+      "latitude": 41.1458,
+      "longitude": -8.6147,
+      "google_maps_url": "https://www.google.com/maps?q=41.1458,-8.6147",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cl%C3%A9rigos_Church",
+      "wikidata_id": "Q1144415",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Cl%C3%A9rigos_Tower_Porto.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Autumn",
+      "short_history": "Designed by Italian architect Nicolau Nasoni in the mid-18th century, building a dramatic baroque bell tower that served as a guidance landmark for ships.",
+      "seo_title": "Clerigos Tower Porto | Climb the Famous Baroque Bell Tower",
+      "seo_description": "Explore the historic Clerigos Church and its iconic tower in Porto. Get ticket info, architectural analysis, and step counts for the summit view.",
+      "description_short": "A soaring baroque stone bell tower dominate the central skyline of Porto.",
+      "description_long": "The Clerigos Tower presents an extraordinary example of late Baroque styling in Northern Portugal. Climbing up the 225 steps of its historic internal spiral staircase brings visitors to a tight outdoor balcony with a stunning bird's-eye view over the urban grid.",
+      "keywords": [
+        "Clerigos Tower",
+        "Torre dos Clerigos",
+        "Porto baroque church",
+        "Nicolau Nasoni"
+      ],
+      "long_tail_keywords": [
+        "climbing Clerigos tower Porto",
+        "best view towers in Porto",
+        "baroque architecture northern Portugal"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 95,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Livraria Lello",
+        "Sao Bento Station"
+      ],
+      "related_attractions": [
+        "Elevador de Santa Justa",
+        "Bom Jesus do Monte"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "name": "Livraria Lello",
+      "city": "Porto",
+      "region": "Norte",
+      "latitude": 41.1468,
+      "longitude": -8.6148,
+      "google_maps_url": "https://www.google.com/maps?q=41.1468,-8.6148",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Livraria_Lello",
+      "wikidata_id": "Q948197",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Livraria_Lello_Interior.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Winter",
+      "short_history": "Opened in 1906 by the Lello brothers, this bookstore became globally acclaimed for its artistic Neo-Gothic façade and majestic wooden interior carvings.",
+      "seo_title": "Livraria Lello Porto | Ultimate Historic Bookstore Guide",
+      "seo_description": "Step inside Livraria Lello, one of the world's most beautiful bookstores. Learn about ticket vouchers, architectural style, and visiting times.",
+      "description_short": "An incredibly ornate historic bookstore featuring a famous crimson fork-shaped central staircase.",
+      "description_long": "Livraria Lello blends Neo-Gothic design with Art Nouveau elegance seamlessly. The interior is defined by an intricate stained-glass ceiling window, detailed relief carvings on bookshelves, and a flowing, twisting central staircase structure that creates an immersive, artistic space for literature lovers.",
+      "keywords": [
+        "Livraria Lello",
+        "Porto bookstore",
+        "historic bookshops",
+        "Neo-Gothic Porto"
+      ],
+      "long_tail_keywords": [
+        "Livraria Lello tickets voucher",
+        "beautiful bookstores in Europe",
+        "visiting Lello bookstore Porto"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 94,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Clerigos Church and Tower",
+        "Sao Bento Station"
+      ],
+      "related_attractions": [
+        "Palacio da Bolsa",
+        "Lethes Theatre"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "name": "Sao Bento Station",
+      "city": "Porto",
+      "region": "Norte",
+      "latitude": 41.1455,
+      "longitude": -8.6103,
+      "google_maps_url": "https://www.google.com/maps?q=41.1455,-8.6103",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/S%C3%A3o_Bento_railway_station",
+      "wikidata_id": "Q1435272",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/S%C3%A3o_Bento_train_station_Porto.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Year-round",
+      "short_history": "Inaugurated in 1916 on the grounds of a former Benedictine convent, featuring grand thematic tilework painted by artist Jorge Colaço.",
+      "seo_title": "Sao Bento Train Station | Porto's Azulejo Tile Masterpiece",
+      "seo_description": "Visit Sao Bento Station in Porto. Explore the breathtaking main hall covered in over 20,000 blue and white traditional azulejo ceramic tiles.",
+      "description_short": "An active railway terminus renowned for its vast, historically descriptive tile murals.",
+      "description_long": "Sao Bento Station turns a routine transport hub into an exceptional cultural gallery space. The expansive atrium walls are completely clad in over 20,000 hand-painted traditional azulejo tiles, depicting pivotal moments in historic Portuguese battles, royal processions, and agricultural history.",
+      "keywords": [
+        "Sao Bento Station",
+        "Porto train station",
+        "azulejo tiles Porto",
+        "Jorge Colaco"
+      ],
+      "long_tail_keywords": [
+        "famous tile station Porto",
+        "free things to see in Porto",
+        "traditional Portuguese blue tiles"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 93,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Porto Cathedral",
+        "Clerigos Church and Tower"
+      ],
+      "related_attractions": [
+        "Palacio do Raio",
+        "Igreja de Nossa Senhora da Oliveira"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "name": "Porto Cathedral",
+      "city": "Porto",
+      "region": "Norte",
+      "latitude": 41.1428,
+      "longitude": -8.6111,
+      "google_maps_url": "https://www.google.com/maps?q=41.1428,-8.6111",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Porto_Cathedral",
+      "wikidata_id": "Q1422718",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Sé_do_Porto_July_2021.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Year-round",
+      "short_history": "One of the city's oldest historical structures, construction began around 1110 under the patronage of Bishop Hugo and was completed over centuries.",
+      "seo_title": "Porto Cathedral (Se do Porto) | Medieval Fortress-Church",
+      "seo_description": "Explore Se do Porto, the historic hilltop cathedral. Read about its defensive towers, beautiful Gothic cloisters, and panoramic courtyard overlooks.",
+      "description_short": "A sturdy Romanesque cathedral fortress standing high over Porto's old quarters.",
+      "description_long": "The Se do Porto features imposing crenellated towers that give it the distinct appearance of a defensive castle. Inside, visitors can wander through an elegant fourteenth-century Gothic cloister decorated with pristine blue and white tile panels that frame the tranquil courtyard beautifully.",
+      "keywords": [
+        "Porto Cathedral",
+        "Se do Porto",
+        "medieval church",
+        "Gothic cloister Porto"
+      ],
+      "long_tail_keywords": [
+        "oldest buildings in Porto",
+        "visiting Porto cathedral square",
+        "religious architecture Portugal"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 92,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Sao Bento Station",
+        "Luis I Bridge"
+      ],
+      "related_attractions": [
+        "Lisbon Cathedral",
+        "Braga Cathedral"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "name": "Palacio da Bolsa",
+      "city": "Porto",
+      "region": "Norte",
+      "latitude": 41.1414,
+      "longitude": -8.6156,
+      "google_maps_url": "https://www.google.com/maps?q=41.1414,-8.6156",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pal%C3%A1cio_da_Bolsa",
+      "wikidata_id": "Q2046808",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Palácio_da_Bolsa_Porto.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Year-round",
+      "short_history": "Built by the city's commercial association starting in 1842, it served as the historical Stock Exchange Palace designed to impress foreign investors.",
+      "seo_title": "Palacio da Bolsa Porto | Explore the Arab Room and Grand Halls",
+      "seo_description": "Book a guided tour of Palacio da Bolsa in Porto. Admire neoclassical architecture, majestic courts, and the stunning Moorish Revival Arab Room.",
+      "description_short": "A magnificent nineteenth-century palace showcasing lavish neoclassical and exotic architectural styles.",
+      "description_long": "The Palacio da Bolsa represents the zenith of Porto's mercantile wealth. Its crowning jewel is the extraordinary Arab Room, an exotic ballroom decorated in intricate Neo-Moorish stucco work heavily gilded with real gold leaf, inspired directly by the historic Alhambra.",
+      "keywords": [
+        "Palacio da Bolsa",
+        "Stock Exchange Palace",
+        "Arab Room Porto",
+        "neoclassical palace"
+      ],
+      "long_tail_keywords": [
+        "Palacio da Bolsa guided tours",
+        "beautiful interiors in Porto",
+        "commercial history Portugal"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 94,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Igreja de Sao Francisco",
+        "Ribeira District"
+      ],
+      "related_attractions": [
+        "Palacio do Raio",
+        "Palacio de Seteais"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "name": "Ribeira District",
+      "city": "Porto",
+      "region": "Norte",
+      "latitude": 41.1406,
+      "longitude": -8.6125,
+      "google_maps_url": "https://www.google.com/maps?q=41.1406,-8.6125",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ribeira_(Porto)",
+      "wikidata_id": "Q2147775",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ribeira_District_Porto.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Spring",
+      "short_history": "The ancient riverside core of Porto, which served as a bustling harbor for medieval shipping before becoming a UNESCO World Heritage site.",
+      "seo_title": "Ribeira Porto Travel Guide | Historic Douro Riverside Quarter",
+      "seo_description": "Stroll down the vibrant Ribeira District in Porto. Explore narrow medieval lanes, colorful historic townhouses, and riverfront restaurants.",
+      "description_short": "A colorful, historic neighborhood cascading down to the northern bank of the Douro River.",
+      "description_long": "The Ribeira District offers an atmospheric experience of old Porto. Characterized by tightly packed multi-colored façades, drying laundry lines, and narrow cobblestone alleys, it provides an energetic setting filled with street musicians, patio dining, and views of passing traditional boats.",
+      "keywords": [
+        "Ribeira District",
+        "Porto riverside",
+        "Cais da Ribeira",
+        "UNESCO Porto"
+      ],
+      "long_tail_keywords": [
+        "things to do in Ribeira Porto",
+        "historic quarters northern Portugal",
+        "best river walks Porto"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 96,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Luis I Bridge",
+        "Palacio da Bolsa"
+      ],
+      "related_attractions": [
+        "Cidade Velha Faro",
+        "Lagos Old Town Walls"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "name": "Igreja de Sao Francisco",
+      "city": "Porto",
+      "region": "Norte",
+      "latitude": 41.1409,
+      "longitude": -8.6158,
+      "google_maps_url": "https://www.google.com/maps?q=41.1409,-8.6158",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Church_of_S%C3%A3o_Francisco_(Porto)",
+      "wikidata_id": "Q2517525",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Igreja_de_S%C3%A3o_Francisco_Porto.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Year-round",
+      "short_history": "Completed in 1425 in Gothic style, the interior was fundamentally transformed in the 18th century with exuberant baroque gilded woodwork.",
+      "seo_title": "Church of Sao Francisco Porto | Gilded Baroque Wooden Masterpiece",
+      "seo_description": "Discover the Igreja de Sao Francisco in Porto. Learn about its stunning gold-leaf interior encasing medieval architecture and the Jesse Tree carving.",
+      "description_short": "A historic Gothic church interior entirely blanketed in shimmering baroque gold woodwork.",
+      "description_long": "While the exterior presents a modest Gothic stone shell, the interior of the Igreja de Sao Francisco is an outstanding display of talha dourada baroque craftsmanship. Over three hundred kilograms of gold leaf coat the detailed carvings of cherubs, saints, and complex ancestral trees lining the nave walls.",
+      "keywords": [
+        "Igreja de Sao Francisco",
+        "Porto gold church",
+        "baroque woodwork",
+        "talha dourada"
+      ],
+      "long_tail_keywords": [
+        "gold plated church Porto tickets",
+        "Jesse tree carving Portugal",
+        "Gothic churches in Porto"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 93,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Palacio da Bolsa",
+        "Ribeira District"
+      ],
+      "related_attractions": [
+        "Mosteiro de Santa Cruz",
+        "Igreja de Sao Francisco Evora"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "name": "Jardins do Palacio de Cristal",
+      "city": "Porto",
+      "region": "Norte",
+      "latitude": 41.1497,
+      "longitude": -8.6258,
+      "google_maps_url": "https://www.google.com/maps?q=41.1497,-8.6258",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jardins_do_Pal%C3%A1cio_de_Cristal",
+      "wikidata_id": "Q10306321",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Jardins_do_Pal%C3%A1cio_de_Cristal_Porto.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Spring",
+      "short_history": "Designed in the late 19th century by German landscaper Émile David to surround the historic Crystal Palace, which was replaced by a modern dome dome in 1951.",
+      "seo_title": "Crystal Palace Gardens Porto | Scenic Public Botanical Park",
+      "seo_description": "Visit Jardins do Palacio de Cristal in Porto. Enjoy manicured shrub hedge mazes, roaming peacocks, and spectacular panoramic views over the Douro river.",
+      "description_short": "An elegant, tiered public park featuring botanical collections and sweeping river panoramic lookouts.",
+      "description_long": "The Jardins do Palacio de Cristal are carefully arranged into themed botanical sections, containing rare trees, rose gardens, and scenic fountains. Free-roaming peacocks amble along the paths, which culminate in dramatic clifftop terraces looking directly down over the water.",
+      "keywords": [
+        "Palacio de Cristal",
+        "Porto gardens",
+        "botanical park Porto",
+        "Douro viewpoints"
+      ],
+      "long_tail_keywords": [
+        "free parks to visit in Porto",
+        "romantic photo spots Porto",
+        "peacock gardens northern Portugal"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 91,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Casa da Musica"
+      ],
+      "related_attractions": [
+        "Santa Barbara Garden",
+        "Jardim Publico de Evora"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "name": "Casa da Musica",
+      "city": "Porto",
+      "region": "Norte",
+      "latitude": 41.1588,
+      "longitude": -8.6307,
+      "google_maps_url": "https://www.google.com/maps?q=41.1588,-8.6307",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Casa_da_M%C3%BAsica",
+      "wikidata_id": "Q1046468",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Casa_da_M%C3%BAsica_Porto_2021.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Year-round",
+      "short_history": "Designed by celebrated architect Rem Koolhaas and completed in 2005 to serve as a flagship contemporary concert hall for Porto's European Capital of Culture project.",
+      "seo_title": "Casa da Musica Porto | Avant-Garde Modern Architecture Tour",
+      "seo_description": "Discover Casa da Musica, Porto's iconic contemporary concert hall. Learn about guided architectural tours, performance schedules, and acoustic design features.",
+      "description_short": "A striking asymmetric white concrete block building dedicated to music performances.",
+      "description_long": "Casa da Musica challenges traditional building shapes with its multi-faceted polyhedral architectural structure. The interior combines cutting-edge modern acoustics with decorative updates like minimalist glass walls and rooms incorporating traditional blue azulejo styling accents.",
+      "keywords": [
+        "Casa da Musica",
+        "Rem Koolhaas Porto",
+        "modern architecture Portugal",
+        "Porto concert hall"
+      ],
+      "long_tail_keywords": [
+        "architectural tours Casa da Musica",
+        "contemporary landmarks Porto",
+        "music venues northern Portugal"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 88,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Jardins do Palacio de Cristal"
+      ],
+      "related_attractions": [
+        "Forum Aveiro",
+        "Lethes Theatre"
+      ],
+      "internal_link_priority": "low"
+    },
+    {
+      "name": "Pena Palace",
+      "city": "Sintra",
+      "region": "Lisbon Region",
+      "latitude": 38.7876,
+      "longitude": -9.3906,
+      "google_maps_url": "https://www.google.com/maps?q=38.7876,-9.3906",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pena_Palace",
+      "wikidata_id": "Q46032",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Palácio_Nacional_da_Pena_Sintra.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Spring",
+      "short_history": "Commissioned by King Ferdinand II and built in the 1840s over the ruined remnants of an old Hieronymite monastery, embodying 19th-century Romanticism style.",
+      "seo_title": "Pena Palace Sintra Guide | Romanticist Fairy-Tale Hilltop Castle",
+      "seo_description": "Visit the spectacular National Palace of Pena in Sintra. Learn about its bright yellow and red terraces, scenic park trails, and ticket entry requirements.",
+      "description_short": "A vivid, fairy-tale palace featuring eclectic architectural details perched high in the Sintra hills.",
+      "description_long": "The Pena Palace represents an exceptional display of 19th-century artistic Romanticism. Its design features a creative mix of Neo-Gothic, Neo-Manueline, Neo-Islamic, and Neo-Renaissance structural forms, painted in bold primary hues and surrounded by vast forested park trails filled with exotic plants.",
+      "keywords": [
+        "Pena Palace",
+        "Palacio da Pena",
+        "Sintra castles",
+        "Romanticist architecture"
+      ],
+      "long_tail_keywords": [
+        "how to get to Pena Palace Sintra",
+        "Pena Palace park tickets guide",
+        "colorful castles in Portugal"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 100,
+      "topical_depth_score": 10,
+      "nearby_attractions": [
+        "Moorish Castle",
+        "Quinta da Regaleira"
+      ],
+      "related_attractions": [
+        "Palacio de Estoi",
+        "Palacio da Bolsa"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "name": "Quinta da Regaleira",
+      "city": "Sintra",
+      "region": "Lisbon Region",
+      "latitude": 38.7963,
+      "longitude": -9.396,
+      "google_maps_url": "https://www.google.com/maps?q=38.7963,-9.3960",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Quinta_da_Regaleira",
+      "wikidata_id": "Q1549214",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Quinta_da_Regaleira_Sintra_2021.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Summer",
+      "short_history": "Designed by Italian architect Luigi Manini for wealthy businessman António Augusto Carvalho Monteiro, completed in 1910 with complex symbolic philosophy designs.",
+      "seo_title": "Quinta da Regaleira Sintra | Initiation Wells & Mystic Gardens",
+      "seo_description": "Explore the mystical estate of Quinta da Regaleira in Sintra. Discover the famous underground Initiation Well, secret grotto tunnels, and Gothic palaces.",
+      "description_short": "An enigmatic estate containing a Gothic-style palace surrounded by lush, symbol-rich gardens.",
+      "description_long": "Quinta da Regaleira is famous for its elaborate mystical landscape architecture. The property's highlight is the Initiation Well, a subterranean inverted masonry tower lined with spiral stone steps that was historically utilized for ceremonial paths, connecting seamlessly into hidden labyrinthine tunnels.",
+      "keywords": [
+        "Quinta da Regaleira",
+        "Initiation Well Sintra",
+        "Sintra gardens",
+        "mystic Portugal"
+      ],
+      "long_tail_keywords": [
+        "climbing the Sintra initiation well",
+        "secret tunnels Quinta da Regaleira",
+        "Sintra mystical day trip itinerary"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "hidden_gems",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 99,
+      "topical_depth_score": 10,
+      "nearby_attractions": [
+        "National Palace of Sintra",
+        "Pena Palace"
+      ],
+      "related_attractions": [
+        "Bom Jesus do Monte",
+        "Algar de Benagil"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "name": "Moorish Castle",
+      "city": "Sintra",
+      "region": "Lisbon Region",
+      "latitude": 38.7891,
+      "longitude": -9.3892,
+      "google_maps_url": "https://www.google.com/maps?q=38.7891,-9.3892",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_the_Moors",
+      "wikidata_id": "Q1134551",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Castelo_dos_Mouros_Sintra.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Spring",
+      "short_history": "Constructed in the 8th and 9th centuries by the Moorish empire to guard the agricultural region, later taken over during the Christian Reconquista.",
+      "seo_title": "Castle of the Moors Sintra | Medieval Mountain Fortification",
+      "seo_description": "Walk the historic battlements of Sintra's Moorish Castle. Discover ancient stone towers, panoramic lookouts, and strategic military history details.",
+      "description_short": "A historic stone fortress winding dramatically along the high rocky crests of the Sintra hills.",
+      "description_long": "The Moorish Castle presents sturdy defensive walls and towers that follow the natural granitic crags of the mountain ridge. Visitors can walk the elevated parapets, looking across at Pena Palace and enjoying wide views that stretch all the way to the Atlantic ocean coastline.",
+      "keywords": [
+        "Moorish Castle",
+        "Castelo dos Mouros",
+        "Sintra fortress",
+        "medieval fortification"
+      ],
+      "long_tail_keywords": [
+        "walking up to Moorish Castle Sintra",
+        "oldest forts in Sintra region",
+        "scenic hiking trails Sintra hills"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 96,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Pena Palace",
+        "National Palace of Sintra"
+      ],
+      "related_attractions": [
+        "Castelo de Sao Jorge",
+        "Guimaraes Castle"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "name": "National Palace of Sintra",
+      "city": "Sintra",
+      "region": "Lisbon Region",
+      "latitude": 38.7977,
+      "longitude": -9.3907,
+      "google_maps_url": "https://www.google.com/maps?q=38.7977,-9.3907",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sintra_National_Palace",
+      "wikidata_id": "Q1143431",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Palácio_Nacional_de_Sintra_2021.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Year-round",
+      "short_history": "The best-preserved medieval royal residence in Portugal, continuously inhabited by monarchs from the early 15th to late 19th centuries.",
+      "seo_title": "Sintra National Palace Guide | Historic Royal Town Residence",
+      "seo_description": "Visit the National Palace of Sintra. Discover its iconic conical twin chimneys, the historic Swan Room, and exquisite Mudéjar tile murals.",
+      "description_short": "A historic royal palace in Sintra's center identifiable by its two massive conical kitchen chimneys.",
+      "description_long": "The National Palace of Sintra blends Gothic, Manueline, and Moorish styles beautifully. Its interior halls are decorated with geometric Mudéjar tile patterns, historic painted ceilings, and spacious quarters that reflect centuries of courtly life and royal administrative history.",
+      "keywords": [
+        "Sintra National Palace",
+        "Palacio da Vila",
+        "royal residence Portugal",
+        "Sintra chimneys"
+      ],
+      "long_tail_keywords": [
+        "interior of Sintra town palace",
+        "oldest tile collections Portugal",
+        "things to see in Sintra historic center"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 94,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Quinta da Regaleira",
+        "Moorish Castle"
+      ],
+      "related_attractions": [
+        "Palacio de Dom Manuel",
+        "Palace of the Dukes of Braganza"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "name": "Monserrate Palace",
+      "city": "Sintra",
+      "region": "Lisbon Region",
+      "latitude": 38.7941,
+      "longitude": -9.4206,
+      "google_maps_url": "https://www.google.com/maps?q=38.7941,-9.4206",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Palace_of_Monserrate",
+      "wikidata_id": "Q2046777",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Palácio_de_Monserrate_Sintra.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Summer",
+      "short_history": "Designed by architect James Knowles for English millionaire Sir Francis Cook in 1858, integrating exotic Anglo-Asian and Moorish revival themes.",
+      "seo_title": "Monserrate Palace Sintra | Exotic Neo-Moorish Architecture",
+      "seo_description": "Explore the beautiful Palace of Monserrate in Sintra. Admire its intricate filigree stucco work, terracotta domes, and unique botanical park collection.",
+      "description_short": "An elegant orientalist summer villa surrounded by extensive botanical parklands.",
+      "description_long": "The Monserrate Palace features spectacular Moorish arches, delicate geometric screen lattices, and red tiled domes. The surrounding grounds are organized into geographic plant zones, displaying rare tree ferns, lakes, and crumbling historic folly ruins from ancient configurations.",
+      "keywords": [
+        "Monserrate Palace",
+        "Sintra villa",
+        "Moorish revival",
+        "exotic gardens Sintra"
+      ],
+      "long_tail_keywords": [
+        "visiting Monserrate palace park",
+        "Francis Cook estate Sintra",
+        "less crowded palaces in Sintra"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 92,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Convento dos Capuchos"
+      ],
+      "related_attractions": [
+        "Palacio da Bolsa",
+        "Palacio de Estoi"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "name": "Convento dos Capuchos",
+      "city": "Sintra",
+      "region": "Lisbon Region",
+      "latitude": 38.7844,
+      "longitude": -9.4381,
+      "google_maps_url": "https://www.google.com/maps?q=38.7844,-9.4381",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Convento_dos_Capuchos_(Sintra)",
+      "wikidata_id": "Q1129377",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Convento_dos_Capuchos_Sintra_2021.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Autumn",
+      "short_history": "Established in 1560 by Álvaro de Castro, this Franciscan monastery was constructed with extreme ascetic simplicity, relying heavily on natural cork lining.",
+      "seo_title": "Convento dos Capuchos Sintra | The Historic Cork Convent",
+      "seo_description": "Discover the Convento dos Capuchos in Sintra. Learn about the minimalist cells, natural cork insulation, and Franciscan history of this woodland site.",
+      "description_short": "A modest, subterranean historic monastery integrated into massive forest granite boulders.",
+      "description_long": "The Convento dos Capuchos stands in deep architectural contrast to Sintra's lavish palaces. Its tiny cells, narrow doorways, and structural frames are covered in raw tree cork for weather protection, illustrating an ascetic lifestyle deeply connected with the surrounding oak forest landscape.",
+      "keywords": [
+        "Convento dos Capuchos",
+        "Cork Convent",
+        "Sintra monastery",
+        "Franciscan monks Portugal"
+      ],
+      "long_tail_keywords": [
+        "ascetic monasteries in Portugal",
+        "Sintra forest historic spots",
+        "visiting the cork convent cell paths"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "hidden_gems",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 90,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Monserrate Palace"
+      ],
+      "related_attractions": [
+        "Mosteiro de Tibaes",
+        "Convento do Carmo"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "name": "Chalet da Condessa d'Edla",
+      "city": "Sintra",
+      "region": "Lisbon Region",
+      "latitude": 38.7852,
+      "longitude": -9.3992,
+      "google_maps_url": "https://www.google.com/maps?q=38.7852,-9.3992",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Chalet_of_",
+      "wikidata_id": "Q9739775",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Chalet_da_Condessa_d%27Edla_Sintra.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Spring",
+      "short_history": "Built between 1864 and 1869 by King Ferdinand II and his second wife, the Countess of Edla, following the design style of traditional Alpine timber chalets.",
+      "seo_title": "Chalet of the Countess of Edla Sintra | Romantic Timber Chalet",
+      "seo_description": "Visit the unique Chalet da Condessa d'Edla in Sintra. Explore its cork decorative elements, alpine framing, and surrounding romantic garden paths.",
+      "description_short": "An alpine-inspired romantic wooden cottage tucked away inside the western parklands of Pena.",
+      "description_long": "The Chalet da Condessa d'Edla presents a highly unique architectural style in Portugal, featuring heavy structural timber beams and extensive window frames decorated with organic cork patterns. The surrounding gardens include scenic rocky pathways, fern collections, and viewpoints looking up to the main palace.",
+      "keywords": [
+        "Chalet d'Edla",
+        "Countess of Edla chalet",
+        "Sintra timber cottage",
+        "Pena park buildings"
+      ],
+      "long_tail_keywords": [
+        "Ferdinand II chalet Sintra",
+        "cork decorated buildings Portugal",
+        "hidden structures inside Pena park"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 85,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Pena Palace",
+        "Moorish Castle"
+      ],
+      "related_attractions": [
+        "Palacio de Estoi",
+        "Jardins do Palacio de Cristal"
+      ],
+      "internal_link_priority": "low"
+    },
+    {
+      "name": "Fonte Mourisca",
+      "city": "Sintra",
+      "region": "Lisbon Region",
+      "latitude": 38.8001,
+      "longitude": -9.3828,
+      "google_maps_url": "https://www.google.com/maps?q=38.8001,-9.3828",
+      "wikipedia_url": "https://pt.wikipedia.org/wiki/Fonte_Mourisca",
+      "wikidata_id": "Q10283921",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Fonte_Mourisca_Sintra_2021.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Year-round",
+      "short_history": "Designed by civic architect José da Fonseca in 1922 to replace an older historic public fountain structure along the main approach road to town.",
+      "seo_title": "Fonte Mourisca Sintra | Neo-Moorish Public Stone Fountain",
+      "seo_description": "Stop by Fonte Mourisca in Sintra. Admire its intricate Islamic geometric carvings, horseshoe stone arches, and public spring water architecture.",
+      "description_short": "An ornate public stone fountain displaying exquisite Neo-Moorish geometric relief carvings.",
+      "description_long": "Located along the scenic walkway to Sintra's historic core, Fonte Mourisca features a beautiful central horseshoe arch, detailed geometric tile accents, and sculpted stone screens. It remains a refreshing roadside monument showcasing the town's affinity for historic Arab design elements.",
+      "keywords": [
+        "Fonte Mourisca",
+        "Moorish Fountain Sintra",
+        "Sintra stone monument",
+        "Neo-Islamic architecture"
+      ],
+      "long_tail_keywords": [
+        "free monuments to see in Sintra",
+        "walking path landmarks Sintra town",
+        "historic public fountains Portugal"
+      ],
+      "search_intent": "navigational",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 81,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "National Palace of Sintra",
+        "Parque da Liberdade"
+      ],
+      "related_attractions": [
+        "Arco da Vila",
+        "Arco da Porta Nova"
+      ],
+      "internal_link_priority": "low"
+    },
+    {
+      "name": "Parque da Liberdade",
+      "city": "Sintra",
+      "region": "Lisbon Region",
+      "latitude": 38.7986,
+      "longitude": -9.3881,
+      "google_maps_url": "https://www.google.com/maps?q=38.7986,-9.3881",
+      "wikipedia_url": "https://pt.wikipedia.org/wiki/Parque_da_Liberdade",
+      "wikidata_id": "Q10345437",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Parque_da_Liberdade_Sintra.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "suitable_season": "Spring",
+      "short_history": "Inaugurated as a urban public park in July 1937, creating a lush green space to preserve regional flora and provide scenic footpaths for residents.",
+      "seo_title": "Parque da Liberdade Sintra | Tranquil Public Town Park",
+      "seo_description": "Relax at Parque da Liberdade in Sintra. Discover shaded stone pathways, exotic plant varieties, and peaceful resting spots near the old center.",
+      "description_short": "A beautifully landscaped public valley park filled with mature trees and stone walking trails.",
+      "description_long": "Parque da Liberdade provides a peaceful, shaded escape right near the busy historic town center. The park features winding cobblestone paths, trickling stone waterways, and a rich collection of exotic trees and shrubs that thrive in the unique mountain microclimate.",
+      "keywords": [
+        "Parque da Liberdade",
+        "Sintra park",
+        "public garden Sintra",
+        "shaded walking paths"
+      ],
+      "long_tail_keywords": [
+        "free parks near Sintra center",
+        "where to relax in Sintra town",
+        "botanical trails Sintra valley"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 83,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "National Palace of Sintra",
+        "Fonte Mourisca"
+      ],
+      "related_attractions": [
+        "Jardim Publico de Evora",
+        "Santa Barbara Garden"
+      ],
+      "internal_link_priority": "low"
+    },
+    {
+      "name": "Alcobaça",
+      "city": "Porto",
+      "region": "Portugal",
+      "latitude": 39.55277778,
+      "longitude": -8.97777778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alcoba%C3%A7a%2C_Portugal",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Alcoba%C3%A7a_October_2021-1.jpg/800px-Alcoba%C3%A7a_October_2021-1.jpg",
+      "description_short": "Alcobaça, Portugal — a notable landmark in Porto, Portugal.",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Vila Nova de Gaia",
+      "city": "Porto",
+      "region": "Portugal",
+      "latitude": 41.13333333,
+      "longitude": -8.61666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Vila_Nova_de_Gaia",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/86922-Porto_%2848640131006%29.jpg/800px-86922-Porto_%2848640131006%29.jpg",
+      "description_short": "Vila Nova de Gaia — a notable landmark in Porto, Portugal.",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Guimarães",
+      "city": "Porto",
+      "region": "Portugal",
+      "latitude": 41.44790833,
+      "longitude": -8.29035833,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Guimar%C3%A3es",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Castelo_de_Guimar%C3%A3es_Castelo_da_Funda%C3%A7%C3%A3o.JPG/800px-Castelo_de_Guimar%C3%A3es_Castelo_da_Funda%C3%A7%C3%A3o.JPG",
+      "description_short": "Castle of Guimarães — a notable landmark in Porto, Portugal.",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "São Jorge Castle",
+      "city": "Porto",
+      "region": "Portugal",
+      "latitude": 38.71388889,
+      "longitude": -9.13361111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/S%C3%A3o_Jorge_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/LisbonCastle.jpg/800px-LisbonCastle.jpg",
+      "description_short": "São Jorge Castle — a notable landmark in Porto, Portugal.",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Museu Militar do Porto",
+      "city": "Porto",
+      "region": "Portugal",
+      "latitude": 41.1459,
+      "longitude": -8.5953,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Museu_Militar_do_Porto",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Museu_Militar_Porto.jpg/800px-Museu_Militar_Porto.jpg",
+      "description_short": "Museu Militar do Porto — a notable landmark in Porto, Portugal.",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Paderne",
+      "city": "Porto",
+      "region": "Portugal",
+      "latitude": 37.15694444,
+      "longitude": -8.20055556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Paderne",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Paderne_Castle_26_Nov_2007_%289%29.JPG/800px-Paderne_Castle_26_Nov_2007_%289%29.JPG",
+      "description_short": "Castle of Paderne — a notable landmark in Porto, Portugal.",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Santa Maria da Feira",
+      "city": "Porto",
+      "region": "Portugal",
+      "latitude": 40.92100556,
+      "longitude": -8.54276389,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Santa_Maria_da_Feira",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Castelo_da_Feira.jpg/800px-Castelo_da_Feira.jpg",
+      "description_short": "Castle of Santa Maria da Feira — a notable landmark in Porto, Portugal.",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Guarda",
+      "city": "Porto",
+      "region": "Portugal",
+      "latitude": 40.53333333,
+      "longitude": -7.33333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Guarda%2C_Portugal",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Guarda_Kathedrale_%28cropped%29.jpg/800px-Guarda_Kathedrale_%28cropped%29.jpg",
+      "description_short": "Guarda, Portugal — a notable landmark in Porto, Portugal.",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Porto de Mós",
+      "city": "Porto",
+      "region": "Portugal",
+      "latitude": 39.60166667,
+      "longitude": -8.8175,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Porto_de_M%C3%B3s",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Via_Romana_em_Alqueid%C3%A3o_da_Serra_9.jpg/800px-Via_Romana_em_Alqueid%C3%A3o_da_Serra_9.jpg",
+      "description_short": "Porto de Mós — a notable landmark in Porto, Portugal.",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Faria",
+      "city": "Porto",
+      "region": "Portugal",
+      "latitude": 41.49658056,
+      "longitude": -8.64708611,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Faria",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Castelo_de_Faria1483.JPG/800px-Castelo_de_Faria1483.JPG",
+      "description_short": "Castle of Faria — a notable landmark in Porto, Portugal.",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Loulé",
+      "city": "Porto",
+      "region": "Portugal",
+      "latitude": 37.13944444,
+      "longitude": -8.02388889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Loul%C3%A9",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Castelo_de_Loule_-_22.06.2021.jpg/800px-Castelo_de_Loule_-_22.06.2021.jpg",
+      "description_short": "Castle of Loulé — a notable landmark in Porto, Portugal.",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Monsanto",
+      "city": "Porto",
+      "region": "Portugal",
+      "latitude": 40.036,
+      "longitude": -7.11375,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Monsanto",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Aerial_view_of_the_Monsanto_Castle_in_a_foggy_morning%2C_Aldeia_de_Monsanto%2C_Portugal_julesvernex2.jpg/800px-Aerial_view_of_the_Monsanto_Castle_in_a_foggy_morning%2C_Aldeia_de_Monsanto%2C_Portugal_julesvernex2.jpg",
+      "description_short": "Castle of Monsanto — a notable landmark in Porto, Portugal.",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castelo de Porto de Mós",
+      "city": "Porto",
+      "region": "Portugal",
+      "latitude": 39.60333333,
+      "longitude": -8.81861111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castelo_de_Porto_de_M%C3%B3s",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Castelo_de_Porto_de_M%C3%B3s_27.jpg/800px-Castelo_de_Porto_de_M%C3%B3s_27.jpg",
+      "description_short": "Castelo de Porto de Mós — a notable landmark in Porto, Portugal.",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Óbidos",
+      "city": "Porto",
+      "region": "Portugal",
+      "latitude": 39.36333333,
+      "longitude": -9.15694444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_%C3%93bidos",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Castillo_de_%C3%93bidos%2C_%C3%93bidos%2C_Portugal%2C_2021-09-09%2C_DD_24.jpg/800px-Castillo_de_%C3%93bidos%2C_%C3%93bidos%2C_Portugal%2C_2021-09-09%2C_DD_24.jpg",
+      "description_short": "Castle of Óbidos — a notable landmark in Porto, Portugal.",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Lamego",
+      "city": "Porto",
+      "region": "Portugal",
+      "latitude": 41.09916667,
+      "longitude": -7.80875,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Lamego",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Castelo_e_Cisterna.jpg/800px-Castelo_e_Cisterna.jpg",
+      "description_short": "Castle of Lamego — a notable landmark in Porto, Portugal.",
+      "keywords": [
+        "Porto",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Lisbon",
+      "city": "Sintra",
+      "region": "Portugal",
+      "latitude": 38.72527778,
+      "longitude": -9.15,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lisbon",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lisboa_-_Portugal_%2852597836992%29.jpg/800px-Lisboa_-_Portugal_%2852597836992%29.jpg",
+      "description_short": "Lisbon — a notable landmark in Sintra, Portugal.",
+      "keywords": [
+        "Sintra",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Lisbon Cathedral",
+      "city": "Sintra",
+      "region": "Portugal",
+      "latitude": 38.70972222,
+      "longitude": -9.13305556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lisbon_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Catedral%2C_Lisboa%2C_Portugal%2C_2022-07-24%2C_DD_24.jpg/800px-Catedral%2C_Lisboa%2C_Portugal%2C_2022-07-24%2C_DD_24.jpg",
+      "description_short": "Lisbon Cathedral — a notable landmark in Sintra, Portugal.",
+      "keywords": [
+        "Sintra",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Cathedral of Évora",
+      "city": "Sintra",
+      "region": "Portugal",
+      "latitude": 38.5718,
+      "longitude": -7.9066,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cathedral_of_%C3%89vora",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Evora_-_Cathedral_-_Front.jpg/800px-Evora_-_Cathedral_-_Front.jpg",
+      "description_short": "Cathedral of Évora — a notable landmark in Sintra, Portugal.",
+      "keywords": [
+        "Sintra",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Sintra National Palace",
+      "city": "Sintra",
+      "region": "Portugal",
+      "latitude": 38.79777778,
+      "longitude": -9.39083333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sintra_National_Palace",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Palacio_Sintra_February_2015-13a.jpg/800px-Palacio_Sintra_February_2015-13a.jpg",
+      "description_short": "Sintra National Palace — a notable landmark in Sintra, Portugal.",
+      "keywords": [
+        "Sintra",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Rossio railway station",
+      "city": "Sintra",
+      "region": "Portugal",
+      "latitude": 38.71472222,
+      "longitude": -9.14222222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rossio_railway_station",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Estaci%C3%B3n_de_Rossio%2C_Lisboa%2C_Portugal%2C_2022-07-24%2C_DD_02.jpg/800px-Estaci%C3%B3n_de_Rossio%2C_Lisboa%2C_Portugal%2C_2022-07-24%2C_DD_02.jpg",
+      "description_short": "Rossio railway station — a notable landmark in Sintra, Portugal.",
+      "keywords": [
+        "Sintra",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Seteais Palace",
+      "city": "Sintra",
+      "region": "Portugal",
+      "latitude": 38.79638889,
+      "longitude": -9.39611111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Seteais_Palace",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pal%C3%A1cio_de_Seteais_2013_10.JPG/800px-Pal%C3%A1cio_de_Seteais_2013_10.JPG",
+      "description_short": "Seteais Palace — a notable landmark in Sintra, Portugal.",
+      "keywords": [
+        "Sintra",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of the Moors",
+      "city": "Sintra",
+      "region": "Portugal",
+      "latitude": 38.7925,
+      "longitude": -9.38944444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_the_Moors",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Castelo_dos_Mouros%2C_Sintra%2C_Portugal%2C_2019-05-25%2C_DD_112-121_PAN.jpg/800px-Castelo_dos_Mouros%2C_Sintra%2C_Portugal%2C_2019-05-25%2C_DD_112-121_PAN.jpg",
+      "description_short": "Castle of the Moors — a notable landmark in Sintra, Portugal.",
+      "keywords": [
+        "Sintra",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Braga",
+      "city": "Braga",
+      "region": "Portugal",
+      "latitude": 41.55111111,
+      "longitude": -8.42833333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Braga",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Braga_Panorama.jpg/800px-Braga_Panorama.jpg",
+      "description_short": "Braga — a notable landmark in Braga, Portugal.",
+      "keywords": [
+        "Braga",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Dume",
+      "city": "Braga",
+      "region": "Portugal",
+      "latitude": 41.571,
+      "longitude": -8.434,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dume",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Dume-loc.png",
+      "description_short": "Dume — a notable landmark in Braga, Portugal.",
+      "keywords": [
+        "Braga",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Old Cathedral of Coimbra",
+      "city": "Braga",
+      "region": "Portugal",
+      "latitude": 40.20877778,
+      "longitude": -8.42708333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Old_Cathedral_of_Coimbra",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Coimbra_S%C3%A9_Velha_Hauptportal_979-166.jpg/800px-Coimbra_S%C3%A9_Velha_Hauptportal_979-166.jpg",
+      "description_short": "Old Cathedral of Coimbra — a notable landmark in Braga, Portugal.",
+      "keywords": [
+        "Braga",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Archdiocese of Braga",
+      "city": "Braga",
+      "region": "Portugal",
+      "latitude": 41.5497,
+      "longitude": -8.4269,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Archdiocese_of_Braga",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Braga_Cathedral_%281%29.jpg/800px-Braga_Cathedral_%281%29.jpg",
+      "description_short": "Archdiocese of Braga — a notable landmark in Braga, Portugal.",
+      "keywords": [
+        "Braga",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Braga Cathedral",
+      "city": "Braga",
+      "region": "Portugal",
+      "latitude": 41.5499,
+      "longitude": -8.42736,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Braga_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Braga_Cathedral_%281%29.jpg/800px-Braga_Cathedral_%281%29.jpg",
+      "description_short": "Braga Cathedral — a notable landmark in Braga, Portugal.",
+      "keywords": [
+        "Braga",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Diocese of Bragança-Miranda",
+      "city": "Braga",
+      "region": "Portugal",
+      "latitude": 41.8056,
+      "longitude": -6.7622,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Diocese_of_Bragan%C3%A7a-Miranda",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/007473_-_Braganza_%288750774455%29.jpg/800px-007473_-_Braganza_%288750774455%29.jpg",
+      "description_short": "Diocese of Bragança-Miranda — a notable landmark in Braga, Portugal.",
+      "keywords": [
+        "Braga",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Braga",
+      "city": "Braga",
+      "region": "Portugal",
+      "latitude": 41.55131111,
+      "longitude": -8.42383889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Braga",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Braga%2C_Avenida_Central.jpg/800px-Braga%2C_Avenida_Central.jpg",
+      "description_short": "Castle of Braga — a notable landmark in Braga, Portugal.",
+      "keywords": [
+        "Braga",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Braga City Hall",
+      "city": "Braga",
+      "region": "Portugal",
+      "latitude": 41.551,
+      "longitude": -8.42847222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Braga_City_Hall",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Camara_de_braga.jpg",
+      "description_short": "Braga City Hall — a notable landmark in Braga, Portugal.",
+      "keywords": [
+        "Braga",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Episcopal Palace",
+      "city": "Braga",
+      "region": "Portugal",
+      "latitude": 41.55083333,
+      "longitude": -8.42616667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Episcopal_Palace%2C_Braga",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Pa%C3%A7o_Episcopal_Bracarense_.jpg/800px-Pa%C3%A7o_Episcopal_Bracarense_.jpg",
+      "description_short": "Episcopal Palace, Braga — a notable landmark in Braga, Portugal.",
+      "keywords": [
+        "Braga",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Braga Cathedral Treasure",
+      "city": "Braga",
+      "region": "Portugal",
+      "latitude": 41.5502,
+      "longitude": -8.4275,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Braga_Cathedral_Treasure",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Se_Catedral_de_Braga.jpg",
+      "description_short": "Braga Cathedral Treasure — a notable landmark in Braga, Portugal.",
+      "keywords": [
+        "Braga",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Cathedral of Angra do Heroísmo",
+      "city": "Braga",
+      "region": "Portugal",
+      "latitude": 38.65533333,
+      "longitude": -27.22102778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cathedral_of_Angra_do_Hero%C3%ADsmo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Catedral_del_Santo_Salvador%2C_Angra_do_Hero%C3%ADsmo%2C_isla_de_Terceira%2C_Azores%2C_Portugal%2C_2020-07-25%2C_DD_11.jpg/800px-Catedral_del_Santo_Salvador%2C_Angra_do_Hero%C3%ADsmo%2C_isla_de_Terceira%2C_Azores%2C_Portugal%2C_2020-07-25%2C_DD_11.jpg",
+      "description_short": "Cathedral of Angra do Heroísmo — a notable landmark in Braga, Portugal.",
+      "keywords": [
+        "Braga",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Faro Cathedral",
+      "city": "Braga",
+      "region": "Portugal",
+      "latitude": 37.01333333,
+      "longitude": -7.93472222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Faro_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/FaroKesklinn.jpg/800px-FaroKesklinn.jpg",
+      "description_short": "Faro Cathedral — a notable landmark in Braga, Portugal.",
+      "keywords": [
+        "Braga",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Pillory of Braga",
+      "city": "Braga",
+      "region": "Portugal",
+      "latitude": 41.55029444,
+      "longitude": -8.42679722,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pillory_of_Braga",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Pelourinho_de_Braga.jpg",
+      "description_short": "Pillory of Braga — a notable landmark in Braga, Portugal.",
+      "keywords": [
+        "Braga",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Coimbra",
+      "city": "Coimbra",
+      "region": "Portugal",
+      "latitude": 40.20277778,
+      "longitude": -8.41388889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Coimbra",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Coimbra_e_o_rio_Mondego_%286167200429%29_%28cropped%29.jpg/800px-Coimbra_e_o_rio_Mondego_%286167200429%29_%28cropped%29.jpg",
+      "description_short": "Coimbra — a notable landmark in Coimbra, Portugal.",
+      "keywords": [
+        "Coimbra",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "University of Coimbra",
+      "city": "Coimbra",
+      "region": "Portugal",
+      "latitude": 40.2074,
+      "longitude": -8.4265,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_Coimbra",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Seal_of_the_University_of_Coimbra.svg/800px-Seal_of_the_University_of_Coimbra.svg.png",
+      "description_short": "University of Coimbra — a notable landmark in Coimbra, Portugal.",
+      "keywords": [
+        "Coimbra",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Figueira da Foz",
+      "city": "Coimbra",
+      "region": "Portugal",
+      "latitude": 40.15,
+      "longitude": -8.85,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Figueira_da_Foz",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Figueira_da_Foz_-_Portugal_%2812303340164%29_%28cropped%29.jpg/800px-Figueira_da_Foz_-_Portugal_%2812303340164%29_%28cropped%29.jpg",
+      "description_short": "Figueira da Foz — a notable landmark in Coimbra, Portugal.",
+      "keywords": [
+        "Coimbra",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Guarda Cathedral",
+      "city": "Coimbra",
+      "region": "Portugal",
+      "latitude": 40.53833611,
+      "longitude": -7.26929167,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Guarda_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Nt-se-guarda-edited.jpg/800px-Nt-se-guarda-edited.jpg",
+      "description_short": "Guarda Cathedral — a notable landmark in Coimbra, Portugal.",
+      "keywords": [
+        "Coimbra",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "New Cathedral of Coimbra",
+      "city": "Coimbra",
+      "region": "Portugal",
+      "latitude": 40.2097,
+      "longitude": -8.4246,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/New_Cathedral_of_Coimbra",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Catedral_Nueva%2C_Co%C3%ADmbra%2C_Portugal%2C_2012-05-10%2C_DD_01.JPG/800px-Catedral_Nueva%2C_Co%C3%ADmbra%2C_Portugal%2C_2012-05-10%2C_DD_01.JPG",
+      "description_short": "New Cathedral of Coimbra — a notable landmark in Coimbra, Portugal.",
+      "keywords": [
+        "Coimbra",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Diocese of Coimbra",
+      "city": "Coimbra",
+      "region": "Portugal",
+      "latitude": 40.2088,
+      "longitude": -8.4271,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Diocese_of_Coimbra",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Catedral_Nueva%2C_Co%C3%ADmbra%2C_Portugal%2C_2012-05-10%2C_DD_01.JPG/800px-Catedral_Nueva%2C_Co%C3%ADmbra%2C_Portugal%2C_2012-05-10%2C_DD_01.JPG",
+      "description_short": "Diocese of Coimbra — a notable landmark in Coimbra, Portugal.",
+      "keywords": [
+        "Coimbra",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Portugal dos Pequenitos",
+      "city": "Coimbra",
+      "region": "Portugal",
+      "latitude": 40.20305556,
+      "longitude": -8.43416667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Portugal_dos_Pequenitos",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Portugal_dos_pequenitos_%282%29.jpg/800px-Portugal_dos_pequenitos_%282%29.jpg",
+      "description_short": "Portugal dos Pequenitos — a notable landmark in Coimbra, Portugal.",
+      "keywords": [
+        "Coimbra",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Sé Nova (Coimbra)",
+      "city": "Coimbra",
+      "region": "Portugal",
+      "latitude": 40.21,
+      "longitude": -8.417,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/S%C3%A9_Nova_(Coimbra)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Coimbra_December_2011-19a.jpg/800px-Coimbra_December_2011-19a.jpg",
+      "description_short": "Sé Nova (Coimbra) — a notable landmark in Coimbra, Portugal.",
+      "keywords": [
+        "Coimbra",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Igreja de Santiago (Coimbra)",
+      "city": "Coimbra",
+      "region": "Portugal",
+      "latitude": 40.2094718,
+      "longitude": -8.4295292,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Igreja_de_Santiago_(Coimbra)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Igreja_de_Santiago_-_Coimbra%2C_Portugal_-_DSC09625.jpg/800px-Igreja_de_Santiago_-_Coimbra%2C_Portugal_-_DSC09625.jpg",
+      "description_short": "Igreja de Santiago (Coimbra) — a notable landmark in Coimbra, Portugal.",
+      "keywords": [
+        "Coimbra",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Mira",
+      "city": "Coimbra",
+      "region": "Portugal",
+      "latitude": 40.43333333,
+      "longitude": -8.73333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mira%2C_Portugal",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mira_Villas.png",
+      "description_short": "Mira, Portugal — a notable landmark in Coimbra, Portugal.",
+      "keywords": [
+        "Coimbra",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Monastery of the Holy Cross (Coimbra)",
+      "city": "Coimbra",
+      "region": "Portugal",
+      "latitude": 40.21094444,
+      "longitude": -8.42886389,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Monastery_of_the_Holy_Cross_(Coimbra)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/StCruz-CCBY.jpg",
+      "description_short": "Monastery of the Holy Cross (Coimbra) — a notable landmark in Coimbra, Portugal.",
+      "keywords": [
+        "Coimbra",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Soure",
+      "city": "Coimbra",
+      "region": "Portugal",
+      "latitude": 40.05,
+      "longitude": -8.63333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Soure%2C_Portugal",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/SoureC%C3%A2maraMunicipal_07.JPG/800px-SoureC%C3%A2maraMunicipal_07.JPG",
+      "description_short": "Soure, Portugal — a notable landmark in Coimbra, Portugal.",
+      "keywords": [
+        "Coimbra",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Monastery of Santa Clara-a-Velha",
+      "city": "Coimbra",
+      "region": "Portugal",
+      "latitude": 40.20275556,
+      "longitude": -8.43343889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Monastery_of_Santa_Clara-a-Velha",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Coimbra_December_2011-7.jpg/800px-Coimbra_December_2011-7.jpg",
+      "description_short": "Monastery of Santa Clara-a-Velha — a notable landmark in Coimbra, Portugal.",
+      "keywords": [
+        "Coimbra",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Church of São Gião",
+      "city": "Coimbra",
+      "region": "Portugal",
+      "latitude": 40.33691667,
+      "longitude": -7.79925,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Church_of_S%C3%A3o_Gi%C3%A3o",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Foto_SGiao_Small.jpg/800px-Foto_SGiao_Small.jpg",
+      "description_short": "Church of São Gião — a notable landmark in Coimbra, Portugal.",
+      "keywords": [
+        "Coimbra",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Porto",
+      "city": "Evora",
+      "region": "Portugal",
+      "latitude": 41.15,
+      "longitude": -8.6108,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Porto",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Puente_Don_Luis_I%2C_Oporto%2C_Portugal%2C_2012-05-09%2C_DD_13.JPG/800px-Puente_Don_Luis_I%2C_Oporto%2C_Portugal%2C_2012-05-09%2C_DD_13.JPG",
+      "description_short": "Porto — a notable landmark in Evora, Portugal.",
+      "keywords": [
+        "Evora",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Roman Temple of Évora",
+      "city": "Evora",
+      "region": "Portugal",
+      "latitude": 38.57306,
+      "longitude": -7.90778472,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_Temple_of_%C3%89vora",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Evora_roman-temple_panoramic-view_cropped.jpg",
+      "description_short": "Roman Temple of Évora — a notable landmark in Evora, Portugal.",
+      "keywords": [
+        "Evora",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Archdiocese of Évora",
+      "city": "Evora",
+      "region": "Portugal",
+      "latitude": 38.55,
+      "longitude": -7.95,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Archdiocese_of_%C3%89vora",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/S%C3%A9_%C3%89vora.JPG/800px-S%C3%A9_%C3%89vora.JPG",
+      "description_short": "Archdiocese of Évora — a notable landmark in Evora, Portugal.",
+      "keywords": [
+        "Evora",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Diocese of Faro",
+      "city": "Evora",
+      "region": "Portugal",
+      "latitude": 37.0133,
+      "longitude": -7.9348,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Diocese_of_Faro",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/FaroKesklinn.jpg/800px-FaroKesklinn.jpg",
+      "description_short": "Diocese of Faro — a notable landmark in Evora, Portugal.",
+      "keywords": [
+        "Evora",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Diocese of Guarda",
+      "city": "Evora",
+      "region": "Portugal",
+      "latitude": 40.5384,
+      "longitude": -7.2694,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Diocese_of_Guarda",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Nt-se-guarda-edited.jpg/800px-Nt-se-guarda-edited.jpg",
+      "description_short": "Diocese of Guarda — a notable landmark in Evora, Portugal.",
+      "keywords": [
+        "Evora",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Évora",
+      "city": "Evora",
+      "region": "Portugal",
+      "latitude": 38.56666667,
+      "longitude": -7.9,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89vora",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pra%C3%A7a_de_Giraldo%2C_Evora_%2810250693386%29_%28cropped%29.jpg/800px-Pra%C3%A7a_de_Giraldo%2C_Evora_%2810250693386%29_%28cropped%29.jpg",
+      "description_short": "Évora — a notable landmark in Evora, Portugal.",
+      "keywords": [
+        "Evora",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Frei Manuel do Cenáculo National Museum",
+      "city": "Evora",
+      "region": "Portugal",
+      "latitude": 38.5722,
+      "longitude": -7.9072,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Frei_Manuel_do_Cen%C3%A1culo_National_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Evora_Museum-01.jpg/800px-Evora_Museum-01.jpg",
+      "description_short": "Frei Manuel do Cenáculo National Museum — a notable landmark in Evora, Portugal.",
+      "keywords": [
+        "Evora",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Redondo",
+      "city": "Evora",
+      "region": "Portugal",
+      "latitude": 38.63333333,
+      "longitude": -7.53333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Redondo%2C_Portugal",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Redondo_-_Portugal_%284923985841%29.jpg/800px-Redondo_-_Portugal_%284923985841%29.jpg",
+      "description_short": "Redondo, Portugal — a notable landmark in Evora, Portugal.",
+      "keywords": [
+        "Evora",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Evoramonte",
+      "city": "Evora",
+      "region": "Portugal",
+      "latitude": 38.7718312,
+      "longitude": -7.7158236,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Evoramonte",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/EvoramonteView.jpg/800px-EvoramonteView.jpg",
+      "description_short": "Castle of Evoramonte — a notable landmark in Evora, Portugal.",
+      "keywords": [
+        "Evora",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Terena",
+      "city": "Evora",
+      "region": "Portugal",
+      "latitude": 38.62166667,
+      "longitude": -7.40722222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Terena",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Castelo_de_Terena1206.jpg/800px-Castelo_de_Terena1206.jpg",
+      "description_short": "Castle of Terena — a notable landmark in Evora, Portugal.",
+      "keywords": [
+        "Evora",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Alandroal",
+      "city": "Evora",
+      "region": "Portugal",
+      "latitude": 38.70166667,
+      "longitude": -7.40416667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Alandroal",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Castelo_de_Alandroal1216.jpg/800px-Castelo_de_Alandroal1216.jpg",
+      "description_short": "Castle of Alandroal — a notable landmark in Evora, Portugal.",
+      "keywords": [
+        "Evora",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Arraiolos",
+      "city": "Evora",
+      "region": "Portugal",
+      "latitude": 38.72555556,
+      "longitude": -7.9875,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Arraiolos",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Arraiolos_December_2016-4.jpg/800px-Arraiolos_December_2016-4.jpg",
+      "description_short": "Castle of Arraiolos — a notable landmark in Evora, Portugal.",
+      "keywords": [
+        "Evora",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Estremoz",
+      "city": "Evora",
+      "region": "Portugal",
+      "latitude": 38.84194444,
+      "longitude": -7.59222222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Estremoz",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Torre_del_homenaje_del_castillo_de_Estremoz%2C_Portugal.jpg/800px-Torre_del_homenaje_del_castillo_de_Estremoz%2C_Portugal.jpg",
+      "description_short": "Castle of Estremoz — a notable landmark in Evora, Portugal.",
+      "keywords": [
+        "Evora",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Lousa",
+      "city": "Evora",
+      "region": "Portugal",
+      "latitude": 38.35944444,
+      "longitude": -7.40333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Lousa",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Castelo_da_Lousa_01.JPG/800px-Castelo_da_Lousa_01.JPG",
+      "description_short": "Castle of Lousa — a notable landmark in Evora, Portugal.",
+      "keywords": [
+        "Evora",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Montemor-o-Novo",
+      "city": "Evora",
+      "region": "Portugal",
+      "latitude": 38.6425,
+      "longitude": -8.2156,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Montemor-o-Novo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Castelo_de_Montemor-o-Novo_1.jpg/800px-Castelo_de_Montemor-o-Novo_1.jpg",
+      "description_short": "Castle of Montemor-o-Novo — a notable landmark in Evora, Portugal.",
+      "keywords": [
+        "Evora",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Redondo",
+      "city": "Evora",
+      "region": "Portugal",
+      "latitude": 38.64972222,
+      "longitude": -7.54333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Redondo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Redondo1236.jpg/800px-Redondo1236.jpg",
+      "description_short": "Castle of Redondo — a notable landmark in Evora, Portugal.",
+      "keywords": [
+        "Evora",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Valongo",
+      "city": "Evora",
+      "region": "Portugal",
+      "latitude": 38.51691667,
+      "longitude": -7.65111111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Valongo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Valongo03.jpg",
+      "description_short": "Castle of Valongo — a notable landmark in Evora, Portugal.",
+      "keywords": [
+        "Evora",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Vila Viçosa",
+      "city": "Evora",
+      "region": "Portugal",
+      "latitude": 38.78027222,
+      "longitude": -7.41506944,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Vila_Vi%C3%A7osa",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Vila_Vicosa_Castle.JPG/800px-Vila_Vicosa_Castle.JPG",
+      "description_short": "Castle of Vila Viçosa — a notable landmark in Evora, Portugal.",
+      "keywords": [
+        "Evora",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Royal Palace of Évora",
+      "city": "Evora",
+      "region": "Portugal",
+      "latitude": 38.56777778,
+      "longitude": -7.90944444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Royal_Palace_of_%C3%89vora",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Pal%C3%A1cio_de_D._Manuel_em_%C3%89vora.jpg/800px-Pal%C3%A1cio_de_D._Manuel_em_%C3%89vora.jpg",
+      "description_short": "Royal Palace of Évora — a notable landmark in Evora, Portugal.",
+      "keywords": [
+        "Evora",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Geraldo",
+      "city": "Evora",
+      "region": "Portugal",
+      "latitude": 38.5375,
+      "longitude": -8.0332,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Geraldo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/CastelodeGiraldo.jpg",
+      "description_short": "Castle of Geraldo — a notable landmark in Evora, Portugal.",
+      "keywords": [
+        "Evora",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Borba",
+      "city": "Evora",
+      "region": "Portugal",
+      "latitude": 38.80548,
+      "longitude": -7.45614,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Borba",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Muralhas_de_Borba_-_Portugal_%287451219814%29.jpg/800px-Muralhas_de_Borba_-_Portugal_%287451219814%29.jpg",
+      "description_short": "Castle of Borba — a notable landmark in Evora, Portugal.",
+      "keywords": [
+        "Evora",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Portel",
+      "city": "Evora",
+      "region": "Portugal",
+      "latitude": 38.3092,
+      "longitude": -7.7027,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Portel",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Castelo_de_Portel.JPG/800px-Castelo_de_Portel.JPG",
+      "description_short": "Castle of Portel — a notable landmark in Evora, Portugal.",
+      "keywords": [
+        "Evora",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Aveiro",
+      "city": "Guimaraes",
+      "region": "Portugal",
+      "latitude": 40.63333333,
+      "longitude": -8.65,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aveiro%2C_Portugal",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Canal_Central_de_Aveiro_em_Setembro_2025_-_Foto_07.jpg/800px-Canal_Central_de_Aveiro_em_Setembro_2025_-_Foto_07.jpg",
+      "description_short": "Aveiro, Portugal — a notable landmark in Guimaraes, Portugal.",
+      "keywords": [
+        "Guimaraes",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Cathedral of Vila Real",
+      "city": "Guimaraes",
+      "region": "Portugal",
+      "latitude": 41.2963,
+      "longitude": -7.7466,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cathedral_of_Vila_Real",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/VilaRealCathedral.jpg/800px-VilaRealCathedral.jpg",
+      "description_short": "Cathedral of Vila Real — a notable landmark in Guimaraes, Portugal.",
+      "keywords": [
+        "Guimaraes",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Santa Maria Maior",
+      "city": "Guimaraes",
+      "region": "Portugal",
+      "latitude": 38.713,
+      "longitude": -9.136,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Santa_Maria_Maior%2C_Lisbon",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Lisboa_2170515_%28212110549%29_%28cropped%29.jpeg/800px-Lisboa_2170515_%28212110549%29_%28cropped%29.jpeg",
+      "description_short": "Santa Maria Maior, Lisbon — a notable landmark in Guimaraes, Portugal.",
+      "keywords": [
+        "Guimaraes",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Cathedral of St. Mary the Great",
+      "city": "Guimaraes",
+      "region": "Portugal",
+      "latitude": 41.6934,
+      "longitude": -8.8271,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cathedral_of_St._Mary_the_Great%2C_Viana_do_Castelo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Viana_do_Castelo_-_Catedral_-_01.jpg/800px-Viana_do_Castelo_-_Catedral_-_01.jpg",
+      "description_short": "Cathedral of St. Mary the Great, Viana do Castelo — a notable landmark in Guimaraes, Portugal.",
+      "keywords": [
+        "Guimaraes",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Church of São Miguel do Castelo",
+      "city": "Guimaraes",
+      "region": "Portugal",
+      "latitude": 41.44728611,
+      "longitude": -8.29094722,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Church_of_S%C3%A3o_Miguel_do_Castelo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Igreja_de_S%C3%A3o_Miguel_do_Castelo_-_Church_of_S%C3%A3o_Miguel_do_Castelo%2C_Guimar%C3%A3es%2C_Portugal_02.jpg/800px-Igreja_de_S%C3%A3o_Miguel_do_Castelo_-_Church_of_S%C3%A3o_Miguel_do_Castelo%2C_Guimar%C3%A3es%2C_Portugal_02.jpg",
+      "description_short": "Church of São Miguel do Castelo — a notable landmark in Guimaraes, Portugal.",
+      "keywords": [
+        "Guimaraes",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Guimarães",
+      "city": "Guimaraes",
+      "region": "Portugal",
+      "latitude": 41.445,
+      "longitude": -8.2908,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Guimar%C3%A3es",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Guimaraes-Portugal.jpg/800px-Guimaraes-Portugal.jpg",
+      "description_short": "Guimarães — a notable landmark in Guimaraes, Portugal.",
+      "keywords": [
+        "Guimaraes",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Tomar Castle",
+      "city": "Guimaraes",
+      "region": "Portugal",
+      "latitude": 39.60416667,
+      "longitude": -8.42277778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tomar_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tomar_Castelo_0244.jpg/800px-Tomar_Castelo_0244.jpg",
+      "description_short": "Tomar Castle — a notable landmark in Guimaraes, Portugal.",
+      "keywords": [
+        "Guimaraes",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Ródão",
+      "city": "Guimaraes",
+      "region": "Portugal",
+      "latitude": 39.64741667,
+      "longitude": -7.68991667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_R%C3%B3d%C3%A3o",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Castelo_do_Rei_Wamba%2C_Vila_Velha_de_R%C3%B3d%C3%A3o.jpg/800px-Castelo_do_Rei_Wamba%2C_Vila_Velha_de_R%C3%B3d%C3%A3o.jpg",
+      "description_short": "Castle of Ródão — a notable landmark in Guimaraes, Portugal.",
+      "keywords": [
+        "Guimaraes",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Historic Centre of Guimarães",
+      "city": "Guimaraes",
+      "region": "Portugal",
+      "latitude": 41.44373111,
+      "longitude": -8.29280306,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Historic_Centre_of_Guimar%C3%A3es",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Guimaraes_Portugal_Pra%C3%A7a_da_Oliveira-01.jpg/800px-Guimaraes_Portugal_Pra%C3%A7a_da_Oliveira-01.jpg",
+      "description_short": "Historic Centre of Guimarães — a notable landmark in Guimaraes, Portugal.",
+      "keywords": [
+        "Guimaraes",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Palácio dos Condes de Castro Guimarães",
+      "city": "Guimaraes",
+      "region": "Portugal",
+      "latitude": 38.692,
+      "longitude": -9.4214,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pal%C3%A1cio_dos_Condes_de_Castro_Guimar%C3%A3es",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palacio_de_los_condes_de_Castro_Guimar%C3%A3es%2C_Cascais%2C_Portugal%2C_2022-07-25%2C_DD_12.jpg/800px-Palacio_de_los_condes_de_Castro_Guimar%C3%A3es%2C_Cascais%2C_Portugal%2C_2022-07-25%2C_DD_12.jpg",
+      "description_short": "Palácio dos Condes de Castro Guimarães — a notable landmark in Guimaraes, Portugal.",
+      "keywords": [
+        "Guimaraes",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Toural",
+      "city": "Guimaraes",
+      "region": "Portugal",
+      "latitude": 41.44191,
+      "longitude": -8.29562,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Toural",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/80976-Guimaraes_%2848687163117%29.jpg/800px-80976-Guimaraes_%2848687163117%29.jpg",
+      "description_short": "Toural — a notable landmark in Guimaraes, Portugal.",
+      "keywords": [
+        "Guimaraes",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Santos Passos Church",
+      "city": "Guimaraes",
+      "region": "Portugal",
+      "latitude": 41.4408,
+      "longitude": -8.2897,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Santos_Passos_Church",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Church_of_Our_Lady_of_Consolation_in_Guimaraes_%283%29.jpg/800px-Church_of_Our_Lady_of_Consolation_in_Guimaraes_%283%29.jpg",
+      "description_short": "Santos Passos Church — a notable landmark in Guimaraes, Portugal.",
+      "keywords": [
+        "Guimaraes",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Oliveira do Castelo",
+      "city": "Guimaraes",
+      "region": "Portugal",
+      "latitude": 41.45027778,
+      "longitude": -8.28805556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oliveira_do_Castelo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Castelo_de_Guimar%C3%A3es_%2831252116437%29.jpg/800px-Castelo_de_Guimar%C3%A3es_%2831252116437%29.jpg",
+      "description_short": "Oliveira do Castelo — a notable landmark in Guimaraes, Portugal.",
+      "keywords": [
+        "Guimaraes",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Afonso Henriques Theatre",
+      "city": "Guimaraes",
+      "region": "Portugal",
+      "latitude": 41.44192,
+      "longitude": -8.29181,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Afonso_Henriques_Theatre",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Teatro_D._Afonso_Henriques.jpg/800px-Teatro_D._Afonso_Henriques.jpg",
+      "description_short": "Afonso Henriques Theatre — a notable landmark in Guimaraes, Portugal.",
+      "keywords": [
+        "Guimaraes",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Torre dos Almadas",
+      "city": "Guimaraes",
+      "region": "Portugal",
+      "latitude": 41.44238,
+      "longitude": -8.29381,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Torre_dos_Almadas",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Torre_dos_Almadas_%28cropped%29.jpg/800px-Torre_dos_Almadas_%28cropped%29.jpg",
+      "description_short": "Torre dos Almadas — a notable landmark in Guimaraes, Portugal.",
+      "keywords": [
+        "Guimaraes",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Leiria",
+      "city": "Aveiro",
+      "region": "Portugal",
+      "latitude": 39.75,
+      "longitude": -8.8,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Leiria",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Leiria_%2825746536508%29_%28cropped%29.jpg/800px-Leiria_%2825746536508%29_%28cropped%29.jpg",
+      "description_short": "Leiria — a notable landmark in Aveiro, Portugal.",
+      "keywords": [
+        "Aveiro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Santa Maria da Feira",
+      "city": "Aveiro",
+      "region": "Portugal",
+      "latitude": 40.93333333,
+      "longitude": -8.53333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Santa_Maria_da_Feira",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Castelo_de_Sta._Maria_da_Feira6.jpg/800px-Castelo_de_Sta._Maria_da_Feira6.jpg",
+      "description_short": "Santa Maria da Feira — a notable landmark in Aveiro, Portugal.",
+      "keywords": [
+        "Aveiro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Estádio Dr. Magalhães Pessoa",
+      "city": "Aveiro",
+      "region": "Portugal",
+      "latitude": 39.74861111,
+      "longitude": -8.81305556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Dr._Magalh%C3%A3es_Pessoa",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Est%C3%A1dio_Municipal_de_Leiria.jpg/800px-Est%C3%A1dio_Municipal_de_Leiria.jpg",
+      "description_short": "Estádio Dr. Magalhães Pessoa — a notable landmark in Aveiro, Portugal.",
+      "keywords": [
+        "Aveiro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Ciudad Rodrigo",
+      "city": "Aveiro",
+      "region": "Portugal",
+      "latitude": 40.59694444,
+      "longitude": -6.53916667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ciudad_Rodrigo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/RI-53-0000010.jpg/800px-RI-53-0000010.jpg",
+      "description_short": "Ciudad Rodrigo — a notable landmark in Aveiro, Portugal.",
+      "keywords": [
+        "Aveiro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Penedono",
+      "city": "Aveiro",
+      "region": "Portugal",
+      "latitude": 40.9875,
+      "longitude": -7.39444444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Penedono",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Penedono_1.jpg/800px-Penedono_1.jpg",
+      "description_short": "Penedono — a notable landmark in Aveiro, Portugal.",
+      "keywords": [
+        "Aveiro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Penela",
+      "city": "Aveiro",
+      "region": "Portugal",
+      "latitude": 40.031,
+      "longitude": -8.39,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Penela",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Castelo_de_Penela_-_vista_geral.JPG/800px-Castelo_de_Penela_-_vista_geral.JPG",
+      "description_short": "Castle of Penela — a notable landmark in Aveiro, Portugal.",
+      "keywords": [
+        "Aveiro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castelo Branco",
+      "city": "Aveiro",
+      "region": "Portugal",
+      "latitude": 39.81666667,
+      "longitude": -7.5,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castelo_Branco%2C_Portugal",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Jardim_do_Pa%C3%A7o_Episcopal.jpg/800px-Jardim_do_Pa%C3%A7o_Episcopal.jpg",
+      "description_short": "Castelo Branco, Portugal — a notable landmark in Aveiro, Portugal.",
+      "keywords": [
+        "Aveiro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Almeida",
+      "city": "Aveiro",
+      "region": "Portugal",
+      "latitude": 40.71666667,
+      "longitude": -6.9,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Almeida%2C_Portugal",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Porta_Fortifica%C3%A7%C3%A3o_Almeida.jpg/800px-Porta_Fortifica%C3%A7%C3%A3o_Almeida.jpg",
+      "description_short": "Almeida, Portugal — a notable landmark in Aveiro, Portugal.",
+      "keywords": [
+        "Aveiro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle Fortress of Almeida",
+      "city": "Aveiro",
+      "region": "Portugal",
+      "latitude": 40.72566667,
+      "longitude": -6.90597222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_Fortress_of_Almeida",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Portas_Duplas_de_S%C3%A3o_Francisco.jpg/800px-Portas_Duplas_de_S%C3%A3o_Francisco.jpg",
+      "description_short": "Castle Fortress of Almeida — a notable landmark in Aveiro, Portugal.",
+      "keywords": [
+        "Aveiro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Lousã",
+      "city": "Aveiro",
+      "region": "Portugal",
+      "latitude": 40.10083333,
+      "longitude": -8.23555556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Lous%C3%A3",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Castelo_da_lous%C3%A3.jpg/800px-Castelo_da_lous%C3%A3.jpg",
+      "description_short": "Castle of Lousã — a notable landmark in Aveiro, Portugal.",
+      "keywords": [
+        "Aveiro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castelo de Santiago do Cacém",
+      "city": "Aveiro",
+      "region": "Portugal",
+      "latitude": 38.01472222,
+      "longitude": -8.69833333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castelo_de_Santiago_do_Cac%C3%A9m",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Santiago_Cac%C3%A9m_April_2009-1.jpg/800px-Santiago_Cac%C3%A9m_April_2009-1.jpg",
+      "description_short": "Castelo de Santiago do Cacém — a notable landmark in Aveiro, Portugal.",
+      "keywords": [
+        "Aveiro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Avô",
+      "city": "Aveiro",
+      "region": "Portugal",
+      "latitude": 40.29333333,
+      "longitude": -7.90444444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Av%C3%B4",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Castelo_de_Av%C3%B4_-_Portugal_%2812310722974%29.jpg/800px-Castelo_de_Av%C3%B4_-_Portugal_%2812310722974%29.jpg",
+      "description_short": "Castle of Avô — a notable landmark in Aveiro, Portugal.",
+      "keywords": [
+        "Aveiro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Barra de Aveiro Fort",
+      "city": "Aveiro",
+      "region": "Portugal",
+      "latitude": 40.63333333,
+      "longitude": -8.71666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Barra_de_Aveiro_Fort",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Forte_da_Barra.JPG/800px-Forte_da_Barra.JPG",
+      "description_short": "Barra de Aveiro Fort — a notable landmark in Aveiro, Portugal.",
+      "keywords": [
+        "Aveiro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Algarve",
+      "city": "Faro",
+      "region": "Portugal",
+      "latitude": 37.242,
+      "longitude": -8.17,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Algarve",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Pal%C3%A1cio_de_Est%C3%B3i_-_Portugal_%288291585643%29_%28cropped%29.jpg/800px-Pal%C3%A1cio_de_Est%C3%B3i_-_Portugal_%288291585643%29_%28cropped%29.jpg",
+      "description_short": "Algarve — a notable landmark in Faro, Portugal.",
+      "keywords": [
+        "Faro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Faro",
+      "city": "Faro",
+      "region": "Portugal",
+      "latitude": 37.01611111,
+      "longitude": -7.935,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Faro%2C_Portugal",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/2021_12_12_arne_mueseler_08_17_0576.jpg/800px-2021_12_12_arne_mueseler_08_17_0576.jpg",
+      "description_short": "Faro, Portugal — a notable landmark in Faro, Portugal.",
+      "keywords": [
+        "Faro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Silves",
+      "city": "Faro",
+      "region": "Portugal",
+      "latitude": 37.18694444,
+      "longitude": -8.43888889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Silves%2C_Portugal",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/06-05-2017_Castle_exterior%2C_Silves.JPG/800px-06-05-2017_Castle_exterior%2C_Silves.JPG",
+      "description_short": "Silves, Portugal — a notable landmark in Faro, Portugal.",
+      "keywords": [
+        "Faro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Setúbal",
+      "city": "Faro",
+      "region": "Portugal",
+      "latitude": 38.52430556,
+      "longitude": -8.89261111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Set%C3%BAbal",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Setubal_III_%28cropped%29.jpg/800px-Setubal_III_%28cropped%29.jpg",
+      "description_short": "Setúbal — a notable landmark in Faro, Portugal.",
+      "keywords": [
+        "Faro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Tui",
+      "city": "Faro",
+      "region": "Portugal",
+      "latitude": 42.04805556,
+      "longitude": -8.64444444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tui%2C_Pontevedra",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Old_international_bridge_Valenca_Tui.jpg/800px-Old_international_bridge_Valenca_Tui.jpg",
+      "description_short": "Tui, Pontevedra — a notable landmark in Faro, Portugal.",
+      "keywords": [
+        "Faro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Silves",
+      "city": "Faro",
+      "region": "Portugal",
+      "latitude": 37.19098889,
+      "longitude": -8.43790556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Silves",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Castelo_de_Silves_-_Algarve%2C_Portugal_-_11.03.2023.jpg/800px-Castelo_de_Silves_-_Algarve%2C_Portugal_-_11.03.2023.jpg",
+      "description_short": "Castle of Silves — a notable landmark in Faro, Portugal.",
+      "keywords": [
+        "Faro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Silves Cathedral",
+      "city": "Faro",
+      "region": "Portugal",
+      "latitude": 37.1901,
+      "longitude": -8.4387,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Silves_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/S%C3%A9_Catedral_de_Silves_-_Vista_exterior.jpg",
+      "description_short": "Silves Cathedral — a notable landmark in Faro, Portugal.",
+      "keywords": [
+        "Faro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Hermitage of Our Lady of Guadalupe",
+      "city": "Faro",
+      "region": "Portugal",
+      "latitude": 37.08361111,
+      "longitude": -8.86472222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hermitage_of_Our_Lady_of_Guadalupe",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/NossaSenhoraGuadalupe.jpg/800px-NossaSenhoraGuadalupe.jpg",
+      "description_short": "Hermitage of Our Lady of Guadalupe — a notable landmark in Faro, Portugal.",
+      "keywords": [
+        "Faro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Lagos",
+      "city": "Faro",
+      "region": "Portugal",
+      "latitude": 37.10277778,
+      "longitude": -8.67277778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lagos%2C_Portugal",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Vista_Centro_Hist%C3%B3rico_de_Lagos_%28cropped%29.jpg/800px-Vista_Centro_Hist%C3%B3rico_de_Lagos_%28cropped%29.jpg",
+      "description_short": "Lagos, Portugal — a notable landmark in Faro, Portugal.",
+      "keywords": [
+        "Faro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Salir",
+      "city": "Faro",
+      "region": "Portugal",
+      "latitude": 37.2429033,
+      "longitude": -8.0465555,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Salir",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/21-05-2017_Ru%C3%ADnas_do_Castelo_de_Salir_%281%29.JPG/800px-21-05-2017_Ru%C3%ADnas_do_Castelo_de_Salir_%281%29.JPG",
+      "description_short": "Castle of Salir — a notable landmark in Faro, Portugal.",
+      "keywords": [
+        "Faro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Portimão",
+      "city": "Faro",
+      "region": "Portugal",
+      "latitude": 37.13694444,
+      "longitude": -8.53833333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Portim%C3%A3o",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Col%C3%A9gio_dos_Jesu%C3%ADtas_%282%29.jpg/800px-Col%C3%A9gio_dos_Jesu%C3%ADtas_%282%29.jpg",
+      "description_short": "Portimão — a notable landmark in Faro, Portugal.",
+      "keywords": [
+        "Faro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Tavira",
+      "city": "Faro",
+      "region": "Portugal",
+      "latitude": 37.11666667,
+      "longitude": -7.65,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tavira",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Vista_Tavira.jpg/800px-Vista_Tavira.jpg",
+      "description_short": "Tavira — a notable landmark in Faro, Portugal.",
+      "keywords": [
+        "Faro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Loulé",
+      "city": "Faro",
+      "region": "Portugal",
+      "latitude": 37.15,
+      "longitude": -8,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Loul%C3%A9",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Marina_de_Cavacos%2C_Quarteira_%2836887717511%29_%28cropped%29.jpg/800px-Marina_de_Cavacos%2C_Quarteira_%2836887717511%29_%28cropped%29.jpg",
+      "description_short": "Loulé — a notable landmark in Faro, Portugal.",
+      "keywords": [
+        "Faro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Lagoa",
+      "city": "Faro",
+      "region": "Portugal",
+      "latitude": 37.13333333,
+      "longitude": -8.45,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lagoa%2C_Portugal",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lagoa_-_Portugal_%2852366403951%29.jpg/800px-Lagoa_-_Portugal_%2852366403951%29.jpg",
+      "description_short": "Lagoa, Portugal — a notable landmark in Faro, Portugal.",
+      "keywords": [
+        "Faro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Fort of Nossa Senhora da Rocha (Porches)",
+      "city": "Faro",
+      "region": "Portugal",
+      "latitude": 37.09565278,
+      "longitude": -8.38618333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fort_of_Nossa_Senhora_da_Rocha_(Porches)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Forte_de_Nossa_Senhora_da_Rocha_05.jpg/800px-Forte_de_Nossa_Senhora_da_Rocha_05.jpg",
+      "description_short": "Fort of Nossa Senhora da Rocha (Porches) — a notable landmark in Faro, Portugal.",
+      "keywords": [
+        "Faro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Alcoutim",
+      "city": "Faro",
+      "region": "Portugal",
+      "latitude": 37.47060278,
+      "longitude": -7.47189167,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Alcoutim",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Castelo_de_Alcoutim_063.jpg/800px-Castelo_de_Alcoutim_063.jpg",
+      "description_short": "Castle of Alcoutim — a notable landmark in Faro, Portugal.",
+      "keywords": [
+        "Faro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Alcantarilha",
+      "city": "Faro",
+      "region": "Portugal",
+      "latitude": 37.130025,
+      "longitude": -8.34526389,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Alcantarilha",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Castelo_de_Alcantarilha_1_-_05.10.2019.jpg/800px-Castelo_de_Alcantarilha_1_-_05.10.2019.jpg",
+      "description_short": "Castle of Alcantarilha — a notable landmark in Faro, Portugal.",
+      "keywords": [
+        "Faro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Aljezur",
+      "city": "Faro",
+      "region": "Portugal",
+      "latitude": 37.31634167,
+      "longitude": -8.80496389,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Aljezur",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Castelo_de_Aljezur_no_monte.jpg/800px-Castelo_de_Aljezur_no_monte.jpg",
+      "description_short": "Castle of Aljezur — a notable landmark in Faro, Portugal.",
+      "keywords": [
+        "Faro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Alvor",
+      "city": "Faro",
+      "region": "Portugal",
+      "latitude": 37.12926667,
+      "longitude": -8.59363611,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Alvor",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Castelo_de_Alvor_102.jpg/800px-Castelo_de_Alvor_102.jpg",
+      "description_short": "Castle of Alvor — a notable landmark in Faro, Portugal.",
+      "keywords": [
+        "Faro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Aljezur",
+      "city": "Faro",
+      "region": "Portugal",
+      "latitude": 37.31666667,
+      "longitude": -8.8,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aljezur",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Vista_geral_de_Aljezur_-_14-03-2020.jpg/800px-Vista_geral_de_Aljezur_-_14-03-2020.jpg",
+      "description_short": "Aljezur — a notable landmark in Faro, Portugal.",
+      "keywords": [
+        "Faro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Albufeira",
+      "city": "Faro",
+      "region": "Portugal",
+      "latitude": 37.08972222,
+      "longitude": -8.24583333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Albufeira",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Albufeira_%28Portugal%29_%2810311600764%29.jpg/800px-Albufeira_%28Portugal%29_%2810311600764%29.jpg",
+      "description_short": "Albufeira — a notable landmark in Faro, Portugal.",
+      "keywords": [
+        "Faro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Tavira",
+      "city": "Faro",
+      "region": "Portugal",
+      "latitude": 37.1252,
+      "longitude": -7.6513,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Tavira",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Castelo_de_Tavira_-_Portugal_%F0%9F%87%B5%F0%9F%87%B9_%2854876645238%29.jpg/800px-Castelo_de_Tavira_-_Portugal_%F0%9F%87%B5%F0%9F%87%B9_%2854876645238%29.jpg",
+      "description_short": "Castle of Tavira — a notable landmark in Faro, Portugal.",
+      "keywords": [
+        "Faro",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Oliveira do Hospital",
+      "city": "Lagos",
+      "region": "Portugal",
+      "latitude": 40.35888889,
+      "longitude": -7.8625,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oliveira_do_Hospital",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Av%C3%B4.jpg/800px-Av%C3%B4.jpg",
+      "description_short": "Oliveira do Hospital — a notable landmark in Lagos, Portugal.",
+      "keywords": [
+        "Lagos",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Almourol",
+      "city": "Lagos",
+      "region": "Portugal",
+      "latitude": 39.46194444,
+      "longitude": -8.38383056,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Almourol",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Almourol_034.jpg/800px-Almourol_034.jpg",
+      "description_short": "Castle of Almourol — a notable landmark in Lagos, Portugal.",
+      "keywords": [
+        "Lagos",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Praia da Luz",
+      "city": "Lagos",
+      "region": "Portugal",
+      "latitude": 37.08666667,
+      "longitude": -8.73111111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Praia_da_Luz",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Vista_parcial_da_luz.jpg/800px-Vista_parcial_da_luz.jpg",
+      "description_short": "Praia da Luz — a notable landmark in Lagos, Portugal.",
+      "keywords": [
+        "Lagos",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Montemor-o-Velho",
+      "city": "Lagos",
+      "region": "Portugal",
+      "latitude": 40.176,
+      "longitude": -8.683,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Montemor-o-Velho",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MontemorVelho-CCBY-4.jpg/800px-MontemorVelho-CCBY-4.jpg",
+      "description_short": "Castle of Montemor-o-Velho — a notable landmark in Lagos, Portugal.",
+      "keywords": [
+        "Lagos",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Leiria",
+      "city": "Lagos",
+      "region": "Portugal",
+      "latitude": 39.747,
+      "longitude": -8.81,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Leiria",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/CASTELO_DE_LEIRIA.jpg",
+      "description_short": "Castle of Leiria — a notable landmark in Lagos, Portugal.",
+      "keywords": [
+        "Lagos",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Castelo Rodrigo",
+      "city": "Lagos",
+      "region": "Portugal",
+      "latitude": 40.877374,
+      "longitude": -6.964265,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Castelo_Rodrigo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Castelo_de_Castelo_Rodrigo_-_Portugal_%288640303247%29.jpg/800px-Castelo_de_Castelo_Rodrigo_-_Portugal_%288640303247%29.jpg",
+      "description_short": "Castle of Castelo Rodrigo — a notable landmark in Lagos, Portugal.",
+      "keywords": [
+        "Lagos",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Castro Marim",
+      "city": "Lagos",
+      "region": "Portugal",
+      "latitude": 37.218525,
+      "longitude": -7.44194444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Castro_Marim",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Castelo_de_Castro_Marim_061.jpg/800px-Castelo_de_Castro_Marim_061.jpg",
+      "description_short": "Castle of Castro Marim — a notable landmark in Lagos, Portugal.",
+      "keywords": [
+        "Lagos",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Alcácer do Sal",
+      "city": "Lagos",
+      "region": "Portugal",
+      "latitude": 38.3725,
+      "longitude": -8.51388889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Alc%C3%A1cer_do_Sal",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pousada_do_sado.jpg/800px-Pousada_do_sado.jpg",
+      "description_short": "Castle of Alcácer do Sal — a notable landmark in Lagos, Portugal.",
+      "keywords": [
+        "Lagos",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Castelo Branco",
+      "city": "Lagos",
+      "region": "Portugal",
+      "latitude": 39.8255,
+      "longitude": -7.496,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Castelo_Branco",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Castelo_Branco_%28Castelo%29.jpg/800px-Castelo_Branco_%28Castelo%29.jpg",
+      "description_short": "Castle of Castelo Branco — a notable landmark in Lagos, Portugal.",
+      "keywords": [
+        "Lagos",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Palmela",
+      "city": "Lagos",
+      "region": "Portugal",
+      "latitude": 38.56611111,
+      "longitude": -8.90111111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Palmela",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Castelo_de_Plamela_2004-04.jpg/800px-Castelo_de_Plamela_2004-04.jpg",
+      "description_short": "Castle of Palmela — a notable landmark in Lagos, Portugal.",
+      "keywords": [
+        "Lagos",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Marvão",
+      "city": "Lagos",
+      "region": "Portugal",
+      "latitude": 39.39452778,
+      "longitude": -7.37655556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Marv%C3%A3o",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/CastillodeMarvao.jpg/800px-CastillodeMarvao.jpg",
+      "description_short": "Castle of Marvão — a notable landmark in Lagos, Portugal.",
+      "keywords": [
+        "Lagos",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Castle of Mertola",
+      "city": "Lagos",
+      "region": "Portugal",
+      "latitude": 37.639,
+      "longitude": -7.66375,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_of_Mertola",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/MertolaCastle-Church-CCBY.jpg/800px-MertolaCastle-Church-CCBY.jpg",
+      "description_short": "Castle of Mertola — a notable landmark in Lagos, Portugal.",
+      "keywords": [
+        "Lagos",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Fort Nossa Senhora da Luz (Lagos)",
+      "city": "Lagos",
+      "region": "Portugal",
+      "latitude": 37.08516667,
+      "longitude": -8.7305,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fort_Nossa_Senhora_da_Luz_(Lagos)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Praia_da_Luz_Portugal_February_2015_14.jpg/800px-Praia_da_Luz_Portugal_February_2015_14.jpg",
+      "description_short": "Fort Nossa Senhora da Luz (Lagos) — a notable landmark in Lagos, Portugal.",
+      "keywords": [
+        "Lagos",
+        "Portugal",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    }
+  ],
+  "adventure_locations": [
+    {
+      "name": "Palace of the Dukes of Braganza",
+      "region": "Portugal",
+      "latitude": 41.44646389,
+      "longitude": -8.29101111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Palace_of_the_Dukes_of_Braganza",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Pa%C3%A7o_dos_Duques_1.jpg",
+      "description_short": "Palace of the Dukes of Braganza — a must-see landmark on a Portugal road trip.",
+      "keywords": [
+        "Palace of the Dukes of Braganza",
+        "Portugal",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 90
+    },
+    {
+      "name": "Pena Palace",
+      "region": "Portugal",
+      "latitude": 38.78777778,
+      "longitude": -9.39055556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pena_Palace",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sintra_Portugal_Pal%C3%A1cio_da_Pena-01.jpg/800px-Sintra_Portugal_Pal%C3%A1cio_da_Pena-01.jpg",
+      "description_short": "Pena Palace — a must-see landmark on a Portugal road trip.",
+      "keywords": [
+        "Pena Palace",
+        "Portugal",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 89
+    },
+    {
+      "name": "Belém Palace",
+      "region": "Portugal",
+      "latitude": 38.69796944,
+      "longitude": -9.20068611,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Palace",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Palacio_Belem_Lisboa.JPG",
+      "description_short": "Belém Palace — a must-see landmark on a Portugal road trip.",
+      "keywords": [
+        "Belém Palace",
+        "Portugal",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 88
+    },
+    {
+      "name": "Palace of Ajuda",
+      "region": "Portugal",
+      "latitude": 38.70759444,
+      "longitude": -9.19832778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Palace_of_Ajuda",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lisbon%2C_the_Pal%C3%A1cio_Nacional_da_Ajuda.JPG/800px-Lisbon%2C_the_Pal%C3%A1cio_Nacional_da_Ajuda.JPG",
+      "description_short": "Palace of Ajuda — a must-see landmark on a Portugal road trip.",
+      "keywords": [
+        "Palace of Ajuda",
+        "Portugal",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 87
+    },
+    {
+      "name": "Palace of Mafra",
+      "region": "Portugal",
+      "latitude": 38.9369,
+      "longitude": -9.3258,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Palace_of_Mafra",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Europa_-_Portugal_-_Lisboa_-_Mafra_-_Palacio_%28cropped%29.jpg/800px-Europa_-_Portugal_-_Lisboa_-_Mafra_-_Palacio_%28cropped%29.jpg",
+      "description_short": "Palace of Mafra — a must-see landmark on a Portugal road trip.",
+      "keywords": [
+        "Palace of Mafra",
+        "Portugal",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 86
+    },
+    {
+      "name": "Palace of Queluz",
+      "region": "Portugal",
+      "latitude": 38.7506,
+      "longitude": -9.2587,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Palace_of_Queluz",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/1794_wurde_der_Palast_in_Queluz_zur_offiziellen_Residenz_des_Portugiesischen_K%C3%B6nigshauses._01.jpg/800px-1794_wurde_der_Palast_in_Queluz_zur_offiziellen_Residenz_des_Portugiesischen_K%C3%B6nigshauses._01.jpg",
+      "description_short": "Palace of Queluz — a must-see landmark on a Portugal road trip.",
+      "keywords": [
+        "Palace of Queluz",
+        "Portugal",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Ribeira Palace",
+      "region": "Portugal",
+      "latitude": 38.70728056,
+      "longitude": -9.13822222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ribeira_Palace",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Terreiro_do_Pa%C3%A7o_antes_do_Terramoto_de_1755.png/800px-Terreiro_do_Pa%C3%A7o_antes_do_Terramoto_de_1755.png",
+      "description_short": "Ribeira Palace — a must-see landmark on a Portugal road trip.",
+      "keywords": [
+        "Ribeira Palace",
+        "Portugal",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 84
+    },
+    {
+      "name": "Sintra National Palace",
+      "region": "Portugal",
+      "latitude": 38.79777778,
+      "longitude": -9.39083333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sintra_National_Palace",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Palacio_Sintra_February_2015-13a.jpg/800px-Palacio_Sintra_February_2015-13a.jpg",
+      "description_short": "Sintra National Palace — a must-see landmark on a Portugal road trip.",
+      "keywords": [
+        "Sintra National Palace",
+        "Portugal",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 83
+    },
+    {
+      "name": "Necessidades Palace",
+      "region": "Portugal",
+      "latitude": 38.7068444,
+      "longitude": -9.1696334,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Necessidades_Palace",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pal%C3%A1cio_das_Necessidades_1997.JPG/800px-Pal%C3%A1cio_das_Necessidades_1997.JPG",
+      "description_short": "Necessidades Palace — a must-see landmark on a Portugal road trip.",
+      "keywords": [
+        "Necessidades Palace",
+        "Portugal",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 82
+    },
+    {
+      "name": "Palace of the Marquises of Fronteira",
+      "region": "Portugal",
+      "latitude": 38.74,
+      "longitude": -9.18027778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Palace_of_the_Marquises_of_Fronteira",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Palacio_Fronteira_-_Lisbon_%287721187114%29.jpg/800px-Palacio_Fronteira_-_Lisbon_%287721187114%29.jpg",
+      "description_short": "Palace of the Marquises of Fronteira — a must-see landmark on a Portugal road trip.",
+      "keywords": [
+        "Palace of the Marquises of Fronteira",
+        "Portugal",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 81
+    }
+  ],
+  "country_cover_image": {
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Torre_Bel%C3%A9m_April_2009-4a.jpg",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Tower"
+  }
+}

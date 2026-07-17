@@ -1,0 +1,3768 @@
+{
+  "version": 2,
+  "country": "Ukraine",
+  "published": true,
+  "cities": [
+    {
+      "city": "Kyiv",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Kyiv",
+      "seo": {
+        "title": "Top 10 Things to Do in Kyiv, Ukraine",
+        "description": "Discover 10 must-see landmarks in Kyiv, Ukraine. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Kyiv? Explore the best places to visit in Kyiv, Ukraine.",
+        "keywords": [
+          "things to do in Kyiv",
+          "Kyiv Ukraine travel guide",
+          "best places to visit in Kyiv",
+          "Kyiv landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Saint Sophia Cathedral",
+          "wiki_title": "Saint Sophia Cathedral, Kyiv",
+          "lat": 50.4528,
+          "lng": 30.5144,
+          "order_index": 0,
+          "description": "An iconic 11th-century monument showcasing majestic gold domes and rare medieval frescoes.",
+          "seo_phrase": "Visiting Saint Sophia Cathedral Kyiv | Ultimate Historical Guide",
+          "seo_keywords": [
+            "Saint Sophia Cathedral",
+            "Kyiv landmarks",
+            "Kyivan Rus architecture",
+            "UNESCO sites Ukraine",
+            "Kyiv history"
+          ],
+          "commons_file": "Kyiv St Sophia Cathedral 2012 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Kyiv_St_Sophia_Cathedral_2012_01.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Golden Gate",
+            "St. Michael's Golden-Domed Monastery"
+          ]
+        },
+        {
+          "name": "Independence Square",
+          "wiki_title": "Maidan Nezalezhnosti",
+          "lat": 50.4508,
+          "lng": 30.5228,
+          "order_index": 1,
+          "description": "The central public square of Kyiv, acting as the monumental heart of modern Ukrainian history.",
+          "seo_phrase": "Maidan Nezalezhnosti | Independence Square Kyiv Guide",
+          "seo_keywords": [
+            "Maidan Nezalezhnosti",
+            "Independence Square Kyiv",
+            "Kyiv central plaza",
+            "Ukraine modern history"
+          ],
+          "commons_file": "Maidan Nezalezhnosti Kyiv 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Maidan_Nezalezhnosti_Kyiv_2019.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Khreschatyk Street",
+            "St. Michael's Golden-Domed Monastery"
+          ]
+        },
+        {
+          "name": "Andriyivskyy Uzviz",
+          "wiki_title": "Andriyivskyy Uzviz",
+          "lat": 50.4594,
+          "lng": 30.5164,
+          "order_index": 2,
+          "description": "A charming, historic cobblestone descent brimming with galleries, open-air craft markets, and cafes.",
+          "seo_phrase": "Andrew's Descent Kyiv | Historic Arts Street Guide",
+          "seo_keywords": [
+            "Andriyivskyy Uzviz",
+            "Andrews Descent Kyiv",
+            "Kyiv art street",
+            "Podil walking tour"
+          ],
+          "commons_file": "Andriyivskyy Uzviz Kyiv.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Andriyivskyy_Uzviz_Kyiv.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Andrew's Church",
+            "Podil District"
+          ]
+        },
+        {
+          "name": "St. Michael's Golden-Domed Monastery",
+          "wiki_title": "St. Michael's Golden-Domed Monastery",
+          "lat": 50.4556,
+          "lng": 30.5229,
+          "order_index": 3,
+          "description": "A historic monastery complex renowned for its brilliant sky-blue walls and glowing gold domes.",
+          "seo_phrase": "St Michael's Golden Domed Monastery Tour | Blue Cathedral Kyiv",
+          "seo_keywords": [
+            "St Michaels Monastery Kyiv",
+            "Blue church Kyiv",
+            "Ukrainian Baroque",
+            "Kyiv religious sites"
+          ],
+          "commons_file": "St. Michael's Golden-Domed Monastery Kyiv 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/St._Michael%27s_Golden-Domed_Monastery_Kyiv_2019.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Saint Sophia Cathedral",
+            "Volodymyrska Hill"
+          ]
+        },
+        {
+          "name": "St. Andrew's Church",
+          "wiki_title": "St. Andrew's Church, Kyiv",
+          "lat": 50.4591,
+          "lng": 30.5178,
+          "order_index": 4,
+          "description": "An incredibly graceful Baroque church overlooking the historic lower town of Kyiv.",
+          "seo_phrase": "St. Andrew's Church Kyiv | Rastrelli Baroque Masterpiece",
+          "seo_keywords": [
+            "St Andrews Church Kyiv",
+            "Rastrelli architecture Ukraine",
+            "Baroque church Kyiv"
+          ],
+          "commons_file": "St. Andrew's Church, Kyiv 2020.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/St._Andrew%27s_Church%2C_Kyiv_2020.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Andriyivskyy Uzviz",
+            "Volodymyrska Hill"
+          ]
+        },
+        {
+          "name": "Golden Gate of Kyiv",
+          "wiki_title": "Golden Gate, Kyiv",
+          "lat": 50.4488,
+          "lng": 30.5133,
+          "order_index": 5,
+          "description": "The monumental medieval gateway that protected the ancient administrative heart of Kyiv.",
+          "seo_phrase": "Golden Gate Kyiv Guide | Ancient Fortress Gateway History",
+          "seo_keywords": [
+            "Golden Gate Kyiv",
+            "Kyiv ancient walls",
+            "medieval fortifications Ukraine",
+            "Zoloti Vorota guide"
+          ],
+          "commons_file": "Golden Gate Kyiv 2013.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Golden_Gate_Kyiv_2013.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Saint Sophia Cathedral",
+            "National Opera of Ukraine"
+          ]
+        },
+        {
+          "name": "Mariinskyi Palace",
+          "wiki_title": "Mariinskyi Palace",
+          "lat": 50.4483,
+          "lng": 30.5375,
+          "order_index": 6,
+          "description": "The gorgeous turquoise Baroque palace utilized for primary official state receptions.",
+          "seo_phrase": "Mariinskyi Palace Kyiv | Presidential Ceremonial Residence",
+          "seo_keywords": [
+            "Mariinskyi Palace",
+            "Kyiv presidential residence",
+            "Rastrelli palace Ukraine",
+            "Mariinsky park landmark"
+          ],
+          "commons_file": "Mariinsky Palace Kyiv 2020.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Mariinsky_Palace_Kyiv_2020.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Verkhovna Rada Building",
+            "Mariinskyi Park"
+          ]
+        },
+        {
+          "name": "Khreschatyk Street",
+          "wiki_title": "Khreschatyk",
+          "lat": 50.4494,
+          "lng": 30.5233,
+          "order_index": 7,
+          "description": "The spacious, stately main avenue passing through the very center of Ukraine's capital.",
+          "seo_phrase": "Khreschatyk Street Kyiv | Main Boulevard Travel Guide",
+          "seo_keywords": [
+            "Khreschatyk Street",
+            "Kyiv main avenue",
+            "Kyiv boulevard shopping",
+            "Stalinist empire style Ukraine"
+          ],
+          "commons_file": "Khreschatyk Street Kyiv.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Khreschatyk_Street_Kyiv.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Independence Square",
+            "National Opera of Ukraine"
+          ]
+        },
+        {
+          "name": "Volodymyrska Hill",
+          "wiki_title": "Volodymyrska Hirka",
+          "lat": 50.4561,
+          "lng": 30.5261,
+          "order_index": 8,
+          "description": "A tranquil, elevated riverside park featuring iconic historic monuments and viewing gazebos.",
+          "seo_phrase": "Volodymyrska Hill Park Kyiv | Scenic Viewpoints & History",
+          "seo_keywords": [
+            "Volodymyrska Hill",
+            "Kyiv scenic overlook",
+            "St Vladimir monument Kyiv",
+            "Dnipro river views park"
+          ],
+          "commons_file": "Volodymyrska Hill Kyiv 2018.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Volodymyrska_Hill_Kyiv_2018.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Michael's Golden-Domed Monastery",
+            "Kyiv Funicular"
+          ]
+        },
+        {
+          "name": "National Opera of Ukraine",
+          "wiki_title": "National Opera of Ukraine",
+          "lat": 50.4469,
+          "lng": 30.5122,
+          "order_index": 9,
+          "description": "A historic, grand theatrical venue showcasing elite classical ballet and operatic arts.",
+          "seo_phrase": "National Opera of Ukraine Kyiv | Architecture & Tickets",
+          "seo_keywords": [
+            "National Opera Ukraine",
+            "Kyiv ballet tickets",
+            "Neo Renaissance Kyiv",
+            "Kyiv theatre architecture"
+          ],
+          "commons_file": "National Opera House of Ukraine, Kyiv.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/National_Opera_House_of_Ukraine%2C_Kyiv.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Golden Gate",
+            "Khreschatyk Street"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Lviv",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Lviv",
+      "seo": {
+        "title": "Top 10 Things to Do in Lviv, Ukraine",
+        "description": "Discover 10 must-see landmarks in Lviv, Ukraine. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Lviv? Explore the best places to visit in Lviv, Ukraine.",
+        "keywords": [
+          "things to do in Lviv",
+          "Lviv Ukraine travel guide",
+          "best places to visit in Lviv",
+          "Lviv landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Rynok Square",
+          "wiki_title": "Rynok Square",
+          "lat": 49.8417,
+          "lng": 24.0315,
+          "order_index": 0,
+          "description": "The historic, cobblestone market square forming the historic core of old-town Lviv.",
+          "seo_phrase": "Rynok Square Lviv | Historic Market Plaza Travel Guide",
+          "seo_keywords": [
+            "Rynok Square Lviv",
+            "Lviv market plaza",
+            "Lviv old town UNESCO",
+            "Renaissance houses Lviv"
+          ],
+          "commons_file": "Ploshcha Rynok Lviv 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ploshcha_Rynok_Lviv_2019.jpg",
+          "seo_priority": 99,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Lviv Town Hall",
+            "Latin Cathedral"
+          ]
+        },
+        {
+          "name": "Lviv Opera House",
+          "wiki_title": "Lviv Theatre of Opera and Ballet",
+          "lat": 49.8444,
+          "lng": 24.0263,
+          "order_index": 1,
+          "description": "An outstanding Neo-Renaissance opera theater commanding the central promenade of Lviv.",
+          "seo_phrase": "Lviv Opera House Guide | Classical Neo-Renaissance Theater",
+          "seo_keywords": [
+            "Lviv Opera House",
+            "Lviv ballet theatre",
+            "Gorgolewski architecture",
+            "Svobody avenue landmark"
+          ],
+          "commons_file": "Lviv Opera House 2020.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Lviv_Opera_House_2020.jpg",
+          "seo_priority": 97,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Svobody Avenue",
+            "Armenian Cathedral"
+          ]
+        },
+        {
+          "name": "Armenian Cathedral",
+          "wiki_title": "Armenian Cathedral, Lviv",
+          "lat": 49.8433,
+          "lng": 24.0311,
+          "order_index": 2,
+          "description": "One of Lviv's oldest architectural structures, featuring an exceptionally mystical ambiance.",
+          "seo_phrase": "Armenian Cathedral Lviv | Unique 14th-Century Frescoes",
+          "seo_keywords": [
+            "Armenian Cathedral Lviv",
+            "Virmenska church Lviv",
+            "Jan Henryk Rosen frescoes",
+            "14th century architecture"
+          ],
+          "commons_file": "Armenian Cathedral Lviv 2018.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Armenian_Cathedral_Lviv_2018.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Virmenska Street",
+            "Dominican Church"
+          ]
+        },
+        {
+          "name": "House of Scientists",
+          "wiki_title": "House of Scientists (Lviv",
+          "lat": 49.8411,
+          "lng": 24.0214,
+          "order_index": 3,
+          "description": "A stunning Neo-Baroque palace legendary for its spectacular carved wooden interiors.",
+          "seo_phrase": "House of Scientists Lviv | Famous Neo-Baroque Oak Staircase",
+          "seo_keywords": [
+            "House of Scientists Lviv",
+            "Fellner Helmer architecture Lviv",
+            "Neo Baroque Lviv",
+            "Lviv photo locations"
+          ],
+          "commons_file": "House of Scientists Lviv 2020.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/House_of_Scientists_Lviv_2020.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Ivan Franko Park",
+            "Potocki Palace"
+          ]
+        },
+        {
+          "name": "Latin Cathedral",
+          "wiki_title": "Latin Cathedral, Lviv",
+          "lat": 49.8408,
+          "lng": 24.0303,
+          "order_index": 4,
+          "description": "A historic cathedral presenting tall Gothic pillars and rich historic interior chapels.",
+          "seo_phrase": "Latin Cathedral Lviv | Gothic and Baroque Ecclesiastical History",
+          "seo_keywords": [
+            "Latin Cathedral Lviv",
+            "Lviv Gothic architecture",
+            "Casimir III cathedral",
+            "historic churches Lviv"
+          ],
+          "commons_file": "Latin Cathedral Lviv 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Latin_Cathedral_Lviv_2019.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Rynok Square",
+            "Boim Chapel exterior"
+          ]
+        },
+        {
+          "name": "Italian Courtyard",
+          "wiki_title": "Korniakt Palace",
+          "lat": 49.8419,
+          "lng": 24.0322,
+          "order_index": 5,
+          "description": "A beautifully balanced Renaissance open-air courtyard hidden inside a merchant palace.",
+          "seo_phrase": "Italian Courtyard Lviv | Renaissance Korniakt House Guide",
+          "seo_keywords": [
+            "Italian Courtyard Lviv",
+            "Korniakt Palace",
+            "Renaissance arcades Ukraine",
+            "Rynok square hidden spots"
+          ],
+          "commons_file": "Italian Courtyard Lviv 2016.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Italian_Courtyard_Lviv_2016.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Rynok Square",
+            "Lviv History Museum"
+          ]
+        },
+        {
+          "name": "High Castle Park Viewpoint",
+          "wiki_title": "High Castle Park",
+          "lat": 49.8484,
+          "lng": 24.0394,
+          "order_index": 6,
+          "description": "An elevated park and historic observation deck showcasing absolute views of Lviv's landscape.",
+          "seo_phrase": "Lviv High Castle Viewpoint | Best Panoramic Views of the City",
+          "seo_keywords": [
+            "Lviv High Castle",
+            "Lviv view points",
+            "High castle hill park",
+            "King Leo Halych history"
+          ],
+          "commons_file": "High Castle Hill Lviv 2017.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/High_Castle_Hill_Lviv_2017.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Old Town Foothills",
+            "St. Nicholas Church"
+          ]
+        },
+        {
+          "name": "Bernardine Church",
+          "wiki_title": "Bernardine Church and Monastery, Lviv",
+          "lat": 49.8397,
+          "lng": 24.0347,
+          "order_index": 7,
+          "description": "A stunning, historically fortified temple complex boasting rich wooden altars.",
+          "seo_phrase": "Bernardine Church Lviv | Mannerist Fortified Temple Guide",
+          "seo_keywords": [
+            "Bernardine Church Lviv",
+            "Mannerist architecture Ukraine",
+            "Lviv defense history",
+            "St Andrew church Lviv"
+          ],
+          "commons_file": "Bernardine Church Lviv 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bernardine_Church_Lviv_2019.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Hlyniany Gate",
+            "Rynok Square"
+          ]
+        },
+        {
+          "name": "Dominican Church",
+          "wiki_title": "Dominican Church, Lviv",
+          "lat": 49.8428,
+          "lng": 24.0344,
+          "order_index": 8,
+          "description": "A towering late-Baroque monument dominating old Lviv's eastern skyline profile.",
+          "seo_phrase": "Dominican Church Lviv | Grand Late Baroque Architecture",
+          "seo_keywords": [
+            "Dominican Church Lviv",
+            "Jan de Witte architect",
+            "Lviv Baroque landmarks",
+            "Greek Catholic shrines Lviv"
+          ],
+          "commons_file": "Dominican Church Lviv 2020.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Dominican_Church_Lviv_2020.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Armenian Cathedral",
+            "Royal Arsenal exterior"
+          ]
+        },
+        {
+          "name": "Potocki Palace",
+          "wiki_title": "Potocki Palace, Lviv",
+          "lat": 49.8379,
+          "lng": 24.0267,
+          "order_index": 9,
+          "description": "A grand, French-style classicist palace built for noble magnate residency.",
+          "seo_phrase": "Potocki Palace Lviv | French Classicist Art Museum Residence",
+          "seo_keywords": [
+            "Potocki Palace Lviv",
+            "Lviv art galleries",
+            "French classicism Ukraine",
+            "Potocki family estate"
+          ],
+          "commons_file": "Potocki Palace, Lviv 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Potocki_Palace%2C_Lviv_2019.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Kopernyka Street",
+            "Svobody Avenue"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Odesa",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Odesa",
+      "seo": {
+        "title": "Top 10 Things to Do in Odesa, Ukraine",
+        "description": "Discover 10 must-see landmarks in Odesa, Ukraine. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Odesa? Explore the best places to visit in Odesa, Ukraine.",
+        "keywords": [
+          "things to do in Odesa",
+          "Odesa Ukraine travel guide",
+          "best places to visit in Odesa",
+          "Odesa landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Odesa Opera House",
+          "wiki_title": "Odesa Opera and Ballet Theatre",
+          "lat": 46.4854,
+          "lng": 30.7411,
+          "order_index": 0,
+          "description": "An incredibly grand Neo-Baroque theatrical structure anchoring historical Odesa.",
+          "seo_phrase": "Odesa Opera House Guide | Masterpiece Theatre Architecture",
+          "seo_keywords": [
+            "Odesa Opera House",
+            "Fellner and Helmer Odesa",
+            "Black Sea culture",
+            "Neo Baroque theater Ukraine"
+          ],
+          "commons_file": "Odesa Opera and Ballet Theater 2020.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Odesa_Opera_and_Ballet_Theater_2020.jpg",
+          "seo_priority": 99,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Derybasivska Street",
+            "Primorsky Boulevard"
+          ]
+        },
+        {
+          "name": "Potemkin Stairs",
+          "wiki_title": "Potemkin Stairs",
+          "lat": 46.4883,
+          "lng": 30.7422,
+          "order_index": 1,
+          "description": "A world-famous monumental stairway engineered with perspective optical design principles.",
+          "seo_phrase": "Potemkin Stairs Odesa | Iconic Perspective Steps Monument",
+          "seo_keywords": [
+            "Potemkin Stairs",
+            "Odesa staircase monument",
+            "Odesa illusion stairs",
+            "Primorsky boulevard entrance"
+          ],
+          "commons_file": "Potemkin Stairs Odesa 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Potemkin_Stairs_Odesa_2019.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Primorsky Boulevard",
+            "Duke de Richelieu Monument"
+          ]
+        },
+        {
+          "name": "Derybasivska Street",
+          "wiki_title": "Derybasivska Street",
+          "lat": 46.4844,
+          "lng": 30.7364,
+          "order_index": 2,
+          "description": "The iconic, leafy pedestrian boulevard serving as the social heart of Odesa.",
+          "seo_phrase": "Derybasivska Street Odesa | Central Pedestrian Promenade Guide",
+          "seo_keywords": [
+            "Derybasivska Street",
+            "Odesa pedestrian avenue",
+            "Odesa city garden area",
+            "Jose de Ribas avenue"
+          ],
+          "commons_file": "Derybasivska Street Odesa 2018.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Derybasivska_Street_Odesa_2018.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Odesa City Garden",
+            "Passage Hotel Complex"
+          ]
+        },
+        {
+          "name": "The Passage Hotel Building",
+          "wiki_title": "Passage (Odesa",
+          "lat": 46.4839,
+          "lng": 30.7333,
+          "order_index": 3,
+          "description": "An architectural shopping arcade renowned for its intricate Neo-Baroque interior carvings.",
+          "seo_phrase": "The Passage Odesa | Historic Glass-Roof Shopping Arcade",
+          "seo_keywords": [
+            "Odesa Passage",
+            "Lev Vlodek architecture",
+            "Baroque shopping arcade",
+            "Odesa covered galleries"
+          ],
+          "commons_file": "Passage Odesa Inside 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Passage_Odesa_Inside_2019.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Derybasivska Street",
+            "Transfiguration Cathedral exterior"
+          ]
+        },
+        {
+          "name": "Primorsky Boulevard",
+          "wiki_title": "Primorsky Boulevard",
+          "lat": 46.4878,
+          "lng": 30.7417,
+          "order_index": 4,
+          "description": "A beautiful, historic clifftop boulevard facing the Black Sea maritime harbor.",
+          "seo_phrase": "Primorsky Boulevard Odesa | Elegant Seaside Promenade Tour",
+          "seo_keywords": [
+            "Primorsky Boulevard",
+            "Odesa seaside avenue",
+            "Classicist architecture Odesa",
+            "Duke de Richelieu square"
+          ],
+          "commons_file": "Primorsky Boulevard Odesa 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Primorsky_Boulevard_Odesa_2019.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Potemkin Stairs",
+            "Vorontsov Palace exterior"
+          ]
+        },
+        {
+          "name": "Odesa City Garden",
+          "wiki_title": "City Garden (Odesa",
+          "lat": 46.4847,
+          "lng": 30.7344,
+          "order_index": 5,
+          "description": "The oldest city park in Odesa, located adjacent to Derybasivska Street.",
+          "seo_phrase": "Odesa City Garden | Oldest Public Park Attractions",
+          "seo_keywords": [
+            "Odesa City Garden",
+            "Felix de Ribas park",
+            "Odesa musical fountain",
+            "central parks Odesa"
+          ],
+          "commons_file": "City Garden Odesa 2017.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/City_Garden_Odesa_2017.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Derybasivska Street",
+            "Passage Building"
+          ]
+        },
+        {
+          "name": "Witch House of Odesa",
+          "wiki_title": "Каталог пам'яток архітектури Одеси",
+          "lat": 46.4892,
+          "lng": 30.7392,
+          "order_index": 6,
+          "description": "A historic residential home famous for its unique optical illusion.",
+          "seo_phrase": "Witch House of Odesa | Famous Flat Wall Optical Illusion",
+          "seo_keywords": [
+            "Witch House Odesa",
+            "Flat house Odesa",
+            "Odesa optical illusions",
+            "Vorontsov lane landmark"
+          ],
+          "commons_file": "Witch House Odesa 2016.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Witch_House_Odesa_2016.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Vorontsov Palace exterior",
+            "Primorsky Boulevard"
+          ]
+        },
+        {
+          "name": "Odesa Archaeological Museum exterior",
+          "wiki_title": "Odesa Archaeological Museum",
+          "lat": 46.4847,
+          "lng": 30.7428,
+          "order_index": 7,
+          "description": "A stately, historic museum structure built in the style of an ancient Greek temple.",
+          "seo_phrase": "Odesa Archaeological Museum | Classical Neoclassical Architecture",
+          "seo_keywords": [
+            "Odesa Archaeological Museum",
+            "Neoclassical architecture Odesa",
+            "Odesa cultural buildings",
+            "Laocoon group statue"
+          ],
+          "commons_file": "Archaeological Museum Odesa 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Archaeological_Museum_Odesa_2019.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Odesa Opera House",
+            "Duma Square"
+          ]
+        },
+        {
+          "name": "Shah's Palace",
+          "wiki_title": "Shah's Palace",
+          "lat": 46.4897,
+          "lng": 30.7378,
+          "order_index": 8,
+          "description": "An authentic Neo-Gothic palace resembling a historic British fortress castle.",
+          "seo_phrase": "Shah's Palace Odesa | Neo-Gothic Architectural Landmark",
+          "seo_keywords": [
+            "Shahs Palace Odesa",
+            "Neo Gothic Ukraine",
+            "Feliks Gasiorowski architect",
+            "Odesa coastal estates"
+          ],
+          "commons_file": "Shah Palace Odesa 2018.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Shah_Palace_Odesa_2018.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Teschin Bridge",
+            "Vorontsov Palace exterior"
+          ]
+        },
+        {
+          "name": "Odesa Fine Arts Museum exterior",
+          "wiki_title": "Odesa Fine Arts Museum",
+          "lat": 46.4925,
+          "lng": 30.7303,
+          "order_index": 9,
+          "description": "An elegant, early 19th-century classicist palace structure built for aristocratic families.",
+          "seo_phrase": "Odesa Fine Arts Museum Building | Classicist Potocki Palace",
+          "seo_keywords": [
+            "Odesa Fine Arts Museum",
+            "Sofiivska street Odesa",
+            "Potocki palace Odesa",
+            "classicist estates Ukraine"
+          ],
+          "commons_file": "Odesa Fine Arts Museum 2020.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Odesa_Fine_Arts_Museum_2020.jpg",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Shah's Palace",
+            "Sofiivska Street"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Chernivtsi",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Chernivtsi",
+      "seo": {
+        "title": "Top 10 Things to Do in Chernivtsi, Ukraine",
+        "description": "Discover 10 must-see landmarks in Chernivtsi, Ukraine. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Chernivtsi? Explore the best places to visit in Chernivtsi, Ukraine.",
+        "keywords": [
+          "things to do in Chernivtsi",
+          "Chernivtsi Ukraine travel guide",
+          "best places to visit in Chernivtsi",
+          "Chernivtsi landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Residence of Bukovinian and Dalmatian Metropolitans",
+          "wiki_title": "Residence of Bukovinian and Dalmatian Metropolitans",
+          "lat": 48.2971,
+          "lng": 25.9244,
+          "order_index": 0,
+          "description": "A stunning, red-brick architectural marvel combining Byzantine, Gothic, and Moorish styles.",
+          "seo_phrase": "Residence of Bukovinian Metropolitans | UNESCO Chernivtsi Guide",
+          "seo_keywords": [
+            "Chernivtsi University",
+            "Bukovinian Metropolitans Residence",
+            "Josef Hlavka architecture",
+            "UNESCO sites western Ukraine"
+          ],
+          "commons_file": "Chernivtsi University 2020.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Chernivtsi_University_2020.jpg",
+          "seo_priority": 100,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Universytetska Street",
+            "Central Square"
+          ]
+        },
+        {
+          "name": "Olha Kobylianska Street",
+          "wiki_title": "Вулиця Ольги Кобилянської (Чернівці",
+          "lat": 48.2892,
+          "lng": 25.9361,
+          "order_index": 1,
+          "description": "A beautifully preserved pedestrian avenue filled with cafes, historic bookshops, and boutiques.",
+          "seo_phrase": "Olha Kobylianska Street Chernivtsi | Pedestrian Promenade Guide",
+          "seo_keywords": [
+            "Olha Kobylianska Street",
+            "Chernivtsi pedestrian zone",
+            "Viennese Secession Ukraine",
+            "Little Vienna landmarks"
+          ],
+          "commons_file": "Olha Kobylianska Street Chernivtsi 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Olha_Kobylianska_Street_Chernivtsi_2019.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Central Square",
+            "Regional Museum"
+          ]
+        },
+        {
+          "name": "Olha Kobylianska Music Drama Theater",
+          "wiki_title": "Chernivtsi Musical-Dramatic Theater",
+          "lat": 48.2919,
+          "lng": 25.9319,
+          "order_index": 2,
+          "description": "An exceptional Viennese Neo-Baroque theater dominating central Theater Square.",
+          "seo_phrase": "Chernivtsi Drama Theater | Fellner & Helmer Architectural Masterpiece",
+          "seo_keywords": [
+            "Chernivtsi Drama Theater",
+            "Fellner Helmer theater Ukraine",
+            "Viennese Neo Baroque",
+            "Olha Kobylianska theater history"
+          ],
+          "commons_file": "Chernivtsi Drama Theater 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Chernivtsi_Drama_Theater_2019.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Theater Square",
+            "Jewish National House"
+          ]
+        },
+        {
+          "name": "Chernivtsi City Hall",
+          "wiki_title": "Черніветька ратуша",
+          "lat": 48.2914,
+          "lng": 25.9347,
+          "order_index": 3,
+          "description": "A grand, pastel-blue neoclassical administrative hall featuring an elegant central clock tower.",
+          "seo_phrase": "Chernivtsi City Hall | Historic Clock Tower Landmark",
+          "seo_keywords": [
+            "Chernivtsi City Hall",
+            "Chernivtsi Ratusha",
+            "Central Square clock tower",
+            "neoclassical town halls"
+          ],
+          "commons_file": "Chernivtsi City Hall 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Chernivtsi_City_Hall_2019.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Central Square",
+            "Olha Kobylianska Street"
+          ]
+        },
+        {
+          "name": "Chernivtsi Theater Square",
+          "wiki_title": "Театральна площа (Чернівці",
+          "lat": 48.2917,
+          "lng": 25.9322,
+          "order_index": 4,
+          "description": "A historic, sunken garden square showcasing majestic Viennese-style public structures.",
+          "seo_phrase": "Theater Square Chernivtsi | Imperial Cultural Plaza Guide",
+          "seo_keywords": [
+            "Chernivtsi Theater Square",
+            "Teatralna ploshcha Chernivtsi",
+            "Austrian empire architecture",
+            "Chernivtsi city walks"
+          ],
+          "commons_file": "Theater Square Chernivtsi 2018.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Theater_Square_Chernivtsi_2018.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Olha Kobylianska Music Drama Theater",
+            "Jewish National House"
+          ]
+        },
+        {
+          "name": "House of Culture",
+          "wiki_title": "Театральна площа (Чернівці",
+          "lat": 48.2922,
+          "lng": 25.9328,
+          "order_index": 5,
+          "description": "An impressive, historic neo-Renaissance building flanking the cultural core of Chernivtsi.",
+          "seo_phrase": "Jewish National House Chernivtsi | Historic Civic Architecture",
+          "seo_keywords": [
+            "Jewish National House Chernivtsi",
+            "Julius Bochner architect",
+            "neo Renaissance Chernivtsi",
+            "Theater square buildings"
+          ],
+          "commons_file": "Jewish National House Chernivtsi 2018.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Jewish_National_House_Chernivtsi_2018.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Theater Square",
+            "Olha Kobylianska Music Drama Theater"
+          ]
+        },
+        {
+          "name": "Chernivtsi",
+          "wiki_title": "Chernivtsi",
+          "lat": 48.3,
+          "lng": 25.93333333,
+          "order_index": 6,
+          "description": "Chernivtsi — a notable landmark in Chernivtsi, Ukraine.",
+          "seo_phrase": "Chernivtsi",
+          "seo_keywords": [
+            "Chernivtsi",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Пл.Центральна, 10 DSC 8826.jpg/800px-Пл.Центральна, 10 DSC 8826.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/%D0%9F%D0%BB.%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%2C_10_DSC_8826.jpg/800px-%D0%9F%D0%BB.%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%2C_10_DSC_8826.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Khmelnytskyi",
+          "wiki_title": "Khmelnytskyi",
+          "lat": 49.41666667,
+          "lng": 27,
+          "order_index": 7,
+          "description": "Khmelnytskyi — a notable landmark in Chernivtsi, Ukraine.",
+          "seo_phrase": "Khmelnytskyi",
+          "seo_keywords": [
+            "Chernivtsi",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Будинок ХОХМ 03.jpg/800px-Будинок ХОХМ 03.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%A5%D0%9E%D0%A5%D0%9C_03.jpg/800px-%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%A5%D0%9E%D0%A5%D0%9C_03.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Saint Sophia Cathedral",
+          "wiki_title": "Saint Sophia Cathedral, Kyiv",
+          "lat": 50.4528,
+          "lng": 30.5144,
+          "order_index": 8,
+          "description": "Saint Sophia Cathedral, Kyiv — a notable landmark in Chernivtsi, Ukraine.",
+          "seo_phrase": "Saint Sophia Cathedral",
+          "seo_keywords": [
+            "Chernivtsi",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "80-391-0151 Kyiv St.Sophia's Cathedral RB 18 2 (cropped).jpg/800px-80-391-0151 Kyiv St.Sophia's Cathedral RB 18 2 (cropped).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/80-391-0151_Kyiv_St.Sophia%27s_Cathedral_RB_18_2_%28cropped%29.jpg/800px-80-391-0151_Kyiv_St.Sophia%27s_Cathedral_RB_18_2_%28cropped%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Kamianets-Podilskyi",
+          "wiki_title": "Kamianets-Podilskyi",
+          "lat": 48.68333333,
+          "lng": 26.58333333,
+          "order_index": 9,
+          "description": "Kamianets-Podilskyi — a notable landmark in Chernivtsi, Ukraine.",
+          "seo_phrase": "Kamianets-Podilskyi",
+          "seo_keywords": [
+            "Chernivtsi",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Zamek w Kamieńcu Podolskim 2019.jpg/800px-Zamek w Kamieńcu Podolskim 2019.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Zamek_w_Kamie%C5%84cu_Podolskim_2019.jpg/800px-Zamek_w_Kamie%C5%84cu_Podolskim_2019.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Ivano-Frankivsk",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Ivano-Frankivsk",
+      "seo": {
+        "title": "Top 10 Things to Do in Ivano-Frankivsk, Ukraine",
+        "description": "Discover 10 must-see landmarks in Ivano-Frankivsk, Ukraine. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Ivano-Frankivsk? Explore the best places to visit in Ivano-Frankivsk, Ukraine.",
+        "keywords": [
+          "things to do in Ivano-Frankivsk",
+          "Ivano-Frankivsk Ukraine travel guide",
+          "best places to visit in Ivano-Frankivsk",
+          "Ivano-Frankivsk landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Halych",
+          "wiki_title": "Halych",
+          "lat": 49.12472222,
+          "lng": 24.72861111,
+          "order_index": 0,
+          "description": "Halych — a notable landmark in Ivano-Frankivsk, Ukraine.",
+          "seo_phrase": "Halych",
+          "seo_keywords": [
+            "Ivano-Frankivsk",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Galych-1.jpg/800px-Galych-1.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Galych-1.jpg/800px-Galych-1.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Ivano-Frankivsk",
+          "wiki_title": "Ivano-Frankivsk",
+          "lat": 48.92277778,
+          "lng": 24.71055556,
+          "order_index": 1,
+          "description": "Ivano-Frankivsk — a notable landmark in Ivano-Frankivsk, Ukraine.",
+          "seo_phrase": "Ivano-Frankivsk",
+          "seo_keywords": [
+            "Ivano-Frankivsk",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Ratush-01.jpg/800px-Ratush-01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ratush-01.jpg/800px-Ratush-01.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Nadvirna",
+          "wiki_title": "Nadvirna",
+          "lat": 48.63333333,
+          "lng": 24.58333333,
+          "order_index": 2,
+          "description": "Nadvirna — a notable landmark in Ivano-Frankivsk, Ukraine.",
+          "seo_phrase": "Nadvirna",
+          "seo_keywords": [
+            "Ivano-Frankivsk",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Надвірна - Гетьмана Мазепи, 29-1.jpg/800px-Надвірна - Гетьмана Мазепи, 29-1.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/%D0%9D%D0%B0%D0%B4%D0%B2%D1%96%D1%80%D0%BD%D0%B0_-_%D0%93%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B0_%D0%9C%D0%B0%D0%B7%D0%B5%D0%BF%D0%B8%2C_29-1.jpg/800px-%D0%9D%D0%B0%D0%B4%D0%B2%D1%96%D1%80%D0%BD%D0%B0_-_%D0%93%D0%B5%D1%82%D1%8C%D0%BC%D0%B0%D0%BD%D0%B0_%D0%9C%D0%B0%D0%B7%D0%B5%D0%BF%D0%B8%2C_29-1.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Kolomyia",
+          "wiki_title": "Kolomyia",
+          "lat": 48.53055556,
+          "lng": 25.04027778,
+          "order_index": 3,
+          "description": "Kolomyia — a notable landmark in Ivano-Frankivsk, Ukraine.",
+          "seo_phrase": "Kolomyia",
+          "seo_keywords": [
+            "Ivano-Frankivsk",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Ратуша Коломиї.jpg/800px-Ратуша Коломиї.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/%D0%A0%D0%B0%D1%82%D1%83%D1%88%D0%B0_%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D0%B8%D1%97.jpg/800px-%D0%A0%D0%B0%D1%82%D1%83%D1%88%D0%B0_%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D0%B8%D1%97.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Bohorodchany Raion",
+          "wiki_title": "Bohorodchany Raion",
+          "lat": 48.72305556,
+          "lng": 24.37972222,
+          "order_index": 4,
+          "description": "Bohorodchany Raion — a notable landmark in Ivano-Frankivsk, Ukraine.",
+          "seo_phrase": "Bohorodchany Raion",
+          "seo_keywords": [
+            "Ivano-Frankivsk",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Bogorodchanskyi-Raion.png/800px-Bogorodchanskyi-Raion.png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bogorodchanskyi-Raion.png/800px-Bogorodchanskyi-Raion.png",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Market Square",
+          "wiki_title": "Market Square, Ivano-Frankivsk",
+          "lat": 48.922479,
+          "lng": 24.710118,
+          "order_index": 5,
+          "description": "Market Square, Ivano-Frankivsk — a notable landmark in Ivano-Frankivsk, Ukraine.",
+          "seo_phrase": "Market Square",
+          "seo_keywords": [
+            "Ivano-Frankivsk",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Market Square (Ivano-Frankivsk).png/800px-Market Square (Ivano-Frankivsk).png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Market_Square_%28Ivano-Frankivsk%29.png/800px-Market_Square_%28Ivano-Frankivsk%29.png",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Sheptytsky Square",
+          "wiki_title": "Sheptytsky Square",
+          "lat": 48.92305556,
+          "lng": 24.70888889,
+          "order_index": 6,
+          "description": "Sheptytsky Square — a notable landmark in Ivano-Frankivsk, Ukraine.",
+          "seo_phrase": "Sheptytsky Square",
+          "seo_keywords": [
+            "Ivano-Frankivsk",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Станіславівська колегіата P1300849.jpg/800px-Станіславівська колегіата P1300849.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/%D0%A1%D1%82%D0%B0%D0%BD%D1%96%D1%81%D0%BB%D0%B0%D0%B2%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BB%D0%B5%D0%B3%D1%96%D0%B0%D1%82%D0%B0_P1300849.jpg/800px-%D0%A1%D1%82%D0%B0%D0%BD%D1%96%D1%81%D0%BB%D0%B0%D0%B2%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BB%D0%B5%D0%B3%D1%96%D0%B0%D1%82%D0%B0_P1300849.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Kosiv",
+          "wiki_title": "Kosiv",
+          "lat": 48.315,
+          "lng": 25.09527778,
+          "order_index": 7,
+          "description": "Kosiv — a notable landmark in Ivano-Frankivsk, Ukraine.",
+          "seo_phrase": "Kosiv",
+          "seo_keywords": [
+            "Ivano-Frankivsk",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Kosiv City Hall and Regional Administration.jpg/800px-Kosiv City Hall and Regional Administration.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kosiv_City_Hall_and_Regional_Administration.jpg/800px-Kosiv_City_Hall_and_Regional_Administration.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Western Ukraine",
+          "wiki_title": "Western Ukraine",
+          "lat": 50,
+          "lng": 26,
+          "order_index": 8,
+          "description": "Western Ukraine — a notable landmark in Ivano-Frankivsk, Ukraine.",
+          "seo_phrase": "Western Ukraine",
+          "seo_keywords": [
+            "Ivano-Frankivsk",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Western Ukr.png/800px-Western Ukr.png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Western_Ukr.png/800px-Western_Ukr.png",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Horodenka",
+          "wiki_title": "Horodenka",
+          "lat": 48.6675,
+          "lng": 25.50027778,
+          "order_index": 9,
+          "description": "Horodenka — a notable landmark in Ivano-Frankivsk, Ukraine.",
+          "seo_phrase": "Horodenka",
+          "seo_keywords": [
+            "Ivano-Frankivsk",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Городенка.Костел Непорочного Зачаття Діви Марії.JPG/800px-Городенка.Костел Непорочного Зачаття Діви Марії.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B5%D0%BD%D0%BA%D0%B0.%D0%9A%D0%BE%D1%81%D1%82%D0%B5%D0%BB_%D0%9D%D0%B5%D0%BF%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE_%D0%97%D0%B0%D1%87%D0%B0%D1%82%D1%82%D1%8F_%D0%94%D1%96%D0%B2%D0%B8_%D0%9C%D0%B0%D1%80%D1%96%D1%97.JPG/800px-%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B5%D0%BD%D0%BA%D0%B0.%D0%9A%D0%BE%D1%81%D1%82%D0%B5%D0%BB_%D0%9D%D0%B5%D0%BF%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE_%D0%97%D0%B0%D1%87%D0%B0%D1%82%D1%82%D1%8F_%D0%94%D1%96%D0%B2%D0%B8_%D0%9C%D0%B0%D1%80%D1%96%D1%97.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Kamianets-Podilskyi",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Kamianets-Podilskyi",
+      "seo": {
+        "title": "Top 10 Things to Do in Kamianets-Podilskyi, Ukraine",
+        "description": "Discover 10 must-see landmarks in Kamianets-Podilskyi, Ukraine. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Kamianets-Podilskyi? Explore the best places to visit in Kamianets-Podilskyi, Ukraine.",
+        "keywords": [
+          "things to do in Kamianets-Podilskyi",
+          "Kamianets-Podilskyi Ukraine travel guide",
+          "best places to visit in Kamianets-Podilskyi",
+          "Kamianets-Podilskyi landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Kamianets-Podilskyi Castle",
+          "wiki_title": "Kamianets-Podilskyi Castle",
+          "lat": 48.67333333,
+          "lng": 26.5625,
+          "order_index": 0,
+          "description": "Kamianets-Podilskyi Castle — a notable landmark in Kamianets-Podilskyi, Ukraine.",
+          "seo_phrase": "Kamianets-Podilskyi Castle",
+          "seo_keywords": [
+            "Kamianets-Podilskyi",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Зимова фортеця.jpg/800px-Зимова фортеця.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%97%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F.jpg/800px-%D0%97%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Diocese of Kamianets-Podilskyi",
+          "wiki_title": "Diocese of Kamianets-Podilskyi",
+          "lat": 48.67666667,
+          "lng": 26.57194444,
+          "order_index": 1,
+          "description": "Diocese of Kamianets-Podilskyi — a notable landmark in Kamianets-Podilskyi, Ukraine.",
+          "seo_phrase": "Diocese of Kamianets-Podilskyi",
+          "seo_keywords": [
+            "Kamianets-Podilskyi",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Костьол Св.Петра i Павла.jpg/800px-Костьол Св.Петра i Павла.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/%D0%9A%D0%BE%D1%81%D1%82%D1%8C%D0%BE%D0%BB_%D0%A1%D0%B2.%D0%9F%D0%B5%D1%82%D1%80%D0%B0_i_%D0%9F%D0%B0%D0%B2%D0%BB%D0%B0.jpg/800px-%D0%9A%D0%BE%D1%81%D1%82%D1%8C%D0%BE%D0%BB_%D0%A1%D0%B2.%D0%9F%D0%B5%D1%82%D1%80%D0%B0_i_%D0%9F%D0%B0%D0%B2%D0%BB%D0%B0.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Sts. Peter and Paul Cathedral",
+          "wiki_title": "Sts. Peter and Paul Cathedral, Kamianets-Podilskyi",
+          "lat": 48.6767,
+          "lng": 26.5719,
+          "order_index": 2,
+          "description": "Sts. Peter and Paul Cathedral, Kamianets-Podilskyi — a notable landmark in Kamianets-Podilskyi, Ukraine.",
+          "seo_phrase": "Sts. Peter and Paul Cathedral",
+          "seo_keywords": [
+            "Kamianets-Podilskyi",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Костьол Св.Петра i Павла.jpg/800px-Костьол Св.Петра i Павла.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/%D0%9A%D0%BE%D1%81%D1%82%D1%8C%D0%BE%D0%BB_%D0%A1%D0%B2.%D0%9F%D0%B5%D1%82%D1%80%D0%B0_i_%D0%9F%D0%B0%D0%B2%D0%BB%D0%B0.jpg/800px-%D0%9A%D0%BE%D1%81%D1%82%D1%8C%D0%BE%D0%BB_%D0%A1%D0%B2.%D0%9F%D0%B5%D1%82%D1%80%D0%B0_i_%D0%9F%D0%B0%D0%B2%D0%BB%D0%B0.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Palanok Castle",
+          "wiki_title": "Palanok Castle",
+          "lat": 48.431507,
+          "lng": 22.687798,
+          "order_index": 3,
+          "description": "Palanok Castle — a notable landmark in Kamianets-Podilskyi, Ukraine.",
+          "seo_phrase": "Palanok Castle",
+          "seo_keywords": [
+            "Kamianets-Podilskyi",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Замок із висоти пташиного польоту 1.JPG/800px-Замок із висоти пташиного польоту 1.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D1%96%D0%B7_%D0%B2%D0%B8%D1%81%D0%BE%D1%82%D0%B8_%D0%BF%D1%82%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D0%BE%D0%BB%D1%8C%D0%BE%D1%82%D1%83_1.JPG/800px-%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D1%96%D0%B7_%D0%B2%D0%B8%D1%81%D0%BE%D1%82%D0%B8_%D0%BF%D1%82%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D0%BE%D0%BB%D1%8C%D0%BE%D1%82%D1%83_1.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Khotyn Fortress",
+          "wiki_title": "Khotyn Fortress",
+          "lat": 48.52194444,
+          "lng": 26.49833333,
+          "order_index": 4,
+          "description": "Khotyn Fortress — a notable landmark in Kamianets-Podilskyi, Ukraine.",
+          "seo_phrase": "Khotyn Fortress",
+          "seo_keywords": [
+            "Kamianets-Podilskyi",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "73-250-0001 Khotyn Fortress RB 18.jpg/800px-73-250-0001 Khotyn Fortress RB 18.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/73-250-0001_Khotyn_Fortress_RB_18.jpg/800px-73-250-0001_Khotyn_Fortress_RB_18.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Siege of Kamenets",
+          "wiki_title": "Siege of Kamenets",
+          "lat": 48.67333333,
+          "lng": 26.5625,
+          "order_index": 5,
+          "description": "Siege of Kamenets — a notable landmark in Kamianets-Podilskyi, Ukraine.",
+          "seo_phrase": "Siege of Kamenets",
+          "seo_keywords": [
+            "Kamianets-Podilskyi",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "KamianecPod1875.jpg/800px-KamianecPod1875.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/KamianecPod1875.jpg/800px-KamianecPod1875.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Kudryntsi Castle",
+          "wiki_title": "Kudryntsi Castle",
+          "lat": 48.61,
+          "lng": 26.28,
+          "order_index": 6,
+          "description": "Kudryntsi Castle — a notable landmark in Kamianets-Podilskyi, Ukraine.",
+          "seo_phrase": "Kudryntsi Castle",
+          "seo_keywords": [
+            "Kamianets-Podilskyi",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Руїни Кудринецького замку у вечірньому світлі.jpg/800px-Руїни Кудринецького замку у вечірньому світлі.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/%D0%A0%D1%83%D1%97%D0%BD%D0%B8_%D0%9A%D1%83%D0%B4%D1%80%D0%B8%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%BC%D0%BA%D1%83_%D1%83_%D0%B2%D0%B5%D1%87%D1%96%D1%80%D0%BD%D1%8C%D0%BE%D0%BC%D1%83_%D1%81%D0%B2%D1%96%D1%82%D0%BB%D1%96.jpg/800px-%D0%A0%D1%83%D1%97%D0%BD%D0%B8_%D0%9A%D1%83%D0%B4%D1%80%D0%B8%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%BC%D0%BA%D1%83_%D1%83_%D0%B2%D0%B5%D1%87%D1%96%D1%80%D0%BD%D1%8C%D0%BE%D0%BC%D1%83_%D1%81%D0%B2%D1%96%D1%82%D0%BB%D1%96.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Zbarazh Castle",
+          "wiki_title": "Zbarazh Castle",
+          "lat": 49.66333333,
+          "lng": 25.78527778,
+          "order_index": 7,
+          "description": "Zbarazh Castle — a notable landmark in Kamianets-Podilskyi, Ukraine.",
+          "seo_phrase": "Zbarazh Castle",
+          "seo_keywords": [
+            "Kamianets-Podilskyi",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Збаразький замок DSC7849.jpg/800px-Збаразький замок DSC7849.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%D0%97%D0%B1%D0%B0%D1%80%D0%B0%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA_DSC7849.jpg/800px-%D0%97%D0%B1%D0%B0%D1%80%D0%B0%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA_DSC7849.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Smotrych",
+          "wiki_title": "Smotrych, Khmelnytskyi Oblast",
+          "lat": 48.94694444,
+          "lng": 26.56027778,
+          "order_index": 8,
+          "description": "Smotrych, Khmelnytskyi Oblast — a notable landmark in Kamianets-Podilskyi, Ukraine.",
+          "seo_phrase": "Smotrych",
+          "seo_keywords": [
+            "Kamianets-Podilskyi",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Домініканський костьол св. Миколая, у смт Смотрич.jpg/800px-Домініканський костьол св. Миколая, у смт Смотрич.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/%D0%94%D0%BE%D0%BC%D1%96%D0%BD%D1%96%D0%BA%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%81%D1%82%D1%8C%D0%BE%D0%BB_%D1%81%D0%B2._%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%8F%2C_%D1%83_%D1%81%D0%BC%D1%82_%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D1%87.jpg/800px-%D0%94%D0%BE%D0%BC%D1%96%D0%BD%D1%96%D0%BA%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%81%D1%82%D1%8C%D0%BE%D0%BB_%D1%81%D0%B2._%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%8F%2C_%D1%83_%D1%81%D0%BC%D1%82_%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D1%87.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Zhvanets",
+          "wiki_title": "Zhvanets",
+          "lat": 48.55,
+          "lng": 26.4875,
+          "order_index": 9,
+          "description": "Zhvanets — a notable landmark in Kamianets-Podilskyi, Ukraine.",
+          "seo_phrase": "Zhvanets",
+          "seo_keywords": [
+            "Kamianets-Podilskyi",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "ZwaniecZamek2.JPG/800px-ZwaniecZamek2.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/ZwaniecZamek2.JPG/800px-ZwaniecZamek2.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Uzhhorod",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Uzhhorod",
+      "seo": {
+        "title": "Top 10 Things to Do in Uzhhorod, Ukraine",
+        "description": "Discover 10 must-see landmarks in Uzhhorod, Ukraine. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Uzhhorod? Explore the best places to visit in Uzhhorod, Ukraine.",
+        "keywords": [
+          "things to do in Uzhhorod",
+          "Uzhhorod Ukraine travel guide",
+          "best places to visit in Uzhhorod",
+          "Uzhhorod landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Uzhhorod",
+          "wiki_title": "Uzhhorod",
+          "lat": 48.62388889,
+          "lng": 22.295,
+          "order_index": 0,
+          "description": "Uzhhorod — a notable landmark in Uzhhorod, Ukraine.",
+          "seo_phrase": "Uzhhorod",
+          "seo_keywords": [
+            "Uzhhorod",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Ужгородський кафедральний собор, аерофото 2.jpg/800px-Ужгородський кафедральний собор, аерофото 2.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%D0%A3%D0%B6%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80%2C_%D0%B0%D0%B5%D1%80%D0%BE%D1%84%D0%BE%D1%82%D0%BE_2.jpg/800px-%D0%A3%D0%B6%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80%2C_%D0%B0%D0%B5%D1%80%D0%BE%D1%84%D0%BE%D1%82%D0%BE_2.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Mukachevo",
+          "wiki_title": "Mukachevo",
+          "lat": 48.45,
+          "lng": 22.75,
+          "order_index": 1,
+          "description": "Mukachevo — a notable landmark in Uzhhorod, Ukraine.",
+          "seo_phrase": "Mukachevo",
+          "seo_keywords": [
+            "Uzhhorod",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Munkacsivar.jpg/800px-Munkacsivar.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Munkacsivar.jpg/800px-Munkacsivar.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Ruthenian Greek Catholic Church",
+          "wiki_title": "Ruthenian Greek Catholic Church",
+          "lat": 48.62305556,
+          "lng": 22.30222222,
+          "order_index": 2,
+          "description": "Ruthenian Greek Catholic Church — a notable landmark in Uzhhorod, Ukraine.",
+          "seo_phrase": "Ruthenian Greek Catholic Church",
+          "seo_keywords": [
+            "Uzhhorod",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "St.JohntheBaptistByzantineCatholicCathedral.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/St.JohntheBaptistByzantineCatholicCathedral.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Bar",
+          "wiki_title": "Bar, Ukraine",
+          "lat": 49.075,
+          "lng": 27.67611111,
+          "order_index": 3,
+          "description": "Bar, Ukraine — a notable landmark in Uzhhorod, Ukraine.",
+          "seo_phrase": "Bar",
+          "seo_keywords": [
+            "Uzhhorod",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Костел 1.1.jpg/800px-Костел 1.1.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/%D0%9A%D0%BE%D1%81%D1%82%D0%B5%D0%BB_1.1.jpg/800px-%D0%9A%D0%BE%D1%81%D1%82%D0%B5%D0%BB_1.1.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Arena Lviv",
+          "wiki_title": "Arena Lviv",
+          "lat": 49.77527778,
+          "lng": 24.02777778,
+          "order_index": 4,
+          "description": "Arena Lviv — a notable landmark in Uzhhorod, Ukraine.",
+          "seo_phrase": "Arena Lviv",
+          "seo_keywords": [
+            "Uzhhorod",
+            "Ukraine",
+            "travel"
+          ],
+          "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Lviv_Arena_Lviv_15.jpg/800px-Lviv_Arena_Lviv_15.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Uzhhorod Orthodox Cathedral",
+          "wiki_title": "Uzhhorod Orthodox Cathedral",
+          "lat": 48.61388889,
+          "lng": 22.29277778,
+          "order_index": 5,
+          "description": "Uzhhorod Orthodox Cathedral — a notable landmark in Uzhhorod, Ukraine.",
+          "seo_phrase": "Uzhhorod Orthodox Cathedral",
+          "seo_keywords": [
+            "Uzhhorod",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Uzhhorod Total View 1.JPG/800px-Uzhhorod Total View 1.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Uzhhorod_Total_View_1.JPG/800px-Uzhhorod_Total_View_1.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Greek Catholic Cathedral",
+          "wiki_title": "Greek Catholic Cathedral, Uzhhorod",
+          "lat": 48.62277778,
+          "lng": 22.30222222,
+          "order_index": 6,
+          "description": "Greek Catholic Cathedral, Uzhhorod — a notable landmark in Uzhhorod, Ukraine.",
+          "seo_phrase": "Greek Catholic Cathedral",
+          "seo_keywords": [
+            "Uzhhorod",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Cathedral of the Exaltation of the Holy Cross Uzhhorod 2009.jpg/800px-Cathedral of the Exaltation of the Holy Cross Uzhhorod 2009.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cathedral_of_the_Exaltation_of_the_Holy_Cross_Uzhhorod_2009.jpg/800px-Cathedral_of_the_Exaltation_of_the_Holy_Cross_Uzhhorod_2009.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Maria Theresia Garden Square (Uzhhorod)",
+          "wiki_title": "Maria Theresia Garden Square (Uzhhorod",
+          "lat": 48.622455,
+          "lng": 22.302183,
+          "order_index": 7,
+          "description": "Maria Theresia Garden Square (Uzhhorod) — a notable landmark in Uzhhorod, Ukraine.",
+          "seo_phrase": "Maria Theresia Garden Square (Uzhhorod)",
+          "seo_keywords": [
+            "Uzhhorod",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Ужгород Пам'ятник Марії-Терезії.jpg/800px-Ужгород Пам'ятник Марії-Терезії.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/%D0%A3%D0%B6%D0%B3%D0%BE%D1%80%D0%BE%D0%B4_%D0%9F%D0%B0%D0%BC%27%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%9C%D0%B0%D1%80%D1%96%D1%97-%D0%A2%D0%B5%D1%80%D0%B5%D0%B7%D1%96%D1%97.jpg/800px-%D0%A3%D0%B6%D0%B3%D0%BE%D1%80%D0%BE%D0%B4_%D0%9F%D0%B0%D0%BC%27%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%9C%D0%B0%D1%80%D1%96%D1%97-%D0%A2%D0%B5%D1%80%D0%B5%D0%B7%D1%96%D1%97.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": []
+        },
+        {
+          "name": "Museum of Folk Architecture and Life",
+          "wiki_title": "Museum of Folk Architecture and Life, Uzhhorod",
+          "lat": 48.62086111,
+          "lng": 22.30595833,
+          "order_index": 8,
+          "description": "Museum of Folk Architecture and Life, Uzhhorod — a notable landmark in Uzhhorod, Ukraine.",
+          "seo_phrase": "Museum of Folk Architecture and Life",
+          "seo_keywords": [
+            "Uzhhorod",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Замок-фортеця зображення 47.JPG/800px-Замок-фортеця зображення 47.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA-%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F_%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F_47.JPG/800px-%D0%97%D0%B0%D0%BC%D0%BE%D0%BA-%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F_%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F_47.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Olyka Castle",
+          "wiki_title": "Olyka Castle",
+          "lat": 50.72333333,
+          "lng": 25.80861111,
+          "order_index": 9,
+          "description": "Olyka Castle — a notable landmark in Uzhhorod, Ukraine.",
+          "seo_phrase": "Olyka Castle",
+          "seo_keywords": [
+            "Uzhhorod",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Olyka wieza2.jpg/800px-Olyka wieza2.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Olyka_wieza2.jpg/800px-Olyka_wieza2.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Lutsk",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Lutsk",
+      "seo": {
+        "title": "Top 10 Things to Do in Lutsk, Ukraine",
+        "description": "Discover 10 must-see landmarks in Lutsk, Ukraine. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Lutsk? Explore the best places to visit in Lutsk, Ukraine.",
+        "keywords": [
+          "things to do in Lutsk",
+          "Lutsk Ukraine travel guide",
+          "best places to visit in Lutsk",
+          "Lutsk landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Volhynia",
+          "wiki_title": "Volhynia",
+          "lat": 50.73888889,
+          "lng": 25.32333333,
+          "order_index": 0,
+          "description": "Volhynia — a notable landmark in Lutsk, Ukraine.",
+          "seo_phrase": "Volhynia",
+          "seo_keywords": [
+            "Lutsk",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "В'їзна (Надбрамна) башта замку Луцьк.jpg/800px-В'їзна (Надбрамна) башта замку Луцьк.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/%D0%92%27%D1%97%D0%B7%D0%BD%D0%B0_%28%D0%9D%D0%B0%D0%B4%D0%B1%D1%80%D0%B0%D0%BC%D0%BD%D0%B0%29_%D0%B1%D0%B0%D1%88%D1%82%D0%B0_%D0%B7%D0%B0%D0%BC%D0%BA%D1%83_%D0%9B%D1%83%D1%86%D1%8C%D0%BA.jpg/800px-%D0%92%27%D1%97%D0%B7%D0%BD%D0%B0_%28%D0%9D%D0%B0%D0%B4%D0%B1%D1%80%D0%B0%D0%BC%D0%BD%D0%B0%29_%D0%B1%D0%B0%D1%88%D1%82%D0%B0_%D0%B7%D0%B0%D0%BC%D0%BA%D1%83_%D0%9B%D1%83%D1%86%D1%8C%D0%BA.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Lutsk",
+          "wiki_title": "Lutsk",
+          "lat": 50.75,
+          "lng": 25.33583333,
+          "order_index": 1,
+          "description": "Lutsk — a notable landmark in Lutsk, Ukraine.",
+          "seo_phrase": "Lutsk",
+          "seo_keywords": [
+            "Lutsk",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Вежа луцького замку.jpg/800px-Вежа луцького замку.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/%D0%92%D0%B5%D0%B6%D0%B0_%D0%BB%D1%83%D1%86%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%BC%D0%BA%D1%83.jpg/800px-%D0%92%D0%B5%D0%B6%D0%B0_%D0%BB%D1%83%D1%86%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%BC%D0%BA%D1%83.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Volodymyr",
+          "wiki_title": "Volodymyr, Ukraine",
+          "lat": 50.84805556,
+          "lng": 24.32222222,
+          "order_index": 2,
+          "description": "Volodymyr, Ukraine — a notable landmark in Lutsk, Ukraine.",
+          "seo_phrase": "Volodymyr",
+          "seo_keywords": [
+            "Lutsk",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Volodymyr-Volyns'kiy Knyazay Vasyl'ka 2 Kostel Ioakima ta Anny 01 (YDS 6418).jpg/800px-Volodymyr-Volyns'kiy Knyazay Vasyl'ka 2 Kostel Ioakima ta Anny 01 (YDS 6418).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Volodymyr-Volyns%27kiy_Knyazay_Vasyl%27ka_2_Kostel_Ioakima_ta_Anny_01_%28YDS_6418%29.jpg/800px-Volodymyr-Volyns%27kiy_Knyazay_Vasyl%27ka_2_Kostel_Ioakima_ta_Anny_01_%28YDS_6418%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Zhytomyr",
+          "wiki_title": "Zhytomyr",
+          "lat": 50.25,
+          "lng": 28.66666667,
+          "order_index": 3,
+          "description": "Zhytomyr — a notable landmark in Lutsk, Ukraine.",
+          "seo_phrase": "Zhytomyr",
+          "seo_keywords": [
+            "Lutsk",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Будинок взаємного кредиту (міська рада) .jpg/800px-Будинок взаємного кредиту (міська рада) .jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B2%D0%B7%D0%B0%D1%94%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D1%83_%28%D0%BC%D1%96%D1%81%D1%8C%D0%BA%D0%B0_%D1%80%D0%B0%D0%B4%D0%B0%29_.jpg/800px-%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B2%D0%B7%D0%B0%D1%94%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D1%83_%28%D0%BC%D1%96%D1%81%D1%8C%D0%BA%D0%B0_%D1%80%D0%B0%D0%B4%D0%B0%29_.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Lubart's Castle",
+          "wiki_title": "Lubart's Castle",
+          "lat": 50.73888889,
+          "lng": 25.32333333,
+          "order_index": 4,
+          "description": "Lubart's Castle — a notable landmark in Lutsk, Ukraine.",
+          "seo_phrase": "Lubart's Castle",
+          "seo_keywords": [
+            "Lutsk",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Lutsk castle tower.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Lutsk_castle_tower.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Saint Peter and Paul Cathedral",
+          "wiki_title": "Saint Peter and Paul Cathedral, Lutsk",
+          "lat": 50.738302,
+          "lng": 25.319923,
+          "order_index": 5,
+          "description": "Saint Peter and Paul Cathedral, Lutsk — a notable landmark in Lutsk, Ukraine.",
+          "seo_phrase": "Saint Peter and Paul Cathedral",
+          "seo_keywords": [
+            "Lutsk",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Луцк. Собор Петра и Павла..jpg/800px-Луцк. Собор Петра и Павла..jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/%D0%9B%D1%83%D1%86%D0%BA._%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9F%D0%B5%D1%82%D1%80%D0%B0_%D0%B8_%D0%9F%D0%B0%D0%B2%D0%BB%D0%B0..jpg/800px-%D0%9B%D1%83%D1%86%D0%BA._%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9F%D0%B5%D1%82%D1%80%D0%B0_%D0%B8_%D0%9F%D0%B0%D0%B2%D0%BB%D0%B0..jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Great Synagogue (Lutsk)",
+          "wiki_title": "Great Synagogue (Lutsk",
+          "lat": 50.735959,
+          "lng": 25.318699,
+          "order_index": 6,
+          "description": "Great Synagogue (Lutsk) — a notable landmark in Lutsk, Ukraine.",
+          "seo_phrase": "Great Synagogue (Lutsk)",
+          "seo_keywords": [
+            "Lutsk",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "ЛуцькСинагогаХІХ.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/%D0%9B%D1%83%D1%86%D1%8C%D0%BA%D0%A1%D0%B8%D0%BD%D0%B0%D0%B3%D0%BE%D0%B3%D0%B0%D0%A5%D0%86%D0%A5.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Market Square (Lutsk)",
+          "wiki_title": "Market Square (Lutsk",
+          "lat": 50.73972222,
+          "lng": 25.3175,
+          "order_index": 7,
+          "description": "Market Square (Lutsk) — a notable landmark in Lutsk, Ukraine.",
+          "seo_phrase": "Market Square (Lutsk)",
+          "seo_keywords": [
+            "Lutsk",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "ЛуцькРинокГол.jpg/800px-ЛуцькРинокГол.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/%D0%9B%D1%83%D1%86%D1%8C%D0%BA%D0%A0%D0%B8%D0%BD%D0%BE%D0%BA%D0%93%D0%BE%D0%BB.jpg/800px-%D0%9B%D1%83%D1%86%D1%8C%D0%BA%D0%A0%D0%B8%D0%BD%D0%BE%D0%BA%D0%93%D0%BE%D0%BB.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Holy Trinity Orthodox Cathedral",
+          "wiki_title": "Holy Trinity Orthodox Cathedral, Lutsk",
+          "lat": 50.746205,
+          "lng": 25.325972,
+          "order_index": 8,
+          "description": "Holy Trinity Orthodox Cathedral, Lutsk — a notable landmark in Lutsk, Ukraine.",
+          "seo_phrase": "Holy Trinity Orthodox Cathedral",
+          "seo_keywords": [
+            "Lutsk",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "СоборЛуцькГол-2.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80%D0%9B%D1%83%D1%86%D1%8C%D0%BA%D0%93%D0%BE%D0%BB-2.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "House of the Gospel",
+          "wiki_title": "House of the Gospel, Lutsk",
+          "lat": 50.737983,
+          "lng": 25.315781,
+          "order_index": 9,
+          "description": "House of the Gospel, Lutsk — a notable landmark in Lutsk, Ukraine.",
+          "seo_phrase": "House of the Gospel",
+          "seo_keywords": [
+            "Lutsk",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Кірха 3868.jpg/800px-Кірха 3868.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/%D0%9A%D1%96%D1%80%D1%85%D0%B0_3868.jpg/800px-%D0%9A%D1%96%D1%80%D1%85%D0%B0_3868.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Ternopil",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Ternopil",
+      "seo": {
+        "title": "Top 10 Things to Do in Ternopil, Ukraine",
+        "description": "Discover 10 must-see landmarks in Ternopil, Ukraine. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Ternopil? Explore the best places to visit in Ternopil, Ukraine.",
+        "keywords": [
+          "things to do in Ternopil",
+          "Ternopil Ukraine travel guide",
+          "best places to visit in Ternopil",
+          "Ternopil landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Ternopil",
+          "wiki_title": "Ternopil",
+          "lat": 49.56666667,
+          "lng": 25.6,
+          "order_index": 0,
+          "description": "Ternopil — a notable landmark in Ternopil, Ukraine.",
+          "seo_phrase": "Ternopil",
+          "seo_keywords": [
+            "Ternopil",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "UA-TE Ternopil Buran 18-06-16.JPG/800px-UA-TE Ternopil Buran 18-06-16.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UA-TE_Ternopil_Buran_18-06-16.JPG/800px-UA-TE_Ternopil_Buran_18-06-16.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Ukrainian Catholic Archeparchy of Ternopil–Zboriv",
+          "wiki_title": "Ukrainian Catholic Archeparchy of Ternopil–Zboriv",
+          "lat": 49.5667,
+          "lng": 25.6,
+          "order_index": 1,
+          "description": "Ukrainian Catholic Archeparchy of Ternopil–Zboriv — a notable landmark in Ternopil, Ukraine.",
+          "seo_phrase": "Ukrainian Catholic Archeparchy of Ternopil–Zboriv",
+          "seo_keywords": [
+            "Ternopil",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Домініканський костел у Тернополі.jpg/800px-Домініканський костел у Тернополі.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/%D0%94%D0%BE%D0%BC%D1%96%D0%BD%D1%96%D0%BA%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%81%D1%82%D0%B5%D0%BB_%D1%83_%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D1%96.jpg/800px-%D0%94%D0%BE%D0%BC%D1%96%D0%BD%D1%96%D0%BA%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%81%D1%82%D0%B5%D0%BB_%D1%83_%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D1%96.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Church of St. Mary of the Perpetual Assistance",
+          "wiki_title": "Church of St. Mary of the Perpetual Assistance, Ternopil",
+          "lat": 49.5533,
+          "lng": 25.5947,
+          "order_index": 2,
+          "description": "Church of St. Mary of the Perpetual Assistance, Ternopil — a notable landmark in Ternopil, Ukraine.",
+          "seo_phrase": "Church of St. Mary of the Perpetual Assistance",
+          "seo_keywords": [
+            "Ternopil",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Kostel parafialny Ternopil 09.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Kostel_parafialny_Ternopil_09.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Cathedral of the Immaculate Conception of the Blessed Virgin Mary",
+          "wiki_title": "Cathedral of the Immaculate Conception of the Blessed Virgin Mary, Ternopil",
+          "lat": 49.553,
+          "lng": 25.5915,
+          "order_index": 3,
+          "description": "Cathedral of the Immaculate Conception of the Blessed Virgin Mary, Ternopil — a notable landmark in Ternopil, Ukraine.",
+          "seo_phrase": "Cathedral of the Immaculate Conception of the Blessed Virgin Mary",
+          "seo_keywords": [
+            "Ternopil",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Faine misto-11.jpg/800px-Faine misto-11.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Faine_misto-11.jpg/800px-Faine_misto-11.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Church of the Exaltation of the Cross",
+          "wiki_title": "Church of the Exaltation of the Cross, Ternopil",
+          "lat": 49.551,
+          "lng": 25.583,
+          "order_index": 4,
+          "description": "Church of the Exaltation of the Cross, Ternopil — a notable landmark in Ternopil, Ukraine.",
+          "seo_phrase": "Church of the Exaltation of the Cross",
+          "seo_keywords": [
+            "Ternopil",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Моя Тернопільщина Місто544.jpg/800px-Моя Тернопільщина Місто544.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/%D0%9C%D0%BE%D1%8F_%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%89%D0%B8%D0%BD%D0%B0_%D0%9C%D1%96%D1%81%D1%82%D0%BE544.jpg/800px-%D0%9C%D0%BE%D1%8F_%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%89%D0%B8%D0%BD%D0%B0_%D0%9C%D1%96%D1%81%D1%82%D0%BE544.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Mshanets",
+          "wiki_title": "Mshanets, Bila rural hromada, Ternopil Raion, Ternopil Oblast",
+          "lat": 49.75222222,
+          "lng": 25.47527778,
+          "order_index": 5,
+          "description": "Mshanets, Bila rural hromada, Ternopil Raion, Ternopil Oblast — a notable landmark in Ternopil, Ukraine.",
+          "seo_phrase": "Mshanets",
+          "seo_keywords": [
+            "Ternopil",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Mshanets cerkva sv. Mychajila.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Mshanets_cerkva_sv._Mychajila.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Saints Borys and Hlib Church",
+          "wiki_title": "Saints Borys and Hlib Church, Shumliany",
+          "lat": 49.28848,
+          "lng": 24.87378,
+          "order_index": 6,
+          "description": "Saints Borys and Hlib Church, Shumliany — a notable landmark in Ternopil, Ukraine.",
+          "seo_phrase": "Saints Borys and Hlib Church",
+          "seo_keywords": [
+            "Ternopil",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Церква Святих Мучеників Бориса і Гліба (1701р.) Шумляни.jpg/800px-Церква Святих Мучеників Бориса і Гліба (1701р.) Шумляни.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/%D0%A6%D0%B5%D1%80%D0%BA%D0%B2%D0%B0_%D0%A1%D0%B2%D1%8F%D1%82%D0%B8%D1%85_%D0%9C%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%D1%96%D0%B2_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%B0_%D1%96_%D0%93%D0%BB%D1%96%D0%B1%D0%B0_%281701%D1%80.%29_%D0%A8%D1%83%D0%BC%D0%BB%D1%8F%D0%BD%D0%B8.jpg/800px-%D0%A6%D0%B5%D1%80%D0%BA%D0%B2%D0%B0_%D0%A1%D0%B2%D1%8F%D1%82%D0%B8%D1%85_%D0%9C%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%D1%96%D0%B2_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%B0_%D1%96_%D0%93%D0%BB%D1%96%D0%B1%D0%B0_%281701%D1%80.%29_%D0%A8%D1%83%D0%BC%D0%BB%D1%8F%D0%BD%D0%B8.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Rosokhuvatets",
+          "wiki_title": "Rosokhuvatets, Pidvolochysk settlement hromada, Ternopil Raion, Ternopil Oblast",
+          "lat": 49.55722222,
+          "lng": 26.05805556,
+          "order_index": 7,
+          "description": "Rosokhuvatets, Pidvolochysk settlement hromada, Ternopil Raion, Ternopil Oblast — a notable landmark in Ternopil, Ukraine.",
+          "seo_phrase": "Rosokhuvatets",
+          "seo_keywords": [
+            "Ternopil",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Церква Покрови 1870р. с. Росохуватець.jpg/800px-Церква Покрови 1870р. с. Росохуватець.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/%D0%A6%D0%B5%D1%80%D0%BA%D0%B2%D0%B0_%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D0%B8_1870%D1%80._%D1%81._%D0%A0%D0%BE%D1%81%D0%BE%D1%85%D1%83%D0%B2%D0%B0%D1%82%D0%B5%D1%86%D1%8C.jpg/800px-%D0%A6%D0%B5%D1%80%D0%BA%D0%B2%D0%B0_%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D0%B8_1870%D1%80._%D1%81._%D0%A0%D0%BE%D1%81%D0%BE%D1%85%D1%83%D0%B2%D0%B0%D1%82%D0%B5%D1%86%D1%8C.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Horodnytsia",
+          "wiki_title": "Horodnytsia, Ternopil Raion, Ternopil Oblast",
+          "lat": 49.41111111,
+          "lng": 26.02444444,
+          "order_index": 8,
+          "description": "Horodnytsia, Ternopil Raion, Ternopil Oblast — a notable landmark in Ternopil, Ukraine.",
+          "seo_phrase": "Horodnytsia",
+          "seo_keywords": [
+            "Ternopil",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Церква Успіння Пресвятої Богородиці (1930) с.Городниця.jpg/800px-Церква Успіння Пресвятої Богородиці (1930) с.Городниця.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/%D0%A6%D0%B5%D1%80%D0%BA%D0%B2%D0%B0_%D0%A3%D1%81%D0%BF%D1%96%D0%BD%D0%BD%D1%8F_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D1%97_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%96_%281930%29_%D1%81.%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D1%86%D1%8F.jpg/800px-%D0%A6%D0%B5%D1%80%D0%BA%D0%B2%D0%B0_%D0%A3%D1%81%D0%BF%D1%96%D0%BD%D0%BD%D1%8F_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D1%97_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%96_%281930%29_%D1%81.%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D1%86%D1%8F.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Myrne",
+          "wiki_title": "Myrne, Ternopil Oblast",
+          "lat": 49.35333333,
+          "lng": 25.11,
+          "order_index": 9,
+          "description": "Myrne, Ternopil Oblast — a notable landmark in Ternopil, Ukraine.",
+          "seo_phrase": "Myrne",
+          "seo_keywords": [
+            "Ternopil",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Церква Святої Параскеви Терновської Мирне.jpg/800px-Церква Святої Параскеви Терновської Мирне.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/%D0%A6%D0%B5%D1%80%D0%BA%D0%B2%D0%B0_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D1%97_%D0%9F%D0%B0%D1%80%D0%B0%D1%81%D0%BA%D0%B5%D0%B2%D0%B8_%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D0%9C%D0%B8%D1%80%D0%BD%D0%B5.jpg/800px-%D0%A6%D0%B5%D1%80%D0%BA%D0%B2%D0%B0_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D1%97_%D0%9F%D0%B0%D1%80%D0%B0%D1%81%D0%BA%D0%B5%D0%B2%D0%B8_%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D0%9C%D0%B8%D1%80%D0%BD%D0%B5.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Vinnytsia",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Vinnytsia",
+      "seo": {
+        "title": "Top 10 Things to Do in Vinnytsia, Ukraine",
+        "description": "Discover 10 must-see landmarks in Vinnytsia, Ukraine. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Vinnytsia? Explore the best places to visit in Vinnytsia, Ukraine.",
+        "keywords": [
+          "things to do in Vinnytsia",
+          "Vinnytsia Ukraine travel guide",
+          "best places to visit in Vinnytsia",
+          "Vinnytsia landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Vinnytsia",
+          "wiki_title": "Vinnytsia",
+          "lat": 49.23333333,
+          "lng": 28.48333333,
+          "order_index": 0,
+          "description": "Vinnytsia — a notable landmark in Vinnytsia, Ukraine.",
+          "seo_phrase": "Vinnytsia",
+          "seo_keywords": [
+            "Vinnytsia",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Веселка над Домініканським монастирем P1730263 Вінниця.jpg/800px-Веселка над Домініканським монастирем P1730263 Вінниця.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/%D0%92%D0%B5%D1%81%D0%B5%D0%BB%D0%BA%D0%B0_%D0%BD%D0%B0%D0%B4_%D0%94%D0%BE%D0%BC%D1%96%D0%BD%D1%96%D0%BA%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%BC_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80%D0%B5%D0%BC_P1730263_%D0%92%D1%96%D0%BD%D0%BD%D0%B8%D1%86%D1%8F.jpg/800px-%D0%92%D0%B5%D1%81%D0%B5%D0%BB%D0%BA%D0%B0_%D0%BD%D0%B0%D0%B4_%D0%94%D0%BE%D0%BC%D1%96%D0%BD%D1%96%D0%BA%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%BC_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80%D0%B5%D0%BC_P1730263_%D0%92%D1%96%D0%BD%D0%BD%D0%B8%D1%86%D1%8F.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Tulchyn",
+          "wiki_title": "Tulchyn",
+          "lat": 48.67444444,
+          "lng": 28.84972222,
+          "order_index": 1,
+          "description": "Tulchyn — a notable landmark in Vinnytsia, Ukraine.",
+          "seo_phrase": "Tulchyn",
+          "seo_keywords": [
+            "Vinnytsia",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Вид на Тульчин з пагорбів.jpg/800px-Вид на Тульчин з пагорбів.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%A2%D1%83%D0%BB%D1%8C%D1%87%D0%B8%D0%BD_%D0%B7_%D0%BF%D0%B0%D0%B3%D0%BE%D1%80%D0%B1%D1%96%D0%B2.jpg/800px-%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%A2%D1%83%D0%BB%D1%8C%D1%87%D0%B8%D0%BD_%D0%B7_%D0%BF%D0%B0%D0%B3%D0%BE%D1%80%D0%B1%D1%96%D0%B2.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Zhmerynka",
+          "wiki_title": "Zhmerynka",
+          "lat": 49.05,
+          "lng": 28.1,
+          "order_index": 2,
+          "description": "Zhmerynka — a notable landmark in Vinnytsia, Ukraine.",
+          "seo_phrase": "Zhmerynka",
+          "seo_keywords": [
+            "Vinnytsia",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Жмеринський вокзал P1760516.jpg/800px-Жмеринський вокзал P1760516.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/%D0%96%D0%BC%D0%B5%D1%80%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB_P1760516.jpg/800px-%D0%96%D0%BC%D0%B5%D1%80%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB_P1760516.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Khmilnyk",
+          "wiki_title": "Khmilnyk",
+          "lat": 49.55694444,
+          "lng": 27.95722222,
+          "order_index": 3,
+          "description": "Khmilnyk — a notable landmark in Vinnytsia, Ukraine.",
+          "seo_phrase": "Khmilnyk",
+          "seo_keywords": [
+            "Vinnytsia",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Вінницька область. Хмільник DSC 8066.jpg/800px-Вінницька область. Хмільник DSC 8066.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/%D0%92%D1%96%D0%BD%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%B0_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C._%D0%A5%D0%BC%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_DSC_8066.jpg/800px-%D0%92%D1%96%D0%BD%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%B0_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C._%D0%A5%D0%BC%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_DSC_8066.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Haisyn",
+          "wiki_title": "Haisyn",
+          "lat": 48.81027778,
+          "lng": 29.38416667,
+          "order_index": 4,
+          "description": "Haisyn — a notable landmark in Vinnytsia, Ukraine.",
+          "seo_phrase": "Haisyn",
+          "seo_keywords": [
+            "Vinnytsia",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Гайсин P1760665 Земська лікарня.jpg/800px-Гайсин P1760665 Земська лікарня.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/%D0%93%D0%B0%D0%B9%D1%81%D0%B8%D0%BD_P1760665_%D0%97%D0%B5%D0%BC%D1%81%D1%8C%D0%BA%D0%B0_%D0%BB%D1%96%D0%BA%D0%B0%D1%80%D0%BD%D1%8F.jpg/800px-%D0%93%D0%B0%D0%B9%D1%81%D0%B8%D0%BD_P1760665_%D0%97%D0%B5%D0%BC%D1%81%D1%8C%D0%BA%D0%B0_%D0%BB%D1%96%D0%BA%D0%B0%D1%80%D0%BD%D1%8F.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Vinnytsia massacre",
+          "wiki_title": "Vinnytsia massacre",
+          "lat": 49.14,
+          "lng": 28.29,
+          "order_index": 5,
+          "description": "Vinnytsia massacre — a notable landmark in Vinnytsia, Ukraine.",
+          "seo_phrase": "Vinnytsia massacre",
+          "seo_keywords": [
+            "Vinnytsia",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Vinnycia16.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Vinnycia16.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Transfiguration Cathedral",
+          "wiki_title": "Transfiguration Cathedral, Vinnytsia",
+          "lat": 49.23305556,
+          "lng": 28.47527778,
+          "order_index": 6,
+          "description": "Transfiguration Cathedral, Vinnytsia — a notable landmark in Vinnytsia, Ukraine.",
+          "seo_phrase": "Transfiguration Cathedral",
+          "seo_keywords": [
+            "Vinnytsia",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Монастир домініканців P1120184.jpg/800px-Монастир домініканців P1120184.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/%D0%9C%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80_%D0%B4%D0%BE%D0%BC%D1%96%D0%BD%D1%96%D0%BA%D0%B0%D0%BD%D1%86%D1%96%D0%B2_P1120184.jpg/800px-%D0%9C%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80_%D0%B4%D0%BE%D0%BC%D1%96%D0%BD%D1%96%D0%BA%D0%B0%D0%BD%D1%86%D1%96%D0%B2_P1120184.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Vinnytsia strikes (2022–present)",
+          "wiki_title": "Vinnytsia strikes (2022–present",
+          "lat": 49.23962,
+          "lng": 28.4921,
+          "order_index": 7,
+          "description": "Vinnytsia strikes (2022–present) — a notable landmark in Vinnytsia, Ukraine.",
+          "seo_phrase": "Vinnytsia strikes (2022–present)",
+          "seo_keywords": [
+            "Vinnytsia",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Vinnytsia missile strike, 2022.07.14, 20.00 SESU report.jpg/800px-Vinnytsia missile strike, 2022.07.14, 20.00 SESU report.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vinnytsia_missile_strike%2C_2022.07.14%2C_20.00_SESU_report.jpg/800px-Vinnytsia_missile_strike%2C_2022.07.14%2C_20.00_SESU_report.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Russian attacks on civilians in the Russo-Ukrainian war (2022–present)",
+          "wiki_title": "Russian attacks on civilians in the Russo-Ukrainian war (2022–present",
+          "lat": 51.5001,
+          "lng": 31.2791,
+          "order_index": 8,
+          "description": "Russian attacks on civilians in the Russo-Ukrainian war (2022–present) — a notable landmark in Vinnytsia, Ukraine.",
+          "seo_phrase": "Russian attacks on civilians in the Russo-Ukrainian war (2022–present)",
+          "seo_keywords": [
+            "Vinnytsia",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Dnipro after Russian missile attack, 2023-01-14 (02-01).jpg/800px-Dnipro after Russian missile attack, 2023-01-14 (02-01).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dnipro_after_Russian_missile_attack%2C_2023-01-14_%2802-01%29.jpg/800px-Dnipro_after_Russian_missile_attack%2C_2023-01-14_%2802-01%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Medzhybizh",
+          "wiki_title": "Medzhybizh",
+          "lat": 49.43333333,
+          "lng": 27.41666667,
+          "order_index": 9,
+          "description": "Medzhybizh — a notable landmark in Vinnytsia, Ukraine.",
+          "seo_phrase": "Medzhybizh",
+          "seo_keywords": [
+            "Vinnytsia",
+            "Ukraine",
+            "travel"
+          ],
+          "commons_file": "Меджибізький замок 0448-1.jpg/800px-Меджибізький замок 0448-1.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/%D0%9C%D0%B5%D0%B4%D0%B6%D0%B8%D0%B1%D1%96%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA_0448-1.jpg/800px-%D0%9C%D0%B5%D0%B4%D0%B6%D0%B8%D0%B1%D1%96%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA_0448-1.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "Ukraine Scenic Road Trip",
+    "subtitle": "Explore Ukraine beyond the cities — nature, coastlines, and scenic routes.",
+    "wiki_title": "Ukraine",
+    "hero_image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Sophia_Cathedral_Kyiv_2021.jpg",
+    "totalDays": 10,
+    "seo": {
+      "title": "Ukraine Road Trip Adventure",
+      "description": "Plan a Ukraine road trip with GPS stops and scenic routes.",
+      "intro": "Explore Ukraine beyond the cities with this adventure route.",
+      "keywords": [
+        "Ukraine road trip",
+        "Ukraine by car"
+      ]
+    },
+    "places": [
+      {
+        "name": "Palanok Castle",
+        "wiki_title": "Palanok Castle",
+        "region": "Ukraine",
+        "lat": 48.431507,
+        "lng": 22.687798,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Palanok Castle — a must-see landmark on a Ukraine road trip.",
+        "seo_phrase": "Palanok Castle",
+        "seo_keywords": [
+          "Palanok Castle",
+          "Ukraine",
+          "road trip"
+        ],
+        "commons_file": "Замок із висоти пташиного польоту 1.JPG/800px-Замок із висоти пташиного польоту 1.JPG",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D1%96%D0%B7_%D0%B2%D0%B8%D1%81%D0%BE%D1%82%D0%B8_%D0%BF%D1%82%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D0%BE%D0%BB%D1%8C%D0%BE%D1%82%D1%83_1.JPG/800px-%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D1%96%D0%B7_%D0%B2%D0%B8%D1%81%D0%BE%D1%82%D0%B8_%D0%BF%D1%82%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D0%BE%D0%BB%D1%8C%D0%BE%D1%82%D1%83_1.JPG",
+        "seo_priority": 90,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Kamianets-Podilskyi Castle",
+        "wiki_title": "Kamianets-Podilskyi Castle",
+        "region": "Ukraine",
+        "lat": 48.67333333,
+        "lng": 26.5625,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Kamianets-Podilskyi Castle — a must-see landmark on a Ukraine road trip.",
+        "seo_phrase": "Kamianets-Podilskyi Castle",
+        "seo_keywords": [
+          "Kamianets-Podilskyi Castle",
+          "Ukraine",
+          "road trip"
+        ],
+        "commons_file": "Зимова фортеця.jpg/800px-Зимова фортеця.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%97%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F.jpg/800px-%D0%97%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F.jpg",
+        "seo_priority": 89,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Lubart's Castle",
+        "wiki_title": "Lubart's Castle",
+        "region": "Ukraine",
+        "lat": 50.73888889,
+        "lng": 25.32333333,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Lubart's Castle — a must-see landmark on a Ukraine road trip.",
+        "seo_phrase": "Lubart's Castle",
+        "seo_keywords": [
+          "Lubart's Castle",
+          "Ukraine",
+          "road trip"
+        ],
+        "commons_file": "Lutsk castle tower.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Lutsk_castle_tower.jpg",
+        "seo_priority": 88,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Olyka Castle",
+        "wiki_title": "Olyka Castle",
+        "region": "Ukraine",
+        "lat": 50.72333333,
+        "lng": 25.80861111,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Olyka Castle — a must-see landmark on a Ukraine road trip.",
+        "seo_phrase": "Olyka Castle",
+        "seo_keywords": [
+          "Olyka Castle",
+          "Ukraine",
+          "road trip"
+        ],
+        "commons_file": "Olyka wieza2.jpg/800px-Olyka wieza2.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Olyka_wieza2.jpg/800px-Olyka_wieza2.jpg",
+        "seo_priority": 87,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Nevytske Castle",
+        "wiki_title": "Nevytske Castle",
+        "region": "Ukraine",
+        "lat": 48.68083333,
+        "lng": 22.40916667,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Nevytske Castle — a must-see landmark on a Ukraine road trip.",
+        "seo_phrase": "Nevytske Castle",
+        "seo_keywords": [
+          "Nevytske Castle",
+          "Ukraine",
+          "road trip"
+        ],
+        "commons_file": "Захід на Невицькому замку.jpg/800px-Захід на Невицькому замку.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/%D0%97%D0%B0%D1%85%D1%96%D0%B4_%D0%BD%D0%B0_%D0%9D%D0%B5%D0%B2%D0%B8%D1%86%D1%8C%D0%BA%D0%BE%D0%BC%D1%83_%D0%B7%D0%B0%D0%BC%D0%BA%D1%83.jpg/800px-%D0%97%D0%B0%D1%85%D1%96%D0%B4_%D0%BD%D0%B0_%D0%9D%D0%B5%D0%B2%D0%B8%D1%86%D1%8C%D0%BA%D0%BE%D0%BC%D1%83_%D0%B7%D0%B0%D0%BC%D0%BA%D1%83.jpg",
+        "seo_priority": 86,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Radomysl Castle",
+        "wiki_title": "Radomysl Castle",
+        "region": "Ukraine",
+        "lat": 50.47777778,
+        "lng": 29.21666667,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Radomysl Castle — a must-see landmark on a Ukraine road trip.",
+        "seo_phrase": "Radomysl Castle",
+        "seo_keywords": [
+          "Radomysl Castle",
+          "Ukraine",
+          "road trip"
+        ],
+        "commons_file": "Замок Радомысль. Скульптура Архангела Михаила (XVIII в.).jpg/800px-Замок Радомысль. Скульптура Архангела Михаила (XVIII в.).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%A0%D0%B0%D0%B4%D0%BE%D0%BC%D1%8B%D1%81%D0%BB%D1%8C._%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D1%83%D1%80%D0%B0_%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B0_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%B0_%28XVIII_%D0%B2.%29.jpg/800px-%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%A0%D0%B0%D0%B4%D0%BE%D0%BC%D1%8B%D1%81%D0%BB%D1%8C._%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D1%83%D1%80%D0%B0_%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B0_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%B0_%28XVIII_%D0%B2.%29.jpg",
+        "seo_priority": 85,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Old Chortkiv Castle",
+        "wiki_title": "Old Chortkiv Castle",
+        "region": "Ukraine",
+        "lat": 49.01916667,
+        "lng": 25.79611111,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Old Chortkiv Castle — a must-see landmark on a Ukraine road trip.",
+        "seo_phrase": "Old Chortkiv Castle",
+        "seo_keywords": [
+          "Old Chortkiv Castle",
+          "Ukraine",
+          "road trip"
+        ],
+        "commons_file": "Мапа Фрідріха фон Міґа, Старочортківський замок.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/%D0%9C%D0%B0%D0%BF%D0%B0_%D0%A4%D1%80%D1%96%D0%B4%D1%80%D1%96%D1%85%D0%B0_%D1%84%D0%BE%D0%BD_%D0%9C%D1%96%D2%91%D0%B0%2C_%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D1%87%D0%BE%D1%80%D1%82%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA.png",
+        "seo_priority": 84,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Kyiv Castle",
+        "wiki_title": "Kyiv Castle",
+        "region": "Ukraine",
+        "lat": 50.4625,
+        "lng": 30.51083333,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Kyiv Castle — a must-see landmark on a Ukraine road trip.",
+        "seo_phrase": "Kyiv Castle",
+        "seo_keywords": [
+          "Kyiv Castle",
+          "Ukraine",
+          "road trip"
+        ],
+        "commons_file": "Абрагам ван Вестерфельд замок.jpg/800px-Абрагам ван Вестерфельд замок.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/%D0%90%D0%B1%D1%80%D0%B0%D0%B3%D0%B0%D0%BC_%D0%B2%D0%B0%D0%BD_%D0%92%D0%B5%D1%81%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%BB%D1%8C%D0%B4_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA.jpg/800px-%D0%90%D0%B1%D1%80%D0%B0%D0%B3%D0%B0%D0%BC_%D0%B2%D0%B0%D0%BD_%D0%92%D0%B5%D1%81%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%BB%D1%8C%D0%B4_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA.jpg",
+        "seo_priority": 83,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Saint Sophia Cathedral",
+        "wiki_title": "Saint Sophia Cathedral, Kyiv",
+        "region": "Ukraine",
+        "lat": 50.4528,
+        "lng": 30.5144,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Saint Sophia Cathedral — a must-see landmark on a Ukraine road trip.",
+        "seo_phrase": "Saint Sophia Cathedral",
+        "seo_keywords": [
+          "Saint Sophia Cathedral",
+          "Ukraine",
+          "road trip"
+        ],
+        "commons_file": "80-391-0151 Kyiv St.Sophia's Cathedral RB 18 2 (cropped).jpg/800px-80-391-0151 Kyiv St.Sophia's Cathedral RB 18 2 (cropped).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/80-391-0151_Kyiv_St.Sophia%27s_Cathedral_RB_18_2_%28cropped%29.jpg/800px-80-391-0151_Kyiv_St.Sophia%27s_Cathedral_RB_18_2_%28cropped%29.jpg",
+        "seo_priority": 82,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Bar",
+        "wiki_title": "Bar, Ukraine",
+        "region": "Ukraine",
+        "lat": 49.075,
+        "lng": 27.67611111,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Bar — a must-see landmark on a Ukraine road trip.",
+        "seo_phrase": "Bar",
+        "seo_keywords": [
+          "Bar",
+          "Ukraine",
+          "road trip"
+        ],
+        "commons_file": "Костел 1.1.jpg/800px-Костел 1.1.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/%D0%9A%D0%BE%D1%81%D1%82%D0%B5%D0%BB_1.1.jpg/800px-%D0%9A%D0%BE%D1%81%D1%82%D0%B5%D0%BB_1.1.jpg",
+        "seo_priority": 81,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      }
+    ]
+  }
+}

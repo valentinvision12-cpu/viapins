@@ -1,0 +1,130 @@
+{
+  "adventure": {
+    "title": "Country Road Trip Adventure",
+    "subtitle": "10-day country-wide road trip — car required.",
+    "wiki_title": "Country",
+    "totalDays": 10,
+    "seo": {
+      "title": "Country Road Trip — 10-Day Adventure Itinerary | Car Travel Guide",
+      "description": "Plan a 10-day road trip with GPS stops, hidden gems, and car-only routes.",
+      "intro": "Explore beyond the cities with this 10-day adventure route. Add stops to your cart and navigate in Google Maps.",
+      "keywords": ["country road trip", "country by car", "10 day country tour"]
+    },
+    "places": [
+      {
+        "name": "Stop 1 Name",
+        "wiki_title": "Wikipedia Article Title",
+        "region": "Region Name",
+        "lat": 0,
+        "lng": 0,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": ["hidden_gem"],
+        "seo_phrase": "Stop 1 — road trip highlight",
+        "seo_keywords": ["stop 1 country", "country road trip"]
+      },
+      {
+        "name": "Stop 2 Name",
+        "wiki_title": "Wikipedia Article Title",
+        "region": "Region Name",
+        "lat": 0,
+        "lng": 0,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": ["nature"],
+        "seo_phrase": "Stop 2 — road trip highlight",
+        "seo_keywords": ["stop 2 country"]
+      },
+      {
+        "name": "Stop 3 Name",
+        "wiki_title": "Wikipedia Article Title",
+        "region": "Region Name",
+        "lat": 0,
+        "lng": 0,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": ["viewpoint"]
+      },
+      {
+        "name": "Stop 4 Name",
+        "wiki_title": "Wikipedia Article Title",
+        "region": "Region Name",
+        "lat": 0,
+        "lng": 0,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": ["monument"]
+      },
+      {
+        "name": "Stop 5 Name",
+        "wiki_title": "Wikipedia Article Title",
+        "region": "Region Name",
+        "lat": 0,
+        "lng": 0,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": ["ruins"]
+      },
+      {
+        "name": "Stop 6 Name",
+        "wiki_title": "Wikipedia Article Title",
+        "region": "Region Name",
+        "lat": 0,
+        "lng": 0,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": ["cave"]
+      },
+      {
+        "name": "Stop 7 Name",
+        "wiki_title": "Wikipedia Article Title",
+        "region": "Region Name",
+        "lat": 0,
+        "lng": 0,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": ["nature"]
+      },
+      {
+        "name": "Stop 8 Name",
+        "wiki_title": "Wikipedia Article Title",
+        "region": "Region Name",
+        "lat": 0,
+        "lng": 0,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": ["hidden_gem"]
+      },
+      {
+        "name": "Stop 9 Name",
+        "wiki_title": "Wikipedia Article Title",
+        "region": "Region Name",
+        "lat": 0,
+        "lng": 0,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": ["viewpoint"]
+      },
+      {
+        "name": "Stop 10 Name",
+        "wiki_title": "Wikipedia Article Title",
+        "region": "Region Name",
+        "lat": 0,
+        "lng": 0,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": ["monument"]
+      }
+    ]
+  }
+}

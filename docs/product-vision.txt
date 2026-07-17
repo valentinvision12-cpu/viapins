@@ -1,0 +1,604 @@
+# Product Vision — Luxury Travel Magazine
+
+> **Последна актуализация:** юни 2026  
+> **Цел:** Не да намерим хотел. Да помогнем на посетителя да разбере **къде отива, какво ще види и дали си струва** да отиде там.
+
+---
+
+## Едно изречение позициониране
+
+**Luxury Travel Magazine не продава нощувка — дава увереността да владееш града преди да стъпнеш там.**
+
+---
+
+## Какво НЕ правим
+
+- ❌ Конкуренция с Booking/Airbnb по хотели и цени
+- ❌ Още 500 listings и review walls като TripAdvisor
+- ❌ Generic AI отговори без GPS, без маршрут, без душа
+- ❌ „По-прост booking“ — това не е нашата игра
+
+## Какво правим
+
+- ✅ **Pre-trip intelligence** — подготовка, ориентация, увереност
+- ✅ **Curated depth** — 10 места на град, не 500
+- ✅ **Визуално и емоционално** — magazine experience, не transaction funnel
+- ✅ **Практичен мост** — от кураторство до Google Maps маршрут
+- ✅ **Задържане чрез прогрес** — passport, achievements, „моят град“
+
+---
+
+## Пазарно проучване (голям мащаб)
+
+### Какво казват данните
+
+| Източник | Мащаб | Ключов извод |
+|----------|-------|--------------|
+| [Accenture Travel Survey](https://www.accenture.com/content/dam/accenture/final/accenture-com/document-3/The-Travel-Industrys-New-Trip-Final.pdf) | Глобално | **66%** недоволни от планиране; **64%** искат свързан trip, не разпилени табове; **#1 желание = персонализация** |
+| [Travelport GDS](https://uof.digital/from-tabs-to-agents-how-ai-now-shapes-new-travel-funnel/) | Глобално | **58%** — прекалено много избор; **71%** — тревога дали са избрали най-доброто |
+| [Expedia / YouGov AI Trust Gap](https://partner.expediagroup.com/en-us/resources/blog/ai-trust-gap-why-travelers-continue-to-choose-trusted-brands) | 5 700+ (US/UK/India) | **40%** искат AI маршрути, само **8%** доверяват на AI да **резервира** |
+| [Phocuswright](https://www.phocuswright.com/Analyst-Insights) | US | **56%** ползват AI за travel; Millennials планират дигитално, валидират през приятели |
+| [Amadeus Friction Removed](https://www.businesswire.com/news/home/20241119852997/en/New-Amadeus-U.S.-Study-Reveals-Technology-Is-Key-to-Making-Experience-of-Travel-Better) | 1 013 US travelers | Топ болки: закъснения, цена, координация, **намиране на подходящ престой** |
+| [Euromonitor 2025](https://www.euromonitor.com/top-five-trends-in-travel/report) | $2.9T пазар | **Meaning over consumption** — автентичност, purpose-driven itineraries |
+
+### Общ знаменател
+
+Хората не искат още 10 000 хотела. Искат:
+- по-малко, но **по-правилни** решения
+- усещане за **контрол** без стрес
+- един flow вместо 8 приложения и 15 таба
+- отговор на: **„Струва ли си да отида там? Какво точно ще видя?“**
+
+---
+
+## Къде спират големите
+
+| Платформа | Силна страна | Къде спира |
+|-----------|--------------|------------|
+| **Booking / Airbnb** | Резервация, цена | Не те подготвя за града; не знаеш *какво* и *в какъв ред* |
+| **TripAdvisor** | Reviews, рейтинги | Хаос от 500 „топ места“, съмнителни reviews |
+| **Google Maps** | Навигация | Ти събираш pins; няма кураторство, сезон, „защо това място“ |
+| **Instagram / TikTok** | Inspiration | Красиво видео → после: „добре, а в 9:00 сутринта какво правя?“ |
+| **ChatGPT** | Бърз отговор | Няма GPS маршрут, няма прогрес, generic съвети |
+
+### Празнината, която запълваме
+
+```
+Вдъхновение → Разбиране на града → Личен маршрут → Увереност → (после booking)
+     TikTok        ???              Google Maps      ???
+                        ↑
+                   НИЕ СМЕ ТУК
+```
+
+---
+
+## Нашата формула (не се състезаваме — печелим друг слой)
+
+| Големият играч | Какво продава |
+|----------------|---------------|
+| Booking | WHERE TO SLEEP |
+| TripAdvisor | WHAT OTHERS THINK |
+| Google Maps | HOW TO GET THERE |
+| **Ние** | **WHY THIS CITY · WHAT TO SEE · IN WHAT ORDER · AM I READY · IS IT WORTH IT** |
+
+---
+
+## Какво имаме, което големите НЯМАТ
+
+| Наше предимство | Booking | TripAdvisor | Google Maps | TikTok/AI |
+|-----------------|---------|-------------|-------------|-----------|
+| „Струва ли си да отида?“ отговор | ❌ | частично (reviews) | ❌ | ❌ |
+| 10 кураторски места, не 500 | ❌ | ❌ (хаос) | ❌ | ❌ |
+| Inspire Me по vibe/стил/сезон | ❌ | ❌ | ❌ | частично |
+| Route cart → Google Maps export | ❌ | ❌ | ръчно pins | ❌ |
+| City progress (3/10 в маршрута) | ❌ | ❌ | ❌ | ❌ |
+| Passport + stamp „посетено“ | ❌ | ❌ | ❌ | ❌ |
+| Drag-reorder маршрут | ❌ | ❌ | ❌ | ❌ |
+| Viral embed widget за блогъри | ❌ | ❌ | ❌ | ❌ |
+| Magazine editorial + 5 езика | generic | UGC | ❌ | ❌ |
+| Wikipedia history accordion | ❌ | ❌ | ❌ | ❌ |
+| Free · No app · 2 min | ❌ (app push) | ❌ | app | ❌ |
+| Честен „worth it / skip it“ | ❌ | ❌ | ❌ | ❌ |
+
+**Нашата комбинация (никой друг я няма изцяло):**  
+Culture Trip editorial + GPSmyCity практичност + Duolingo прогрес + Inspire Me персонализация + Google Maps мост.
+
+---
+
+## Оригинален ROADMAP — 7 модула (от CEO плана)
+
+| # | Модул | Цел | Статус |
+|---|-------|-----|--------|
+| 1 | **The Fortress** | i18n, auth, admin BG, RLS, security | ✅ Готов |
+| 2 | **God Mode Admin / AI Engine** | Claude → 10 landmarks → 5 езика → publish | ✅ Готов |
+| 3 | **Public Face & Smart Language** | Hero, search, grid, language switcher | ✅ Готов (evolved) |
+| 4 | **Core Experience** | City page, wiki accordion, route cart | ✅ Готов |
+| 5 | **Frictionless Funnel** | Auth modal при save route, magic link | ✅ Готов |
+| 6 | **Gamification & Viral Engine** | Passport, drag-reorder, stamp, embed | ✅ Готов |
+| 7 | **Monetization & Schema SEO** | 4 ad zones, JSON-LD, terms/privacy | 🟡 Частично (ads + legal; Schema.org pending) |
+
+---
+
+## ПЪЛЕН КАТАЛОГ — всички функции от разговора
+
+> Легенда: ✅ изградено · 🟡 частично · ⬜ предстои · 🔴 приоритет за конкуренция
+
+### A. Вече изградени (не губим ги — това е базата)
+
+| # | Функция | Какво прави за посетителя | Файл | Статус |
+|---|---------|---------------------------|------|--------|
+| A1 | **Know Your City Before You Go** hero | „Ще знам града преди да тръгна“ | `hero-map.tsx` | ✅ |
+| A2 | **Compass luxury hero** (Variant B) | Намалява тревожността — имаш посока | `hero-map.tsx`, `luxury-palette.ts` | ✅ |
+| A3 | **Search-first hero** (Airbnb pattern) | Търсиш град, не хотел | `hero-map.tsx`, `home-explore.tsx` | ✅ |
+| A4 | **Season pills** (❄️🌸☀️🍂) | „Подходящ ли е градът за сезона?“ | `hero-map.tsx` | ✅ |
+| A5 | **Popular city chips** | Бърз избор без overwhelm | `hero-map.tsx` | ✅ |
+| A6 | **Inspire Me — Take Quiz** | vibe → стил → сезон → match | `inspire-me-modal.tsx` | ✅ |
+| A7 | **Inspire Me — Surprise Me** | Рискова рулетка — откриване | `inspire-me-modal.tsx` | ✅ |
+| A8 | **Inspire engine scoring** | Персонализация без AI paranoia | `inspire-engine.ts` | ✅ |
+| A9 | **Destinations grid + search filter** | Филтрира по град/държава в реално време | `destinations-grid.tsx` | ✅ |
+| A10 | **City page** `/explore/[country]/[city]` | Всички места на едно място | `explore/.../page.tsx` | ✅ |
+| A11 | **Cinematic city hero image** | Визуален отговор „как изглежда градът“ | city page | ✅ |
+| A12 | **Place cards + HD images** | „Какво ще видя“ на всяко място | `place-card.tsx` | ✅ |
+| A13 | **Wikipedia accordion** 📖 | История без да напускаш страницата | `place-card.tsx` | ✅ |
+| A14 | **Add to Route** (+/✓ toggle) | Събираш маршрут с един клик | `place-card.tsx`, route context | ✅ |
+| A15 | **Floating Route Cart** | „3 места избрани → генерирай“ | `route-cart.tsx` | ✅ |
+| A16 | **Google Maps multi-stop URL** | Директно в Maps app — реална навигация | `route-cart.tsx` | ✅ |
+| A17 | **City Progress bar** | „4/10 в маршрута“ — gamification | `city-progress.tsx` | ✅ |
+| A18 | **Auth modal intercept** | Запази маршрута с Google/Email | `auth-modal.tsx` | ✅ |
+| A19 | **My Passport dashboard** | Твоите маршрути, твоята идентичност | `my-passport/` | ✅ |
+| A20 | **Saved / Visited tabs** | Разделение планирано vs направено | `passport-tabs.tsx` | ✅ |
+| A21 | **Passport stats** | Маршрути, места, държави, посетени | `passport-tabs.tsx` | ✅ |
+| A22 | **Drag-reorder route** (dnd-kit) | Подреди маршрута логически | `passport-route-card.tsx` | ✅ |
+| A23 | **Mark as Visited + gold stamp** | Усещане за постижение | `passport-route-card.tsx` | ✅ |
+| A24 | **Share route link** | `/route?p=ids` — viral loop | `shared-route-actions.tsx` | ✅ |
+| A25 | **Embed widget** `</>` | Блогъри вграждат маршрут + SEO backlink | `embed/route/`, passport card | ✅ |
+| A26 | **5 core езика** (EN/ES/FR/DE/IT) | Magazine на родния език | `messages/*.json` | ✅ |
+| A27 | **∞ езика auto-translate** | Всеки език в света от dropdown | `language-switcher.tsx` | ✅ |
+| A28 | **AI Generator** (admin) | 10 места × 5 езика × GPS × wiki | `admin/ai-generator` | ✅ |
+| A29 | **Bulgaria 10×10 demo** | Дълбочина, не ширина | `demo-data.ts` | ✅ |
+| A30 | **Wiki/Commons image resolver** | Реални снимки, не stock | `wiki-image.ts` | ✅ |
+| A31 | **Seed import** (admin) | Бързо пълнене на демо данни | `admin/import` | ✅ |
+| A32 | **Related cities** | „Може да харесаш и…“ | `city-related.tsx` | 🟡 (само 6 града) |
+| A33 | **Sticky footer ad** | Монетизация без да блокира hero | `sticky-footer-ad.tsx` | ✅ |
+| A34 | **Smart header ad** (scroll-up) | Допълнителен RPM | `smart-header-ad.tsx` | ✅ |
+| A35 | **Floating video ad** | Outstream 8s delay | `floating-video-ad.tsx` | ✅ |
+| A36 | **Terms + Privacy** | Legal compliance | `terms/`, `privacy/` | ✅ |
+| A37 | **Free · No app · 2 min** messaging | Нулева friction | hero copy | ✅ |
+| A38 | **Mobile bottom sheet** Inspire Me | Работи на телефон | `inspire-me-modal.tsx` portal | ✅ |
+
+---
+
+### B. Функции за НАДМИНАВАНЕ на конкуренцията (бъдещи — от стратегическия разговор)
+
+> Фокус: **къде отиваш · какво ще видиш · дали има какво да се види · дали си струва**
+
+| # | Функция | Защо надминава Booking/TripAdvisor/Maps | Приоритет |
+|---|---------|----------------------------------------|-----------|
+| B1 | **Smart Day Plans** | Готов „Ден 1: София за 6ч“ — никой OTA не го прави | 🔴 P1 |
+| B2 | **Time Budget Planner** | „Имам 3 часа — какво стига?“ | 🔴 P1 |
+| B3 | **Is It Worth It? score** | Директен отговор: must-see / half-day / skip | 🔴 P1 |
+| B4 | **Place Preview** (what you'll see, how long, best time) | Реалистична очаквана картина, не marketing | 🔴 P1 |
+| B5 | **Zone-Based City Map** | Ден = 1–2 зони, не scatter по града | 🔴 P1 |
+| B6 | **Trip Confidence Score** | „Sofia readiness: 82%“ — увереност | 🟠 P2 |
+| B7 | **PWA / Offline Route** | Без роуминг в чужбина — GPSmyCity killer | 🟠 P2 |
+| B8 | **Shareable Route Cards** (OG image) | TikTok→action; viral artifact | 🟠 P2 |
+| B9 | **Compare Cities** | „София или Пловдив за уикенд?“ | 🟠 P2 |
+| B10 | **Seasonal Reality Check** | „Юли в Банско: ски затворено, hiking ОК“ | 🟠 P2 |
+| B11 | **Before You Go Checklist** | Билети, dress code, транспорт, 3 фрази | 🟡 P3 |
+| B12 | **Visual Route Timeline** | 09:00 → 11:00 → 13:00 — денят като филм | 🟡 P3 |
+| B13 | **Locals Skip / Tourists Crowd tags** | Честност срещу TripAdvisor fake | 🟡 P3 |
+| B14 | **Country Tour Mode** | „България за 7 дни“ готов маршрут | 🟡 P3 |
+| B15 | **Worth Skipping** | „Overhyped — по-добра алтернатива: X“ | 🟡 P3 |
+| B16 | **Video / multi-photo preview** | „Това е гледката с очите ти“ | 🟡 P3 |
+| B17 | **Empty City Detector** | „Half-day stop, not a destination“ — честно | 🟡 P3 |
+| B18 | **Embeddable Worth Visiting widget** | Distribution без hotel affiliate | 🟡 P3 |
+| B19 | **Natural language city search** | „Quiet beach town in autumn“ → match | 🟡 P3 |
+| B20 | **Anchor + Zone day builder** | 1 highlight/ден + зона около него (research-backed) | 🔴 P1 |
+| B21 | **Human-curated + AI hybrid** | AI предлага, editorial валидира → trust gap | 🟠 P2 |
+| B22 | **Schema.org JSON-LD** | Rich snippets в Google за всяка страница/език | 🟠 P2 |
+| B23 | **Sticky sidebar ad** (desktop) | От Module 7 — допълнителен RPM | ⬜ |
+| B24 | **Programmatic SEO** | Авто-страници за всеки град × 5 езика | 🟠 P2 |
+| B25 | **«Better alternative nearby»** | На overhyped място → „виж X на 10 мин“ | 🟡 P3 |
+| B26 | **«How many days needed»** badge | „Sofia: 2 days minimum“ | 🔴 P1 |
+| B27 | **«First time here?» starter route** | One-click: добави топ 5 места | 🔴 P1 |
+| B28 | **Live «places in cart» map preview** | Виждаш маршрута на мини-карта преди Maps | 🟠 P2 |
+| B29 | **Passport «countries collected»** | Pokemon-style collection, не streaks | 🟡 P3 |
+| B30 | **City «vibe profile»** | adventure 80% · culture 60% · beach 10% | 🟠 P2 |
+
+---
+
+### C. UX / психология (от hero redesign разговора)
+
+| Принцип | Имплементация | Статус |
+|---------|---------------|--------|
+| Competence — „знам града“ | Compass hero + expert copy | ✅ |
+| Curiosity | Inspire Me + Surprise Me | ✅ |
+| Completion | Progress bar + пълна обиколка | ✅ |
+| Ownership | My route + passport | ✅ |
+| Anti-overwhelm | Max 10 места/град | ✅ |
+| Luxury без aggression | Cream/bronze, не жълто/бяло | ✅ |
+| Mobile-first | Bottom sheet, full-width CTA, compass weaker on phone | ✅ |
+| Honesty > volume | Worth it / skip it (planned) | ⬜ |
+| Decision layer | Inspire + season + search | ✅ |
+| Planning layer | Route cart + day plans (planned) | 🟡 |
+| Identity layer | Passport + share + embed | ✅ |
+
+---
+
+## Идеи за рискови функции (фокус: къде, какво, дали си струва)
+
+> Тези функции са съзнателно амбициозни. Целта не е conversion към хотел, а **решаване на въпроса „да отида ли?“**
+
+---
+
+### 🔴 P1 — Висок impact, правим първо
+
+#### 1. Smart Day Plans
+**Проблем:** Хората планират с 1–2 anchor activities на ден, не с 47 pins.  
+**Решение:** Готови планове:
+- „Half day — Culture“ (3–4 места, ~4ч)
+- „Full day — Best of Sofia“
+- „Foodie afternoon“
+- „Weekend in Plovdiv“
+
+**Какво показва на посетителя:** Точно какво ще види и колко време отнема.  
+**Технически:** Templates в `demo-data` или admin; генериране от Route Cart логика.
+
+---
+
+#### 2. Time Budget Planner
+**Проблем:** „Имам 3 часа в Пловдив — какво стига?“  
+**Решение:** Input: „Имам X часа“ → системата предлага оптимален подмножество от местата.
+
+**Какво показва:** Дали изобщо има какво да се види за твоето време.  
+**Технически:** Scoring по разстояние + estimated duration per place.
+
+---
+
+#### 3. „Is It Worth It?“ Score per City
+**Проблем:** „Струва ли си да отида в Мелник за 1 ден?“  
+**Решение:** City card с ясен сигнал:
+- **Must-see** (2+ дни)
+- **Great stop** (half day)
+- **Only if passing by**
+- Season tags: „Best in summer“ / „Skip in winter“
+
+**Какво показва:** Директен отговор на „дали има какво да се види“.  
+**Технически:** `worthIt` field в destination metadata + визуален badge.
+
+---
+
+#### 4. Place Preview — „Какво ще видиш“
+**Проблем:** Снимка + 2 изречения не стигат.  
+**Решение:** На всяко място:
+- **What you'll see** (3 bullets)
+- **Best time** (сутрин/залез/буден ден)
+- **How long** (30 min / 2h)
+- **Worth it if…** („обичаш история“, „имаш деца“)
+- **Skip if…** („мразиш тълпи“)
+
+**Какво показва:** Реалистична очаквана картина, не marketing fluff.  
+**Технически:** Нови полета в translations или AI-generated при import.
+
+---
+
+#### 5. Zone-Based City Map
+**Проблем:** Google Maps pins не показват логика.  
+**Решение:** Градът е разделен на зони (Old Town, Riverside, Museums…). Ден = 1–2 зони.
+
+**Какво показва:** Къде физически ще ходиш — не scatter по целия град.  
+**Технически:** `zone` tag на place; map visualization или zone pills.
+
+---
+
+### 🟠 P2 — Силен differentiator, след P1
+
+#### 6. Trip Confidence Score
+**Проблем:** Не знаеш дали си „готов“ за града.  
+**Решение:** „Sofia readiness: 82%“ — базирано на:
+- колко места са в маршрута
+- има ли day plan
+- има ли сезонен match
+
+**Какво показва:** Увереност, не хаос.  
+**Технически:** Client-side score от route cart + saved state.
+
+---
+
+#### 7. PWA / Offline Route Download
+**Проблем:** В чужбина няма data; GPSmyCity е остарял и платен.  
+**Решение:** „Download Sofia route“ — offline карта + списък места + GPS coords.
+
+**Какво показва:** Практична стойност без app store.  
+**Технически:** Next.js PWA + cached route JSON + static map tiles или deep link to Google Maps offline.
+
+---
+
+#### 8. Shareable Route Cards (Social-Ready)
+**Проблем:** TikTok дава inspiration, няма shareable artifact.  
+**Решение:** Красива карта/изображение: „My Sofia Route — 6 places, 1 day“ за Instagram/WhatsApp.
+
+**Какво показва:** Гордост от подготовката; viral loop.  
+**Технически:** OG image generation или canvas export от `/route?p=`.
+
+---
+
+#### 9. „Compare Cities“ — Къде да отида?
+**Проблем:** „София или Пловдив за уикенд?“  
+**Решение:** Side-by-side:
+- брой must-see места
+- vibe match (от Inspire quiz)
+- season fit
+- estimated days needed
+
+**Какво показва:** Помага да **избереш град**, не хотел.  
+**Технически:** Comparison page от `inspire-engine` scoring.
+
+---
+
+#### 10. Seasonal Reality Check
+**Проблем:** „Отивам в Банско през юли — ок ли е?“  
+**Решение:** Ясен banner: „⚠️ July: ski closed, hiking great“ или „✅ Perfect season“.
+
+**Какво показва:** Честен отговор дали си струва **сега**.  
+**Технически:** `seasonNotes` per destination; match с hero season pills.
+
+---
+
+### 🟡 P3 — Дългосрочно, high engagement
+
+#### 11. „Before You Go“ Checklist per City
+- Резервни tickets нужни ли са?
+- Dress code?
+- Local transport tip?
+- 3 фрази на местния език?
+
+**Не е booking — е preparation.**
+
+---
+
+#### 12. Visual Route Timeline
+Хоризонтална лента: 09:00 Alexander Nevsky → 11:00 Vitosha → 13:00 lunch zone…
+
+**Показва деня като филм, не като списък.**
+
+---
+
+#### 13. „Locals Skip / Tourists Crowd“ Tags
+Честни тагове:
+- `crowded_at_noon`
+- `locals_favorite`
+- `instagram_trap` (да, рисково и честно)
+- `hidden_gem`
+
+**Диференциатор срещу TripAdvisor fake authenticity.**
+
+---
+
+#### 14. Country Tour Mode (Bulgaria)
+Inspire Me вече има `country_tour`. Разшири:
+- 10 града × оптимален ред за 7/14 дни
+- „Bulgaria in 1 week“ готов маршрут
+
+**Уникално за регионален depth — Booking няма това.**
+
+---
+
+#### 15. Place «Worth Skipping» (рискова, честна функция)
+Понякога място е overhyped. Кажи го:
+- „Popular but overrated — go only if…“
+- „Better alternative: X nearby“
+
+**Trust > volume. Хората се връщат при честност.**
+
+---
+
+#### 16. Video Preview / 360 Hints
+Късо embedded видео или 3–5 снимки carousel: „Това е гледката, не stock photo.“
+
+**Отговаря директно на „какво ще видя с очите си“.**
+
+---
+
+#### 17. «Empty City» Detector
+Ако градът има <5 quality places: кажи честно „Half-day stop, not a destination.“
+
+**Против over-tourism marketing.**
+
+---
+
+#### 18. Embeddable «Worth Visiting?» Widget
+Партньори/блогъри вграждат: „Is Melnik worth it? [Yes — half day culture trip]“
+
+**Distribution без реклама за хотели.**
+
+---
+
+## Психология на задържане
+
+Големите са **транзакционни** — влизаш, плащаш, излизаш.
+
+Ние сме **прогресивни** — всеки клик те приближава:
+
+| Принцип | Как го прилагаме |
+|---------|-----------------|
+| **Competence** | „Знам града“ — compass hero, expert copy |
+| **Curiosity** | Inspire Me, Surprise me |
+| **Completion** | Progress bar, „пълна обиколка“, passport |
+| **Ownership** | Моят маршрут, моите градове |
+| **Social proof** | Share route, не review wall |
+| **Honesty** | Worth it / skip it / seasonal reality |
+
+### Трите слоя на продукта
+
+1. **Decision layer** — Inspire Me, сезон, vibe → намалява парализа
+2. **Planning layer** — Route cart, day plans, zones → заменя 15 таба
+3. **Identity layer** — Passport, progress, share → причина да се върнеш
+
+---
+
+## Hero & Brand — психологически избори
+
+| Елемент | Защо |
+|---------|------|
+| Compass (не паметници) | „Имаш посока“ — намалява тревожността в непознат град |
+| Cream/bronze (не жълто/бяло) | Luxury без агресия; топло, не transactional |
+| „Free · No app · 2 min“ | Нулева friction — 61% се оплакват от сложни сайтове |
+| Search-first hero | Booking pattern, но за **градове**, не хотели |
+| 10 places max per city | Anti-overwhelm — research-backed |
+
+---
+
+## Roadmap — предложен ред на имплементация
+
+> Пълен списък: виж секция **B. Функции за надминаване на конкуренцията** по-горе.
+
+### Фаза 1 (0–4 седмици) — „Виж какво ще видиш“
+- [ ] B4 Place Preview fields (what you'll see, how long, best time, worth_it_if, skip_if)
+- [ ] B3 Is It Worth It score per city + B26 how many days needed
+- [ ] B10 Seasonal Reality Check banners
+- [ ] B5 Zone tags на местата
+- [ ] B27 «First time here?» one-click starter route
+
+### Фаза 2 (4–8 седмици) — „Планирай деня си“
+- [ ] B1 Smart Day Plans + B20 anchor + zone builder
+- [ ] B2 Time Budget Planner
+- [ ] B6 Trip Confidence Score
+- [ ] B12 Visual Route Timeline
+- [ ] B28 Live map preview в route cart
+
+### Фаза 3 (8–12 седмици) — „Задържи и сподели“
+- [ ] B8 Shareable Route Cards (OG images)
+- [ ] B7 PWA / offline route
+- [ ] B9 Compare Cities page
+- [ ] B14 Country Tour Mode (Bulgaria 7-day)
+- [ ] B22 Schema.org JSON-LD + B24 programmatic SEO
+
+### Фаза 4 (рискови / експериментални)
+- [ ] B15 Worth Skipping + B25 better alternative nearby
+- [ ] B17 Empty City detector
+- [ ] B13 Locals Skip / Tourists Crowd tags
+- [ ] B18 Embeddable Worth Visiting widget
+- [ ] B16 Video / multi-photo preview
+- [ ] B29 Passport countries collected
+- [ ] B30 City vibe profile bars
+
+### Фаза 5 (от оригиналния Module 7)
+- [ ] B23 Sticky sidebar ad (desktop)
+- [ ] Admin monetization config (вече частично)
+
+---
+
+## Метрики на успех (не hotel bookings)
+
+| Метрика | Защо |
+|---------|------|
+| Време на сайта в city page | Четат, не bounce-ват |
+| Places added to route | Планират реално |
+| Routes saved / shared | Ownership |
+| Inspire Me completions | Decision layer работи |
+| Return visits to same city | Progress/passport loop |
+| Google Maps export clicks | Практична стойност |
+
+---
+
+## Конкуренти за вдъхновение (не за копиране)
+
+| Продукт | Какво прави добре | Какво липсва |
+|---------|------------------|--------------|
+| GPSmyCity | Offline walking tours | Остарял UX, плащане, няма gamification |
+| Stydr | Pedestrian-first offline | Няма editorial, няма curation |
+| Layla / AI trip planners | Personalization | Няма trust, generic, няма depth per city |
+| Culture Trip | Editorial quality | Слабо planning tooling |
+| Nomad List | Honest city info | Не е за tourists/city breaks |
+
+**Нашата комбинация:** Culture Trip editorial + GPSmyCity practicality + Duolingo progress + Inspire Me personalization.
+
+---
+
+## Admin / Content — как да пълним смислено
+
+При AI Generator или seed import, всяко място трябва да има:
+
+```
+- name
+- description (кратко)
+- what_youll_see[]     ← 3 bullets
+- how_long             ← "30 min" | "2 hours"
+- best_time            ← "sunrise" | "weekday morning"
+- worth_it_if          ← "you love history"
+- skip_if              ← "you hate crowds"
+- zone                 ← "Old Town"
+- season_notes         ← optional
+- lat, lng, image
+```
+
+Град трябва да има:
+
+```
+- worth_it_level       ← "must_see" | "great_stop" | "passing_by"
+- min_days             ← 1 | 2 | 3
+- best_seasons[]
+- vibe_tags[]          ← adventure, culture, beach...
+- honest_summary       ← 2 изречения: "Струва си защото..."
+```
+
+---
+
+## Рискове, които си струва да поемем
+
+1. **Честност** — „това място е overhyped“ (повече trust)
+2. **По-малко градове, повече depth** — 10 перфектни, не 100 празни
+3. **Skip booking entirely** — не се разсейваме с hotel affiliate
+4. **Mobile-first offline** — големите го нямат
+5. **Gamification без childish** — passport, не streaks и badges за деца
+6. **Seasonal honesty** — „не идвай през януари“
+
+---
+
+## Бележки от разговора (юни 2026)
+
+- Целта не е да сме „по-прости“ — да сме **по-добри и по-зарибяващи**
+- Hero: compass + cream/bronze + search-first (Airbnb pattern за градове)
+- Inspire Me: bottom sheet на mobile, portal to body
+- Dev server: порт **3002**; на телефон `http://192.168.100.8:3002/en` (същия Wi‑Fi)
+- Bulgaria demo: 10 града × 10 места с wiki/commons images
+
+---
+
+## Бърз reference — файлове в проекта
+
+| Модул | Път |
+|-------|-----|
+| Hero | `src/components/public/hero-map.tsx` |
+| Inspire Me | `src/components/public/inspire-me-modal.tsx` |
+| Inspire engine | `src/lib/inspire-engine.ts` |
+| Route cart | `src/components/public/route-cart.tsx` |
+| City progress | `src/components/public/city-progress.tsx` |
+| Passport | `src/app/[locale]/my-passport/` |
+| City page | `src/app/[locale]/explore/[country]/[city]/` |
+| Demo data | `src/lib/demo-data.ts` |
+| Wiki images | `src/lib/wiki-image.ts` |
+| Palette | `src/lib/luxury-palette.ts` |
+| Embed route | `src/app/embed/route/page.tsx` |
+| Shared route page | `src/app/[locale]/route/page.tsx` |
+| Related cities | `src/components/public/city-related.tsx` |
+| Ads | `src/components/ads/*.tsx` |
+| Seed import | `src/app/admin/(protected)/import/` |
+| Language switcher | `src/components/language-switcher.tsx` |
+| Product vision (този файл) | `docs/product-vision.md` |
+
+---
+
+## Бърза статистика
+
+| Категория | Брой |
+|-----------|------|
+| Изградени функции (A) | 38 |
+| Бъдещи за конкуренция (B) | 30 |
+| UX принципи (C) | 11 |
+| ROADMAP модули | 7 (6 готови, 1 частичен) |
+
+---
+
+*Този документ е жив — допълвай го, когато валидираш идеи с реални потребители или пускаш нова функция.*

@@ -1,0 +1,1096 @@
+{
+  "country": "Germany",
+  "phase": 1,
+  "hero_image": {
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Berlin_-_Brandenburger_Tor_nachts.jpg",
+    "image_source": "Wikimedia Commons",
+    "image_license": "CC BY-SA 4.0",
+    "description": "The majestic Brandenburg Gate lit at night, representing German unity, classical architecture, and national identity."
+  },
+  "cities": [
+    {
+      "name": "Berlin",
+      "city_name": "Berlin",
+      "region": "Berlin",
+      "latitude": 52.52,
+      "longitude": 13.405
+    },
+    {
+      "name": "Munich",
+      "city_name": "Munich",
+      "region": "Bavaria",
+      "latitude": 48.1351,
+      "longitude": 11.582
+    },
+    {
+      "name": "Hamburg",
+      "city_name": "Hamburg",
+      "region": "Hamburg",
+      "latitude": 53.5511,
+      "longitude": 9.9937
+    },
+    {
+      "name": "Cologne",
+      "city_name": "Cologne",
+      "region": "North Rhine-Westphalia",
+      "latitude": 50.9375,
+      "longitude": 6.9603
+    },
+    {
+      "name": "Frankfurt",
+      "city_name": "Frankfurt",
+      "region": "Hesse",
+      "latitude": 50.1109,
+      "longitude": 8.6821
+    },
+    {
+      "name": "Dresden",
+      "city_name": "Dresden",
+      "region": "Saxony",
+      "latitude": 51.0504,
+      "longitude": 13.7373
+    },
+    {
+      "name": "Nuremberg",
+      "city_name": "Nuremberg",
+      "region": "Bavaria",
+      "latitude": 49.4521,
+      "longitude": 11.0767
+    },
+    {
+      "name": "Stuttgart",
+      "city_name": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "latitude": 48.7758,
+      "longitude": 9.1829
+    },
+    {
+      "name": "Düsseldorf",
+      "city_name": "Düsseldorf",
+      "region": "North Rhine-Westphalia",
+      "latitude": 51.2277,
+      "longitude": 6.7735
+    },
+    {
+      "name": "Leipzig",
+      "city_name": "Leipzig",
+      "region": "Saxony",
+      "latitude": 51.3397,
+      "longitude": 12.3731
+    }
+  ],
+  "attractions": [
+    {
+      "city": "Berlin",
+      "name": "Brandenburg Gate",
+      "latitude": 52.5162,
+      "longitude": 13.3777,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Brandenburg_Gate",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Brandenburger_Tor_abends.jpg",
+      "description_short": "A landmark 18th-century neoclassical triumphal arch in Berlin, symbolizing peace and European unification.",
+      "seo_title": "Brandenburg Gate Berlin Travel Guide - Iconic German Landmark",
+      "keywords": [
+        "Brandenburg Gate",
+        "Berlin attractions",
+        "German monuments"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 98
+    },
+    {
+      "city": "Berlin",
+      "name": "Reichstag Building",
+      "latitude": 52.5186,
+      "longitude": 13.3761,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Reichstag_building",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Reichstag_building_Berlin_view_from_west.jpg",
+      "description_short": "The historic seat of the German parliament, completely transformed with a spectacular contemporary glass dome.",
+      "seo_title": "Inside the Reichstag Building Berlin - Glass Dome Tours",
+      "keywords": [
+        "Reichstag dome",
+        "German Parliament",
+        "Berlin architecture"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 96
+    },
+    {
+      "city": "Berlin",
+      "name": "Berlin Cathedral",
+      "latitude": 52.519,
+      "longitude": 13.4011,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Berlin_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Berliner_Dom_Blick_von_Altem_Museum.jpg",
+      "description_short": "The magnificent 19th-century Evangelical cathedral famed for its striking turquoise dome and exquisite interiors.",
+      "seo_title": "Berlin Cathedral Guide - Berliner Dom Architecture & Dome Climb",
+      "keywords": [
+        "Berliner Dom",
+        "Berlin Cathedral",
+        "Museum Island churches"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 93
+    },
+    {
+      "city": "Berlin",
+      "name": "Altes Museum",
+      "latitude": 52.5194,
+      "longitude": 13.3983,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Altes_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Altes_Museum_Berlin_2016.jpg",
+      "description_short": "A world-renowned neoclassical museum building housing a collection of Greek, Etruscan, and Roman antiquities.",
+      "seo_title": "Altes Museum Berlin - Classical Antiquities on Museum Island",
+      "keywords": [
+        "Altes Museum",
+        "Museum Island Berlin",
+        "Schinkel architecture"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 91
+    },
+    {
+      "city": "Berlin",
+      "name": "Berlin Television Tower",
+      "latitude": 52.5208,
+      "longitude": 13.4094,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fernsehturm_Berlin",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Fernsehturm_am_Alexanderplatz_Abendhimmel.jpg",
+      "description_short": "The tallest structure in Germany, offering breathtaking panoramic views from its iconic retro-futuristic sphere.",
+      "seo_title": "Berlin TV Tower (Fernsehturm) - Tickets & Rotating Restaurant",
+      "keywords": [
+        "Fernsehturm Berlin",
+        "Berlin TV Tower",
+        "Alexanderplatz tower"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 95
+    },
+    {
+      "city": "Berlin",
+      "name": "Gendarmenmarkt",
+      "latitude": 52.5136,
+      "longitude": 13.3928,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gendarmenmarkt",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Berlin_Gendarmenmarkt_Blick_zum_Deutschen_Dom.jpg",
+      "description_short": "An exquisite architectural ensemble featuring the Konzerthaus and twin French and German Reformed churches.",
+      "seo_title": "Gendarmenmarkt Square Berlin - Architectural Gem Guide",
+      "keywords": [
+        "Gendarmenmarkt",
+        "Berlin historic squares",
+        "Konzerthaus Berlin"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 90
+    },
+    {
+      "city": "Berlin",
+      "name": "Großer Tiergarten",
+      "latitude": 52.5144,
+      "longitude": 13.3501,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tiergarten_(park)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Tiergarten_Berlin_Herbst.jpg",
+      "description_short": "Berlin's expansive central urban park, filled with scenic shaded pathways, quiet lakes, and historic monuments.",
+      "seo_title": "Großer Tiergarten Berlin - The Ultimate Urban Park Guide",
+      "keywords": [
+        "Tiergarten park",
+        "Berlin green spaces",
+        "central park Berlin"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 89
+    },
+    {
+      "city": "Berlin",
+      "name": "Berlin Victory Column",
+      "latitude": 52.5145,
+      "longitude": 13.3501,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Berlin_Victory_Column",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Siegessaeule_Berlin_2017.jpg",
+      "description_short": "A grand, historic monument featuring a shining golden statue of Victoria and a high viewing platform.",
+      "seo_title": "Berlin Victory Column (Siegessäule) - History & Viewpoint",
+      "keywords": [
+        "Siegessäule",
+        "Victory Column Berlin",
+        "Berlin viewpoints"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 88
+    },
+    {
+      "city": "Berlin",
+      "name": "Bode Museum",
+      "latitude": 52.5211,
+      "longitude": 13.3941,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bode_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bode-Museum_Berlin_Spree.jpg",
+      "description_short": "A striking neo-Baroque museum on Museum Island, famous for master sculptures and Byzantine art.",
+      "seo_title": "Bode Museum Berlin - Sculpture Collection & Byzantine Art",
+      "keywords": [
+        "Bode Museum",
+        "Museum Island",
+        "Berlin sculpture gallery"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 87
+    },
+    {
+      "city": "Berlin",
+      "name": "Charlottenburg Palace",
+      "latitude": 52.5211,
+      "longitude": 13.2958,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Charlottenburg_Palace",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Schloss_Charlottenburg_Berlin_Fassade.jpg",
+      "description_short": "The largest and grandest surviving royal palace in Berlin, boasting magnificent Baroque and Rococo architecture.",
+      "seo_title": "Charlottenburg Palace Berlin - Baroque Residence & Gardens",
+      "keywords": [
+        "Charlottenburg Palace",
+        "Berlin royal estates",
+        "Schloss Charlottenburg"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 92
+    },
+    {
+      "city": "Munich",
+      "name": "Marienplatz",
+      "latitude": 48.1372,
+      "longitude": 11.5755,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marienplatz",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Munich_Marienplatz_with_New_Town_Hall.jpg",
+      "description_short": "Munich's historic central square, dominated by the spectacular Gothic Revival Neues Rathaus.",
+      "seo_title": "Marienplatz Munich Guide - New Town Hall & Glockenspiel",
+      "keywords": [
+        "Marienplatz",
+        "Munich central square",
+        "Glockenspiel Munich"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 99
+    },
+    {
+      "city": "Munich",
+      "name": "Frauenkirche",
+      "latitude": 48.1386,
+      "longitude": 11.5728,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Munich_Frauenkirche",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Munich_Frauenkirche_aerial_view.jpg",
+      "description_short": "The iconic Gothic cathedral of Munich, recognizable by its distinctive twin brick towers capped with Renaissance domes.",
+      "seo_title": "Munich Frauenkirche - Cathedral of Our Lady Architecture",
+      "keywords": [
+        "Frauenkirche Munich",
+        "Munich Cathedral",
+        "Gothic brick church"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 94
+    },
+    {
+      "city": "Munich",
+      "name": "Munich Residenz",
+      "latitude": 48.1411,
+      "longitude": 11.5781,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Munich_Residenz",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Residenz_Muenchen_Antiquarium.jpg",
+      "description_short": "The expansive former royal palace of the Wittelsbach monarchs, featuring opulent Renaissance and Baroque halls.",
+      "seo_title": "Munich Residenz Tour - Palace Museum & Antiquarium",
+      "keywords": [
+        "Munich Residenz",
+        "Bavarian Royal Palace",
+        "Antiquarium Munich"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 93
+    },
+    {
+      "city": "Munich",
+      "name": "Englischer Garten",
+      "latitude": 48.1528,
+      "longitude": 11.5921,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Englischer_Garten",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Monopteros_in_the_English_Garden_Munich.jpg",
+      "description_short": "A vast urban park famed for scenic meadows, peaceful lakes, and the unique Eisbach river surfing wave.",
+      "seo_title": "Englischer Garten Munich - Surfing, Lakes, & Park Guide",
+      "keywords": [
+        "Englischer Garten",
+        "English Garden Munich",
+        "Eisbach surfing"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 95
+    },
+    {
+      "city": "Munich",
+      "name": "Nymphenburg Palace",
+      "latitude": 48.1581,
+      "longitude": 11.5033,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nymphenburg_Palace",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Schloss_Nymphenburg_Munich.jpg",
+      "description_short": "A stunning Baroque summer palace featuring elegant classical interiors and an extensive canal network.",
+      "seo_title": "Nymphenburg Palace Munich - Baroque Summer Residence",
+      "keywords": [
+        "Nymphenburg Palace",
+        "Schloss Nymphenburg",
+        "Munich Baroque palaces"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 92
+    },
+    {
+      "city": "Munich",
+      "name": "Viktualienmarkt",
+      "latitude": 48.1351,
+      "longitude": 11.5761,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Viktualienmarkt",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Viktualienmarkt_Muenchen_Maibaum.jpg",
+      "description_short": "A bustling historic open-air gourmet food market and culinary hub located just steps from Marienplatz.",
+      "seo_title": "Viktualienmarkt Munich - Historic Food Market Guide",
+      "keywords": [
+        "Viktualienmarkt",
+        "Munich food market",
+        "Bavarian food culture"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 91
+    },
+    {
+      "city": "Munich",
+      "name": "Alte Pinakothek",
+      "latitude": 48.1483,
+      "longitude": 11.57,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alte_Pinakothek",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Alte_Pinakothek_Muenchen_Aussenansicht.jpg",
+      "description_short": "One of the oldest and most prestigious art galleries in the world, housing brilliant Old Master paintings.",
+      "seo_title": "Alte Pinakothek Munich - Old Master Painting Gallery",
+      "keywords": [
+        "Alte Pinakothek",
+        "Munich art museums",
+        "Old Master paintings"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 89
+    },
+    {
+      "city": "Munich",
+      "name": "Deutsches Museum",
+      "latitude": 48.1299,
+      "longitude": 11.5834,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Deutsches_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Deutsches_Museum_Luftfahrt.jpg",
+      "description_short": "The world's largest museum of science and technology, featuring fascinating masterworks of engineering.",
+      "seo_title": "Deutsches Museum Munich - World's Largest Science Museum",
+      "keywords": [
+        "Deutsches Museum",
+        "Munich science museum",
+        "aviation exhibits Munich"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 94
+    },
+    {
+      "city": "Munich",
+      "name": "Odeonsplatz",
+      "latitude": 48.1428,
+      "longitude": 11.5775,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Odeonsplatz",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Odeonsplatz_Muenchen_Theatinerkirche.jpg",
+      "description_short": "A striking monument-lined public square designed in a classical Florentine architectural style.",
+      "seo_title": "Odeonsplatz Munich - Italianate Architecture & Feldherrnhalle",
+      "keywords": [
+        "Odeonsplatz",
+        "Feldherrnhalle Munich",
+        "Theatinerkirche"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 88
+    },
+    {
+      "city": "Munich",
+      "name": "St. Peter's Church",
+      "latitude": 48.1364,
+      "longitude": 11.5758,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St._Peter%27s_Church,_Munich",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Alter_Peter_Muenchen_Aussichtsturm.jpg",
+      "description_short": "Munich's oldest parish church, famous for its historic tower that offers breathtaking views of the city center.",
+      "seo_title": "St. Peter's Church Munich (Alter Peter) - Tower Viewpoint",
+      "keywords": [
+        "Alter Peter",
+        "St Peter Church Munich",
+        "Munich viewpoints"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 90
+    },
+    {
+      "city": "Hamburg",
+      "name": "Elbphilharmonie",
+      "latitude": 53.5413,
+      "longitude": 9.9841,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Elbphilharmonie",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Elbphilharmonie_Hamburg_April_2017.jpg",
+      "description_short": "A stunning modern architectural icon of Hamburg, rising like a glass wave over an old brick warehouse.",
+      "seo_title": "Elbphilharmonie Hamburg - Plaza Tickets & Concert Hall Guide",
+      "keywords": [
+        "Elbphilharmonie",
+        "Hamburg concert hall",
+        "HafenCity architecture"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 98
+    },
+    {
+      "city": "Hamburg",
+      "name": "Speicherstadt",
+      "latitude": 53.5444,
+      "longitude": 9.9908,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Speicherstadt",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Hamburg_Speicherstadt_Wasserschloss.jpg",
+      "description_short": "The world's largest historic warehouse complex, built with striking red-brick Gothic architecture along picturesque canals.",
+      "seo_title": "Speicherstadt Hamburg - UNESCO Warehouse District Guide",
+      "keywords": [
+        "Speicherstadt",
+        "Hamburg UNESCO sites",
+        "warehouse district Hamburg"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 97
+    },
+    {
+      "city": "Hamburg",
+      "name": "Hamburg Town Hall",
+      "latitude": 53.5503,
+      "longitude": 9.9928,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hamburg_Rathaus",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hamburg_Rathaus_Aussenansicht.jpg",
+      "description_short": "The magnificent seat of Hamburg's local government, boasting an exceptionally ornate Neo-Renaissance design.",
+      "seo_title": "Hamburg Town Hall (Rathaus) - Neo-Renaissance Architecture",
+      "keywords": [
+        "Hamburg Rathaus",
+        "Hamburg Town Hall",
+        "Neo Renaissance architecture"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 93
+    },
+    {
+      "city": "Hamburg",
+      "name": "St. Michael's Church",
+      "latitude": 53.5483,
+      "longitude": 9.9789,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St._Michael%27s_Church,_Hamburg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Hamburg_Sankt_Michaelis_Aussenansicht.jpg",
+      "description_short": "Hamburg's most famous Baroque church, fondly nicknamed Der Michel and featuring a high maritime lookout tower.",
+      "seo_title": "St. Michael's Church Hamburg - Michel Tower Viewpoint",
+      "keywords": [
+        "Der Michel Hamburg",
+        "St Michaels Church",
+        "Baroque church Germany"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 92
+    },
+    {
+      "city": "Hamburg",
+      "name": "Landungsbrücken",
+      "latitude": 53.5458,
+      "longitude": 9.9667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Landungsbr%C3%BCcken",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Hamburg_Landungsbr%C3%BCcken.jpg",
+      "description_short": "Hamburg's iconic floating dock piers on the Elbe, a historic gateway to the port and harbor cruises.",
+      "seo_title": "Landungsbrücken Hamburg - Historic Harbor Piers Guide",
+      "keywords": [
+        "Landungsbrücken",
+        "Hamburg harbor piers",
+        "Elbe waterfront Hamburg"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 90
+    },
+    {
+      "city": "Hamburg",
+      "name": "Jungfernstieg",
+      "latitude": 53.5539,
+      "longitude": 9.9925,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jungfernstieg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Hamburg_Binnenalster_Blick_zum_Jungfernstieg.jpg",
+      "description_short": "Hamburg's premier historic waterfront promenade along the shores of the scenic Binnenalster lake.",
+      "seo_title": "Jungfernstieg Hamburg - Historic Waterfront Promenade",
+      "keywords": [
+        "Jungfernstieg",
+        "Alster lake Hamburg",
+        "Binnenalster promenade"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 91
+    },
+    {
+      "city": "Hamburg",
+      "name": "International Maritime Museum",
+      "latitude": 53.5436,
+      "longitude": 10.0003,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/International_Maritime_Museum_Hamburg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Internationales_Maritimes_Museum_Hamburg_Kaispeicher_B.jpg",
+      "description_short": "A world-class maritime museum housed in Hamburg's oldest preserved port warehouse building.",
+      "seo_title": "International Maritime Museum Hamburg - Naval History",
+      "keywords": [
+        "Hamburg Maritime Museum",
+        "Kaispeicher B",
+        "nautical history Germany"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 89
+    },
+    {
+      "city": "Hamburg",
+      "name": "St. James's Church",
+      "latitude": 53.5503,
+      "longitude": 9.9992,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St._James%27s_Church,_Hamburg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Hamburg_Sankt_Jacobi_Hauptschiff.jpg",
+      "description_short": "A historic 14th-century Gothic parish church housing a world-famous Arp Schnitger Baroque pipe organ.",
+      "seo_title": "St. James's Church Hamburg - Historic Arp Schnitger Organ",
+      "keywords": [
+        "Sankt Jacobi Hamburg",
+        "Arp Schnitger organ",
+        "brick Gothic church"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 86
+    },
+    {
+      "city": "Hamburg",
+      "name": "St. Peter's Church",
+      "latitude": 53.5511,
+      "longitude": 9.9964,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St._Peter%27s_Church,_Hamburg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Hamburg_Sankt_Petri_Aussenansicht.jpg",
+      "description_short": "The oldest surviving parish church site in Hamburg, showcasing soaring neo-Gothic brick design.",
+      "seo_title": "St. Peter's Church Hamburg - Oldest Parish Church",
+      "keywords": [
+        "Sankt Petri Hamburg",
+        "oldest church Hamburg",
+        "neo Gothic brick"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 85
+    },
+    {
+      "city": "Hamburg",
+      "name": "Chilehaus",
+      "latitude": 53.5483,
+      "longitude": 10.0019,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Chilehaus",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Chilehaus_Hamburg_Spitze.jpg",
+      "description_short": "An exceptional 1920s office building famous for its sharp architectural angle resembling an ocean liner's bow.",
+      "seo_title": "Chilehaus Hamburg - Brick Expressionism Masterpiece",
+      "keywords": [
+        "Chilehaus Hamburg",
+        "Brick Expressionism",
+        "Fritz Höger architecture"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 90
+    },
+    {
+      "city": "Cologne",
+      "name": "Cologne Cathedral",
+      "latitude": 50.9413,
+      "longitude": 6.9583,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cologne_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Koelner_Dom_Fassade.jpg",
+      "description_short": "Germany's most visited monument, a breathtaking High Gothic cathedral featuring towering twin spires.",
+      "seo_title": "Cologne Cathedral Guide - Kölner Dom Architecture & Tickets",
+      "keywords": [
+        "Cologne Cathedral",
+        "Kölner Dom",
+        "Gothic cathedrals Germany"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 100
+    },
+    {
+      "city": "Cologne",
+      "name": "Hohenzollern Bridge",
+      "latitude": 50.9417,
+      "longitude": 6.9653,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hohenzollern_Bridge",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Hohenzollernbruecke_Koeln_Abend.jpg",
+      "description_short": "A historic three-arched steel railway bridge across the Rhine, famous for thousands of colorful love locks.",
+      "seo_title": "Hohenzollern Bridge Cologne - Love Locks & Rhine Views",
+      "keywords": [
+        "Hohenzollern Bridge",
+        "Cologne love locks",
+        "Rhine River bridges"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 96
+    },
+    {
+      "city": "Cologne",
+      "name": "Alter Markt",
+      "latitude": 50.9381,
+      "longitude": 6.9594,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alter_Markt,_Cologne",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Koeln_Alter_Markt_Haeuserzeile.jpg",
+      "description_short": "Cologne's charming old town marketplace, lined with traditional narrow gabled houses and historic cafes.",
+      "seo_title": "Alter Markt Cologne - Old Town Square & Historic Cafes",
+      "keywords": [
+        "Alter Markt Cologne",
+        "Cologne Old Town",
+        "Jan von Werth fountain"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 92
+    },
+    {
+      "city": "Cologne",
+      "name": "Farina Fragrance Museum",
+      "latitude": 50.9378,
+      "longitude": 6.9583,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Farina_Fragrance_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Farina_Haus_Koeln.jpg",
+      "description_short": "The world's oldest pristine fragrance factory, where the original Eau de Cologne was invented.",
+      "seo_title": "Farina Fragrance Museum Cologne - Birthplace of Eau de Cologne",
+      "keywords": [
+        "Farina Museum",
+        "Eau de Cologne history",
+        "original perfume factory"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 91
+    },
+    {
+      "city": "Cologne",
+      "name": "Cologne Chocolate Museum",
+      "latitude": 50.9322,
+      "longitude": 6.9639,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cologne_Chocolate_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Schokoladenmuseum_Koeln_Aussenansicht.jpg",
+      "description_short": "An interactive museum charting the history of cocoa, complete with a massive golden chocolate fountain.",
+      "seo_title": "Cologne Chocolate Museum (Schokoladenmuseum) - Visitor Guide",
+      "keywords": [
+        "Schokoladenmuseum",
+        "Cologne Chocolate Museum",
+        "chocolate fountain Cologne"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 95
+    },
+    {
+      "city": "Cologne",
+      "name": "Great St. Martin Church",
+      "latitude": 50.9386,
+      "longitude": 6.9617,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Great_St._Martin_Church,_Cologne",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Gro%C3%9F_Sankt_Martin_Koeln.jpg",
+      "description_short": "A historic Romanesque church famous for its unique clover-leaf crossing tower that defines the riverside skyline.",
+      "seo_title": "Great St. Martin Church Cologne - Romanesque Landmark",
+      "keywords": [
+        "Gross Sankt Martin",
+        "Great St Martin Cologne",
+        "Romanesque church Germany"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 89
+    },
+    {
+      "city": "Cologne",
+      "name": "Museum Ludwig",
+      "latitude": 50.9411,
+      "longitude": 6.9603,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Museum_Ludwig",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Museum_Ludwig_Koeln.jpg",
+      "description_short": "A premier modern art museum housing one of Europe's largest collections of Pop Art and Picasso masterworks.",
+      "seo_title": "Museum Ludwig Cologne - Modern Art & Picasso Collection",
+      "keywords": [
+        "Museum Ludwig",
+        "Cologne modern art",
+        "Picasso collection Germany"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 92
+    },
+    {
+      "city": "Cologne",
+      "name": "Rhine Garden",
+      "latitude": 50.9394,
+      "longitude": 6.9619,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rheingarten_(Cologne)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Rheingarten_Koeln_Rhine_Promenade.jpg",
+      "description_short": "A beautiful waterfront park and promenade linking Cologne's Old Town directly to the edge of the Rhine.",
+      "seo_title": "Rhine Garden Cologne (Rheingarten) - Waterfront Promenade",
+      "keywords": [
+        "Rheingarten Cologne",
+        "Rhine promenade park",
+        "Cologne old town waterfront"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 88
+    },
+    {
+      "city": "Cologne",
+      "name": "Cologne City Hall",
+      "latitude": 50.9378,
+      "longitude": 6.9592,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cologne_City_Hall",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Koeln_Rathaus_Renaissancelaube.jpg",
+      "description_short": "Germany's oldest serving city hall, featuring an elegant Renaissance loggia and an ornate Gothic tower.",
+      "seo_title": "Cologne City Hall (Rathaus) - Renaissance Loggia & Tower",
+      "keywords": [
+        "Cologne Rathaus",
+        "Cologne City Hall",
+        "Renaissance loggia"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 90
+    },
+    {
+      "city": "Cologne",
+      "name": "Cologne Flora",
+      "latitude": 50.9594,
+      "longitude": 6.9714,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Flora_und_Botanischer_Garten_K%C3%B6ln",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flora_Koeln_Botanischer_Garten.jpg",
+      "description_short": "A beautiful historic botanical garden featuring a majestic 19th-century iron and glass palace.",
+      "seo_title": "Cologne Flora - Botanical Garden & Glass Palace Guide",
+      "keywords": [
+        "Cologne Flora",
+        "Cologne Botanical Garden",
+        "glass palace Germany"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 88
+    },
+    {
+      "city": "Frankfurt",
+      "name": "Römerberg",
+      "latitude": 50.1103,
+      "longitude": 8.6822,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/R%C3%B6merberg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Frankfurt_Roemerberg_Ostzeile.jpg",
+      "description_short": "Frankfurt's picturesque historic central square, lined with iconic half-timbered houses and the landmark medieval city hall.",
+      "seo_title": "Römerberg Frankfurt Guide - Historic Old Town Square",
+      "keywords": [
+        "Römerberg",
+        "Frankfurt Old Town",
+        "Römer town hall"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 99
+    },
+    {
+      "city": "Frankfurt",
+      "name": "Main Tower",
+      "latitude": 50.1125,
+      "longitude": 8.6722,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Main_Tower",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Frankfurt_Main_Tower_Aussichtsplattform.jpg",
+      "description_short": "A landmark 200-meter skyscraper boasting Frankfurt's highest open-air public observation deck.",
+      "seo_title": "Main Tower Frankfurt - Tickets & Skyline Observation Deck",
+      "keywords": [
+        "Main Tower Frankfurt",
+        "Frankfurt skyscrapers",
+        "skyline viewing deck"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 96
+    },
+    {
+      "city": "Frankfurt",
+      "name": "Goethe House",
+      "latitude": 50.1111,
+      "longitude": 8.6778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Goethe_House",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Goethe-Haus_Frankfurt_am_Main.jpg",
+      "description_short": "The historic birthplace and family home of Germany's most celebrated literary genius, Johann Wolfgang von Goethe.",
+      "seo_title": "Goethe House Frankfurt - Birthplace of Johann Wolfgang von Goethe",
+      "keywords": [
+        "Goethe House",
+        "Johann Wolfgang von Goethe",
+        "Frankfurt museum house"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 93
+    },
+    {
+      "city": "Frankfurt",
+      "name": "St. Bartholomew's Cathedral",
+      "latitude": 50.1106,
+      "longitude": 8.6853,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Frankfurt_Cathedral",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Frankfurt_am_Main_Kaiserdom.jpg",
+      "description_short": "A historic Gothic cathedral built of striking red sandstone, famed as the site for imperial elections and coronations.",
+      "seo_title": "Frankfurt Cathedral (Dom Sankt Bartholomäus) - Imperial History",
+      "keywords": [
+        "Frankfurt Dom",
+        "St Bartholomews Cathedral",
+        "red sandstone Gothic"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 92
+    },
+    {
+      "city": "Frankfurt",
+      "name": "Iron Footbridge",
+      "latitude": 50.1092,
+      "longitude": 8.6817,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Eiserner_Steg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Frankfurt_Eiserner_Steg_Abend.jpg",
+      "description_short": "A historic late 19th-century iron pedestrian bridge offering famous views of Frankfurt's skyscrapers.",
+      "seo_title": "Iron Footbridge Frankfurt (Eiserner Steg) - Love Lock Bridge",
+      "keywords": [
+        "Eiserner Steg",
+        "Iron Footbridge Frankfurt",
+        "Main River bridge"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 94
+    },
+    {
+      "city": "Frankfurt",
+      "name": "Palmengarten",
+      "latitude": 50.1233,
+      "longitude": 8.6581,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Palmengarten",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Palmengarten_Frankfurt_Gesellschaftshaus.jpg",
+      "description_short": "One of Germany's largest botanical gardens, centered around a majestic 19th-century glass Palm House.",
+      "seo_title": "Palmengarten Frankfurt - Botanical Greenhouses Guide",
+      "keywords": [
+        "Palmengarten Frankfurt",
+        "Frankfurt botanical garden",
+        "Palmenhaus"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 90
+    },
+    {
+      "city": "Frankfurt",
+      "name": "Städel Museum",
+      "latitude": 50.1028,
+      "longitude": 8.6739,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St%C3%A4del_Museum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Staedel_Museum_Frankfurt.jpg",
+      "description_short": "One of Germany's most elite art museums, presenting seven centuries of European masterpieces under one roof.",
+      "seo_title": "Städel Museum Frankfurt - 700 Years of Art History",
+      "keywords": [
+        "Städel Museum",
+        "Museumsufer Frankfurt",
+        "Old Master paintings"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 93
+    },
+    {
+      "city": "Frankfurt",
+      "name": "St. Paul's Church",
+      "latitude": 50.1111,
+      "longitude": 8.6808,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St._Paul%27s_Church,_Frankfurt",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Frankfurt_Paulskirche_Aussenansicht.jpg",
+      "description_short": "A historic circular limestone building celebrated as the cradle of modern German democracy.",
+      "seo_title": "St. Paul's Church Frankfurt (Paulskirche) - Democracy Cradle",
+      "keywords": [
+        "Paulskirche",
+        "St Pauls Church Frankfurt",
+        "German democracy cradle"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 91
+    },
+    {
+      "city": "Frankfurt",
+      "name": "Kleinmarkthalle",
+      "latitude": 50.1119,
+      "longitude": 8.6839,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kleinmarkthalle_Frankfurt",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kleinmarkthalle_Frankfurt_Innenansicht.jpg",
+      "description_short": "A bustling indoor market hall featuring unique regional culinary delicacies and local vendor stalls.",
+      "seo_title": "Kleinmarkthalle Frankfurt - Gourmet Food Market Guide",
+      "keywords": [
+        "Kleinmarkthalle",
+        "Frankfurt food market",
+        "Green Sauce Frankfurt"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 89
+    },
+    {
+      "city": "Frankfurt",
+      "name": "Alte Oper",
+      "latitude": 50.1158,
+      "longitude": 8.6719,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alte_Oper",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Alte_Oper_Frankfurt_am_Main.jpg",
+      "description_short": "A grand late 19th-century Renaissance Revival concert hall fronted by a spacious public square.",
+      "seo_title": "Alte Oper Frankfurt - Historic Opera House Architecture",
+      "keywords": [
+        "Alte Oper",
+        "Frankfurt Opera House",
+        "Renaissance Revival architecture"
+      ],
+      "search_intent": "travel_planning",
+      "seo_priority_score": 91
+    }
+  ],
+  "adventure_locations": [
+    {
+      "name": "Neuschwanstein Castle",
+      "region": "Bavaria",
+      "latitude": 47.5576,
+      "longitude": 10.7498,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Neuschwanstein_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Schloss_Neuschwanstein_2013.jpg",
+      "description_short": "The iconic late 19th-century romantic palace built on a rugged alpine cliff.",
+      "seo_title": "Neuschwanstein Castle Travel Guide - Fairy Tale Palace",
+      "keywords": [
+        "Neuschwanstein Castle",
+        "Bavarian Alps road trip",
+        "King Ludwig II"
+      ],
+      "seo_priority_score": 98
+    },
+    {
+      "name": "Bastei Bridge",
+      "region": "Saxony",
+      "latitude": 50.9622,
+      "longitude": 14.0734,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bastei",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Basteibruecke_Morgennebel.jpg",
+      "description_short": "A spectacular historic stone bridge built directly across towering natural sandstone rock columns.",
+      "seo_title": "Bastei Bridge Road Trip Guide - Saxon Switzerland",
+      "keywords": [
+        "Bastei Bridge",
+        "Saxon Switzerland National Park",
+        "Elbe Sandstone Mountains"
+      ],
+      "seo_priority_score": 97
+    },
+    {
+      "name": "Eltz Castle",
+      "region": "Rhineland-Palatinate",
+      "latitude": 50.2051,
+      "longitude": 7.3366,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Eltz_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Burg_Eltz_2020.jpg",
+      "description_short": "An exceptionally preserved medieval castle hidden deep within a forested valley.",
+      "seo_title": "Burg Eltz Castle Guide - Medieval Marvel Hidden in Eltz Forest",
+      "keywords": [
+        "Burg Eltz",
+        "Eltz Castle road trip",
+        "medieval castles Germany"
+      ],
+      "seo_priority_score": 96
+    },
+    {
+      "name": "Lake Königssee",
+      "region": "Bavaria",
+      "latitude": 47.5542,
+      "longitude": 12.9886,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/K%C3%B6nigsee",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Koenigssee_Sankt_Bartholomae_2016.jpg",
+      "description_short": "A stunning crystal-clear alpine lake surrounded by towering mountain walls within Berchtesgaden National Park.",
+      "seo_title": "Lake Königssee Guide - Berchtesgaden National Park Road Trip",
+      "keywords": [
+        "Lake Königssee",
+        "Berchtesgaden National Park",
+        "St Bartholomew church"
+      ],
+      "seo_priority_score": 95
+    },
+    {
+      "name": "Zugspitze Peak",
+      "region": "Bavaria",
+      "latitude": 47.4211,
+      "longitude": 10.9847,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Zugspitze",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Zugspitze_Blick_vom_Gipfel.jpg",
+      "description_short": "The highest mountain peak in Germany, offering breathtaking 360-degree views across four Alpine nations.",
+      "seo_title": "Zugspitze Peak Travel Guide - Germany's Highest Mountain",
+      "keywords": [
+        "Zugspitze Peak",
+        "highest mountain Germany",
+        "Eibsee cable car"
+      ],
+      "seo_priority_score": 97
+    },
+    {
+      "name": "Rakotzbrücke (Devil's Bridge)",
+      "region": "Saxony",
+      "latitude": 51.5363,
+      "longitude": 14.6405,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rakotzbr%C3%BCcke",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Rakotzbruecke_Kromlau_2021.jpg",
+      "description_short": "A unique 19th-century basalt stone arch bridge designed to form a perfect circle reflection in the waters below.",
+      "seo_title": "Rakotzbrücke Devil's Bridge Guide - Kromlau Park Road Trip",
+      "keywords": [
+        "Rakotzbruecke",
+        "Devils Bridge Germany",
+        "Kromlau Park"
+      ],
+      "seo_priority_score": 90
+    },
+    {
+      "name": "Mummelsee Lake (Black Forest)",
+      "region": "Baden-Württemberg",
+      "latitude": 48.5975,
+      "longitude": 8.2003,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mummelsee",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Mummelsee_Schwarzwald.jpg",
+      "description_short": "A pristine mountain lake nestled deep within the dense pine forests of the historic Black Forest.",
+      "seo_title": "Mummelsee Lake Road Trip Guide - Black Forest High Road",
+      "keywords": [
+        "Mummelsee",
+        "Black Forest High Road",
+        "Schwarzwald nature"
+      ],
+      "seo_priority_score": 88
+    },
+    {
+      "name": "Lichtenstein Castle",
+      "region": "Baden-Württemberg",
+      "latitude": 48.4064,
+      "longitude": 9.2578,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lichtenstein_Castle_(Germany)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Schloss_Lichtenstein_2019.jpg",
+      "description_short": "A stunning 19th-century Neo-Gothic knight's castle perched dramatically on a vertical rock escarpment.",
+      "seo_title": "Lichtenstein Castle Guide - Swabian Jura Road Trip",
+      "keywords": [
+        "Lichtenstein Castle",
+        "Schloss Lichtenstein",
+        "Swabian Jura road trip"
+      ],
+      "seo_priority_score": 89
+    },
+    {
+      "name": "Chalk Cliffs of Jasmund",
+      "region": "Mecklenburg-Vorpommern",
+      "latitude": 54.5733,
+      "longitude": 13.6622,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jasmund_National_Park",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Ruegen_Kreidefelsen_Koenigsstuhl.jpg",
+      "description_short": "Spectacular bright-white chalk cliffs rising dramatically above the blue waters of the Baltic Sea.",
+      "seo_title": "Jasmund Chalk Cliffs Guide - Rügen Island Road Trip",
+      "keywords": [
+        "Jasmund National Park",
+        "Ruegen Island chalk cliffs",
+        "Koenigsstuhl view"
+      ],
+      "seo_priority_score": 90
+    },
+    {
+      "name": "Mainau Island (Lake Constance)",
+      "region": "Baden-Württemberg",
+      "latitude": 47.7053,
+      "longitude": 9.1953,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mainau",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Mainau_Island_Flower_Gardens.jpg",
+      "description_short": "A stunning botanical island oasis in Lake Constance, famed for massive seasonal floral displays and a Baroque palace.",
+      "seo_title": "Mainau Island Lake Constance - Botanical Paradise Guide",
+      "keywords": [
+        "Mainau Island",
+        "Lake Constance botanical",
+        "Bodensee road trip"
+      ],
+      "seo_priority_score": 88
+    }
+  ]
+}

@@ -1,0 +1,3722 @@
+{
+  "version": 2,
+  "country": "Sweden",
+  "published": true,
+  "cities": [
+    {
+      "city": "Stockholm",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Stockholm",
+      "seo": {
+        "title": "Top 10 Things to Do in Stockholm, Sweden",
+        "description": "Discover 10 must-see landmarks in Stockholm, Sweden. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Stockholm? Explore the best places to visit in Stockholm, Sweden.",
+        "keywords": [
+          "things to do in Stockholm",
+          "Stockholm Sweden travel guide",
+          "best places to visit in Stockholm",
+          "Stockholm landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Gamla Stan",
+          "wiki_title": "Gamla stan",
+          "lat": 59.3256,
+          "lng": 18.0719,
+          "order_index": 0,
+          "description": "Stockholm's charming old town, filled with colorful 17th-century buildings and historic squares.",
+          "seo_phrase": "Visiting Gamla Stan: The Ultimate Stockholm Old Town Guide",
+          "seo_keywords": [
+            "Gamla Stan",
+            "Stockholm Old Town",
+            "Stortorget",
+            "Stockholm history",
+            "historic center"
+          ],
+          "commons_file": "Stortorget Stockholm July 2014.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Stortorget_Stockholm_July_2014.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "all-season",
+            "summer",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Royal Palace",
+            "Nobel Prize Museum",
+            "Storkyrkan"
+          ]
+        },
+        {
+          "name": "Vasa Museum",
+          "wiki_title": "Vasa Museum",
+          "lat": 59.328,
+          "lng": 18.0914,
+          "order_index": 1,
+          "description": "A world-renowned maritime museum showcasing an intact, salvaged 1628 warship.",
+          "seo_phrase": "Vasa Museum Stockholm: The World's Best-Preserved 17th-Century Ship",
+          "seo_keywords": [
+            "Vasa Museum",
+            "Vasamuseet",
+            "Stockholm maritime museum",
+            "Vasa ship"
+          ],
+          "commons_file": "Vasa front 2014 02.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Vasa_front_2014_02.jpg",
+          "seo_priority": 97,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "all-season"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Nordiska Museet",
+            "Skansen",
+            "Djurgården"
+          ]
+        },
+        {
+          "name": "The Royal Palace",
+          "wiki_title": "Stockholm ",
+          "lat": 59.3268,
+          "lng": 18.0717,
+          "order_index": 2,
+          "description": "The official residence of the Swedish monarch, boasting magnificent Baroque state rooms.",
+          "seo_phrase": "Stockholm Royal Palace Visitor Guide: Tickets & Highlights",
+          "seo_keywords": [
+            "Royal Palace Stockholm",
+            "Kungliga Slottet",
+            "Swedish monarchy",
+            "Stockholm sights"
+          ],
+          "commons_file": "Stockholms slott från Strömmen 2020.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Stockholms_slott_fr%C3%A5n_Str%C3%B6mmen_2020.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "all-season"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Gamla Stan",
+            "Nobel Prize Museum",
+            "Storkyrkan"
+          ]
+        },
+        {
+          "name": "Skansen Open-Air Museum",
+          "wiki_title": "Skansen",
+          "lat": 59.3247,
+          "lng": 18.1023,
+          "order_index": 3,
+          "description": "The world's oldest open-air museum, exhibiting traditional Swedish heritage and wildlife.",
+          "seo_phrase": "Skansen Guide: Stockholm's Historic Open-Air Museum & Zoo",
+          "seo_keywords": [
+            "Skansen",
+            "open-air museum Stockholm",
+            "Swedish history zoo",
+            "Djurgarden attractions"
+          ],
+          "commons_file": "Bollnästorget Skansen 2013.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bolln%C3%A4storget_Skansen_2013.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "summer",
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Vasa Museum",
+            "Djurgården",
+            "Nordiska Museet"
+          ]
+        },
+        {
+          "name": "Stockholm City Hall",
+          "wiki_title": "Stockholm City Hall",
+          "lat": 59.3274,
+          "lng": 18.0543,
+          "order_index": 4,
+          "description": "Stockholm's iconic civic landmark, famous for its grand brick architecture and spectacular tower panoramas.",
+          "seo_phrase": "Stockholm City Hall: Architecture, Tower Views & Nobel Banquet",
+          "seo_keywords": [
+            "Stockholm City Hall",
+            "Stadshuset",
+            "Nobel banquet venue",
+            "Stockholm tower views"
+          ],
+          "commons_file": "Stockholms stadshus juli 2013b.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Stockholms_stadshus_juli_2013b.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "all-season",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Central Station",
+            "Riddarholmen",
+            "Gamla Stan"
+          ]
+        },
+        {
+          "name": "Fotografiska Stockholm",
+          "wiki_title": "Fotografiska",
+          "lat": 59.3179,
+          "lng": 18.0827,
+          "order_index": 5,
+          "description": "A dynamic global hotspot for contemporary photography, set in a historic industrial building.",
+          "seo_phrase": "Fotografiska Stockholm: Contemporary Photography Museum Guide",
+          "seo_keywords": [
+            "Fotografiska",
+            "Stockholm photography museum",
+            "Södermalm art",
+            "contemporary photography"
+          ],
+          "commons_file": "Fotografiska Stockholm 2012.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Fotografiska_Stockholm_2012.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "all-season",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Södermalm",
+            "Slussen",
+            "Gamla Stan"
+          ]
+        },
+        {
+          "name": "The Nobel Prize Museum",
+          "wiki_title": "Nobel Prize Museum",
+          "lat": 59.3254,
+          "lng": 18.0703,
+          "order_index": 6,
+          "description": "An inspiring exhibition space dedicated to the history of the Nobel Prize and its brilliant laureates.",
+          "seo_phrase": "Nobel Prize Museum Stockholm: Honoring Humanity's Best Ideas",
+          "seo_keywords": [
+            "Nobel Prize Museum",
+            "Börshuset Stockholm",
+            "Alfred Nobel",
+            "Stortorget museum"
+          ],
+          "commons_file": "Börshuset Stockholm 2015.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/B%C3%B6rshuset_Stockholm_2015.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "all-season"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Gamla Stan",
+            "Storkyrkan",
+            "The Royal Palace"
+          ]
+        },
+        {
+          "name": "Storkyrkan",
+          "wiki_title": "Storkyrkan",
+          "lat": 59.3258,
+          "lng": 18.0706,
+          "order_index": 7,
+          "description": "Stockholm’s historic cathedral, renowned for its brick Gothic interior and masterly religious relics.",
+          "seo_phrase": "Storkyrkan Stockholm: The Historic St. Nicholas Cathedral Guide",
+          "seo_keywords": [
+            "Storkyrkan",
+            "Stockholm Cathedral",
+            "St Nicholas Church",
+            "Gothic cathedral Sweden"
+          ],
+          "commons_file": "Storkyrkan exterior 2015.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Storkyrkan_exterior_2015.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "all-season"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Royal Palace",
+            "Gamla Stan",
+            "Nobel Prize Museum"
+          ]
+        },
+        {
+          "name": "Moderna Museet",
+          "wiki_title": "Moderna Museet",
+          "lat": 59.3261,
+          "lng": 18.0847,
+          "order_index": 8,
+          "description": "Sweden's state museum for modern and contemporary art, located on the scenic island of Skeppsholmen.",
+          "seo_phrase": "Moderna Museet Stockholm: Modern & Contemporary Art Collections",
+          "seo_keywords": [
+            "Moderna Museet",
+            "Stockholm modern art",
+            "Skeppsholmen museum",
+            "contemporary art Sweden"
+          ],
+          "commons_file": "Moderna museet 2011a.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Moderna_museet_2011a.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "all-season"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Skeppsholmen",
+            "Nationalmuseum",
+            "Kungsträdgården"
+          ]
+        },
+        {
+          "name": "Kungsträdgården",
+          "wiki_title": "Kungsträdgården",
+          "lat": 59.3312,
+          "lng": 18.0706,
+          "order_index": 9,
+          "description": "A vibrant public park in central Stockholm that acts as a lively cultural hub all year round.",
+          "seo_phrase": "Kungsträdgården Stockholm: The King's Garden Visitor Guide",
+          "seo_keywords": [
+            "Kungsträdgården",
+            "Kings Garden Stockholm",
+            "cherry blossoms Stockholm",
+            "central park Sweden"
+          ],
+          "commons_file": "Kungsträdgården Stockholm May 2015 02.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Kungstr%C3%A4dg%C3%A5rden_Stockholm_May_2015_02.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Royal Swedish Opera",
+            "Nationalmuseum",
+            "Gamla Stan"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Gothenburg",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Gothenburg",
+      "seo": {
+        "title": "Top 10 Things to Do in Gothenburg, Sweden",
+        "description": "Discover 10 must-see landmarks in Gothenburg, Sweden. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Gothenburg? Explore the best places to visit in Gothenburg, Sweden.",
+        "keywords": [
+          "things to do in Gothenburg",
+          "Gothenburg Sweden travel guide",
+          "best places to visit in Gothenburg",
+          "Gothenburg landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Liseberg",
+          "wiki_title": "Liseberg",
+          "lat": 57.6969,
+          "lng": 11.9931,
+          "order_index": 0,
+          "description": "Scandinavia's premier amusement park, renowned for thrilling roller coasters and lush landscaping.",
+          "seo_phrase": "Liseberg Amusement Park: Rides, Tickets, & Seasonal Events",
+          "seo_keywords": [
+            "Liseberg",
+            "Gothenburg amusement park",
+            "Helix roller coaster",
+            "Liseberg theme park"
+          ],
+          "commons_file": "Liseberg Main Gate 2016.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Liseberg_Main_Gate_2016.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Universeum",
+            "Museum of World Culture",
+            "Avenyn"
+          ]
+        },
+        {
+          "name": "Universeum",
+          "wiki_title": "Universeum",
+          "lat": 57.6958,
+          "lng": 11.9894,
+          "order_index": 1,
+          "description": "A large interactive science center and museum featuring an multi-story indoor rainforest and ocean tanks.",
+          "seo_phrase": "Universeum Gothenburg: Science Centre & Indoor Rainforest Guide",
+          "seo_keywords": [
+            "Universeum",
+            "Gothenburg science center",
+            "indoor rainforest Sweden",
+            "Gothenburg aquarium"
+          ],
+          "commons_file": "Universeum exterior 2014.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Universeum_exterior_2014.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "all-season"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Liseberg",
+            "Museum of World Culture",
+            "Gothenburg Museum of Art"
+          ]
+        },
+        {
+          "name": "Slottsskogen",
+          "wiki_title": "Slottsskogen",
+          "lat": 57.6864,
+          "lng": 11.9419,
+          "order_index": 2,
+          "description": "Gothenburg's central park featuring winding wooded trails, rolling meadows, and a free native zoo.",
+          "seo_phrase": "Slottsskogen Park Gothenburg: Wildlife Zoo & Botanical Walks",
+          "seo_keywords": [
+            "Slottsskogen",
+            "Gothenburg park",
+            "Gothenburg elk zoo",
+            "free things to do Gothenburg"
+          ],
+          "commons_file": "Slottsskogen park Gothenburg.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Slottsskogen_park_Gothenburg.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Gothenburg Botanical Garden",
+            "Haga Historic District",
+            "Skansen Kronan"
+          ]
+        },
+        {
+          "name": "Skansen Kronan",
+          "wiki_title": "Skansen Kronan",
+          "lat": 57.6961,
+          "lng": 11.9553,
+          "order_index": 3,
+          "description": "A landmark 17th-century hilltop fortress offering commanding panoramic views of Gothenburg.",
+          "seo_phrase": "Skansen Kronan: Historic Fortress & Gothenburg Panoramic Viewpoint",
+          "seo_keywords": [
+            "Skansen Kronan",
+            "Gothenburg fortress",
+            "Erik Dahlbergh",
+            "Gothenburg viewpoint"
+          ],
+          "commons_file": "Skansen Kronan August 2014.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Skansen_Kronan_August_2014.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Haga Historic District",
+            "Slottsskogen",
+            "Feskekörka"
+          ]
+        },
+        {
+          "name": "Gothenburg Botanical Garden",
+          "wiki_title": "Gothenburg Botanical Garden",
+          "lat": 57.6831,
+          "lng": 11.9511,
+          "order_index": 4,
+          "description": "One of Europe's largest and most acclaimed botanical gardens, showcasing diverse global flora.",
+          "seo_phrase": "Gothenburg Botanical Garden: Rock Garden & Exotic Greenhouses",
+          "seo_keywords": [
+            "Gothenburg Botanical Garden",
+            "Botaniska",
+            "Sweden rock garden",
+            "greenhouses Gothenburg"
+          ],
+          "commons_file": "Gothenburg Botanical Garden 2013.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Gothenburg_Botanical_Garden_2013.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Slottsskogen",
+            "Haga Historic District",
+            "Avenyn"
+          ]
+        },
+        {
+          "name": "Gothenburg Museum of Art",
+          "wiki_title": "Gothenburg Museum of Art",
+          "lat": 57.6969,
+          "lng": 11.9794,
+          "order_index": 5,
+          "description": "A leading Northern European art museum housing an extraordinary collection of late-19th-century Nordic visual art.",
+          "seo_phrase": "Gothenburg Museum of Art: Nordic Masterpieces & Götaplatsen",
+          "seo_keywords": [
+            "Gothenburg Museum of Art",
+            "Konstmuseet G%C3%B6teborg",
+            "G%C3%B6taplatsen",
+            "Nordic art"
+          ],
+          "commons_file": "Göteborgs konstmuseum 2015.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/G%C3%B6teborgs_konstmuseum_2015.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "all-season"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Götaplatsen",
+            "Avenyn",
+            "Liseberg"
+          ]
+        },
+        {
+          "name": "The Garden Society of Gothenburg",
+          "wiki_title": "Garden Society of Gothenburg",
+          "lat": 57.7061,
+          "lng": 11.9753,
+          "order_index": 6,
+          "description": "A beautifully preserved 19th-century romantic park in the heart of the city, famous for its historic glass Palm House.",
+          "seo_phrase": "The Garden Society of Gothenburg: Trädgårdsföreningen Park Guide",
+          "seo_keywords": [
+            "Garden Society Gothenburg",
+            "Tr%C3%A4dg%C3%A5rdsf%C3%B6reningen",
+            "Gothenburg Palm House",
+            "historic park Sweden"
+          ],
+          "commons_file": "Palmhuset Göteborg 2014.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Palmhuset_G%C3%B6teborg_2014.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Central Station",
+            "Avenyn",
+            "Nordstan"
+          ]
+        },
+        {
+          "name": "Maritiman",
+          "wiki_title": "Maritiman",
+          "lat": 57.7089,
+          "lng": 11.9614,
+          "order_index": 7,
+          "description": "An immersive, floating museum composed of a unique fleet of historic ships and a real submarine.",
+          "seo_phrase": "Maritiman Maritime Museum: Explore Historic Ships in Gothenburg",
+          "seo_keywords": [
+            "Maritiman",
+            "Gothenburg maritime museum",
+            "historic ships Sweden",
+            "submarine tour Gothenburg"
+          ],
+          "commons_file": "Maritiman Gothenburg 2013.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Maritiman_Gothenburg_2013.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Gothenburg Opera",
+            "Nordstan",
+            "Feskekörka"
+          ]
+        },
+        {
+          "name": "Gothenburg",
+          "wiki_title": "Gothenburg",
+          "lat": 57.7075,
+          "lng": 11.9675,
+          "order_index": 8,
+          "description": "Gothenburg — a notable landmark in Gothenburg, Sweden.",
+          "seo_phrase": "Gothenburg",
+          "seo_keywords": [
+            "Gothenburg",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Göteborg 2503 stitch (28573994096).jpg/800px-Göteborg 2503 stitch (28573994096).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/G%C3%B6teborg_2503_stitch_%2828573994096%29.jpg/800px-G%C3%B6teborg_2503_stitch_%2828573994096%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Säve Airport",
+          "wiki_title": "Säve Airport",
+          "lat": 57.77555556,
+          "lng": 11.87055556,
+          "order_index": 9,
+          "description": "Säve Airport — a notable landmark in Gothenburg, Sweden.",
+          "seo_phrase": "Säve Airport",
+          "seo_keywords": [
+            "Gothenburg",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Gothenburg City Airport.JPG/800px-Gothenburg City Airport.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gothenburg_City_Airport.JPG/800px-Gothenburg_City_Airport.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Malmö",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Malmö",
+      "seo": {
+        "title": "Top 10 Things to Do in Malmö, Sweden",
+        "description": "Discover 10 must-see landmarks in Malmö, Sweden. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Malmö? Explore the best places to visit in Malmö, Sweden.",
+        "keywords": [
+          "things to do in Malmö",
+          "Malmö Sweden travel guide",
+          "best places to visit in Malmö",
+          "Malmö landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Turning Torso",
+          "wiki_title": "Turning Torso",
+          "lat": 55.6133,
+          "lng": 12.9767,
+          "order_index": 0,
+          "description": "An avant-garde twisting skyscraper designed by Santiago Calatrava, dominating the Malmö waterfront.",
+          "seo_phrase": "Turning Torso Malmö: Visiting Scandinavia's Iconic Twisted Skyscraper",
+          "seo_keywords": [
+            "Turning Torso",
+            "Malm%C3%B6 skyscraper",
+            "Santiago Calatrava",
+            "V%C3%A4stra Hamnen architecture"
+          ],
+          "commons_file": "Turning Torso Malmo Sweden.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Turning_Torso_Malmo_Sweden.jpg",
+          "seo_priority": 97,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "all-season",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Västra Hamnen",
+            "Malmö Live",
+            "Scaniaparken"
+          ]
+        },
+        {
+          "name": "Malmö Castle",
+          "wiki_title": "Malmö Castle",
+          "lat": 55.6049,
+          "lng": 12.9873,
+          "order_index": 1,
+          "description": "The oldest surviving Renaissance fortress in the Nordic region, housing a grand array of municipal museums.",
+          "seo_phrase": "Malmö Castle: Historic Fortress, Museums & Renaissance Art",
+          "seo_keywords": [
+            "Malm%C3%B6 Castle",
+            "Malm%C3%B6hus Slott",
+            "Renaissance fortress Sweden",
+            "Malm%C3%B6 museums"
+          ],
+          "commons_file": "Malmöhus slott 2013.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Malm%C3%B6hus_slott_2013.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "all-season"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Kungsparken",
+            "Slottsträdgården",
+            "Lilla Torg"
+          ]
+        },
+        {
+          "name": "Lilla Torg",
+          "wiki_title": "Lilla Torg",
+          "lat": 55.6048,
+          "lng": 13.0032,
+          "order_index": 2,
+          "description": "A picturesque, cobblestone medieval square famous for half-timbered architecture and outdoor dining.",
+          "seo_phrase": "Lilla Torg Malmö: Historic Square, Dining, & Half-Timbered Houses",
+          "seo_keywords": [
+            "Lilla Torg",
+            "Malm%C3%B6 old square",
+            "half-timbered houses Sweden",
+            "Malm%C3%B6 dining"
+          ],
+          "commons_file": "Malmö Lilla torg 2012 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Malm%C3%B6_Lilla_torg_2012_01.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "summer",
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Stortorget",
+            "Malmö Castle",
+            "Kungsparken"
+          ]
+        },
+        {
+          "name": "Stortorget",
+          "wiki_title": "Stortorget, Malmö",
+          "lat": 55.6061,
+          "lng": 13.0003,
+          "order_index": 3,
+          "description": "Malmö's largest historic square, featuring the magnificent Renaissance-style City Hall.",
+          "seo_phrase": "Stortorget Malmö: The Grand Town Square & Historic City Hall",
+          "seo_keywords": [
+            "Stortorget Malm%C3%B6",
+            "Malm%C3%B6 City Hall",
+            "R%C3%A5dhuset",
+            "historic town square Sweden"
+          ],
+          "commons_file": "Malmö Rådhus August 2014.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Malm%C3%B6_R%C3%A5dhus_August_2014.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "all-season"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Lilla Torg",
+            "Sankt Petri Kyrka",
+            "Malmö Castle"
+          ]
+        },
+        {
+          "name": "Kungsparken",
+          "wiki_title": "Kungsparken, Malmö",
+          "lat": 55.6041,
+          "lng": 12.9934,
+          "order_index": 4,
+          "description": "Malmö's oldest public park, featuring tranquil canals and a beautifully restored historic windmill.",
+          "seo_phrase": "Kungsparken Malmö: The Historic King's Park and Windmill Guide",
+          "seo_keywords": [
+            "Kungsparken Malm%C3%B6",
+            "Slottsm%C3%B6llan",
+            "oldest park Malm%C3%B6",
+            "English garden Sweden"
+          ],
+          "commons_file": "Slottsmöllan Malmö 2011.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Slottsm%C3%B6llan_Malm%C3%B6_2011.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Malmö Castle",
+            "Slottsträdgården",
+            "Lilla Torg"
+          ]
+        },
+        {
+          "name": "Sankt Petri Kyrka",
+          "wiki_title": "Saint Peter's Church, Malmö",
+          "lat": 55.6069,
+          "lng": 13.0031,
+          "order_index": 5,
+          "description": "A monumental 14th-century Baltic Brick Gothic church, standing as the oldest building in Malmö.",
+          "seo_phrase": "Sankt Petri Kyrka Malmö: St. Peter's Gothic Brick Church Guide",
+          "seo_keywords": [
+            "Sankt Petri Kyrka",
+            "St Peters Church Malm%C3%B6",
+            "Brick Gothic Sweden",
+            "oldest building Malm%C3%B6"
+          ],
+          "commons_file": "Sankt Petri kyrka Malmö Exterior 2012.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Sankt_Petri_kyrka_Malm%C3%B6_Exterior_2012.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "all-season"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Stortorget",
+            "Lilla Torg",
+            "Moderna Museet Malmö"
+          ]
+        },
+        {
+          "name": "Moderna Museet Malmö",
+          "wiki_title": "Moderna Museet Malmö",
+          "lat": 55.6053,
+          "lng": 13.0094,
+          "order_index": 6,
+          "description": "A contemporary art museum housed inside a striking, repurposed early-20th-century brick electricity plant.",
+          "seo_phrase": "Moderna Museet Malmö: Modern Art in a Historic Power Station",
+          "seo_keywords": [
+            "Moderna Museet Malm%C3%B6",
+            "contemporary art Malm%C3%B6",
+            "repurposed power station museum",
+            "modern art Skane"
+          ],
+          "commons_file": "Moderna museet Malmö 2012 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Moderna_museet_Malm%C3%B6_2012_01.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "all-season"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Sankt Petri Kyrka",
+            "Stortorget",
+            "Lilla Torg"
+          ]
+        },
+        {
+          "name": "Slottsträdgården",
+          "wiki_title": "Slottsträdgården",
+          "lat": 55.6033,
+          "lng": 12.9867,
+          "order_index": 7,
+          "description": "An organic urban garden oasis located just behind Malmö Castle, featuring themed planting beds.",
+          "seo_phrase": "Slottsträdgården Malmö: Organic Botanical Community Gardens",
+          "seo_keywords": [
+            "Slottstr%C3%A4dg%C3%A5rden",
+            "Malm%C3%B6 castle gardens",
+            "organic garden Sweden",
+            "community gardens Skane"
+          ],
+          "commons_file": "Slottsträdgården Malmö 2013 02.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Slottstr%C3%A4dg%C3%A5rden_Malm%C3%B6_2013_02.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Malmö Castle",
+            "Kungsparken",
+            "Lilla Torg"
+          ]
+        },
+        {
+          "name": "Folkets Park",
+          "wiki_title": "Folkets Park",
+          "lat": 55.5947,
+          "lng": 13.0139,
+          "order_index": 8,
+          "description": "The oldest public amusement park in the world, serving as an urban cultural center for over a century.",
+          "seo_phrase": "Folkets Park Malmö: The Historic People's Park Visitor Guide",
+          "seo_keywords": [
+            "Folkets Park Malm%C3%B6",
+            "oldest public park world",
+            "Malm%C3%B6 urban parks",
+            "family attractions Skane"
+          ],
+          "commons_file": "Folkets park Malmö Entré 2011.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Folkets_park_Malm%C3%B6_Entr%C3%A9_2011.jpg",
+          "seo_priority": 84,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Möllevångstorget",
+            "Triangeln",
+            "Sankt Petri Kyrka"
+          ]
+        },
+        {
+          "name": "Möllevångstorget",
+          "wiki_title": "Möllevångstorget",
+          "lat": 55.5919,
+          "lng": 13.0078,
+          "order_index": 9,
+          "description": "A vibrant and historic cultural market square renowned for global culinary offerings and fresh food stands.",
+          "seo_phrase": "Möllevångstorget Malmö: Vibrant Cultural Market & Food District",
+          "seo_keywords": [
+            "M%C3%B6llev%C3%A5ngstorget",
+            "M%C3%B6llev%C3%A5ngen market",
+            "Malm%C3%B6 global food",
+            "Arbetets ara sculpture"
+          ],
+          "commons_file": "Möllevångstorget Malmö 2014.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/M%C3%B6llev%C3%A5ngstorget_Malm%C3%B6_2014.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "summer",
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Folkets Park",
+            "Triangeln",
+            "Pildammsparken"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Uppsala",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Uppsala",
+      "seo": {
+        "title": "Top 10 Things to Do in Uppsala, Sweden",
+        "description": "Discover 10 must-see landmarks in Uppsala, Sweden. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Uppsala? Explore the best places to visit in Uppsala, Sweden.",
+        "keywords": [
+          "things to do in Uppsala",
+          "Uppsala Sweden travel guide",
+          "best places to visit in Uppsala",
+          "Uppsala landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Uppsala Cathedral",
+          "wiki_title": "Uppsala Cathedral",
+          "lat": 59.8581,
+          "lng": 17.6336,
+          "order_index": 0,
+          "description": "The tallest church building in Scandinavia, boasting magnificent French Gothic architecture.",
+          "seo_phrase": "Uppsala Cathedral Guide: Scandinavia's Tallest Gothic Church",
+          "seo_keywords": [
+            "Uppsala Cathedral",
+            "Uppsala domkyrka",
+            "French Gothic Sweden",
+            "tallest church Scandinavia"
+          ],
+          "commons_file": "Uppsala Domkyrka July 2014.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Uppsala_Domkyrka_July_2014.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "all-season"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Gustavianum",
+            "Uppsala University Library",
+            "Uppsala Castle"
+          ]
+        },
+        {
+          "name": "Gustavianum",
+          "wiki_title": "Gustavianum",
+          "lat": 59.8578,
+          "lng": 17.6319,
+          "order_index": 1,
+          "description": "The oldest standing building of Uppsala University, famous for its magnificent 17th-century anatomical theatre.",
+          "seo_phrase": "Gustavianum Uppsala University Museum: The Historic Anatomical Theatre",
+          "seo_keywords": [
+            "Gustavianum",
+            "Uppsala University Museum",
+            "Anatomical Theatre Rudbeck",
+            "Olaus Rudbeck"
+          ],
+          "commons_file": "Gustavianum Uppsala 2013 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Gustavianum_Uppsala_2013_01.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "all-season"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Uppsala Cathedral",
+            "Uppsala University Library",
+            "Linnaeus Garden"
+          ]
+        },
+        {
+          "name": "The Linnaeus Garden",
+          "wiki_title": "Linnaean Garden",
+          "lat": 59.8622,
+          "lng": 17.6347,
+          "order_index": 2,
+          "description": "The oldest botanical garden in Sweden, restored precisely to its 18th-century layout designed by Carl Linnaeus.",
+          "seo_phrase": "The Linnaeus Garden Uppsala: Carl Linnaeus Botanical Oasis",
+          "seo_keywords": [
+            "Linnaeus Garden",
+            "Carl Linnaeus Uppsala",
+            "oldest botanical garden Sweden",
+            "Linnaean taxonomy site"
+          ],
+          "commons_file": "Linnéträdgården Uppsala 2012.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Linn%C3%A9tr%C3%A4dg%C3%A5rden_Uppsala_2012.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Uppsala Cathedral",
+            "Gustavianum",
+            "Fyris River"
+          ]
+        },
+        {
+          "name": "Uppsala Castle",
+          "wiki_title": "Uppsala Castle",
+          "lat": 59.8536,
+          "lng": 17.6356,
+          "order_index": 3,
+          "description": "An imposing 16th-century royal palace fortress constructed by King Gustav Vasa, offering scenic hill vistas.",
+          "seo_phrase": "Uppsala Castle: Royal Vasa Fortress and Art Museum Guide",
+          "seo_keywords": [
+            "Uppsala Castle",
+            "Uppsala slott",
+            "Gustav Vasa fortress",
+            "Queen Christina abdication"
+          ],
+          "commons_file": "Uppsala slott från botaniska trädgården 2013.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Uppsala_slott_fr%C3%A5n_botaniska_tr%C3%A4dg%C3%A5rden_2013.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "all-season",
+            "summer"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Botanical Garden Uppsala",
+            "Uppsala University Library",
+            "Uppsala Cathedral"
+          ]
+        },
+        {
+          "name": "Botanical Garden of Uppsala University",
+          "wiki_title": "Botanical Garden of Uppsala University",
+          "lat": 59.8522,
+          "lng": 17.6272,
+          "order_index": 4,
+          "description": "A sweeping historic university garden featuring a classic grand baroque orangery and dynamic tropical greenhouse habitats.",
+          "seo_phrase": "Uppsala Botanical Garden: The Tropical Greenhouse & Orangery",
+          "seo_keywords": [
+            "Uppsala Botanical Garden",
+            "Botaniska tr%C3%A4dg%C3%A5rden Uppsala",
+            "Linneanum",
+            "Gustav III garden"
+          ],
+          "commons_file": "Uppsala Botanical Garden Orangery 2013.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Uppsala_Botanical_Garden_Orangery_2013.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Uppsala Castle",
+            "Uppsala University Library",
+            "Gustavianum"
+          ]
+        },
+        {
+          "name": "Carolina Rediviva",
+          "wiki_title": "Carolina Rediviva",
+          "lat": 59.8549,
+          "lng": 17.6309,
+          "order_index": 5,
+          "description": "The grand main building of Uppsala University Library, home to priceless ancient manuscript relics.",
+          "seo_phrase": "Carolina Rediviva: Uppsala University Library & Silver Bible",
+          "seo_keywords": [
+            "Carolina Rediviva",
+            "Uppsala University Library",
+            "Codex Argenteus",
+            "Silver Bible Sweden"
+          ],
+          "commons_file": "Carolina Rediviva Uppsala 2014.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Carolina_Rediviva_Uppsala_2014.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "all-season"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Uppsala Castle",
+            "Uppsala Cathedral",
+            "Gustavianum"
+          ]
+        },
+        {
+          "name": "Uppsala",
+          "wiki_title": "Uppsala",
+          "lat": 59.85805556,
+          "lng": 17.64472222,
+          "order_index": 6,
+          "description": "Uppsala — a notable landmark in Uppsala, Sweden.",
+          "seo_phrase": "Uppsala",
+          "seo_keywords": [
+            "Uppsala",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Uppsala.jpg/800px-Uppsala.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Uppsala.jpg/800px-Uppsala.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Uppsala University",
+          "wiki_title": "Uppsala University",
+          "lat": 59.8575,
+          "lng": 17.62888889,
+          "order_index": 7,
+          "description": "Uppsala University — a notable landmark in Uppsala, Sweden.",
+          "seo_phrase": "Uppsala University",
+          "seo_keywords": [
+            "Uppsala",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Uppsala University 2023.jpg/800px-Uppsala University 2023.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Uppsala_University_2023.jpg/800px-Uppsala_University_2023.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Church of Sweden",
+          "wiki_title": "Church of Sweden",
+          "lat": 59.85972222,
+          "lng": 17.63055556,
+          "order_index": 8,
+          "description": "Church of Sweden — a notable landmark in Uppsala, Sweden.",
+          "seo_phrase": "Church of Sweden",
+          "seo_keywords": [
+            "Uppsala",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Svenska kyrkans vapen.png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Svenska_kyrkans_vapen.png",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Gamla Uppsala",
+          "wiki_title": "Gamla Uppsala",
+          "lat": 59.897,
+          "lng": 17.629,
+          "order_index": 9,
+          "description": "Gamla Uppsala — a notable landmark in Uppsala, Sweden.",
+          "seo_phrase": "Gamla Uppsala",
+          "seo_keywords": [
+            "Uppsala",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Gamla uppsala.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Gamla_uppsala.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Västerås",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Västerås",
+      "seo": {
+        "title": "Top 10 Things to Do in Västerås, Sweden",
+        "description": "Discover 10 must-see landmarks in Västerås, Sweden. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Västerås? Explore the best places to visit in Västerås, Sweden.",
+        "keywords": [
+          "things to do in Västerås",
+          "Västerås Sweden travel guide",
+          "best places to visit in Västerås",
+          "Västerås landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Ängsö Castle",
+          "wiki_title": "Ängsö Castle",
+          "lat": 59.5325,
+          "lng": 16.8575,
+          "order_index": 0,
+          "description": "Ängsö Castle — a top landmark in Västerås, Sweden.",
+          "seo_phrase": "Stockholm",
+          "seo_keywords": [
+            "Västerås",
+            "Sweden",
+            "travel"
+          ],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/%C3%84ngs%C3%B6_slott.jpg/960px-%C3%84ngs%C3%B6_slott.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Linköping",
+          "wiki_title": "Linköping",
+          "lat": 58.41583333,
+          "lng": 15.62527778,
+          "order_index": 1,
+          "description": "Linköping — a notable landmark in Västerås, Sweden.",
+          "seo_phrase": "Linköping",
+          "seo_keywords": [
+            "Västerås",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Stora torget, Linköping, juli 2005.jpg/800px-Stora torget, Linköping, juli 2005.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Stora_torget%2C_Link%C3%B6ping%2C_juli_2005.jpg/800px-Stora_torget%2C_Link%C3%B6ping%2C_juli_2005.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "ABB Arena",
+          "wiki_title": "ABB Arena",
+          "lat": 59.62638889,
+          "lng": 16.52861111,
+          "order_index": 2,
+          "description": "ABB Arena — a top landmark in Västerås, Sweden.",
+          "seo_phrase": "Karlstad",
+          "seo_keywords": [
+            "Västerås",
+            "Sweden",
+            "travel"
+          ],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/ABB_Arena_Syd.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "ABB Arena",
+          "wiki_title": "ABB Arena",
+          "lat": 59.62638889,
+          "lng": 16.52861111,
+          "order_index": 3,
+          "description": "ABB Arena — a top landmark in Västerås, Sweden.",
+          "seo_phrase": "Katedralskolan",
+          "seo_keywords": [
+            "Västerås",
+            "Sweden",
+            "travel"
+          ],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/ABB_Arena_Syd.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Roman Catholic Diocese of Stockholm",
+          "wiki_title": "Roman Catholic Diocese of Stockholm",
+          "lat": 59.31388889,
+          "lng": 18.0725,
+          "order_index": 4,
+          "description": "Roman Catholic Diocese of Stockholm — a notable landmark in Västerås, Sweden.",
+          "seo_phrase": "Roman Catholic Diocese of Stockholm",
+          "seo_keywords": [
+            "Västerås",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Katolska Domkyrkan Stockholm.JPG/800px-Katolska Domkyrkan Stockholm.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Katolska_Domkyrkan_Stockholm.JPG/800px-Katolska_Domkyrkan_Stockholm.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Regalia of Sweden",
+          "wiki_title": "Regalia of Sweden",
+          "lat": 59.32666667,
+          "lng": 18.07277778,
+          "order_index": 5,
+          "description": "Regalia of Sweden — a notable landmark in Västerås, Sweden.",
+          "seo_phrase": "Regalia of Sweden",
+          "seo_keywords": [
+            "Västerås",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Crown, sceptre, orb & key of the King of Sweden 2014.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Crown%2C_sceptre%2C_orb_%26_key_of_the_King_of_Sweden_2014.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Stora Tuna Church",
+          "wiki_title": "Stora Tuna Church",
+          "lat": 60.451944,
+          "lng": 15.475556,
+          "order_index": 6,
+          "description": "Stora Tuna Church — a notable landmark in Västerås, Sweden.",
+          "seo_phrase": "Stora Tuna Church",
+          "seo_keywords": [
+            "Västerås",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Stora Tuna kyrka.jpg/800px-Stora Tuna kyrka.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Stora_Tuna_kyrka.jpg/800px-Stora_Tuna_kyrka.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Ängsö Castle",
+          "wiki_title": "Ängsö Castle",
+          "lat": 59.5325,
+          "lng": 16.8575,
+          "order_index": 7,
+          "description": "Ängsö Castle — a notable landmark in Västerås, Sweden.",
+          "seo_phrase": "Ängsö Castle",
+          "seo_keywords": [
+            "Västerås",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Ängsö slott.jpg/800px-Ängsö slott.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/%C3%84ngs%C3%B6_slott.jpg/800px-%C3%84ngs%C3%B6_slott.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Stockholm Västerås Airport",
+          "wiki_title": "Stockholm Västerås Airport",
+          "lat": 59.58944444,
+          "lng": 16.63361111,
+          "order_index": 8,
+          "description": "Stockholm Västerås Airport — a notable landmark in Västerås, Sweden.",
+          "seo_phrase": "Stockholm Västerås Airport",
+          "seo_keywords": [
+            "Västerås",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Stockholm-Västerås flygplats.jpg/800px-Stockholm-Västerås flygplats.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Stockholm-V%C3%A4ster%C3%A5s_flygplats.jpg/800px-Stockholm-V%C3%A4ster%C3%A5s_flygplats.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Falun Mine",
+          "wiki_title": "Falun Mine",
+          "lat": 60.59888889,
+          "lng": 15.61222222,
+          "order_index": 9,
+          "description": "Falun Mine — a notable landmark in Västerås, Sweden.",
+          "seo_phrase": "Falun Mine",
+          "seo_keywords": [
+            "Västerås",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Falu koppargruva July 2017 01.jpg/800px-Falu koppargruva July 2017 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Falu_koppargruva_July_2017_01.jpg/800px-Falu_koppargruva_July_2017_01.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Örebro",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Örebro",
+      "seo": {
+        "title": "Top 10 Things to Do in Örebro, Sweden",
+        "description": "Discover 10 must-see landmarks in Örebro, Sweden. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Örebro? Explore the best places to visit in Örebro, Sweden.",
+        "keywords": [
+          "things to do in Örebro",
+          "Örebro Sweden travel guide",
+          "best places to visit in Örebro",
+          "Örebro landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Örebro",
+          "wiki_title": "Örebro",
+          "lat": 59.27388889,
+          "lng": 15.2075,
+          "order_index": 0,
+          "description": "Örebro — a notable landmark in Örebro, Sweden.",
+          "seo_phrase": "Örebro",
+          "seo_keywords": [
+            "Örebro",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Örebro slott May 2014 01.jpg/800px-Örebro slott May 2014 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/%C3%96rebro_slott_May_2014_01.jpg/800px-%C3%96rebro_slott_May_2014_01.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Askersund",
+          "wiki_title": "Askersund",
+          "lat": 58.87972222,
+          "lng": 14.90277778,
+          "order_index": 1,
+          "description": "Askersund — a notable landmark in Örebro, Sweden.",
+          "seo_phrase": "Askersund",
+          "seo_keywords": [
+            "Örebro",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Rådhuset Askersund.jpg/800px-Rådhuset Askersund.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/R%C3%A5dhuset_Askersund.jpg/800px-R%C3%A5dhuset_Askersund.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Örebro Castle",
+          "wiki_title": "Örebro Castle",
+          "lat": 59.27388889,
+          "lng": 15.21527778,
+          "order_index": 2,
+          "description": "Örebro Castle — a notable landmark in Örebro, Sweden.",
+          "seo_phrase": "Örebro Castle",
+          "seo_keywords": [
+            "Örebro",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Örebro slott.jpg/800px-Örebro slott.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%C3%96rebro_slott.jpg/800px-%C3%96rebro_slott.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Göksholm",
+          "wiki_title": "Göksholm",
+          "lat": 59.26694444,
+          "lng": 15.55416667,
+          "order_index": 3,
+          "description": "Göksholm — a notable landmark in Örebro, Sweden.",
+          "seo_phrase": "Göksholm",
+          "seo_keywords": [
+            "Örebro",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Gök3.jpg/800px-Gök3.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/G%C3%B6k3.jpg/800px-G%C3%B6k3.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Svartån (Närke)",
+          "wiki_title": "Svartån (Närke",
+          "lat": 59.2781,
+          "lng": 15.2786,
+          "order_index": 4,
+          "description": "Svartån (Närke) — a notable landmark in Örebro, Sweden.",
+          "seo_phrase": "Svartån (Närke)",
+          "seo_keywords": [
+            "Örebro",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Kanslibron May 2014.jpg/800px-Kanslibron May 2014.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kanslibron_May_2014.jpg/800px-Kanslibron_May_2014.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Boo Castle",
+          "wiki_title": "Boo Castle",
+          "lat": 58.92575,
+          "lng": 15.51988056,
+          "order_index": 5,
+          "description": "Boo Castle — a notable landmark in Örebro, Sweden.",
+          "seo_phrase": "Boo Castle",
+          "seo_keywords": [
+            "Örebro",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Boo slott.jpg/800px-Boo slott.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Boo_slott.jpg/800px-Boo_slott.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Kägleholm Castle",
+          "wiki_title": "Kägleholm Castle",
+          "lat": 59.4047,
+          "lng": 15.4154,
+          "order_index": 6,
+          "description": "Kägleholm Castle — a notable landmark in Örebro, Sweden.",
+          "seo_phrase": "Kägleholm Castle",
+          "seo_keywords": [
+            "Örebro",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Kägleholm Castle in 1694.png/800px-Kägleholm Castle in 1694.png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/K%C3%A4gleholm_Castle_in_1694.png/800px-K%C3%A4gleholm_Castle_in_1694.png",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Kägleholm",
+          "wiki_title": "Kägleholm",
+          "lat": 59.411,
+          "lng": 15.402,
+          "order_index": 7,
+          "description": "Kägleholm — a notable landmark in Örebro, Sweden.",
+          "seo_phrase": "Kägleholm",
+          "seo_keywords": [
+            "Örebro",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Kägleholm - KMB - 16000300022682.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/K%C3%A4gleholm_-_KMB_-_16000300022682.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Björkborn Manor",
+          "wiki_title": "Björkborn Manor",
+          "lat": 59.34028,
+          "lng": 14.53464,
+          "order_index": 8,
+          "description": "Björkborn Manor — a notable landmark in Örebro, Sweden.",
+          "seo_phrase": "Björkborn Manor",
+          "seo_keywords": [
+            "Örebro",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Björborns herrgård.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bj%C3%B6rborns_herrg%C3%A5rd.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Ölsboda Manor",
+          "wiki_title": "Ölsboda Manor",
+          "lat": 59.18096,
+          "lng": 14.47569,
+          "order_index": 9,
+          "description": "Ölsboda Manor — a notable landmark in Örebro, Sweden.",
+          "seo_phrase": "Ölsboda Manor",
+          "seo_keywords": [
+            "Örebro",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Ölsboda-herrgård.JPG/800px-Ölsboda-herrgård.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/%C3%96lsboda-herrg%C3%A5rd.JPG/800px-%C3%96lsboda-herrg%C3%A5rd.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Linköping",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Linköping",
+      "seo": {
+        "title": "Top 10 Things to Do in Linköping, Sweden",
+        "description": "Discover 10 must-see landmarks in Linköping, Sweden. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Linköping? Explore the best places to visit in Linköping, Sweden.",
+        "keywords": [
+          "things to do in Linköping",
+          "Linköping Sweden travel guide",
+          "best places to visit in Linköping",
+          "Linköping landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Linköping Cathedral",
+          "wiki_title": "Linköping Cathedral",
+          "lat": 58.41111111,
+          "lng": 15.61722222,
+          "order_index": 0,
+          "description": "Linköping Cathedral — a notable landmark in Linköping, Sweden.",
+          "seo_phrase": "Linköping Cathedral",
+          "seo_keywords": [
+            "Linköping",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Lkpgdomkyrka-ne.jpg/800px-Lkpgdomkyrka-ne.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Lkpgdomkyrka-ne.jpg/800px-Lkpgdomkyrka-ne.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Linköping Castle",
+          "wiki_title": "Linköping Castle",
+          "lat": 58.41055556,
+          "lng": 15.61583333,
+          "order_index": 1,
+          "description": "Linköping Castle — a notable landmark in Linköping, Sweden.",
+          "seo_phrase": "Linköping Castle",
+          "seo_keywords": [
+            "Linköping",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Lkpgslott-e.jpg/800px-Lkpgslott-e.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lkpgslott-e.jpg/800px-Lkpgslott-e.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Berga",
+          "wiki_title": "Berga, Linköping",
+          "lat": 58.38777778,
+          "lng": 15.64722222,
+          "order_index": 2,
+          "description": "Berga, Linköping — a notable landmark in Linköping, Sweden.",
+          "seo_phrase": "Berga",
+          "seo_keywords": [
+            "Linköping",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Berga2.JPG/800px-Berga2.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Berga2.JPG/800px-Berga2.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Norrköping",
+          "wiki_title": "Norrköping",
+          "lat": 58.6,
+          "lng": 16.2,
+          "order_index": 3,
+          "description": "Norrköping — a notable landmark in Linköping, Sweden.",
+          "seo_phrase": "Norrköping",
+          "seo_keywords": [
+            "Linköping",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Norrköpings rådhus 2008-05-10 bild01.jpg/800px-Norrköpings rådhus 2008-05-10 bild01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Norrk%C3%B6pings_r%C3%A5dhus_2008-05-10_bild01.jpg/800px-Norrk%C3%B6pings_r%C3%A5dhus_2008-05-10_bild01.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Nyköping Castle",
+          "wiki_title": "Nyköping Castle",
+          "lat": 58.74833333,
+          "lng": 17.01166667,
+          "order_index": 4,
+          "description": "Nyköping Castle — a notable landmark in Linköping, Sweden.",
+          "seo_phrase": "Nyköping Castle",
+          "seo_keywords": [
+            "Linköping",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Nyköpingshus nov. 2020.jpg/800px-Nyköpingshus nov. 2020.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Nyk%C3%B6pingshus_nov._2020.jpg/800px-Nyk%C3%B6pingshus_nov._2020.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Ekenäs Castle",
+          "wiki_title": "Ekenäs Castle",
+          "lat": 58.382,
+          "lng": 15.946,
+          "order_index": 5,
+          "description": "Ekenäs Castle — a notable landmark in Linköping, Sweden.",
+          "seo_phrase": "Ekenäs Castle",
+          "seo_keywords": [
+            "Linköping",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Ekenäs slott.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Eken%C3%A4s_slott.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Bjärka-Säby Château",
+          "wiki_title": "Bjärka-Säby Château",
+          "lat": 58.2706,
+          "lng": 15.739,
+          "order_index": 6,
+          "description": "Bjärka-Säby Château — a notable landmark in Linköping, Sweden.",
+          "seo_phrase": "Bjärka-Säby Château",
+          "seo_keywords": [
+            "Linköping",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Bjärka Säby.jpg/800px-Bjärka Säby.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bj%C3%A4rka_S%C3%A4by.jpg/800px-Bj%C3%A4rka_S%C3%A4by.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Sturefors Castle",
+          "wiki_title": "Sturefors Castle",
+          "lat": 58.325,
+          "lng": 15.776,
+          "order_index": 7,
+          "description": "Sturefors Castle — a notable landmark in Linköping, Sweden.",
+          "seo_phrase": "Sturefors Castle",
+          "seo_keywords": [
+            "Linköping",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Sturefors slott.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Sturefors_slott.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Stjärnorp Castle",
+          "wiki_title": "Stjärnorp Castle",
+          "lat": 58.5325,
+          "lng": 15.57805556,
+          "order_index": 8,
+          "description": "Stjärnorp Castle — a notable landmark in Linköping, Sweden.",
+          "seo_phrase": "Stjärnorp Castle",
+          "seo_keywords": [
+            "Linköping",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Stjärnorpsruinen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Stj%C3%A4rnorpsruinen.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Brokind Castle",
+          "wiki_title": "Brokind Castle",
+          "lat": 58.21083333,
+          "lng": 15.66222222,
+          "order_index": 9,
+          "description": "Brokind Castle — a notable landmark in Linköping, Sweden.",
+          "seo_phrase": "Brokind Castle",
+          "seo_keywords": [
+            "Linköping",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Brokinds slott.JPG/800px-Brokinds slott.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Brokinds_slott.JPG/800px-Brokinds_slott.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Helsingborg",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Helsingborg",
+      "seo": {
+        "title": "Top 10 Things to Do in Helsingborg, Sweden",
+        "description": "Discover 10 must-see landmarks in Helsingborg, Sweden. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Helsingborg? Explore the best places to visit in Helsingborg, Sweden.",
+        "keywords": [
+          "things to do in Helsingborg",
+          "Helsingborg Sweden travel guide",
+          "best places to visit in Helsingborg",
+          "Helsingborg landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Helsingør",
+          "wiki_title": "Helsingør",
+          "lat": 56.03611111,
+          "lng": 12.60833333,
+          "order_index": 0,
+          "description": "Helsingør — a notable landmark in Helsingborg, Sweden.",
+          "seo_phrase": "Helsingør",
+          "seo_keywords": [
+            "Helsingborg",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Helsingør Elsinore from sea 01.jpg/800px-Helsingør Elsinore from sea 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Helsing%C3%B8r_Elsinore_from_sea_01.jpg/800px-Helsing%C3%B8r_Elsinore_from_sea_01.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Lund",
+          "wiki_title": "Lund",
+          "lat": 55.70388889,
+          "lng": 13.195,
+          "order_index": 1,
+          "description": "Lund — a notable landmark in Helsingborg, Sweden.",
+          "seo_phrase": "Lund",
+          "seo_keywords": [
+            "Helsingborg",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Lunds domkyrka1.jpeg/800px-Lunds domkyrka1.jpeg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Lunds_domkyrka1.jpeg/800px-Lunds_domkyrka1.jpeg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Växjö",
+          "wiki_title": "Växjö",
+          "lat": 56.87694444,
+          "lng": 14.80916667,
+          "order_index": 2,
+          "description": "Växjö — a notable landmark in Helsingborg, Sweden.",
+          "seo_phrase": "Växjö",
+          "seo_keywords": [
+            "Helsingborg",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "20090811 Växjö 2, Marktplatz.JPG/800px-20090811 Växjö 2, Marktplatz.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/20090811_V%C3%A4xj%C3%B6_2%2C_Marktplatz.JPG/800px-20090811_V%C3%A4xj%C3%B6_2%2C_Marktplatz.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Uppåkra",
+          "wiki_title": "Uppåkra",
+          "lat": 55.66666667,
+          "lng": 13.17,
+          "order_index": 3,
+          "description": "Uppåkra — a notable landmark in Helsingborg, Sweden.",
+          "seo_phrase": "Uppåkra",
+          "seo_keywords": [
+            "Helsingborg",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Uppåkrakyrka1.jpg/800px-Uppåkrakyrka1.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Upp%C3%A5krakyrka1.jpg/800px-Upp%C3%A5krakyrka1.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Lund Central Station",
+          "wiki_title": "Lund Central Station",
+          "lat": 55.70527778,
+          "lng": 13.18722222,
+          "order_index": 4,
+          "description": "Lund Central Station — a notable landmark in Helsingborg, Sweden.",
+          "seo_phrase": "Lund Central Station",
+          "seo_keywords": [
+            "Helsingborg",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Lunds centralstation2007.jpg/800px-Lunds centralstation2007.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lunds_centralstation2007.jpg/800px-Lunds_centralstation2007.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Malmö",
+          "wiki_title": "Malmö",
+          "lat": 55.60583333,
+          "lng": 13.03583333,
+          "order_index": 5,
+          "description": "Malmö — a notable landmark in Helsingborg, Sweden.",
+          "seo_phrase": "Malmö",
+          "seo_keywords": [
+            "Helsingborg",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Malmö–flygbild 06 september 2014.jpg/800px-Malmö–flygbild 06 september 2014.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Malm%C3%B6%E2%80%93flygbild_06_september_2014.jpg/800px-Malm%C3%B6%E2%80%93flygbild_06_september_2014.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Kronborg",
+          "wiki_title": "Kronborg",
+          "lat": 56.0386,
+          "lng": 12.6219,
+          "order_index": 6,
+          "description": "Kronborg — a notable landmark in Helsingborg, Sweden.",
+          "seo_phrase": "Kronborg",
+          "seo_keywords": [
+            "Helsingborg",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Kronborg 002.JPG/800px-Kronborg 002.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kronborg_002.JPG/800px-Kronborg_002.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Ven (Sweden)",
+          "wiki_title": "Ven (Sweden",
+          "lat": 55.90583333,
+          "lng": 12.695,
+          "order_index": 7,
+          "description": "Ven (Sweden) — a notable landmark in Helsingborg, Sweden.",
+          "seo_phrase": "Ven (Sweden)",
+          "seo_keywords": [
+            "Helsingborg",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Ven-from-east.jpg/800px-Ven-from-east.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ven-from-east.jpg/800px-Ven-from-east.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Helsingborg",
+          "wiki_title": "Helsingborg",
+          "lat": 56.05,
+          "lng": 12.71666667,
+          "order_index": 8,
+          "description": "Helsingborg — a notable landmark in Helsingborg, Sweden.",
+          "seo_phrase": "Helsingborg",
+          "seo_keywords": [
+            "Helsingborg",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Inre hamnen i Helsingborg.jpg/800px-Inre hamnen i Helsingborg.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Inre_hamnen_i_Helsingborg.jpg/800px-Inre_hamnen_i_Helsingborg.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Landskrona",
+          "wiki_title": "Landskrona",
+          "lat": 55.87055556,
+          "lng": 12.83111111,
+          "order_index": 9,
+          "description": "Landskrona — a notable landmark in Helsingborg, Sweden.",
+          "seo_phrase": "Landskrona",
+          "seo_keywords": [
+            "Helsingborg",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Landskrona aerial.jpg/800px-Landskrona aerial.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Landskrona_aerial.jpg/800px-Landskrona_aerial.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Jönköping",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Jönköping",
+      "seo": {
+        "title": "Top 10 Things to Do in Jönköping, Sweden",
+        "description": "Discover 10 must-see landmarks in Jönköping, Sweden. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Jönköping? Explore the best places to visit in Jönköping, Sweden.",
+        "keywords": [
+          "things to do in Jönköping",
+          "Jönköping Sweden travel guide",
+          "best places to visit in Jönköping",
+          "Jönköping landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Visingsö",
+          "wiki_title": "Visingsö",
+          "lat": 58.05,
+          "lng": 14.33333333,
+          "order_index": 0,
+          "description": "Visingsö — a notable landmark in Jönköping, Sweden.",
+          "seo_phrase": "Visingsö",
+          "seo_keywords": [
+            "Jönköping",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Visingsö, Småland, Sweden (6331132043).jpg/800px-Visingsö, Småland, Sweden (6331132043).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Visings%C3%B6%2C_Sm%C3%A5land%2C_Sweden_%286331132043%29.jpg/800px-Visings%C3%B6%2C_Sm%C3%A5land%2C_Sweden_%286331132043%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Gränna",
+          "wiki_title": "Gränna",
+          "lat": 58.01666667,
+          "lng": 14.46666667,
+          "order_index": 1,
+          "description": "Gränna — a notable landmark in Jönköping, Sweden.",
+          "seo_phrase": "Gränna",
+          "seo_keywords": [
+            "Jönköping",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "View of Gränna.jpg/800px-View of Gränna.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/View_of_Gr%C3%A4nna.jpg/800px-View_of_Gr%C3%A4nna.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Halmstad",
+          "wiki_title": "Halmstad",
+          "lat": 56.67388889,
+          "lng": 12.85722222,
+          "order_index": 2,
+          "description": "Halmstad — a notable landmark in Jönköping, Sweden.",
+          "seo_phrase": "Halmstad",
+          "seo_keywords": [
+            "Jönköping",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Halmstad Nissan01.JPG/800px-Halmstad Nissan01.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Halmstad_Nissan01.JPG/800px-Halmstad_Nissan01.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Linjeflyg Flight 618",
+          "wiki_title": "Linjeflyg Flight 618",
+          "lat": 59.38166667,
+          "lng": 17.86555556,
+          "order_index": 3,
+          "description": "Linjeflyg Flight 618 — a notable landmark in Jönköping, Sweden.",
+          "seo_phrase": "Linjeflyg Flight 618",
+          "seo_keywords": [
+            "Jönköping",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Skyline Vickers Viscount Soderstrom.jpg/800px-Skyline Vickers Viscount Soderstrom.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Skyline_Vickers_Viscount_Soderstrom.jpg/800px-Skyline_Vickers_Viscount_Soderstrom.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Brahehus",
+          "wiki_title": "Brahehus",
+          "lat": 58.05277778,
+          "lng": 14.50472222,
+          "order_index": 4,
+          "description": "Brahehus — a notable landmark in Jönköping, Sweden.",
+          "seo_phrase": "Brahehus",
+          "seo_keywords": [
+            "Jönköping",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Ruin of Brahehus.jpg/800px-Ruin of Brahehus.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ruin_of_Brahehus.jpg/800px-Ruin_of_Brahehus.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Västanå Manor",
+          "wiki_title": "Västanå Manor",
+          "lat": 57.99,
+          "lng": 14.42111111,
+          "order_index": 5,
+          "description": "Västanå Manor — a notable landmark in Jönköping, Sweden.",
+          "seo_phrase": "Västanå Manor",
+          "seo_keywords": [
+            "Jönköping",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Gränna Västanå Manor.JPG/800px-Gränna Västanå Manor.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gr%C3%A4nna_V%C3%A4stan%C3%A5_Manor.JPG/800px-Gr%C3%A4nna_V%C3%A4stan%C3%A5_Manor.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Huskvarna",
+          "wiki_title": "Huskvarna",
+          "lat": 57.8,
+          "lng": 14.26666667,
+          "order_index": 6,
+          "description": "Huskvarna — a notable landmark in Jönköping, Sweden.",
+          "seo_phrase": "Huskvarna",
+          "seo_keywords": [
+            "Jönköping",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Huskvarna Outlook.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Huskvarna_Outlook.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Jönköping",
+          "wiki_title": "Jönköping",
+          "lat": 57.78277778,
+          "lng": 14.16055556,
+          "order_index": 7,
+          "description": "Jönköping — a notable landmark in Jönköping, Sweden.",
+          "seo_phrase": "Jönköping",
+          "seo_keywords": [
+            "Jönköping",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Kollagejönköping.jpg/800px-Kollagejönköping.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kollagej%C3%B6nk%C3%B6ping.jpg/800px-Kollagej%C3%B6nk%C3%B6ping.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Värnamo",
+          "wiki_title": "Värnamo",
+          "lat": 57.18333333,
+          "lng": 14.03333333,
+          "order_index": 8,
+          "description": "Värnamo — a notable landmark in Jönköping, Sweden.",
+          "seo_phrase": "Värnamo",
+          "seo_keywords": [
+            "Jönköping",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Värnamo station.JPG/800px-Värnamo station.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/V%C3%A4rnamo_station.JPG/800px-V%C3%A4rnamo_station.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Eksjö",
+          "wiki_title": "Eksjö",
+          "lat": 57.66694444,
+          "lng": 14.97027778,
+          "order_index": 9,
+          "description": "Eksjö — a notable landmark in Jönköping, Sweden.",
+          "seo_phrase": "Eksjö",
+          "seo_keywords": [
+            "Jönköping",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Eksjoe Altstadt.JPG/800px-Eksjoe Altstadt.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Eksjoe_Altstadt.JPG/800px-Eksjoe_Altstadt.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Umeå",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Umeå",
+      "seo": {
+        "title": "Top 10 Things to Do in Umeå, Sweden",
+        "description": "Discover 10 must-see landmarks in Umeå, Sweden. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Umeå? Explore the best places to visit in Umeå, Sweden.",
+        "keywords": [
+          "things to do in Umeå",
+          "Umeå Sweden travel guide",
+          "best places to visit in Umeå",
+          "Umeå landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Riga",
+          "wiki_title": "Riga",
+          "lat": 56.94888889,
+          "lng": 24.10638889,
+          "order_index": 0,
+          "description": "Riga — a notable landmark in Umeå, Sweden.",
+          "seo_phrase": "Riga",
+          "seo_keywords": [
+            "Umeå",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Riga (33844464828).jpg/800px-Riga (33844464828).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Riga_%2833844464828%29.jpg/800px-Riga_%2833844464828%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Luleå",
+          "wiki_title": "Luleå",
+          "lat": 65.58444444,
+          "lng": 22.15388889,
+          "order_index": 1,
+          "description": "Luleå — a notable landmark in Umeå, Sweden.",
+          "seo_phrase": "Luleå",
+          "seo_keywords": [
+            "Umeå",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Lulea-city-festival-water.jpg/800px-Lulea-city-festival-water.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Lulea-city-festival-water.jpg/800px-Lulea-city-festival-water.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Södertälje",
+          "wiki_title": "Södertälje",
+          "lat": 59.19583333,
+          "lng": 17.62805556,
+          "order_index": 2,
+          "description": "Södertälje — a notable landmark in Umeå, Sweden.",
+          "seo_phrase": "Södertälje",
+          "seo_keywords": [
+            "Umeå",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Södertälje kollage 2017a.jpg/800px-Södertälje kollage 2017a.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/S%C3%B6dert%C3%A4lje_kollage_2017a.jpg/800px-S%C3%B6dert%C3%A4lje_kollage_2017a.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Eskilstuna",
+          "wiki_title": "Eskilstuna",
+          "lat": 59.37083333,
+          "lng": 16.50972222,
+          "order_index": 3,
+          "description": "Eskilstuna — a notable landmark in Umeå, Sweden.",
+          "seo_phrase": "Eskilstuna",
+          "seo_keywords": [
+            "Umeå",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Eskilstuna flygbild1js-1.jpg/800px-Eskilstuna flygbild1js-1.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eskilstuna_flygbild1js-1.jpg/800px-Eskilstuna_flygbild1js-1.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Östersund",
+          "wiki_title": "Östersund",
+          "lat": 63.17916667,
+          "lng": 14.63583333,
+          "order_index": 4,
+          "description": "Östersund — a notable landmark in Umeå, Sweden.",
+          "seo_phrase": "Östersund",
+          "seo_keywords": [
+            "Umeå",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Östersund 3.jpg/800px-Östersund 3.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/%C3%96stersund_3.jpg/800px-%C3%96stersund_3.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Umeå City Church",
+          "wiki_title": "Umeå City Church",
+          "lat": 63.82361111,
+          "lng": 20.26777778,
+          "order_index": 5,
+          "description": "Umeå City Church — a notable landmark in Umeå, Sweden.",
+          "seo_phrase": "Umeå City Church",
+          "seo_keywords": [
+            "Umeå",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Umeå stads kyrka.jpg/800px-Umeå stads kyrka.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ume%C3%A5_stads_kyrka.jpg/800px-Ume%C3%A5_stads_kyrka.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Lövånger",
+          "wiki_title": "Lövånger",
+          "lat": 64.36666667,
+          "lng": 21.3,
+          "order_index": 6,
+          "description": "Lövånger — a notable landmark in Umeå, Sweden.",
+          "seo_phrase": "Lövånger",
+          "seo_keywords": [
+            "Umeå",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Lövånger - KMB - 16000300022342.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/L%C3%B6v%C3%A5nger_-_KMB_-_16000300022342.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Holmöarna",
+          "wiki_title": "Holmöarna",
+          "lat": 63.71666667,
+          "lng": 20.85,
+          "order_index": 7,
+          "description": "Holmöarna — a notable landmark in Umeå, Sweden.",
+          "seo_phrase": "Holmöarna",
+          "seo_keywords": [
+            "Umeå",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Byavägen-Holmön 07-08-08.jpg/800px-Byavägen-Holmön 07-08-08.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Byav%C3%A4gen-Holm%C3%B6n_07-08-08.jpg/800px-Byav%C3%A4gen-Holm%C3%B6n_07-08-08.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Umeå Central Station",
+          "wiki_title": "Umeå Central Station",
+          "lat": 63.83055556,
+          "lng": 20.26666667,
+          "order_index": 8,
+          "description": "Umeå Central Station — a notable landmark in Umeå, Sweden.",
+          "seo_phrase": "Umeå Central Station",
+          "seo_keywords": [
+            "Umeå",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Umeå centralstation.jpg/800px-Umeå centralstation.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ume%C3%A5_centralstation.jpg/800px-Ume%C3%A5_centralstation.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Umeå Arts Campus",
+          "wiki_title": "Umeå Arts Campus",
+          "lat": 63.82055556,
+          "lng": 20.27611111,
+          "order_index": 9,
+          "description": "Umeå Arts Campus — a notable landmark in Umeå, Sweden.",
+          "seo_phrase": "Umeå Arts Campus",
+          "seo_keywords": [
+            "Umeå",
+            "Sweden",
+            "travel"
+          ],
+          "commons_file": "Flygbild konstcampus 131 1282 130722 bsb.jpg/800px-Flygbild konstcampus 131 1282 130722 bsb.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Flygbild_konstcampus_131_1282_130722_bsb.jpg/800px-Flygbild_konstcampus_131_1282_130722_bsb.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "Sweden Scenic Road Trip",
+    "subtitle": "Explore Sweden beyond the cities — nature, coastlines, and scenic routes.",
+    "wiki_title": "Sweden",
+    "hero_image": "",
+    "totalDays": 10,
+    "seo": {
+      "title": "Sweden Road Trip Adventure",
+      "description": "Plan a Sweden road trip with GPS stops and scenic routes.",
+      "intro": "Explore Sweden beyond the cities with this adventure route.",
+      "keywords": [
+        "Sweden road trip",
+        "Sweden by car"
+      ]
+    },
+    "places": [
+      {
+        "name": "Gripsholm Castle",
+        "wiki_title": "Gripsholm Castle",
+        "region": "Sweden",
+        "lat": 59.25611111,
+        "lng": 17.21916667,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Gripsholm Castle — a must-see landmark on a Sweden road trip.",
+        "seo_phrase": "Gripsholm Castle",
+        "seo_keywords": [
+          "Gripsholm Castle",
+          "Sweden",
+          "road trip"
+        ],
+        "commons_file": "Gripsholms slott view2.jpg/800px-Gripsholms slott view2.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gripsholms_slott_view2.jpg/800px-Gripsholms_slott_view2.jpg",
+        "seo_priority": 90,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Kalmar Castle",
+        "wiki_title": "Kalmar Castle",
+        "region": "Sweden",
+        "lat": 56.658,
+        "lng": 16.355,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Kalmar Castle — a must-see landmark on a Sweden road trip.",
+        "seo_phrase": "Kalmar Castle",
+        "seo_keywords": [
+          "Kalmar Castle",
+          "Sweden",
+          "road trip"
+        ],
+        "commons_file": "1285Kalmar slott.jpg/800px-1285Kalmar slott.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/1285Kalmar_slott.jpg/800px-1285Kalmar_slott.jpg",
+        "seo_priority": 89,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Tre Kronor (castle)",
+        "wiki_title": "Tre Kronor (castle",
+        "region": "Sweden",
+        "lat": 59.32666667,
+        "lng": 18.07166667,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Tre Kronor (castle) — a must-see landmark on a Sweden road trip.",
+        "seo_phrase": "Tre Kronor (castle)",
+        "seo_keywords": [
+          "Tre Kronor (castle)",
+          "Sweden",
+          "road trip"
+        ],
+        "commons_file": "Slottet Tre Kronor 1661.jpg/800px-Slottet Tre Kronor 1661.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Slottet_Tre_Kronor_1661.jpg/800px-Slottet_Tre_Kronor_1661.jpg",
+        "seo_priority": 88,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Örebro Castle",
+        "wiki_title": "Örebro Castle",
+        "region": "Sweden",
+        "lat": 59.27388889,
+        "lng": 15.21527778,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Örebro Castle — a must-see landmark on a Sweden road trip.",
+        "seo_phrase": "Örebro Castle",
+        "seo_keywords": [
+          "Örebro Castle",
+          "Sweden",
+          "road trip"
+        ],
+        "commons_file": "Örebro slott.jpg/800px-Örebro slott.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%C3%96rebro_slott.jpg/800px-%C3%96rebro_slott.jpg",
+        "seo_priority": 87,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Uppsala Castle",
+        "wiki_title": "Uppsala Castle",
+        "region": "Sweden",
+        "lat": 59.85333333,
+        "lng": 17.63527778,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Uppsala Castle — a must-see landmark on a Sweden road trip.",
+        "seo_phrase": "Uppsala Castle",
+        "seo_keywords": [
+          "Uppsala Castle",
+          "Sweden",
+          "road trip"
+        ],
+        "commons_file": "0067Uppsala slott.jpg/800px-0067Uppsala slott.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/0067Uppsala_slott.jpg/800px-0067Uppsala_slott.jpg",
+        "seo_priority": 86,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Kronoberg Castle",
+        "wiki_title": "Kronoberg Castle",
+        "region": "Sweden",
+        "lat": 56.94027778,
+        "lng": 14.795,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Kronoberg Castle — a must-see landmark on a Sweden road trip.",
+        "seo_phrase": "Kronoberg Castle",
+        "seo_keywords": [
+          "Kronoberg Castle",
+          "Sweden",
+          "road trip"
+        ],
+        "commons_file": "Frontal view of ruins from the main land..jpg/800px-Frontal view of ruins from the main land..jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Frontal_view_of_ruins_from_the_main_land..jpg/800px-Frontal_view_of_ruins_from_the_main_land..jpg",
+        "seo_priority": 85,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Malmö Castle",
+        "wiki_title": "Malmö Castle",
+        "region": "Sweden",
+        "lat": 55.6048,
+        "lng": 12.9875,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Malmö Castle — a must-see landmark on a Sweden road trip.",
+        "seo_phrase": "Malmö Castle",
+        "seo_keywords": [
+          "Malmö Castle",
+          "Sweden",
+          "road trip"
+        ],
+        "commons_file": "Malmöhus slott 2022.jpg/800px-Malmöhus slott 2022.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Malm%C3%B6hus_slott_2022.jpg/800px-Malm%C3%B6hus_slott_2022.jpg",
+        "seo_priority": 84,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Halmstad Castle",
+        "wiki_title": "Halmstad Castle",
+        "region": "Sweden",
+        "lat": 56.67166667,
+        "lng": 12.85777778,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Halmstad Castle — a must-see landmark on a Sweden road trip.",
+        "seo_phrase": "Halmstad Castle",
+        "seo_keywords": [
+          "Halmstad Castle",
+          "Sweden",
+          "road trip"
+        ],
+        "commons_file": "Halmstad Nissan01.JPG/800px-Halmstad Nissan01.JPG",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Halmstad_Nissan01.JPG/800px-Halmstad_Nissan01.JPG",
+        "seo_priority": 83,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Bogesund Castle",
+        "wiki_title": "Bogesund Castle",
+        "region": "Sweden",
+        "lat": 59.39333333,
+        "lng": 18.28444444,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Bogesund Castle — a must-see landmark on a Sweden road trip.",
+        "seo_phrase": "Bogesund Castle",
+        "seo_keywords": [
+          "Bogesund Castle",
+          "Sweden",
+          "road trip"
+        ],
+        "commons_file": "Bogesunds slott February 2013 04.jpg/800px-Bogesunds slott February 2013 04.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bogesunds_slott_February_2013_04.jpg/800px-Bogesunds_slott_February_2013_04.jpg",
+        "seo_priority": 82,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Ekensholm Castle",
+        "wiki_title": "Ekensholm Castle",
+        "region": "Sweden",
+        "lat": 59.16222222,
+        "lng": 16.87611111,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Ekensholm Castle — a must-see landmark on a Sweden road trip.",
+        "seo_phrase": "Ekensholm Castle",
+        "seo_keywords": [
+          "Ekensholm Castle",
+          "Sweden",
+          "road trip"
+        ],
+        "commons_file": "Ekensholm Slott 2017a.jpg/800px-Ekensholm Slott 2017a.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ekensholm_Slott_2017a.jpg/800px-Ekensholm_Slott_2017a.jpg",
+        "seo_priority": 81,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      }
+    ]
+  }
+}

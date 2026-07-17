@@ -1,0 +1,3725 @@
+{
+  "version": 2,
+  "country": "Portugal",
+  "published": true,
+  "cities": [
+    {
+      "city": "Lisbon",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Lisbon",
+      "seo": {
+        "title": "Top 10 Things to Do in Lisbon, Portugal",
+        "description": "Discover 10 must-see landmarks in Lisbon, Portugal. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Lisbon? Explore the best places to visit in Lisbon, Portugal.",
+        "keywords": [
+          "things to do in Lisbon",
+          "Lisbon Portugal travel guide",
+          "best places to visit in Lisbon",
+          "Lisbon landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Mosteiro dos Jeronimos",
+          "wiki_title": "Jerónimos Monastery",
+          "lat": 38.6978,
+          "lng": -9.2067,
+          "order_index": 0,
+          "description": "A magnificent UNESCO World Heritage monastery boasting incredible maritime-themed late Gothic stone carvings.",
+          "seo_phrase": "Jeronimos Monastery Guide | Lisbon's Manueline Architecture Marvel",
+          "seo_keywords": [
+            "Jeronimos Monastery",
+            "Mosteiro dos Jeronimos",
+            "Belem attractions",
+            "Manueline architecture"
+          ],
+          "commons_file": "Mosteiro dos Jerónimos July 2021.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Mosteiro_dos_Jer%C3%B3nimos_July_2021.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Padrao dos Descobrimentos",
+            "Torre de Belem"
+          ]
+        },
+        {
+          "name": "Torre de Belem",
+          "wiki_title": "Belém Tower",
+          "lat": 38.6916,
+          "lng": -9.216,
+          "order_index": 1,
+          "description": "A historic, ornamental stone tower standing guard along the shores of the Tagus estuary.",
+          "seo_phrase": "Belem Tower Lisbon | Iconic Maritime Defensive Fortification",
+          "seo_keywords": [
+            "Belem Tower",
+            "Torre de Belem",
+            "Lisbon defensive forts",
+            "UNESCO Portugal"
+          ],
+          "commons_file": "Torre de Belém November 2021.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Torre_de_Bel%C3%A9m_November_2021.jpg",
+          "seo_priority": 97,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mosteiro dos Jeronimos",
+            "Padrao dos Descobrimentos"
+          ]
+        },
+        {
+          "name": "Castelo de Sao Jorge",
+          "wiki_title": "Castelo de São Jorge",
+          "lat": 38.7139,
+          "lng": -9.1334,
+          "order_index": 2,
+          "description": "A dramatic medieval fortress overlooking the historic Alfama district and Tagus River.",
+          "seo_phrase": "Castelo de Sao Jorge Travel Guide | Lisbon's Hilltop Citadel",
+          "seo_keywords": [
+            "Castelo de Sao Jorge",
+            "Lisbon castle",
+            "Alfama attractions",
+            "medieval Portugal"
+          ],
+          "commons_file": "Castelo de São Jorge in Lisbon - September 2021.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Castelo_de_S%C3%A3o_Jorge_in_Lisbon_-_September_2021.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Alfama District",
+            "Lisbon Cathedral"
+          ]
+        },
+        {
+          "name": "Praca do Comercio",
+          "wiki_title": "Praça do Comércio",
+          "lat": 38.7075,
+          "lng": -9.1364,
+          "order_index": 3,
+          "description": "A majestic waterfront plaza in central Lisbon bordered by vibrant yellow arcade buildings.",
+          "seo_phrase": "Ultimate Guide to Praca do Comercio in Lisbon | Historic Waterfront Square",
+          "seo_keywords": [
+            "Praca do Comercio",
+            "Lisbon waterfront",
+            "Terreiro do Paco",
+            "Lisbon monuments"
+          ],
+          "commons_file": "Praça do Comércio - Lisboa.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Pra%C3%A7a_do_Com%C3%A9rcio_-_Lisboa.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Arco da Rua Augusta",
+            "Lisbon Cathedral"
+          ]
+        },
+        {
+          "name": "Convento do Carmo",
+          "wiki_title": "Carmo Convent (Lisbon",
+          "lat": 38.7122,
+          "lng": -9.1402,
+          "order_index": 4,
+          "description": "An unforgettable skeleton of a Gothic church standing roofless against the blue Lisbon sky.",
+          "seo_phrase": "Carmo Convent Ruins Lisbon | Gothic Ruins & Archaeological Museum",
+          "seo_keywords": [
+            "Carmo Convent",
+            "Convento do Carmo",
+            "Lisbon ruins",
+            "Gothic Lisbon"
+          ],
+          "commons_file": "Convento do Carmo July 2021.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Convento_do_Carmo_July_2021.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Elevador de Santa Justa",
+            "Praca do Rossio"
+          ]
+        },
+        {
+          "name": "Elevador de Santa Justa",
+          "wiki_title": "Santa Justa Lift",
+          "lat": 38.7121,
+          "lng": -9.1394,
+          "order_index": 5,
+          "description": "A stunning iron elevator tower built in striking industrial Neo-Gothic design.",
+          "seo_phrase": "Santa Justa Lift Lisbon | Iconic Neo-Gothic Industrial Elevator",
+          "seo_keywords": [
+            "Santa Justa Lift",
+            "Elevador de Santa Justa",
+            "Lisbon viewpoint",
+            "Baixa lift"
+          ],
+          "commons_file": "Elevador de Santa Justa - Lisboa.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Elevador_de_Santa_Justa_-_Lisboa.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Convento do Carmo",
+            "Praca do Rossio"
+          ]
+        },
+        {
+          "name": "Padrao dos Descobrimentos",
+          "wiki_title": "Padrão dos Descobrimentos",
+          "lat": 38.6936,
+          "lng": -9.2057,
+          "order_index": 6,
+          "description": "A striking modern concrete monument shaped like a ship's prow on the banks of the Tagus.",
+          "seo_phrase": "Padrao dos Descobrimentos Belem | Discover Portugal's Age of Discovery",
+          "seo_keywords": [
+            "Padrao dos Descobrimentos",
+            "Belem monument",
+            "Lisbon explorers",
+            "Tagus river landmarks"
+          ],
+          "commons_file": "Padrão dos Descobrimentos Lisbon.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Padr%C3%A3o_dos_Descobrimentos_Lisbon.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mosteiro dos Jeronimos",
+            "Torre de Belem"
+          ]
+        },
+        {
+          "name": "Miradouro da Senhora do Monte",
+          "wiki_title": "Miradouro da Senhora do Monte",
+          "lat": 38.7191,
+          "lng": -9.1312,
+          "order_index": 7,
+          "description": "The highest observation viewpoint in Lisbon offering unparalleled vistas across the city layout.",
+          "seo_phrase": "Miradouro da Senhora do Monte | Best Panoramic Viewpoint in Lisbon",
+          "seo_keywords": [
+            "Senhora do Monte",
+            "Lisbon viewpoint",
+            "miradouro sunset",
+            "Graca Lisbon"
+          ],
+          "commons_file": "Miradouro da Senhora do Monte View.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Miradouro_da_Senhora_do_Monte_View.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Castelo de Sao Jorge",
+            "Alfama District"
+          ]
+        },
+        {
+          "name": "Se de Lisboa",
+          "wiki_title": "Lisbon Cathedral",
+          "lat": 38.7099,
+          "lng": -9.1326,
+          "order_index": 8,
+          "description": "A imposing Romanesque cathedral featuring fortress-style towers located in the Alfama foothills.",
+          "seo_phrase": "Lisbon Cathedral (Se de Lisboa) | Guide to Lisbon's Oldest Church",
+          "seo_keywords": [
+            "Lisbon Cathedral",
+            "Se de Lisboa",
+            "Alfama churches",
+            "historic Lisbon"
+          ],
+          "commons_file": "Lisbon Cathedral July 2021.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Lisbon_Cathedral_July_2021.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Castelo de Sao Jorge",
+            "Praca do Comercio"
+          ]
+        },
+        {
+          "name": "Praca do Rossio",
+          "wiki_title": "Rossio Square",
+          "lat": 38.7138,
+          "lng": -9.1394,
+          "order_index": 9,
+          "description": "A lively central square featuring classic Portuguese wave-patterned stone pavement.",
+          "seo_phrase": "Rossio Square Lisbon Guide | The Heart of Historic Downtown",
+          "seo_keywords": [
+            "Rossio Square",
+            "Praca Rossio",
+            "Lisbon center",
+            "Portuguese pavement"
+          ],
+          "commons_file": "Praca do Rossio Lisboa.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Praca_do_Rossio_Lisboa.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Elevador de Santa Justa",
+            "Convento do Carmo"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Porto",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Porto",
+      "seo": {
+        "title": "Top 10 Things to Do in Porto, Portugal",
+        "description": "Discover 10 must-see landmarks in Porto, Portugal. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Porto? Explore the best places to visit in Porto, Portugal.",
+        "keywords": [
+          "things to do in Porto",
+          "Porto Portugal travel guide",
+          "best places to visit in Porto",
+          "Porto landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Luis I Bridge",
+          "wiki_title": "Dom Luís I Bridge",
+          "lat": 41.1399,
+          "lng": -8.6094,
+          "order_index": 0,
+          "description": "A monumental double-deck iron arch bridge spanning the beautiful Douro River.",
+          "seo_phrase": "Dom Luis I Bridge Porto | Iconic Double-Deck Metal Arch Guide",
+          "seo_keywords": [
+            "Luis I Bridge",
+            "Porto bridge",
+            "Douro river crossing",
+            "Eiffel iron bridge"
+          ],
+          "commons_file": "Dom Luís I Bridge Porto.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Dom_Lu%C3%ADs_I_Bridge_Porto.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Ribeira District",
+            "Porto Cathedral"
+          ]
+        },
+        {
+          "name": "Clerigos Church and Tower",
+          "wiki_title": "Clérigos Church",
+          "lat": 41.1458,
+          "lng": -8.6147,
+          "order_index": 1,
+          "description": "A soaring baroque stone bell tower dominate the central skyline of Porto.",
+          "seo_phrase": "Clerigos Tower Porto | Climb the Famous Baroque Bell Tower",
+          "seo_keywords": [
+            "Clerigos Tower",
+            "Torre dos Clerigos",
+            "Porto baroque church",
+            "Nicolau Nasoni"
+          ],
+          "commons_file": "Clérigos Tower Porto.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Cl%C3%A9rigos_Tower_Porto.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Livraria Lello",
+            "Sao Bento Station"
+          ]
+        },
+        {
+          "name": "Livraria Lello",
+          "wiki_title": "Livraria Lello",
+          "lat": 41.1468,
+          "lng": -8.6148,
+          "order_index": 2,
+          "description": "An incredibly ornate historic bookstore featuring a famous crimson fork-shaped central staircase.",
+          "seo_phrase": "Livraria Lello Porto | Ultimate Historic Bookstore Guide",
+          "seo_keywords": [
+            "Livraria Lello",
+            "Porto bookstore",
+            "historic bookshops",
+            "Neo-Gothic Porto"
+          ],
+          "commons_file": "Livraria Lello Interior.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Livraria_Lello_Interior.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Clerigos Church and Tower",
+            "Sao Bento Station"
+          ]
+        },
+        {
+          "name": "Palacio da Bolsa",
+          "wiki_title": "Palácio da Bolsa",
+          "lat": 41.1414,
+          "lng": -8.6156,
+          "order_index": 3,
+          "description": "A magnificent nineteenth-century palace showcasing lavish neoclassical and exotic architectural styles.",
+          "seo_phrase": "Palacio da Bolsa Porto | Explore the Arab Room and Grand Halls",
+          "seo_keywords": [
+            "Palacio da Bolsa",
+            "Stock Exchange Palace",
+            "Arab Room Porto",
+            "neoclassical palace"
+          ],
+          "commons_file": "Palácio da Bolsa Porto.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Palácio_da_Bolsa_Porto.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Igreja de Sao Francisco",
+            "Ribeira District"
+          ]
+        },
+        {
+          "name": "Sao Bento Station",
+          "wiki_title": "São Bento railway station",
+          "lat": 41.1455,
+          "lng": -8.6103,
+          "order_index": 4,
+          "description": "An active railway terminus renowned for its vast, historically descriptive tile murals.",
+          "seo_phrase": "Sao Bento Train Station | Porto's Azulejo Tile Masterpiece",
+          "seo_keywords": [
+            "Sao Bento Station",
+            "Porto train station",
+            "azulejo tiles Porto",
+            "Jorge Colaco"
+          ],
+          "commons_file": "São Bento train station Porto.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/S%C3%A3o_Bento_train_station_Porto.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Porto Cathedral",
+            "Clerigos Church and Tower"
+          ]
+        },
+        {
+          "name": "Igreja de Sao Francisco",
+          "wiki_title": "Church of São Francisco (Porto",
+          "lat": 41.1409,
+          "lng": -8.6158,
+          "order_index": 5,
+          "description": "A historic Gothic church interior entirely blanketed in shimmering baroque gold woodwork.",
+          "seo_phrase": "Church of Sao Francisco Porto | Gilded Baroque Wooden Masterpiece",
+          "seo_keywords": [
+            "Igreja de Sao Francisco",
+            "Porto gold church",
+            "baroque woodwork",
+            "talha dourada"
+          ],
+          "commons_file": "Igreja de São Francisco Porto.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Igreja_de_S%C3%A3o_Francisco_Porto.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Palacio da Bolsa",
+            "Ribeira District"
+          ]
+        },
+        {
+          "name": "Porto Cathedral",
+          "wiki_title": "Porto Cathedral",
+          "lat": 41.1428,
+          "lng": -8.6111,
+          "order_index": 6,
+          "description": "A sturdy Romanesque cathedral fortress standing high over Porto's old quarters.",
+          "seo_phrase": "Porto Cathedral (Se do Porto) | Medieval Fortress-Church",
+          "seo_keywords": [
+            "Porto Cathedral",
+            "Se do Porto",
+            "medieval church",
+            "Gothic cloister Porto"
+          ],
+          "commons_file": "Sé do Porto July 2021.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Sé_do_Porto_July_2021.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Sao Bento Station",
+            "Luis I Bridge"
+          ]
+        },
+        {
+          "name": "Jardins do Palacio de Cristal",
+          "wiki_title": "Jardins do Palácio de Cristal",
+          "lat": 41.1497,
+          "lng": -8.6258,
+          "order_index": 7,
+          "description": "An elegant, tiered public park featuring botanical collections and sweeping river panoramic lookouts.",
+          "seo_phrase": "Crystal Palace Gardens Porto | Scenic Public Botanical Park",
+          "seo_keywords": [
+            "Palacio de Cristal",
+            "Porto gardens",
+            "botanical park Porto",
+            "Douro viewpoints"
+          ],
+          "commons_file": "Jardins do Palácio de Cristal Porto.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Jardins_do_Pal%C3%A1cio_de_Cristal_Porto.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Casa da Musica"
+          ]
+        },
+        {
+          "name": "Casa da Musica",
+          "wiki_title": "Casa da Música",
+          "lat": 41.1588,
+          "lng": -8.6307,
+          "order_index": 8,
+          "description": "A striking asymmetric white concrete block building dedicated to music performances.",
+          "seo_phrase": "Casa da Musica Porto | Avant-Garde Modern Architecture Tour",
+          "seo_keywords": [
+            "Casa da Musica",
+            "Rem Koolhaas Porto",
+            "modern architecture Portugal",
+            "Porto concert hall"
+          ],
+          "commons_file": "Casa da Música Porto 2021.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Casa_da_M%C3%BAsica_Porto_2021.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Jardins do Palacio de Cristal"
+          ]
+        },
+        {
+          "name": "Alcobaça",
+          "wiki_title": "Alcobaça, Portugal",
+          "lat": 39.55277778,
+          "lng": -8.97777778,
+          "order_index": 9,
+          "description": "Alcobaça, Portugal — a notable landmark in Porto, Portugal.",
+          "seo_phrase": "Alcobaça",
+          "seo_keywords": [
+            "Porto",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Alcobaça October 2021-1.jpg/800px-Alcobaça October 2021-1.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Alcoba%C3%A7a_October_2021-1.jpg/800px-Alcoba%C3%A7a_October_2021-1.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Sintra",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Sintra",
+      "seo": {
+        "title": "Top 10 Things to Do in Sintra, Portugal",
+        "description": "Discover 10 must-see landmarks in Sintra, Portugal. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Sintra? Explore the best places to visit in Sintra, Portugal.",
+        "keywords": [
+          "things to do in Sintra",
+          "Sintra Portugal travel guide",
+          "best places to visit in Sintra",
+          "Sintra landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Pena Palace",
+          "wiki_title": "Pena Palace",
+          "lat": 38.7876,
+          "lng": -9.3906,
+          "order_index": 0,
+          "description": "A vivid, fairy-tale palace featuring eclectic architectural details perched high in the Sintra hills.",
+          "seo_phrase": "Pena Palace Sintra Guide | Romanticist Fairy-Tale Hilltop Castle",
+          "seo_keywords": [
+            "Pena Palace",
+            "Palacio da Pena",
+            "Sintra castles",
+            "Romanticist architecture"
+          ],
+          "commons_file": "Palácio Nacional da Pena Sintra.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Palácio_Nacional_da_Pena_Sintra.jpg",
+          "seo_priority": 100,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Moorish Castle",
+            "Quinta da Regaleira"
+          ]
+        },
+        {
+          "name": "Quinta da Regaleira",
+          "wiki_title": "Quinta da Regaleira",
+          "lat": 38.7963,
+          "lng": -9.396,
+          "order_index": 1,
+          "description": "An enigmatic estate containing a Gothic-style palace surrounded by lush, symbol-rich gardens.",
+          "seo_phrase": "Quinta da Regaleira Sintra | Initiation Wells & Mystic Gardens",
+          "seo_keywords": [
+            "Quinta da Regaleira",
+            "Initiation Well Sintra",
+            "Sintra gardens",
+            "mystic Portugal"
+          ],
+          "commons_file": "Quinta da Regaleira Sintra 2021.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Quinta_da_Regaleira_Sintra_2021.jpg",
+          "seo_priority": 99,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "National Palace of Sintra",
+            "Pena Palace"
+          ]
+        },
+        {
+          "name": "Moorish Castle",
+          "wiki_title": "Castle of the Moors",
+          "lat": 38.7891,
+          "lng": -9.3892,
+          "order_index": 2,
+          "description": "A historic stone fortress winding dramatically along the high rocky crests of the Sintra hills.",
+          "seo_phrase": "Castle of the Moors Sintra | Medieval Mountain Fortification",
+          "seo_keywords": [
+            "Moorish Castle",
+            "Castelo dos Mouros",
+            "Sintra fortress",
+            "medieval fortification"
+          ],
+          "commons_file": "Castelo dos Mouros Sintra.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Castelo_dos_Mouros_Sintra.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Pena Palace",
+            "National Palace of Sintra"
+          ]
+        },
+        {
+          "name": "National Palace of Sintra",
+          "wiki_title": "Sintra National Palace",
+          "lat": 38.7977,
+          "lng": -9.3907,
+          "order_index": 3,
+          "description": "A historic royal palace in Sintra's center identifiable by its two massive conical kitchen chimneys.",
+          "seo_phrase": "Sintra National Palace Guide | Historic Royal Town Residence",
+          "seo_keywords": [
+            "Sintra National Palace",
+            "Palacio da Vila",
+            "royal residence Portugal",
+            "Sintra chimneys"
+          ],
+          "commons_file": "Palácio Nacional de Sintra 2021.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Palácio_Nacional_de_Sintra_2021.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Quinta da Regaleira",
+            "Moorish Castle"
+          ]
+        },
+        {
+          "name": "Monserrate Palace",
+          "wiki_title": "Palace of Monserrate",
+          "lat": 38.7941,
+          "lng": -9.4206,
+          "order_index": 4,
+          "description": "An elegant orientalist summer villa surrounded by extensive botanical parklands.",
+          "seo_phrase": "Monserrate Palace Sintra | Exotic Neo-Moorish Architecture",
+          "seo_keywords": [
+            "Monserrate Palace",
+            "Sintra villa",
+            "Moorish revival",
+            "exotic gardens Sintra"
+          ],
+          "commons_file": "Palácio de Monserrate Sintra.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Palácio_de_Monserrate_Sintra.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Convento dos Capuchos"
+          ]
+        },
+        {
+          "name": "Convento dos Capuchos",
+          "wiki_title": "Convento dos Capuchos (Sintra",
+          "lat": 38.7844,
+          "lng": -9.4381,
+          "order_index": 5,
+          "description": "A modest, subterranean historic monastery integrated into massive forest granite boulders.",
+          "seo_phrase": "Convento dos Capuchos Sintra | The Historic Cork Convent",
+          "seo_keywords": [
+            "Convento dos Capuchos",
+            "Cork Convent",
+            "Sintra monastery",
+            "Franciscan monks Portugal"
+          ],
+          "commons_file": "Convento dos Capuchos Sintra 2021.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Convento_dos_Capuchos_Sintra_2021.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Monserrate Palace"
+          ]
+        },
+        {
+          "name": "Chalet da Condessa d'Edla",
+          "wiki_title": "Chalet of ",
+          "lat": 38.7852,
+          "lng": -9.3992,
+          "order_index": 6,
+          "description": "An alpine-inspired romantic wooden cottage tucked away inside the western parklands of Pena.",
+          "seo_phrase": "Chalet of the Countess of Edla Sintra | Romantic Timber Chalet",
+          "seo_keywords": [
+            "Chalet d'Edla",
+            "Countess of Edla chalet",
+            "Sintra timber cottage",
+            "Pena park buildings"
+          ],
+          "commons_file": "Chalet da Condessa d'Edla Sintra.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Chalet_da_Condessa_d%27Edla_Sintra.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Pena Palace",
+            "Moorish Castle"
+          ]
+        },
+        {
+          "name": "Lisbon",
+          "wiki_title": "Lisbon",
+          "lat": 38.72527778,
+          "lng": -9.15,
+          "order_index": 7,
+          "description": "Lisbon — a notable landmark in Sintra, Portugal.",
+          "seo_phrase": "Lisbon",
+          "seo_keywords": [
+            "Sintra",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Lisboa - Portugal (52597836992).jpg/800px-Lisboa - Portugal (52597836992).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lisboa_-_Portugal_%2852597836992%29.jpg/800px-Lisboa_-_Portugal_%2852597836992%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Lisbon Cathedral",
+          "wiki_title": "Lisbon Cathedral",
+          "lat": 38.70972222,
+          "lng": -9.13305556,
+          "order_index": 8,
+          "description": "Lisbon Cathedral — a notable landmark in Sintra, Portugal.",
+          "seo_phrase": "Lisbon Cathedral",
+          "seo_keywords": [
+            "Sintra",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Catedral, Lisboa, Portugal, 2022-07-24, DD 24.jpg/800px-Catedral, Lisboa, Portugal, 2022-07-24, DD 24.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Catedral%2C_Lisboa%2C_Portugal%2C_2022-07-24%2C_DD_24.jpg/800px-Catedral%2C_Lisboa%2C_Portugal%2C_2022-07-24%2C_DD_24.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Cathedral of Évora",
+          "wiki_title": "Cathedral of Évora",
+          "lat": 38.5718,
+          "lng": -7.9066,
+          "order_index": 9,
+          "description": "Cathedral of Évora — a notable landmark in Sintra, Portugal.",
+          "seo_phrase": "Cathedral of Évora",
+          "seo_keywords": [
+            "Sintra",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Evora - Cathedral - Front.jpg/800px-Evora - Cathedral - Front.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Evora_-_Cathedral_-_Front.jpg/800px-Evora_-_Cathedral_-_Front.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Braga",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Braga",
+      "seo": {
+        "title": "Top 10 Things to Do in Braga, Portugal",
+        "description": "Discover 10 must-see landmarks in Braga, Portugal. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Braga? Explore the best places to visit in Braga, Portugal.",
+        "keywords": [
+          "things to do in Braga",
+          "Braga Portugal travel guide",
+          "best places to visit in Braga",
+          "Braga landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Braga",
+          "wiki_title": "Braga",
+          "lat": 41.55111111,
+          "lng": -8.42833333,
+          "order_index": 0,
+          "description": "Braga — a notable landmark in Braga, Portugal.",
+          "seo_phrase": "Braga",
+          "seo_keywords": [
+            "Braga",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Braga Panorama.jpg/800px-Braga Panorama.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Braga_Panorama.jpg/800px-Braga_Panorama.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Dume",
+          "wiki_title": "Dume",
+          "lat": 41.571,
+          "lng": -8.434,
+          "order_index": 1,
+          "description": "Dume — a notable landmark in Braga, Portugal.",
+          "seo_phrase": "Dume",
+          "seo_keywords": [
+            "Braga",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Dume-loc.png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Dume-loc.png",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Old Cathedral of Coimbra",
+          "wiki_title": "Old Cathedral of Coimbra",
+          "lat": 40.20877778,
+          "lng": -8.42708333,
+          "order_index": 2,
+          "description": "Old Cathedral of Coimbra — a notable landmark in Braga, Portugal.",
+          "seo_phrase": "Old Cathedral of Coimbra",
+          "seo_keywords": [
+            "Braga",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Coimbra Sé Velha Hauptportal 979-166.jpg/800px-Coimbra Sé Velha Hauptportal 979-166.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Coimbra_S%C3%A9_Velha_Hauptportal_979-166.jpg/800px-Coimbra_S%C3%A9_Velha_Hauptportal_979-166.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Archdiocese of Braga",
+          "wiki_title": "Archdiocese of Braga",
+          "lat": 41.5497,
+          "lng": -8.4269,
+          "order_index": 3,
+          "description": "Archdiocese of Braga — a notable landmark in Braga, Portugal.",
+          "seo_phrase": "Archdiocese of Braga",
+          "seo_keywords": [
+            "Braga",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Braga Cathedral (1).jpg/800px-Braga Cathedral (1).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Braga_Cathedral_%281%29.jpg/800px-Braga_Cathedral_%281%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Braga Cathedral",
+          "wiki_title": "Braga Cathedral",
+          "lat": 41.5499,
+          "lng": -8.42736,
+          "order_index": 4,
+          "description": "Braga Cathedral — a notable landmark in Braga, Portugal.",
+          "seo_phrase": "Braga Cathedral",
+          "seo_keywords": [
+            "Braga",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Braga Cathedral (1).jpg/800px-Braga Cathedral (1).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Braga_Cathedral_%281%29.jpg/800px-Braga_Cathedral_%281%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Diocese of Bragança-Miranda",
+          "wiki_title": "Diocese of Bragança-Miranda",
+          "lat": 41.8056,
+          "lng": -6.7622,
+          "order_index": 5,
+          "description": "Diocese of Bragança-Miranda — a notable landmark in Braga, Portugal.",
+          "seo_phrase": "Diocese of Bragança-Miranda",
+          "seo_keywords": [
+            "Braga",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "007473 - Braganza (8750774455).jpg/800px-007473 - Braganza (8750774455).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/007473_-_Braganza_%288750774455%29.jpg/800px-007473_-_Braganza_%288750774455%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Castle of Braga",
+          "wiki_title": "Castle of Braga",
+          "lat": 41.55131111,
+          "lng": -8.42383889,
+          "order_index": 6,
+          "description": "Castle of Braga — a notable landmark in Braga, Portugal.",
+          "seo_phrase": "Castle of Braga",
+          "seo_keywords": [
+            "Braga",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Braga, Avenida Central.jpg/800px-Braga, Avenida Central.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Braga%2C_Avenida_Central.jpg/800px-Braga%2C_Avenida_Central.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Braga City Hall",
+          "wiki_title": "Braga City Hall",
+          "lat": 41.551,
+          "lng": -8.42847222,
+          "order_index": 7,
+          "description": "Braga City Hall — a notable landmark in Braga, Portugal.",
+          "seo_phrase": "Braga City Hall",
+          "seo_keywords": [
+            "Braga",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Camara de braga.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Camara_de_braga.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Episcopal Palace",
+          "wiki_title": "Episcopal Palace, Braga",
+          "lat": 41.55083333,
+          "lng": -8.42616667,
+          "order_index": 8,
+          "description": "Episcopal Palace, Braga — a notable landmark in Braga, Portugal.",
+          "seo_phrase": "Episcopal Palace",
+          "seo_keywords": [
+            "Braga",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Paço Episcopal Bracarense .jpg/800px-Paço Episcopal Bracarense .jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Pa%C3%A7o_Episcopal_Bracarense_.jpg/800px-Pa%C3%A7o_Episcopal_Bracarense_.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Braga Cathedral Treasure",
+          "wiki_title": "Braga Cathedral Treasure",
+          "lat": 41.5502,
+          "lng": -8.4275,
+          "order_index": 9,
+          "description": "Braga Cathedral Treasure — a notable landmark in Braga, Portugal.",
+          "seo_phrase": "Braga Cathedral Treasure",
+          "seo_keywords": [
+            "Braga",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Se Catedral de Braga.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Se_Catedral_de_Braga.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Coimbra",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Coimbra",
+      "seo": {
+        "title": "Top 10 Things to Do in Coimbra, Portugal",
+        "description": "Discover 10 must-see landmarks in Coimbra, Portugal. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Coimbra? Explore the best places to visit in Coimbra, Portugal.",
+        "keywords": [
+          "things to do in Coimbra",
+          "Coimbra Portugal travel guide",
+          "best places to visit in Coimbra",
+          "Coimbra landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Coimbra",
+          "wiki_title": "Coimbra",
+          "lat": 40.20277778,
+          "lng": -8.41388889,
+          "order_index": 0,
+          "description": "Coimbra — a notable landmark in Coimbra, Portugal.",
+          "seo_phrase": "Coimbra",
+          "seo_keywords": [
+            "Coimbra",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Coimbra e o rio Mondego (6167200429) (cropped).jpg/800px-Coimbra e o rio Mondego (6167200429) (cropped).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Coimbra_e_o_rio_Mondego_%286167200429%29_%28cropped%29.jpg/800px-Coimbra_e_o_rio_Mondego_%286167200429%29_%28cropped%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "University of Coimbra",
+          "wiki_title": "University of Coimbra",
+          "lat": 40.2074,
+          "lng": -8.4265,
+          "order_index": 1,
+          "description": "University of Coimbra — a notable landmark in Coimbra, Portugal.",
+          "seo_phrase": "University of Coimbra",
+          "seo_keywords": [
+            "Coimbra",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Seal of the University of Coimbra.svg/800px-Seal of the University of Coimbra.svg.png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Seal_of_the_University_of_Coimbra.svg/800px-Seal_of_the_University_of_Coimbra.svg.png",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Figueira da Foz",
+          "wiki_title": "Figueira da Foz",
+          "lat": 40.15,
+          "lng": -8.85,
+          "order_index": 2,
+          "description": "Figueira da Foz — a notable landmark in Coimbra, Portugal.",
+          "seo_phrase": "Figueira da Foz",
+          "seo_keywords": [
+            "Coimbra",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Figueira da Foz - Portugal (12303340164) (cropped).jpg/800px-Figueira da Foz - Portugal (12303340164) (cropped).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Figueira_da_Foz_-_Portugal_%2812303340164%29_%28cropped%29.jpg/800px-Figueira_da_Foz_-_Portugal_%2812303340164%29_%28cropped%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Guarda Cathedral",
+          "wiki_title": "Guarda Cathedral",
+          "lat": 40.53833611,
+          "lng": -7.26929167,
+          "order_index": 3,
+          "description": "Guarda Cathedral — a notable landmark in Coimbra, Portugal.",
+          "seo_phrase": "Guarda Cathedral",
+          "seo_keywords": [
+            "Coimbra",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Nt-se-guarda-edited.jpg/800px-Nt-se-guarda-edited.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Nt-se-guarda-edited.jpg/800px-Nt-se-guarda-edited.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "New Cathedral of Coimbra",
+          "wiki_title": "New Cathedral of Coimbra",
+          "lat": 40.2097,
+          "lng": -8.4246,
+          "order_index": 4,
+          "description": "New Cathedral of Coimbra — a notable landmark in Coimbra, Portugal.",
+          "seo_phrase": "New Cathedral of Coimbra",
+          "seo_keywords": [
+            "Coimbra",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Catedral Nueva, Coímbra, Portugal, 2012-05-10, DD 01.JPG/800px-Catedral Nueva, Coímbra, Portugal, 2012-05-10, DD 01.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Catedral_Nueva%2C_Co%C3%ADmbra%2C_Portugal%2C_2012-05-10%2C_DD_01.JPG/800px-Catedral_Nueva%2C_Co%C3%ADmbra%2C_Portugal%2C_2012-05-10%2C_DD_01.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Diocese of Coimbra",
+          "wiki_title": "Diocese of Coimbra",
+          "lat": 40.2088,
+          "lng": -8.4271,
+          "order_index": 5,
+          "description": "Diocese of Coimbra — a notable landmark in Coimbra, Portugal.",
+          "seo_phrase": "Diocese of Coimbra",
+          "seo_keywords": [
+            "Coimbra",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Catedral Nueva, Coímbra, Portugal, 2012-05-10, DD 01.JPG/800px-Catedral Nueva, Coímbra, Portugal, 2012-05-10, DD 01.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Catedral_Nueva%2C_Co%C3%ADmbra%2C_Portugal%2C_2012-05-10%2C_DD_01.JPG/800px-Catedral_Nueva%2C_Co%C3%ADmbra%2C_Portugal%2C_2012-05-10%2C_DD_01.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Portugal dos Pequenitos",
+          "wiki_title": "Portugal dos Pequenitos",
+          "lat": 40.20305556,
+          "lng": -8.43416667,
+          "order_index": 6,
+          "description": "Portugal dos Pequenitos — a notable landmark in Coimbra, Portugal.",
+          "seo_phrase": "Portugal dos Pequenitos",
+          "seo_keywords": [
+            "Coimbra",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Portugal dos pequenitos (2).jpg/800px-Portugal dos pequenitos (2).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Portugal_dos_pequenitos_%282%29.jpg/800px-Portugal_dos_pequenitos_%282%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Sé Nova (Coimbra)",
+          "wiki_title": "Sé Nova (Coimbra",
+          "lat": 40.21,
+          "lng": -8.417,
+          "order_index": 7,
+          "description": "Sé Nova (Coimbra) — a notable landmark in Coimbra, Portugal.",
+          "seo_phrase": "Sé Nova (Coimbra)",
+          "seo_keywords": [
+            "Coimbra",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Coimbra December 2011-19a.jpg/800px-Coimbra December 2011-19a.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Coimbra_December_2011-19a.jpg/800px-Coimbra_December_2011-19a.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Igreja de Santiago (Coimbra)",
+          "wiki_title": "Igreja de Santiago (Coimbra",
+          "lat": 40.2094718,
+          "lng": -8.4295292,
+          "order_index": 8,
+          "description": "Igreja de Santiago (Coimbra) — a notable landmark in Coimbra, Portugal.",
+          "seo_phrase": "Igreja de Santiago (Coimbra)",
+          "seo_keywords": [
+            "Coimbra",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Igreja de Santiago - Coimbra, Portugal - DSC09625.jpg/800px-Igreja de Santiago - Coimbra, Portugal - DSC09625.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Igreja_de_Santiago_-_Coimbra%2C_Portugal_-_DSC09625.jpg/800px-Igreja_de_Santiago_-_Coimbra%2C_Portugal_-_DSC09625.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Mira",
+          "wiki_title": "Mira, Portugal",
+          "lat": 40.43333333,
+          "lng": -8.73333333,
+          "order_index": 9,
+          "description": "Mira, Portugal — a notable landmark in Coimbra, Portugal.",
+          "seo_phrase": "Mira",
+          "seo_keywords": [
+            "Coimbra",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Mira Villas.png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mira_Villas.png",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Evora",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Evora",
+      "seo": {
+        "title": "Top 10 Things to Do in Evora, Portugal",
+        "description": "Discover 10 must-see landmarks in Evora, Portugal. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Evora? Explore the best places to visit in Evora, Portugal.",
+        "keywords": [
+          "things to do in Evora",
+          "Evora Portugal travel guide",
+          "best places to visit in Evora",
+          "Evora landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Porto",
+          "wiki_title": "Porto",
+          "lat": 41.15,
+          "lng": -8.6108,
+          "order_index": 0,
+          "description": "Porto — a notable landmark in Evora, Portugal.",
+          "seo_phrase": "Porto",
+          "seo_keywords": [
+            "Evora",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Puente Don Luis I, Oporto, Portugal, 2012-05-09, DD 13.JPG/800px-Puente Don Luis I, Oporto, Portugal, 2012-05-09, DD 13.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Puente_Don_Luis_I%2C_Oporto%2C_Portugal%2C_2012-05-09%2C_DD_13.JPG/800px-Puente_Don_Luis_I%2C_Oporto%2C_Portugal%2C_2012-05-09%2C_DD_13.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Roman Temple of Évora",
+          "wiki_title": "Roman Temple of Évora",
+          "lat": 38.57306,
+          "lng": -7.90778472,
+          "order_index": 1,
+          "description": "Roman Temple of Évora — a notable landmark in Evora, Portugal.",
+          "seo_phrase": "Roman Temple of Évora",
+          "seo_keywords": [
+            "Evora",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Evora roman-temple panoramic-view cropped.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Evora_roman-temple_panoramic-view_cropped.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Archdiocese of Évora",
+          "wiki_title": "Archdiocese of Évora",
+          "lat": 38.55,
+          "lng": -7.95,
+          "order_index": 2,
+          "description": "Archdiocese of Évora — a notable landmark in Evora, Portugal.",
+          "seo_phrase": "Archdiocese of Évora",
+          "seo_keywords": [
+            "Evora",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Sé Évora.JPG/800px-Sé Évora.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/S%C3%A9_%C3%89vora.JPG/800px-S%C3%A9_%C3%89vora.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Diocese of Faro",
+          "wiki_title": "Diocese of Faro",
+          "lat": 37.0133,
+          "lng": -7.9348,
+          "order_index": 3,
+          "description": "Diocese of Faro — a notable landmark in Evora, Portugal.",
+          "seo_phrase": "Diocese of Faro",
+          "seo_keywords": [
+            "Evora",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "FaroKesklinn.jpg/800px-FaroKesklinn.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/FaroKesklinn.jpg/800px-FaroKesklinn.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Diocese of Guarda",
+          "wiki_title": "Diocese of Guarda",
+          "lat": 40.5384,
+          "lng": -7.2694,
+          "order_index": 4,
+          "description": "Diocese of Guarda — a notable landmark in Evora, Portugal.",
+          "seo_phrase": "Diocese of Guarda",
+          "seo_keywords": [
+            "Evora",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Nt-se-guarda-edited.jpg/800px-Nt-se-guarda-edited.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Nt-se-guarda-edited.jpg/800px-Nt-se-guarda-edited.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Évora",
+          "wiki_title": "Évora",
+          "lat": 38.56666667,
+          "lng": -7.9,
+          "order_index": 5,
+          "description": "Évora — a notable landmark in Evora, Portugal.",
+          "seo_phrase": "Évora",
+          "seo_keywords": [
+            "Evora",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Praça de Giraldo, Evora (10250693386) (cropped).jpg/800px-Praça de Giraldo, Evora (10250693386) (cropped).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pra%C3%A7a_de_Giraldo%2C_Evora_%2810250693386%29_%28cropped%29.jpg/800px-Pra%C3%A7a_de_Giraldo%2C_Evora_%2810250693386%29_%28cropped%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Frei Manuel do Cenáculo National Museum",
+          "wiki_title": "Frei Manuel do Cenáculo National Museum",
+          "lat": 38.5722,
+          "lng": -7.9072,
+          "order_index": 6,
+          "description": "Frei Manuel do Cenáculo National Museum — a notable landmark in Evora, Portugal.",
+          "seo_phrase": "Frei Manuel do Cenáculo National Museum",
+          "seo_keywords": [
+            "Evora",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Evora Museum-01.jpg/800px-Evora Museum-01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Evora_Museum-01.jpg/800px-Evora_Museum-01.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Redondo",
+          "wiki_title": "Redondo, Portugal",
+          "lat": 38.63333333,
+          "lng": -7.53333333,
+          "order_index": 7,
+          "description": "Redondo, Portugal — a notable landmark in Evora, Portugal.",
+          "seo_phrase": "Redondo",
+          "seo_keywords": [
+            "Evora",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Redondo - Portugal (4923985841).jpg/800px-Redondo - Portugal (4923985841).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Redondo_-_Portugal_%284923985841%29.jpg/800px-Redondo_-_Portugal_%284923985841%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Castle of Evoramonte",
+          "wiki_title": "Castle of Evoramonte",
+          "lat": 38.7718312,
+          "lng": -7.7158236,
+          "order_index": 8,
+          "description": "Castle of Evoramonte — a notable landmark in Evora, Portugal.",
+          "seo_phrase": "Castle of Evoramonte",
+          "seo_keywords": [
+            "Evora",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "EvoramonteView.jpg/800px-EvoramonteView.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/EvoramonteView.jpg/800px-EvoramonteView.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Castle of Terena",
+          "wiki_title": "Castle of Terena",
+          "lat": 38.62166667,
+          "lng": -7.40722222,
+          "order_index": 9,
+          "description": "Castle of Terena — a notable landmark in Evora, Portugal.",
+          "seo_phrase": "Castle of Terena",
+          "seo_keywords": [
+            "Evora",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Castelo de Terena1206.jpg/800px-Castelo de Terena1206.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Castelo_de_Terena1206.jpg/800px-Castelo_de_Terena1206.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Guimaraes",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Guimaraes",
+      "seo": {
+        "title": "Top 10 Things to Do in Guimaraes, Portugal",
+        "description": "Discover 10 must-see landmarks in Guimaraes, Portugal. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Guimaraes? Explore the best places to visit in Guimaraes, Portugal.",
+        "keywords": [
+          "things to do in Guimaraes",
+          "Guimaraes Portugal travel guide",
+          "best places to visit in Guimaraes",
+          "Guimaraes landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Aveiro",
+          "wiki_title": "Aveiro, Portugal",
+          "lat": 40.63333333,
+          "lng": -8.65,
+          "order_index": 0,
+          "description": "Aveiro, Portugal — a notable landmark in Guimaraes, Portugal.",
+          "seo_phrase": "Aveiro",
+          "seo_keywords": [
+            "Guimaraes",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Canal Central de Aveiro em Setembro 2025 - Foto 07.jpg/800px-Canal Central de Aveiro em Setembro 2025 - Foto 07.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Canal_Central_de_Aveiro_em_Setembro_2025_-_Foto_07.jpg/800px-Canal_Central_de_Aveiro_em_Setembro_2025_-_Foto_07.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Cathedral of Vila Real",
+          "wiki_title": "Cathedral of Vila Real",
+          "lat": 41.2963,
+          "lng": -7.7466,
+          "order_index": 1,
+          "description": "Cathedral of Vila Real — a notable landmark in Guimaraes, Portugal.",
+          "seo_phrase": "Cathedral of Vila Real",
+          "seo_keywords": [
+            "Guimaraes",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "VilaRealCathedral.jpg/800px-VilaRealCathedral.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/VilaRealCathedral.jpg/800px-VilaRealCathedral.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Santa Maria Maior",
+          "wiki_title": "Santa Maria Maior, Lisbon",
+          "lat": 38.713,
+          "lng": -9.136,
+          "order_index": 2,
+          "description": "Santa Maria Maior, Lisbon — a notable landmark in Guimaraes, Portugal.",
+          "seo_phrase": "Santa Maria Maior",
+          "seo_keywords": [
+            "Guimaraes",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Lisboa 2170515 (212110549) (cropped).jpeg/800px-Lisboa 2170515 (212110549) (cropped).jpeg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Lisboa_2170515_%28212110549%29_%28cropped%29.jpeg/800px-Lisboa_2170515_%28212110549%29_%28cropped%29.jpeg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Cathedral of St. Mary the Great",
+          "wiki_title": "Cathedral of St. Mary the Great, Viana do Castelo",
+          "lat": 41.6934,
+          "lng": -8.8271,
+          "order_index": 3,
+          "description": "Cathedral of St. Mary the Great, Viana do Castelo — a notable landmark in Guimaraes, Portugal.",
+          "seo_phrase": "Cathedral of St. Mary the Great",
+          "seo_keywords": [
+            "Guimaraes",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Viana do Castelo - Catedral - 01.jpg/800px-Viana do Castelo - Catedral - 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Viana_do_Castelo_-_Catedral_-_01.jpg/800px-Viana_do_Castelo_-_Catedral_-_01.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Church of São Miguel do Castelo",
+          "wiki_title": "Church of São Miguel do Castelo",
+          "lat": 41.44728611,
+          "lng": -8.29094722,
+          "order_index": 4,
+          "description": "Church of São Miguel do Castelo — a notable landmark in Guimaraes, Portugal.",
+          "seo_phrase": "Church of São Miguel do Castelo",
+          "seo_keywords": [
+            "Guimaraes",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Igreja de São Miguel do Castelo - Church of São Miguel do Castelo, Guimarães, Portugal 02.jpg/800px-Igreja de São Miguel do Castelo - Church of São Miguel do Castelo, Guimarães, Portugal 02.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Igreja_de_S%C3%A3o_Miguel_do_Castelo_-_Church_of_S%C3%A3o_Miguel_do_Castelo%2C_Guimar%C3%A3es%2C_Portugal_02.jpg/800px-Igreja_de_S%C3%A3o_Miguel_do_Castelo_-_Church_of_S%C3%A3o_Miguel_do_Castelo%2C_Guimar%C3%A3es%2C_Portugal_02.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Guimarães",
+          "wiki_title": "Guimarães",
+          "lat": 41.445,
+          "lng": -8.2908,
+          "order_index": 5,
+          "description": "Guimarães — a notable landmark in Guimaraes, Portugal.",
+          "seo_phrase": "Guimarães",
+          "seo_keywords": [
+            "Guimaraes",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Guimaraes-Portugal.jpg/800px-Guimaraes-Portugal.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Guimaraes-Portugal.jpg/800px-Guimaraes-Portugal.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Tomar Castle",
+          "wiki_title": "Tomar Castle",
+          "lat": 39.60416667,
+          "lng": -8.42277778,
+          "order_index": 6,
+          "description": "Tomar Castle — a notable landmark in Guimaraes, Portugal.",
+          "seo_phrase": "Tomar Castle",
+          "seo_keywords": [
+            "Guimaraes",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Tomar Castelo 0244.jpg/800px-Tomar Castelo 0244.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tomar_Castelo_0244.jpg/800px-Tomar_Castelo_0244.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Castle of Ródão",
+          "wiki_title": "Castle of Ródão",
+          "lat": 39.64741667,
+          "lng": -7.68991667,
+          "order_index": 7,
+          "description": "Castle of Ródão — a notable landmark in Guimaraes, Portugal.",
+          "seo_phrase": "Castle of Ródão",
+          "seo_keywords": [
+            "Guimaraes",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Castelo do Rei Wamba, Vila Velha de Ródão.jpg/800px-Castelo do Rei Wamba, Vila Velha de Ródão.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Castelo_do_Rei_Wamba%2C_Vila_Velha_de_R%C3%B3d%C3%A3o.jpg/800px-Castelo_do_Rei_Wamba%2C_Vila_Velha_de_R%C3%B3d%C3%A3o.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Historic Centre of Guimarães",
+          "wiki_title": "Historic Centre of Guimarães",
+          "lat": 41.44373111,
+          "lng": -8.29280306,
+          "order_index": 8,
+          "description": "Historic Centre of Guimarães — a notable landmark in Guimaraes, Portugal.",
+          "seo_phrase": "Historic Centre of Guimarães",
+          "seo_keywords": [
+            "Guimaraes",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Guimaraes Portugal Praça da Oliveira-01.jpg/800px-Guimaraes Portugal Praça da Oliveira-01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Guimaraes_Portugal_Pra%C3%A7a_da_Oliveira-01.jpg/800px-Guimaraes_Portugal_Pra%C3%A7a_da_Oliveira-01.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Palácio dos Condes de Castro Guimarães",
+          "wiki_title": "Palácio dos Condes de Castro Guimarães",
+          "lat": 38.692,
+          "lng": -9.4214,
+          "order_index": 9,
+          "description": "Palácio dos Condes de Castro Guimarães — a notable landmark in Guimaraes, Portugal.",
+          "seo_phrase": "Palácio dos Condes de Castro Guimarães",
+          "seo_keywords": [
+            "Guimaraes",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Palacio de los condes de Castro Guimarães, Cascais, Portugal, 2022-07-25, DD 12.jpg/800px-Palacio de los condes de Castro Guimarães, Cascais, Portugal, 2022-07-25, DD 12.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palacio_de_los_condes_de_Castro_Guimar%C3%A3es%2C_Cascais%2C_Portugal%2C_2022-07-25%2C_DD_12.jpg/800px-Palacio_de_los_condes_de_Castro_Guimar%C3%A3es%2C_Cascais%2C_Portugal%2C_2022-07-25%2C_DD_12.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Aveiro",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Aveiro",
+      "seo": {
+        "title": "Top 10 Things to Do in Aveiro, Portugal",
+        "description": "Discover 10 must-see landmarks in Aveiro, Portugal. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Aveiro? Explore the best places to visit in Aveiro, Portugal.",
+        "keywords": [
+          "things to do in Aveiro",
+          "Aveiro Portugal travel guide",
+          "best places to visit in Aveiro",
+          "Aveiro landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Leiria",
+          "wiki_title": "Leiria",
+          "lat": 39.75,
+          "lng": -8.8,
+          "order_index": 0,
+          "description": "Leiria — a notable landmark in Aveiro, Portugal.",
+          "seo_phrase": "Leiria",
+          "seo_keywords": [
+            "Aveiro",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Leiria (25746536508) (cropped).jpg/800px-Leiria (25746536508) (cropped).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Leiria_%2825746536508%29_%28cropped%29.jpg/800px-Leiria_%2825746536508%29_%28cropped%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Santa Maria da Feira",
+          "wiki_title": "Santa Maria da Feira",
+          "lat": 40.93333333,
+          "lng": -8.53333333,
+          "order_index": 1,
+          "description": "Santa Maria da Feira — a notable landmark in Aveiro, Portugal.",
+          "seo_phrase": "Santa Maria da Feira",
+          "seo_keywords": [
+            "Aveiro",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Castelo de Sta. Maria da Feira6.jpg/800px-Castelo de Sta. Maria da Feira6.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Castelo_de_Sta._Maria_da_Feira6.jpg/800px-Castelo_de_Sta._Maria_da_Feira6.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Estádio Dr. Magalhães Pessoa",
+          "wiki_title": "Estádio Dr. Magalhães Pessoa",
+          "lat": 39.74861111,
+          "lng": -8.81305556,
+          "order_index": 2,
+          "description": "Estádio Dr. Magalhães Pessoa — a notable landmark in Aveiro, Portugal.",
+          "seo_phrase": "Estádio Dr. Magalhães Pessoa",
+          "seo_keywords": [
+            "Aveiro",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Estádio Municipal de Leiria.jpg/800px-Estádio Municipal de Leiria.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Est%C3%A1dio_Municipal_de_Leiria.jpg/800px-Est%C3%A1dio_Municipal_de_Leiria.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Ciudad Rodrigo",
+          "wiki_title": "Ciudad Rodrigo",
+          "lat": 40.59694444,
+          "lng": -6.53916667,
+          "order_index": 3,
+          "description": "Ciudad Rodrigo — a notable landmark in Aveiro, Portugal.",
+          "seo_phrase": "Ciudad Rodrigo",
+          "seo_keywords": [
+            "Aveiro",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "RI-53-0000010.jpg/800px-RI-53-0000010.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/RI-53-0000010.jpg/800px-RI-53-0000010.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Penedono",
+          "wiki_title": "Penedono",
+          "lat": 40.9875,
+          "lng": -7.39444444,
+          "order_index": 4,
+          "description": "Penedono — a notable landmark in Aveiro, Portugal.",
+          "seo_phrase": "Penedono",
+          "seo_keywords": [
+            "Aveiro",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Penedono 1.jpg/800px-Penedono 1.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Penedono_1.jpg/800px-Penedono_1.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Castle of Penela",
+          "wiki_title": "Castle of Penela",
+          "lat": 40.031,
+          "lng": -8.39,
+          "order_index": 5,
+          "description": "Castle of Penela — a notable landmark in Aveiro, Portugal.",
+          "seo_phrase": "Castle of Penela",
+          "seo_keywords": [
+            "Aveiro",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Castelo de Penela - vista geral.JPG/800px-Castelo de Penela - vista geral.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Castelo_de_Penela_-_vista_geral.JPG/800px-Castelo_de_Penela_-_vista_geral.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Castelo Branco",
+          "wiki_title": "Castelo Branco, Portugal",
+          "lat": 39.81666667,
+          "lng": -7.5,
+          "order_index": 6,
+          "description": "Castelo Branco, Portugal — a notable landmark in Aveiro, Portugal.",
+          "seo_phrase": "Castelo Branco",
+          "seo_keywords": [
+            "Aveiro",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Jardim do Paço Episcopal.jpg/800px-Jardim do Paço Episcopal.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Jardim_do_Pa%C3%A7o_Episcopal.jpg/800px-Jardim_do_Pa%C3%A7o_Episcopal.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Almeida",
+          "wiki_title": "Almeida, Portugal",
+          "lat": 40.71666667,
+          "lng": -6.9,
+          "order_index": 7,
+          "description": "Almeida, Portugal — a notable landmark in Aveiro, Portugal.",
+          "seo_phrase": "Almeida",
+          "seo_keywords": [
+            "Aveiro",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Porta Fortificação Almeida.jpg/800px-Porta Fortificação Almeida.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Porta_Fortifica%C3%A7%C3%A3o_Almeida.jpg/800px-Porta_Fortifica%C3%A7%C3%A3o_Almeida.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Castle Fortress of Almeida",
+          "wiki_title": "Castle Fortress of Almeida",
+          "lat": 40.72566667,
+          "lng": -6.90597222,
+          "order_index": 8,
+          "description": "Castle Fortress of Almeida — a notable landmark in Aveiro, Portugal.",
+          "seo_phrase": "Castle Fortress of Almeida",
+          "seo_keywords": [
+            "Aveiro",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Portas Duplas de São Francisco.jpg/800px-Portas Duplas de São Francisco.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Portas_Duplas_de_S%C3%A3o_Francisco.jpg/800px-Portas_Duplas_de_S%C3%A3o_Francisco.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Castle of Lousã",
+          "wiki_title": "Castle of Lousã",
+          "lat": 40.10083333,
+          "lng": -8.23555556,
+          "order_index": 9,
+          "description": "Castle of Lousã — a notable landmark in Aveiro, Portugal.",
+          "seo_phrase": "Castle of Lousã",
+          "seo_keywords": [
+            "Aveiro",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Castelo da lousã.jpg/800px-Castelo da lousã.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Castelo_da_lous%C3%A3.jpg/800px-Castelo_da_lous%C3%A3.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Faro",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Faro",
+      "seo": {
+        "title": "Top 10 Things to Do in Faro, Portugal",
+        "description": "Discover 10 must-see landmarks in Faro, Portugal. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Faro? Explore the best places to visit in Faro, Portugal.",
+        "keywords": [
+          "things to do in Faro",
+          "Faro Portugal travel guide",
+          "best places to visit in Faro",
+          "Faro landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Algarve",
+          "wiki_title": "Algarve",
+          "lat": 37.242,
+          "lng": -8.17,
+          "order_index": 0,
+          "description": "Algarve — a notable landmark in Faro, Portugal.",
+          "seo_phrase": "Algarve",
+          "seo_keywords": [
+            "Faro",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Palácio de Estói - Portugal (8291585643) (cropped).jpg/800px-Palácio de Estói - Portugal (8291585643) (cropped).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Pal%C3%A1cio_de_Est%C3%B3i_-_Portugal_%288291585643%29_%28cropped%29.jpg/800px-Pal%C3%A1cio_de_Est%C3%B3i_-_Portugal_%288291585643%29_%28cropped%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Faro",
+          "wiki_title": "Faro, Portugal",
+          "lat": 37.01611111,
+          "lng": -7.935,
+          "order_index": 1,
+          "description": "Faro, Portugal — a notable landmark in Faro, Portugal.",
+          "seo_phrase": "Faro",
+          "seo_keywords": [
+            "Faro",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "2021 12 12 arne mueseler 08 17 0576.jpg/800px-2021 12 12 arne mueseler 08 17 0576.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/2021_12_12_arne_mueseler_08_17_0576.jpg/800px-2021_12_12_arne_mueseler_08_17_0576.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Silves",
+          "wiki_title": "Silves, Portugal",
+          "lat": 37.18694444,
+          "lng": -8.43888889,
+          "order_index": 2,
+          "description": "Silves, Portugal — a notable landmark in Faro, Portugal.",
+          "seo_phrase": "Silves",
+          "seo_keywords": [
+            "Faro",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "06-05-2017 Castle exterior, Silves.JPG/800px-06-05-2017 Castle exterior, Silves.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/06-05-2017_Castle_exterior%2C_Silves.JPG/800px-06-05-2017_Castle_exterior%2C_Silves.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Setúbal",
+          "wiki_title": "Setúbal",
+          "lat": 38.52430556,
+          "lng": -8.89261111,
+          "order_index": 3,
+          "description": "Setúbal — a notable landmark in Faro, Portugal.",
+          "seo_phrase": "Setúbal",
+          "seo_keywords": [
+            "Faro",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Setubal III (cropped).jpg/800px-Setubal III (cropped).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Setubal_III_%28cropped%29.jpg/800px-Setubal_III_%28cropped%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Tui",
+          "wiki_title": "Tui, Pontevedra",
+          "lat": 42.04805556,
+          "lng": -8.64444444,
+          "order_index": 4,
+          "description": "Tui, Pontevedra — a notable landmark in Faro, Portugal.",
+          "seo_phrase": "Tui",
+          "seo_keywords": [
+            "Faro",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Old international bridge Valenca Tui.jpg/800px-Old international bridge Valenca Tui.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Old_international_bridge_Valenca_Tui.jpg/800px-Old_international_bridge_Valenca_Tui.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Castle of Silves",
+          "wiki_title": "Castle of Silves",
+          "lat": 37.19098889,
+          "lng": -8.43790556,
+          "order_index": 5,
+          "description": "Castle of Silves — a notable landmark in Faro, Portugal.",
+          "seo_phrase": "Castle of Silves",
+          "seo_keywords": [
+            "Faro",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Castelo de Silves - Algarve, Portugal - 11.03.2023.jpg/800px-Castelo de Silves - Algarve, Portugal - 11.03.2023.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Castelo_de_Silves_-_Algarve%2C_Portugal_-_11.03.2023.jpg/800px-Castelo_de_Silves_-_Algarve%2C_Portugal_-_11.03.2023.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Silves Cathedral",
+          "wiki_title": "Silves Cathedral",
+          "lat": 37.1901,
+          "lng": -8.4387,
+          "order_index": 6,
+          "description": "Silves Cathedral — a notable landmark in Faro, Portugal.",
+          "seo_phrase": "Silves Cathedral",
+          "seo_keywords": [
+            "Faro",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Sé Catedral de Silves - Vista exterior.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/S%C3%A9_Catedral_de_Silves_-_Vista_exterior.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Hermitage of Our Lady of Guadalupe",
+          "wiki_title": "Hermitage of Our Lady of Guadalupe",
+          "lat": 37.08361111,
+          "lng": -8.86472222,
+          "order_index": 7,
+          "description": "Hermitage of Our Lady of Guadalupe — a notable landmark in Faro, Portugal.",
+          "seo_phrase": "Hermitage of Our Lady of Guadalupe",
+          "seo_keywords": [
+            "Faro",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "NossaSenhoraGuadalupe.jpg/800px-NossaSenhoraGuadalupe.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/NossaSenhoraGuadalupe.jpg/800px-NossaSenhoraGuadalupe.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Lagos",
+          "wiki_title": "Lagos, Portugal",
+          "lat": 37.10277778,
+          "lng": -8.67277778,
+          "order_index": 8,
+          "description": "Lagos, Portugal — a notable landmark in Faro, Portugal.",
+          "seo_phrase": "Lagos",
+          "seo_keywords": [
+            "Faro",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Vista Centro Histórico de Lagos (cropped).jpg/800px-Vista Centro Histórico de Lagos (cropped).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Vista_Centro_Hist%C3%B3rico_de_Lagos_%28cropped%29.jpg/800px-Vista_Centro_Hist%C3%B3rico_de_Lagos_%28cropped%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Castle of Salir",
+          "wiki_title": "Castle of Salir",
+          "lat": 37.2429033,
+          "lng": -8.0465555,
+          "order_index": 9,
+          "description": "Castle of Salir — a notable landmark in Faro, Portugal.",
+          "seo_phrase": "Castle of Salir",
+          "seo_keywords": [
+            "Faro",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "21-05-2017 Ruínas do Castelo de Salir (1).JPG/800px-21-05-2017 Ruínas do Castelo de Salir (1).JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/21-05-2017_Ru%C3%ADnas_do_Castelo_de_Salir_%281%29.JPG/800px-21-05-2017_Ru%C3%ADnas_do_Castelo_de_Salir_%281%29.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Lagos",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Lagos",
+      "seo": {
+        "title": "Top 10 Things to Do in Lagos, Portugal",
+        "description": "Discover 10 must-see landmarks in Lagos, Portugal. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Lagos? Explore the best places to visit in Lagos, Portugal.",
+        "keywords": [
+          "things to do in Lagos",
+          "Lagos Portugal travel guide",
+          "best places to visit in Lagos",
+          "Lagos landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Oliveira do Hospital",
+          "wiki_title": "Oliveira do Hospital",
+          "lat": 40.35888889,
+          "lng": -7.8625,
+          "order_index": 0,
+          "description": "Oliveira do Hospital — a notable landmark in Lagos, Portugal.",
+          "seo_phrase": "Oliveira do Hospital",
+          "seo_keywords": [
+            "Lagos",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Avô.jpg/800px-Avô.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Av%C3%B4.jpg/800px-Av%C3%B4.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Castle of Almourol",
+          "wiki_title": "Castle of Almourol",
+          "lat": 39.46194444,
+          "lng": -8.38383056,
+          "order_index": 1,
+          "description": "Castle of Almourol — a notable landmark in Lagos, Portugal.",
+          "seo_phrase": "Castle of Almourol",
+          "seo_keywords": [
+            "Lagos",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Almourol 034.jpg/800px-Almourol 034.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Almourol_034.jpg/800px-Almourol_034.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Praia da Luz",
+          "wiki_title": "Praia da Luz",
+          "lat": 37.08666667,
+          "lng": -8.73111111,
+          "order_index": 2,
+          "description": "Praia da Luz — a notable landmark in Lagos, Portugal.",
+          "seo_phrase": "Praia da Luz",
+          "seo_keywords": [
+            "Lagos",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Vista parcial da luz.jpg/800px-Vista parcial da luz.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Vista_parcial_da_luz.jpg/800px-Vista_parcial_da_luz.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Castle of Montemor-o-Velho",
+          "wiki_title": "Castle of Montemor-o-Velho",
+          "lat": 40.176,
+          "lng": -8.683,
+          "order_index": 3,
+          "description": "Castle of Montemor-o-Velho — a notable landmark in Lagos, Portugal.",
+          "seo_phrase": "Castle of Montemor-o-Velho",
+          "seo_keywords": [
+            "Lagos",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "MontemorVelho-CCBY-4.jpg/800px-MontemorVelho-CCBY-4.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MontemorVelho-CCBY-4.jpg/800px-MontemorVelho-CCBY-4.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Castle of Leiria",
+          "wiki_title": "Castle of Leiria",
+          "lat": 39.747,
+          "lng": -8.81,
+          "order_index": 4,
+          "description": "Castle of Leiria — a notable landmark in Lagos, Portugal.",
+          "seo_phrase": "Castle of Leiria",
+          "seo_keywords": [
+            "Lagos",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "CASTELO DE LEIRIA.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/CASTELO_DE_LEIRIA.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Castle of Castelo Rodrigo",
+          "wiki_title": "Castle of Castelo Rodrigo",
+          "lat": 40.877374,
+          "lng": -6.964265,
+          "order_index": 5,
+          "description": "Castle of Castelo Rodrigo — a notable landmark in Lagos, Portugal.",
+          "seo_phrase": "Castle of Castelo Rodrigo",
+          "seo_keywords": [
+            "Lagos",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Castelo de Castelo Rodrigo - Portugal (8640303247).jpg/800px-Castelo de Castelo Rodrigo - Portugal (8640303247).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Castelo_de_Castelo_Rodrigo_-_Portugal_%288640303247%29.jpg/800px-Castelo_de_Castelo_Rodrigo_-_Portugal_%288640303247%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Castle of Castro Marim",
+          "wiki_title": "Castle of Castro Marim",
+          "lat": 37.218525,
+          "lng": -7.44194444,
+          "order_index": 6,
+          "description": "Castle of Castro Marim — a notable landmark in Lagos, Portugal.",
+          "seo_phrase": "Castle of Castro Marim",
+          "seo_keywords": [
+            "Lagos",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Castelo de Castro Marim 061.jpg/800px-Castelo de Castro Marim 061.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Castelo_de_Castro_Marim_061.jpg/800px-Castelo_de_Castro_Marim_061.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Castle of Alcácer do Sal",
+          "wiki_title": "Castle of Alcácer do Sal",
+          "lat": 38.3725,
+          "lng": -8.51388889,
+          "order_index": 7,
+          "description": "Castle of Alcácer do Sal — a notable landmark in Lagos, Portugal.",
+          "seo_phrase": "Castle of Alcácer do Sal",
+          "seo_keywords": [
+            "Lagos",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Pousada do sado.jpg/800px-Pousada do sado.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pousada_do_sado.jpg/800px-Pousada_do_sado.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Castle of Castelo Branco",
+          "wiki_title": "Castle of Castelo Branco",
+          "lat": 39.8255,
+          "lng": -7.496,
+          "order_index": 8,
+          "description": "Castle of Castelo Branco — a notable landmark in Lagos, Portugal.",
+          "seo_phrase": "Castle of Castelo Branco",
+          "seo_keywords": [
+            "Lagos",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Castelo Branco (Castelo).jpg/800px-Castelo Branco (Castelo).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Castelo_Branco_%28Castelo%29.jpg/800px-Castelo_Branco_%28Castelo%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Castle of Palmela",
+          "wiki_title": "Castle of Palmela",
+          "lat": 38.56611111,
+          "lng": -8.90111111,
+          "order_index": 9,
+          "description": "Castle of Palmela — a notable landmark in Lagos, Portugal.",
+          "seo_phrase": "Castle of Palmela",
+          "seo_keywords": [
+            "Lagos",
+            "Portugal",
+            "travel"
+          ],
+          "commons_file": "Castelo de Plamela 2004-04.jpg/800px-Castelo de Plamela 2004-04.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Castelo_de_Plamela_2004-04.jpg/800px-Castelo_de_Plamela_2004-04.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "Portugal Scenic Road Trip",
+    "subtitle": "Explore Portugal beyond the cities — nature, coastlines, and scenic routes.",
+    "wiki_title": "Portugal",
+    "hero_image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Torre_Bel%C3%A9m_April_2009-4a.jpg",
+    "totalDays": 10,
+    "seo": {
+      "title": "Portugal Road Trip Adventure",
+      "description": "Plan a Portugal road trip with GPS stops and scenic routes.",
+      "intro": "Explore Portugal beyond the cities with this adventure route.",
+      "keywords": [
+        "Portugal road trip",
+        "Portugal by car"
+      ]
+    },
+    "places": [
+      {
+        "name": "Palace of the Dukes of Braganza",
+        "wiki_title": "Palace of the Dukes of Braganza",
+        "region": "Portugal",
+        "lat": 41.44646389,
+        "lng": -8.29101111,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Palace of the Dukes of Braganza — a must-see landmark on a Portugal road trip.",
+        "seo_phrase": "Palace of the Dukes of Braganza",
+        "seo_keywords": [
+          "Palace of the Dukes of Braganza",
+          "Portugal",
+          "road trip"
+        ],
+        "commons_file": "Paço dos Duques 1.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Pa%C3%A7o_dos_Duques_1.jpg",
+        "seo_priority": 90,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Pena Palace",
+        "wiki_title": "Pena Palace",
+        "region": "Portugal",
+        "lat": 38.78777778,
+        "lng": -9.39055556,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Pena Palace — a must-see landmark on a Portugal road trip.",
+        "seo_phrase": "Pena Palace",
+        "seo_keywords": [
+          "Pena Palace",
+          "Portugal",
+          "road trip"
+        ],
+        "commons_file": "Sintra Portugal Palácio da Pena-01.jpg/800px-Sintra Portugal Palácio da Pena-01.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sintra_Portugal_Pal%C3%A1cio_da_Pena-01.jpg/800px-Sintra_Portugal_Pal%C3%A1cio_da_Pena-01.jpg",
+        "seo_priority": 89,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Belém Palace",
+        "wiki_title": "Belém Palace",
+        "region": "Portugal",
+        "lat": 38.69796944,
+        "lng": -9.20068611,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Belém Palace — a must-see landmark on a Portugal road trip.",
+        "seo_phrase": "Belém Palace",
+        "seo_keywords": [
+          "Belém Palace",
+          "Portugal",
+          "road trip"
+        ],
+        "commons_file": "Palacio Belem Lisboa.JPG",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Palacio_Belem_Lisboa.JPG",
+        "seo_priority": 88,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Palace of Ajuda",
+        "wiki_title": "Palace of Ajuda",
+        "region": "Portugal",
+        "lat": 38.70759444,
+        "lng": -9.19832778,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Palace of Ajuda — a must-see landmark on a Portugal road trip.",
+        "seo_phrase": "Palace of Ajuda",
+        "seo_keywords": [
+          "Palace of Ajuda",
+          "Portugal",
+          "road trip"
+        ],
+        "commons_file": "Lisbon, the Palácio Nacional da Ajuda.JPG/800px-Lisbon, the Palácio Nacional da Ajuda.JPG",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lisbon%2C_the_Pal%C3%A1cio_Nacional_da_Ajuda.JPG/800px-Lisbon%2C_the_Pal%C3%A1cio_Nacional_da_Ajuda.JPG",
+        "seo_priority": 87,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Palace of Mafra",
+        "wiki_title": "Palace of Mafra",
+        "region": "Portugal",
+        "lat": 38.9369,
+        "lng": -9.3258,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Palace of Mafra — a must-see landmark on a Portugal road trip.",
+        "seo_phrase": "Palace of Mafra",
+        "seo_keywords": [
+          "Palace of Mafra",
+          "Portugal",
+          "road trip"
+        ],
+        "commons_file": "Europa - Portugal - Lisboa - Mafra - Palacio (cropped).jpg/800px-Europa - Portugal - Lisboa - Mafra - Palacio (cropped).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Europa_-_Portugal_-_Lisboa_-_Mafra_-_Palacio_%28cropped%29.jpg/800px-Europa_-_Portugal_-_Lisboa_-_Mafra_-_Palacio_%28cropped%29.jpg",
+        "seo_priority": 86,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Palace of Queluz",
+        "wiki_title": "Palace of Queluz",
+        "region": "Portugal",
+        "lat": 38.7506,
+        "lng": -9.2587,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Palace of Queluz — a must-see landmark on a Portugal road trip.",
+        "seo_phrase": "Palace of Queluz",
+        "seo_keywords": [
+          "Palace of Queluz",
+          "Portugal",
+          "road trip"
+        ],
+        "commons_file": "1794 wurde der Palast in Queluz zur offiziellen Residenz des Portugiesischen Königshauses. 01.jpg/800px-1794 wurde der Palast in Queluz zur offiziellen Residenz des Portugiesischen Königshauses. 01.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/1794_wurde_der_Palast_in_Queluz_zur_offiziellen_Residenz_des_Portugiesischen_K%C3%B6nigshauses._01.jpg/800px-1794_wurde_der_Palast_in_Queluz_zur_offiziellen_Residenz_des_Portugiesischen_K%C3%B6nigshauses._01.jpg",
+        "seo_priority": 85,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Ribeira Palace",
+        "wiki_title": "Ribeira Palace",
+        "region": "Portugal",
+        "lat": 38.70728056,
+        "lng": -9.13822222,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Ribeira Palace — a must-see landmark on a Portugal road trip.",
+        "seo_phrase": "Ribeira Palace",
+        "seo_keywords": [
+          "Ribeira Palace",
+          "Portugal",
+          "road trip"
+        ],
+        "commons_file": "Terreiro do Paço antes do Terramoto de 1755.png/800px-Terreiro do Paço antes do Terramoto de 1755.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Terreiro_do_Pa%C3%A7o_antes_do_Terramoto_de_1755.png/800px-Terreiro_do_Pa%C3%A7o_antes_do_Terramoto_de_1755.png",
+        "seo_priority": 84,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Sintra National Palace",
+        "wiki_title": "Sintra National Palace",
+        "region": "Portugal",
+        "lat": 38.79777778,
+        "lng": -9.39083333,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Sintra National Palace — a must-see landmark on a Portugal road trip.",
+        "seo_phrase": "Sintra National Palace",
+        "seo_keywords": [
+          "Sintra National Palace",
+          "Portugal",
+          "road trip"
+        ],
+        "commons_file": "Palacio Sintra February 2015-13a.jpg/800px-Palacio Sintra February 2015-13a.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Palacio_Sintra_February_2015-13a.jpg/800px-Palacio_Sintra_February_2015-13a.jpg",
+        "seo_priority": 83,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Necessidades Palace",
+        "wiki_title": "Necessidades Palace",
+        "region": "Portugal",
+        "lat": 38.7068444,
+        "lng": -9.1696334,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Necessidades Palace — a must-see landmark on a Portugal road trip.",
+        "seo_phrase": "Necessidades Palace",
+        "seo_keywords": [
+          "Necessidades Palace",
+          "Portugal",
+          "road trip"
+        ],
+        "commons_file": "Palácio das Necessidades 1997.JPG/800px-Palácio das Necessidades 1997.JPG",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pal%C3%A1cio_das_Necessidades_1997.JPG/800px-Pal%C3%A1cio_das_Necessidades_1997.JPG",
+        "seo_priority": 82,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Palace of the Marquises of Fronteira",
+        "wiki_title": "Palace of the Marquises of Fronteira",
+        "region": "Portugal",
+        "lat": 38.74,
+        "lng": -9.18027778,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Palace of the Marquises of Fronteira — a must-see landmark on a Portugal road trip.",
+        "seo_phrase": "Palace of the Marquises of Fronteira",
+        "seo_keywords": [
+          "Palace of the Marquises of Fronteira",
+          "Portugal",
+          "road trip"
+        ],
+        "commons_file": "Palacio Fronteira - Lisbon (7721187114).jpg/800px-Palacio Fronteira - Lisbon (7721187114).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Palacio_Fronteira_-_Lisbon_%287721187114%29.jpg/800px-Palacio_Fronteira_-_Lisbon_%287721187114%29.jpg",
+        "seo_priority": 81,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      }
+    ]
+  }
+}

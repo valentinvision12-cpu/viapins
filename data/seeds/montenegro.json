@@ -1,0 +1,3933 @@
+{
+  "version": 2,
+  "country": "Montenegro",
+  "published": true,
+  "cities": [
+    {
+      "city": "Kotor",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Kotor",
+      "seo": {
+        "title": "Top 10 Things to Do in Kotor, Montenegro",
+        "description": "Discover 10 must-see landmarks in Kotor, Montenegro. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Kotor? Explore the best places to visit in Kotor, Montenegro.",
+        "keywords": [
+          "things to do in Kotor",
+          "Kotor Montenegro travel guide",
+          "best places to visit in Kotor",
+          "Kotor landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Kotor Old Town",
+          "wiki_title": "Kotor",
+          "lat": 42.4242,
+          "lng": 18.7712,
+          "order_index": 0,
+          "description": "A perfectly preserved medieval maze filled with ancient churches, Venetian palaces, and charming squares.",
+          "seo_phrase": "Explore Kotor Old Town: Ultimate Travel Guide to Montenegro's Medieval Gem",
+          "seo_keywords": [
+            "kotor old town",
+            "montenegro medieval city",
+            "unesco kotor",
+            "venetian fortifications"
+          ],
+          "commons_file": "Kotor Old Town View.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Kotor_Old_Town_View.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "St. Tryphon Cathedral",
+            "Maritime Museum",
+            "Kampana Tower"
+          ]
+        },
+        {
+          "name": "St. Tryphon Cathedral",
+          "wiki_title": "Cathedral of Saint Tryphon",
+          "lat": 42.424,
+          "lng": 18.7723,
+          "order_index": 1,
+          "description": "An iconic Roman Catholic cathedral boasting remarkable stone masterwork and a rich treasury.",
+          "seo_phrase": "St. Tryphon Cathedral Kotor: History, Architecture, and Visitor Guide",
+          "seo_keywords": [
+            "st tryphon cathedral",
+            "kotor cathedral",
+            "montenegro churches",
+            "romanesque architecture"
+          ],
+          "commons_file": "Cathedral of Saint Tryphon Kotor.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Cathedral_of_Saint_Tryphon_Kotor.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kotor Old Town",
+            "Maritime Museum"
+          ]
+        },
+        {
+          "name": "Kampana Tower",
+          "wiki_title": "Fortifications of Kotor",
+          "lat": 42.4256,
+          "lng": 18.7699,
+          "order_index": 2,
+          "description": "An impressive stone fortification tower providing beautiful panoramas over the bay and the river.",
+          "seo_phrase": "Kampana Tower Kotor: Historical Bastion and Scenic Viewpoint",
+          "seo_keywords": [
+            "kampana tower",
+            "kotor fortifications",
+            "venetian walls montenegro",
+            "kotor viewpoints"
+          ],
+          "commons_file": "Kampana Tower Kotor.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Kampana_Tower_Kotor.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Sea Gate",
+            "Kotor Old Town",
+            "River Gate"
+          ]
+        },
+        {
+          "name": "The Sea Gate",
+          "wiki_title": "Kotor",
+          "lat": 42.4246,
+          "lng": 18.7704,
+          "order_index": 3,
+          "description": "The primary renaissance entrance to Kotor, bearing stone reliefs and historical inscriptions.",
+          "seo_phrase": "The Sea Gate Kotor: The Historic Main Entry to the Fortress City",
+          "seo_keywords": [
+            "sea gate kotor",
+            "kotor main gate",
+            "venetian military engineering",
+            "kotor history"
+          ],
+          "commons_file": "Sea Gate Kotor.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Sea_Gate_Kotor.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Square of the Arms",
+            "Kampana Tower"
+          ]
+        },
+        {
+          "name": "Square of the Arms",
+          "wiki_title": "Kotor",
+          "lat": 42.4247,
+          "lng": 18.7706,
+          "order_index": 4,
+          "description": "The bustling main square of Kotor, flanked by the historic clock tower and fine palaces.",
+          "seo_phrase": "Square of the Arms Kotor: Center of Old Town Life",
+          "seo_keywords": [
+            "square of the arms",
+            "kotor main square",
+            "kotor clock tower",
+            "rectors palace"
+          ],
+          "commons_file": "Square of the Arms Kotor.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Square_of_the_Arms_Kotor.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Sea Gate",
+            "Kotor Clock Tower"
+          ]
+        },
+        {
+          "name": "Maritime Museum of Montenegro",
+          "wiki_title": "Maritime Museum, Kotor",
+          "lat": 42.4251,
+          "lng": 18.7719,
+          "order_index": 5,
+          "description": "A rich collection detailing the legendary seafaring history and naval power of Kotor's captains.",
+          "seo_phrase": "Maritime Museum Kotor: Discover Montenegro's Nautical History",
+          "seo_keywords": [
+            "kotor maritime museum",
+            "grgurina palace",
+            "boka bay naval history",
+            "montenegro museum"
+          ],
+          "commons_file": "Palata Grgurina Kotor.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Palata_Grgurina_Kotor.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Kotor Old Town",
+            "St. Luke's Church"
+          ]
+        },
+        {
+          "name": "St. Nicholas Church",
+          "wiki_title": "St. Nicholas Church, Kotor",
+          "lat": 42.4257,
+          "lng": 18.7718,
+          "order_index": 6,
+          "description": "A grand, twin-domed Orthodox church housing a magnificent iconostasis and rich liturgical treasures.",
+          "seo_phrase": "St. Nicholas Orthodox Church Kotor: Architecture and Icons",
+          "seo_keywords": [
+            "st nicholas church kotor",
+            "orthodox church montenegro",
+            "kotor twin domes"
+          ],
+          "commons_file": "Crkva Svetog Nikole u Kotoru.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Crkva_Svetog_Nikole_u_Kotoru.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Luke's Church",
+            "River Gate"
+          ]
+        },
+        {
+          "name": "St. Luke's Church",
+          "wiki_title": "St. Luke's Church, Kotor",
+          "lat": 42.4255,
+          "lng": 18.7717,
+          "order_index": 7,
+          "description": "A rare medieval church known for harboring both Catholic and Orthodox altars simultaneously.",
+          "seo_phrase": "St. Luke's Church Kotor: A Symbol of Religious Harmony",
+          "seo_keywords": [
+            "st lukes church kotor",
+            "medieval kotor churches",
+            "dual altar church montenegro"
+          ],
+          "commons_file": "Crkva Svetog Luke Kotor.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Crkva_Svetog_Luke_Kotor.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Nicholas Church",
+            "Maritime Museum"
+          ]
+        },
+        {
+          "name": "The River Gate",
+          "wiki_title": "Kotor",
+          "lat": 42.4259,
+          "lng": 18.7715,
+          "order_index": 8,
+          "description": "The beautiful northern stone entrance to Kotor, bordering the emerald Scurda River.",
+          "seo_phrase": "The River Gate Kotor: Renaissance Fortification Monument",
+          "seo_keywords": [
+            "river gate kotor",
+            "northern gate kotor",
+            "barbarossa siege kotor",
+            "kotor fortifications"
+          ],
+          "commons_file": "River Gate Kotor.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/River_Gate_Kotor.jpg",
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "St. Nicholas Church",
+            "Kampana Tower"
+          ]
+        },
+        {
+          "name": "The Gurdić Gate",
+          "wiki_title": "Kotor",
+          "lat": 42.4223,
+          "lng": 18.7713,
+          "order_index": 9,
+          "description": "A highly secured southern entry point featuring an impressive moat powered by natural springs.",
+          "seo_phrase": "Gurdic Gate Kotor: Explored Southern Defenses",
+          "seo_keywords": [
+            "gurdic gate kotor",
+            "southern gate kotor",
+            "karst spring kotor",
+            "kotor bastions"
+          ],
+          "commons_file": "Gurdic Gate Kotor.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Gurdic_Gate_Kotor.jpg",
+          "seo_priority": 77,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Kotor Old Town",
+            "St. Tryphon Cathedral"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Budva",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Budva",
+      "seo": {
+        "title": "Top 10 Things to Do in Budva, Montenegro",
+        "description": "Discover 10 must-see landmarks in Budva, Montenegro. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Budva? Explore the best places to visit in Budva, Montenegro.",
+        "keywords": [
+          "things to do in Budva",
+          "Budva Montenegro travel guide",
+          "best places to visit in Budva",
+          "Budva landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Budva Old Town",
+          "wiki_title": "Budva",
+          "lat": 42.2781,
+          "lng": 18.8374,
+          "order_index": 0,
+          "description": "A stunning medieval peninsula city renowned for its rich heritage and dynamic coastal vibe.",
+          "seo_phrase": "Budva Old Town Guide: Wander Montenegro's Ancient Coastal Citadel",
+          "seo_keywords": [
+            "budva old town",
+            "ancient budva history",
+            "adriatic medieval cities",
+            "budva coast walls"
+          ],
+          "commons_file": "Stari Grad Budva 2014.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Stari_Grad_Budva_2014.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Budva Citadel",
+            "Church of Saint Ivan",
+            "Holy Trinity Church"
+          ]
+        },
+        {
+          "name": "Budva Citadel",
+          "wiki_title": "Budva",
+          "lat": 42.2774,
+          "lng": 18.838,
+          "order_index": 1,
+          "description": "The crowning defensive fortress of Budva, offering spectacular open views across the Adriatic sea.",
+          "seo_phrase": "Budva Citadel: Panoramic Views and Maritime Library",
+          "seo_keywords": [
+            "budva citadel",
+            "castle of st mary budva",
+            "budva stone fortress",
+            "budva viewpoints"
+          ],
+          "commons_file": "Citadela Budva.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Citadela_Budva.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Budva Old Town",
+            "Santa Maria in Punta"
+          ]
+        },
+        {
+          "name": "The Dancer from Budva Statue",
+          "wiki_title": "Budva",
+          "lat": 42.279,
+          "lng": 18.8354,
+          "order_index": 2,
+          "description": "A landmark bronze figure of a dancer poised elegantly against the backdrop of the sea.",
+          "seo_phrase": "The Dancer from Budva: Montenegro's Most Photographed Statue",
+          "seo_keywords": [
+            "dancer from budva",
+            "budva ballerina statue",
+            "budva symbols",
+            "mogren beach path"
+          ],
+          "commons_file": "Statue of Gymnast in Budva.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Statue_of_Gymnast_in_Budva.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Budva Old Town",
+            "Pizana Gate"
+          ]
+        },
+        {
+          "name": "Church of Saint Ivan",
+          "wiki_title": "Budva",
+          "lat": 42.2778,
+          "lng": 18.8378,
+          "order_index": 3,
+          "description": "The tallest historic church in Budva, containing valuable old paintings and rare books.",
+          "seo_phrase": "Church of Saint Ivan Budva: Iconic Coastal Bell Tower",
+          "seo_keywords": [
+            "church of saint ivan budva",
+            "budva bell tower",
+            "sveti ivan church",
+            "budva christian art"
+          ],
+          "commons_file": "Church of St. John the Baptist, Budva.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Church_of_St._John_the_Baptist%2C_Budva.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Holy Trinity Church",
+            "Budva Citadel"
+          ]
+        },
+        {
+          "name": "Holy Trinity Church",
+          "wiki_title": "Budva",
+          "lat": 42.2776,
+          "lng": 18.8377,
+          "order_index": 4,
+          "description": "A beautiful Byzantine-style Orthodox church known for its colorful striped masonry.",
+          "seo_phrase": "Holy Trinity Orthodox Church Budva: Striped Facade Masterpiece",
+          "seo_keywords": [
+            "holy trinity church budva",
+            "budva orthodox church",
+            "byzantine architecture montenegro"
+          ],
+          "commons_file": "Holy Trinity Church Budva.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Holy_Trinity_Church_Budva.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church of Saint Ivan",
+            "Budva Citadel"
+          ]
+        },
+        {
+          "name": "Santa Maria in Punta",
+          "wiki_title": "Budva",
+          "lat": 42.2773,
+          "lng": 18.8376,
+          "order_index": 5,
+          "description": "An ancient, highly austere monastic sanctuary nestled closely against Budva's southern cliffs.",
+          "seo_phrase": "Santa Maria in Punta: Budva's Oldest Stone Church",
+          "seo_keywords": [
+            "santa maria in punta",
+            "oldest church budva",
+            "benedectine montenegro",
+            "budva historical sites"
+          ],
+          "commons_file": "Santa Maria in Punta Budva.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Santa_Maria_in_Punta_Budva.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Budva Citadel",
+            "Holy Trinity Church"
+          ]
+        },
+        {
+          "name": "Podmaine Monastery",
+          "wiki_title": "Podmaine Monastery",
+          "lat": 42.2941,
+          "lng": 18.8419,
+          "order_index": 6,
+          "description": "A historical stone monastery complex boasting impressive fresco work and quiet surrounding gardens.",
+          "seo_phrase": "Podmaine Monastery Budva: Serene Hillside Orthodox Sanctuary",
+          "seo_keywords": [
+            "podmaine monastery",
+            "budva monastery",
+            "orthodox fresco art",
+            "hillside budva monuments"
+          ],
+          "commons_file": "Manastir Podmaine.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Manastir_Podmaine.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Budva Old Town"
+          ]
+        },
+        {
+          "name": "The Roman Mosaics Site",
+          "wiki_title": "Budva",
+          "lat": 42.2783,
+          "lng": 18.8365,
+          "order_index": 7,
+          "description": "Intricate ancient Roman floor mosaics representing Budva's early classical heritage.",
+          "seo_phrase": "Ancient Roman Mosaics in Budva: Archeological Heritage Treasures",
+          "seo_keywords": [
+            "roman mosaics budva",
+            "ancient budva archeology",
+            "roman empire adriatic",
+            "historical excavations"
+          ],
+          "commons_file": "Roman mosaics Budva.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Roman_mosaics_Budva.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Budva Old Town",
+            "Modern Gallery"
+          ]
+        },
+        {
+          "name": "Budva Modern Gallery",
+          "wiki_title": "Budva",
+          "lat": 42.2782,
+          "lng": 18.837,
+          "order_index": 8,
+          "description": "An art museum displaying an impressive collection of modern expressionist paintings.",
+          "seo_phrase": "Modern Gallery Budva: Fine Arts Hub in the Old Town",
+          "seo_keywords": [
+            "budva modern gallery",
+            "montenegro art museum",
+            "modern art balkans",
+            "cultural budva"
+          ],
+          "commons_file": "Modern Gallery Budva.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Modern_Gallery_Budva.jpg",
+          "seo_priority": 78,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Budva Old Town",
+            "Holy Trinity Church"
+          ]
+        },
+        {
+          "name": "Pizana Gate",
+          "wiki_title": "Budva",
+          "lat": 42.2785,
+          "lng": 18.8381,
+          "order_index": 9,
+          "description": "A beautiful medieval stone portal connecting the old inner city to the eastern harbor.",
+          "seo_phrase": "Pizana Gate Budva: Historical Eastern Entrance",
+          "seo_keywords": [
+            "pizana gate budva",
+            "budva city gates",
+            "medieval walls budva",
+            "coastal fortresses"
+          ],
+          "commons_file": "Budva Stari Grad Gate.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Budva_Stari_Grad_Gate.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Budva Old Town",
+            "Church of Saint Ivan"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Podgorica",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Podgorica",
+      "seo": {
+        "title": "Top 10 Things to Do in Podgorica, Montenegro",
+        "description": "Discover 10 must-see landmarks in Podgorica, Montenegro. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Podgorica? Explore the best places to visit in Podgorica, Montenegro.",
+        "keywords": [
+          "things to do in Podgorica",
+          "Podgorica Montenegro travel guide",
+          "best places to visit in Podgorica",
+          "Podgorica landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Cathedral of the Resurrection of Christ",
+          "wiki_title": "Cathedral of the Resurrection of Christ (Podgorica",
+          "lat": 42.4457,
+          "lng": 19.2481,
+          "order_index": 0,
+          "description": "An immense Orthodox cathedral featuring lavish gold-leaf interior murals and rich stone carving.",
+          "seo_phrase": "Cathedral of the Resurrection Podgorica: Masterful Frescoes Guide",
+          "seo_keywords": [
+            "podgorica cathedral",
+            "cathedral of the resurrection",
+            "orthodox mosaics montenegro",
+            "podgorica religious monuments"
+          ],
+          "commons_file": "Saborni hram Hristovog Vaskrsenja Podgorica.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Saborni_hram_Hristovog_Vaskrsenja_Podgorica.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Millennium Bridge",
+            "Kruševac Park"
+          ]
+        },
+        {
+          "name": "Millennium Bridge",
+          "wiki_title": "Millennium Bridge (Podgorica",
+          "lat": 42.4449,
+          "lng": 19.2601,
+          "order_index": 1,
+          "description": "A visually striking cable-stayed bridge symbolizing the modern progress of Podgorica.",
+          "seo_phrase": "Millennium Bridge Podgorica: Capital's Modern Architectural Icon",
+          "seo_keywords": [
+            "millennium bridge podgorica",
+            "moraca river bridge",
+            "podgorica architecture",
+            "montenegro capital landmarks"
+          ],
+          "commons_file": "Millennium Bridge Podgorica.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Millennium_Bridge_Podgorica.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Moscow Bridge",
+            "Njegoš Park"
+          ]
+        },
+        {
+          "name": "The Clock Tower (Sahat Kula)",
+          "wiki_title": "Sahat Kula (Podgorica",
+          "lat": 42.4357,
+          "lng": 19.2625,
+          "order_index": 2,
+          "description": "An iconic 16-meter Ottoman clock tower defining the old historic core of Podgorica.",
+          "seo_phrase": "Sahat Kula Podgorica: The Ottoman Era Clock Tower",
+          "seo_keywords": [
+            "sahat kula podgorica",
+            "podgorica clock tower",
+            "stara varos ottoman",
+            "historical podgorica"
+          ],
+          "commons_file": "Sahat kula u Podgorici.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Sahat_kula_u_Podgorici.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Stara Varoš Old Town",
+            "Ribnica Bridge"
+          ]
+        },
+        {
+          "name": "Old Ribnica River Bridge",
+          "wiki_title": "Ribnica Fortress",
+          "lat": 42.4363,
+          "lng": 19.2597,
+          "order_index": 3,
+          "description": "A highly picturesque historic stone arch bridge nestled at the confluence of two rivers.",
+          "seo_phrase": "Old Ribnica Bridge Podgorica: Hidden Stone Arch Monument",
+          "seo_keywords": [
+            "ribnica bridge podgorica",
+            "adzi pasa bridge",
+            "roman stone arch bridge",
+            "ribnica gorge monuments"
+          ],
+          "commons_file": "Ribnica bridge Podgorica.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ribnica_bridge_Podgorica.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Ribnica Fortress",
+            "The Clock Tower (Sahat Kula)"
+          ]
+        },
+        {
+          "name": "St. George Church",
+          "wiki_title": "Podgorica",
+          "lat": 42.4468,
+          "lng": 19.2662,
+          "order_index": 4,
+          "description": "An ancient pre-Romanesque stone church surrounded by historic old stone walls and pine trees.",
+          "seo_phrase": "St. George Church Podgorica: Pre-Romanesque Hidden History",
+          "seo_keywords": [
+            "st george church podgorica",
+            "oldest church in podgorica",
+            "gorica hill landmark",
+            "pre romanesque montenegro"
+          ],
+          "commons_file": "Crkva Svetog Djordja Podgorica.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Crkva_Svetog_Djordja_Podgorica.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Gorica Forest Park",
+            "Independence Square"
+          ]
+        },
+        {
+          "name": "Stara Varoš Old Town",
+          "wiki_title": "Stara Varoš",
+          "lat": 42.435,
+          "lng": 19.261,
+          "order_index": 5,
+          "description": "The atmospheric old Turkish quarter of Podgorica, rich with quiet heritage houses.",
+          "seo_phrase": "Stara Varoš Podgorica: Walking through the Ottoman District",
+          "seo_keywords": [
+            "stara varos",
+            "podgorica old town",
+            "turkish quarter podgorica",
+            "oriental architecture montenegro"
+          ],
+          "commons_file": "Stara Varos Podgorica.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Stara_Varos_Podgorica.jpg",
+          "seo_priority": 84,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "The Clock Tower (Sahat Kula)",
+            "Ribnica Bridge"
+          ]
+        },
+        {
+          "name": "Petrović Palace (Kruševac)",
+          "wiki_title": "Kruševac, Podgorica",
+          "lat": 42.437,
+          "lng": 19.2468,
+          "order_index": 6,
+          "description": "A majestic pink-colored royal palace set within a large, tranquil forested park.",
+          "seo_phrase": "Petrović Palace Podgorica: Royal Residence and Contemporary Art",
+          "seo_keywords": [
+            "petrovic palace podgorica",
+            "krusevac park palace",
+            "contemporary art center montenegro",
+            "royal montenegrin residence"
+          ],
+          "commons_file": "Dvorac Petrovica Krusevac Podgorica.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Dvorac_Petrovica_Krusevac_Podgorica.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Kruševac Park",
+            "Cathedral of the Resurrection of Christ"
+          ]
+        },
+        {
+          "name": "Ribnica Fortress",
+          "wiki_title": "Ribnica Fortress",
+          "lat": 42.4366,
+          "lng": 19.2591,
+          "order_index": 7,
+          "description": "The atmospheric stone wall ruins of a medieval Ottoman fortress overlooking the river junction.",
+          "seo_phrase": "Ribnica Fortress: Exploring Podgorica's Medieval Stone Ruins",
+          "seo_keywords": [
+            "ribnica fortress",
+            "depedogen fortress",
+            "podgorica ruins",
+            "ottoman military architecture"
+          ],
+          "commons_file": "Ribnica Fortress Podgorica.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Ribnica_Fortress_Podgorica.jpg",
+          "seo_priority": 81,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Old Ribnica River Bridge",
+            "Njegoš Park"
+          ]
+        },
+        {
+          "name": "Independence Square",
+          "wiki_title": "Independence Square (Podgorica",
+          "lat": 42.4411,
+          "lng": 19.2629,
+          "order_index": 8,
+          "description": "The grand pedestrian heart of Podgorica, centered around a large modern fountain monument.",
+          "seo_phrase": "Independence Square Podgorica: Capital's Central Plaza Guide",
+          "seo_keywords": [
+            "independence square podgorica",
+            "trg nezavisnosti",
+            "podgorica city center",
+            "central fountain capital"
+          ],
+          "commons_file": "Independence Square Podgorica.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Independence_Square_Podgorica.jpg",
+          "seo_priority": 78,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "King's Park",
+            "St. George Church"
+          ]
+        },
+        {
+          "name": "King's Park (Kraljev Park)",
+          "wiki_title": "Podgorica",
+          "lat": 42.4379,
+          "lng": 19.2628,
+          "order_index": 9,
+          "description": "A beautifully landscaped urban park in the center of Podgorica, perfect for relaxing walks.",
+          "seo_phrase": "King's Park Podgorica: Centrally Located Green Oasis",
+          "seo_keywords": [
+            "kings park podgorica",
+            "kraljev park",
+            "podgorica green spaces",
+            "parks in capital montenegro"
+          ],
+          "commons_file": "Kraljev Park Podgorica.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Kraljev_Park_Podgorica.jpg",
+          "seo_priority": 76,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Independence Square",
+            "The Clock Tower (Sahat Kula)"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Herceg Novi",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Herceg Novi",
+      "seo": {
+        "title": "Top 10 Things to Do in Herceg Novi, Montenegro",
+        "description": "Discover 10 must-see landmarks in Herceg Novi, Montenegro. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Herceg Novi? Explore the best places to visit in Herceg Novi, Montenegro.",
+        "keywords": [
+          "things to do in Herceg Novi",
+          "Herceg Novi Montenegro travel guide",
+          "best places to visit in Herceg Novi",
+          "Herceg Novi landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Forte Mare Fortress",
+          "wiki_title": "Forte Mare",
+          "lat": 42.4503,
+          "lng": 18.5376,
+          "order_index": 0,
+          "description": "A historic sea fortress built directly into coastal cliffs, now hosting summer cinema events.",
+          "seo_phrase": "Forte Mare Herceg Novi: Sea Fortress and Open Air Cinema",
+          "seo_keywords": [
+            "forte mare herceg novi",
+            "sea fortress montenegro",
+            "king tvrtko history",
+            "herceg novi fortifications"
+          ],
+          "commons_file": "Forte Mare Herceg Novi.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Forte_Mare_Herceg_Novi.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Herceg Novi Clock Tower",
+            "Belavista Square"
+          ]
+        },
+        {
+          "name": "Herceg Novi Clock Tower",
+          "wiki_title": "Herceg Novi",
+          "lat": 42.4518,
+          "lng": 18.5354,
+          "order_index": 1,
+          "description": "The iconic stone clock tower serving as the main historical gate into the old upper town.",
+          "seo_phrase": "Herceg Novi Clock Tower: Landmark Portal to the Old Town",
+          "seo_keywords": [
+            "herceg novi clock tower",
+            "sat kula herceg novi",
+            "ottoman clock tower montenegro",
+            "herceg novi stone stairs"
+          ],
+          "commons_file": "Clock Tower Herceg Novi.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Clock_Tower_Herceg_Novi.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Belavista Square",
+            "Forte Mare Fortress"
+          ]
+        },
+        {
+          "name": "Savina Monastery",
+          "wiki_title": "Savina Monastery",
+          "lat": 42.4533,
+          "lng": 18.5539,
+          "order_index": 2,
+          "description": "A grand monastery complex surrounded by dense Mediterranean woods, overlooking the entrance of Boka Bay.",
+          "seo_phrase": "Savina Monastery Herceg Novi: Historical Churches and Bay Panoramas",
+          "seo_keywords": [
+            "savina monastery",
+            "herceg novi monastery",
+            "great church dormition",
+            "monastery treasury relics"
+          ],
+          "commons_file": "Manastir Savina Herceg Novi.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Manastir_Savina_Herceg_Novi.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Pet Danica Promenade"
+          ]
+        },
+        {
+          "name": "Belavista Square",
+          "wiki_title": "Herceg Novi",
+          "lat": 42.4519,
+          "lng": 18.5358,
+          "order_index": 3,
+          "description": "A charming, multi-tiered public square lined with cafes and historical stone buildings.",
+          "seo_phrase": "Belavista Square Herceg Novi: Historic Mediterranean Plaza",
+          "seo_keywords": [
+            "belavista square",
+            "herceg stjepan trg",
+            "herceg novi old town plaza",
+            "stone square boka bay"
+          ],
+          "commons_file": "Trg Belavista Herceg Novi.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Trg_Belavista_Herceg_Novi.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church of St. Michael the Archangel",
+            "Herceg Novi Clock Tower"
+          ]
+        },
+        {
+          "name": "Španjola Fortress",
+          "wiki_title": "Španjola",
+          "lat": 42.4564,
+          "lng": 18.5348,
+          "order_index": 4,
+          "description": "A majestic upper stone fortress offering complete panoramic views over the entrance of Boka Bay.",
+          "seo_phrase": "Španjola Fortress Herceg Novi: Upper Citadel Exploration",
+          "seo_keywords": [
+            "spanjola fortress",
+            "spanish fort herceg novi",
+            "upper citadel montenegro",
+            "military bastions boka bay"
+          ],
+          "commons_file": "Tvrdjava Spanjola Herceg Novi.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Tvrdjava_Spanjola_Herceg_Novi.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Herceg Novi Clock Tower",
+            "Belavista Square"
+          ]
+        },
+        {
+          "name": "Church of St. Michael the Archangel",
+          "wiki_title": "Herceg Novi",
+          "lat": 42.452,
+          "lng": 18.5359,
+          "order_index": 5,
+          "description": "A highly ornate Orthodox stone church situated at the absolute center of Belavista Square.",
+          "seo_phrase": "Church of St. Michael the Archangel Herceg Novi Guide",
+          "seo_keywords": [
+            "st michael church herceg novi",
+            "belavista orthodox church",
+            "neo byzantine montenegro",
+            "herceg novi landmarks"
+          ],
+          "commons_file": "Crkva Svetog Arhandjela Mihaila Herceg Novi.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Crkva_Svetog_Arhandjela_Mihaila_Herceg_Novi.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Belavista Square",
+            "Herceg Novi Clock Tower"
+          ]
+        },
+        {
+          "name": "Pet Danica Promenade",
+          "wiki_title": "Herceg Novi",
+          "lat": 42.4497,
+          "lng": 18.5312,
+          "order_index": 6,
+          "description": "A beautiful seaside pedestrian walkway spanning the entire shoreline of Herceg Novi.",
+          "seo_phrase": "Pet Danica Promenade Herceg Novi: Coastal Walking Guide",
+          "seo_keywords": [
+            "pet danica promenade",
+            "herceg novi walking path",
+            "coastal promenade montenegro",
+            "waterfront walk boka bay"
+          ],
+          "commons_file": "Setaliste Pet Danica Herceg Novi.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Setaliste_Pet_Danica_Herceg_Novi.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Forte Mare Fortress",
+            "City Harbor Skver"
+          ]
+        },
+        {
+          "name": "City Harbor Škver",
+          "wiki_title": "Herceg Novi",
+          "lat": 42.4493,
+          "lng": 18.5361,
+          "order_index": 7,
+          "description": "The lively traditional town port and central focus of waterfront life in Herceg Novi.",
+          "seo_phrase": "City Harbor Škver Herceg Novi: Marina and Waterfront Hub",
+          "seo_keywords": [
+            "skver harbor herceg novi",
+            "herceg novi marina",
+            "king tvrtko monument",
+            "boka bay boat tours"
+          ],
+          "commons_file": "Skver Herceg Novi.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Skver_Herceg_Novi.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Forte Mare Fortress",
+            "Pet Danica Promenade"
+          ]
+        },
+        {
+          "name": "Herceg Novi Local Museum",
+          "wiki_title": "Herceg Novi",
+          "lat": 42.451,
+          "lng": 18.5322,
+          "order_index": 8,
+          "description": "A regional heritage museum set within a grand nineteenth-century villa and botanical garden.",
+          "seo_phrase": "Herceg Novi Local Museum: History and Botanical Gardens",
+          "seo_keywords": [
+            "herceg novi local museum",
+            "mirko komnenovic palace",
+            "archeology montenegro coast",
+            "exotic botanical gardens"
+          ],
+          "commons_file": "Zavičajni muzej Herceg Novi.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Zavi%C4%8Dajni_muzej_Herceg_Novi.jpg",
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Pet Danica Promenade",
+            "Herceg Novi Clock Tower"
+          ]
+        },
+        {
+          "name": "St. Jerome Church",
+          "wiki_title": "Herceg Novi",
+          "lat": 42.4507,
+          "lng": 18.5369,
+          "order_index": 9,
+          "description": "A landmark Roman Catholic church housing rare, valuable canvas paintings by Tripo Kokolja.",
+          "seo_phrase": "St. Jerome Catholic Church Herceg Novi Guide",
+          "seo_keywords": [
+            "st jerome church herceg novi",
+            "tripo kokolja paintings",
+            "herceg novi catholic heritage",
+            "old town stone churches"
+          ],
+          "commons_file": "Crkva Svetog Ijeronima Herceg Novi.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Crkva_Svetog_Ijeronima_Herceg_Novi.jpg",
+          "seo_priority": 77,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Forte Mare Fortress",
+            "Belavista Square"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Tivat",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Tivat",
+      "seo": {
+        "title": "Top 10 Things to Do in Tivat, Montenegro",
+        "description": "Discover 10 must-see landmarks in Tivat, Montenegro. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Tivat? Explore the best places to visit in Tivat, Montenegro.",
+        "keywords": [
+          "things to do in Tivat",
+          "Tivat Montenegro travel guide",
+          "best places to visit in Tivat",
+          "Tivat landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Porto Montenegro Marina",
+          "wiki_title": "Porto Montenegro",
+          "lat": 42.4339,
+          "lng": 18.6917,
+          "order_index": 0,
+          "description": "A luxury modern harbor and retail village, setting the standard for Adriatic nautical glamour.",
+          "seo_phrase": "Porto Montenegro Tivat: Luxury Superyacht Marina Guide",
+          "seo_keywords": [
+            "porto montenegro",
+            "tivat marina",
+            "superyacht port adriatic",
+            "luxury travel montenegro"
+          ],
+          "commons_file": "Porto Montenegro Marina Tivat.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Porto_Montenegro_Marina_Tivat.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Naval Heritage Collection",
+            "Pine Promenade"
+          ]
+        },
+        {
+          "name": "Naval Heritage Collection Museum",
+          "wiki_title": "Porto Montenegro",
+          "lat": 42.4398,
+          "lng": 18.6908,
+          "order_index": 1,
+          "description": "A unique maritime history museum featuring a genuine, walk-in cold-war Yugoslav submarine.",
+          "seo_phrase": "Naval Heritage Collection Tivat: Explore Yugoslavia's Submarines",
+          "seo_keywords": [
+            "naval heritage collection",
+            "tivat submarine museum",
+            "heroj submarine montenegro",
+            "yugoslav navy history"
+          ],
+          "commons_file": "Naval Heritage Collection Tivat.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Naval_Heritage_Collection_Tivat.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Porto Montenegro Marina",
+            "Bucha Palace"
+          ]
+        },
+        {
+          "name": "The Pine Promenade",
+          "wiki_title": "Tivat",
+          "lat": 42.4305,
+          "lng": 18.6958,
+          "order_index": 2,
+          "description": "The spacious, palm-lined main waterfront promenade defining the traditional civic identity of Tivat.",
+          "seo_phrase": "Pine Promenade Tivat: The Heart of Local Waterfront Life",
+          "seo_keywords": [
+            "pine promenade tivat",
+            "setaliste pine",
+            "jadran sailing ship",
+            "tivat town waterfront"
+          ],
+          "commons_file": "Setaliste Pine Tivat.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Setaliste_Pine_Tivat.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Porto Montenegro Marina",
+            "Bucha Palace"
+          ]
+        },
+        {
+          "name": "Montenegro",
+          "wiki_title": "Montenegro",
+          "lat": 42.5,
+          "lng": 19.3,
+          "order_index": 3,
+          "description": "Montenegro — a notable landmark in Tivat, Montenegro.",
+          "seo_phrase": "Montenegro",
+          "seo_keywords": [
+            "Tivat",
+            "Montenegro",
+            "travel"
+          ],
+          "commons_file": "Flag of Montenegro.svg/800px-Flag of Montenegro.svg.png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/800px-Flag_of_Montenegro.svg.png",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Kotor",
+          "wiki_title": "Kotor",
+          "lat": 42.43,
+          "lng": 18.77,
+          "order_index": 4,
+          "description": "Kotor — a notable landmark in Tivat, Montenegro.",
+          "seo_phrase": "Kotor",
+          "seo_keywords": [
+            "Tivat",
+            "Montenegro",
+            "travel"
+          ],
+          "commons_file": "20090719 Crkva Gospa od Zdravlja Kotor Bay Montenegro.jpg/800px-20090719 Crkva Gospa od Zdravlja Kotor Bay Montenegro.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/20090719_Crkva_Gospa_od_Zdravlja_Kotor_Bay_Montenegro.jpg/800px-20090719_Crkva_Gospa_od_Zdravlja_Kotor_Bay_Montenegro.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Cetinje",
+          "wiki_title": "Cetinje",
+          "lat": 42.3894,
+          "lng": 18.9247,
+          "order_index": 5,
+          "description": "Cetinje — a notable landmark in Tivat, Montenegro.",
+          "seo_phrase": "Cetinje",
+          "seo_keywords": [
+            "Tivat",
+            "Montenegro",
+            "travel"
+          ],
+          "commons_file": "Njegošev mauzolej.JPG/800px-Njegošev mauzolej.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Njego%C5%A1ev_mauzolej.JPG/800px-Njego%C5%A1ev_mauzolej.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Diocese of Kotor",
+          "wiki_title": "Diocese of Kotor",
+          "lat": 42.43,
+          "lng": 18.77,
+          "order_index": 6,
+          "description": "Diocese of Kotor — a notable landmark in Tivat, Montenegro.",
+          "seo_phrase": "Diocese of Kotor",
+          "seo_keywords": [
+            "Tivat",
+            "Montenegro",
+            "travel"
+          ],
+          "commons_file": "Cathedral of Saint Tryphon, Kotor, Montenegro, 2012.jpg/800px-Cathedral of Saint Tryphon, Kotor, Montenegro, 2012.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cathedral_of_Saint_Tryphon%2C_Kotor%2C_Montenegro%2C_2012.jpg/800px-Cathedral_of_Saint_Tryphon%2C_Kotor%2C_Montenegro%2C_2012.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Island of Flowers (Prevlaka)",
+          "wiki_title": "Prevlaka Island",
+          "lat": 42.4055,
+          "lng": 18.7022,
+          "order_index": 7,
+          "description": "A quiet peninsula connected by a narrow causeway, rich in early medieval Christian history.",
+          "seo_phrase": "Island of Flowers Prevlaka Tivat: Ancient Monastic Heritage",
+          "seo_keywords": [
+            "island of flowers tivat",
+            "miholjska prevlaka",
+            "archangel michael monastery ruins",
+            "zeta metropolitancy history"
+          ],
+          "commons_file": "Ostrvo Cvijeca Prevlaka.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ostrvo_Cvijeca_Prevlaka.jpg",
+          "seo_priority": 83,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Tivat Solila Nature Reserve"
+          ]
+        },
+        {
+          "name": "Bucha Renaissance Palace",
+          "wiki_title": "Tivat",
+          "lat": 42.4312,
+          "lng": 18.6963,
+          "order_index": 8,
+          "description": "A rare medieval fortified complex housing an active town art gallery and open-air summer theater.",
+          "seo_phrase": "Bucha Palace Tivat: Medieval Fortified Noble Summer House",
+          "seo_keywords": [
+            "bucha palace tivat",
+            "ljetnikovac buca",
+            "gothic architecture boka bay",
+            "tivat art gallery"
+          ],
+          "commons_file": "Ljetnikovac Buca Tivat.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ljetnikovac_Buca_Tivat.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Pine Promenade",
+            "Porto Montenegro Marina"
+          ]
+        },
+        {
+          "name": "Gornja Lastva Heritage Village",
+          "wiki_title": "Gornja Lastva",
+          "lat": 42.4461,
+          "lng": 18.7139,
+          "order_index": 9,
+          "description": "An authentic medieval hill village showcasing traditional stone masonry and old olive oil processing mills.",
+          "seo_phrase": "Gornja Lastva Tivat: Authentic Stone Ethno Village",
+          "seo_keywords": [
+            "gornja lastva",
+            "tivat ethno village",
+            "vrmac hill stone homes",
+            "traditional olive mill montenegro"
+          ],
+          "commons_file": "Gornja Lastva Tivat.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Gornja_Lastva_Tivat.jpg",
+          "seo_priority": 81,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Porto Montenegro Marina"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Cetinje",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Cetinje",
+      "seo": {
+        "title": "Top 10 Things to Do in Cetinje, Montenegro",
+        "description": "Discover 10 must-see landmarks in Cetinje, Montenegro. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Cetinje? Explore the best places to visit in Cetinje, Montenegro.",
+        "keywords": [
+          "things to do in Cetinje",
+          "Cetinje Montenegro travel guide",
+          "best places to visit in Cetinje",
+          "Cetinje landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Cetinje Monastery",
+          "wiki_title": "Cetinje Monastery",
+          "lat": 42.3869,
+          "lng": 18.9242,
+          "order_index": 0,
+          "description": "The absolute spiritual hub of Montenegrin history, housing monumental national relics.",
+          "seo_phrase": "Cetinje Monastery: The Spiritual Heart of Montenegrin History",
+          "seo_keywords": [
+            "cetinje monastery",
+            "ivan crnojevic monastery",
+            "spiritual capital montenegro",
+            "petrovic dynasty relics"
+          ],
+          "commons_file": "Cetinjski manastir Montenegro.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Cetinjski_manastir_Montenegro.jpg",
+          "seo_priority": 97,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Biljarda Palace",
+            "King Nikola Museum"
+          ]
+        },
+        {
+          "name": "The Biljarda Palace",
+          "wiki_title": "Biljarda",
+          "lat": 42.3872,
+          "lng": 18.9247,
+          "order_index": 1,
+          "description": "A unique fortified stone palace built as the state administrative seat for Prince-Bishop Njegoš.",
+          "seo_phrase": "Biljarda Palace Cetinje: Residence of Ruler Njegoš",
+          "seo_keywords": [
+            "biljarda cetinje",
+            "njegos residence bilarda",
+            "cetinje relief map",
+            "fortified stone palaces"
+          ],
+          "commons_file": "Biljarda Cetinje Montenegro.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Biljarda_Cetinje_Montenegro.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Cetinje Monastery",
+            "King Nikola Museum"
+          ]
+        },
+        {
+          "name": "King Nikola Museum",
+          "wiki_title": "King Nikola's Palace",
+          "lat": 42.3867,
+          "lng": 18.9255,
+          "order_index": 2,
+          "description": "The majestic former royal palace displaying the authentic state history and lifestyle of the Montenegrin court.",
+          "seo_phrase": "King Nikola Palace Museum Cetinje: Royal Court Treasures",
+          "seo_keywords": [
+            "king nikola museum",
+            "cetinje royal palace",
+            "state museum montenegro",
+            "king nikola apartments"
+          ],
+          "commons_file": "Dvorac Kralja Nikole Cetinje.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Dvorac_Kralja_Nikole_Cetinje.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "The Biljarda Palace",
+            "Cetinje Monastery"
+          ]
+        },
+        {
+          "name": "National Museum of Montenegro",
+          "wiki_title": "National Museum of Montenegro",
+          "lat": 42.3877,
+          "lng": 18.9238,
+          "order_index": 3,
+          "description": "Housed inside the grand Government House (Vladin Dom), it is the premier treasury of national fine arts.",
+          "seo_phrase": "National Museum of Montenegro Cetinje: Art and History Hub",
+          "seo_keywords": [
+            "national museum montenegro",
+            "vladin dom cetinje",
+            "lady of philermos icon",
+            "montenegro art gallery"
+          ],
+          "commons_file": "Vladin Dom Cetinje.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Vladin_Dom_Cetinje.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Cetinje Monastery",
+            "The Biljarda Palace"
+          ]
+        },
+        {
+          "name": "Vlaška Church",
+          "wiki_title": "Cetinje",
+          "lat": 42.3882,
+          "lng": 18.9284,
+          "order_index": 4,
+          "description": "An ancient stone church featuring a highly unique defensive rifle-barrel perimeter fence.",
+          "seo_phrase": "Vlaška Church Cetinje: Famous Captured Rifle Fence Chapel",
+          "seo_keywords": [
+            "vlaska crkva cetinje",
+            "rifle fence church",
+            "captured weapons monument",
+            "oldest buildings cetinje"
+          ],
+          "commons_file": "Vlaska Crkva Cetinje.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Vlaska_Crkva_Cetinje.jpg",
+          "seo_priority": 86,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "King Nikola Museum",
+            "Independence Square Cetinje"
+          ]
+        },
+        {
+          "name": "The Blue Palace (Plavi Dvor)",
+          "wiki_title": "Blue Palace (Cetinje",
+          "lat": 42.3853,
+          "lng": 18.9261,
+          "order_index": 5,
+          "description": "A beautiful blue-and-white royal palace flanking Cetinje's historic park boulevard.",
+          "seo_phrase": "The Blue Palace Cetinje: Official Presidential Residence",
+          "seo_keywords": [
+            "blue palace cetinje",
+            "plavi dvor",
+            "late empire architecture",
+            "presidential residence montenegro"
+          ],
+          "commons_file": "Plavi Dvor Cetinje.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Plavi_Dvor_Cetinje.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "King Nikola Museum",
+            "Cetinje Town Park"
+          ]
+        },
+        {
+          "name": "Court Church on Ćipur",
+          "wiki_title": "Cetinje",
+          "lat": 42.3864,
+          "lng": 18.9246,
+          "order_index": 6,
+          "description": "A charming white stone court chapel housing the remains of state founder Ivan Crnojević.",
+          "seo_phrase": "Court Church on Ćipur Cetinje: Ancient Foundation Chapel",
+          "seo_keywords": [
+            "church on cipur",
+            "court church cetinje",
+            "ivan crnojevic chapel",
+            "cetinje stone architecture"
+          ],
+          "commons_file": "Crkva na Cipuru Cetinje.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Crkva_na_Cipuru_Cetinje.jpg",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Biljarda Palace",
+            "Cetinje Monastery"
+          ]
+        },
+        {
+          "name": "The History Museum of Cetinje",
+          "wiki_title": "National Museum of Montenegro",
+          "lat": 42.3876,
+          "lng": 18.9235,
+          "order_index": 7,
+          "description": "A modern, chronologically organized museum tracking the complete history of the regional nations.",
+          "seo_phrase": "History Museum Cetinje: Comprehensive State Historical Archive",
+          "seo_keywords": [
+            "history museum cetinje",
+            "montenegro political history",
+            "slavic migration relics",
+            "cetinje state archives"
+          ],
+          "commons_file": "Istorijski Muzej Cetinje.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Istorijski_Muzej_Cetinje.jpg",
+          "seo_priority": 81,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "National Museum of Montenegro",
+            "The Biljarda Palace"
+          ]
+        },
+        {
+          "name": "The French Embassy Building",
+          "wiki_title": "Cetinje",
+          "lat": 42.3846,
+          "lng": 18.9289,
+          "order_index": 8,
+          "description": "A landmark historic embassy building featuring distinctive colored ceramic tiles and Art Nouveau lines.",
+          "seo_phrase": "Former French Embassy Cetinje: Architectural Tile Masterpiece",
+          "seo_keywords": [
+            "french embassy cetinje",
+            "cetinje diplomatic architecture",
+            "art nouveau montenegro",
+            "ceramic tile facades"
+          ],
+          "commons_file": "Francusko Poslanstvo Cetinje.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Francusko_Poslanstvo_Cetinje.jpg",
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Blue Palace (Plavi Dvor)",
+            "Vlaška Church"
+          ]
+        },
+        {
+          "name": "The Ethnographic Museum",
+          "wiki_title": "National Museum of Montenegro",
+          "lat": 42.3869,
+          "lng": 18.9259,
+          "order_index": 9,
+          "description": "A rich heritage collection displaying traditional Montenegrin folk dress and rural crafts.",
+          "seo_phrase": "Ethnographic Museum Cetinje: Traditional Folk Costumes",
+          "seo_keywords": [
+            "ethnographic museum cetinje",
+            "traditional montenegrin dress",
+            "folk heritage crafts",
+            "cetinje museum walk"
+          ],
+          "commons_file": "Etnografski Muzej Cetinje.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Etnografski_Muzej_Cetinje.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "King Nikola Museum",
+            "The Biljarda Palace"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Bar",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Bar",
+      "seo": {
+        "title": "Top 10 Things to Do in Bar, Montenegro",
+        "description": "Discover 10 must-see landmarks in Bar, Montenegro. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Bar? Explore the best places to visit in Bar, Montenegro.",
+        "keywords": [
+          "things to do in Bar",
+          "Bar Montenegro travel guide",
+          "best places to visit in Bar",
+          "Bar landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Stari Bar (Old Bar Fortress)",
+          "wiki_title": "Stari Bar",
+          "lat": 42.0934,
+          "lng": 19.1352,
+          "order_index": 0,
+          "description": "An expansive, highly evocative open-air fortress city ruins nestled against steep mountain cliffs.",
+          "seo_phrase": "Stari Bar Fortress Guide: Explore Montenegro's Walled Ghost Town",
+          "seo_keywords": [
+            "stari bar",
+            "old bar fortress",
+            "montenegro stone ruins",
+            "bar aqueduct history"
+          ],
+          "commons_file": "Stari Bar Montenegro Fortress.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Stari_Bar_Montenegro_Fortress.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "The Old Olive Tree",
+            "Stari Bar Aqueduct"
+          ]
+        },
+        {
+          "name": "The Old Olive Tree (Stara Maslina)",
+          "wiki_title": "Stara Maslina",
+          "lat": 42.0801,
+          "lng": 19.1311,
+          "order_index": 1,
+          "description": "A monumental ancient olive tree protected as a significant national natural heritage site.",
+          "seo_phrase": "Stara Maslina Bar: Visiting Europe's Oldest Olive Tree",
+          "seo_keywords": [
+            "stara maslina",
+            "old olive tree bar",
+            "mirovica ancient olive",
+            "oldest trees europe"
+          ],
+          "commons_file": "Stara maslina Mirovica Bar.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Stara_maslina_Mirovica_Bar.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Stari Bar (Old Bar Fortress)"
+          ]
+        },
+        {
+          "name": "King Nikola's Palace Bar",
+          "wiki_title": "Bar, Montenegro",
+          "lat": 42.1006,
+          "lng": 19.0941,
+          "order_index": 2,
+          "description": "An elegant coastal royal villa housing the Bar Local History Museum and botanical gardens.",
+          "seo_phrase": "King Nikola Palace Bar: Waterfront Royal Museum Guide",
+          "seo_keywords": [
+            "king nikola palace bar",
+            "bar city museum",
+            "royal coastal villas",
+            "bar beachfront park"
+          ],
+          "commons_file": "Dvorac Kralja Nikole u Baru.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Dvorac_Kralja_Nikole_u_Baru.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Bar Waterfront Promenade",
+            "Church of Saint John"
+          ]
+        },
+        {
+          "name": "Church of Saint John (Hram Sv. Jovana)",
+          "wiki_title": "Bar, Montenegro",
+          "lat": 42.1026,
+          "lng": 19.0988,
+          "order_index": 3,
+          "description": "An immense, twin-towered modern cathedral featuring striking gold-plated domes.",
+          "seo_phrase": "Church of Saint John Bar: Monumental Golden Domes",
+          "seo_keywords": [
+            "church of saint john bar",
+            "saborni hram bar",
+            "golden domes montenegro",
+            "bar town monuments"
+          ],
+          "commons_file": "Saborni Hram Svetog Jovana Vladimir Bar.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Saborni_Hram_Svetog_Jovana_Vladimir_Bar.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "King Nikola's Palace Bar",
+            "Bar Waterfront Promenade"
+          ]
+        },
+        {
+          "name": "Stari Bar Aqueduct",
+          "wiki_title": "Stari Bar",
+          "lat": 42.0944,
+          "lng": 19.1373,
+          "order_index": 4,
+          "description": "A massive historic stone bridge featuring 17 large masonry arches spanning a deep valley.",
+          "seo_phrase": "Stari Bar Aqueduct: Ottoman Engineering Masterpiece",
+          "seo_keywords": [
+            "stari bar aqueduct",
+            "ottoman water systems",
+            "stone arch bridges montenegro",
+            "bar ancient infrastructure"
+          ],
+          "commons_file": "Aqueduct Stari Bar.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Aqueduct_Stari_Bar.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Stari Bar (Old Bar Fortress)"
+          ]
+        },
+        {
+          "name": "Omerbašića Mosque",
+          "wiki_title": "Stari Bar",
+          "lat": 42.0927,
+          "lng": 19.1341,
+          "order_index": 5,
+          "description": "A simple stone mosque with an elegant minaret, representing old Turkish life in Bar.",
+          "seo_phrase": "Omerbašića Mosque Stari Bar: 17th Century Ottoman Heritage",
+          "seo_keywords": [
+            "omerbasica mosque",
+            "bar ottoman mosque",
+            "stari bar islamic heritage",
+            "stone minarets montenegro"
+          ],
+          "commons_file": "Omerbasica dzamija Bar.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Omerbasica_dzamija_Bar.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Stari Bar (Old Bar Fortress)",
+            "Stari Bar Aqueduct"
+          ]
+        },
+        {
+          "name": "The Stone City Gate Stari Bar",
+          "wiki_title": "Stari Bar",
+          "lat": 42.0931,
+          "lng": 19.1348,
+          "order_index": 6,
+          "description": "A heavy stone defensive portal serving as the main entrance to the ruined fortress city.",
+          "seo_phrase": "The Main Gate Stari Bar: Walled Fort Entrance",
+          "seo_keywords": [
+            "stari bar main gate",
+            "fortress city gates",
+            "venetian defensive archways",
+            "bar stone masonry"
+          ],
+          "commons_file": "Glavna Kapija Stari Bar.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Glavna_Kapija_Stari_Bar.jpg",
+          "seo_priority": 79,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Stari Bar (Old Bar Fortress)",
+            "Omerbašića Mosque"
+          ]
+        },
+        {
+          "name": "Bar Waterfront Promenade",
+          "wiki_title": "Bar, Montenegro",
+          "lat": 42.1,
+          "lng": 19.091,
+          "order_index": 7,
+          "description": "A wide, flat pedestrian promenade running parallel to Bar's pebble coast.",
+          "seo_phrase": "Bar Waterfront Promenade: Maritime Walking Track Guide",
+          "seo_keywords": [
+            "bar promenade",
+            "setaliste kralja nikole",
+            "bar town waterfront",
+            "palm tree walk coast"
+          ],
+          "commons_file": "Setaliste Bar Montenegro.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Setaliste_Bar_Montenegro.jpg",
+          "seo_priority": 78,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "King Nikola's Palace Bar",
+            "Church of Saint John"
+          ]
+        },
+        {
+          "name": "St. Nicholas Church Stari Bar",
+          "wiki_title": "Stari Bar",
+          "lat": 42.0915,
+          "lng": 19.1332,
+          "order_index": 8,
+          "description": "A serene historical church situated among old olive groves near the old town fortress entrance.",
+          "seo_phrase": "St. Nicholas Church Stari Bar: Historic Stone Sanctuary",
+          "seo_keywords": [
+            "st nicholas stari bar",
+            "bar old churches",
+            "stone chapels mountain foot",
+            "stari bar surroundings"
+          ],
+          "commons_file": "Crkva Svetog Nikole Stari Bar.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Crkva_Svetog_Nikole_Stari_Bar.jpg",
+          "seo_priority": 76,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Stari Bar (Old Bar Fortress)",
+            "The Old Olive Tree"
+          ]
+        },
+        {
+          "name": "The Custom House Museum (Palata Topolica)",
+          "wiki_title": "Bar, Montenegro",
+          "lat": 42.0998,
+          "lng": 19.0935,
+          "order_index": 9,
+          "description": "A well-preserved historic government palace tracking early maritime customs and national harbor trade.",
+          "seo_phrase": "Palata Topolica Bar: Historical Customs House Heritage",
+          "seo_keywords": [
+            "palata topolica",
+            "bar custom house",
+            "maritime trade history montenegro",
+            "bar historic palaces"
+          ],
+          "commons_file": "Palata Topolica Bar.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Palata_Topolica_Bar.jpg",
+          "seo_priority": 73,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "King Nikola's Palace Bar",
+            "Bar Waterfront Promenade"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Ulcinj",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Ulcinj",
+      "seo": {
+        "title": "Top 10 Things to Do in Ulcinj, Montenegro",
+        "description": "Discover 10 must-see landmarks in Ulcinj, Montenegro. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Ulcinj? Explore the best places to visit in Ulcinj, Montenegro.",
+        "keywords": [
+          "things to do in Ulcinj",
+          "Ulcinj Montenegro travel guide",
+          "best places to visit in Ulcinj",
+          "Ulcinj landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Ulcinj Old Town Citadel",
+          "wiki_title": "Ulcinj",
+          "lat": 41.9242,
+          "lng": 19.2014,
+          "order_index": 0,
+          "description": "A stunning cliffside castle complex boasting over 2,000 years of coastal history.",
+          "seo_phrase": "Ulcinj Old Town Citadel: Ancient Pirate Stronghold Guide",
+          "seo_keywords": [
+            "ulcinj old town",
+            "ulcinj citadel",
+            "adriatic pirate history",
+            "cyclopean masonry montenegro"
+          ],
+          "commons_file": "Ulcinj Old Town Citadel.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ulcinj_Old_Town_Citadel.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Ulcinj Museum Complex",
+            "The Balsić Tower"
+          ]
+        },
+        {
+          "name": "Sailors' Mosque (Mornarska Džamija)",
+          "wiki_title": "Sailors' Mosque",
+          "lat": 41.9254,
+          "lng": 19.2045,
+          "order_index": 1,
+          "description": "A beautiful white stone mosque with a tall minaret located directly on the beach promenade.",
+          "seo_phrase": "Sailors' Mosque Ulcinj: Seaside Islamic Landmark Guide",
+          "seo_keywords": [
+            "sailors mosque ulcinj",
+            "mornarska dzamija",
+            "seaside mosque adriatic",
+            "ulcinj islamic monuments"
+          ],
+          "commons_file": "Mornarska dzamija Ulcinj.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Mornarska_dzamija_Ulcinj.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mala Plaža Promenade",
+            "Ulcinj Old Town Citadel"
+          ]
+        },
+        {
+          "name": "The Balšić Tower",
+          "wiki_title": "Ulcinj",
+          "lat": 41.9245,
+          "lng": 19.2018,
+          "order_index": 2,
+          "description": "An impressive multi-story stone tower dominating the upper courtyard of the old citadel.",
+          "seo_phrase": "The Balšić Tower Ulcinj: Medieval Citadel Landmark",
+          "seo_keywords": [
+            "balsic tower ulcinj",
+            "kula balsica",
+            "medieval towers montenegro",
+            "sabbatai zevi ulcinj"
+          ],
+          "commons_file": "Kula Balsica Ulcinj.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Kula_Balsica_Ulcinj.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Ulcinj Old Town Citadel",
+            "Ulcinj Museum Complex"
+          ]
+        },
+        {
+          "name": "Ulcinj Local Museum Complex",
+          "wiki_title": "Ulcinj",
+          "lat": 41.9241,
+          "lng": 19.2011,
+          "order_index": 3,
+          "description": "A fascinating heritage museum showcasing ancient Roman, Byzantine, and Ottoman history.",
+          "seo_phrase": "Ulcinj Museum: Church Mosque Heritage Collection",
+          "seo_keywords": [
+            "ulcinj museum",
+            "church mosque ulcinj",
+            "adriatic archeology relics",
+            "ethnographic ulcinj"
+          ],
+          "commons_file": "Muzej Stari Grad Ulcinj.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Muzej_Stari_Grad_Ulcinj.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Ulcinj Old Town Citadel",
+            "The Balsić Tower"
+          ]
+        },
+        {
+          "name": "The Slave Market Square (Trg Robova)",
+          "wiki_title": "Ulcinj",
+          "lat": 41.9244,
+          "lng": 19.2016,
+          "order_index": 4,
+          "description": "A landmark stone square inside the citadel, deeply tied to Mediterranean pirate history.",
+          "seo_phrase": "The Slave Market Square Ulcinj: Historic Pirate Era Plaza",
+          "seo_keywords": [
+            "slave market square ulcinj",
+            "trg robova",
+            "adriatic piracy history",
+            "citadel stone squares"
+          ],
+          "commons_file": "Trg Robova Ulcinj.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Trg_Robova_Ulcinj.jpg",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "The Balsić Tower",
+            "Ulcinj Museum Complex"
+          ]
+        },
+        {
+          "name": "Mala Plaža Promenade",
+          "wiki_title": "Ulcinj",
+          "lat": 41.926,
+          "lng": 19.2052,
+          "order_index": 5,
+          "description": "The primary pedestrian waterfront walk flanking the central city bay area.",
+          "seo_phrase": "Mala Plaža Promenade Ulcinj: Coastal Walk Guide",
+          "seo_keywords": [
+            "mala plaza promenade",
+            "ulcinj waterfront walk",
+            "beachfront avenues montenegro",
+            "coastal walking paths"
+          ],
+          "commons_file": "Setaliste Mala Plaza Ulcinj.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Setaliste_Mala_Plaza_Ulcinj.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Sailors' Mosque",
+            "Ulcinj Old Town Citadel"
+          ]
+        },
+        {
+          "name": "Pasha's Mosque",
+          "wiki_title": "Ulcinj",
+          "lat": 41.9272,
+          "lng": 19.2059,
+          "order_index": 6,
+          "description": "An important Ottoman-era mosque featuring the only preserved historic hamam in the city.",
+          "seo_phrase": "Pasha's Mosque Ulcinj: Historic Hamam Complex",
+          "seo_keywords": [
+            "pashas mosque ulcinj",
+            "ali pasha monument",
+            "ulcinj turkish bath",
+            "ottoman architecture montenegro"
+          ],
+          "commons_file": "Pasina dzamija Ulcinj.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Pasina_dzamija_Ulcinj.jpg",
+          "seo_priority": 81,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mala Plaža Promenade",
+            "Sailors' Mosque"
+          ]
+        },
+        {
+          "name": "St. Nicholas Church Ulcinj",
+          "wiki_title": "Ulcinj",
+          "lat": 41.9265,
+          "lng": 19.1998,
+          "order_index": 7,
+          "description": "A historic white stone Orthodox church nestled in a scenic olive grove near the old town gates.",
+          "seo_phrase": "St. Nicholas Orthodox Church Ulcinj: Quiet Olive Grove Sanctuary",
+          "seo_keywords": [
+            "st nicholas church ulcinj",
+            "ulcinj orthodox monuments",
+            "ancient olive groves montenegro",
+            "stone churches southern coast"
+          ],
+          "commons_file": "Crkva Svetog Nikole u Ulcinju.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Crkva_Svetog_Nikole_u_Ulcinju.jpg",
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Ulcinj Old Town Citadel",
+            "The Slave Market Square"
+          ]
+        },
+        {
+          "name": "The Sea Gate of Ulcinj",
+          "wiki_title": "Ulcinj",
+          "lat": 41.9241,
+          "lng": 19.2026,
+          "order_index": 8,
+          "description": "A massive medieval stone portal connecting the small beach harbor to the inner old city.",
+          "seo_phrase": "The Sea Gate Ulcinj: Lower Citadel Entrance Portal",
+          "seo_keywords": [
+            "ulcinj sea gate",
+            "morska kapija",
+            "ulcinj fortifications",
+            "stone arches old town"
+          ],
+          "commons_file": "Morska Kapija Ulcinj.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Morska_Kapija_Ulcinj.jpg",
+          "seo_priority": 76,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Ulcinj Old Town Citadel",
+            "Mala Plaža Promenade"
+          ]
+        },
+        {
+          "name": "The Custom Post Palace",
+          "wiki_title": "Ulcinj",
+          "lat": 41.924,
+          "lng": 19.2022,
+          "order_index": 9,
+          "description": "A solid historic administrative stone building reflecting old maritime tax collections.",
+          "seo_phrase": "Old Customs Post Palace Ulcinj: Ottoman Border Trade",
+          "seo_keywords": [
+            "ulcinj customs palace",
+            "ottoman administration architecture",
+            "maritime trade history",
+            "ulcinj stone buildings"
+          ],
+          "commons_file": "Palata Ulcinj Customs.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Palata_Ulcinj_Customs.jpg",
+          "seo_priority": 71,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Ulcinj Old Town Citadel",
+            "Mala Plaža Promenade"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Nikšić",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Nikšić",
+      "seo": {
+        "title": "Top 10 Things to Do in Nikšić, Montenegro",
+        "description": "Discover 10 must-see landmarks in Nikšić, Montenegro. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Nikšić? Explore the best places to visit in Nikšić, Montenegro.",
+        "keywords": [
+          "things to do in Nikšić",
+          "Nikšić Montenegro travel guide",
+          "best places to visit in Nikšić",
+          "Nikšić landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Manastir Ostrog (Ostrog Monastery)",
+          "wiki_title": "Ostrog Monastery",
+          "lat": 42.675,
+          "lng": 19.1303,
+          "order_index": 0,
+          "description": "The most famous and visually stunning cliffside pilgrimage monastery in the Balkans.",
+          "seo_phrase": "Ostrog Monastery Guide: Montenegro's Miraculous Cliff Church",
+          "seo_keywords": [
+            "ostrog monastery",
+            "manastir ostrog",
+            "cliff monastery montenegro",
+            "st basil of ostrog relics"
+          ],
+          "commons_file": "Ostrog Monastery Montenegro 2014.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ostrog_Monastery_Montenegro_2014.jpg",
+          "seo_priority": 100,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Zeta Valley Viewpoints"
+          ]
+        },
+        {
+          "name": "Bedem Fortress",
+          "wiki_title": "Nikšić",
+          "lat": 42.7712,
+          "lng": 18.9431,
+          "order_index": 1,
+          "description": "A grand historic hilltop fortress complex overlooking the vast Nikšić plain.",
+          "seo_phrase": "Bedem Fortress Nikšić: Historic Hill Citadel Guide",
+          "seo_keywords": [
+            "bedem fortress niksic",
+            "onogost fort history",
+            "niksic stone walls",
+            "continental montenegro fortresses"
+          ],
+          "commons_file": "Tvrdjava Bedem Niksic.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Tvrdjava_Bedem_Niksic.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "King Nikola Palace Nikšić",
+            "Manastir Ostrog"
+          ]
+        },
+        {
+          "name": "The Emperor's Bridge (Carev Most)",
+          "wiki_title": "Carev Most",
+          "lat": 42.7441,
+          "lng": 18.961,
+          "order_index": 2,
+          "description": "A monumental multi-arch stone bridge crossing the entire valley floor.",
+          "seo_phrase": "Carev Most Nikšić: The Majestic Emperor's Stone Bridge",
+          "seo_keywords": [
+            "carev most",
+            "emperors bridge niksic",
+            "alexander iii montenegro",
+            "monumental stone bridges"
+          ],
+          "commons_file": "Carev Most Niksic Montenegro.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Carev_Most_Niksic_Montenegro.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Cathedral of St. Basil of Ostrog"
+          ]
+        },
+        {
+          "name": "King Nikola's Palace Nikšić",
+          "wiki_title": "Nikšić",
+          "lat": 42.775,
+          "lng": 18.9538,
+          "order_index": 3,
+          "description": "A grand royal palace housing the extensive Nikšić Local Museum collections.",
+          "seo_phrase": "King Nikola Palace Nikšić: Local History Museum Guide",
+          "seo_keywords": [
+            "king nikola palace niksic",
+            "niksic local museum",
+            "neo renaissance montenegro",
+            "royal family residences"
+          ],
+          "commons_file": "Dvorac Kralja Nikole Niksic.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Dvorac_Kralja_Nikole_Niksic.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Nikšić City Park",
+            "St. Basil of Ostrog Cathedral"
+          ]
+        },
+        {
+          "name": "Cathedral of St. Basil of Ostrog",
+          "wiki_title": "Nikšić",
+          "lat": 42.7745,
+          "lng": 18.9545,
+          "order_index": 4,
+          "description": "An imposing stone cathedral dominating the main architectural axis of Nikšić.",
+          "seo_phrase": "St. Basil of Ostrog Cathedral Nikšić: Architectural Landmark",
+          "seo_keywords": [
+            "st basil cathedral niksic",
+            "saborna crkva niksic",
+            "russian architecture montenegro",
+            "niksic landmarks"
+          ],
+          "commons_file": "Saborna crkva Svetog Vasilija Ostroskog Niksic.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Saborna_crkva_Svetog_Vasilija_Ostroskog_Niksic.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "King Nikola's Palace Nikšić",
+            "Nikšić City Park"
+          ]
+        },
+        {
+          "name": "Vukov Most (Vuk's Bridge)",
+          "wiki_title": "Nikšić",
+          "lat": 42.7602,
+          "lng": 18.9244,
+          "order_index": 5,
+          "description": "A long, beautifully preserved nineteenth-century stone masonry bridge.",
+          "seo_phrase": "Vukov Most Nikšić: Grand Multi-Arch Stone Bridge",
+          "seo_keywords": [
+            "vukov most",
+            "vuk bridge niksic",
+            "stone arch bridges montenegro",
+            "niksic historical engineering"
+          ],
+          "commons_file": "Vukov Most Niksic.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Vukov_Most_Niksic.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Bedem Fortress"
+          ]
+        },
+        {
+          "name": "Freedom Square (Trg Slobode)",
+          "wiki_title": "Nikšić",
+          "lat": 42.7752,
+          "lng": 18.9497,
+          "order_index": 6,
+          "description": "The spacious, stone-paved central pedestrian square forming the civic heart of Nikšić.",
+          "seo_phrase": "Freedom Square Nikšić: Central Open Plaza Guide",
+          "seo_keywords": [
+            "freedom square niksic",
+            "trg slobode",
+            "niksic central plaza",
+            "niksic pedestrian walking"
+          ],
+          "commons_file": "Trg Slobode Niksic.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Trg_Slobode_Niksic.jpg",
+          "seo_priority": 79,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Nikšić City Park",
+            "Bedem Fortress"
+          ]
+        },
+        {
+          "name": "Hadži-Ismail Mosque",
+          "wiki_title": "Nikšić",
+          "lat": 42.7705,
+          "lng": 18.9482,
+          "order_index": 7,
+          "description": "A traditional stone mosque featuring an elegant minaret, representing Nikšić's multicultural past.",
+          "seo_phrase": "Hadži-Ismail Mosque Nikšić: Ottoman Spiritual Heritage",
+          "seo_keywords": [
+            "hadzi ismail mosque",
+            "niksic mosque",
+            "islamic landmarks continental montenegro",
+            "niksic stone architecture"
+          ],
+          "commons_file": "Hadzismailova dzamija Niksic.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Hadzismailova_dzamija_Niksic.jpg",
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Bedem Fortress"
+          ]
+        },
+        {
+          "name": "Nikšić City Park",
+          "wiki_title": "Nikšić",
+          "lat": 42.7755,
+          "lng": 18.9525,
+          "order_index": 8,
+          "description": "A beautifully laid out, historic urban park offering peaceful walking trails.",
+          "seo_phrase": "Nikšić City Park: Centrally Located Public Garden",
+          "seo_keywords": [
+            "niksic city park",
+            "gradski park niksic",
+            "niksic green spaces",
+            "urban parks montenegro"
+          ],
+          "commons_file": "Gradski Park Niksic.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Gradski_Park_Niksic.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "King Nikola's Palace Nikšić",
+            "Cathedral of St. Basil of Ostrog"
+          ]
+        },
+        {
+          "name": "Krupac Lake",
+          "wiki_title": "Krupac Lake",
+          "lat": 42.7444,
+          "lng": 18.9011,
+          "order_index": 9,
+          "description": "A scenic reservoir lake on the edge of Nikšić, popular for walks and waterfront views.",
+          "seo_phrase": "Krupac Lake Nikšić: Waterfront Park and Reservoir Guide",
+          "seo_keywords": [
+            "krupac lake niksic",
+            "niksic reservoir",
+            "krupac lake montenegro",
+            "niksic nature walks"
+          ],
+          "commons_file": "Krupac lake Niksic.jpg",
+          "seo_priority": 74,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Bedem Fortress",
+            "Nikšić City Park"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Žabljak",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Žabljak",
+      "seo": {
+        "title": "Top 10 Things to Do in Žabljak, Montenegro",
+        "description": "Discover 10 must-see landmarks in Žabljak, Montenegro. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Žabljak? Explore the best places to visit in Žabljak, Montenegro.",
+        "keywords": [
+          "things to do in Žabljak",
+          "Žabljak Montenegro travel guide",
+          "best places to visit in Žabljak",
+          "Žabljak landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Žabljak Town Square",
+          "wiki_title": "Žabljak",
+          "lat": 43.1554,
+          "lng": 19.1221,
+          "order_index": 0,
+          "description": "A charming alpine town center square surrounded by mountain-style architecture.",
+          "seo_phrase": "Žabljak Town Square: Gateway to Durmitor National Park",
+          "seo_keywords": [
+            "zabljak town square",
+            "durmitor gateway",
+            "highest town montenegro",
+            "alpine town plazas"
+          ],
+          "commons_file": "Zabljak Town Square.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Zabljak_Town_Square.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Black Lake (Crno Jezero)"
+          ]
+        },
+        {
+          "name": "Nikšić",
+          "wiki_title": "Nikšić",
+          "lat": 42.77777778,
+          "lng": 18.95,
+          "order_index": 1,
+          "description": "Nikšić — a notable landmark in Žabljak, Montenegro.",
+          "seo_phrase": "Nikšić",
+          "seo_keywords": [
+            "Žabljak",
+            "Montenegro",
+            "travel"
+          ],
+          "commons_file": "Nikšić.jpg/800px-Nikšić.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Nik%C5%A1i%C4%87.jpg/800px-Nik%C5%A1i%C4%87.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Golubovci",
+          "wiki_title": "Golubovci",
+          "lat": 42.33444444,
+          "lng": 19.22527778,
+          "order_index": 2,
+          "description": "Golubovci — a notable landmark in Žabljak, Montenegro.",
+          "seo_phrase": "Golubovci",
+          "seo_keywords": [
+            "Žabljak",
+            "Montenegro",
+            "travel"
+          ],
+          "commons_file": "Podgorica airport.jpg/800px-Podgorica airport.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Podgorica_airport.jpg/800px-Podgorica_airport.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Žabljak Crnojevića",
+          "wiki_title": "Žabljak Crnojevića",
+          "lat": 42.317,
+          "lng": 19.158,
+          "order_index": 3,
+          "description": "Žabljak Crnojevića — a notable landmark in Žabljak, Montenegro.",
+          "seo_phrase": "Žabljak Crnojevića",
+          "seo_keywords": [
+            "Žabljak",
+            "Montenegro",
+            "travel"
+          ],
+          "commons_file": "Zabljak 1860 c.jpg/800px-Zabljak 1860 c.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Zabljak_1860_c.jpg/800px-Zabljak_1860_c.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Siege of Shkodra",
+          "wiki_title": "Siege of Shkodra",
+          "lat": 42.0465,
+          "lng": 19.4935,
+          "order_index": 4,
+          "description": "Siege of Shkodra — a notable landmark in Žabljak, Montenegro.",
+          "seo_phrase": "Siege of Shkodra",
+          "seo_keywords": [
+            "Žabljak",
+            "Montenegro",
+            "travel"
+          ],
+          "commons_file": "\"I Turchi respinti da Scutari\" Gatteri's Etching of the Siege of Shkodra.jpg/800px-\"I Turchi respinti da Scutari\" Gatteri's Etching of the Siege of Shkodra.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/%22I_Turchi_respinti_da_Scutari%22_Gatteri%27s_Etching_of_the_Siege_of_Shkodra.jpg/800px-%22I_Turchi_respinti_da_Scutari%22_Gatteri%27s_Etching_of_the_Siege_of_Shkodra.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Shkodër",
+          "wiki_title": "Shkodër",
+          "lat": 42.06805556,
+          "lng": 19.51194444,
+          "order_index": 5,
+          "description": "Shkodër — a notable landmark in Žabljak, Montenegro.",
+          "seo_phrase": "Shkodër",
+          "seo_keywords": [
+            "Žabljak",
+            "Montenegro",
+            "travel"
+          ],
+          "commons_file": "The City and the Prokletije from the castle.jpg/800px-The City and the Prokletije from the castle.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/The_City_and_the_Prokletije_from_the_castle.jpg/800px-The_City_and_the_Prokletije_from_the_castle.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Pljevlja",
+          "wiki_title": "Pljevlja",
+          "lat": 43.35666667,
+          "lng": 19.35833333,
+          "order_index": 6,
+          "description": "Pljevlja — a notable landmark in Žabljak, Montenegro.",
+          "seo_phrase": "Pljevlja",
+          "seo_keywords": [
+            "Žabljak",
+            "Montenegro",
+            "travel"
+          ],
+          "commons_file": "Pljevlja Crkva.jpg/800px-Pljevlja Crkva.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pljevlja_Crkva.jpg/800px-Pljevlja_Crkva.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Lesendro",
+          "wiki_title": "Lesendro",
+          "lat": 42.2716,
+          "lng": 19.1197,
+          "order_index": 7,
+          "description": "Lesendro — a notable landmark in Žabljak, Montenegro.",
+          "seo_phrase": "Lesendro",
+          "seo_keywords": [
+            "Žabljak",
+            "Montenegro",
+            "travel"
+          ],
+          "commons_file": "Belgrad-BarLineCrossingSkutariLake.jpg/800px-Belgrad-BarLineCrossingSkutariLake.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Belgrad-BarLineCrossingSkutariLake.jpg/800px-Belgrad-BarLineCrossingSkutariLake.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Žabljak",
+          "wiki_title": "Žabljak",
+          "lat": 43.155011,
+          "lng": 19.120846,
+          "order_index": 8,
+          "description": "Žabljak — a notable landmark in Žabljak, Montenegro.",
+          "seo_phrase": "Žabljak",
+          "seo_keywords": [
+            "Žabljak",
+            "Montenegro",
+            "travel"
+          ],
+          "commons_file": "Žabljak, Montenegro - main square.jpg/800px-Žabljak, Montenegro - main square.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%C5%BDabljak%2C_Montenegro_-_main_square.jpg/800px-%C5%BDabljak%2C_Montenegro_-_main_square.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Rijeka Crnojevića",
+          "wiki_title": "Rijeka Crnojevića",
+          "lat": 42.35,
+          "lng": 19.03333333,
+          "order_index": 9,
+          "description": "Rijeka Crnojevića — a notable landmark in Žabljak, Montenegro.",
+          "seo_phrase": "Rijeka Crnojevića",
+          "seo_keywords": [
+            "Žabljak",
+            "Montenegro",
+            "travel"
+          ],
+          "commons_file": "Environment in and around Rijeka Crnojevića 06.jpg/800px-Environment in and around Rijeka Crnojevića 06.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Environment_in_and_around_Rijeka_Crnojevi%C4%87a_06.jpg/800px-Environment_in_and_around_Rijeka_Crnojevi%C4%87a_06.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "Montenegro Scenic Road Trip",
+    "subtitle": "Explore Montenegro beyond the cities — nature, coastlines, and scenic routes.",
+    "wiki_title": "Montenegro",
+    "hero_image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Bay_of_Kotor_Montenegro_2013.jpg",
+    "totalDays": 10,
+    "seo": {
+      "title": "Montenegro Road Trip Adventure",
+      "description": "Plan a Montenegro road trip with GPS stops and scenic routes.",
+      "intro": "Explore Montenegro beyond the cities with this adventure route.",
+      "keywords": [
+        "Montenegro road trip",
+        "Montenegro by car"
+      ]
+    },
+    "places": [
+      {
+        "name": "Black Lake (Crno Jezero)",
+        "wiki_title": "Black Lake (Montenegro",
+        "region": "Montenegro",
+        "lat": 43.1472,
+        "lng": 19.0914,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "The most famous and accessible premium glacial lake within Durmitor National Park.",
+        "seo_phrase": "Black Lake Durmitor: Ultimate Nature Guide to Crno Jezero",
+        "seo_keywords": [
+          "black lake durmitor",
+          "crno jezero montenegro",
+          "glacial lakes travel",
+          "durmitor national park nature"
+        ],
+        "commons_file": "Black Lake Durmitor Montenegro.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Black_Lake_Durmitor_Montenegro.jpg",
+        "seo_priority": 98,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Tara River Canyon Viewpoint (Ćurevac)",
+        "wiki_title": "Tara River Canyon",
+        "region": "Montenegro",
+        "lat": 43.1972,
+        "lng": 19.0888,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A breathtaking cliffside viewpoint offering unmatched panoramas down into the Tara River Canyon.",
+        "seo_phrase": "Ćurevac Viewpoint Tara Canyon: Highest Overlook Point",
+        "seo_keywords": [
+          "curevac viewpoint",
+          "tara river canyon overlook",
+          "deepest canyon europe",
+          "durmitor unesco nature"
+        ],
+        "commons_file": "Tara River Canyon Curevac Viewpoint.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Tara_River_Canyon_Curevac_Viewpoint.jpg",
+        "seo_priority": 95,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Nevidio Canyon Exploration",
+        "wiki_title": "Nevidio Canyon",
+        "region": "Montenegro",
+        "lat": 42.9881,
+        "lng": 19.0682,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A thrilling and narrow canyon gorge requiring a certified local guide for safe navigation.",
+        "seo_phrase": "Nevidio Canyon Canyoning: Guide to Europe's Narrowest Gorge",
+        "seo_keywords": [
+          "nevidio canyon",
+          "canyoning montenegro",
+          "narrowest gorge europe",
+          "durmitor extreme nature"
+        ],
+        "commons_file": "Nevidio Canyon Montenegro.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Nevidio_Canyon_Montenegro.jpg",
+        "seo_priority": 91,
+        "best_season": [
+          "summer"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Mrtvica Canyon Trek",
+        "wiki_title": "Mrtvica (river",
+        "region": "Montenegro",
+        "lat": 42.7241,
+        "lng": 19.3492,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A spectacular canyon path featuring rock tunnels and historic stone arch bridges.",
+        "seo_phrase": "Mrtvica Canyon Trail Guide: Danilov Most and Wish Gate",
+        "seo_keywords": [
+          "mrtvica canyon",
+          "danilov most bridge",
+          "gate of wishes mrtvica",
+          "cliff carved trails montenegro"
+        ],
+        "commons_file": "Mrtvica Canyon Montenegro.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Mrtvica_Canyon_Montenegro.jpg",
+        "seo_priority": 89,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Bobotov Kuk Summit Ascent",
+        "wiki_title": "Bobotov Kuk",
+        "region": "Montenegro",
+        "lat": 43.1281,
+        "lng": 19.0345,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "The majestic, high-altitude peak of the Durmitor mountain massif.",
+        "seo_phrase": "Bobotov Kuk Hiking Guide: Scaling Durmitor's Highest Peak",
+        "seo_keywords": [
+          "bobotov kuk",
+          "durmitor highest peak",
+          "mountaineering montenegro",
+          "high altitude karst routes"
+        ],
+        "commons_file": "Bobotov Kuk Summit Durmitor.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bobotov_Kuk_Summit_Durmitor.jpg",
+        "seo_priority": 90,
+        "best_season": [
+          "summer"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Lipa Cave (Lipska Pećina)",
+        "wiki_title": "Lipa Cave",
+        "region": "Montenegro",
+        "lat": 42.3664,
+        "lng": 18.9531,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "An expansive subterranean network of karst galleries filled with ancient rock formations.",
+        "seo_phrase": "Lipa Cave Cetinje: Subterranean Karst Wonders Guide",
+        "seo_keywords": [
+          "lipa cave",
+          "lipska pecina",
+          "montenegro karst caverns",
+          "cetinje tourist attractions"
+        ],
+        "commons_file": "Lipska Pecina Lipa Cave Montenegro.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lipska_Pecina_Lipa_Cave_Montenegro.jpg",
+        "seo_priority": 94,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Pavlova Strana (Skadar Lake Viewpoint)",
+        "wiki_title": "Lake Skadar",
+        "region": "Montenegro",
+        "lat": 42.3623,
+        "lng": 19.0559,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A world-famous panoramic overlook of a dramatic horseshoe bend in the river feeding Skadar Lake.",
+        "seo_phrase": "Pavlova Strana Viewpoint: Famous Skadar Lake River Bend",
+        "seo_keywords": [
+          "pavlova strana",
+          "skadar lake viewpoint",
+          "rijeka crnojevica horseshoe",
+          "montenegro panoramic lookouts"
+        ],
+        "commons_file": "Pavlova Strana Skadar Lake Montenegro.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Pavlova_Strana_Skadar_Lake_Montenegro.jpg",
+        "seo_priority": 97,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Krupac Lake Scenic Park (Nikšić)",
+        "wiki_title": "Nikšić",
+        "region": "Montenegro",
+        "lat": 42.7952,
+        "lng": 18.8941,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A large, accessible lake park featuring wide stone walking paths and shady poplar groves.",
+        "seo_phrase": "Krupac Lake Nikšić: Waterfront Recreation and Poplar Parks",
+        "seo_keywords": [
+          "krupac lake niksic",
+          "krupac dam park",
+          "niksic nature spots",
+          "continental lake parks montenegro"
+        ],
+        "commons_file": "Krupac Lake Niksic.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Krupac_Lake_Niksic.jpg",
+        "seo_priority": 83,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Blue Palace",
+        "wiki_title": "Blue Palace",
+        "region": "Montenegro",
+        "lat": 42.38583333,
+        "lng": 18.92638889,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Blue Palace — a must-see landmark on a Montenegro road trip.",
+        "seo_phrase": "Blue Palace",
+        "seo_keywords": [
+          "Blue Palace",
+          "Montenegro",
+          "road trip"
+        ],
+        "commons_file": "Blue palace.jpg/800px-Blue palace.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Blue_palace.jpg/800px-Blue_palace.jpg",
+        "seo_priority": 90,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Cetinje Royal Palace",
+        "wiki_title": "Cetinje Royal Palace",
+        "region": "Montenegro",
+        "lat": 42.3875,
+        "lng": 18.92444444,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Cetinje Royal Palace — a must-see landmark on a Montenegro road trip.",
+        "seo_phrase": "Cetinje Royal Palace",
+        "seo_keywords": [
+          "Cetinje Royal Palace",
+          "Montenegro",
+          "road trip"
+        ],
+        "commons_file": "King Nikola's Palace in Cetinje.jpg/800px-King Nikola's Palace in Cetinje.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/King_Nikola%27s_Palace_in_Cetinje.jpg/800px-King_Nikola%27s_Palace_in_Cetinje.jpg",
+        "seo_priority": 89,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      }
+    ]
+  }
+}

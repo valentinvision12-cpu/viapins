@@ -1,0 +1,4003 @@
+{
+  "version": 2,
+  "country": "Cyprus",
+  "published": true,
+  "cities": [
+    {
+      "city": "Nicosia",
+      "tags": [
+        "spring",
+        "autumn",
+        "religious",
+        "culture",
+        "history"
+      ],
+      "wiki_title": "Nicosia",
+      "seo": {
+        "title": "Nicosia travel guide: top things to do in the divided capital of Cyprus",
+        "description": "Explore Nicosia’s old walls, museums, bazaars, and historic streets with a practical guide for culture-focused trips.",
+        "intro": "Nicosia is Cyprus’s capital, where medieval streets, museums, and a living border create a distinctive city break.",
+        "keywords": [
+          "best things to do in Nicosia Cyprus",
+          "what to see in Nicosia old town",
+          "Nicosia museums and historic sites",
+          "walkable attractions in Nicosia",
+          "Nicosia travel guide for culture lovers"
+        ]
+      },
+      "places": [
+        {
+          "name": "Ledra Street",
+          "wiki_title": "Ledra Street, Nicosia",
+          "lat": 35.1729,
+          "lng": 33.3636,
+          "order_index": 0,
+          "description": "The city’s most walkable commercial spine connects old-town lanes, border checkpoints, and a busy café scene that changes pace by the hour.",
+          "seo_phrase": "Ledra Street in Nicosia, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Nicosia",
+            "Ledra Street",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Büyük Han",
+            "Selimiye Mosque"
+          ]
+        },
+        {
+          "name": "Büyük Han",
+          "wiki_title": "Buyuk Han Nicosia",
+          "lat": 35.1746,
+          "lng": 33.3652,
+          "order_index": 1,
+          "description": "The island’s best-known caravanserai pairs Ottoman architecture with artisan stalls, shaded courtyards, and a strong sense of place.",
+          "seo_phrase": "Büyük Han in Nicosia, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Nicosia",
+            "Büyük Han",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Ledra Street",
+            "Selimiye Mosque",
+            "Cyprus Museum"
+          ]
+        },
+        {
+          "name": "Selimiye Mosque",
+          "wiki_title": "Selimiye Mosque Nicosia",
+          "lat": 35.1772,
+          "lng": 33.3609,
+          "order_index": 2,
+          "description": "Once a cathedral and later a mosque, this landmark shows the city’s layered religious history in a single, unforgettable silhouette.",
+          "seo_phrase": "Selimiye Mosque in Nicosia, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Nicosia",
+            "Selimiye Mosque",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Ledra Street",
+            "Büyük Han",
+            "Cyprus Museum"
+          ]
+        },
+        {
+          "name": "Cyprus Museum",
+          "wiki_title": "Cyprus Museum Nicosia",
+          "lat": 35.1723,
+          "lng": 33.365,
+          "order_index": 3,
+          "description": "The country’s main archaeological museum is the strongest stop for understanding Cyprus before and after the classical era.",
+          "seo_phrase": "Cyprus Museum in Nicosia, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Nicosia",
+            "Cyprus Museum",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Büyük Han",
+            "Selimiye Mosque",
+            "Famagusta Gate"
+          ]
+        },
+        {
+          "name": "Famagusta Gate",
+          "wiki_title": "Famagusta Gate Nicosia",
+          "lat": 35.1696,
+          "lng": 33.3783,
+          "order_index": 4,
+          "description": "This city gate is a compact reminder of the Venetian fortifications that once wrapped the capital in defensive stone walls.",
+          "seo_phrase": "Famagusta Gate in Nicosia, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Nicosia",
+            "Famagusta Gate",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Selimiye Mosque",
+            "Cyprus Museum",
+            "Shacolas Tower Museum and Observatory"
+          ]
+        },
+        {
+          "name": "Shacolas Tower Museum and Observatory",
+          "wiki_title": "Shacolas Tower Nicosia",
+          "lat": 35.173,
+          "lng": 33.362,
+          "order_index": 5,
+          "description": "The tower’s viewing deck is a practical way to read the split city from above and orient yourself before exploring on foot.",
+          "seo_phrase": "Shacolas Tower Museum and Observatory in Nicosia, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Nicosia",
+            "Shacolas Tower Museum and Observatory",
+            "Cyprus",
+            "photography_spots",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Cyprus Museum",
+            "Famagusta Gate",
+            "Leventis Municipal Museum"
+          ]
+        },
+        {
+          "name": "Leventis Municipal Museum",
+          "wiki_title": "Leventis Municipal Museum",
+          "lat": 35.174,
+          "lng": 33.3655,
+          "order_index": 6,
+          "description": "This museum traces the social and urban evolution of Nicosia through maps, objects, and everyday stories rather than grand spectacle.",
+          "seo_phrase": "Leventis Municipal Museum in Nicosia, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Nicosia",
+            "Leventis Municipal Museum",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Famagusta Gate",
+            "Shacolas Tower Museum and Observatory",
+            "Venetian Walls"
+          ]
+        },
+        {
+          "name": "Venetian Walls",
+          "wiki_title": "Venetian Walls Nicosia",
+          "lat": 35.171,
+          "lng": 33.367,
+          "order_index": 7,
+          "description": "The ramparts form the capital’s strongest historic outline and are ideal for travelers who like city heritage at street level.",
+          "seo_phrase": "Venetian Walls in Nicosia, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Nicosia",
+            "Venetian Walls",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Shacolas Tower Museum and Observatory",
+            "Leventis Municipal Museum",
+            "Ömeriye Mosque"
+          ]
+        },
+        {
+          "name": "Ömeriye Mosque",
+          "wiki_title": "Omeriye Mosque Nicosia",
+          "lat": 35.1718,
+          "lng": 33.364,
+          "order_index": 8,
+          "description": "Set inside the old town, this restored mosque adds another layer to the city’s cross-cultural medieval landscape.",
+          "seo_phrase": "Ömeriye Mosque in Nicosia, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Nicosia",
+            "Ömeriye Mosque",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Leventis Municipal Museum",
+            "Venetian Walls",
+            "Archbishop's Palace"
+          ]
+        },
+        {
+          "name": "Archbishop's Palace",
+          "wiki_title": "Archbishops Palace Nicosia",
+          "lat": 35.1742,
+          "lng": 33.3658,
+          "order_index": 9,
+          "description": "The ecclesiastical center of the capital combines formal architecture with an important civic and religious role.",
+          "seo_phrase": "Archbishop's Palace in Nicosia, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Nicosia",
+            "Archbishop's Palace",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Venetian Walls",
+            "Ömeriye Mosque"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Limassol",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "history",
+        "culture",
+        "nature"
+      ],
+      "wiki_title": "Limassol",
+      "seo": {
+        "title": "Limassol travel guide: beaches, castles, marina and ancient sites",
+        "description": "Plan a Limassol city break with castles, seaside promenades, archaeology, and family-friendly attractions.",
+        "intro": "Limassol mixes a modern waterfront with archaeological landmarks, making it one of Cyprus’s most versatile coastal cities.",
+        "keywords": [
+          "best things to do in Limassol Cyprus",
+          "Limassol marina and old town attractions",
+          "where to visit in Limassol for beaches",
+          "Limassol archaeology and castle guide",
+          "family attractions in Limassol Cyprus"
+        ]
+      },
+      "places": [
+        {
+          "name": "Limassol Castle",
+          "wiki_title": "Limassol Castle",
+          "lat": 34.6741,
+          "lng": 33.0437,
+          "order_index": 0,
+          "description": "The castle is the city’s most recognizable historic landmark and a straightforward anchor for an old-town walking route.",
+          "seo_phrase": "Limassol Castle in Limassol, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Limassol",
+            "Limassol Castle",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Limassol Marina",
+            "Molos Promenade"
+          ]
+        },
+        {
+          "name": "Limassol Marina",
+          "wiki_title": "Limassol Marina",
+          "lat": 34.6726,
+          "lng": 33.045,
+          "order_index": 1,
+          "description": "A polished waterfront district that mixes dining, strolling, and boat watching with modern city energy.",
+          "seo_phrase": "Limassol Marina in Limassol, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Limassol",
+            "Limassol Marina",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Limassol Castle",
+            "Molos Promenade",
+            "Kourion"
+          ]
+        },
+        {
+          "name": "Molos Promenade",
+          "wiki_title": "Molos Promenade Limassol",
+          "lat": 34.6794,
+          "lng": 33.0518,
+          "order_index": 2,
+          "description": "The waterfront park and promenade provide one of the easiest seaside walks in Cyprus, especially at sunset.",
+          "seo_phrase": "Molos Promenade in Limassol, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Limassol",
+            "Molos Promenade",
+            "Cyprus",
+            "photography_spots",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Limassol Castle",
+            "Limassol Marina",
+            "Kourion"
+          ],
+          "maps_query": "Molos Limassol promenade, Cyprus"
+        },
+        {
+          "name": "Kourion",
+          "wiki_title": "Kourion Amphitheatre",
+          "lat": 34.6595,
+          "lng": 32.889,
+          "order_index": 3,
+          "description": "Ancient Kourion combines theater ruins, mosaic floors, and wide sea views into one of the island’s most rewarding archaeological visits.",
+          "seo_phrase": "Kourion in Limassol, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Limassol",
+            "Kourion",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Limassol Marina",
+            "Molos Promenade",
+            "Kolossi Castle"
+          ]
+        },
+        {
+          "name": "Kolossi Castle",
+          "wiki_title": "Kolossi Castle",
+          "lat": 34.6674,
+          "lng": 32.9334,
+          "order_index": 4,
+          "description": "This compact crusader castle is a strong stop for travelers interested in military history, sugar production, and fortress design.",
+          "seo_phrase": "Kolossi Castle in Limassol, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Limassol",
+            "Kolossi Castle",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Molos Promenade",
+            "Kourion",
+            "Ancient Amathus"
+          ]
+        },
+        {
+          "name": "Ancient Amathus",
+          "wiki_title": "Ancient Amathus",
+          "lat": 34.7065,
+          "lng": 33.143,
+          "order_index": 5,
+          "description": "The scattered remains of Amathus reward slow exploration and appeal to visitors who prefer open archaeological landscapes.",
+          "seo_phrase": "Ancient Amathus in Limassol, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Limassol",
+            "Ancient Amathus",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kourion",
+            "Kolossi Castle",
+            "Fasouri Watermania"
+          ]
+        },
+        {
+          "name": "Fasouri Watermania",
+          "wiki_title": "Fasouri Watermania",
+          "lat": 34.674,
+          "lng": 32.9592,
+          "order_index": 6,
+          "description": "This water park is the easiest family-focused break from heritage sightseeing and works especially well in hot weather.",
+          "seo_phrase": "Fasouri Watermania in Limassol, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Limassol",
+            "Fasouri Watermania",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kolossi Castle",
+            "Ancient Amathus",
+            "Cyprus Wine Museum"
+          ]
+        },
+        {
+          "name": "Cyprus Wine Museum",
+          "wiki_title": "Cyprus Wine Museum",
+          "lat": 34.727,
+          "lng": 32.945,
+          "order_index": 7,
+          "description": "A compact stop that ties local wine culture to the island’s long agricultural and trade history.",
+          "seo_phrase": "Cyprus Wine Museum in Limassol, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Limassol",
+            "Cyprus Wine Museum",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Ancient Amathus",
+            "Fasouri Watermania",
+            "Limassol Archaeological Museum"
+          ]
+        },
+        {
+          "name": "Limassol Archaeological Museum",
+          "wiki_title": "Limassol Archaeological Museum",
+          "lat": 34.6894,
+          "lng": 33.046,
+          "order_index": 8,
+          "description": "A smaller museum that fills in regional context for the city’s ancient settlements and material culture.",
+          "seo_phrase": "Limassol Archaeological Museum in Limassol, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Limassol",
+            "Limassol Archaeological Museum",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Fasouri Watermania",
+            "Cyprus Wine Museum",
+            "Dasoudi Beach"
+          ]
+        },
+        {
+          "name": "Dasoudi Beach",
+          "wiki_title": "Dasoudi Beach",
+          "lat": 34.6927,
+          "lng": 33.0597,
+          "order_index": 9,
+          "description": "This urban beach offers a straightforward swim-and-walk option without leaving the city grid behind.",
+          "seo_phrase": "Dasoudi Beach in Limassol, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Limassol",
+            "Dasoudi Beach",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Cyprus Wine Museum",
+            "Limassol Archaeological Museum"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Larnaca",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "religious",
+        "nature",
+        "history"
+      ],
+      "wiki_title": "Larnaca",
+      "seo": {
+        "title": "Larnaca travel guide: salt lakes, beaches, churches and waterfront sights",
+        "description": "Discover Larnaca’s coastal charm with religious landmarks, beach time, and easy day trips around the bay.",
+        "intro": "Larnaca is a relaxed seaside city with a strong heritage core, known for its churches, salt lake, and easygoing beaches.",
+        "keywords": [
+          "best things to do in Larnaca Cyprus",
+          "Larnaca salt lake and beach guide",
+          "historic sites in Larnaca old town",
+          "where to stay in Larnaca for sightseeing",
+          "Larnaca waterfront attractions"
+        ]
+      },
+      "places": [
+        {
+          "name": "Church of Saint Lazarus",
+          "wiki_title": "Church of Saint Lazarus Larnaca",
+          "lat": 34.9116,
+          "lng": 33.6208,
+          "order_index": 0,
+          "description": "The church is the city’s signature sacred monument and one of the easiest places to understand Larnaca’s identity.",
+          "seo_phrase": "Church of Saint Lazarus in Larnaca, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Larnaca",
+            "Church of Saint Lazarus",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Finikoudes Beach",
+            "Hala Sultan Tekke"
+          ]
+        },
+        {
+          "name": "Finikoudes Beach",
+          "wiki_title": "Finikoudes Beach Larnaca",
+          "lat": 34.9146,
+          "lng": 33.636,
+          "order_index": 1,
+          "description": "A classic city beach with palm trees, cafés, and a simple seafront rhythm that suits relaxed holiday days.",
+          "seo_phrase": "Finikoudes Beach in Larnaca, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Larnaca",
+            "Finikoudes Beach",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church of Saint Lazarus",
+            "Hala Sultan Tekke",
+            "Larnaca Salt Lake"
+          ]
+        },
+        {
+          "name": "Hala Sultan Tekke",
+          "wiki_title": "Hala Sultan Tekke",
+          "lat": 34.8678,
+          "lng": 33.6178,
+          "order_index": 2,
+          "description": "This mosque beside the salt lake combines religious significance with a memorable natural setting and open horizons.",
+          "seo_phrase": "Hala Sultan Tekke in Larnaca, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Larnaca",
+            "Hala Sultan Tekke",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church of Saint Lazarus",
+            "Finikoudes Beach",
+            "Larnaca Salt Lake"
+          ]
+        },
+        {
+          "name": "Larnaca Salt Lake",
+          "wiki_title": "Larnaca Salt Lake",
+          "lat": 34.888,
+          "lng": 33.59,
+          "order_index": 3,
+          "description": "The salt lake is one of the city’s best seasonal nature scenes, especially when flamingos return in the cooler months.",
+          "seo_phrase": "Larnaca Salt Lake in Larnaca, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Larnaca",
+            "Larnaca Salt Lake",
+            "Cyprus",
+            "photography_spots",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Finikoudes Beach",
+            "Hala Sultan Tekke",
+            "Larnaca Medieval Castle"
+          ]
+        },
+        {
+          "name": "Larnaca Medieval Castle",
+          "wiki_title": "Larnaca Medieval Castle",
+          "lat": 34.9131,
+          "lng": 33.6331,
+          "order_index": 4,
+          "description": "A compact fortress at the water’s edge that works well as part of a short harbor-and-beach itinerary.",
+          "seo_phrase": "Larnaca Medieval Castle in Larnaca, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Larnaca",
+            "Larnaca Medieval Castle",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Hala Sultan Tekke",
+            "Larnaca Salt Lake",
+            "Kamares Aqueduct"
+          ]
+        },
+        {
+          "name": "Kamares Aqueduct",
+          "wiki_title": "Kamares Aqueduct Larnaca",
+          "lat": 34.9276,
+          "lng": 33.6282,
+          "order_index": 5,
+          "description": "This elegant aqueduct offers a strong visual contrast with the modern city and is best appreciated in calm light.",
+          "seo_phrase": "Kamares Aqueduct in Larnaca, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Larnaca",
+            "Kamares Aqueduct",
+            "Cyprus",
+            "photography_spots",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Larnaca Salt Lake",
+            "Larnaca Medieval Castle",
+            "Mackenzie Beach"
+          ]
+        },
+        {
+          "name": "Mackenzie Beach",
+          "wiki_title": "Mackenzie Beach Larnaca",
+          "lat": 34.8936,
+          "lng": 33.6362,
+          "order_index": 6,
+          "description": "Popular for swimming, dining, and aircraft spotting, this beach has a lively but still approachable coastal atmosphere.",
+          "seo_phrase": "Mackenzie Beach in Larnaca, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Larnaca",
+            "Mackenzie Beach",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Larnaca Medieval Castle",
+            "Kamares Aqueduct",
+            "Pierides Museum"
+          ]
+        },
+        {
+          "name": "Pierides Museum",
+          "wiki_title": "Pierides Museum",
+          "lat": 34.916,
+          "lng": 33.6354,
+          "order_index": 7,
+          "description": "A private museum with an archaeological focus that complements the city’s larger heritage sites.",
+          "seo_phrase": "Pierides Museum in Larnaca, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Larnaca",
+            "Pierides Museum",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Kamares Aqueduct",
+            "Mackenzie Beach",
+            "Larnaca Marina"
+          ]
+        },
+        {
+          "name": "Larnaca Marina",
+          "wiki_title": "Larnaca Marina",
+          "lat": 34.919,
+          "lng": 33.637,
+          "order_index": 8,
+          "description": "The marina is an easy place for a relaxed walk, especially when you want a quieter maritime edge to the city.",
+          "seo_phrase": "Larnaca Marina in Larnaca, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Larnaca",
+            "Larnaca Marina",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mackenzie Beach",
+            "Pierides Museum",
+            "Holy Church of Panagia Faneromeni"
+          ]
+        },
+        {
+          "name": "Holy Church of Panagia Faneromeni",
+          "wiki_title": "Panagia Faneromeni Larnaca",
+          "lat": 34.922,
+          "lng": 33.631,
+          "order_index": 9,
+          "description": "A graceful church stop that adds another religious and architectural layer to Larnaca’s old-town core.",
+          "seo_phrase": "Holy Church of Panagia Faneromeni in Larnaca, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Larnaca",
+            "Holy Church of Panagia Faneromeni",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Pierides Museum",
+            "Larnaca Marina"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Paphos",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "nature",
+        "history"
+      ],
+      "wiki_title": "Paphos",
+      "seo": {
+        "title": "Paphos travel guide: archaeology, seafront landmarks and Aphrodite sites",
+        "description": "Use Paphos as your base for UNESCO heritage, harbor walks, castle views, and iconic mythology-linked stops.",
+        "intro": "Paphos is one of Cyprus’s strongest heritage destinations, with ancient mosaics, harbor views, and mythic coastline.",
+        "keywords": [
+          "best things to do in Paphos Cyprus",
+          "Paphos archaeological park guide",
+          "where to see Aphrodite rock in Cyprus",
+          "Paphos harbor and castle attractions",
+          "historic sites near Paphos old town"
+        ]
+      },
+      "places": [
+        {
+          "name": "Paphos Archaeological Park",
+          "wiki_title": "Paphos Archaeological Park",
+          "lat": 34.7577,
+          "lng": 32.4137,
+          "order_index": 0,
+          "description": "The park brings together villas, mosaics, and open-air ruins, making it the most important heritage stop in the city.",
+          "seo_phrase": "Paphos Archaeological Park in Paphos, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Paphos",
+            "Paphos Archaeological Park",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Paphos Castle"
+          ]
+        },
+        {
+          "name": "Chrysopolitissa Basilica",
+          "wiki_title": "Panagia Chrysopolitissa",
+          "lat": 34.7556,
+          "lng": 32.4133,
+          "order_index": 1,
+          "description": "Early Christian basilica ruins in central Kato Paphos with mosaic floors and columns — one of the city’s most photogenic heritage sites.",
+          "seo_phrase": "Chrysopolitissa Basilica in Paphos, Cyprus",
+          "seo_keywords": [
+            "Paphos",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Paphos Archaeological Park",
+            "Paphos Castle",
+            "House of Dionysus"
+          ]
+        },
+        {
+          "name": "Paphos Castle",
+          "wiki_title": "Paphos Castle",
+          "lat": 34.7504,
+          "lng": 32.4057,
+          "order_index": 2,
+          "description": "The harbor castle gives the waterfront its strongest visual anchor and is one of the city’s easiest photo stops.",
+          "seo_phrase": "Paphos Castle in Paphos, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Paphos",
+            "Paphos Castle",
+            "Cyprus",
+            "photography_spots",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Paphos Archaeological Park",
+            "House of Dionysus"
+          ]
+        },
+        {
+          "name": "House of Dionysus",
+          "wiki_title": "House of Dionysus Paphos",
+          "lat": 34.7547,
+          "lng": 32.4128,
+          "order_index": 3,
+          "description": "This mosaic house is a highlight for visitors who like mythology, color, and close-range archaeological detail.",
+          "seo_phrase": "House of Dionysus in Paphos, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Paphos",
+            "House of Dionysus",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Paphos Castle",
+            "Saint Paul's Pillar"
+          ]
+        },
+        {
+          "name": "Saint Paul's Pillar",
+          "wiki_title": "Saint Pauls Pillar Paphos",
+          "lat": 34.754,
+          "lng": 32.413,
+          "order_index": 4,
+          "description": "A compact but meaningful pilgrimage and history stop that fits naturally into the city’s heritage circuit.",
+          "seo_phrase": "Saint Paul's Pillar in Paphos, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Paphos",
+            "Saint Paul's Pillar",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Paphos Castle",
+            "House of Dionysus",
+            "Paphos Harbour"
+          ]
+        },
+        {
+          "name": "Paphos Harbour",
+          "wiki_title": "Paphos Harbour",
+          "lat": 34.7526,
+          "lng": 32.4103,
+          "order_index": 5,
+          "description": "The harbor is where sightseeing, dining, and sea views meet in the most effortless way in Paphos.",
+          "seo_phrase": "Paphos Harbour in Paphos, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Paphos",
+            "Paphos Harbour",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "House of Dionysus",
+            "Saint Paul's Pillar",
+            "Petra tou Romiou"
+          ]
+        },
+        {
+          "name": "Petra tou Romiou",
+          "wiki_title": "Petra tou Romiou",
+          "lat": 34.665,
+          "lng": 32.62,
+          "order_index": 6,
+          "description": "This coastal landmark is one of Cyprus’s most famous scenery stops and is strongly associated with Aphrodite mythology.",
+          "seo_phrase": "Petra tou Romiou in Paphos, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Paphos",
+            "Petra tou Romiou",
+            "Cyprus",
+            "photography_spots",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Saint Paul's Pillar",
+            "Paphos Harbour"
+          ]
+        },
+        {
+          "name": "Paphos Lighthouse",
+          "wiki_title": "Paphos Lighthouse",
+          "lat": 34.7458,
+          "lng": 32.4025,
+          "order_index": 7,
+          "description": "The lighthouse at Paphos harbour marks the edge of the waterfront with open sea views — a simple but memorable coastal photo stop.",
+          "seo_phrase": "Paphos Lighthouse in Paphos, Cyprus",
+          "seo_keywords": [
+            "Paphos",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Paphos Harbour",
+            "Petra tou Romiou",
+            "Paphos Mosaics"
+          ]
+        },
+        {
+          "name": "Paphos Mosaics",
+          "wiki_title": "Paphos Mosaics",
+          "lat": 34.7549,
+          "lng": 32.413,
+          "order_index": 8,
+          "description": "These mosaics are among the most visually impressive in Cyprus and remain a key reason the city draws heritage travelers.",
+          "seo_phrase": "Paphos Mosaics in Paphos, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Paphos",
+            "Paphos Mosaics",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Petra tou Romiou",
+            "Paphos Aphrodite Waterpark"
+          ]
+        },
+        {
+          "name": "Paphos Aphrodite Waterpark",
+          "wiki_title": "Paphos Aphrodite Waterpark",
+          "lat": 34.7618,
+          "lng": 32.448,
+          "order_index": 9,
+          "description": "A practical family-friendly option when you want a break from ruins, stones, and museum-heavy days.",
+          "seo_phrase": "Paphos Aphrodite Waterpark in Paphos, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Paphos",
+            "Paphos Aphrodite Waterpark",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Paphos Mosaics"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Ayia Napa",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "nature",
+        "religious",
+        "culture"
+      ],
+      "wiki_title": "Ayia Napa",
+      "seo": {
+        "title": "Ayia Napa travel guide: beaches, culture, nightlife and coastal views",
+        "description": "Find the best beaches, monuments, and sea-view spots in Ayia Napa, plus easy ways to plan a summer trip.",
+        "intro": "Ayia Napa is famous for beaches and nightlife, but it also offers monasteries, sculptures, and coastal scenery.",
+        "keywords": [
+          "best things to do in Ayia Napa Cyprus",
+          "Ayia Napa beach and monastery guide",
+          "Cape Greco day trip from Ayia Napa",
+          "family attractions in Ayia Napa",
+          "top places for sunset in Ayia Napa"
+        ]
+      },
+      "places": [
+        {
+          "name": "Nissi Beach",
+          "wiki_title": "Nissi Beach",
+          "lat": 34.985,
+          "lng": 33.966,
+          "order_index": 0,
+          "description": "A signature beach stop with clear water and a shallow lagoon feel that makes it one of Cyprus’s most visited shoreline scenes.",
+          "seo_phrase": "Nissi Beach in Ayia Napa, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Ayia Napa",
+            "Nissi Beach",
+            "Cyprus",
+            "photography_spots",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Ayia Napa Monastery",
+            "Cape Greco National Forest Park"
+          ]
+        },
+        {
+          "name": "Ayia Napa Monastery",
+          "wiki_title": "Ayia Napa Monastery",
+          "lat": 34.9881,
+          "lng": 33.9993,
+          "order_index": 1,
+          "description": "The monastery gives the resort town its historic core and offers a quieter counterpoint to the beach strip.",
+          "seo_phrase": "Ayia Napa Monastery in Ayia Napa, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Ayia Napa",
+            "Ayia Napa Monastery",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Nissi Beach",
+            "Cape Greco National Forest Park",
+            "Love Bridge"
+          ]
+        },
+        {
+          "name": "Cape Greco National Forest Park",
+          "wiki_title": "Cape Greco National Forest Park",
+          "lat": 34.967,
+          "lng": 34.067,
+          "order_index": 2,
+          "description": "Cape Greco is the best nearby choice for cliffs, trails, sea caves, and panoramic coastal walking.",
+          "seo_phrase": "Cape Greco National Forest Park in Ayia Napa, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Ayia Napa",
+            "Cape Greco National Forest Park",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Nissi Beach",
+            "Ayia Napa Monastery",
+            "Love Bridge"
+          ]
+        },
+        {
+          "name": "Love Bridge",
+          "wiki_title": "Love Bridge Ayia Napa",
+          "lat": 34.9824,
+          "lng": 34.0055,
+          "order_index": 3,
+          "description": "This natural rock formation is a classic short-stop photo spot and one of the easier places to catch sea color and light.",
+          "seo_phrase": "Love Bridge in Ayia Napa, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Ayia Napa",
+            "Love Bridge",
+            "Cyprus",
+            "photography_spots",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Ayia Napa Monastery",
+            "Cape Greco National Forest Park",
+            "Sea Caves"
+          ]
+        },
+        {
+          "name": "Sea Caves",
+          "wiki_title": "Sea Caves Ayia Napa",
+          "lat": 34.989,
+          "lng": 34.05,
+          "order_index": 4,
+          "description": "The cliffs and caves are especially appealing for travelers who want raw coastal scenery beyond the resort center.",
+          "seo_phrase": "Sea Caves in Ayia Napa, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Ayia Napa",
+            "Sea Caves",
+            "Cyprus",
+            "photography_spots",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Cape Greco National Forest Park",
+            "Love Bridge",
+            "Agia Napa Sculpture Park"
+          ]
+        },
+        {
+          "name": "Agia Napa Sculpture Park",
+          "wiki_title": "Agia Napa Sculpture Park",
+          "lat": 34.986,
+          "lng": 34.006,
+          "order_index": 5,
+          "description": "An open-air art stop that adds modern visual interest to an area otherwise known mostly for beaches.",
+          "seo_phrase": "Agia Napa Sculpture Park in Ayia Napa, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Ayia Napa",
+            "Agia Napa Sculpture Park",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Love Bridge",
+            "Sea Caves",
+            "Makronissos Beach"
+          ]
+        },
+        {
+          "name": "Makronissos Beach",
+          "wiki_title": "Makronissos Beach",
+          "lat": 34.9844,
+          "lng": 33.9753,
+          "order_index": 6,
+          "description": "This beach is a good fit for visitors who want wide sand, bright water, and an easy resort-day pace.",
+          "seo_phrase": "Makronissos Beach in Ayia Napa, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Ayia Napa",
+            "Makronissos Beach",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Sea Caves",
+            "Agia Napa Sculpture Park",
+            "Thalassa Municipal Museum"
+          ]
+        },
+        {
+          "name": "Thalassa Municipal Museum",
+          "wiki_title": "Thalassa Museum Ayia Napa",
+          "lat": 34.9887,
+          "lng": 33.999,
+          "order_index": 7,
+          "description": "A useful museum stop for understanding the sea-based identity of the town and the surrounding coast.",
+          "seo_phrase": "Thalassa Municipal Museum in Ayia Napa, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Ayia Napa",
+            "Thalassa Municipal Museum",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Agia Napa Sculpture Park",
+            "Makronissos Beach",
+            "Parko Paliatso Luna Park"
+          ]
+        },
+        {
+          "name": "Parko Paliatso Luna Park",
+          "wiki_title": "Parko Paliatso",
+          "lat": 34.9894,
+          "lng": 33.9985,
+          "order_index": 8,
+          "description": "The amusement park adds a simple night-time and family option inside a town usually marketed for the beach scene.",
+          "seo_phrase": "Parko Paliatso Luna Park in Ayia Napa, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Ayia Napa",
+            "Parko Paliatso Luna Park",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Makronissos Beach",
+            "Thalassa Municipal Museum",
+            "Landa Beach"
+          ]
+        },
+        {
+          "name": "Landa Beach",
+          "wiki_title": "Landa Beach",
+          "lat": 34.987,
+          "lng": 33.9775,
+          "order_index": 9,
+          "description": "A quieter sand-and-swim option that works well when you want the same coast with less intensity than the busiest beaches.",
+          "seo_phrase": "Landa Beach in Ayia Napa, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Ayia Napa",
+            "Landa Beach",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Thalassa Municipal Museum",
+            "Parko Paliatso Luna Park"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Paralimni",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "nature",
+        "religious"
+      ],
+      "wiki_title": "Paralimni",
+      "seo": {
+        "title": "Paralimni travel guide: local culture, churches and beach access",
+        "description": "Plan a quieter Cyprus stay based in Paralimni with churches, nearby bays, and easy access to eastern beaches.",
+        "intro": "Paralimni is a practical base near the east coast’s top beaches, with local character and straightforward sightseeing.",
+        "keywords": [
+          "best things to do in Paralimni Cyprus",
+          "where to stay near Protaras and Paralimni",
+          "Paralimni old town guide",
+          "quiet base in eastern Cyprus",
+          "things to do around Paralimni beaches"
+        ]
+      },
+      "places": [
+        {
+          "name": "Paralimni Lake",
+          "wiki_title": "Paralimni Lake",
+          "lat": 35.0312,
+          "lng": 33.9902,
+          "order_index": 0,
+          "description": "The seasonal wetland adds a natural break from the resort coastline and is strongest when birdlife is active.",
+          "seo_phrase": "Paralimni Lake in Paralimni, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Paralimni",
+            "Paralimni Lake",
+            "Cyprus",
+            "photography_spots",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church of Saint George",
+            "Town Hall Square"
+          ]
+        },
+        {
+          "name": "Church of Saint George",
+          "wiki_title": "Church of Saint George Paralimni",
+          "lat": 35.0349,
+          "lng": 33.9835,
+          "order_index": 1,
+          "description": "One of the town’s main religious landmarks, well suited to a short cultural stop inside the urban core.",
+          "seo_phrase": "Church of Saint George in Paralimni, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Paralimni",
+            "Church of Saint George",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Paralimni Lake",
+            "Town Hall Square",
+            "Church of the Panagia"
+          ]
+        },
+        {
+          "name": "Town Hall Square",
+          "wiki_title": "Paralimni Town Square",
+          "lat": 35.0371,
+          "lng": 33.981,
+          "order_index": 2,
+          "description": "The square gives you a quick feel for local life beyond the tourist strips near the coast.",
+          "seo_phrase": "Town Hall Square in Paralimni, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Paralimni",
+            "Town Hall Square",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Paralimni Lake",
+            "Church of Saint George",
+            "Church of the Panagia"
+          ]
+        },
+        {
+          "name": "Church of the Panagia",
+          "wiki_title": "Panagia Paralimni",
+          "lat": 35.0342,
+          "lng": 33.9855,
+          "order_index": 3,
+          "description": "A traditional church stop that adds depth to the town’s modest but useful heritage circuit.",
+          "seo_phrase": "Church of the Panagia in Paralimni, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Paralimni",
+            "Church of the Panagia",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church of Saint George",
+            "Town Hall Square",
+            "Profitis Ilias Chapel"
+          ]
+        },
+        {
+          "name": "Profitis Ilias Chapel",
+          "wiki_title": "Profitis Ilias Chapel",
+          "lat": 35.0118,
+          "lng": 34.0502,
+          "order_index": 4,
+          "description": "This chapel belongs on any coastal exploration because it offers a clear viewpoint and an easy landmark for orientation.",
+          "seo_phrase": "Profitis Ilias Chapel in Paralimni, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Paralimni",
+            "Profitis Ilias Chapel",
+            "Cyprus",
+            "photography_spots",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Town Hall Square",
+            "Church of the Panagia",
+            "Ayios Dimitrios Church"
+          ]
+        },
+        {
+          "name": "Ayios Dimitrios Church",
+          "wiki_title": "Ayios Dimitrios Paralimni",
+          "lat": 35.039,
+          "lng": 33.9801,
+          "order_index": 5,
+          "description": "A smaller church stop that suits visitors who like quiet, local-scale heritage rather than major monuments.",
+          "seo_phrase": "Ayios Dimitrios Church in Paralimni, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Paralimni",
+            "Ayios Dimitrios Church",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church of the Panagia",
+            "Profitis Ilias Chapel",
+            "Green Bay Beach"
+          ]
+        },
+        {
+          "name": "Green Bay Beach",
+          "wiki_title": "Green Bay Beach",
+          "lat": 35.0228,
+          "lng": 34.0481,
+          "order_index": 6,
+          "description": "A manageable beach for swimming and snorkeling, especially attractive when you want calmer water than the main resort strip.",
+          "seo_phrase": "Green Bay Beach in Paralimni, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Paralimni",
+            "Green Bay Beach",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Profitis Ilias Chapel",
+            "Ayios Dimitrios Church",
+            "Agia Triada Beach"
+          ]
+        },
+        {
+          "name": "Agia Triada Beach",
+          "wiki_title": "Agia Triada Beach",
+          "lat": 35.0212,
+          "lng": 34.039,
+          "order_index": 7,
+          "description": "A compact bay-like stop that works well for relaxed sea time and easy access to nearby cafes.",
+          "seo_phrase": "Agia Triada Beach in Paralimni, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Paralimni",
+            "Agia Triada Beach",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Ayios Dimitrios Church",
+            "Green Bay Beach",
+            "Protaras Coastal Promenade"
+          ]
+        },
+        {
+          "name": "Protaras Coastal Promenade",
+          "wiki_title": "Protaras",
+          "lat": 35.0125,
+          "lng": 34.058,
+          "order_index": 8,
+          "description": "The promenade is ideal for slow walks, short runs, and easy restaurant access after a beach day.",
+          "seo_phrase": "Protaras Coastal Promenade in Paralimni, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Paralimni",
+            "Protaras Coastal Promenade",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Green Bay Beach",
+            "Agia Triada Beach",
+            "Cape Greco access point"
+          ],
+          "maps_query": "Protaras Fig Tree Bay promenade, Paralimni, Cyprus"
+        },
+        {
+          "name": "Cape Greco access point",
+          "wiki_title": "Cape Greco access",
+          "lat": 34.9965,
+          "lng": 34.0672,
+          "order_index": 9,
+          "description": "This eastern access area lets you move quickly from Paralimni toward trails, cliffs, and sea views.",
+          "seo_phrase": "Cape Greco access point in Paralimni, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Paralimni",
+            "Cape Greco access point",
+            "Cyprus",
+            "how_to_visit",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Agia Triada Beach",
+            "Protaras Coastal Promenade"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Kyrenia",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "history",
+        "religious",
+        "nature"
+      ],
+      "wiki_title": "Kyrenia",
+      "seo": {
+        "title": "Kyrenia travel guide: harbor views, castles and mountain history",
+        "description": "Explore Kyrenia’s harbor, medieval castles, abbey, and scenic foothills with a practical travel guide.",
+        "intro": "Kyrenia is one of the island’s most photogenic coastal towns, framed by a harbor, a castle, and green hills.",
+        "keywords": [
+          "best things to do in Kyrenia Cyprus",
+          "Kyrenia harbor and castle guide",
+          "day trip to Bellapais Abbey from Kyrenia",
+          "scenic places near Kyrenia",
+          "Kyrenia old town attractions"
+        ]
+      },
+      "places": [
+        {
+          "name": "Kyrenia Castle",
+          "wiki_title": "Kyrenia Castle",
+          "lat": 35.3427,
+          "lng": 33.3214,
+          "order_index": 0,
+          "description": "The castle dominates the harbor approach and is the single best place to understand the town’s defensive history.",
+          "seo_phrase": "Kyrenia Castle in Kyrenia, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Kyrenia",
+            "Kyrenia Castle",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kyrenia Harbour",
+            "Bellapais Abbey"
+          ]
+        },
+        {
+          "name": "Kyrenia Harbour",
+          "wiki_title": "Kyrenia Harbour",
+          "lat": 35.3386,
+          "lng": 33.3177,
+          "order_index": 1,
+          "description": "The harbor is the town’s postcard view, with boats, stone buildings, and evening light shaping the experience.",
+          "seo_phrase": "Kyrenia Harbour in Kyrenia, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Kyrenia",
+            "Kyrenia Harbour",
+            "Cyprus",
+            "photography_spots",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kyrenia Castle",
+            "Bellapais Abbey",
+            "St Hilarion Castle"
+          ]
+        },
+        {
+          "name": "Bellapais Abbey",
+          "wiki_title": "Bellapais Abbey",
+          "lat": 35.2283,
+          "lng": 33.3534,
+          "order_index": 2,
+          "description": "Bellapais is one of Cyprus’s most memorable monastery ruins and pairs Gothic architecture with hillside views.",
+          "seo_phrase": "Bellapais Abbey in Kyrenia, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Kyrenia",
+            "Bellapais Abbey",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kyrenia Castle",
+            "Kyrenia Harbour",
+            "St Hilarion Castle"
+          ]
+        },
+        {
+          "name": "St Hilarion Castle",
+          "wiki_title": "St Hilarion Castle",
+          "lat": 35.3263,
+          "lng": 33.2874,
+          "order_index": 3,
+          "description": "The castle rewards visitors who like dramatic climbs, panoramic views, and legendary fortress landscapes.",
+          "seo_phrase": "St Hilarion Castle in Kyrenia, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Kyrenia",
+            "St Hilarion Castle",
+            "Cyprus",
+            "photography_spots",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kyrenia Harbour",
+            "Bellapais Abbey",
+            "Buffavento Castle"
+          ]
+        },
+        {
+          "name": "Buffavento Castle",
+          "wiki_title": "Buffavento Castle",
+          "lat": 35.35,
+          "lng": 33.335,
+          "order_index": 4,
+          "description": "More remote than the other hilltop castles, Buffavento is a strong pick for travelers who want a rugged ascent.",
+          "seo_phrase": "Buffavento Castle in Kyrenia, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Kyrenia",
+            "Buffavento Castle",
+            "Cyprus",
+            "photography_spots",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Bellapais Abbey",
+            "St Hilarion Castle",
+            "Escape Beach"
+          ]
+        },
+        {
+          "name": "Escape Beach",
+          "wiki_title": "Escape Beach Kyrenia",
+          "lat": 35.3298,
+          "lng": 33.32,
+          "order_index": 5,
+          "description": "This beach gives Kyrenia a straightforward swim option and is a useful contrast to the city’s stone heritage.",
+          "seo_phrase": "Escape Beach in Kyrenia, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Kyrenia",
+            "Escape Beach",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St Hilarion Castle",
+            "Buffavento Castle",
+            "Five Finger Mountains"
+          ]
+        },
+        {
+          "name": "Five Finger Mountains",
+          "wiki_title": "Five Finger Mountains",
+          "lat": 35.358,
+          "lng": 33.333,
+          "order_index": 6,
+          "description": "The ridge line frames the town and creates a strong scenic backdrop for hikes and photo stops.",
+          "seo_phrase": "Five Finger Mountains in Kyrenia, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Kyrenia",
+            "Five Finger Mountains",
+            "Cyprus",
+            "photography_spots",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Buffavento Castle",
+            "Escape Beach",
+            "Kyrenia Icon Museum"
+          ]
+        },
+        {
+          "name": "Kyrenia Icon Museum",
+          "wiki_title": "Kyrenia Icon Museum",
+          "lat": 35.337,
+          "lng": 33.32,
+          "order_index": 7,
+          "description": "This museum offers a compact route into religious art and the town’s Orthodox heritage.",
+          "seo_phrase": "Kyrenia Icon Museum in Kyrenia, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Kyrenia",
+            "Kyrenia Icon Museum",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Escape Beach",
+            "Five Finger Mountains",
+            "Shipwreck Museum"
+          ]
+        },
+        {
+          "name": "Shipwreck Museum",
+          "wiki_title": "Kyrenia Shipwreck Museum",
+          "lat": 35.3429,
+          "lng": 33.3216,
+          "order_index": 8,
+          "description": "Inside the castle, the shipwreck display gives the harbor story a direct maritime angle.",
+          "seo_phrase": "Shipwreck Museum in Kyrenia, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Kyrenia",
+            "Shipwreck Museum",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Five Finger Mountains",
+            "Kyrenia Icon Museum",
+            "Alagadi Turtle Beach"
+          ],
+          "maps_query": "Kyrenia Shipwreck Museum, Kyrenia Castle, Cyprus"
+        },
+        {
+          "name": "Alagadi Turtle Beach",
+          "wiki_title": "Alagadi Turtle Beach",
+          "lat": 35.306,
+          "lng": 33.371,
+          "order_index": 9,
+          "description": "A nature-forward beach stop that adds wildlife value to a Kyrenia-based trip, especially in nesting season.",
+          "seo_phrase": "Alagadi Turtle Beach in Kyrenia, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Kyrenia",
+            "Alagadi Turtle Beach",
+            "Cyprus",
+            "hidden_gems",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kyrenia Icon Museum",
+            "Shipwreck Museum"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Famagusta",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "religious",
+        "history",
+        "nature"
+      ],
+      "wiki_title": "Famagusta",
+      "seo": {
+        "title": "Famagusta travel guide: walled city, mosques, ruins and heritage sites",
+        "description": "Discover Famagusta’s medieval walls, historic monuments, and ancient ruins in one heritage-rich destination.",
+        "intro": "Famagusta is a dense historical city with major landmarks inside and around its fortified center.",
+        "keywords": [
+          "best things to do in Famagusta Cyprus",
+          "Famagusta old city walking guide",
+          "where to visit in Famagusta for history",
+          "Salamis and Famagusta day trip",
+          "medieval sites in Famagusta"
+        ]
+      },
+      "places": [
+        {
+          "name": "Lala Mustafa Pasha Mosque",
+          "wiki_title": "Lala Mustafa Pasha Mosque",
+          "lat": 35.1253,
+          "lng": 33.9412,
+          "order_index": 0,
+          "description": "Formerly a cathedral, this landmark is the most striking symbol of Famagusta’s layered medieval and Ottoman history.",
+          "seo_phrase": "Lala Mustafa Pasha Mosque in Famagusta, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Famagusta",
+            "Lala Mustafa Pasha Mosque",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Othello Castle",
+            "Salamis"
+          ]
+        },
+        {
+          "name": "Othello Castle",
+          "wiki_title": "Othello Castle",
+          "lat": 35.1188,
+          "lng": 33.9425,
+          "order_index": 1,
+          "description": "A compact fortress with literary associations and a strong place in the walled city’s defensive story.",
+          "seo_phrase": "Othello Castle in Famagusta, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Famagusta",
+            "Othello Castle",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Lala Mustafa Pasha Mosque",
+            "Salamis",
+            "St Barnabas Monastery"
+          ]
+        },
+        {
+          "name": "Salamis",
+          "wiki_title": "Salamis Cyprus",
+          "lat": 35.1619,
+          "lng": 33.9359,
+          "order_index": 2,
+          "description": "Salamis is the major ancient site near the city and one of the island’s most important archaeological landscapes.",
+          "seo_phrase": "Salamis in Famagusta, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Famagusta",
+            "Salamis",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Lala Mustafa Pasha Mosque",
+            "Othello Castle",
+            "St Barnabas Monastery"
+          ]
+        },
+        {
+          "name": "St Barnabas Monastery",
+          "wiki_title": "St Barnabas Monastery",
+          "lat": 35.1897,
+          "lng": 33.92,
+          "order_index": 3,
+          "description": "A monastery and museum stop that anchors the area’s religious heritage beyond the city walls.",
+          "seo_phrase": "St Barnabas Monastery in Famagusta, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Famagusta",
+            "St Barnabas Monastery",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Othello Castle",
+            "Salamis",
+            "Famagusta City Walls"
+          ]
+        },
+        {
+          "name": "Famagusta City Walls",
+          "wiki_title": "Famagusta Walls",
+          "lat": 35.1175,
+          "lng": 33.942,
+          "order_index": 4,
+          "description": "The fortified circuit is the best way to appreciate the city as a medieval port settlement rather than a modern resort.",
+          "seo_phrase": "Famagusta City Walls in Famagusta, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Famagusta",
+            "Famagusta City Walls",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Salamis",
+            "St Barnabas Monastery",
+            "Namik Kemal Dungeon"
+          ]
+        },
+        {
+          "name": "Namik Kemal Dungeon",
+          "wiki_title": "Namik Kemal Dungeon",
+          "lat": 35.1182,
+          "lng": 33.9428,
+          "order_index": 5,
+          "description": "A small historic stop with literary and political associations that deepens the old-town route.",
+          "seo_phrase": "Namik Kemal Dungeon in Famagusta, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Famagusta",
+            "Namik Kemal Dungeon",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St Barnabas Monastery",
+            "Famagusta City Walls",
+            "Ravelin Bastion"
+          ]
+        },
+        {
+          "name": "Ravelin Bastion",
+          "wiki_title": "Ravelin Bastion Famagusta",
+          "lat": 35.1178,
+          "lng": 33.94,
+          "order_index": 6,
+          "description": "This bastion is useful for understanding how the city’s fortifications were designed and defended.",
+          "seo_phrase": "Ravelin Bastion in Famagusta, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Famagusta",
+            "Ravelin Bastion",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Famagusta City Walls",
+            "Namik Kemal Dungeon",
+            "Palm Beach"
+          ]
+        },
+        {
+          "name": "Palm Beach",
+          "wiki_title": "Palm Beach Famagusta",
+          "lat": 35.132,
+          "lng": 33.934,
+          "order_index": 7,
+          "description": "A beach stop that provides a lighter coastal counterpoint to the heavier archaeological itinerary.",
+          "seo_phrase": "Palm Beach in Famagusta, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Famagusta",
+            "Palm Beach",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Namik Kemal Dungeon",
+            "Ravelin Bastion",
+            "Port of Famagusta"
+          ]
+        },
+        {
+          "name": "Port of Famagusta",
+          "wiki_title": "Port of Famagusta",
+          "lat": 35.1105,
+          "lng": 33.941,
+          "order_index": 8,
+          "description": "The port area reflects the city’s long role as a maritime hub and fits well into a broader urban exploration.",
+          "seo_phrase": "Port of Famagusta in Famagusta, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Famagusta",
+            "Port of Famagusta",
+            "Cyprus",
+            "how_to_visit",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Ravelin Bastion",
+            "Palm Beach",
+            "Martinengo Bastion"
+          ]
+        },
+        {
+          "name": "Martinengo Bastion",
+          "wiki_title": "Martinengo Bastion",
+          "lat": 35.1168,
+          "lng": 33.9442,
+          "order_index": 9,
+          "description": "A fortified corner of the city that is especially valuable for travelers who like reading old defensive geometry on site.",
+          "seo_phrase": "Martinengo Bastion in Famagusta, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Famagusta",
+            "Martinengo Bastion",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Palm Beach",
+            "Port of Famagusta"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Polis Chrysochous",
+      "tags": [
+        "spring",
+        "autumn",
+        "nature"
+      ],
+      "wiki_title": "Polis Chrysochous",
+      "seo": {
+        "title": "Polis Chrysochous travel guide: Akamas nature, beaches and quiet escapes",
+        "description": "Use Polis Chrysochous as your base for Akamas, the Blue Lagoon, quiet beaches, and nature-forward day trips.",
+        "intro": "Polis Chrysochous is a calm base for nature, coastline, and low-key tourism on Cyprus’s northwest side.",
+        "keywords": [
+          "best things to do in Polis Chrysochous Cyprus",
+          "Akamas day trip from Polis",
+          "Blue Lagoon boat trip base in Cyprus",
+          "quiet beaches near Polis",
+          "nature attractions around Polis Chrysochous"
+        ]
+      },
+      "places": [
+        {
+          "name": "Baths of Aphrodite",
+          "wiki_title": "Baths of Aphrodite",
+          "lat": 35.0565,
+          "lng": 32.3376,
+          "order_index": 0,
+          "description": "One of northwest Cyprus’s signature myth-linked spots, set where nature and legend are easiest to combine.",
+          "seo_phrase": "Baths of Aphrodite in Polis Chrysochous, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Polis Chrysochous",
+            "Baths of Aphrodite",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Akamas Peninsula",
+            "Blue Lagoon"
+          ]
+        },
+        {
+          "name": "Akamas Peninsula",
+          "wiki_title": "Akamas Peninsula",
+          "lat": 35.045,
+          "lng": 32.312,
+          "order_index": 1,
+          "description": "The peninsula is the area’s strongest outdoor draw, offering nature, coastal paths, and a noticeably wild landscape.",
+          "seo_phrase": "Akamas Peninsula in Polis Chrysochous, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Polis Chrysochous",
+            "Akamas Peninsula",
+            "Cyprus",
+            "hidden_gems",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Baths of Aphrodite",
+            "Blue Lagoon",
+            "Latchi Harbour"
+          ]
+        },
+        {
+          "name": "Blue Lagoon",
+          "wiki_title": "Blue Lagoon Cyprus",
+          "lat": 35.066,
+          "lng": 32.286,
+          "order_index": 2,
+          "description": "A boat-trip favorite with vivid water and an emphasis on swimming rather than urban sightseeing.",
+          "seo_phrase": "Blue Lagoon in Polis Chrysochous, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Polis Chrysochous",
+            "Blue Lagoon",
+            "Cyprus",
+            "photography_spots",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Baths of Aphrodite",
+            "Akamas Peninsula",
+            "Latchi Harbour"
+          ]
+        },
+        {
+          "name": "Latchi Harbour",
+          "wiki_title": "Latchi Harbour",
+          "lat": 35.031,
+          "lng": 32.392,
+          "order_index": 3,
+          "description": "A calm harbor base for boats, seafood, and short transfers into the Akamas area.",
+          "seo_phrase": "Latchi Harbour in Polis Chrysochous, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Polis Chrysochous",
+            "Latchi Harbour",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Akamas Peninsula",
+            "Blue Lagoon",
+            "Aphrodite Trail"
+          ]
+        },
+        {
+          "name": "Aphrodite Trail",
+          "wiki_title": "Aphrodite Trail Akamas",
+          "lat": 35.0555,
+          "lng": 32.346,
+          "order_index": 4,
+          "description": "This walking route is a classic way to pair sea views with the region’s mythic identity.",
+          "seo_phrase": "Aphrodite Trail in Polis Chrysochous, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Polis Chrysochous",
+            "Aphrodite Trail",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Blue Lagoon",
+            "Latchi Harbour",
+            "Smigies Nature Trail"
+          ]
+        },
+        {
+          "name": "Smigies Nature Trail",
+          "wiki_title": "Smigies Nature Trail",
+          "lat": 35.043,
+          "lng": 32.334,
+          "order_index": 5,
+          "description": "A good low-key hiking choice for travelers who want a quieter inland alternative to the most famous coastal stops.",
+          "seo_phrase": "Smigies Nature Trail in Polis Chrysochous, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Polis Chrysochous",
+            "Smigies Nature Trail",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Latchi Harbour",
+            "Aphrodite Trail",
+            "Lara Bay"
+          ]
+        },
+        {
+          "name": "Lara Bay",
+          "wiki_title": "Akamas Peninsula",
+          "lat": 34.965,
+          "lng": 32.405,
+          "order_index": 6,
+          "description": "Known for its natural setting and turtle nesting character, this bay is one of the region’s most sensitive beaches.",
+          "seo_phrase": "Lara Bay in Polis Chrysochous, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Polis Chrysochous",
+            "Lara Bay",
+            "Cyprus",
+            "hidden_gems",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Aphrodite Trail",
+            "Smigies Nature Trail",
+            "Neo Chorio Village"
+          ],
+          "maps_query": "Lara Beach, Akamas, Cyprus"
+        },
+        {
+          "name": "Neo Chorio Village",
+          "wiki_title": "Neo Chorio Village",
+          "lat": 35.0438,
+          "lng": 32.343,
+          "order_index": 7,
+          "description": "A small inland village stop that helps round out the area’s slower and more rural travel rhythm.",
+          "seo_phrase": "Neo Chorio Village in Polis Chrysochous, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Polis Chrysochous",
+            "Neo Chorio Village",
+            "Cyprus",
+            "how_to_visit",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Smigies Nature Trail",
+            "Lara Bay",
+            "Latchi Beach"
+          ]
+        },
+        {
+          "name": "Latchi Beach",
+          "wiki_title": "Latchi Beach",
+          "lat": 35.0308,
+          "lng": 32.387,
+          "order_index": 8,
+          "description": "This beach is practical, relaxed, and close to the harbor, which makes it a simple addition to a Polis base.",
+          "seo_phrase": "Latchi Beach in Polis Chrysochous, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Polis Chrysochous",
+            "Latchi Beach",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Lara Bay",
+            "Neo Chorio Village",
+            "Baths of Aphrodite Trailhead"
+          ]
+        },
+        {
+          "name": "Baths of Aphrodite Trailhead",
+          "wiki_title": "Baths of Aphrodite Trailhead",
+          "lat": 35.0572,
+          "lng": 32.3385,
+          "order_index": 9,
+          "description": "The trailhead is a useful starting point for visitors who want to turn the mythology-rich area into an active outing.",
+          "seo_phrase": "Baths of Aphrodite Trailhead in Polis Chrysochous, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Polis Chrysochous",
+            "Baths of Aphrodite Trailhead",
+            "Cyprus",
+            "how_to_visit",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Neo Chorio Village",
+            "Latchi Beach"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Pano Lefkara",
+      "tags": [
+        "spring",
+        "autumn",
+        "religious",
+        "culture"
+      ],
+      "wiki_title": "Pano Lefkara",
+      "seo": {
+        "title": "Pano Lefkara travel guide: lace, silver craft and stone village streets",
+        "description": "Visit Pano Lefkara for traditional craft, photogenic lanes, churches, and a strong cultural atmosphere.",
+        "intro": "Pano Lefkara is a craft village known for lace, silverwork, and handsome stone architecture.",
+        "keywords": [
+          "best things to do in Pano Lefkara Cyprus",
+          "Lefkara lace village guide",
+          "where to buy silver in Lefkara",
+          "traditional villages near Larnaca",
+          "photography spots in Pano Lefkara"
+        ]
+      },
+      "places": [
+        {
+          "name": "Lefkara Handicraft Centre",
+          "wiki_title": "Lefkara Handicraft Centre",
+          "lat": 34.8694,
+          "lng": 33.3013,
+          "order_index": 0,
+          "description": "A straightforward stop for lace and silverwork, helping visitors connect the village’s reputation with real workshops.",
+          "seo_phrase": "Lefkara Handicraft Centre in Pano Lefkara, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Pano Lefkara",
+            "Lefkara Handicraft Centre",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church of the Holy Cross",
+            "Lefkara streets and stone houses"
+          ]
+        },
+        {
+          "name": "Church of the Holy Cross",
+          "wiki_title": "Church of the Holy Cross Lefkara",
+          "lat": 34.8688,
+          "lng": 33.302,
+          "order_index": 1,
+          "description": "A prominent village church that reinforces Lefkara’s role as a cultural and religious heritage stop.",
+          "seo_phrase": "Church of the Holy Cross in Pano Lefkara, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Pano Lefkara",
+            "Church of the Holy Cross",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Lefkara Handicraft Centre",
+            "Lefkara streets and stone houses",
+            "Local lace workshops"
+          ]
+        },
+        {
+          "name": "Lefkara streets and stone houses",
+          "wiki_title": "Pano Lefkara village",
+          "lat": 34.869,
+          "lng": 33.3018,
+          "order_index": 2,
+          "description": "The village itself is the attraction here, with narrow lanes and traditional houses creating the strongest first impression.",
+          "seo_phrase": "Lefkara streets and stone houses in Pano Lefkara, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Pano Lefkara",
+            "Lefkara streets and stone houses",
+            "Cyprus",
+            "photography_spots",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Lefkara Handicraft Centre",
+            "Church of the Holy Cross",
+            "Local lace workshops"
+          ]
+        },
+        {
+          "name": "Local lace workshops",
+          "wiki_title": "Lefkara lace workshop",
+          "lat": 34.8696,
+          "lng": 33.301,
+          "order_index": 3,
+          "description": "Workshops make Lefkara especially rewarding for travelers who want a living craft culture instead of a static museum stop.",
+          "seo_phrase": "Local lace workshops in Pano Lefkara, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Pano Lefkara",
+            "Local lace workshops",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Church of the Holy Cross",
+            "Lefkara streets and stone houses",
+            "Silver artisan shops"
+          ]
+        },
+        {
+          "name": "Silver artisan shops",
+          "wiki_title": "Lefkara silver shop",
+          "lat": 34.8689,
+          "lng": 33.3009,
+          "order_index": 4,
+          "description": "Silverware shopping gives the village a commercial craft identity that is still closely tied to local tradition.",
+          "seo_phrase": "Silver artisan shops in Pano Lefkara, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Pano Lefkara",
+            "Silver artisan shops",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Lefkara streets and stone houses",
+            "Local lace workshops",
+            "Pano Lefkara viewpoint"
+          ]
+        },
+        {
+          "name": "Pano Lefkara viewpoint",
+          "wiki_title": "Lefkara viewpoint",
+          "lat": 34.8703,
+          "lng": 33.3005,
+          "order_index": 5,
+          "description": "The viewpoint works best at softer light, when the village texture and surrounding hills are easiest to read.",
+          "seo_phrase": "Pano Lefkara viewpoint in Pano Lefkara, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Pano Lefkara",
+            "Pano Lefkara viewpoint",
+            "Cyprus",
+            "photography_spots",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Local lace workshops",
+            "Silver artisan shops",
+            "Traditional village square"
+          ]
+        },
+        {
+          "name": "Traditional village square",
+          "wiki_title": "Lefkara village square",
+          "lat": 34.8692,
+          "lng": 33.3024,
+          "order_index": 6,
+          "description": "The square is the easiest place to pause, orient yourself, and enjoy the village scale at a slower pace.",
+          "seo_phrase": "Traditional village square in Pano Lefkara, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Pano Lefkara",
+            "Traditional village square",
+            "Cyprus",
+            "what_to_do",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Silver artisan shops",
+            "Pano Lefkara viewpoint",
+            "Lefkara Museum"
+          ]
+        },
+        {
+          "name": "Lefkara Museum",
+          "wiki_title": "Lefkara Museum",
+          "lat": 34.8687,
+          "lng": 33.3016,
+          "order_index": 7,
+          "description": "This museum helps explain why Lefkara became famous far beyond its size and why its crafts are still central to its identity.",
+          "seo_phrase": "Lefkara Museum in Pano Lefkara, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Pano Lefkara",
+            "Lefkara Museum",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Pano Lefkara viewpoint",
+            "Traditional village square",
+            "Kato Drys village nearby"
+          ]
+        },
+        {
+          "name": "Kato Drys village nearby",
+          "wiki_title": "Kato Drys village",
+          "lat": 34.8605,
+          "lng": 33.2942,
+          "order_index": 8,
+          "description": "A nearby village add-on that extends the cultural route for travelers who want a broader inland day trip.",
+          "seo_phrase": "Kato Drys village nearby in Pano Lefkara, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Pano Lefkara",
+            "Kato Drys village nearby",
+            "Cyprus",
+            "hidden_gems",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Traditional village square",
+            "Lefkara Museum",
+            "Panagia tou Kampou Church"
+          ]
+        },
+        {
+          "name": "Panagia tou Kampou Church",
+          "wiki_title": "Panagia tou Kampou Lefkara",
+          "lat": 34.8639,
+          "lng": 33.2971,
+          "order_index": 9,
+          "description": "This church rounds out the village’s religious heritage and gives the area another quiet historic anchor.",
+          "seo_phrase": "Panagia tou Kampou Church in Pano Lefkara, Cyprus: travel guide and visitor tips",
+          "seo_keywords": [
+            "Pano Lefkara",
+            "Panagia tou Kampou Church",
+            "Cyprus",
+            "history_culture",
+            "travel",
+            "sightseeing"
+          ],
+          "seo_priority": 70,
+          "search_intent": [
+            "visiting",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Lefkara Museum",
+            "Kato Drys village nearby"
+          ]
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "Cyprus Nature & Road Trip Adventure",
+    "subtitle": "Explore Cyprus beyond the cities — parks, coast, and scenic drives.",
+    "wiki_title": "Cyprus",
+    "totalDays": 10,
+    "seo": {
+      "title": "Cyprus Road Trip — Nature Adventure Guide",
+      "description": "Plan a Cyprus road trip with GPS stops, national parks, and scenic routes.",
+      "intro": "Explore Cyprus beyond the cities with this nature adventure route.",
+      "keywords": [
+        "Cyprus road trip",
+        "Cyprus nature",
+        "Cyprus by car"
+      ]
+    },
+    "places": [
+      {
+        "name": "Akamas Peninsula",
+        "wiki_title": "Akamas Peninsula",
+        "region": "Paphos District",
+        "lat": 35.045,
+        "lng": 32.312,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A rugged peninsula with dramatic coastline, hiking routes, and a strong sense of open space.",
+        "seo_phrase": "Akamas Peninsula, Cyprus: nature guide and outdoor itinerary",
+        "seo_keywords": [
+          "Akamas",
+          "nature",
+          "hiking",
+          "coastline",
+          "Cyprus outdoors",
+          "wild beaches"
+        ],
+        "commons_file": "Akamas Peninsula.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Akamas_Peninsula.jpg?width=900",
+        "seo_priority": 97,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Blue Lagoon",
+        "wiki_title": "Blue Lagoon (Cyprus)",
+        "region": "Paphos District",
+        "lat": 35.066,
+        "lng": 32.286,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A boat-access lagoon known for clear water and calm, scenic swimming.",
+        "seo_phrase": "Blue Lagoon, Cyprus: boat trip and swimming guide",
+        "seo_keywords": [
+          "Blue Lagoon",
+          "Cyprus coast",
+          "boat trip",
+          "swimming",
+          "nature",
+          "lagoon"
+        ],
+        "commons_file": "Blue Lagoon Cyprus.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue_Lagoon_Cyprus.jpg?width=900",
+        "seo_priority": 96,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Avakas Gorge",
+        "wiki_title": "Avakas Gorge",
+        "region": "Paphos District",
+        "lat": 34.889,
+        "lng": 32.352,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A dramatic limestone gorge that is especially appealing for hikers and nature photographers.",
+        "seo_phrase": "Avakas Gorge, Cyprus: hiking and canyon guide",
+        "seo_keywords": [
+          "Avakas Gorge",
+          "hiking",
+          "canyon",
+          "nature",
+          "Cyprus outdoors",
+          "photography"
+        ],
+        "commons_file": "Avakas Gorge.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Avakas_Gorge.jpg?width=900",
+        "seo_priority": 94,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Troodos Mountains",
+        "wiki_title": "Troodos Mountains",
+        "region": "Troodos Mountains",
+        "lat": 34.915,
+        "lng": 32.87,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Cyprus’s main mountain range, known for cooler weather, forests, and scenic drives.",
+        "seo_phrase": "Troodos Mountains, Cyprus: hiking, villages and mountain scenery",
+        "seo_keywords": [
+          "Troodos",
+          "mountains",
+          "hiking",
+          "forests",
+          "Cyprus",
+          "cool weather"
+        ],
+        "commons_file": "Troodos Mountains.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Troodos_Mountains.jpg?width=900",
+        "seo_priority": 98,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Mount Olympus",
+        "wiki_title": "Mount Olympus (Cyprus)",
+        "region": "Troodos Mountains",
+        "lat": 34.923,
+        "lng": 32.866,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "The highest point in Cyprus, ideal for mountain scenery and cooler conditions.",
+        "seo_phrase": "Mount Olympus, Cyprus: highest peak and mountain guide",
+        "seo_keywords": [
+          "Mount Olympus Cyprus",
+          "highest peak",
+          "Troodos",
+          "mountain views",
+          "hiking",
+          "scenic drive"
+        ],
+        "commons_file": "Mount Olympus Cyprus.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount_Olympus_Cyprus.jpg?width=900",
+        "seo_priority": 95,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Kaledonia Waterfalls",
+        "wiki_title": "Kaledonia Waterfall",
+        "region": "Troodos Mountains",
+        "lat": 34.9205,
+        "lng": 32.8415,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A forest waterfall stop that pairs well with a short hike and cooler mountain air.",
+        "seo_phrase": "Kaledonia Waterfalls, Cyprus: hiking route and nature guide",
+        "seo_keywords": [
+          "Kaledonia Waterfalls",
+          "hiking",
+          "waterfall",
+          "Troodos",
+          "nature",
+          "forest"
+        ],
+        "commons_file": "Kaledonia Waterfall.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kaledonia_Waterfall.jpg?width=900",
+        "seo_priority": 92,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Millomeris Waterfalls",
+        "wiki_title": "Millomeris Waterfall",
+        "region": "Troodos Mountains",
+        "lat": 34.8945,
+        "lng": 32.8568,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A compact waterfall stop with a cool, green mountain atmosphere.",
+        "seo_phrase": "Millomeris Waterfalls, Cyprus: hiking and scenic nature stop",
+        "seo_keywords": [
+          "Millomeris Waterfalls",
+          "Cyprus nature",
+          "Troodos",
+          "hiking",
+          "waterfall",
+          "mountains"
+        ],
+        "commons_file": "Millomeris Waterfall.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Millomeris_Waterfall.jpg?width=900",
+        "seo_priority": 89,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Cedar Valley",
+        "wiki_title": "Cedar Valley",
+        "region": "Troodos Mountains",
+        "lat": 34.982,
+        "lng": 32.782,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A forested valley known for cedars and a distinctly green mountain environment.",
+        "seo_phrase": "Cedar Valley, Cyprus: forest scenery and nature guide",
+        "seo_keywords": [
+          "Cedar Valley",
+          "Cyprus forest",
+          "Troodos",
+          "nature",
+          "cedars",
+          "mountain landscape"
+        ],
+        "commons_file": "Cedar Valley Cyprus.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cedar_Valley_Cyprus.jpg?width=900",
+        "seo_priority": 90,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Lara Beach",
+        "wiki_title": "Lara Beach",
+        "region": "Paphos District",
+        "lat": 35.042,
+        "lng": 32.317,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A protected-feeling beach with a nature-first atmosphere and a remote coastal setting.",
+        "seo_phrase": "Lara Beach, Cyprus: turtle beach and nature guide",
+        "seo_keywords": [
+          "Lara Beach",
+          "turtles",
+          "nature",
+          "coastline",
+          "Cyprus",
+          "remote beach"
+        ],
+        "commons_file": "Lara Beach Cyprus.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lara_Beach_Cyprus.jpg?width=900",
+        "seo_priority": 91,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Atalante Trail",
+        "wiki_title": "Atalante Trail",
+        "region": "Troodos Mountains",
+        "lat": 34.9242,
+        "lng": 32.8562,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A classic mountain walking route with forest shade and broad scenic views.",
+        "seo_phrase": "Atalante Trail, Cyprus: mountain hike and scenic route guide",
+        "seo_keywords": [
+          "Atalante Trail",
+          "hiking",
+          "Troodos",
+          "mountains",
+          "nature",
+          "Cyprus"
+        ],
+        "commons_file": "Atalante Trail.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Atalante_Trail.jpg?width=900",
+        "seo_priority": 88,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      }
+    ]
+  }
+}

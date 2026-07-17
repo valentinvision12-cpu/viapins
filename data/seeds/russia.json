@@ -1,0 +1,3787 @@
+{
+  "version": 2,
+  "country": "Russia",
+  "published": true,
+  "cities": [
+    {
+      "city": "Moscow",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Moscow",
+      "seo": {
+        "title": "Top 10 Things to Do in Moscow, Russia",
+        "description": "Discover 10 must-see landmarks in Moscow, Russia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Moscow? Explore the best places to visit in Moscow, Russia.",
+        "keywords": [
+          "things to do in Moscow",
+          "Moscow Russia travel guide",
+          "best places to visit in Moscow",
+          "Moscow landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Saint Basil's Cathedral",
+          "wiki_title": "Saint Basil's Cathedral",
+          "lat": 55.7525,
+          "lng": 37.6231,
+          "order_index": 0,
+          "description": "An iconic multi-domed cathedral standing proudly at the southern end of Red Square.",
+          "seo_phrase": "Visiting Saint Basil's Cathedral Moscow: Architecture, History & Tickets",
+          "seo_keywords": [
+            "Saint Basil's",
+            "Moscow cathedral",
+            "Red Square landmarks",
+            "Russian architecture"
+          ],
+          "commons_file": "Vasily the Blessed Cathedral - Moscow.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Vasily_the_Blessed_Cathedral_-_Moscow.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Red Square",
+            "GUM Department Store",
+            "Moscow Kremlin"
+          ]
+        },
+        {
+          "name": "Red Square",
+          "wiki_title": "Red Square",
+          "lat": 55.7539,
+          "lng": 37.6208,
+          "order_index": 1,
+          "description": "The historic, cobblestone focal point of Moscow surrounded by monumental architecture.",
+          "seo_phrase": "Red Square Moscow Guide: Walking Tour & Top Highlights",
+          "seo_keywords": [
+            "Red Square",
+            "Moscow center",
+            "Krasnaya Ploshchad",
+            "Kremlin square"
+          ],
+          "image_url": "",
+          "seo_priority": 97,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Saint Basil's Cathedral",
+            "GUM Department Store",
+            "Zaryadye Park"
+          ]
+        },
+        {
+          "name": "Moscow Kremlin Cathedral Square",
+          "wiki_title": "Cathedral Square, Moscow",
+          "lat": 55.7505,
+          "lng": 37.6175,
+          "order_index": 2,
+          "description": "The sacred heart of the Kremlin, enclosed by majestic, historic cathedrals.",
+          "seo_phrase": "Moscow Kremlin Cathedral Square: Architecture & Visiting Guide",
+          "seo_keywords": [
+            "Kremlin cathedrals",
+            "Cathedral Square Moscow",
+            "Dormition Cathedral"
+          ],
+          "image_url": "",
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Red Square",
+            "Saint Basil's Cathedral",
+            "Armory Chamber"
+          ]
+        },
+        {
+          "name": "Bolshoi Theatre",
+          "wiki_title": "Bolshoi Theatre",
+          "lat": 55.7602,
+          "lng": 37.6186,
+          "order_index": 3,
+          "description": "The historic cradle of Russian opera and ballet performance art.",
+          "seo_phrase": "Bolshoi Theatre Moscow: Opera, Ballet & Architecture Tickets",
+          "seo_keywords": [
+            "Bolshoi Theatre",
+            "Moscow ballet",
+            "Russian opera",
+            "neoclassical Moscow"
+          ],
+          "commons_file": "Bolshoi Theatre Main Facade.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bolshoi_Theatre_Main_Facade.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Teatralnaya Square",
+            "TsUM",
+            "Red Square"
+          ]
+        },
+        {
+          "name": "Zaryadye Park",
+          "wiki_title": "Zaryadye Park",
+          "lat": 55.7512,
+          "lng": 37.6281,
+          "order_index": 4,
+          "description": "A cutting-edge urban park showcasing Russia's diverse botanical zones and a panoramic floating bridge.",
+          "seo_phrase": "Zaryadye Park Moscow: Floating Bridge & Urban Nature Guide",
+          "seo_keywords": [
+            "Zaryadye Park",
+            "floating bridge Moscow",
+            "modern Moscow parks",
+            "urban nature Russia"
+          ],
+          "commons_file": "Zaryadye Park Floating Bridge.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Zaryadye_Park_Floating_Bridge.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Saint Basil's Cathedral",
+            "Red Square",
+            "GUM Department Store"
+          ]
+        },
+        {
+          "name": "State Tretyakov Gallery",
+          "wiki_title": "Tretyakov Gallery",
+          "lat": 55.7414,
+          "lng": 37.6208,
+          "order_index": 5,
+          "description": "The premier museum dedicated exclusively to the history of fine art in Russia.",
+          "seo_phrase": "State Tretyakov Gallery Guide: Masterpieces of Russian Fine Art",
+          "seo_keywords": [
+            "Tretyakov Gallery",
+            "Russian art museum",
+            "Andrei Rublev icons",
+            "Moscow art tour"
+          ],
+          "commons_file": "Tretyakov Gallery Facade.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tretyakov_Gallery_Facade.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Muzeon Park",
+            "Gorky Park",
+            "Bolshoy Kamenny Bridge"
+          ]
+        },
+        {
+          "name": "VDNKh Exhibition Centre",
+          "wiki_title": "VDNKh (Russia",
+          "lat": 55.8263,
+          "lng": 37.6374,
+          "order_index": 6,
+          "description": "A massive architectural park celebrating achievements in design, space, and culture.",
+          "seo_phrase": "VDNKh Moscow: Soviet Architecture, Pavilions & Fountains",
+          "seo_keywords": [
+            "VDNKh Moscow",
+            "Soviet architecture",
+            "Friendship of Nations fountain",
+            "Cosmonautics museum"
+          ],
+          "commons_file": "Fountain Friendship of Nations VDNKh.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Fountain_Friendship_of_Nations_VDNKh.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Worker and Kolkhoz Woman Monument",
+            "Cosmos Pavilion",
+            "Ostankino Tower"
+          ]
+        },
+        {
+          "name": "Kolomenskoye Park",
+          "wiki_title": "Kolomenskoye",
+          "lat": 55.6694,
+          "lng": 37.6691,
+          "order_index": 7,
+          "description": "A stunning historic reserve on a scenic hill overlooking the Moskva River.",
+          "seo_phrase": "Kolomenskoye Estate Moscow: Church of the Ascension Guide",
+          "seo_keywords": [
+            "Kolomenskoye Moscow",
+            "Church of the Ascension",
+            "wooden architecture Russia",
+            "Tsar estates"
+          ],
+          "image_url": "",
+          "seo_priority": 89,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Moskva River Embankment",
+            "Palace of Tsar Alexei Mikhailovich"
+          ]
+        },
+        {
+          "name": "Tsaritsyno Palace Museum-Reserve",
+          "wiki_title": "Tsaritsyno Park",
+          "lat": 55.6156,
+          "lng": 37.6811,
+          "order_index": 8,
+          "description": "Catherine the Great’s romantic, brick Gothic palace and landscaped parkland.",
+          "seo_phrase": "Tsaritsyno Palace Moscow: Gothic Revival Architecture & Park",
+          "seo_keywords": [
+            "Tsaritsyno Moscow",
+            "Gothic revival palace",
+            "Catherine the Great estate",
+            "Moscow palace parks"
+          ],
+          "image_url": "",
+          "seo_priority": 88,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Tsaritsyno Ponds",
+            "The Grand Bridge over the Ravine"
+          ]
+        },
+        {
+          "name": "Moscow",
+          "wiki_title": "Moscow",
+          "lat": 55.75583333,
+          "lng": 37.61777778,
+          "order_index": 9,
+          "description": "Moscow — a notable landmark in Moscow, Russia.",
+          "seo_phrase": "Moscow",
+          "seo_keywords": [
+            "Moscow",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Saint Basil's Cathedral and the Red Square.jpg/800px-Saint Basil's Cathedral and the Red Square.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg/800px-Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Saint Petersburg",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Saint Petersburg",
+      "seo": {
+        "title": "Top 10 Things to Do in Saint Petersburg, Russia",
+        "description": "Discover 10 must-see landmarks in Saint Petersburg, Russia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Saint Petersburg? Explore the best places to visit in Saint Petersburg, Russia.",
+        "keywords": [
+          "things to do in Saint Petersburg",
+          "Saint Petersburg Russia travel guide",
+          "best places to visit in Saint Petersburg",
+          "Saint Petersburg landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "State Hermitage Museum",
+          "wiki_title": "Hermitage Museum",
+          "lat": 59.9398,
+          "lng": 30.3146,
+          "order_index": 0,
+          "description": "One of the largest, most prestigious art museums in the world, housed in the Winter Palace.",
+          "seo_phrase": "State Hermitage Museum Saint Petersburg: Tickets & Masterpieces",
+          "seo_keywords": [
+            "Hermitage Museum",
+            "Winter Palace",
+            "Saint Petersburg art",
+            "Catherine the Great art"
+          ],
+          "commons_file": "Winter Palace Saint Petersburg.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Winter_Palace_Saint_Petersburg.jpg",
+          "seo_priority": 100,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Palace Square",
+            "General Staff Building",
+            "Alexander Column"
+          ]
+        },
+        {
+          "name": "Church of the Savior on Blood",
+          "wiki_title": "Church of the Savior on Blood",
+          "lat": 59.9401,
+          "lng": 30.3289,
+          "order_index": 1,
+          "description": "A fairytale Russian-style cathedral renowned for its vibrant, highly detailed mosaic interior walls.",
+          "seo_phrase": "Church of the Savior on Blood: Mosaics & Visiting Guide",
+          "seo_keywords": [
+            "Savior on Blood",
+            "Saint Petersburg church",
+            "Russian mosaic art",
+            "Griboyedov Canal"
+          ],
+          "commons_file": "Spas na krovi St Petersburg.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Spas_na_krovi_St_Petersburg.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Griboyedov Canal",
+            "Russian Museum",
+            "Mikhailovsky Garden"
+          ]
+        },
+        {
+          "name": "Peterhof Grand Palace & Fountains",
+          "wiki_title": "Peterhof Palace",
+          "lat": 59.8844,
+          "lng": 29.9086,
+          "order_index": 2,
+          "description": "The spectacular 'Russian Versailles' featuring a grand cascade of gravity-fed fountains.",
+          "seo_phrase": "Peterhof Palace Guide: Grand Cascade Fountains & Hydrofoils",
+          "seo_keywords": [
+            "Peterhof Palace",
+            "Grand Cascade",
+            "Peterhof fountains",
+            "Russian Versailles"
+          ],
+          "commons_file": "Peterhof Grand Cascade.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Peterhof_Grand_Cascade.jpg",
+          "seo_priority": 97,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Peterhof Lower Park",
+            "Monplaisir Palace",
+            "Samson Fountain"
+          ]
+        },
+        {
+          "name": "Palace Square",
+          "wiki_title": "Palace Square",
+          "lat": 59.9391,
+          "lng": 30.3158,
+          "order_index": 3,
+          "description": "The epic central square of Imperial Russia, dominated by the Alexander Column.",
+          "seo_phrase": "Palace Square Saint Petersburg: Alexander Column & Events",
+          "seo_keywords": [
+            "Palace Square",
+            "Alexander Column",
+            "Saint Petersburg center",
+            "Carlo Rossi architecture"
+          ],
+          "commons_file": "Alexander Column on Palace Square.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Alexander_Column_on_Palace_Square.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "State Hermitage Museum",
+            "Nevsky Prospekt",
+            "Admiralty Building"
+          ]
+        },
+        {
+          "name": "Catherine Palace (Tsarskoye Selo)",
+          "wiki_title": "Catherine Palace",
+          "lat": 59.7166,
+          "lng": 30.3958,
+          "order_index": 4,
+          "description": "A stunning, azure-blue baroque palace famous for the reconstructed Amber Room.",
+          "seo_phrase": "Catherine Palace Tsarskoye Selo: Amber Room & Tickets",
+          "seo_keywords": [
+            "Catherine Palace",
+            "Amber Room",
+            "Tsarskoye Selo",
+            "Pushkin palace"
+          ],
+          "commons_file": "Catherine Palace Tsarskoye Selo.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Catherine_Palace_Tsarskoye_Selo.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Catherine Park",
+            "Cameron Gallery",
+            "Alexander Palace"
+          ]
+        },
+        {
+          "name": "St. Isaac's Cathedral",
+          "wiki_title": "Saint Isaac's Cathedral",
+          "lat": 59.9341,
+          "lng": 30.3061,
+          "order_index": 5,
+          "description": "A monumental neoclassical cathedral boasting a massive gilded dome and iconic city views.",
+          "seo_phrase": "St. Isaac's Cathedral Saint Petersburg: Colonnade Viewpoint Guide",
+          "seo_keywords": [
+            "St Isaacs Cathedral",
+            "colonnade viewpoint",
+            "neoclassical dome",
+            "Saint Petersburg panorama"
+          ],
+          "commons_file": "St Isaac's Cathedral St Petersburg.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/St_Isaac%27s_Cathedral_St_Petersburg.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Senate Square",
+            "Bronze Horseman",
+            "Astoria Hotel"
+          ]
+        },
+        {
+          "name": "Mariinsky Theatre",
+          "wiki_title": "Mariinsky Theatre",
+          "lat": 59.9258,
+          "lng": 30.2961,
+          "order_index": 6,
+          "description": "An iconic opera and ballet house featuring a stunning sea-green historic auditorium.",
+          "seo_phrase": "Mariinsky Theatre Saint Petersburg: Ballet & Opera Tickets",
+          "seo_keywords": [
+            "Mariinsky Theatre",
+            "Saint Petersburg ballet",
+            "Tchaikovsky premieres",
+            "Mariinsky tickets"
+          ],
+          "commons_file": "Mariinsky Theatre Historic Stage.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Mariinsky_Theatre_Historic_Stage.jpg",
+          "seo_priority": 93,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Conservatory of Saint Petersburg",
+            "St. Nicholas Naval Cathedral",
+            "New Holland Island"
+          ]
+        },
+        {
+          "name": "Kazan Cathedral",
+          "wiki_title": "Kazan Cathedral, Saint Petersburg",
+          "lat": 59.9344,
+          "lng": 30.3244,
+          "order_index": 7,
+          "description": "An active cathedral framed by a dramatic Corinthian colonnade along Nevsky Prospekt.",
+          "seo_phrase": "Kazan Cathedral Saint Petersburg: Our Lady of Kazan Icon",
+          "seo_keywords": [
+            "Kazan Cathedral",
+            "Nevsky Prospekt landmark",
+            "Our Lady of Kazan",
+            "empire style architecture"
+          ],
+          "commons_file": "Kazan Cathedral St Petersburg 2016.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Kazan_Cathedral_St_Petersburg_2016.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Singer House",
+            "Nevsky Prospekt",
+            "Griboyedov Canal"
+          ]
+        },
+        {
+          "name": "Spit of Vasilyevsky Island",
+          "wiki_title": "Spit of Vasilyevsky Island",
+          "lat": 59.9442,
+          "lng": 30.3075,
+          "order_index": 8,
+          "description": "A stunning riverfront architectural assembly defined by twin monumental Rostral Columns.",
+          "seo_phrase": "Spit of Vasilyevsky Island: Rostral Columns & Panoramic Views",
+          "seo_keywords": [
+            "Vasilyevsky Island Spit",
+            "Rostral Columns",
+            "Strelka Petersburg",
+            "Neva River viewpoint"
+          ],
+          "commons_file": "Rostral Columns St Petersburg.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Rostral_Columns_St_Petersburg.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kunstkamera",
+            "Palace Bridge",
+            "Neva River"
+          ]
+        },
+        {
+          "name": "Summer Garden",
+          "wiki_title": "Summer Garden",
+          "lat": 59.9453,
+          "lng": 30.3353,
+          "order_index": 9,
+          "description": "The oldest formal park in Saint Petersburg, adorned with classical marble statues.",
+          "seo_phrase": "Summer Garden Saint Petersburg: Peter the Great's Park Guide",
+          "seo_keywords": [
+            "Summer Garden",
+            "Peter the Great park",
+            "classical sculptures",
+            "Felten grille fence"
+          ],
+          "commons_file": "Summer Garden St Petersburg Fountain.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Summer_Garden_St_Petersburg_Fountain.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Field of Mars",
+            "Mikhailovsky Castle",
+            "Neva River Embankment"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Kazan",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Kazan",
+      "seo": {
+        "title": "Top 10 Things to Do in Kazan, Russia",
+        "description": "Discover 10 must-see landmarks in Kazan, Russia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Kazan? Explore the best places to visit in Kazan, Russia.",
+        "keywords": [
+          "things to do in Kazan",
+          "Kazan Russia travel guide",
+          "best places to visit in Kazan",
+          "Kazan landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Kazan Kremlin",
+          "wiki_title": "Kazan Kremlin",
+          "lat": 55.7986,
+          "lng": 49.1064,
+          "order_index": 0,
+          "description": "A historic white-limestone citadel housing ancient cathedrals and a modern monumental mosque.",
+          "seo_phrase": "Kazan Kremlin Guide: UNESCO Citadel of Tatarstan",
+          "seo_keywords": [
+            "Kazan Kremlin",
+            "Tatarstan UNESCO",
+            "white stone citadel",
+            "Kazan fortress"
+          ],
+          "commons_file": "Kazan Kremlin from above.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Kazan_Kremlin_from_above.jpg",
+          "seo_priority": 97,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kul Sharif Mosque",
+            "Tower of Söyembikä",
+            "Bauman Street"
+          ]
+        },
+        {
+          "name": "Kul Sharif Mosque",
+          "wiki_title": "Kul Sharif Mosque",
+          "lat": 55.8005,
+          "lng": 49.1051,
+          "order_index": 1,
+          "description": "One of the largest and most breathtaking Islamic structures in Europe, located inside a Kremlin.",
+          "seo_phrase": "Kul Sharif Mosque Kazan: Architecture & Visitor Guide",
+          "seo_keywords": [
+            "Kul Sharif Mosque",
+            "Kazan Islamic sites",
+            "blue dome mosque",
+            "Kremlin mosque Tatarstan"
+          ],
+          "image_url": "",
+          "seo_priority": 96,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kazan Kremlin",
+            "Tower of Söyembikä",
+            "Annunciation Cathedral"
+          ]
+        },
+        {
+          "name": "Temple of All Religions",
+          "wiki_title": "Temple of All Religions",
+          "lat": 55.8005,
+          "lng": 48.9747,
+          "order_index": 2,
+          "description": "A unique, kaleidoscopic architectural complex blending motifs from major world faiths.",
+          "seo_phrase": "Temple of All Religions Kazan: Eclectic Architecture Guide",
+          "seo_keywords": [
+            "Temple of All Religions",
+            "Ildar Khanov Kazan",
+            "eclectic architecture",
+            "interfaith monument"
+          ],
+          "commons_file": "Temple of All Religions Kazan.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Temple_of_All_Religions_Kazan.jpg",
+          "seo_priority": 94,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Volga River Banks"
+          ]
+        },
+        {
+          "name": "Tower of Söyembikä",
+          "wiki_title": "Söyembikä Tower",
+          "lat": 55.8005,
+          "lng": 49.1075,
+          "order_index": 3,
+          "description": "A famous red-brick leaning tower shrouded in rich historical romantic legends.",
+          "seo_phrase": "Tower of Söyembikä Kazan: Leaning Tower History & Legends",
+          "seo_keywords": [
+            "Soyembika Tower",
+            "leaning tower Kazan",
+            "Tatar legends",
+            "Kremlin architecture"
+          ],
+          "commons_file": "Soyembika Tower Kazan Kremlin.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Soyembika_Tower_Kazan_Kremlin.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Kazan Kremlin",
+            "Kul Sharif Mosque",
+            "Governor's Palace"
+          ]
+        },
+        {
+          "name": "Bauman Street",
+          "wiki_title": "Bauman Street, Kazan",
+          "lat": 55.7922,
+          "lng": 49.1147,
+          "order_index": 4,
+          "description": "The vibrant pedestrian heart of Kazan, rich with street performers, history, and shops.",
+          "seo_phrase": "Bauman Street Kazan: Shopping, Cafes & Epiphany Belltower",
+          "seo_keywords": [
+            "Bauman Street",
+            "Kazan pedestrian zone",
+            "Epiphany belltower",
+            "Kazan Cat statue"
+          ],
+          "commons_file": "Bauman Street Kazan Russia.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bauman_Street_Kazan_Russia.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kazan Kremlin",
+            "National Museum of Tatarstan",
+            "Tukay Square"
+          ]
+        },
+        {
+          "name": "Kaban Lakes Embankment",
+          "wiki_title": "Kaban Lakes",
+          "lat": 55.7801,
+          "lng": 49.1192,
+          "order_index": 5,
+          "description": "A beautiful system of urban lakes featuring an eco-centric public pedestrian promenade.",
+          "seo_phrase": "Kaban Lakes Embankment Kazan: Water Fountains & Boat Rentals",
+          "seo_keywords": [
+            "Kaban Lakes",
+            "Kazan waterfront",
+            "Old Tatar Quarter",
+            "Kaban lake legends"
+          ],
+          "commons_file": "Nizhny Kaban Lake Kazan.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Nizhny_Kaban_Lake_Kazan.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Old Tatar Quarter",
+            "Millennium Park Kazan",
+            "Kamal Theatre"
+          ]
+        },
+        {
+          "name": "Agricultural Palace",
+          "wiki_title": "Farmers' Palace",
+          "lat": 55.8003,
+          "lng": 49.1119,
+          "order_index": 6,
+          "description": "A monumental modern palace featuring an extraordinary 20-meter bronze tree sculpture.",
+          "seo_phrase": "Agricultural Palace Kazan: Tree Sculpture & Architecture",
+          "seo_keywords": [
+            "Agricultural Palace Kazan",
+            "Farmers Palace",
+            "bronze tree architecture",
+            "Beaux Arts Russia"
+          ],
+          "commons_file": "Farmers Palace Kazan.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Farmers_Palace_Kazan.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Kazan Kremlin",
+            "Kremlin Embankment",
+            "Palace Square Kazan"
+          ]
+        },
+        {
+          "name": "National Museum of Tatarstan",
+          "wiki_title": "National Museum of the Republic of Tatarstan",
+          "lat": 55.7944,
+          "lng": 49.1128,
+          "order_index": 7,
+          "description": "The primary historical museum tracking regional history from pre-history to the modern era.",
+          "seo_phrase": "National Museum of Tatarstan: History & Volga Antiquities",
+          "seo_keywords": [
+            "National Museum Tatarstan",
+            "Kazan history museum",
+            "Volga Bulgaria artifacts",
+            "Gostiny Dvor Kazan"
+          ],
+          "commons_file": "National Museum of Tatarstan.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/National_Museum_of_Tatarstan.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Kazan Kremlin",
+            "Bauman Street",
+            "Agricultural Palace"
+          ]
+        },
+        {
+          "name": "Hermitage-Kazan Center",
+          "wiki_title": "Эрмитаж-Казань",
+          "lat": 55.7975,
+          "lng": 49.1067,
+          "order_index": 8,
+          "description": "A prestigious art gallery hosting rotating masterpieces within the historic Kremlin compound.",
+          "seo_phrase": "Hermitage-Kazan Exhibition Center: Art inside the Kremlin",
+          "seo_keywords": [
+            "Hermitage Kazan",
+            "Kazan art gallery",
+            "Kremlin art exhibitions",
+            "Junker school Kazan"
+          ],
+          "commons_file": "Junker School Kazan Kremlin.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Junker_School_Kazan_Kremlin.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Kazan Kremlin",
+            "Annunciation Cathedral",
+            "Kul Sharif Mosque"
+          ]
+        },
+        {
+          "name": "Millennium Park of Kazan",
+          "wiki_title": "Millennium Park of Kazan",
+          "lat": 55.7844,
+          "lng": 49.1231,
+          "order_index": 9,
+          "description": "A manicured anniversary park featuring a large central boiling-cauldron fountain.",
+          "seo_phrase": "Millennium Park Kazan: Cascade Fountain & Walking Paths",
+          "seo_keywords": [
+            "Millennium Park Kazan",
+            "Kazan cauldron fountain",
+            "Zilant dragon",
+            "anniversary parks"
+          ],
+          "commons_file": "Millennium Park Kazan.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Millennium_Park_Kazan.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Lake Kaban",
+            "Tukay Square",
+            "Bauman Street"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Sochi",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Sochi",
+      "seo": {
+        "title": "Top 10 Things to Do in Sochi, Russia",
+        "description": "Discover 10 must-see landmarks in Sochi, Russia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Sochi? Explore the best places to visit in Sochi, Russia.",
+        "keywords": [
+          "things to do in Sochi",
+          "Sochi Russia travel guide",
+          "best places to visit in Sochi",
+          "Sochi landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Rosa Khutor Alpine Resort",
+          "wiki_title": "Rosa Khutor Alpine Resort",
+          "lat": 43.6719,
+          "lng": 40.2917,
+          "order_index": 0,
+          "description": "A European-style mountain village nestled along the scenic Mzymta River.",
+          "seo_phrase": "Rosa Khutor Sochi: Alpine Resort Guide & Cable Cars",
+          "seo_keywords": [
+            "Rosa Khutor",
+            "Krasnaya Polyana Sochi",
+            "Russian ski resort",
+            "Caucasus mountain lift"
+          ],
+          "commons_file": "Rosa Khutor Resort Krasnaya Polyana.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Rosa_Khutor_Resort_Krasnaya_Polyana.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mzymta River Promenade",
+            "Rosa Peak Viewpoint"
+          ]
+        },
+        {
+          "name": "Olympic Park Sochi",
+          "wiki_title": "Sochi Olympic Park",
+          "lat": 43.4025,
+          "lng": 39.9547,
+          "order_index": 1,
+          "description": "The coastal cluster of the 2014 Winter Games, featuring massive futuristic arenas.",
+          "seo_phrase": "Sochi Olympic Park: Singing Fountains & Stadium Architecture",
+          "seo_keywords": [
+            "Sochi Olympic Park",
+            "Fisht Stadium",
+            "Sochi singing fountains",
+            "Olympic legacy Russia"
+          ],
+          "commons_file": "Sochi Olympic Park Medals Plaza.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sochi_Olympic_Park_Medals_Plaza.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "navigational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Sochi Park Theme Park",
+            "Fisht Stadium",
+            "Imeretinskaya Embankment"
+          ]
+        },
+        {
+          "name": "Sochi Arboretum",
+          "wiki_title": "Sochi Arboretum",
+          "lat": 43.5714,
+          "lng": 39.7425,
+          "order_index": 2,
+          "description": "A historic, terraced subtropical botanical park overlooking the Black Sea.",
+          "seo_phrase": "Sochi Arboretum Guide: Subtropical Plants & Cable Car",
+          "seo_keywords": [
+            "Sochi Arboretum",
+            "Dendrariy Sochi",
+            "subtropical botanical garden",
+            "Sochi cable car"
+          ],
+          "image_url": "",
+          "seo_priority": 94,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Sochi Circus",
+            "Black Sea Promenade"
+          ]
+        },
+        {
+          "name": "Sochi Park",
+          "wiki_title": "Sochi Park",
+          "lat": 43.4019,
+          "lng": 39.9639,
+          "order_index": 3,
+          "description": "A major cultural theme park themed entirely around classic Russian folklore and legends.",
+          "seo_phrase": "Sochi Park Theme Park: Rides, Tickets & Bogatyr Hotel",
+          "seo_keywords": [
+            "Sochi Park",
+            "Russian theme park",
+            "Bogatyr castle",
+            "Kvantovy Skachok coaster"
+          ],
+          "commons_file": "Sochi Park Bogatyr Hotel.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sochi_Park_Bogatyr_Hotel.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Olympic Park Sochi",
+            "Fisht Stadium",
+            "Imeretinskaya Embankment"
+          ]
+        },
+        {
+          "name": "Marine Station (Morskoy Vokzal)",
+          "wiki_title": "Sochi Marine Station",
+          "lat": 43.5806,
+          "lng": 39.7189,
+          "order_index": 4,
+          "description": "A stunning maritime terminal building featuring a grand 71-meter decorative spire.",
+          "seo_phrase": "Sochi Marine Station: Soviet Empire Architecture & Marina",
+          "seo_keywords": [
+            "Sochi Marine Station",
+            "Morskoy Vokzal",
+            "Soviet Empire style",
+            "Sochi harbor"
+          ],
+          "commons_file": "Sochi Marine Terminal Main Facade.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Sochi_Marine_Terminal_Main_Facade.jpg",
+          "seo_priority": 91,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Navaginskaya Pedestrian Street",
+            "Riviera Park",
+            "Sochi Art Museum"
+          ]
+        },
+        {
+          "name": "Riviera Park",
+          "wiki_title": "Riviera Park",
+          "lat": 43.5919,
+          "lng": 39.7153,
+          "order_index": 5,
+          "description": "Sochi’s oldest historical amusement and botanical park, famous for its magnolia trees.",
+          "seo_phrase": "Riviera Park Sochi: Historic Greenery & Magnolia Alleys",
+          "seo_keywords": [
+            "Riviera Park Sochi",
+            "Khludov park history",
+            "Magnolia alley",
+            "Sochi city parks"
+          ],
+          "commons_file": "Riviera Park Sochi Entrance.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Riviera_Park_Sochi_Entrance.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Marine Station",
+            "Riviera Beach",
+            "Navaginskaya Street"
+          ]
+        },
+        {
+          "name": "Sochi",
+          "wiki_title": "Sochi",
+          "lat": 43.58527778,
+          "lng": 39.72027778,
+          "order_index": 6,
+          "description": "Sochi — a notable landmark in Sochi, Russia.",
+          "seo_phrase": "Sochi",
+          "seo_keywords": [
+            "Sochi",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Sochi harbour.jpg/800px-Sochi harbour.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sochi_harbour.jpg/800px-Sochi_harbour.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Adler",
+          "wiki_title": "Adler, Russia",
+          "lat": 43.43333333,
+          "lng": 39.91666667,
+          "order_index": 7,
+          "description": "Adler, Russia — a notable landmark in Sochi, Russia.",
+          "seo_phrase": "Adler",
+          "seo_keywords": [
+            "Sochi",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Adler from Akhun.JPG/800px-Adler from Akhun.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Adler_from_Akhun.JPG/800px-Adler_from_Akhun.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "2014 Winter Olympics opening ceremony",
+          "wiki_title": "2014 Winter Olympics opening ceremony",
+          "lat": 43.4022667,
+          "lng": 39.9561111,
+          "order_index": 8,
+          "description": "2014 Winter Olympics opening ceremony — a notable landmark in Sochi, Russia.",
+          "seo_phrase": "2014 Winter Olympics opening ceremony",
+          "seo_keywords": [
+            "Sochi",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Sochi Winter Olympic Opening 15.jpg/800px-Sochi Winter Olympic Opening 15.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sochi_Winter_Olympic_Opening_15.jpg/800px-Sochi_Winter_Olympic_Opening_15.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Yuzhno-Sakhalinsk cathedral shooting",
+          "wiki_title": "Yuzhno-Sakhalinsk cathedral shooting",
+          "lat": 46.96071,
+          "lng": 142.74816,
+          "order_index": 9,
+          "description": "Yuzhno-Sakhalinsk cathedral shooting — a notable landmark in Sochi, Russia.",
+          "seo_phrase": "Yuzhno-Sakhalinsk cathedral shooting",
+          "seo_keywords": [
+            "Sochi",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Воскресенский собор в Южно-Сахалинске. (1).JPG/800px-Воскресенский собор в Южно-Сахалинске. (1).JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D0%AE%D0%B6%D0%BD%D0%BE-%D0%A1%D0%B0%D1%85%D0%B0%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B5._%281%29.JPG/800px-%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D0%AE%D0%B6%D0%BD%D0%BE-%D0%A1%D0%B0%D1%85%D0%B0%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B5._%281%29.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Nizhny Novgorod",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Nizhny Novgorod",
+      "seo": {
+        "title": "Top 10 Things to Do in Nizhny Novgorod, Russia",
+        "description": "Discover 10 must-see landmarks in Nizhny Novgorod, Russia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Nizhny Novgorod? Explore the best places to visit in Nizhny Novgorod, Russia.",
+        "keywords": [
+          "things to do in Nizhny Novgorod",
+          "Nizhny Novgorod Russia travel guide",
+          "best places to visit in Nizhny Novgorod",
+          "Nizhny Novgorod landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Nizhny Novgorod",
+          "wiki_title": "Nizhny Novgorod",
+          "lat": 56.32694444,
+          "lng": 44.0075,
+          "order_index": 0,
+          "description": "Nizhny Novgorod — a notable landmark in Nizhny Novgorod, Russia.",
+          "seo_phrase": "Nizhny Novgorod",
+          "seo_keywords": [
+            "Nizhny Novgorod",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Nizhny Novgorod 2025-04-29 Minin and Pozharsky square 01.jpg/800px-Nizhny Novgorod 2025-04-29 Minin and Pozharsky square 01.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Nizhny_Novgorod_2025-04-29_Minin_and_Pozharsky_square_01.jpg/800px-Nizhny_Novgorod_2025-04-29_Minin_and_Pozharsky_square_01.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Vladimir",
+          "wiki_title": "Vladimir, Russia",
+          "lat": 56.12861111,
+          "lng": 40.40583333,
+          "order_index": 1,
+          "description": "Vladimir, Russia — a notable landmark in Nizhny Novgorod, Russia.",
+          "seo_phrase": "Vladimir",
+          "seo_keywords": [
+            "Nizhny Novgorod",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Владимир, вид на Успенский собор.JPG/800px-Владимир, вид на Успенский собор.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%2C_%D0%B2%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80.JPG/800px-%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%2C_%D0%B2%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Novgorod Republic",
+          "wiki_title": "Novgorod Republic",
+          "lat": 58.55,
+          "lng": 31.26666667,
+          "order_index": 2,
+          "description": "Novgorod Republic — a notable landmark in Nizhny Novgorod, Russia.",
+          "seo_phrase": "Novgorod Republic",
+          "seo_keywords": [
+            "Nizhny Novgorod",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Novgorod1400.png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Novgorod1400.png",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Kuzma Minin",
+          "wiki_title": "Kuzma Minin",
+          "lat": 56.328309,
+          "lng": 44.001899,
+          "order_index": 3,
+          "description": "Kuzma Minin — a notable landmark in Nizhny Novgorod, Russia.",
+          "seo_phrase": "Kuzma Minin",
+          "seo_keywords": [
+            "Nizhny Novgorod",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Kuzma Minin engraving.png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Kuzma_Minin_engraving.png",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Nizhny Novgorod Fair",
+          "wiki_title": "Nizhny Novgorod Fair",
+          "lat": 56.32833333,
+          "lng": 43.96083333,
+          "order_index": 4,
+          "description": "Nizhny Novgorod Fair — a notable landmark in Nizhny Novgorod, Russia.",
+          "seo_phrase": "Nizhny Novgorod Fair",
+          "seo_keywords": [
+            "Nizhny Novgorod",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "NN the Fair 01-11-2021 13.jpg/800px-NN the Fair 01-11-2021 13.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/NN_the_Fair_01-11-2021_13.jpg/800px-NN_the_Fair_01-11-2021_13.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Makaryev Monastery",
+          "wiki_title": "Makaryev Monastery",
+          "lat": 56.0825,
+          "lng": 45.06388889,
+          "order_index": 5,
+          "description": "Makaryev Monastery — a notable landmark in Nizhny Novgorod, Russia.",
+          "seo_phrase": "Makaryev Monastery",
+          "seo_keywords": [
+            "Nizhny Novgorod",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Макарьево Свято-Троице-Макарьево-Желтоводский монастырь N56 05.402 E45 03.647.jpg/800px-Макарьево Свято-Троице-Макарьево-Желтоводский монастырь N56 05.402 E45 03.647.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%D1%8C%D0%B5%D0%B2%D0%BE_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B5-%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%D1%8C%D0%B5%D0%B2%D0%BE-%D0%96%D0%B5%D0%BB%D1%82%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_N56_05.402_E45_03.647.jpg/800px-%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%D1%8C%D0%B5%D0%B2%D0%BE_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B5-%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%D1%8C%D0%B5%D0%B2%D0%BE-%D0%96%D0%B5%D0%BB%D1%82%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_N56_05.402_E45_03.647.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Ardatov",
+          "wiki_title": "Ardatov, Nizhny Novgorod Oblast",
+          "lat": 55.23861111,
+          "lng": 43.09638889,
+          "order_index": 6,
+          "description": "Ardatov, Nizhny Novgorod Oblast — a notable landmark in Nizhny Novgorod, Russia.",
+          "seo_phrase": "Ardatov",
+          "seo_keywords": [
+            "Nizhny Novgorod",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Ардатов. Панорама.jpg/800px-Ардатов. Панорама.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%D0%90%D1%80%D0%B4%D0%B0%D1%82%D0%BE%D0%B2._%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0.jpg/800px-%D0%90%D1%80%D0%B4%D0%B0%D1%82%D0%BE%D0%B2._%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Pechersky Ascension Monastery",
+          "wiki_title": "Pechersky Ascension Monastery",
+          "lat": 56.32277778,
+          "lng": 44.04972222,
+          "order_index": 7,
+          "description": "Pechersky Ascension Monastery — a notable landmark in Nizhny Novgorod, Russia.",
+          "seo_phrase": "Pechersky Ascension Monastery",
+          "seo_keywords": [
+            "Nizhny Novgorod",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "NN Pechersky Monastery 08-2016.jpg/800px-NN Pechersky Monastery 08-2016.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NN_Pechersky_Monastery_08-2016.jpg/800px-NN_Pechersky_Monastery_08-2016.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Nizhny Novgorod Stadium",
+          "wiki_title": "Nizhny Novgorod Stadium",
+          "lat": 56.3375,
+          "lng": 43.96333333,
+          "order_index": 8,
+          "description": "Nizhny Novgorod Stadium — a notable landmark in Nizhny Novgorod, Russia.",
+          "seo_phrase": "Nizhny Novgorod Stadium",
+          "seo_keywords": [
+            "Nizhny Novgorod",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Nizhny Novgorod Stadium asv2019-05.jpg/800px-Nizhny Novgorod Stadium asv2019-05.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Nizhny_Novgorod_Stadium_asv2019-05.jpg/800px-Nizhny_Novgorod_Stadium_asv2019-05.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Nizhny Novgorod Kremlin",
+          "wiki_title": "Nizhny Novgorod Kremlin",
+          "lat": 56.32850278,
+          "lng": 44.00256389,
+          "order_index": 9,
+          "description": "Nizhny Novgorod Kremlin — a notable landmark in Nizhny Novgorod, Russia.",
+          "seo_phrase": "Nizhny Novgorod Kremlin",
+          "seo_keywords": [
+            "Nizhny Novgorod",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Вид на Нижегородский кремль с высоты cropped.jpg/800px-Вид на Нижегородский кремль с высоты cropped.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C_%D1%81_%D0%B2%D1%8B%D1%81%D0%BE%D1%82%D1%8B_cropped.jpg/800px-%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C_%D1%81_%D0%B2%D1%8B%D1%81%D0%BE%D1%82%D1%8B_cropped.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Yekaterinburg",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Yekaterinburg",
+      "seo": {
+        "title": "Top 10 Things to Do in Yekaterinburg, Russia",
+        "description": "Discover 10 must-see landmarks in Yekaterinburg, Russia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Yekaterinburg? Explore the best places to visit in Yekaterinburg, Russia.",
+        "keywords": [
+          "things to do in Yekaterinburg",
+          "Yekaterinburg Russia travel guide",
+          "best places to visit in Yekaterinburg",
+          "Yekaterinburg landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Yekaterinburg",
+          "wiki_title": "Yekaterinburg",
+          "lat": 56.83555556,
+          "lng": 60.61277778,
+          "order_index": 0,
+          "description": "Yekaterinburg — a notable landmark in Yekaterinburg, Russia.",
+          "seo_phrase": "Yekaterinburg",
+          "seo_keywords": [
+            "Yekaterinburg",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "E-burg asv2019-05 img46 view from VysotSky.jpg/800px-E-burg asv2019-05 img46 view from VysotSky.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/E-burg_asv2019-05_img46_view_from_VysotSky.jpg/800px-E-burg_asv2019-05_img46_view_from_VysotSky.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Verkhoturye",
+          "wiki_title": "Verkhoturye",
+          "lat": 58.86666667,
+          "lng": 60.8,
+          "order_index": 1,
+          "description": "Verkhoturye — a notable landmark in Yekaterinburg, Russia.",
+          "seo_phrase": "Verkhoturye",
+          "seo_keywords": [
+            "Yekaterinburg",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Verkhoturye TrinityCathedral DJI 0116.jpg/800px-Verkhoturye TrinityCathedral DJI 0116.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Verkhoturye_TrinityCathedral_DJI_0116.jpg/800px-Verkhoturye_TrinityCathedral_DJI_0116.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Murder of the Romanov family",
+          "wiki_title": "Murder of the Romanov family",
+          "lat": 56.84416667,
+          "lng": 60.60972222,
+          "order_index": 2,
+          "description": "Murder of the Romanov family — a notable landmark in Yekaterinburg, Russia.",
+          "seo_phrase": "Murder of the Romanov family",
+          "seo_keywords": [
+            "Yekaterinburg",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Ipatyev house basement.jpg/800px-Ipatyev house basement.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ipatyev_house_basement.jpg/800px-Ipatyev_house_basement.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Trinity Cathedral (Yekaterinburg)",
+          "wiki_title": "Trinity Cathedral (Yekaterinburg",
+          "lat": 56.8274,
+          "lng": 60.6144,
+          "order_index": 3,
+          "description": "Trinity Cathedral (Yekaterinburg) — a notable landmark in Yekaterinburg, Russia.",
+          "seo_phrase": "Trinity Cathedral (Yekaterinburg)",
+          "seo_keywords": [
+            "Yekaterinburg",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Trinity Cathedral (Yekaterinburg) 25-4-10.jpg/800px-Trinity Cathedral (Yekaterinburg) 25-4-10.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Trinity_Cathedral_%28Yekaterinburg%29_25-4-10.jpg/800px-Trinity_Cathedral_%28Yekaterinburg%29_25-4-10.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Catherine's Cathedral",
+          "wiki_title": "Catherine's Cathedral, Yekaterinburg",
+          "lat": 56.5018,
+          "lng": 60.3624,
+          "order_index": 4,
+          "description": "Catherine's Cathedral, Yekaterinburg — a notable landmark in Yekaterinburg, Russia.",
+          "seo_phrase": "Catherine's Cathedral",
+          "seo_keywords": [
+            "Yekaterinburg",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Екатерининский собор Екатеринбург.jpg/800px-Екатерининский собор Екатеринбург.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3.jpg/800px-%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Kazan",
+          "wiki_title": "Kazan",
+          "lat": 55.79638889,
+          "lng": 49.10888889,
+          "order_index": 5,
+          "description": "Kazan — a notable landmark in Yekaterinburg, Russia.",
+          "seo_phrase": "Kazan",
+          "seo_keywords": [
+            "Yekaterinburg",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Дворец земледельцев2.jpg/800px-Дворец земледельцев2.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D1%86%D0%B5%D0%B22.jpg/800px-%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D1%86%D0%B5%D0%B22.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Peter and Paul Fortress",
+          "wiki_title": "Peter and Paul Fortress",
+          "lat": 59.95,
+          "lng": 30.317,
+          "order_index": 6,
+          "description": "Peter and Paul Fortress — a notable landmark in Yekaterinburg, Russia.",
+          "seo_phrase": "Peter and Paul Fortress",
+          "seo_keywords": [
+            "Yekaterinburg",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "RUS-2016-Aerial-SPB-Peter and Paul Fortress 02.jpg/800px-RUS-2016-Aerial-SPB-Peter and Paul Fortress 02.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RUS-2016-Aerial-SPB-Peter_and_Paul_Fortress_02.jpg/800px-RUS-2016-Aerial-SPB-Peter_and_Paul_Fortress_02.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Lake Valdayskoye",
+          "wiki_title": "Lake Valdayskoye",
+          "lat": 57.9875,
+          "lng": 33.295,
+          "order_index": 7,
+          "description": "Lake Valdayskoye — a notable landmark in Yekaterinburg, Russia.",
+          "seo_phrase": "Lake Valdayskoye",
+          "seo_keywords": [
+            "Yekaterinburg",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Valdai IverskyMon asv2018 img48.jpg/800px-Valdai IverskyMon asv2018 img48.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Valdai_IverskyMon_asv2018_img48.jpg/800px-Valdai_IverskyMon_asv2018_img48.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": []
+        },
+        {
+          "name": "Winter Palace",
+          "wiki_title": "Winter Palace",
+          "lat": 59.9404,
+          "lng": 30.3139,
+          "order_index": 8,
+          "description": "Winter Palace — a notable landmark in Yekaterinburg, Russia.",
+          "seo_phrase": "Winter Palace",
+          "seo_keywords": [
+            "Yekaterinburg",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "RUS-2016-Aerial-SPB-Winter Palace (crop).jpg/800px-RUS-2016-Aerial-SPB-Winter Palace (crop).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/RUS-2016-Aerial-SPB-Winter_Palace_%28crop%29.jpg/800px-RUS-2016-Aerial-SPB-Winter_Palace_%28crop%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Ipatiev House",
+          "wiki_title": "Ipatiev House",
+          "lat": 56.84416667,
+          "lng": 60.60972222,
+          "order_index": 9,
+          "description": "Ipatiev House — a notable landmark in Yekaterinburg, Russia.",
+          "seo_phrase": "Ipatiev House",
+          "seo_keywords": [
+            "Yekaterinburg",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Ipatjew-Haus2.jpg/800px-Ipatjew-Haus2.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ipatjew-Haus2.jpg/800px-Ipatjew-Haus2.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Novosibirsk",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Novosibirsk",
+      "seo": {
+        "title": "Top 10 Things to Do in Novosibirsk, Russia",
+        "description": "Discover 10 must-see landmarks in Novosibirsk, Russia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Novosibirsk? Explore the best places to visit in Novosibirsk, Russia.",
+        "keywords": [
+          "things to do in Novosibirsk",
+          "Novosibirsk Russia travel guide",
+          "best places to visit in Novosibirsk",
+          "Novosibirsk landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Novosibirsk",
+          "wiki_title": "Novosibirsk",
+          "lat": 55.05,
+          "lng": 82.95,
+          "order_index": 0,
+          "description": "Novosibirsk — a notable landmark in Novosibirsk, Russia.",
+          "seo_phrase": "Novosibirsk",
+          "seo_keywords": [
+            "Novosibirsk",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Opera-and-Ballet-theatre-Novosibirsk.jpg/800px-Opera-and-Ballet-theatre-Novosibirsk.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Opera-and-Ballet-theatre-Novosibirsk.jpg/800px-Opera-and-Ballet-theatre-Novosibirsk.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Krasnoyarsk",
+          "wiki_title": "Krasnoyarsk",
+          "lat": 56.00888889,
+          "lng": 92.87194444,
+          "order_index": 1,
+          "description": "Krasnoyarsk — a notable landmark in Novosibirsk, Russia.",
+          "seo_phrase": "Krasnoyarsk",
+          "seo_keywords": [
+            "Novosibirsk",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Красноярск (ночной).jpg/800px-Красноярск (ночной).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA_%28%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%29.jpg/800px-%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA_%28%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Berdsk",
+          "wiki_title": "Berdsk",
+          "lat": 54.75,
+          "lng": 83.1,
+          "order_index": 2,
+          "description": "Berdsk — a notable landmark in Novosibirsk, Russia.",
+          "seo_phrase": "Berdsk",
+          "seo_keywords": [
+            "Novosibirsk",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Berdsk city panoramic.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Berdsk_city_panoramic.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Diocese of Saint Joseph at Irkutsk",
+          "wiki_title": "Diocese of Saint Joseph at Irkutsk",
+          "lat": 52.26278,
+          "lng": 104.25727111,
+          "order_index": 3,
+          "description": "Diocese of Saint Joseph at Irkutsk — a notable landmark in Novosibirsk, Russia.",
+          "seo_phrase": "Diocese of Saint Joseph at Irkutsk",
+          "seo_keywords": [
+            "Novosibirsk",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Собор Непорочного Сердца Божией Матери (Иркутск) 003.jpg/800px-Собор Непорочного Сердца Божией Матери (Иркутск) 003.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9D%D0%B5%D0%BF%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE_%D0%A1%D0%B5%D1%80%D0%B4%D1%86%D0%B0_%D0%91%D0%BE%D0%B6%D0%B8%D0%B5%D0%B9_%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8_%28%D0%98%D1%80%D0%BA%D1%83%D1%82%D1%81%D0%BA%29_003.jpg/800px-%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9D%D0%B5%D0%BF%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE_%D0%A1%D0%B5%D1%80%D0%B4%D1%86%D0%B0_%D0%91%D0%BE%D0%B6%D0%B8%D0%B5%D0%B9_%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8_%28%D0%98%D1%80%D0%BA%D1%83%D1%82%D1%81%D0%BA%29_003.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Alexander Nevsky Cathedral",
+          "wiki_title": "Alexander Nevsky Cathedral, Novosibirsk",
+          "lat": 55.01944444,
+          "lng": 82.9225,
+          "order_index": 4,
+          "description": "Alexander Nevsky Cathedral, Novosibirsk — a notable landmark in Novosibirsk, Russia.",
+          "seo_phrase": "Alexander Nevsky Cathedral",
+          "seo_keywords": [
+            "Novosibirsk",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Novosibirsk ANevsky Cathedral 07-2016 img1.jpg/800px-Novosibirsk ANevsky Cathedral 07-2016 img1.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Novosibirsk_ANevsky_Cathedral_07-2016_img1.jpg/800px-Novosibirsk_ANevsky_Cathedral_07-2016_img1.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Transfiguration Cathedral",
+          "wiki_title": "Transfiguration Cathedral, Novosibirsk",
+          "lat": 55.0275,
+          "lng": 82.9283,
+          "order_index": 5,
+          "description": "Transfiguration Cathedral, Novosibirsk — a notable landmark in Novosibirsk, Russia.",
+          "seo_phrase": "Transfiguration Cathedral",
+          "seo_keywords": [
+            "Novosibirsk",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Собор Преображения Господня (Новосибирск).jpg/800px-Собор Преображения Господня (Новосибирск).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%BD%D1%8F_%28%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%29.jpg/800px-%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%BD%D1%8F_%28%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Orthodox cathedral of the Ascension of Christ",
+          "wiki_title": "Orthodox cathedral of the Ascension of Christ, Novosibirsk",
+          "lat": 55.0422,
+          "lng": 82.9122,
+          "order_index": 6,
+          "description": "Orthodox cathedral of the Ascension of Christ, Novosibirsk — a notable landmark in Novosibirsk, Russia.",
+          "seo_phrase": "Orthodox cathedral of the Ascension of Christ",
+          "seo_keywords": [
+            "Novosibirsk",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Novosibirsk Ascension Cathedral 07-2016 img2.jpg/800px-Novosibirsk Ascension Cathedral 07-2016 img2.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Novosibirsk_Ascension_Cathedral_07-2016_img2.jpg/800px-Novosibirsk_Ascension_Cathedral_07-2016_img2.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Cathedral of the Nativity of the Blessed Virgin Mary",
+          "wiki_title": "Cathedral of the Nativity of the Blessed Virgin Mary, Novosibirsk",
+          "lat": 55.0834,
+          "lng": 82.8906,
+          "order_index": 7,
+          "description": "Cathedral of the Nativity of the Blessed Virgin Mary, Novosibirsk — a notable landmark in Novosibirsk, Russia.",
+          "seo_phrase": "Cathedral of the Nativity of the Blessed Virgin Mary",
+          "seo_keywords": [
+            "Novosibirsk",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Church of the Nativity of the Theotokos, Novosibirsk 03.jpg/800px-Church of the Nativity of the Theotokos, Novosibirsk 03.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Church_of_the_Nativity_of_the_Theotokos%2C_Novosibirsk_03.jpg/800px-Church_of_the_Nativity_of_the_Theotokos%2C_Novosibirsk_03.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Irkutsk",
+          "wiki_title": "Irkutsk",
+          "lat": 52.2892,
+          "lng": 104.28,
+          "order_index": 8,
+          "description": "Irkutsk — a notable landmark in Novosibirsk, Russia.",
+          "seo_phrase": "Irkutsk",
+          "seo_keywords": [
+            "Novosibirsk",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Teatr Dramatyczny w Irkucku.JPG/800px-Teatr Dramatyczny w Irkucku.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Teatr_Dramatyczny_w_Irkucku.JPG/800px-Teatr_Dramatyczny_w_Irkucku.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Novosibirsk Zoo",
+          "wiki_title": "Novosibirsk Zoo",
+          "lat": 55.056,
+          "lng": 82.88,
+          "order_index": 9,
+          "description": "Novosibirsk Zoo — a notable landmark in Novosibirsk, Russia.",
+          "seo_phrase": "Novosibirsk Zoo",
+          "seo_keywords": [
+            "Novosibirsk",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Zaeltsovskiy rayon, Novosibirsk, Novosibirskaya oblast', Russia - panoramio (9).jpg/800px-Zaeltsovskiy rayon, Novosibirsk, Novosibirskaya oblast', Russia - panoramio (9).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Zaeltsovskiy_rayon%2C_Novosibirsk%2C_Novosibirskaya_oblast%27%2C_Russia_-_panoramio_%289%29.jpg/800px-Zaeltsovskiy_rayon%2C_Novosibirsk%2C_Novosibirskaya_oblast%27%2C_Russia_-_panoramio_%289%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Kaliningrad",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Kaliningrad",
+      "seo": {
+        "title": "Top 10 Things to Do in Kaliningrad, Russia",
+        "description": "Discover 10 must-see landmarks in Kaliningrad, Russia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Kaliningrad? Explore the best places to visit in Kaliningrad, Russia.",
+        "keywords": [
+          "things to do in Kaliningrad",
+          "Kaliningrad Russia travel guide",
+          "best places to visit in Kaliningrad",
+          "Kaliningrad landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Chernyakhovsk",
+          "wiki_title": "Chernyakhovsk",
+          "lat": 54.63472222,
+          "lng": 21.81194444,
+          "order_index": 0,
+          "description": "Chernyakhovsk — a notable landmark in Kaliningrad, Russia.",
+          "seo_phrase": "Chernyakhovsk",
+          "seo_keywords": [
+            "Kaliningrad",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Сквер у памятника Барклаю де Толли.jpg/800px-Сквер у памятника Барклаю де Толли.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/%D0%A1%D0%BA%D0%B2%D0%B5%D1%80_%D1%83_%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%D0%B0_%D0%91%D0%B0%D1%80%D0%BA%D0%BB%D0%B0%D1%8E_%D0%B4%D0%B5_%D0%A2%D0%BE%D0%BB%D0%BB%D0%B8.jpg/800px-%D0%A1%D0%BA%D0%B2%D0%B5%D1%80_%D1%83_%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%D0%B0_%D0%91%D0%B0%D1%80%D0%BA%D0%BB%D0%B0%D1%8E_%D0%B4%D0%B5_%D0%A2%D0%BE%D0%BB%D0%BB%D0%B8.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Baltiysk",
+          "wiki_title": "Baltiysk",
+          "lat": 54.65,
+          "lng": 19.91666667,
+          "order_index": 1,
+          "description": "Baltiysk — a notable landmark in Kaliningrad, Russia.",
+          "seo_phrase": "Baltiysk",
+          "seo_keywords": [
+            "Kaliningrad",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "BaltiyskPillau 05-2017 img07 aerial photo.jpg/800px-BaltiyskPillau 05-2017 img07 aerial photo.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/BaltiyskPillau_05-2017_img07_aerial_photo.jpg/800px-BaltiyskPillau_05-2017_img07_aerial_photo.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Curonian Spit",
+          "wiki_title": "Curonian Spit",
+          "lat": 55.27444444,
+          "lng": 20.97083333,
+          "order_index": 2,
+          "description": "Curonian Spit — a notable landmark in Kaliningrad, Russia.",
+          "seo_phrase": "Curonian Spit",
+          "seo_keywords": [
+            "Kaliningrad",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Mirties slėnis nuo Parnidžio kopos.JPG/800px-Mirties slėnis nuo Parnidžio kopos.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Mirties_sl%C4%97nis_nuo_Parnid%C5%BEio_kopos.JPG/800px-Mirties_sl%C4%97nis_nuo_Parnid%C5%BEio_kopos.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Neman",
+          "wiki_title": "Neman, Russia",
+          "lat": 55.03333333,
+          "lng": 22.03333333,
+          "order_index": 3,
+          "description": "Neman, Russia — a notable landmark in Kaliningrad, Russia.",
+          "seo_phrase": "Neman",
+          "seo_keywords": [
+            "Kaliningrad",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Неман. Замок Рагнит.JPG/800px-Неман. Замок Рагнит.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%D0%9D%D0%B5%D0%BC%D0%B0%D0%BD._%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%A0%D0%B0%D0%B3%D0%BD%D0%B8%D1%82.JPG/800px-%D0%9D%D0%B5%D0%BC%D0%B0%D0%BD._%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%A0%D0%B0%D0%B3%D0%BD%D0%B8%D1%82.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Balga",
+          "wiki_title": "Balga",
+          "lat": 54.5525,
+          "lng": 19.96944444,
+          "order_index": 4,
+          "description": "Balga — a notable landmark in Kaliningrad, Russia.",
+          "seo_phrase": "Balga",
+          "seo_keywords": [
+            "Kaliningrad",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Zamok balga may2006.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Zamok_balga_may2006.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Gvardeysk",
+          "wiki_title": "Gvardeysk",
+          "lat": 54.66666667,
+          "lng": 21.08333333,
+          "order_index": 5,
+          "description": "Gvardeysk — a notable landmark in Kaliningrad, Russia.",
+          "seo_phrase": "Gvardeysk",
+          "seo_keywords": [
+            "Kaliningrad",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Гвардейск Кирха 5 сентября 2016 02.jpg/800px-Гвардейск Кирха 5 сентября 2016 02.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/%D0%93%D0%B2%D0%B0%D1%80%D0%B4%D0%B5%D0%B9%D1%81%D0%BA_%D0%9A%D0%B8%D1%80%D1%85%D0%B0_5_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2016_02.jpg/800px-%D0%93%D0%B2%D0%B0%D1%80%D0%B4%D0%B5%D0%B9%D1%81%D0%BA_%D0%9A%D0%B8%D1%80%D1%85%D0%B0_5_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2016_02.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Znamensk",
+          "wiki_title": "Znamensk, Kaliningrad Oblast",
+          "lat": 54.61666667,
+          "lng": 21.21666667,
+          "order_index": 6,
+          "description": "Znamensk, Kaliningrad Oblast — a notable landmark in Kaliningrad, Russia.",
+          "seo_phrase": "Znamensk",
+          "seo_keywords": [
+            "Kaliningrad",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Знаменск Кирха Святого Якоба 5 сентября 2016.jpg/800px-Знаменск Кирха Святого Якоба 5 сентября 2016.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA_%D0%9A%D0%B8%D1%80%D1%85%D0%B0_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%AF%D0%BA%D0%BE%D0%B1%D0%B0_5_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2016.jpg/800px-%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA_%D0%9A%D0%B8%D1%80%D1%85%D0%B0_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%AF%D0%BA%D0%BE%D0%B1%D0%B0_5_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2016.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Bagrationovsk",
+          "wiki_title": "Bagrationovsk",
+          "lat": 54.4,
+          "lng": 20.63333333,
+          "order_index": 7,
+          "description": "Bagrationovsk — a notable landmark in Kaliningrad, Russia.",
+          "seo_phrase": "Bagrationovsk",
+          "seo_keywords": [
+            "Kaliningrad",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Рыцарский замок Пройсиш-Эйлау (XIV век)..JPG/800px-Рыцарский замок Пройсиш-Эйлау (XIV век)..JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/%D0%A0%D1%8B%D1%86%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA_%D0%9F%D1%80%D0%BE%D0%B9%D1%81%D0%B8%D1%88-%D0%AD%D0%B9%D0%BB%D0%B0%D1%83_%28XIV_%D0%B2%D0%B5%D0%BA%29..JPG/800px-%D0%A0%D1%8B%D1%86%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA_%D0%9F%D1%80%D0%BE%D0%B9%D1%81%D0%B8%D1%88-%D0%AD%D0%B9%D0%BB%D0%B0%D1%83_%28XIV_%D0%B2%D0%B5%D0%BA%29..JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Primorsk",
+          "wiki_title": "Primorsk, Kaliningrad Oblast",
+          "lat": 54.73333333,
+          "lng": 20.01666667,
+          "order_index": 8,
+          "description": "Primorsk, Kaliningrad Oblast — a notable landmark in Kaliningrad, Russia.",
+          "seo_phrase": "Primorsk",
+          "seo_keywords": [
+            "Kaliningrad",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Здание железнодорожного вокзала Приморска. Калининградская область.jpg/800px-Здание железнодорожного вокзала Приморска. Калининградская область.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB%D0%B0_%D0%9F%D1%80%D0%B8%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%B0._%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C.jpg/800px-%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB%D0%B0_%D0%9F%D1%80%D0%B8%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%B0._%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Polessk",
+          "wiki_title": "Polessk",
+          "lat": 54.86666667,
+          "lng": 21.1,
+          "order_index": 9,
+          "description": "Polessk — a notable landmark in Kaliningrad, Russia.",
+          "seo_phrase": "Polessk",
+          "seo_keywords": [
+            "Kaliningrad",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Laubiau Innenstadt.jpg/800px-Laubiau Innenstadt.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Laubiau_Innenstadt.jpg/800px-Laubiau_Innenstadt.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Vladivostok",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Vladivostok",
+      "seo": {
+        "title": "Top 10 Things to Do in Vladivostok, Russia",
+        "description": "Discover 10 must-see landmarks in Vladivostok, Russia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Vladivostok? Explore the best places to visit in Vladivostok, Russia.",
+        "keywords": [
+          "things to do in Vladivostok",
+          "Vladivostok Russia travel guide",
+          "best places to visit in Vladivostok",
+          "Vladivostok landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Khabarovsk",
+          "wiki_title": "Khabarovsk",
+          "lat": 48.48333333,
+          "lng": 135.08333333,
+          "order_index": 0,
+          "description": "Khabarovsk — a notable landmark in Vladivostok, Russia.",
+          "seo_phrase": "Khabarovsk",
+          "seo_keywords": [
+            "Vladivostok",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Уссурийский бульвар.jpg/800px-Уссурийский бульвар.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/%D0%A3%D1%81%D1%81%D1%83%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80.jpg/800px-%D0%A3%D1%81%D1%81%D1%83%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Saint Sophia Cathedral",
+          "wiki_title": "Saint Sophia Cathedral, Harbin",
+          "lat": 45.76809445,
+          "lng": 126.62152223,
+          "order_index": 1,
+          "description": "Saint Sophia Cathedral, Harbin — a notable landmark in Vladivostok, Russia.",
+          "seo_phrase": "Saint Sophia Cathedral",
+          "seo_keywords": [
+            "Vladivostok",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "West facade of St. Sophia Cathedral, Harbin (20230721150450).jpg/800px-West facade of St. Sophia Cathedral, Harbin (20230721150450).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/West_facade_of_St._Sophia_Cathedral%2C_Harbin_%2820230721150450%29.jpg/800px-West_facade_of_St._Sophia_Cathedral%2C_Harbin_%2820230721150450%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Mother of God Church",
+          "wiki_title": "Mother of God Church, Vladivostok",
+          "lat": 43.1164,
+          "lng": 131.9114,
+          "order_index": 2,
+          "description": "Mother of God Church, Vladivostok — a notable landmark in Vladivostok, Russia.",
+          "seo_phrase": "Mother of God Church",
+          "seo_keywords": [
+            "Vladivostok",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Католическая церковь Пресвятой Богородицы. 1.jpg/800px-Католическая церковь Пресвятой Богородицы. 1.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/%D0%9A%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B._1.jpg/800px-%D0%9A%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B._1.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Ayan",
+          "wiki_title": "Ayan, Russia",
+          "lat": 56.45833333,
+          "lng": 138.16805556,
+          "order_index": 3,
+          "description": "Ayan, Russia — a notable landmark in Vladivostok, Russia.",
+          "seo_phrase": "Ayan",
+          "seo_keywords": [
+            "Vladivostok",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "SAM 1712.JPG/800px-SAM 1712.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/SAM_1712.JPG/800px-SAM_1712.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Yul Brynner",
+          "wiki_title": "Yul Brynner",
+          "lat": 43.11422122,
+          "lng": 131.88124298,
+          "order_index": 4,
+          "description": "Yul Brynner — a notable landmark in Vladivostok, Russia.",
+          "seo_phrase": "Yul Brynner",
+          "seo_keywords": [
+            "Vladivostok",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Publicity press photo of Yul Brynner in 1960 (cropped).jpg/800px-Publicity press photo of Yul Brynner in 1960 (cropped).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Publicity_press_photo_of_Yul_Brynner_in_1960_%28cropped%29.jpg/800px-Publicity_press_photo_of_Yul_Brynner_in_1960_%28cropped%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Hermitage Museum",
+          "wiki_title": "Hermitage Museum",
+          "lat": 59.9406,
+          "lng": 30.3136,
+          "order_index": 5,
+          "description": "Hermitage Museum — a notable landmark in Vladivostok, Russia.",
+          "seo_phrase": "Hermitage Museum",
+          "seo_keywords": [
+            "Vladivostok",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "5174-3. St. Petersburg. Greater Hermitage.jpg/800px-5174-3. St. Petersburg. Greater Hermitage.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/5174-3._St._Petersburg._Greater_Hermitage.jpg/800px-5174-3._St._Petersburg._Greater_Hermitage.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Tyr",
+          "wiki_title": "Tyr, Russia",
+          "lat": 52.93333333,
+          "lng": 139.76666667,
+          "order_index": 6,
+          "description": "Tyr, Russia — a notable landmark in Vladivostok, Russia.",
+          "seo_phrase": "Tyr",
+          "seo_keywords": [
+            "Vladivostok",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Ravenstein-Tyr-monument-196.png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Ravenstein-Tyr-monument-196.png",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Vladivostok",
+          "wiki_title": "Vladivostok",
+          "lat": 43.115,
+          "lng": 131.8853,
+          "order_index": 7,
+          "description": "Vladivostok — a notable landmark in Vladivostok, Russia.",
+          "seo_phrase": "Vladivostok",
+          "seo_keywords": [
+            "Vladivostok",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Vladivostok. GUM Department Store P8070703 2200.jpg/800px-Vladivostok. GUM Department Store P8070703 2200.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Vladivostok._GUM_Department_Store_P8070703_2200.jpg/800px-Vladivostok._GUM_Department_Store_P8070703_2200.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Kunst and Albers",
+          "wiki_title": "Kunst and Albers",
+          "lat": 43.1155,
+          "lng": 131.8879,
+          "order_index": 8,
+          "description": "Kunst and Albers — a notable landmark in Vladivostok, Russia.",
+          "seo_phrase": "Kunst and Albers",
+          "seo_keywords": [
+            "Vladivostok",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "KA-Holzhaus1876.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/KA-Holzhaus1876.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Soviet submarine S-56",
+          "wiki_title": "Soviet submarine S-56",
+          "lat": 43.11342,
+          "lng": 131.891221,
+          "order_index": 9,
+          "description": "Soviet submarine S-56 — a notable landmark in Vladivostok, Russia.",
+          "seo_phrase": "Soviet submarine S-56",
+          "seo_keywords": [
+            "Vladivostok",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "053 - Wladiwostok 2015 (24130179580).jpg/800px-053 - Wladiwostok 2015 (24130179580).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/053_-_Wladiwostok_2015_%2824130179580%29.jpg/800px-053_-_Wladiwostok_2015_%2824130179580%29.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Irkutsk",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Irkutsk",
+      "seo": {
+        "title": "Top 10 Things to Do in Irkutsk, Russia",
+        "description": "Discover 10 must-see landmarks in Irkutsk, Russia. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Irkutsk? Explore the best places to visit in Irkutsk, Russia.",
+        "keywords": [
+          "things to do in Irkutsk",
+          "Irkutsk Russia travel guide",
+          "best places to visit in Irkutsk",
+          "Irkutsk landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Ulan-Ude",
+          "wiki_title": "Ulan-Ude",
+          "lat": 51.83333333,
+          "lng": 107.6,
+          "order_index": 0,
+          "description": "Ulan-Ude — a notable landmark in Irkutsk, Russia.",
+          "seo_phrase": "Ulan-Ude",
+          "seo_keywords": [
+            "Irkutsk",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Центр Улан-Удэ.JPG/800px-Центр Улан-Удэ.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/%D0%A6%D0%B5%D0%BD%D1%82%D1%80_%D0%A3%D0%BB%D0%B0%D0%BD-%D0%A3%D0%B4%D1%8D.JPG/800px-%D0%A6%D0%B5%D0%BD%D1%82%D1%80_%D0%A3%D0%BB%D0%B0%D0%BD-%D0%A3%D0%B4%D1%8D.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Arkhangelsk",
+          "wiki_title": "Arkhangelsk",
+          "lat": 64.5431,
+          "lng": 40.5375,
+          "order_index": 1,
+          "description": "Arkhangelsk — a notable landmark in Irkutsk, Russia.",
+          "seo_phrase": "Arkhangelsk",
+          "seo_keywords": [
+            "Irkutsk",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Arkhangelsk. Northern Dvina River P7151363 2200.jpg/800px-Arkhangelsk. Northern Dvina River P7151363 2200.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Arkhangelsk._Northern_Dvina_River_P7151363_2200.jpg/800px-Arkhangelsk._Northern_Dvina_River_P7151363_2200.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Chita",
+          "wiki_title": "Chita, Zabaykalsky Krai",
+          "lat": 52.05,
+          "lng": 113.46666667,
+          "order_index": 2,
+          "description": "Chita, Zabaykalsky Krai — a notable landmark in Irkutsk, Russia.",
+          "seo_phrase": "Chita",
+          "seo_keywords": [
+            "Irkutsk",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Коллаж Чита.jpg/800px-Коллаж Чита.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%D0%9A%D0%BE%D0%BB%D0%BB%D0%B0%D0%B6_%D0%A7%D0%B8%D1%82%D0%B0.jpg/800px-%D0%9A%D0%BE%D0%BB%D0%BB%D0%B0%D0%B6_%D0%A7%D0%B8%D1%82%D0%B0.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "S7 Airlines Flight 778",
+          "wiki_title": "S7 Airlines Flight 778",
+          "lat": 52.27481944,
+          "lng": 104.36658611,
+          "order_index": 3,
+          "description": "S7 Airlines Flight 778 — a notable landmark in Irkutsk, Russia.",
+          "seo_phrase": "S7 Airlines Flight 778",
+          "seo_keywords": [
+            "Irkutsk",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "S7 Airlines Airbus A310-324 F-OGYP.jpg/800px-S7 Airlines Airbus A310-324 F-OGYP.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/S7_Airlines_Airbus_A310-324_F-OGYP.jpg/800px-S7_Airlines_Airbus_A310-324_F-OGYP.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Shelekhov",
+          "wiki_title": "Shelekhov",
+          "lat": 52.21666667,
+          "lng": 104.11666667,
+          "order_index": 4,
+          "description": "Shelekhov — a notable landmark in Irkutsk, Russia.",
+          "seo_phrase": "Shelekhov",
+          "seo_keywords": [
+            "Irkutsk",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Площадь Ленина в Шелехове1.jpg/800px-Площадь Ленина в Шелехове1.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0_%D0%B2_%D0%A8%D0%B5%D0%BB%D0%B5%D1%85%D0%BE%D0%B2%D0%B51.jpg/800px-%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0_%D0%B2_%D0%A8%D0%B5%D0%BB%D0%B5%D1%85%D0%BE%D0%B2%D0%B51.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Apostolic Prefecture of Yuzhno Sakhalinsk",
+          "wiki_title": "Apostolic Prefecture of Yuzhno Sakhalinsk",
+          "lat": 46.9511,
+          "lng": 142.7473,
+          "order_index": 5,
+          "description": "Apostolic Prefecture of Yuzhno Sakhalinsk — a notable landmark in Irkutsk, Russia.",
+          "seo_phrase": "Apostolic Prefecture of Yuzhno Sakhalinsk",
+          "seo_keywords": [
+            "Irkutsk",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Католическая церковь в Южно-Сахалинске. (1).JPG/800px-Католическая церковь в Южно-Сахалинске. (1).JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/%D0%9A%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%B2_%D0%AE%D0%B6%D0%BD%D0%BE-%D0%A1%D0%B0%D1%85%D0%B0%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B5._%281%29.JPG/800px-%D0%9A%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%B2_%D0%AE%D0%B6%D0%BD%D0%BE-%D0%A1%D0%B0%D1%85%D0%B0%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B5._%281%29.JPG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Immaculate Heart of Mary Cathedral",
+          "wiki_title": "Immaculate Heart of Mary Cathedral, Irkutsk",
+          "lat": 52.2628,
+          "lng": 104.2572,
+          "order_index": 6,
+          "description": "Immaculate Heart of Mary Cathedral, Irkutsk — a notable landmark in Irkutsk, Russia.",
+          "seo_phrase": "Immaculate Heart of Mary Cathedral",
+          "seo_keywords": [
+            "Irkutsk",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Собор Непорочного Сердца Божией Матери (Иркутск) 003.jpg/800px-Собор Непорочного Сердца Божией Матери (Иркутск) 003.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9D%D0%B5%D0%BF%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE_%D0%A1%D0%B5%D1%80%D0%B4%D1%86%D0%B0_%D0%91%D0%BE%D0%B6%D0%B8%D0%B5%D0%B9_%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8_%28%D0%98%D1%80%D0%BA%D1%83%D1%82%D1%81%D0%BA%29_003.jpg/800px-%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9D%D0%B5%D0%BF%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE_%D0%A1%D0%B5%D1%80%D0%B4%D1%86%D0%B0_%D0%91%D0%BE%D0%B6%D0%B8%D0%B5%D0%B9_%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8_%28%D0%98%D1%80%D0%BA%D1%83%D1%82%D1%81%D0%BA%29_003.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Sakhalin",
+          "wiki_title": "Sakhalin",
+          "lat": 51,
+          "lng": 143,
+          "order_index": 7,
+          "description": "Sakhalin — a notable landmark in Irkutsk, Russia.",
+          "seo_phrase": "Sakhalin",
+          "seo_keywords": [
+            "Irkutsk",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Sakhalin (detail).PNG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Sakhalin_%28detail%29.PNG",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Vitebsk",
+          "wiki_title": "Vitebsk",
+          "lat": 55.19166667,
+          "lng": 30.20555556,
+          "order_index": 8,
+          "description": "Vitebsk — a notable landmark in Irkutsk, Russia.",
+          "seo_phrase": "Vitebsk",
+          "seo_keywords": [
+            "Irkutsk",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Віцебскія краявіды 03.jpg/800px-Віцебскія краявіды 03.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/%D0%92%D1%96%D1%86%D0%B5%D0%B1%D1%81%D0%BA%D1%96%D1%8F_%D0%BA%D1%80%D0%B0%D1%8F%D0%B2%D1%96%D0%B4%D1%8B_03.jpg/800px-%D0%92%D1%96%D1%86%D0%B5%D0%B1%D1%81%D0%BA%D1%96%D1%8F_%D0%BA%D1%80%D0%B0%D1%8F%D0%B2%D1%96%D0%B4%D1%8B_03.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Lake Baikal",
+          "wiki_title": "Lake Baikal",
+          "lat": 53.5,
+          "lng": 108,
+          "order_index": 9,
+          "description": "Lake Baikal — a notable landmark in Irkutsk, Russia.",
+          "seo_phrase": "Lake Baikal",
+          "seo_keywords": [
+            "Irkutsk",
+            "Russia",
+            "travel"
+          ],
+          "commons_file": "Baikal.A2001296.0420.250m-NASA.jpg/800px-Baikal.A2001296.0420.250m-NASA.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Baikal.A2001296.0420.250m-NASA.jpg/800px-Baikal.A2001296.0420.250m-NASA.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": []
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "Russia Scenic Road Trip",
+    "subtitle": "Explore Russia beyond the cities — nature, coastlines, and scenic routes.",
+    "wiki_title": "Russia",
+    "hero_image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Saint_Basil%27s_Cathedral_by_Night.jpg",
+    "totalDays": 10,
+    "seo": {
+      "title": "Russia Road Trip Adventure",
+      "description": "Plan a Russia road trip with GPS stops and scenic routes.",
+      "intro": "Explore Russia beyond the cities with this adventure route.",
+      "keywords": [
+        "Russia road trip",
+        "Russia by car"
+      ]
+    },
+    "places": [
+      {
+        "name": "Royal Castle",
+        "wiki_title": "Royal Castle, Warsaw",
+        "region": "Russia",
+        "lat": 52.2478,
+        "lng": 21.0142,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Royal Castle — a must-see landmark on a Russia road trip.",
+        "seo_phrase": "Royal Castle",
+        "seo_keywords": [
+          "Royal Castle",
+          "Russia",
+          "road trip"
+        ],
+        "commons_file": "Royal Castle in Warsaw, Poland, 2022, 03.jpg/800px-Royal Castle in Warsaw, Poland, 2022, 03.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Royal_Castle_in_Warsaw%2C_Poland%2C_2022%2C_03.jpg/800px-Royal_Castle_in_Warsaw%2C_Poland%2C_2022%2C_03.jpg",
+        "seo_priority": 90,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Nesvizh Castle",
+        "wiki_title": "Nesvizh Castle",
+        "region": "Russia",
+        "lat": 53.22287778,
+        "lng": 26.69173611,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Nesvizh Castle — a must-see landmark on a Russia road trip.",
+        "seo_phrase": "Nesvizh Castle",
+        "seo_keywords": [
+          "Nesvizh Castle",
+          "Russia",
+          "road trip"
+        ],
+        "commons_file": "Нясвіж і Нясвіжскі замак 12.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/%D0%9D%D1%8F%D1%81%D0%B2%D1%96%D0%B6_%D1%96_%D0%9D%D1%8F%D1%81%D0%B2%D1%96%D0%B6%D1%81%D0%BA%D1%96_%D0%B7%D0%B0%D0%BC%D0%B0%D0%BA_12.jpg",
+        "seo_priority": 89,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Königsberg Castle",
+        "wiki_title": "Königsberg Castle",
+        "region": "Russia",
+        "lat": 54.71021667,
+        "lng": 20.51078889,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Königsberg Castle — a must-see landmark on a Russia road trip.",
+        "seo_phrase": "Königsberg Castle",
+        "seo_keywords": [
+          "Königsberg Castle",
+          "Russia",
+          "road trip"
+        ],
+        "commons_file": "Königsberg Castle.jpg/800px-Königsberg Castle.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/K%C3%B6nigsberg_Castle.jpg/800px-K%C3%B6nigsberg_Castle.jpg",
+        "seo_priority": 88,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Vyborg Castle",
+        "wiki_title": "Vyborg Castle",
+        "region": "Russia",
+        "lat": 60.71583333,
+        "lng": 28.72916667,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Vyborg Castle — a must-see landmark on a Russia road trip.",
+        "seo_phrase": "Vyborg Castle",
+        "seo_keywords": [
+          "Vyborg Castle",
+          "Russia",
+          "road trip"
+        ],
+        "commons_file": "Vyborg Castle 006 7705.jpg/800px-Vyborg Castle 006 7705.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vyborg_Castle_006_7705.jpg/800px-Vyborg_Castle_006_7705.jpg",
+        "seo_priority": 87,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Saint Michael's Castle",
+        "wiki_title": "Saint Michael's Castle",
+        "region": "Russia",
+        "lat": 59.9404,
+        "lng": 30.3377,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Saint Michael's Castle — a must-see landmark on a Russia road trip.",
+        "seo_phrase": "Saint Michael's Castle",
+        "seo_keywords": [
+          "Saint Michael's Castle",
+          "Russia",
+          "road trip"
+        ],
+        "commons_file": "RUS-2016-Aerial-SPB-St Michael's Castle 02.jpg/800px-RUS-2016-Aerial-SPB-St Michael's Castle 02.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/RUS-2016-Aerial-SPB-St_Michael%27s_Castle_02.jpg/800px-RUS-2016-Aerial-SPB-St_Michael%27s_Castle_02.jpg",
+        "seo_priority": 86,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Liahavichy Castle",
+        "wiki_title": "Liahavichy Castle",
+        "region": "Russia",
+        "lat": 53.03333333,
+        "lng": 26.26666667,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Liahavichy Castle — a must-see landmark on a Russia road trip.",
+        "seo_phrase": "Liahavichy Castle",
+        "seo_keywords": [
+          "Liahavichy Castle",
+          "Russia",
+          "road trip"
+        ],
+        "commons_file": "Lachowicze1.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Lachowicze1.jpg",
+        "seo_priority": 85,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Meyendorff Castle",
+        "wiki_title": "Meyendorff Castle",
+        "region": "Russia",
+        "lat": 55.72416667,
+        "lng": 37.27222222,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Meyendorff Castle — a must-see landmark on a Russia road trip.",
+        "seo_phrase": "Meyendorff Castle",
+        "seo_keywords": [
+          "Meyendorff Castle",
+          "Russia",
+          "road trip"
+        ],
+        "commons_file": "Dmitry Medvedev 2 July 2008-4.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Dmitry_Medvedev_2_July_2008-4.jpg",
+        "seo_priority": 84,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Schaaken Castle",
+        "wiki_title": "Schaaken Castle",
+        "region": "Russia",
+        "lat": 54.90583333,
+        "lng": 20.66888889,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Schaaken Castle — a must-see landmark on a Russia road trip.",
+        "seo_phrase": "Schaaken Castle",
+        "seo_keywords": [
+          "Schaaken Castle",
+          "Russia",
+          "road trip"
+        ],
+        "commons_file": "Castle schaaken2.jpg/800px-Castle schaaken2.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Castle_schaaken2.jpg/800px-Castle_schaaken2.jpg",
+        "seo_priority": 83,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Saint Basil's Cathedral",
+        "wiki_title": "Saint Basil's Cathedral",
+        "region": "Russia",
+        "lat": 55.7525,
+        "lng": 37.62305556,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Saint Basil's Cathedral — a must-see landmark on a Russia road trip.",
+        "seo_phrase": "Saint Basil's Cathedral",
+        "seo_keywords": [
+          "Saint Basil's Cathedral",
+          "Russia",
+          "road trip"
+        ],
+        "commons_file": "Saint Basil's Cathedral in Moscow.jpg/800px-Saint Basil's Cathedral in Moscow.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Saint_Basil%27s_Cathedral_in_Moscow.jpg/800px-Saint_Basil%27s_Cathedral_in_Moscow.jpg",
+        "seo_priority": 82,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Cathedral of Christ the Saviour",
+        "wiki_title": "Cathedral of Christ the Saviour",
+        "region": "Russia",
+        "lat": 55.74444444,
+        "lng": 37.60555556,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Cathedral of Christ the Saviour — a must-see landmark on a Russia road trip.",
+        "seo_phrase": "Cathedral of Christ the Saviour",
+        "seo_keywords": [
+          "Cathedral of Christ the Saviour",
+          "Russia",
+          "road trip"
+        ],
+        "commons_file": "Moscow July 2011-7a.jpg/800px-Moscow July 2011-7a.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Moscow_July_2011-7a.jpg/800px-Moscow_July_2011-7a.jpg",
+        "seo_priority": 81,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      }
+    ]
+  }
+}

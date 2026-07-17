@@ -1,0 +1,3769 @@
+{
+  "version": 2,
+  "country": "Malta",
+  "published": true,
+  "cities": [
+    {
+      "city": "Valletta",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Valletta",
+      "seo": {
+        "title": "Top 10 Things to Do in Valletta, Malta",
+        "description": "Discover 10 must-see landmarks in Valletta, Malta. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Valletta? Explore the best places to visit in Valletta, Malta.",
+        "keywords": [
+          "things to do in Valletta",
+          "Valletta Malta travel guide",
+          "best places to visit in Valletta",
+          "Valletta landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "St. John's Co-Cathedral",
+          "wiki_title": "St. John's Co-Cathedral",
+          "lat": 35.8972,
+          "lng": 14.5126,
+          "order_index": 0,
+          "description": "A stunning 16th-century cathedral built by the Knights of St. John, famous for its Caravaggio paintings.",
+          "seo_phrase": "St. John's Co-Cathedral: Baroque Masterpiece in Valletta",
+          "seo_keywords": [
+            "baroque architecture",
+            "Caravaggio paintings",
+            "Valletta churches",
+            "Malta historical sites",
+            "Knights of St John"
+          ],
+          "image_url": "",
+          "seo_priority": 98,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Upper Barrakka Gardens",
+            "Grand Master's Palace",
+            "National Museum of Archaeology"
+          ]
+        },
+        {
+          "name": "Upper Barrakka Gardens",
+          "wiki_title": "Upper Barrakka Gardens",
+          "lat": 35.8943,
+          "lng": 14.5123,
+          "order_index": 1,
+          "description": "A public garden in Valletta offering breathtaking panoramic views of the Grand Harbour.",
+          "seo_phrase": "Panoramic Views at Upper Barrakka Gardens, Valletta",
+          "seo_keywords": [
+            "Valletta gardens",
+            "Grand Harbour views",
+            "Saluting Battery",
+            "public parks Malta",
+            "sightseeing Valletta"
+          ],
+          "image_url": "",
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "St. John's Co-Cathedral",
+            "Triton Fountain",
+            "National Library of Malta"
+          ]
+        },
+        {
+          "name": "National Museum of Archaeology",
+          "wiki_title": "National Museum of Archaeology (Malta",
+          "lat": 35.8966,
+          "lng": 14.5113,
+          "order_index": 2,
+          "description": "A museum displaying artifacts from Malta's Neolithic period and megalithic culture.",
+          "seo_phrase": "National Museum of Archaeology: Discover Malta's Ancient Past",
+          "seo_keywords": [
+            "National Museum of Archaeology",
+            "Malta history",
+            "neolithic artifacts",
+            "megalithic temples Malta",
+            "Auberge de Provence"
+          ],
+          "image_url": "",
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "St. John's Co-Cathedral",
+            "Republic Street",
+            "Grand Master's Palace"
+          ]
+        },
+        {
+          "name": "Grand Master's Palace",
+          "wiki_title": "Grandmaster's Palace (Valletta",
+          "lat": 35.8979,
+          "lng": 14.5137,
+          "order_index": 3,
+          "description": "A historic palace that served as the administrative center of Malta for centuries.",
+          "seo_phrase": "Grand Master's Palace: History of the Knights of Malta",
+          "seo_keywords": [
+            "Grand Master's Palace",
+            "Valletta history",
+            "Knights of Malta history",
+            "Palace Armory",
+            "President of Malta office"
+          ],
+          "image_url": "",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "St. John's Co-Cathedral",
+            "National Museum of Archaeology",
+            "Casa Rocca Piccola"
+          ]
+        },
+        {
+          "name": "Fort St. Elmo",
+          "wiki_title": "Fort Saint Elmo",
+          "lat": 35.9019,
+          "lng": 14.5175,
+          "order_index": 4,
+          "description": "A star-shaped fort at the tip of the Valletta peninsula with a rich military history.",
+          "seo_phrase": "Fort St. Elmo: Defending the Maltese Islands",
+          "seo_keywords": [
+            "Fort St Elmo",
+            "Valletta fortification",
+            "Great Siege of 1565",
+            "National War Museum Malta",
+            "military heritage"
+          ],
+          "image_url": "",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Mediterranean Conference Centre",
+            "Sacra Infermeria",
+            "Lower Barrakka Gardens"
+          ]
+        },
+        {
+          "name": "Lower Barrakka Gardens",
+          "wiki_title": "Lower Barrakka Gardens",
+          "lat": 35.8974,
+          "lng": 14.5196,
+          "order_index": 5,
+          "description": "A serene garden located at the tip of the Valletta peninsula, featuring a neoclassical temple.",
+          "seo_phrase": "Lower Barrakka Gardens: A Peaceful Escape in Valletta",
+          "seo_keywords": [
+            "Lower Barrakka Gardens",
+            "Valletta parks",
+            "Grand Harbour views",
+            "Sir Alexander Ball monument",
+            "quiet places Valletta"
+          ],
+          "image_url": "",
+          "seo_priority": 86,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Siege Bell War Memorial",
+            "Fort St. Elmo",
+            "Mediterranean Conference Centre"
+          ]
+        },
+        {
+          "name": "Casa Rocca Piccola",
+          "wiki_title": "Casa Rocca Piccola",
+          "lat": 35.8988,
+          "lng": 14.5145,
+          "order_index": 6,
+          "description": "A 16th-century palace museum offering a glimpse into the lifestyle of the Maltese nobility.",
+          "seo_phrase": "Casa Rocca Piccola: Living History in a Noble Home",
+          "seo_keywords": [
+            "Casa Rocca Piccola",
+            "noble house Malta",
+            "Valletta museum",
+            "historic home Malta",
+            "de Piro family"
+          ],
+          "image_url": "",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Grand Master's Palace",
+            "St. John's Co-Cathedral",
+            "National Library of Malta"
+          ]
+        },
+        {
+          "name": "Manoel Theatre",
+          "wiki_title": "Teatru Manoel",
+          "lat": 35.8995,
+          "lng": 14.5105,
+          "order_index": 7,
+          "description": "A prestigious theatre built in 1731, known for its stunning Baroque architecture and acoustics.",
+          "seo_phrase": "Teatru Manoel: One of Europe's Oldest Theatres",
+          "seo_keywords": [
+            "Manoel Theatre",
+            "Valletta performing arts",
+            "oldest theatre Europe",
+            "Baroque theatre",
+            "Malta culture"
+          ],
+          "image_url": "",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. John's Co-Cathedral",
+            "Republic Street",
+            "National Museum of Archaeology"
+          ]
+        },
+        {
+          "name": "Siege Bell War Memorial",
+          "wiki_title": "Siege Bell War Memorial",
+          "lat": 35.8953,
+          "lng": 14.5173,
+          "order_index": 8,
+          "description": "A monument featuring a massive bronze bell that rings daily in memory of those who died during WWII.",
+          "seo_phrase": "Siege Bell War Memorial: Honoring Malta's Heroes",
+          "seo_keywords": [
+            "Siege Bell War Memorial",
+            "WWII Malta",
+            "George Cross",
+            "Valletta monuments",
+            "Grand Harbour memorials"
+          ],
+          "image_url": "",
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Fort St. Elmo",
+            "Lower Barrakka Gardens",
+            "Sacra Infermeria"
+          ]
+        },
+        {
+          "name": "Triton Fountain",
+          "wiki_title": "Triton Fountain (Valletta",
+          "lat": 35.8924,
+          "lng": 14.5074,
+          "order_index": 9,
+          "description": "A large Art Deco fountain featuring three bronze Tritons supporting a central basin.",
+          "seo_phrase": "Triton Fountain: The Iconic Entrance to Valletta",
+          "seo_keywords": [
+            "Triton Fountain",
+            "Valletta entrance",
+            "Malta landmarks",
+            "iconic spots Valletta",
+            "Vincent Apap"
+          ],
+          "image_url": "",
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "City Gate",
+            "Parliament House",
+            "The Royal Opera House Ruins"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Mdina",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Mdina",
+      "seo": {
+        "title": "Top 10 Things to Do in Mdina, Malta",
+        "description": "Discover 10 must-see landmarks in Mdina, Malta. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Mdina? Explore the best places to visit in Mdina, Malta.",
+        "keywords": [
+          "things to do in Mdina",
+          "Mdina Malta travel guide",
+          "best places to visit in Mdina",
+          "Mdina landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "St. Paul's Cathedral",
+          "wiki_title": "St. Paul's Cathedral, Mdina",
+          "lat": 35.8851,
+          "lng": 14.4053,
+          "order_index": 0,
+          "description": "A beautiful 17th-century cathedral built on the site where tradition says St. Paul met Publius.",
+          "seo_phrase": "St. Paul's Cathedral: The Jewel of Mdina",
+          "seo_keywords": [
+            "St Pauls Cathedral Mdina",
+            "Mdina attractions",
+            "Baroque churches Malta",
+            "Silent City Malta",
+            "Lorenzo Gafà"
+          ],
+          "image_url": "",
+          "seo_priority": 96,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mdina Gate",
+            "Vilhena Palace",
+            "Palazzo Falson"
+          ]
+        },
+        {
+          "name": "Mdina Gate",
+          "wiki_title": "Mdina Gate",
+          "lat": 35.8845,
+          "lng": 14.4074,
+          "order_index": 1,
+          "description": "A stunning Baroque gate serving as the main entrance to the walled city of Mdina.",
+          "seo_phrase": "Mdina Gate: Entrance to the Silent City",
+          "seo_keywords": [
+            "Mdina Gate",
+            "Silent City entrance",
+            "Mdina photography",
+            "Game of Thrones Malta",
+            "Baroque architecture"
+          ],
+          "image_url": "",
+          "seo_priority": 93,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Vilhena Palace",
+            "St. Paul's Cathedral",
+            "Domvs Romana"
+          ]
+        },
+        {
+          "name": "Bastion Square",
+          "wiki_title": "Mdina",
+          "lat": 35.8863,
+          "lng": 14.4045,
+          "order_index": 2,
+          "description": "A beautiful square situated on the city walls, offering some of the best vistas on the island.",
+          "seo_phrase": "Bastion Square: Unmatched Views of Malta from Mdina",
+          "seo_keywords": [
+            "Bastion Square Mdina",
+            "Mdina views",
+            "best panoramic views Malta",
+            "sightseeing in Mdina",
+            "Malta photography spots"
+          ],
+          "image_url": "",
+          "seo_priority": 91,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Palazzo Falson",
+            "St. Paul's Cathedral",
+            "Carmelite Priory"
+          ]
+        },
+        {
+          "name": "Fontanella Tea Garden",
+          "wiki_title": "Mdina",
+          "lat": 35.886,
+          "lng": 14.4042,
+          "order_index": 3,
+          "description": "A popular tea garden located on the bastions of Mdina, famous for its cakes and views.",
+          "seo_phrase": "Fontanella Tea Garden: Famous Views and Cakes in Mdina",
+          "seo_keywords": [
+            "Fontanella Tea Garden",
+            "Mdina cafes",
+            "best cake in Malta",
+            "views from Mdina",
+            "where to eat in Mdina"
+          ],
+          "image_url": "",
+          "seo_priority": 90,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Bastion Square",
+            "Palazzo Falson",
+            "St. Paul's Cathedral"
+          ]
+        },
+        {
+          "name": "Palazzo Falson",
+          "wiki_title": "Palazzo Falson",
+          "lat": 35.8858,
+          "lng": 14.4046,
+          "order_index": 4,
+          "description": "One of the oldest buildings in Mdina, this medieval palace is a treasure chest of historical collections.",
+          "seo_phrase": "Palazzo Falson: Historic House Museum in Mdina",
+          "seo_keywords": [
+            "Palazzo Falson",
+            "Mdina museums",
+            "medieval houses Malta",
+            "Olof Gollcher",
+            "historic art collections"
+          ],
+          "image_url": "",
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Paul's Cathedral",
+            "Bastion Square",
+            "Carmelite Priory"
+          ]
+        },
+        {
+          "name": "Vilhena Palace",
+          "wiki_title": "Vilhena Palace",
+          "lat": 35.8849,
+          "lng": 14.4063,
+          "order_index": 5,
+          "description": "A magnificent French Baroque palace that now serves as the National Museum of Natural History.",
+          "seo_phrase": "Vilhena Palace: National Museum of Natural History",
+          "seo_keywords": [
+            "Vilhena Palace",
+            "National Museum of Natural History Malta",
+            "Mdina museums",
+            "Baroque buildings Mdina",
+            "what to do in Mdina"
+          ],
+          "image_url": "",
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Mdina Gate",
+            "St. Paul's Cathedral",
+            "Domvs Romana"
+          ]
+        },
+        {
+          "name": "Domvs Romana",
+          "wiki_title": "Domvs Romana",
+          "lat": 35.8837,
+          "lng": 14.4025,
+          "order_index": 6,
+          "description": "An archaeological site and museum showcasing a 1st-century BC Roman townhouse.",
+          "seo_phrase": "Domvs Romana: Remnants of Roman Malta",
+          "seo_keywords": [
+            "Domvs Romana",
+            "Roman Malta",
+            "Mdina archaeology",
+            "Roman mosaics Malta",
+            "archaeological museums Malta"
+          ],
+          "image_url": "",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mdina Gate",
+            "Howard Gardens",
+            "St. Paul's Grotto"
+          ]
+        },
+        {
+          "name": "Carmelite Priory",
+          "wiki_title": "Carmelite Priory, Mdina",
+          "lat": 35.8856,
+          "lng": 14.4038,
+          "order_index": 7,
+          "description": "The first Carmelite priory in Malta, offering visitors insight into monastic life and art.",
+          "seo_phrase": "Carmelite Priory: A Hidden Gem in Mdina",
+          "seo_keywords": [
+            "Carmelite Priory Mdina",
+            "Mdina churches",
+            "monastic life Malta",
+            "religious heritage Malta",
+            "hidden gems Mdina"
+          ],
+          "image_url": "",
+          "seo_priority": 81,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Palazzo Falson",
+            "Bastion Square",
+            "St. Paul's Cathedral"
+          ]
+        },
+        {
+          "name": "St. Agatha's Chapel",
+          "wiki_title": "St. Agatha's Chapel, Rabat",
+          "lat": 35.8821,
+          "lng": 14.4021,
+          "order_index": 8,
+          "description": "A charming chapel associated with the story of St. Agatha, who is said to have sheltered here.",
+          "seo_phrase": "St. Agatha's Chapel: Historic Site near Mdina",
+          "seo_keywords": [
+            "St Agatha's Chapel",
+            "Rabat Malta attractions",
+            "religious sites Malta",
+            "historic chapels Malta"
+          ],
+          "image_url": "",
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Domvs Romana",
+            "Mdina Gate",
+            "St. Paul's Grotto"
+          ]
+        },
+        {
+          "name": "Greek Gate",
+          "wiki_title": "Mdina",
+          "lat": 35.8842,
+          "lng": 14.4039,
+          "order_index": 9,
+          "description": "A smaller, historic entrance to Mdina, once used by the Greek community living in the area.",
+          "seo_phrase": "Greek Gate: The Charming Side Entrance to Mdina",
+          "seo_keywords": [
+            "Greek Gate Mdina",
+            "Mdina entrance",
+            "historic gates Mdina",
+            "hidden spots Mdina",
+            "architecture Malta"
+          ],
+          "image_url": "",
+          "seo_priority": 75,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Domvs Romana",
+            "Vilhena Palace",
+            "St. Paul's Cathedral"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Sliema",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Sliema",
+      "seo": {
+        "title": "Top 10 Things to Do in Sliema, Malta",
+        "description": "Discover 10 must-see landmarks in Sliema, Malta. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Sliema? Explore the best places to visit in Sliema, Malta.",
+        "keywords": [
+          "things to do in Sliema",
+          "Sliema Malta travel guide",
+          "best places to visit in Sliema",
+          "Sliema landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Gżira",
+          "wiki_title": "Gżira",
+          "lat": 35.905,
+          "lng": 14.49444444,
+          "order_index": 0,
+          "description": "Gżira — a notable landmark in Sliema, Malta.",
+          "seo_phrase": "Gżira",
+          "seo_keywords": [
+            "Sliema",
+            "Malta",
+            "travel"
+          ],
+          "commons_file": "Hafenpromenade Sliema.jpg/800px-Hafenpromenade Sliema.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Hafenpromenade_Sliema.jpg/800px-Hafenpromenade_Sliema.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "The Green House",
+          "wiki_title": "The Green House, Sliema",
+          "lat": 35.90875,
+          "lng": 14.50111111,
+          "order_index": 1,
+          "description": "The Green House, Sliema — a notable landmark in Sliema, Malta.",
+          "seo_phrase": "The Green House",
+          "seo_keywords": [
+            "Sliema",
+            "Malta",
+            "travel"
+          ],
+          "commons_file": "Sliema Green House.jpg/800px-Sliema Green House.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sliema_Green_House.jpg/800px-Sliema_Green_House.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Fatima House",
+          "wiki_title": "Fatima House",
+          "lat": 35.91219444,
+          "lng": 14.50216667,
+          "order_index": 2,
+          "description": "Fatima House — a notable landmark in Sliema, Malta.",
+          "seo_phrase": "Fatima House",
+          "seo_keywords": [
+            "Sliema",
+            "Malta",
+            "travel"
+          ],
+          "commons_file": "Villa Betharram.jpg/800px-Villa Betharram.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Villa_Betharram.jpg/800px-Villa_Betharram.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Sliema Promenade",
+          "wiki_title": "Sliema",
+          "lat": 35.9135,
+          "lng": 14.5033,
+          "order_index": 3,
+          "description": "A long, lively coastal walkway connecting Gżira to St. Julian's.",
+          "seo_phrase": "Sliema Promenade: The Heart of Coastal Malta",
+          "seo_keywords": [
+            "Sliema Promenade",
+            "Sliema waterfront",
+            "walking in Sliema",
+            "views of Valletta",
+            "Malta seaside"
+          ],
+          "image_url": "",
+          "seo_priority": 94,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Tigné Point",
+            "Independence Gardens",
+            "The Point Shopping Mall"
+          ]
+        },
+        {
+          "name": "The Point Shopping Mall",
+          "wiki_title": "The Point Shopping Mall",
+          "lat": 35.909,
+          "lng": 14.507,
+          "order_index": 4,
+          "description": "A modern, multi-level shopping complex offering a wide range of international brands.",
+          "seo_phrase": "The Point Shopping Mall: Top Retail Experience in Sliema",
+          "seo_keywords": [
+            "The Point Shopping Mall",
+            "shopping in Malta",
+            "Sliema shops",
+            "fashion retailers Malta"
+          ],
+          "image_url": "",
+          "seo_priority": 92,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Tigné Point",
+            "Fort Tigné",
+            "Sliema Promenade"
+          ]
+        },
+        {
+          "name": "Tigné Point",
+          "wiki_title": "Tigné Point",
+          "lat": 35.9082,
+          "lng": 14.5065,
+          "order_index": 5,
+          "description": "A peninsula in Sliema featuring a major shopping mall and luxury residential developments.",
+          "seo_phrase": "Tigné Point: Modern Living and Historic Forts",
+          "seo_keywords": [
+            "Tigné Point",
+            "Sliema shopping",
+            "Fort Tigné",
+            "modern Malta",
+            "Valletta views"
+          ],
+          "image_url": "",
+          "seo_priority": 88,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Sliema Promenade",
+            "Fort Tigné",
+            "The Point Shopping Mall"
+          ]
+        },
+        {
+          "name": "Bisazza Street",
+          "wiki_title": "Sliema",
+          "lat": 35.912,
+          "lng": 14.5055,
+          "order_index": 6,
+          "description": "A vibrant pedestrian street in the heart of Sliema, packed with retail stores and cafes.",
+          "seo_phrase": "Bisazza Street: Sliema's Premier Shopping Destination",
+          "seo_keywords": [
+            "Bisazza Street",
+            "shopping in Sliema",
+            "pedestrian streets Malta",
+            "Sliema retail",
+            "best places to shop Malta"
+          ],
+          "image_url": "",
+          "seo_priority": 85,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Sliema Promenade",
+            "Stella Maris Church",
+            "The Point Shopping Mall"
+          ]
+        },
+        {
+          "name": "Manoel Island",
+          "wiki_title": "Manoel Island",
+          "lat": 35.9038,
+          "lng": 14.4983,
+          "order_index": 7,
+          "description": "An island connected to Gżira/Sliema featuring a grand 18th-century fort.",
+          "seo_phrase": "Manoel Island: A Historical Fortress and Nature Spot",
+          "seo_keywords": [
+            "Manoel Island",
+            "Fort Manoel",
+            "Malta fortifications",
+            "walking near Sliema",
+            "Valletta harbor views"
+          ],
+          "image_url": "",
+          "seo_priority": 83,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Sliema Promenade",
+            "Lazzaretto",
+            "Gżira Waterfront"
+          ]
+        },
+        {
+          "name": "Independence Gardens",
+          "wiki_title": "Sliema",
+          "lat": 35.9142,
+          "lng": 14.502,
+          "order_index": 8,
+          "description": "A seaside park featuring fountains, playgrounds, and views of the Mediterranean.",
+          "seo_phrase": "Independence Gardens: A Coastal Oasis in Sliema",
+          "seo_keywords": [
+            "Independence Gardens Sliema",
+            "Sliema parks",
+            "family activities Sliema",
+            "coastal gardens Malta"
+          ],
+          "image_url": "",
+          "seo_priority": 82,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "Sliema Promenade",
+            "Stella Maris Church",
+            "Balluta Bay"
+          ]
+        },
+        {
+          "name": "Fort Tigné",
+          "wiki_title": "Fort Tigné",
+          "lat": 35.907,
+          "lng": 14.5078,
+          "order_index": 9,
+          "description": "A polygon-shaped fort built in the 18th century, currently part of the Tigné Point development.",
+          "seo_phrase": "Fort Tigné: Guarding the Entrance to Marsamxett Harbour",
+          "seo_keywords": [
+            "Fort Tigné",
+            "Sliema fortifications",
+            "Knights of Malta forts",
+            "historical sites Sliema"
+          ],
+          "image_url": "",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Tigné Point",
+            "Sliema Promenade",
+            "The Point Shopping Mall"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "St. Julian's",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "St. Julian's",
+      "seo": {
+        "title": "Top 10 Things to Do in St. Julian's, Malta",
+        "description": "Discover 10 must-see landmarks in St. Julian's, Malta. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to St. Julian's? Explore the best places to visit in St. Julian's, Malta.",
+        "keywords": [
+          "things to do in St. Julian's",
+          "St. Julian's Malta travel guide",
+          "best places to visit in St. Julian's",
+          "St. Julian's landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Comino",
+          "wiki_title": "Comino",
+          "lat": 36.01138889,
+          "lng": 14.33666667,
+          "order_index": 0,
+          "description": "Comino — a notable landmark in St. Julian's, Malta.",
+          "seo_phrase": "Comino",
+          "seo_keywords": [
+            "St. Julian's",
+            "Malta",
+            "travel"
+          ],
+          "commons_file": "Sudika Kemmuna.jpg/800px-Sudika Kemmuna.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sudika_Kemmuna.jpg/800px-Sudika_Kemmuna.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Merkanti Reef",
+          "wiki_title": "Merkanti Reef",
+          "lat": 35.92472222,
+          "lng": 14.49722222,
+          "order_index": 1,
+          "description": "Merkanti Reef — a notable landmark in St. Julian's, Malta.",
+          "seo_phrase": "Merkanti Reef",
+          "seo_keywords": [
+            "St. Julian's",
+            "Malta",
+            "travel"
+          ],
+          "commons_file": "Malta - St. Julian's - Triq il-Wilga + Triq id-Dragunara 03 ies.jpg/800px-Malta - St. Julian's - Triq il-Wilga + Triq id-Dragunara 03 ies.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Malta_-_St._Julian%27s_-_Triq_il-Wilga_%2B_Triq_id-Dragunara_03_ies.jpg/800px-Malta_-_St._Julian%27s_-_Triq_il-Wilga_%2B_Triq_id-Dragunara_03_ies.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Old University Building",
+          "wiki_title": "Old University Building, Valletta",
+          "lat": 35.89833333,
+          "lng": 14.51555556,
+          "order_index": 2,
+          "description": "Old University Building, Valletta — a notable landmark in St. Julian's, Malta.",
+          "seo_phrase": "Old University Building",
+          "seo_keywords": [
+            "St. Julian's",
+            "Malta",
+            "travel"
+          ],
+          "commons_file": "Valletta VLT 07.jpg/800px-Valletta VLT 07.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Valletta_VLT_07.jpg/800px-Valletta_VLT_07.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Paceville",
+          "wiki_title": "Paceville",
+          "lat": 35.9225,
+          "lng": 14.4905,
+          "order_index": 3,
+          "description": "The nightlife hub of Malta, offering a dense concentration of nightlife entertainment.",
+          "seo_phrase": "Paceville: The Nightlife Capital of Malta",
+          "seo_keywords": [
+            "Paceville",
+            "nightlife Malta",
+            "bars in Malta",
+            "St Julian's nightlife",
+            "what to do in Paceville"
+          ],
+          "image_url": "",
+          "seo_priority": 95,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. George's Bay",
+            "Dragonara Casino",
+            "Spinola Bay"
+          ]
+        },
+        {
+          "name": "St. Julian's Promenade",
+          "wiki_title": "St. Julian's",
+          "lat": 35.918,
+          "lng": 14.492,
+          "order_index": 4,
+          "description": "A beautiful coastal path offering views of the Mediterranean and access to popular swimming spots.",
+          "seo_phrase": "St. Julian's Promenade: Scenic Seaside Walk",
+          "seo_keywords": [
+            "St Julian's Promenade",
+            "walking in St Julian's",
+            "Malta seaside walks",
+            "views of the sea Malta"
+          ],
+          "image_url": "",
+          "seo_priority": 91,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Spinola Bay",
+            "Balluta Bay",
+            "Portomaso Marina"
+          ]
+        },
+        {
+          "name": "Portomaso Marina",
+          "wiki_title": "Portomaso",
+          "lat": 35.9205,
+          "lng": 14.4918,
+          "order_index": 5,
+          "description": "A prestigious waterfront development in St. Julian's with a marina, high-end restaurants, and residences.",
+          "seo_phrase": "Portomaso Marina: Luxury Waterfront in St. Julian's",
+          "seo_keywords": [
+            "Portomaso Marina",
+            "luxury Malta",
+            "St Julian's fine dining",
+            "yachting Malta",
+            "upscale St Julian's"
+          ],
+          "image_url": "",
+          "seo_priority": 89,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Spinola Bay",
+            "Love Statue",
+            "St. George's Bay"
+          ]
+        },
+        {
+          "name": "Carmelite Church (Balluta)",
+          "wiki_title": "Balluta Bay",
+          "lat": 35.9155,
+          "lng": 14.4955,
+          "order_index": 6,
+          "description": "A majestic church that serves as the visual centerpiece of Balluta Bay.",
+          "seo_phrase": "Carmelite Church: The Iconic Landmark of Balluta Bay",
+          "seo_keywords": [
+            "Carmelite Church Balluta",
+            "churches St Julian's",
+            "Balluta Bay landmarks",
+            "neo-gothic architecture Malta"
+          ],
+          "image_url": "",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Balluta Bay",
+            "Sliema Promenade",
+            "Spinola Bay"
+          ]
+        },
+        {
+          "name": "Love Statue",
+          "wiki_title": "Spinola Bay",
+          "lat": 35.9188,
+          "lng": 14.4925,
+          "order_index": 7,
+          "description": "A modern art sculpture where the word 'LOVE' is written inverted, intended to be read correctly when reflected in the water.",
+          "seo_phrase": "Love Statue: The Quirky Landmark of Spinola Bay",
+          "seo_keywords": [
+            "Love Statue",
+            "Spinola Bay landmarks",
+            "unique art Malta",
+            "photo spots St Julian's",
+            "Malta landmarks"
+          ],
+          "image_url": "",
+          "seo_priority": 86,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Spinola Bay",
+            "Portomaso Marina",
+            "Balluta Bay"
+          ]
+        },
+        {
+          "name": "Dragonara Casino",
+          "wiki_title": "Dragonara Palace",
+          "lat": 35.925,
+          "lng": 14.494,
+          "order_index": 8,
+          "description": "A prestigious casino housed in the 19th-century Dragonara Palace, overlooking the Mediterranean.",
+          "seo_phrase": "Dragonara Casino: Historic Gaming in St. Julian's",
+          "seo_keywords": [
+            "Dragonara Casino",
+            "casinos Malta",
+            "Dragonara Palace",
+            "entertainment St Julian's",
+            "historic palaces Malta"
+          ],
+          "image_url": "",
+          "seo_priority": 84,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Paceville",
+            "St. George's Bay",
+            "Spinola Bay"
+          ]
+        },
+        {
+          "name": "Pembroke Heritage Park",
+          "wiki_title": "Pembroke, Malta",
+          "lat": 35.928,
+          "lng": 14.485,
+          "order_index": 9,
+          "description": "A large park area featuring historic British military fortifications and natural trails.",
+          "seo_phrase": "Pembroke Heritage Park: Military History and Nature",
+          "seo_keywords": [
+            "Pembroke Heritage Park",
+            "military history Malta",
+            "coastal walks St Julian's",
+            "outdoor activities Malta"
+          ],
+          "image_url": "",
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": [
+            "St. George's Bay",
+            "Paceville"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Victoria (Rabat, Gozo)",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Victoria (Rabat, Gozo)",
+      "seo": {
+        "title": "Top 10 Things to Do in Victoria (Rabat, Gozo), Malta",
+        "description": "Discover 10 must-see landmarks in Victoria (Rabat, Gozo), Malta. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Victoria (Rabat, Gozo)? Explore the best places to visit in Victoria (Rabat, Gozo), Malta.",
+        "keywords": [
+          "things to do in Victoria (Rabat, Gozo)",
+          "Victoria (Rabat, Gozo) Malta travel guide",
+          "best places to visit in Victoria (Rabat, Gozo)",
+          "Victoria (Rabat, Gozo) landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "The Citadel",
+          "wiki_title": "Citadella (Gozo",
+          "lat": 36.0445,
+          "lng": 14.2395,
+          "order_index": 0,
+          "description": "A medieval walled city that served as a refuge for the Gozitan population.",
+          "seo_phrase": "The Citadel (Cittadella): Gozo's Historic Fortified City",
+          "seo_keywords": [
+            "The Citadel Gozo",
+            "Victoria Gozo attractions",
+            "Cittadella Gozo",
+            "Gozo history",
+            "fortified cities Malta"
+          ],
+          "image_url": "",
+          "seo_priority": 99,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Cathedral of the Assumption",
+            "Gozo Museum of Archaeology",
+            "Independence Square"
+          ]
+        },
+        {
+          "name": "Cathedral of the Assumption",
+          "wiki_title": "Cathedral of the Assumption, Gozo",
+          "lat": 36.0442,
+          "lng": 14.2397,
+          "order_index": 1,
+          "description": "A stunning Baroque cathedral located inside the walls of the Citadel in Victoria.",
+          "seo_phrase": "Cathedral of the Assumption: The Heart of the Citadel",
+          "seo_keywords": [
+            "Cathedral of the Assumption Gozo",
+            "Gozo cathedrals",
+            "Baroque art Gozo",
+            "The Citadel attractions"
+          ],
+          "image_url": "",
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Citadel",
+            "Gozo Museum of Archaeology"
+          ]
+        },
+        {
+          "name": "St. George's Basilica",
+          "wiki_title": "St. George's Basilica, Gozo",
+          "lat": 36.043,
+          "lng": 14.2425,
+          "order_index": 2,
+          "description": "A beautiful basilica in the center of Victoria, known as the 'Golden Basilica'.",
+          "seo_phrase": "St. George's Basilica: A Golden Masterpiece in Gozo",
+          "seo_keywords": [
+            "St George's Basilica Gozo",
+            "Victoria Gozo churches",
+            "Golden Basilica Malta",
+            "Gozo attractions"
+          ],
+          "image_url": "",
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Independence Square",
+            "The Citadel",
+            "Villa Rundle"
+          ]
+        },
+        {
+          "name": "Ta' Rikardu",
+          "wiki_title": "Citadella (Gozo",
+          "lat": 36.0448,
+          "lng": 14.2392,
+          "order_index": 3,
+          "description": "A unique restaurant serving traditional Gozitan dishes like cheese and bread in a rustic setting.",
+          "seo_phrase": "Ta' Rikardu: Traditional Gozitan Cuisine in the Citadel",
+          "seo_keywords": [
+            "Ta' Rikardu Gozo",
+            "traditional Gozitan food",
+            "restaurants in the Citadel Gozo",
+            "authentic Maltese food"
+          ],
+          "image_url": "",
+          "seo_priority": 87,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Citadel",
+            "Cathedral of the Assumption"
+          ]
+        },
+        {
+          "name": "Independence Square (It-Tokk)",
+          "wiki_title": "Victoria, Gozo",
+          "lat": 36.0435,
+          "lng": 14.241,
+          "order_index": 4,
+          "description": "A central square in Victoria, Gozo, known for its open-air market and surrounding cafes.",
+          "seo_phrase": "Independence Square: The Busy Center of Victoria",
+          "seo_keywords": [
+            "Independence Square Gozo",
+            "It-Tokk Victoria",
+            "Gozo markets",
+            "Victoria city center",
+            "what to do in Gozo"
+          ],
+          "image_url": "",
+          "seo_priority": 85,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Citadel",
+            "Villa Rundle",
+            "St. George's Basilica"
+          ]
+        },
+        {
+          "name": "Gozo Museum of Archaeology",
+          "wiki_title": "Gozo Museum of Archaeology",
+          "lat": 36.044,
+          "lng": 14.239,
+          "order_index": 5,
+          "description": "A museum located within the Citadel that showcases Gozo's historical artifacts.",
+          "seo_phrase": "Gozo Museum of Archaeology: Discovering Gozo's Past",
+          "seo_keywords": [
+            "Gozo Museum of Archaeology",
+            "museums in Gozo",
+            "Gozo history",
+            "prehistoric Malta"
+          ],
+          "image_url": "",
+          "seo_priority": 83,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "The Citadel",
+            "Cathedral of the Assumption"
+          ]
+        },
+        {
+          "name": "Pjazza San Ġorġ",
+          "wiki_title": "St. George's Basilica, Gozo",
+          "lat": 36.0432,
+          "lng": 14.2423,
+          "order_index": 6,
+          "description": "The square surrounding St. George's Basilica, a hub of community and activity.",
+          "seo_phrase": "Pjazza San Ġorġ: A Vibrant Square in Victoria",
+          "seo_keywords": [
+            "Pjazza San Ġorġ",
+            "Victoria squares",
+            "St George's Basilica square",
+            "events in Victoria Gozo"
+          ],
+          "image_url": "",
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. George's Basilica",
+            "Independence Square"
+          ]
+        },
+        {
+          "name": "Old Prison",
+          "wiki_title": "Citadella (Gozo",
+          "lat": 36.0447,
+          "lng": 14.2394,
+          "order_index": 7,
+          "description": "A historic prison located in the Citadel, featuring original graffiti from inmates.",
+          "seo_phrase": "Old Prison: Historical Site in the Citadel",
+          "seo_keywords": [
+            "Old Prison Gozo",
+            "Citadel attractions",
+            "history of Gozo",
+            "prisons in Malta history"
+          ],
+          "image_url": "",
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "The Citadel",
+            "Cathedral of the Assumption"
+          ]
+        },
+        {
+          "name": "Villa Rundle",
+          "wiki_title": "Victoria, Gozo",
+          "lat": 36.0415,
+          "lng": 14.2415,
+          "order_index": 8,
+          "description": "A public park/garden in Victoria featuring a variety of local and exotic trees and plants.",
+          "seo_phrase": "Villa Rundle Gardens: A Green Oasis in Victoria",
+          "seo_keywords": [
+            "Villa Rundle Gozo",
+            "gardens Victoria Gozo",
+            "parks in Gozo",
+            "relaxing in Victoria"
+          ],
+          "image_url": "",
+          "seo_priority": 77,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Independence Square",
+            "St. George's Basilica"
+          ]
+        },
+        {
+          "name": "St. Francis Church",
+          "wiki_title": "Victoria, Gozo",
+          "lat": 36.0425,
+          "lng": 14.2405,
+          "order_index": 9,
+          "description": "An ancient church with a simple yet elegant design, located near the center of Victoria.",
+          "seo_phrase": "St. Francis Church: A Historic Religious Site in Victoria",
+          "seo_keywords": [
+            "St Francis Church Gozo",
+            "churches in Victoria Gozo",
+            "religious sites Gozo",
+            "Gozo heritage"
+          ],
+          "image_url": "",
+          "seo_priority": 74,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Independence Square",
+            "St. George's Basilica"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Marsaxlokk",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Marsaxlokk",
+      "seo": {
+        "title": "Top 10 Things to Do in Marsaxlokk, Malta",
+        "description": "Discover 10 must-see landmarks in Marsaxlokk, Malta. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Marsaxlokk? Explore the best places to visit in Marsaxlokk, Malta.",
+        "keywords": [
+          "things to do in Marsaxlokk",
+          "Marsaxlokk Malta travel guide",
+          "best places to visit in Marsaxlokk",
+          "Marsaxlokk landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Żejtun",
+          "wiki_title": "Żejtun",
+          "lat": 35.85555556,
+          "lng": 14.53333333,
+          "order_index": 0,
+          "description": "Żejtun — a notable landmark in Marsaxlokk, Malta.",
+          "seo_phrase": "Żejtun",
+          "seo_keywords": [
+            "Marsaxlokk",
+            "Malta",
+            "travel"
+          ],
+          "commons_file": "Zejtun Malta town view.png/800px-Zejtun Malta town view.png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Zejtun_Malta_town_view.png/800px-Zejtun_Malta_town_view.png",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "St Catherine's Old Church",
+          "wiki_title": "St Catherine's Old Church, Żejtun",
+          "lat": 35.85294444,
+          "lng": 14.53825,
+          "order_index": 1,
+          "description": "St Catherine's Old Church, Żejtun — a notable landmark in Marsaxlokk, Malta.",
+          "seo_phrase": "St Catherine's Old Church",
+          "seo_keywords": [
+            "Marsaxlokk",
+            "Malta",
+            "travel"
+          ],
+          "commons_file": "Facade of Chapel of St Gregory, Zejtun.png/800px-Facade of Chapel of St Gregory, Zejtun.png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Facade_of_Chapel_of_St_Gregory%2C_Zejtun.png/800px-Facade_of_Chapel_of_St_Gregory%2C_Zejtun.png",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Marsaxlokk Harbour",
+          "wiki_title": "Marsaxlokk",
+          "lat": 35.8415,
+          "lng": 14.545,
+          "order_index": 2,
+          "description": "A stunning fishing village harbour filled with brightly painted traditional Maltese boats.",
+          "seo_phrase": "Marsaxlokk Harbour: Home of Traditional Luzzu Boats",
+          "seo_keywords": [
+            "Marsaxlokk Harbour",
+            "Luzzu boats",
+            "fishing village Malta",
+            "Marsaxlokk market",
+            "seafood Malta"
+          ],
+          "image_url": "",
+          "seo_priority": 99,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Marsaxlokk Market",
+            "Parish Church of Our Lady of Pompeii",
+            "Fort Delimara"
+          ]
+        },
+        {
+          "name": "St. Peter's Pool",
+          "wiki_title": "St. Peter's Pool",
+          "lat": 35.8375,
+          "lng": 14.5615,
+          "order_index": 3,
+          "description": "A naturally formed pool in the rocks, perfect for swimming and diving near Marsaxlokk.",
+          "seo_phrase": "St. Peter's Pool: Natural Swimming Hole in Malta",
+          "seo_keywords": [
+            "St Peter's Pool",
+            "swimming in Malta",
+            "natural pools Malta",
+            "Marsaxlokk swimming",
+            "cliff jumping Malta"
+          ],
+          "image_url": "",
+          "seo_priority": 96,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Delimara Lighthouse",
+            "Fort Delimara",
+            "Marsaxlokk Harbour"
+          ]
+        },
+        {
+          "name": "Marsaxlokk Market",
+          "wiki_title": "Marsaxlokk",
+          "lat": 35.842,
+          "lng": 14.546,
+          "order_index": 4,
+          "description": "A lively open-air market held along the promenade, famous for its fresh daily catch.",
+          "seo_phrase": "Marsaxlokk Market: Authentic Maltese Experience",
+          "seo_keywords": [
+            "Marsaxlokk Market",
+            "Maltese open-air markets",
+            "shopping in Marsaxlokk",
+            "local products Malta"
+          ],
+          "image_url": "",
+          "seo_priority": 93,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Marsaxlokk Harbour",
+            "Parish Church of Our Lady of Pompeii"
+          ]
+        },
+        {
+          "name": "Parish Church of Our Lady of Pompeii",
+          "wiki_title": "Marsaxlokk",
+          "lat": 35.8412,
+          "lng": 14.5445,
+          "order_index": 5,
+          "description": "The parish church of the village, situated right on the main promenade.",
+          "seo_phrase": "Parish Church of Our Lady of Pompeii: Landmark of Marsaxlokk",
+          "seo_keywords": [
+            "Our Lady of Pompeii Marsaxlokk",
+            "churches in Marsaxlokk",
+            "landmarks in Marsaxlokk"
+          ],
+          "image_url": "",
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Marsaxlokk Harbour",
+            "Marsaxlokk Market"
+          ]
+        },
+        {
+          "name": "Delimara Lighthouse",
+          "wiki_title": "Delimara",
+          "lat": 35.8315,
+          "lng": 14.563,
+          "order_index": 6,
+          "description": "A lighthouse located on the dramatic Delimara peninsula, marking the entrance to the harbour.",
+          "seo_phrase": "Delimara Lighthouse: Iconic Landmark on the Peninsula",
+          "seo_keywords": [
+            "Delimara Lighthouse",
+            "lighthouses Malta",
+            "Marsaxlokk coastline",
+            "coastal walking Malta"
+          ],
+          "image_url": "",
+          "seo_priority": 80,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Fort Delimara",
+            "St. Peter's Pool"
+          ]
+        },
+        {
+          "name": "Fort Delimara",
+          "wiki_title": "Fort Delimara",
+          "lat": 35.835,
+          "lng": 14.557,
+          "order_index": 7,
+          "description": "A Victorian-era fort built by the British to protect the entrance to Marsaxlokk Harbour.",
+          "seo_phrase": "Fort Delimara: Historic Fortification in Marsaxlokk",
+          "seo_keywords": [
+            "Fort Delimara",
+            "Marsaxlokk history",
+            "British forts Malta",
+            "coastal defenses Malta"
+          ],
+          "image_url": "",
+          "seo_priority": 76,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Delimara Lighthouse",
+            "Marsaxlokk Harbour"
+          ]
+        },
+        {
+          "name": "Xrobb l-Għaġin",
+          "wiki_title": "Xrobb l-Għaġin",
+          "lat": 35.845,
+          "lng": 14.565,
+          "order_index": 8,
+          "description": "A protected nature park and sustainable development center on the southeast coast.",
+          "seo_phrase": "Xrobb l-Għaġin: Nature Park and Coastal Cliffs",
+          "seo_keywords": [
+            "Xrobb l-Għaġin",
+            "nature parks Malta",
+            "coastal walks Marsaxlokk",
+            "bird watching Malta"
+          ],
+          "image_url": "",
+          "seo_priority": 73,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Delimara Lighthouse",
+            "St. Peter's Pool"
+          ]
+        },
+        {
+          "name": "Fort Tas-Silġ",
+          "wiki_title": "Fort Tas-Silġ",
+          "lat": 35.8475,
+          "lng": 14.542,
+          "order_index": 9,
+          "description": "A coastal fortification near Marsaxlokk, part of the extensive defensive network of Malta.",
+          "seo_phrase": "Fort Tas-Silġ: Historic Fortification in the South",
+          "seo_keywords": [
+            "Fort Tas-Silġ",
+            "Marsaxlokk fortifications",
+            "military history Malta",
+            "forts in Malta"
+          ],
+          "image_url": "",
+          "seo_priority": 70,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Marsaxlokk Harbour",
+            "Tas-Silġ Archaeology site"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Birgu",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Birgu",
+      "seo": {
+        "title": "Top 10 Things to Do in Birgu, Malta",
+        "description": "Discover 10 must-see landmarks in Birgu, Malta. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Birgu? Explore the best places to visit in Birgu, Malta.",
+        "keywords": [
+          "things to do in Birgu",
+          "Birgu Malta travel guide",
+          "best places to visit in Birgu",
+          "Birgu landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Fort St Angelo",
+          "wiki_title": "Fort St Angelo",
+          "lat": 35.888,
+          "lng": 14.519,
+          "order_index": 0,
+          "seo_phrase": "Fort St Angelo — Birgu, Malta",
+          "seo_keywords": [
+            "Fort St Angelo",
+            "Birgu",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "Inquisitor's Palace",
+          "wiki_title": "Inquisitor's Palace",
+          "lat": 35.888,
+          "lng": 14.522,
+          "order_index": 1,
+          "seo_phrase": "Inquisitor's Palace — Birgu, Malta",
+          "seo_keywords": [
+            "Inquisitor's Palace",
+            "Birgu",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 94,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "St Lawrence's Church, Birgu",
+          "wiki_title": "St Lawrence's Church, Birgu",
+          "lat": 35.888,
+          "lng": 14.521,
+          "order_index": 2,
+          "seo_phrase": "St Lawrence's Church, Birgu — Birgu, Malta",
+          "seo_keywords": [
+            "St Lawrence's Church, Birgu",
+            "Birgu",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Malta Maritime Museum",
+          "wiki_title": "Malta Maritime Museum",
+          "lat": 35.888,
+          "lng": 14.521,
+          "order_index": 3,
+          "seo_phrase": "Malta Maritime Museum — Birgu, Malta",
+          "seo_keywords": [
+            "Malta Maritime Museum",
+            "Birgu",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2
+        },
+        {
+          "name": "Couvre Porte",
+          "wiki_title": "Couvre Porte",
+          "lat": 35.887,
+          "lng": 14.523,
+          "order_index": 4,
+          "seo_phrase": "Couvre Porte — Birgu, Malta",
+          "seo_keywords": [
+            "Couvre Porte",
+            "Birgu",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Auberge de France",
+          "wiki_title": "Auberge de France",
+          "lat": 35.888,
+          "lng": 14.522,
+          "order_index": 5,
+          "seo_phrase": "Auberge de France — Birgu, Malta",
+          "seo_keywords": [
+            "Auberge de France",
+            "Birgu",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Church of the Annunciation, Birgu",
+          "wiki_title": "Church of the Annunciation, Birgu",
+          "lat": 35.888,
+          "lng": 14.522,
+          "order_index": 6,
+          "seo_phrase": "Church of the Annunciation, Birgu — Birgu, Malta",
+          "seo_keywords": [
+            "Church of the Annunciation, Birgu",
+            "Birgu",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Birgu Clock Tower",
+          "wiki_title": "Birgu Clock Tower",
+          "lat": 35.888,
+          "lng": 14.521,
+          "order_index": 7,
+          "seo_phrase": "Birgu Clock Tower — Birgu, Malta",
+          "seo_keywords": [
+            "Birgu Clock Tower",
+            "Birgu",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "Vittoriosa Waterfront",
+          "wiki_title": "Birgu",
+          "lat": 35.888,
+          "lng": 14.519,
+          "order_index": 8,
+          "seo_phrase": "Vittoriosa Waterfront — Birgu, Malta",
+          "seo_keywords": [
+            "Vittoriosa Waterfront",
+            "Birgu",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Church of St Dominic, Birgu",
+          "wiki_title": "Church of St Dominic, Birgu",
+          "lat": 35.888,
+          "lng": 14.522,
+          "order_index": 9,
+          "seo_phrase": "Church of St Dominic, Birgu — Birgu, Malta",
+          "seo_keywords": [
+            "Church of St Dominic, Birgu",
+            "Birgu",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        }
+      ]
+    },
+    {
+      "city": "Mosta",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Mosta",
+      "seo": {
+        "title": "Top 10 Things to Do in Mosta, Malta",
+        "description": "Discover 10 must-see landmarks in Mosta, Malta. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Mosta? Explore the best places to visit in Mosta, Malta.",
+        "keywords": [
+          "things to do in Mosta",
+          "Mosta Malta travel guide",
+          "best places to visit in Mosta",
+          "Mosta landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Rotunda of Mosta",
+          "wiki_title": "Rotunda of Mosta",
+          "lat": 35.909,
+          "lng": 14.426,
+          "order_index": 0,
+          "seo_phrase": "Rotunda of Mosta — Mosta, Malta",
+          "seo_keywords": [
+            "Rotunda of Mosta",
+            "Mosta",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Santa Marija Assunta Church",
+          "wiki_title": "Santa Marija Assunta Church",
+          "lat": 35.909,
+          "lng": 14.427,
+          "order_index": 1,
+          "seo_phrase": "Santa Marija Assunta Church — Mosta, Malta",
+          "seo_keywords": [
+            "Santa Marija Assunta Church",
+            "Mosta",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 94,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Verdala Palace",
+          "wiki_title": "Verdala Palace",
+          "lat": 35.872,
+          "lng": 14.401,
+          "order_index": 2,
+          "seo_phrase": "Verdala Palace — Mosta, Malta",
+          "seo_keywords": [
+            "Verdala Palace",
+            "Mosta",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "Mosta Bridge",
+          "wiki_title": "Mosta Bridge",
+          "lat": 35.909,
+          "lng": 14.425,
+          "order_index": 3,
+          "seo_phrase": "Mosta Bridge — Mosta, Malta",
+          "seo_keywords": [
+            "Mosta Bridge",
+            "Mosta",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "St Paul's Statue, Mosta",
+          "wiki_title": "Rotunda of Mosta",
+          "lat": 35.909,
+          "lng": 14.426,
+          "order_index": 4,
+          "seo_phrase": "St Paul's Statue, Mosta — Mosta, Malta",
+          "seo_keywords": [
+            "St Paul's Statue, Mosta",
+            "Mosta",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Mosta Dome",
+          "wiki_title": "Rotunda of Mosta",
+          "lat": 35.909,
+          "lng": 14.426,
+          "order_index": 5,
+          "seo_phrase": "Mosta Dome — Mosta, Malta",
+          "seo_keywords": [
+            "Mosta Dome",
+            "Mosta",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Speranza Chapel",
+          "wiki_title": "Speranza Chapel",
+          "lat": 35.908,
+          "lng": 14.428,
+          "order_index": 6,
+          "seo_phrase": "Speranza Chapel — Mosta, Malta",
+          "seo_keywords": [
+            "Speranza Chapel",
+            "Mosta",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Mosta Parish Museum",
+          "wiki_title": "Rotunda of Mosta",
+          "lat": 35.909,
+          "lng": 14.426,
+          "order_index": 7,
+          "seo_phrase": "Mosta Parish Museum — Mosta, Malta",
+          "seo_keywords": [
+            "Mosta Parish Museum",
+            "Mosta",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2
+        },
+        {
+          "name": "Victoria Lines",
+          "wiki_title": "Victoria Lines",
+          "lat": 35.91,
+          "lng": 14.43,
+          "order_index": 8,
+          "seo_phrase": "Victoria Lines — Mosta, Malta",
+          "seo_keywords": [
+            "Victoria Lines",
+            "Mosta",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Wied il-Ghasel",
+          "wiki_title": "Wied il-Għasel",
+          "lat": 35.912,
+          "lng": 14.432,
+          "order_index": 9,
+          "seo_phrase": "Wied il-Ghasel — Mosta, Malta",
+          "seo_keywords": [
+            "Wied il-Ghasel",
+            "Mosta",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        }
+      ]
+    },
+    {
+      "city": "Rabat",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Rabat",
+      "seo": {
+        "title": "Top 10 Things to Do in Rabat, Malta",
+        "description": "Discover 10 must-see landmarks in Rabat, Malta. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Rabat? Explore the best places to visit in Rabat, Malta.",
+        "keywords": [
+          "things to do in Rabat",
+          "Rabat Malta travel guide",
+          "best places to visit in Rabat",
+          "Rabat landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "St Paul's Church, Rabat",
+          "wiki_title": "St Paul's Church, Rabat",
+          "lat": 35.881,
+          "lng": 14.398,
+          "order_index": 0,
+          "seo_phrase": "St Paul's Church, Rabat — Rabat, Malta",
+          "seo_keywords": [
+            "St Paul's Church, Rabat",
+            "Rabat",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Domus Romana",
+          "wiki_title": "Domus Romana",
+          "lat": 35.881,
+          "lng": 14.398,
+          "order_index": 1,
+          "seo_phrase": "Domus Romana — Rabat, Malta",
+          "seo_keywords": [
+            "Domus Romana",
+            "Rabat",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 94,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Wignacourt Museum",
+          "wiki_title": "Wignacourt Museum",
+          "lat": 35.881,
+          "lng": 14.398,
+          "order_index": 2,
+          "seo_phrase": "Wignacourt Museum — Rabat, Malta",
+          "seo_keywords": [
+            "Wignacourt Museum",
+            "Rabat",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2
+        },
+        {
+          "name": "St Cataldus Church",
+          "wiki_title": "St Cataldus Church",
+          "lat": 35.881,
+          "lng": 14.398,
+          "order_index": 3,
+          "seo_phrase": "St Cataldus Church — Rabat, Malta",
+          "seo_keywords": [
+            "St Cataldus Church",
+            "Rabat",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Howard Gardens",
+          "wiki_title": "Howard Gardens",
+          "lat": 35.881,
+          "lng": 14.397,
+          "order_index": 4,
+          "seo_phrase": "Howard Gardens — Rabat, Malta",
+          "seo_keywords": [
+            "Howard Gardens",
+            "Rabat",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3
+        },
+        {
+          "name": "Mdina Gate",
+          "wiki_title": "Mdina Gate",
+          "lat": 35.886,
+          "lng": 14.401,
+          "order_index": 5,
+          "seo_phrase": "Mdina Gate — Rabat, Malta",
+          "seo_keywords": [
+            "Mdina Gate",
+            "Rabat",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "Vilhena Palace",
+          "wiki_title": "Vilhena Palace",
+          "lat": 35.886,
+          "lng": 14.402,
+          "order_index": 6,
+          "seo_phrase": "Vilhena Palace — Rabat, Malta",
+          "seo_keywords": [
+            "Vilhena Palace",
+            "Rabat",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "Casa Bernard",
+          "wiki_title": "Casa Bernard",
+          "lat": 35.881,
+          "lng": 14.398,
+          "order_index": 7,
+          "seo_phrase": "Casa Bernard — Rabat, Malta",
+          "seo_keywords": [
+            "Casa Bernard",
+            "Rabat",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Verdala Palace",
+          "wiki_title": "Verdala Palace",
+          "lat": 35.872,
+          "lng": 14.401,
+          "order_index": 8,
+          "seo_phrase": "Verdala Palace — Rabat, Malta",
+          "seo_keywords": [
+            "Verdala Palace",
+            "Rabat",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5
+        },
+        {
+          "name": "Buskett Gardens",
+          "wiki_title": "Buskett Gardens",
+          "lat": 35.868,
+          "lng": 14.398,
+          "order_index": 9,
+          "seo_phrase": "Buskett Gardens — Rabat, Malta",
+          "seo_keywords": [
+            "Buskett Gardens",
+            "Rabat",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3
+        }
+      ]
+    },
+    {
+      "city": "Gharb",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Gharb",
+      "seo": {
+        "title": "Top 10 Things to Do in Gharb, Malta",
+        "description": "Discover 10 must-see landmarks in Gharb, Malta. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Gharb? Explore the best places to visit in Gharb, Malta.",
+        "keywords": [
+          "things to do in Gharb",
+          "Gharb Malta travel guide",
+          "best places to visit in Gharb",
+          "Gharb landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Ta' Pinu Basilica",
+          "wiki_title": "Ta' Pinu",
+          "lat": 36.061,
+          "lng": 14.203,
+          "order_index": 0,
+          "seo_phrase": "Ta' Pinu Basilica — Gharb, Malta",
+          "seo_keywords": [
+            "Ta' Pinu Basilica",
+            "Gharb",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Gharb Parish Church",
+          "wiki_title": "Gharb Parish Church",
+          "lat": 36.06,
+          "lng": 14.209,
+          "order_index": 1,
+          "seo_phrase": "Gharb Parish Church — Gharb, Malta",
+          "seo_keywords": [
+            "Gharb Parish Church",
+            "Gharb",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 94,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Folklore Museum, Gharb",
+          "wiki_title": "Folklore Museum, Gharb",
+          "lat": 36.06,
+          "lng": 14.209,
+          "order_index": 2,
+          "seo_phrase": "Folklore Museum, Gharb — Gharb, Malta",
+          "seo_keywords": [
+            "Folklore Museum, Gharb",
+            "Gharb",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 93,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2
+        },
+        {
+          "name": "Wied il-Mielaħ",
+          "wiki_title": "Wied il-Mielaħ",
+          "lat": 36.055,
+          "lng": 14.19,
+          "order_index": 3,
+          "seo_phrase": "Wied il-Mielaħ — Gharb, Malta",
+          "seo_keywords": [
+            "Wied il-Mielaħ",
+            "Gharb",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Azure Window site",
+          "wiki_title": "Azure Window",
+          "lat": 36.055,
+          "lng": 14.19,
+          "order_index": 4,
+          "seo_phrase": "Azure Window site — Gharb, Malta",
+          "seo_keywords": [
+            "Azure Window site",
+            "Gharb",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 91,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Dwejra Bay",
+          "wiki_title": "Dwejra",
+          "lat": 36.053,
+          "lng": 14.19,
+          "order_index": 5,
+          "seo_phrase": "Dwejra Bay — Gharb, Malta",
+          "seo_keywords": [
+            "Dwejra Bay",
+            "Gharb",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Fungus Rock",
+          "wiki_title": "Fungus Rock",
+          "lat": 36.053,
+          "lng": 14.188,
+          "order_index": 6,
+          "seo_phrase": "Fungus Rock — Gharb, Malta",
+          "seo_keywords": [
+            "Fungus Rock",
+            "Gharb",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Inland Sea, Gozo",
+          "wiki_title": "Inland Sea, Gozo",
+          "lat": 36.053,
+          "lng": 14.191,
+          "order_index": 7,
+          "seo_phrase": "Inland Sea, Gozo — Gharb, Malta",
+          "seo_keywords": [
+            "Inland Sea, Gozo",
+            "Gharb",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "Gharb Square",
+          "wiki_title": "Gharb",
+          "lat": 36.06,
+          "lng": 14.209,
+          "order_index": 8,
+          "seo_phrase": "Gharb Square — Gharb, Malta",
+          "seo_keywords": [
+            "Gharb Square",
+            "Gharb",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        },
+        {
+          "name": "San Dimitri Chapel",
+          "wiki_title": "San Dimitri Chapel",
+          "lat": 36.062,
+          "lng": 14.205,
+          "order_index": 9,
+          "seo_phrase": "San Dimitri Chapel — Gharb, Malta",
+          "seo_keywords": [
+            "San Dimitri Chapel",
+            "Gharb",
+            "Malta",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "Malta Scenic Road Trip",
+    "subtitle": "Explore Malta beyond the cities — nature, coastlines, and scenic routes.",
+    "wiki_title": "Malta",
+    "hero_image": "https://upload.wikimedia.org/wikipedia/commons/1/12/St_John%27s_Co-Cathedral%2C_Valletta_001.jpg",
+    "totalDays": 10,
+    "seo": {
+      "title": "Malta Road Trip Adventure",
+      "description": "Plan a Malta road trip with GPS stops and scenic routes.",
+      "intro": "Explore Malta beyond the cities with this adventure route.",
+      "keywords": [
+        "Malta road trip",
+        "Malta by car"
+      ]
+    },
+    "places": [
+      {
+        "name": "Fort St. Angelo",
+        "wiki_title": "Fort St. Angelo",
+        "region": "Malta",
+        "lat": 35.89194444,
+        "lng": 14.51833333,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Fort St. Angelo — a must-see landmark on a Malta road trip.",
+        "seo_phrase": "Fort St. Angelo",
+        "seo_keywords": [
+          "Fort St. Angelo",
+          "Malta",
+          "road trip"
+        ],
+        "commons_file": "Malta - Birgu - Fort Saint Angelo (Upper Barrakka Gardens) 01 ies.jpg/800px-Malta - Birgu - Fort Saint Angelo (Upper Barrakka Gardens) 01 ies.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Malta_-_Birgu_-_Fort_Saint_Angelo_%28Upper_Barrakka_Gardens%29_01_ies.jpg/800px-Malta_-_Birgu_-_Fort_Saint_Angelo_%28Upper_Barrakka_Gardens%29_01_ies.jpg",
+        "seo_priority": 90,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Victoria",
+        "wiki_title": "Victoria, Malta",
+        "region": "Malta",
+        "lat": 36.04361111,
+        "lng": 14.24305556,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Victoria — a must-see landmark on a Malta road trip.",
+        "seo_phrase": "Victoria",
+        "seo_keywords": [
+          "Victoria",
+          "Malta",
+          "road trip"
+        ],
+        "commons_file": "Malta Gozo Victoria BW 2011-10-08 15-32-18.jpg/800px-Malta Gozo Victoria BW 2011-10-08 15-32-18.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Malta_Gozo_Victoria_BW_2011-10-08_15-32-18.jpg/800px-Malta_Gozo_Victoria_BW_2011-10-08_15-32-18.jpg",
+        "seo_priority": 89,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "St John's Co-Cathedral",
+        "wiki_title": "St John's Co-Cathedral",
+        "region": "Malta",
+        "lat": 35.89777778,
+        "lng": 14.51277778,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "St John's Co-Cathedral — a must-see landmark on a Malta road trip.",
+        "seo_phrase": "St John's Co-Cathedral",
+        "seo_keywords": [
+          "St John's Co-Cathedral",
+          "Malta",
+          "road trip"
+        ],
+        "commons_file": "St John's Co-Cathedral, Valletta 001.jpg/800px-St John's Co-Cathedral, Valletta 001.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/St_John%27s_Co-Cathedral%2C_Valletta_001.jpg/800px-St_John%27s_Co-Cathedral%2C_Valletta_001.jpg",
+        "seo_priority": 88,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "St Paul's Cathedral",
+        "wiki_title": "St Paul's Cathedral, Mdina",
+        "region": "Malta",
+        "lat": 35.88638889,
+        "lng": 14.40388889,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "St Paul's Cathedral — a must-see landmark on a Malta road trip.",
+        "seo_phrase": "St Paul's Cathedral",
+        "seo_keywords": [
+          "St Paul's Cathedral",
+          "Malta",
+          "road trip"
+        ],
+        "commons_file": "Malta - Mdina - Pjazza San Pawl + St. Paul's Cathedral ex 01 ies.jpg/800px-Malta - Mdina - Pjazza San Pawl + St. Paul's Cathedral ex 01 ies.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Malta_-_Mdina_-_Pjazza_San_Pawl_%2B_St._Paul%27s_Cathedral_ex_01_ies.jpg/800px-Malta_-_Mdina_-_Pjazza_San_Pawl_%2B_St._Paul%27s_Cathedral_ex_01_ies.jpg",
+        "seo_priority": 87,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Cathedral of the Assumption",
+        "wiki_title": "Cathedral of the Assumption, Victoria",
+        "region": "Malta",
+        "lat": 36.04622222,
+        "lng": 14.24002778,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Cathedral of the Assumption — a must-see landmark on a Malta road trip.",
+        "seo_phrase": "Cathedral of the Assumption",
+        "seo_keywords": [
+          "Cathedral of the Assumption",
+          "Malta",
+          "road trip"
+        ],
+        "commons_file": "Cathedral of St.Mary - 01.jpg/800px-Cathedral of St.Mary - 01.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Cathedral_of_St.Mary_-_01.jpg/800px-Cathedral_of_St.Mary_-_01.jpg",
+        "seo_priority": 86,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "St. Julian's",
+        "wiki_title": "St. Julian's, Malta",
+        "region": "Malta",
+        "lat": 35.91861111,
+        "lng": 14.49,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "St. Julian's — a must-see landmark on a Malta road trip.",
+        "seo_phrase": "St. Julian's",
+        "seo_keywords": [
+          "St. Julian's",
+          "Malta",
+          "road trip"
+        ],
+        "commons_file": "Malta-stjulians-hotels-207.jpg/800px-Malta-stjulians-hotels-207.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Malta-stjulians-hotels-207.jpg/800px-Malta-stjulians-hotels-207.jpg",
+        "seo_priority": 85,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Church of St Augustine",
+        "wiki_title": "Church of St Augustine, Victoria",
+        "region": "Malta",
+        "lat": 36.04247222,
+        "lng": 14.23694444,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Church of St Augustine — a must-see landmark on a Malta road trip.",
+        "seo_phrase": "Church of St Augustine",
+        "seo_keywords": [
+          "Church of St Augustine",
+          "Malta",
+          "road trip"
+        ],
+        "commons_file": "Church of St Augustine, Victoria Gozo.jpg/800px-Church of St Augustine, Victoria Gozo.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Church_of_St_Augustine%2C_Victoria_Gozo.jpg/800px-Church_of_St_Augustine%2C_Victoria_Gozo.jpg",
+        "seo_priority": 84,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Monastery of St Scholastica",
+        "wiki_title": "Monastery of St Scholastica",
+        "region": "Malta",
+        "lat": 35.8889,
+        "lng": 14.5223,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Monastery of St Scholastica — a must-see landmark on a Malta road trip.",
+        "seo_phrase": "Monastery of St Scholastica",
+        "seo_keywords": [
+          "Monastery of St Scholastica",
+          "Malta",
+          "road trip"
+        ],
+        "commons_file": "Malta Vittoriosa BW 2011-10-06 11-16-47.JPG/800px-Malta Vittoriosa BW 2011-10-06 11-16-47.JPG",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Malta_Vittoriosa_BW_2011-10-06_11-16-47.JPG/800px-Malta_Vittoriosa_BW_2011-10-06_11-16-47.JPG",
+        "seo_priority": 83,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "St Peter's Church and Monastery",
+        "wiki_title": "St Peter's Church and Monastery, Mdina",
+        "region": "Malta",
+        "lat": 35.88544444,
+        "lng": 14.4035,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "St Peter's Church and Monastery — a must-see landmark on a Malta road trip.",
+        "seo_phrase": "St Peter's Church and Monastery",
+        "seo_keywords": [
+          "St Peter's Church and Monastery",
+          "Malta",
+          "road trip"
+        ],
+        "commons_file": "St Peter's church and Monastery Mdina.jpg/800px-St Peter's church and Monastery Mdina.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/St_Peter%27s_church_and_Monastery_Mdina.jpg/800px-St_Peter%27s_church_and_Monastery_Mdina.jpg",
+        "seo_priority": 82,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Church and Monastery of St Catherine",
+        "wiki_title": "Church and Monastery of St Catherine, Valletta",
+        "region": "Malta",
+        "lat": 35.89983333,
+        "lng": 14.51491667,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Church and Monastery of St Catherine — a must-see landmark on a Malta road trip.",
+        "seo_phrase": "Church and Monastery of St Catherine",
+        "seo_keywords": [
+          "Church and Monastery of St Catherine",
+          "Malta",
+          "road trip"
+        ],
+        "commons_file": "Cultural Buildings in Valletta 35.jpg/800px-Cultural Buildings in Valletta 35.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Cultural_Buildings_in_Valletta_35.jpg/800px-Cultural_Buildings_in_Valletta_35.jpg",
+        "seo_priority": 81,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      }
+    ]
+  }
+}

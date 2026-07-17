@@ -1,0 +1,3820 @@
+{
+  "version": 2,
+  "country": "France",
+  "published": true,
+  "cities": [
+    {
+      "city": "Paris",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Paris",
+      "seo": {
+        "title": "Paris Travel Guide | France City Break",
+        "description": "Use Paris as a France base for architecture, food, neighborhoods, and easy day plans across the city and beyond.",
+        "intro": "France's most iconic urban stage for museums, cafés, river walks, and landmark architecture.",
+        "keywords": [
+          "things to do in Paris",
+          "Paris France travel guide",
+          "best places to visit in Paris",
+          "Paris landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Eiffel Tower",
+          "wiki_title": "Eiffel Tower",
+          "lat": 48.85837,
+          "lng": 2.29448,
+          "order_index": 0,
+          "description": "The iconic iron tower in Paris built for the 1889 Exposition.",
+          "seo_phrase": "Eiffel Tower in Paris | Paris Travel Guide",
+          "seo_keywords": [
+            "Paris",
+            "Eiffel Tower",
+            "Paris landmark",
+            "what to do in Paris",
+            "Eiffel Tower France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Louvre Museum",
+            "Notre-Dame de Paris",
+            "Sacré-Cœur, Paris"
+          ],
+          "commons_file": "France IDF 75 Tour Eiffel 06.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/France_IDF_75_Tour_Eiffel_06.jpg"
+        },
+        {
+          "name": "Louvre Museum",
+          "wiki_title": "Louvre",
+          "lat": 48.86061,
+          "lng": 2.33764,
+          "order_index": 1,
+          "description": "The Louvre is the world's largest art museum located in Paris.",
+          "seo_phrase": "Louvre Museum in Paris | Paris Travel Guide",
+          "seo_keywords": [
+            "Paris",
+            "Louvre Museum",
+            "Paris museum",
+            "what to do in Paris",
+            "Louvre Museum France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Eiffel Tower",
+            "Notre-Dame de Paris",
+            "Sacré-Cœur, Paris"
+          ],
+          "commons_file": "Cour Napoléon at night - Louvre.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Cour_Napol%C3%A9on_at_night_-_Louvre.jpg"
+        },
+        {
+          "name": "Notre-Dame de Paris",
+          "wiki_title": "Notre-Dame de Paris",
+          "lat": 48.853,
+          "lng": 2.3499,
+          "order_index": 2,
+          "description": "A 12th-century Gothic cathedral famous for its architecture and history.",
+          "seo_phrase": "Notre-Dame de Paris in Paris | Paris Travel Guide",
+          "seo_keywords": [
+            "Paris",
+            "Notre-Dame de Paris",
+            "Paris cathedral",
+            "what to do in Paris",
+            "Notre-Dame de Paris France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Eiffel Tower",
+            "Louvre Museum",
+            "Sacré-Cœur, Paris"
+          ],
+          "commons_file": "Notre-Dame de Paris 2013-07-24.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Notre-Dame_de_Paris_2013-07-24.jpg"
+        },
+        {
+          "name": "Sacré-Cœur, Paris",
+          "wiki_title": "Sacré-Cœur, Paris",
+          "lat": 48.8867,
+          "lng": 2.3431,
+          "order_index": 3,
+          "seo_phrase": "Sacré-Cœur, Paris in Paris | Paris Travel Guide",
+          "seo_keywords": [
+            "Paris",
+            "Sacré-Cœur Paris",
+            "Paris basilica",
+            "what to do in Paris",
+            "Sacré-Cœur Paris France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Eiffel Tower",
+            "Louvre Museum",
+            "Notre-Dame de Paris"
+          ]
+        },
+        {
+          "name": "Arc de Triomphe",
+          "wiki_title": "Arc de Triomphe",
+          "lat": 48.87379,
+          "lng": 2.295,
+          "order_index": 4,
+          "seo_phrase": "Arc de Triomphe in Paris | Paris Travel Guide",
+          "seo_keywords": [
+            "Paris",
+            "Arc de Triomphe",
+            "Paris monument",
+            "what to do in Paris",
+            "Arc de Triomphe France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Eiffel Tower",
+            "Louvre Museum",
+            "Notre-Dame de Paris"
+          ]
+        },
+        {
+          "name": "Musée d'Orsay",
+          "wiki_title": "Musée d'Orsay",
+          "lat": 48.85996,
+          "lng": 2.32656,
+          "order_index": 5,
+          "seo_phrase": "Musée d'Orsay in Paris | Paris Travel Guide",
+          "seo_keywords": [
+            "Paris",
+            "Musée dOrsay",
+            "Paris museum",
+            "what to do in Paris",
+            "Musée dOrsay France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Eiffel Tower",
+            "Louvre Museum",
+            "Notre-Dame de Paris"
+          ]
+        },
+        {
+          "name": "Panthéon, Paris",
+          "wiki_title": "Panthéon, Paris",
+          "lat": 48.84622,
+          "lng": 2.3459,
+          "order_index": 6,
+          "seo_phrase": "Panthéon, Paris in Paris | Paris Travel Guide",
+          "seo_keywords": [
+            "Paris",
+            "Panthéon Paris",
+            "Paris monument",
+            "what to do in Paris",
+            "Panthéon Paris France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Eiffel Tower",
+            "Louvre Museum",
+            "Notre-Dame de Paris"
+          ]
+        },
+        {
+          "name": "Jardin du Luxembourg",
+          "wiki_title": "Luxembourg Garden",
+          "lat": 48.8462,
+          "lng": 2.33711,
+          "order_index": 7,
+          "seo_phrase": "Jardin du Luxembourg in Paris | Paris Travel Guide",
+          "seo_keywords": [
+            "Paris",
+            "Jardin du Luxembourg",
+            "Paris garden",
+            "what to do in Paris",
+            "Jardin du Luxembourg France"
+          ],
+          "seo_priority": 76,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Eiffel Tower",
+            "Louvre Museum",
+            "Notre-Dame de Paris"
+          ]
+        },
+        {
+          "name": "Sainte-Chapelle",
+          "wiki_title": "Sainte-Chapelle",
+          "lat": 48.85543,
+          "lng": 2.345,
+          "order_index": 8,
+          "seo_phrase": "Sainte-Chapelle in Paris | Paris Travel Guide",
+          "seo_keywords": [
+            "Paris",
+            "Sainte-Chapelle",
+            "Paris chapel",
+            "what to do in Paris",
+            "Sainte-Chapelle France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Eiffel Tower",
+            "Louvre Museum",
+            "Notre-Dame de Paris"
+          ]
+        },
+        {
+          "name": "Centre Pompidou",
+          "wiki_title": "Centre Pompidou",
+          "lat": 48.8606,
+          "lng": 2.3522,
+          "order_index": 9,
+          "seo_phrase": "Centre Pompidou in Paris | Paris Travel Guide",
+          "seo_keywords": [
+            "Paris",
+            "Centre Pompidou",
+            "Paris museum",
+            "what to do in Paris",
+            "Centre Pompidou France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Eiffel Tower",
+            "Louvre Museum",
+            "Notre-Dame de Paris"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Lyon",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "religious"
+      ],
+      "wiki_title": "Lyon",
+      "seo": {
+        "title": "Lyon Travel Guide | France City Break",
+        "description": "Use Lyon as a France base for architecture, food, neighborhoods, and easy day plans across the city and beyond.",
+        "intro": "A polished river city where Roman layers, food culture, and hillside viewpoints meet.",
+        "keywords": [
+          "things to do in Lyon",
+          "Lyon France travel guide",
+          "best places to visit in Lyon",
+          "Lyon landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Basilica of Notre-Dame de Fourvière",
+          "wiki_title": "Basilica of Notre-Dame de Fourvière",
+          "lat": 45.76222,
+          "lng": 4.8221,
+          "order_index": 0,
+          "description": "A late-19th century basilica perched on Fourvière hill in Lyon.",
+          "seo_phrase": "Basilica of Notre-Dame de Fourvière in Lyon | Lyon Travel Guide",
+          "seo_keywords": [
+            "Lyon",
+            "Basilica of Notre-Dame de Fourvière",
+            "Lyon basilica",
+            "what to do in Lyon",
+            "Basilica of Notre-Dame de Fourvière France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Vieux Lyon",
+            "Parc de la Tête d'Or",
+            "Musée des Confluences"
+          ],
+          "commons_file": "Basilique Notre-Dame de Fourvière Lyon.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Basilique_Notre-Dame_de_Fourvi%C3%A8re_Lyon.jpg"
+        },
+        {
+          "name": "Vieux Lyon",
+          "wiki_title": "Vieux Lyon",
+          "lat": 45.7624,
+          "lng": 4.8276,
+          "order_index": 1,
+          "seo_phrase": "Vieux Lyon in Lyon | Lyon Travel Guide",
+          "seo_keywords": [
+            "Lyon",
+            "Vieux Lyon",
+            "Lyon historic quarter",
+            "what to do in Lyon",
+            "Vieux Lyon France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Basilica of Notre-Dame de Fourvière",
+            "Parc de la Tête d'Or",
+            "Musée des Confluences"
+          ]
+        },
+        {
+          "name": "Parc de la Tête d'Or",
+          "wiki_title": "Parc de la Tête d'Or",
+          "lat": 45.7846,
+          "lng": 4.852,
+          "order_index": 2,
+          "seo_phrase": "Parc de la Tête d'Or in Lyon | Lyon Travel Guide",
+          "seo_keywords": [
+            "Lyon",
+            "Parc de la Tête dOr",
+            "Lyon park",
+            "what to do in Lyon",
+            "Parc de la Tête dOr France"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Basilica of Notre-Dame de Fourvière",
+            "Vieux Lyon",
+            "Musée des Confluences"
+          ]
+        },
+        {
+          "name": "Musée des Confluences",
+          "wiki_title": "Musée des Confluences",
+          "lat": 45.7338,
+          "lng": 4.8195,
+          "order_index": 3,
+          "seo_phrase": "Musée des Confluences in Lyon | Lyon Travel Guide",
+          "seo_keywords": [
+            "Lyon",
+            "Musée des Confluences",
+            "Lyon museum",
+            "what to do in Lyon",
+            "Musée des Confluences France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Basilica of Notre-Dame de Fourvière",
+            "Vieux Lyon",
+            "Parc de la Tête d'Or"
+          ]
+        },
+        {
+          "name": "Place Bellecour",
+          "wiki_title": "Place Bellecour",
+          "lat": 45.7578,
+          "lng": 4.832,
+          "order_index": 4,
+          "seo_phrase": "Place Bellecour in Lyon | Lyon Travel Guide",
+          "seo_keywords": [
+            "Lyon",
+            "Place Bellecour",
+            "Lyon square",
+            "what to do in Lyon",
+            "Place Bellecour France"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Basilica of Notre-Dame de Fourvière",
+            "Vieux Lyon",
+            "Parc de la Tête d'Or"
+          ]
+        },
+        {
+          "name": "Théâtre antique de Lyon",
+          "wiki_title": "Ancient Theatre of Fourvière",
+          "lat": 45.759,
+          "lng": 4.8218,
+          "order_index": 5,
+          "seo_phrase": "Théâtre antique de Lyon in Lyon | Lyon Travel Guide",
+          "seo_keywords": [
+            "Lyon",
+            "Théâtre antique de Lyon",
+            "Lyon roman site",
+            "what to do in Lyon",
+            "Théâtre antique de Lyon France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Basilica of Notre-Dame de Fourvière",
+            "Vieux Lyon",
+            "Parc de la Tête d'Or"
+          ]
+        },
+        {
+          "name": "Cathédrale Saint-Jean-Baptiste de Lyon",
+          "wiki_title": "Lyon Cathedral",
+          "lat": 45.7622,
+          "lng": 4.8267,
+          "order_index": 6,
+          "seo_phrase": "Cathédrale Saint-Jean-Baptiste de Lyon in Lyon | Lyon Travel Guide",
+          "seo_keywords": [
+            "Lyon",
+            "Cathédrale Saint-Jean-Baptiste de Lyon",
+            "Lyon cathedral",
+            "what to do in Lyon",
+            "Cathédrale Saint-Jean-Baptiste de Lyon France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Basilica of Notre-Dame de Fourvière",
+            "Vieux Lyon",
+            "Parc de la Tête d'Or"
+          ]
+        },
+        {
+          "name": "Institut Lumière",
+          "wiki_title": "Institut Lumière",
+          "lat": 45.7447,
+          "lng": 4.8655,
+          "order_index": 7,
+          "seo_phrase": "Institut Lumière in Lyon | Lyon Travel Guide",
+          "seo_keywords": [
+            "Lyon",
+            "Institut Lumière",
+            "Lyon museum",
+            "what to do in Lyon",
+            "Institut Lumière France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Basilica of Notre-Dame de Fourvière",
+            "Vieux Lyon",
+            "Parc de la Tête d'Or"
+          ]
+        },
+        {
+          "name": "Halles de Lyon Paul Bocuse",
+          "wiki_title": "Halles de Lyon Paul Bocuse",
+          "lat": 45.7615,
+          "lng": 4.8547,
+          "order_index": 8,
+          "seo_phrase": "Halles de Lyon Paul Bocuse in Lyon | Lyon Travel Guide",
+          "seo_keywords": [
+            "Lyon",
+            "Halles de Lyon Paul Bocuse",
+            "Lyon market",
+            "what to do in Lyon",
+            "Halles de Lyon Paul Bocuse France"
+          ],
+          "seo_priority": 76,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Basilica of Notre-Dame de Fourvière",
+            "Vieux Lyon",
+            "Parc de la Tête d'Or"
+          ]
+        },
+        {
+          "name": "Traboules du Vieux Lyon",
+          "wiki_title": "Traboule",
+          "lat": 45.764,
+          "lng": 4.827,
+          "order_index": 9,
+          "seo_phrase": "Traboules du Vieux Lyon in Lyon | Lyon Travel Guide",
+          "seo_keywords": [
+            "Lyon",
+            "Traboules du Vieux Lyon",
+            "Lyon historic passage",
+            "what to do in Lyon",
+            "Traboules du Vieux Lyon France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Basilica of Notre-Dame de Fourvière",
+            "Vieux Lyon",
+            "Parc de la Tête d'Or"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Marseille",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "nature"
+      ],
+      "wiki_title": "Marseille",
+      "seo": {
+        "title": "Marseille Travel Guide | France City Break",
+        "description": "Use Marseille as a France base for architecture, food, neighborhoods, and easy day plans across the city and beyond.",
+        "intro": "A Mediterranean port city shaped by sea air, cliffside basilicas, and old neighborhoods.",
+        "keywords": [
+          "things to do in Marseille",
+          "Marseille France travel guide",
+          "best places to visit in Marseille",
+          "Marseille landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Old Port of Marseille",
+          "wiki_title": "Old Port of Marseille",
+          "lat": 43.2965,
+          "lng": 5.3698,
+          "order_index": 0,
+          "description": "The historic harbor of Marseille, active since antiquity.",
+          "seo_phrase": "Old Port of Marseille in Marseille | Marseille Travel Guide",
+          "seo_keywords": [
+            "Marseille",
+            "Old Port of Marseille",
+            "Marseille port",
+            "what to do in Marseille",
+            "Old Port of Marseille France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Notre-Dame de la Garde",
+            "Calanques National Park",
+            "MuCEM"
+          ],
+          "commons_file": "Marseille Old Port.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Marseille_Old_Port.jpg"
+        },
+        {
+          "name": "Notre-Dame de la Garde",
+          "wiki_title": "Notre-Dame de la Garde",
+          "lat": 43.2841,
+          "lng": 5.3719,
+          "order_index": 1,
+          "description": "A 19th-century basilica overlooking Marseille from atop a hill.",
+          "seo_phrase": "Notre-Dame de la Garde in Marseille | Marseille Travel Guide",
+          "seo_keywords": [
+            "Marseille",
+            "Notre-Dame de la Garde",
+            "Marseille basilica",
+            "what to do in Marseille",
+            "Notre-Dame de la Garde France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Port of Marseille",
+            "Calanques National Park",
+            "MuCEM"
+          ],
+          "commons_file": "Notre-damedelagarde.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Notre-damedelagarde.JPG"
+        },
+        {
+          "name": "Calanques National Park",
+          "wiki_title": "Calanques National Park",
+          "lat": 43.213,
+          "lng": 5.43,
+          "order_index": 2,
+          "seo_phrase": "Calanques National Park in Marseille | Marseille Travel Guide",
+          "seo_keywords": [
+            "Marseille",
+            "Calanques National Park",
+            "Marseille national park",
+            "what to do in Marseille",
+            "Calanques National Park France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Port of Marseille",
+            "Notre-Dame de la Garde",
+            "MuCEM"
+          ]
+        },
+        {
+          "name": "MuCEM",
+          "wiki_title": "Museum of European and Mediterranean Civilisations",
+          "lat": 43.2967,
+          "lng": 5.3618,
+          "order_index": 3,
+          "seo_phrase": "MuCEM in Marseille | Marseille Travel Guide",
+          "seo_keywords": [
+            "Marseille",
+            "MuCEM",
+            "Marseille museum",
+            "what to do in Marseille",
+            "MuCEM France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Port of Marseille",
+            "Notre-Dame de la Garde",
+            "Calanques National Park"
+          ]
+        },
+        {
+          "name": "Château d'If",
+          "wiki_title": "Château d'If",
+          "lat": 43.2908,
+          "lng": 5.3193,
+          "order_index": 4,
+          "seo_phrase": "Château d'If in Marseille | Marseille Travel Guide",
+          "seo_keywords": [
+            "Marseille",
+            "Château dIf",
+            "Marseille fortress",
+            "what to do in Marseille",
+            "Château dIf France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Port of Marseille",
+            "Notre-Dame de la Garde",
+            "Calanques National Park"
+          ]
+        },
+        {
+          "name": "Le Panier",
+          "wiki_title": "Le Panier",
+          "lat": 43.3009,
+          "lng": 5.3675,
+          "order_index": 5,
+          "seo_phrase": "Le Panier in Marseille | Marseille Travel Guide",
+          "seo_keywords": [
+            "Marseille",
+            "Le Panier",
+            "Marseille historic quarter",
+            "what to do in Marseille",
+            "Le Panier France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Port of Marseille",
+            "Notre-Dame de la Garde",
+            "Calanques National Park"
+          ]
+        },
+        {
+          "name": "Palais Longchamp",
+          "wiki_title": "Palais Longchamp",
+          "lat": 43.3011,
+          "lng": 5.396,
+          "order_index": 6,
+          "seo_phrase": "Palais Longchamp in Marseille | Marseille Travel Guide",
+          "seo_keywords": [
+            "Marseille",
+            "Palais Longchamp",
+            "Marseille palace",
+            "what to do in Marseille",
+            "Palais Longchamp France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Port of Marseille",
+            "Notre-Dame de la Garde",
+            "Calanques National Park"
+          ]
+        },
+        {
+          "name": "Corniche Kennedy",
+          "wiki_title": "Corniche John F. Kennedy",
+          "lat": 43.2763,
+          "lng": 5.358,
+          "order_index": 7,
+          "seo_phrase": "Corniche Kennedy in Marseille | Marseille Travel Guide",
+          "seo_keywords": [
+            "Marseille",
+            "Corniche Kennedy",
+            "Marseille seafront",
+            "what to do in Marseille",
+            "Corniche Kennedy France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Port of Marseille",
+            "Notre-Dame de la Garde",
+            "Calanques National Park"
+          ]
+        },
+        {
+          "name": "Parc Borély",
+          "wiki_title": "Parc Borély",
+          "lat": 43.2597,
+          "lng": 5.3861,
+          "order_index": 8,
+          "seo_phrase": "Parc Borély in Marseille | Marseille Travel Guide",
+          "seo_keywords": [
+            "Marseille",
+            "Parc Borély",
+            "Marseille park",
+            "what to do in Marseille",
+            "Parc Borély France"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Port of Marseille",
+            "Notre-Dame de la Garde",
+            "Calanques National Park"
+          ]
+        },
+        {
+          "name": "Abbaye Saint-Victor, Marseille",
+          "wiki_title": "Abbey of Saint Victor",
+          "lat": 43.2946,
+          "lng": 5.365,
+          "order_index": 9,
+          "seo_phrase": "Abbaye Saint-Victor, Marseille in Marseille | Marseille Travel Guide",
+          "seo_keywords": [
+            "Marseille",
+            "Abbaye Saint-Victor Marseille",
+            "Marseille abbey",
+            "what to do in Marseille",
+            "Abbaye Saint-Victor Marseille France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Port of Marseille",
+            "Notre-Dame de la Garde",
+            "Calanques National Park"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Nice",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Nice",
+      "seo": {
+        "title": "Nice Travel Guide | France City Break",
+        "description": "Use Nice as a France base for architecture, food, neighborhoods, and easy day plans across the city and beyond.",
+        "intro": "A Riviera base for seaside promenades, art museums, and bright old-town streets.",
+        "keywords": [
+          "things to do in Nice",
+          "Nice France travel guide",
+          "best places to visit in Nice",
+          "Nice landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Promenade des Anglais",
+          "wiki_title": "Promenade des Anglais",
+          "lat": 43.6958,
+          "lng": 7.2659,
+          "order_index": 0,
+          "description": "The famous seaside boulevard in Nice, France.",
+          "seo_phrase": "Promenade des Anglais in Nice | Nice Travel Guide",
+          "seo_keywords": [
+            "Nice",
+            "Promenade des Anglais",
+            "Nice promenade",
+            "what to do in Nice",
+            "Promenade des Anglais France"
+          ],
+          "seo_priority": 76,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Vieux Nice",
+            "Castle Hill, Nice",
+            "MAMAC"
+          ],
+          "commons_file": "Nice Promenade des Anglais.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Nice_Promenade_des_Anglais.jpg"
+        },
+        {
+          "name": "Vieux Nice",
+          "wiki_title": "Old Town, Nice",
+          "lat": 43.6958,
+          "lng": 7.272,
+          "order_index": 1,
+          "seo_phrase": "Vieux Nice in Nice | Nice Travel Guide",
+          "seo_keywords": [
+            "Nice",
+            "Vieux Nice",
+            "Nice historic quarter",
+            "what to do in Nice",
+            "Vieux Nice France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Promenade des Anglais",
+            "Castle Hill, Nice",
+            "MAMAC"
+          ]
+        },
+        {
+          "name": "Castle Hill, Nice",
+          "wiki_title": "Castle Hill, Nice",
+          "lat": 43.695,
+          "lng": 7.279,
+          "order_index": 2,
+          "seo_phrase": "Castle Hill, Nice in Nice | Nice Travel Guide",
+          "seo_keywords": [
+            "Nice",
+            "Castle Hill Nice",
+            "Nice viewpoint",
+            "what to do in Nice",
+            "Castle Hill Nice France"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Promenade des Anglais",
+            "Vieux Nice",
+            "MAMAC"
+          ]
+        },
+        {
+          "name": "MAMAC",
+          "wiki_title": "Museum of Modern and Contemporary Art, Nice",
+          "lat": 43.7006,
+          "lng": 7.2746,
+          "order_index": 3,
+          "seo_phrase": "MAMAC in Nice | Nice Travel Guide",
+          "seo_keywords": [
+            "Nice",
+            "MAMAC",
+            "Nice museum",
+            "what to do in Nice",
+            "MAMAC France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Promenade des Anglais",
+            "Vieux Nice",
+            "Castle Hill, Nice"
+          ]
+        },
+        {
+          "name": "Marc Chagall National Museum",
+          "wiki_title": "Marc Chagall National Museum",
+          "lat": 43.709,
+          "lng": 7.2645,
+          "order_index": 4,
+          "seo_phrase": "Marc Chagall National Museum in Nice | Nice Travel Guide",
+          "seo_keywords": [
+            "Nice",
+            "Marc Chagall National Museum",
+            "Nice museum",
+            "what to do in Nice",
+            "Marc Chagall National Museum France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Promenade des Anglais",
+            "Vieux Nice",
+            "Castle Hill, Nice"
+          ]
+        },
+        {
+          "name": "Russian Orthodox Cathedral, Nice",
+          "wiki_title": "Saint Nicholas Orthodox Cathedral, Nice",
+          "lat": 43.7102,
+          "lng": 7.2597,
+          "order_index": 5,
+          "seo_phrase": "Russian Orthodox Cathedral, Nice in Nice | Nice Travel Guide",
+          "seo_keywords": [
+            "Nice",
+            "Russian Orthodox Cathedral Nice",
+            "Nice cathedral",
+            "what to do in Nice",
+            "Russian Orthodox Cathedral Nice France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Promenade des Anglais",
+            "Vieux Nice",
+            "Castle Hill, Nice"
+          ]
+        },
+        {
+          "name": "Place Masséna",
+          "wiki_title": "Place Masséna",
+          "lat": 43.6978,
+          "lng": 7.2757,
+          "order_index": 6,
+          "seo_phrase": "Place Masséna in Nice | Nice Travel Guide",
+          "seo_keywords": [
+            "Nice",
+            "Place Masséna",
+            "Nice square",
+            "what to do in Nice",
+            "Place Masséna France"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Promenade des Anglais",
+            "Vieux Nice",
+            "Castle Hill, Nice"
+          ]
+        },
+        {
+          "name": "Parc Phoenix",
+          "wiki_title": "Parc Phoenix",
+          "lat": 43.6628,
+          "lng": 7.2154,
+          "order_index": 7,
+          "seo_phrase": "Parc Phoenix in Nice | Nice Travel Guide",
+          "seo_keywords": [
+            "Nice",
+            "Parc Phoenix",
+            "Nice park",
+            "what to do in Nice",
+            "Parc Phoenix France"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Promenade des Anglais",
+            "Vieux Nice",
+            "Castle Hill, Nice"
+          ]
+        },
+        {
+          "name": "Musée Matisse, Nice",
+          "wiki_title": "Musée Matisse",
+          "lat": 43.7172,
+          "lng": 7.2775,
+          "order_index": 8,
+          "seo_phrase": "Musée Matisse, Nice in Nice | Nice Travel Guide",
+          "seo_keywords": [
+            "Nice",
+            "Musée Matisse Nice",
+            "Nice museum",
+            "what to do in Nice",
+            "Musée Matisse Nice France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Promenade des Anglais",
+            "Vieux Nice",
+            "Castle Hill, Nice"
+          ]
+        },
+        {
+          "name": "Monastère de Cimiez",
+          "wiki_title": "Monastery of Cimiez",
+          "lat": 43.7191,
+          "lng": 7.2738,
+          "order_index": 9,
+          "seo_phrase": "Monastère de Cimiez in Nice | Nice Travel Guide",
+          "seo_keywords": [
+            "Nice",
+            "Monastère de Cimiez",
+            "Nice monastery",
+            "what to do in Nice",
+            "Monastère de Cimiez France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Promenade des Anglais",
+            "Vieux Nice",
+            "Castle Hill, Nice"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Bordeaux",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "religious"
+      ],
+      "wiki_title": "Bordeaux",
+      "seo": {
+        "title": "Bordeaux Travel Guide | France City Break",
+        "description": "Use Bordeaux as a France base for architecture, food, neighborhoods, and easy day plans across the city and beyond.",
+        "intro": "An elegant river city with wine culture, classical squares, and a strong walking rhythm.",
+        "keywords": [
+          "things to do in Bordeaux",
+          "Bordeaux France travel guide",
+          "best places to visit in Bordeaux",
+          "Bordeaux landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Place de la Bourse",
+          "wiki_title": "Place de la Bourse",
+          "lat": 44.8414,
+          "lng": -0.569,
+          "order_index": 0,
+          "description": "Historic riverside square in Bordeaux with the famous Water Mirror.",
+          "seo_phrase": "Place de la Bourse in Bordeaux | Bordeaux Travel Guide",
+          "seo_keywords": [
+            "Bordeaux",
+            "Place de la Bourse",
+            "Bordeaux square",
+            "what to do in Bordeaux",
+            "Place de la Bourse France"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Miroir d'eau",
+            "Cité du Vin",
+            "Bordeaux Cathedral"
+          ],
+          "commons_file": "Place de la Bourse Bordeaux.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Place_de_la_Bourse_Bordeaux.jpg"
+        },
+        {
+          "name": "Miroir d'eau",
+          "wiki_title": "Miroir d'eau",
+          "lat": 44.8412,
+          "lng": -0.5695,
+          "order_index": 1,
+          "seo_phrase": "Miroir d'eau in Bordeaux | Bordeaux Travel Guide",
+          "seo_keywords": [
+            "Bordeaux",
+            "Miroir deau",
+            "Bordeaux water feature",
+            "what to do in Bordeaux",
+            "Miroir deau France"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Place de la Bourse",
+            "Cité du Vin",
+            "Bordeaux Cathedral"
+          ]
+        },
+        {
+          "name": "Cité du Vin",
+          "wiki_title": "Cité du Vin",
+          "lat": 44.862,
+          "lng": -0.55,
+          "order_index": 2,
+          "seo_phrase": "Cité du Vin in Bordeaux | Bordeaux Travel Guide",
+          "seo_keywords": [
+            "Bordeaux",
+            "Cité du Vin",
+            "Bordeaux museum",
+            "what to do in Bordeaux",
+            "Cité du Vin France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Place de la Bourse",
+            "Miroir d'eau",
+            "Bordeaux Cathedral"
+          ]
+        },
+        {
+          "name": "Bordeaux Cathedral",
+          "wiki_title": "Bordeaux Cathedral",
+          "lat": 44.8379,
+          "lng": -0.577,
+          "order_index": 3,
+          "seo_phrase": "Bordeaux Cathedral in Bordeaux | Bordeaux Travel Guide",
+          "seo_keywords": [
+            "Bordeaux",
+            "Bordeaux Cathedral",
+            "Bordeaux cathedral",
+            "what to do in Bordeaux",
+            "Bordeaux Cathedral France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Place de la Bourse",
+            "Miroir d'eau",
+            "Cité du Vin"
+          ]
+        },
+        {
+          "name": "Grosse Cloche",
+          "wiki_title": "Grosse Cloche",
+          "lat": 44.8359,
+          "lng": -0.5725,
+          "order_index": 4,
+          "seo_phrase": "Grosse Cloche in Bordeaux | Bordeaux Travel Guide",
+          "seo_keywords": [
+            "Bordeaux",
+            "Grosse Cloche",
+            "Bordeaux bell tower",
+            "what to do in Bordeaux",
+            "Grosse Cloche France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Place de la Bourse",
+            "Miroir d'eau",
+            "Cité du Vin"
+          ]
+        },
+        {
+          "name": "Pont de pierre",
+          "wiki_title": "Pont de pierre, Bordeaux",
+          "lat": 44.8346,
+          "lng": -0.5639,
+          "order_index": 5,
+          "seo_phrase": "Pont de pierre in Bordeaux | Bordeaux Travel Guide",
+          "seo_keywords": [
+            "Bordeaux",
+            "Pont de pierre",
+            "Bordeaux bridge",
+            "what to do in Bordeaux",
+            "Pont de pierre France"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Place de la Bourse",
+            "Miroir d'eau",
+            "Cité du Vin"
+          ]
+        },
+        {
+          "name": "Grand Théâtre de Bordeaux",
+          "wiki_title": "Grand Théâtre de Bordeaux",
+          "lat": 44.8426,
+          "lng": -0.5754,
+          "order_index": 6,
+          "seo_phrase": "Grand Théâtre de Bordeaux in Bordeaux | Bordeaux Travel Guide",
+          "seo_keywords": [
+            "Bordeaux",
+            "Grand Théâtre de Bordeaux",
+            "Bordeaux theatre",
+            "what to do in Bordeaux",
+            "Grand Théâtre de Bordeaux France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Place de la Bourse",
+            "Miroir d'eau",
+            "Cité du Vin"
+          ]
+        },
+        {
+          "name": "Jardin Public, Bordeaux",
+          "wiki_title": "Jardin public",
+          "lat": 44.8527,
+          "lng": -0.5773,
+          "order_index": 7,
+          "seo_phrase": "Jardin Public, Bordeaux in Bordeaux | Bordeaux Travel Guide",
+          "seo_keywords": [
+            "Bordeaux",
+            "Jardin Public Bordeaux",
+            "Bordeaux park",
+            "what to do in Bordeaux",
+            "Jardin Public Bordeaux France"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Place de la Bourse",
+            "Miroir d'eau",
+            "Cité du Vin"
+          ]
+        },
+        {
+          "name": "Musée d'Aquitaine",
+          "wiki_title": "Musée d'Aquitaine",
+          "lat": 44.8348,
+          "lng": -0.5755,
+          "order_index": 8,
+          "seo_phrase": "Musée d'Aquitaine in Bordeaux | Bordeaux Travel Guide",
+          "seo_keywords": [
+            "Bordeaux",
+            "Musée dAquitaine",
+            "Bordeaux museum",
+            "what to do in Bordeaux",
+            "Musée dAquitaine France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Place de la Bourse",
+            "Miroir d'eau",
+            "Cité du Vin"
+          ]
+        },
+        {
+          "name": "Porte Cailhau",
+          "wiki_title": "Porte Cailhau",
+          "lat": 44.8367,
+          "lng": -0.5709,
+          "order_index": 9,
+          "seo_phrase": "Porte Cailhau in Bordeaux | Bordeaux Travel Guide",
+          "seo_keywords": [
+            "Bordeaux",
+            "Porte Cailhau",
+            "Bordeaux gate",
+            "what to do in Bordeaux",
+            "Porte Cailhau France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Place de la Bourse",
+            "Miroir d'eau",
+            "Cité du Vin"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Strasbourg",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "religious"
+      ],
+      "wiki_title": "Strasbourg",
+      "seo": {
+        "title": "Strasbourg Travel Guide | France City Break",
+        "description": "Use Strasbourg as a France base for architecture, food, neighborhoods, and easy day plans across the city and beyond.",
+        "intro": "Half medieval, half European institutions, with canals, timber-framed lanes, and festive winter energy.",
+        "keywords": [
+          "things to do in Strasbourg",
+          "Strasbourg France travel guide",
+          "best places to visit in Strasbourg",
+          "Strasbourg landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Strasbourg Cathedral",
+          "wiki_title": "Strasbourg Cathedral",
+          "lat": 48.5819,
+          "lng": 7.7503,
+          "order_index": 0,
+          "description": "A 12th-century Gothic cathedral in Strasbourg.",
+          "seo_phrase": "Strasbourg Cathedral in Strasbourg | Strasbourg Travel Guide",
+          "seo_keywords": [
+            "Strasbourg",
+            "Strasbourg Cathedral",
+            "Strasbourg cathedral",
+            "what to do in Strasbourg",
+            "Strasbourg Cathedral France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Petite France",
+            "European Parliament",
+            "Barrage Vauban"
+          ],
+          "commons_file": "Strasbourg Cathedral.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Strasbourg_Cathedral.jpg"
+        },
+        {
+          "name": "Petite France",
+          "wiki_title": "La Petite France",
+          "lat": 48.5814,
+          "lng": 7.7434,
+          "order_index": 1,
+          "seo_phrase": "Petite France in Strasbourg | Strasbourg Travel Guide",
+          "seo_keywords": [
+            "Strasbourg",
+            "Petite France",
+            "Strasbourg historic quarter",
+            "what to do in Strasbourg",
+            "Petite France France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Strasbourg Cathedral",
+            "European Parliament",
+            "Barrage Vauban"
+          ]
+        },
+        {
+          "name": "European Parliament",
+          "wiki_title": "European Parliament",
+          "lat": 48.5949,
+          "lng": 7.7679,
+          "order_index": 2,
+          "seo_phrase": "European Parliament in Strasbourg | Strasbourg Travel Guide",
+          "seo_keywords": [
+            "Strasbourg",
+            "European Parliament",
+            "Strasbourg institution",
+            "what to do in Strasbourg",
+            "European Parliament France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Strasbourg Cathedral",
+            "Petite France",
+            "Barrage Vauban"
+          ]
+        },
+        {
+          "name": "Barrage Vauban",
+          "wiki_title": "Barrage Vauban",
+          "lat": 48.5797,
+          "lng": 7.7393,
+          "order_index": 3,
+          "seo_phrase": "Barrage Vauban in Strasbourg | Strasbourg Travel Guide",
+          "seo_keywords": [
+            "Strasbourg",
+            "Barrage Vauban",
+            "Strasbourg fortification",
+            "what to do in Strasbourg",
+            "Barrage Vauban France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Strasbourg Cathedral",
+            "Petite France",
+            "European Parliament"
+          ]
+        },
+        {
+          "name": "Place Kléber",
+          "wiki_title": "Place Kléber",
+          "lat": 48.584,
+          "lng": 7.7444,
+          "order_index": 4,
+          "seo_phrase": "Place Kléber in Strasbourg | Strasbourg Travel Guide",
+          "seo_keywords": [
+            "Strasbourg",
+            "Place Kléber",
+            "Strasbourg square",
+            "what to do in Strasbourg",
+            "Place Kléber France"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Strasbourg Cathedral",
+            "Petite France",
+            "European Parliament"
+          ]
+        },
+        {
+          "name": "Palais Rohan, Strasbourg",
+          "wiki_title": "Palais Rohan, Strasbourg",
+          "lat": 48.5816,
+          "lng": 7.7515,
+          "order_index": 5,
+          "seo_phrase": "Palais Rohan, Strasbourg in Strasbourg | Strasbourg Travel Guide",
+          "seo_keywords": [
+            "Strasbourg",
+            "Palais Rohan Strasbourg",
+            "Strasbourg palace",
+            "what to do in Strasbourg",
+            "Palais Rohan Strasbourg France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Strasbourg Cathedral",
+            "Petite France",
+            "European Parliament"
+          ]
+        },
+        {
+          "name": "Musée Alsacien",
+          "wiki_title": "Alsatian Museum",
+          "lat": 48.5805,
+          "lng": 7.752,
+          "order_index": 6,
+          "seo_phrase": "Musée Alsacien in Strasbourg | Strasbourg Travel Guide",
+          "seo_keywords": [
+            "Strasbourg",
+            "Musée Alsacien",
+            "Strasbourg museum",
+            "what to do in Strasbourg",
+            "Musée Alsacien France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Strasbourg Cathedral",
+            "Petite France",
+            "European Parliament"
+          ]
+        },
+        {
+          "name": "Parc de l'Orangerie",
+          "wiki_title": "Parc de l'Orangerie",
+          "lat": 48.5942,
+          "lng": 7.768,
+          "order_index": 7,
+          "seo_phrase": "Parc de l'Orangerie in Strasbourg | Strasbourg Travel Guide",
+          "seo_keywords": [
+            "Strasbourg",
+            "Parc de lOrangerie",
+            "Strasbourg park",
+            "what to do in Strasbourg",
+            "Parc de lOrangerie France"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Strasbourg Cathedral",
+            "Petite France",
+            "European Parliament"
+          ]
+        },
+        {
+          "name": "Covered Bridges, Strasbourg",
+          "wiki_title": "Covered bridges of Strasbourg",
+          "lat": 48.5825,
+          "lng": 7.7396,
+          "order_index": 8,
+          "seo_phrase": "Covered Bridges, Strasbourg in Strasbourg | Strasbourg Travel Guide",
+          "seo_keywords": [
+            "Strasbourg",
+            "Covered Bridges Strasbourg",
+            "Strasbourg bridge",
+            "what to do in Strasbourg",
+            "Covered Bridges Strasbourg France"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Strasbourg Cathedral",
+            "Petite France",
+            "European Parliament"
+          ]
+        },
+        {
+          "name": "Neustadt, Strasbourg",
+          "wiki_title": "Neustadt, Strasbourg",
+          "lat": 48.59,
+          "lng": 7.754,
+          "order_index": 9,
+          "seo_phrase": "Neustadt, Strasbourg in Strasbourg | Strasbourg Travel Guide",
+          "seo_keywords": [
+            "Strasbourg",
+            "Neustadt Strasbourg",
+            "Strasbourg district",
+            "what to do in Strasbourg",
+            "Neustadt Strasbourg France"
+          ],
+          "seo_priority": 76,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Strasbourg Cathedral",
+            "Petite France",
+            "European Parliament"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Lille",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "religious",
+        "history"
+      ],
+      "wiki_title": "Lille",
+      "seo": {
+        "title": "Lille Travel Guide | France City Break",
+        "description": "Use Lille as a France base for architecture, food, neighborhoods, and easy day plans across the city and beyond.",
+        "intro": "A north-of-France city with Flemish facades, markets, museums, and a compact center.",
+        "keywords": [
+          "things to do in Lille",
+          "Lille France travel guide",
+          "best places to visit in Lille",
+          "Lille landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Grand Place, Lille",
+          "wiki_title": "Grand Place, Lille",
+          "lat": 50.6369,
+          "lng": 3.0637,
+          "order_index": 0,
+          "description": "The central historic square of Lille lined with cafes and the old stock exchange.",
+          "seo_phrase": "Grand Place, Lille in Lille | Lille Travel Guide",
+          "seo_keywords": [
+            "Lille",
+            "Grand Place Lille",
+            "Lille square",
+            "what to do in Lille",
+            "Grand Place Lille France"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Stock Exchange, Lille",
+            "Lille Cathedral",
+            "Palace of Fine Arts, Lille"
+          ],
+          "commons_file": "Lille Grand Place.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Lille_Grand_Place.jpg"
+        },
+        {
+          "name": "Old Stock Exchange, Lille",
+          "wiki_title": "Old Stock Exchange, Lille",
+          "lat": 50.6377,
+          "lng": 3.0643,
+          "order_index": 1,
+          "seo_phrase": "Old Stock Exchange, Lille in Lille | Lille Travel Guide",
+          "seo_keywords": [
+            "Lille",
+            "Old Stock Exchange Lille",
+            "Lille landmark",
+            "what to do in Lille",
+            "Old Stock Exchange Lille France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Grand Place, Lille",
+            "Lille Cathedral",
+            "Palace of Fine Arts, Lille"
+          ]
+        },
+        {
+          "name": "Lille Cathedral",
+          "wiki_title": "Lille Cathedral",
+          "lat": 50.6386,
+          "lng": 3.0647,
+          "order_index": 2,
+          "seo_phrase": "Lille Cathedral in Lille | Lille Travel Guide",
+          "seo_keywords": [
+            "Lille",
+            "Lille Cathedral",
+            "Lille cathedral",
+            "what to do in Lille",
+            "Lille Cathedral France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Grand Place, Lille",
+            "Old Stock Exchange, Lille",
+            "Palace of Fine Arts, Lille"
+          ]
+        },
+        {
+          "name": "Palace of Fine Arts, Lille",
+          "wiki_title": "Palace of Fine Arts, Lille",
+          "lat": 50.6326,
+          "lng": 3.062,
+          "order_index": 3,
+          "seo_phrase": "Palace of Fine Arts, Lille in Lille | Lille Travel Guide",
+          "seo_keywords": [
+            "Lille",
+            "Palace of Fine Arts Lille",
+            "Lille museum",
+            "what to do in Lille",
+            "Palace of Fine Arts Lille France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Grand Place, Lille",
+            "Old Stock Exchange, Lille",
+            "Lille Cathedral"
+          ]
+        },
+        {
+          "name": "Citadel of Lille",
+          "wiki_title": "Citadel of Lille",
+          "lat": 50.6471,
+          "lng": 3.0461,
+          "order_index": 4,
+          "seo_phrase": "Citadel of Lille in Lille | Lille Travel Guide",
+          "seo_keywords": [
+            "Lille",
+            "Citadel of Lille",
+            "Lille fort",
+            "what to do in Lille",
+            "Citadel of Lille France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Grand Place, Lille",
+            "Old Stock Exchange, Lille",
+            "Lille Cathedral"
+          ]
+        },
+        {
+          "name": "Hospice Comtesse",
+          "wiki_title": "Hospice Comtesse",
+          "lat": 50.6378,
+          "lng": 3.064,
+          "order_index": 5,
+          "seo_phrase": "Hospice Comtesse in Lille | Lille Travel Guide",
+          "seo_keywords": [
+            "Lille",
+            "Hospice Comtesse",
+            "Lille museum",
+            "what to do in Lille",
+            "Hospice Comtesse France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Grand Place, Lille",
+            "Old Stock Exchange, Lille",
+            "Lille Cathedral"
+          ]
+        },
+        {
+          "name": "Porte de Paris, Lille",
+          "wiki_title": "Porte de Paris, Lille",
+          "lat": 50.6289,
+          "lng": 3.0656,
+          "order_index": 6,
+          "seo_phrase": "Porte de Paris, Lille in Lille | Lille Travel Guide",
+          "seo_keywords": [
+            "Lille",
+            "Porte de Paris Lille",
+            "Lille arch",
+            "what to do in Lille",
+            "Porte de Paris Lille France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Grand Place, Lille",
+            "Old Stock Exchange, Lille",
+            "Lille Cathedral"
+          ]
+        },
+        {
+          "name": "Zoo de Lille",
+          "wiki_title": "Lille Zoo",
+          "lat": 50.6428,
+          "lng": 3.0447,
+          "order_index": 7,
+          "seo_phrase": "Zoo de Lille in Lille | Lille Travel Guide",
+          "seo_keywords": [
+            "Lille",
+            "Zoo de Lille",
+            "Lille zoo",
+            "what to do in Lille",
+            "Zoo de Lille France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Grand Place, Lille",
+            "Old Stock Exchange, Lille",
+            "Lille Cathedral"
+          ]
+        },
+        {
+          "name": "Gare de Lille-Flandres",
+          "wiki_title": "Lille-Flandres station",
+          "lat": 50.6385,
+          "lng": 3.0748,
+          "order_index": 8,
+          "seo_phrase": "Gare de Lille-Flandres in Lille | Lille Travel Guide",
+          "seo_keywords": [
+            "Lille",
+            "Gare de Lille-Flandres",
+            "Lille station",
+            "what to do in Lille",
+            "Gare de Lille-Flandres France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Grand Place, Lille",
+            "Old Stock Exchange, Lille",
+            "Lille Cathedral"
+          ]
+        },
+        {
+          "name": "Wazemmes Market",
+          "wiki_title": "Wazemmes",
+          "lat": 50.6266,
+          "lng": 3.052,
+          "order_index": 9,
+          "seo_phrase": "Wazemmes Market in Lille | Lille Travel Guide",
+          "seo_keywords": [
+            "Lille",
+            "Wazemmes Market",
+            "Lille market",
+            "what to do in Lille",
+            "Wazemmes Market France"
+          ],
+          "seo_priority": 76,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Grand Place, Lille",
+            "Old Stock Exchange, Lille",
+            "Lille Cathedral"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Nantes",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "religious"
+      ],
+      "wiki_title": "Nantes",
+      "seo": {
+        "title": "Nantes Travel Guide | France City Break",
+        "description": "Use Nantes as a France base for architecture, food, neighborhoods, and easy day plans across the city and beyond.",
+        "intro": "A creative Atlantic city where castles, gardens, and imaginative public art overlap.",
+        "keywords": [
+          "things to do in Nantes",
+          "Nantes France travel guide",
+          "best places to visit in Nantes",
+          "Nantes landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Château des ducs de Bretagne",
+          "wiki_title": "Château des ducs de Bretagne",
+          "lat": 47.2188,
+          "lng": -1.552,
+          "order_index": 0,
+          "seo_phrase": "Château des ducs de Bretagne in Nantes | Nantes Travel Guide",
+          "seo_keywords": [
+            "Nantes",
+            "Château des ducs de Bretagne",
+            "Nantes castle",
+            "what to do in Nantes",
+            "Château des ducs de Bretagne France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Machines of the Isle of Nantes",
+            "Nantes Cathedral",
+            "Jardin des Plantes de Nantes"
+          ]
+        },
+        {
+          "name": "Machines of the Isle of Nantes",
+          "wiki_title": "Machines of the Isle of Nantes",
+          "lat": 47.21,
+          "lng": -1.5565,
+          "order_index": 1,
+          "seo_phrase": "Machines of the Isle of Nantes in Nantes | Nantes Travel Guide",
+          "seo_keywords": [
+            "Nantes",
+            "Machines of the Isle of Nantes",
+            "Nantes art installation",
+            "what to do in Nantes",
+            "Machines of the Isle of Nantes France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Château des ducs de Bretagne",
+            "Nantes Cathedral",
+            "Jardin des Plantes de Nantes"
+          ]
+        },
+        {
+          "name": "Nantes Cathedral",
+          "wiki_title": "Nantes Cathedral",
+          "lat": 47.2176,
+          "lng": -1.5537,
+          "order_index": 2,
+          "seo_phrase": "Nantes Cathedral in Nantes | Nantes Travel Guide",
+          "seo_keywords": [
+            "Nantes",
+            "Nantes Cathedral",
+            "Nantes cathedral",
+            "what to do in Nantes",
+            "Nantes Cathedral France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Château des ducs de Bretagne",
+            "Machines of the Isle of Nantes",
+            "Jardin des Plantes de Nantes"
+          ]
+        },
+        {
+          "name": "Jardin des Plantes de Nantes",
+          "wiki_title": "Jardin des plantes de Nantes",
+          "lat": 47.2215,
+          "lng": -1.5417,
+          "order_index": 3,
+          "seo_phrase": "Jardin des Plantes de Nantes in Nantes | Nantes Travel Guide",
+          "seo_keywords": [
+            "Nantes",
+            "Jardin des Plantes de Nantes",
+            "Nantes garden",
+            "what to do in Nantes",
+            "Jardin des Plantes de Nantes France"
+          ],
+          "seo_priority": 76,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Château des ducs de Bretagne",
+            "Machines of the Isle of Nantes",
+            "Nantes Cathedral"
+          ]
+        },
+        {
+          "name": "Passage Pommeraye",
+          "wiki_title": "Passage Pommeraye",
+          "lat": 47.2147,
+          "lng": -1.5608,
+          "order_index": 4,
+          "seo_phrase": "Passage Pommeraye in Nantes | Nantes Travel Guide",
+          "seo_keywords": [
+            "Nantes",
+            "Passage Pommeraye",
+            "Nantes passage",
+            "what to do in Nantes",
+            "Passage Pommeraye France"
+          ],
+          "seo_priority": 76,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Château des ducs de Bretagne",
+            "Machines of the Isle of Nantes",
+            "Nantes Cathedral"
+          ]
+        },
+        {
+          "name": "Île de Nantes",
+          "wiki_title": "Île de Nantes",
+          "lat": 47.203,
+          "lng": -1.558,
+          "order_index": 5,
+          "seo_phrase": "Île de Nantes in Nantes | Nantes Travel Guide",
+          "seo_keywords": [
+            "Nantes",
+            "Île de Nantes",
+            "Nantes district",
+            "what to do in Nantes",
+            "Île de Nantes France"
+          ],
+          "seo_priority": 76,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Château des ducs de Bretagne",
+            "Machines of the Isle of Nantes",
+            "Nantes Cathedral"
+          ]
+        },
+        {
+          "name": "Tour Bretagne",
+          "wiki_title": "Tour Bretagne",
+          "lat": 47.2153,
+          "lng": -1.5562,
+          "order_index": 6,
+          "seo_phrase": "Tour Bretagne in Nantes | Nantes Travel Guide",
+          "seo_keywords": [
+            "Nantes",
+            "Tour Bretagne",
+            "Nantes tower",
+            "what to do in Nantes",
+            "Tour Bretagne France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Château des ducs de Bretagne",
+            "Machines of the Isle of Nantes",
+            "Nantes Cathedral"
+          ]
+        },
+        {
+          "name": "Musée d'Arts de Nantes",
+          "wiki_title": "Musée d'arts de Nantes",
+          "lat": 47.2196,
+          "lng": -1.546,
+          "order_index": 7,
+          "seo_phrase": "Musée d'Arts de Nantes in Nantes | Nantes Travel Guide",
+          "seo_keywords": [
+            "Nantes",
+            "Musée dArts de Nantes",
+            "Nantes museum",
+            "what to do in Nantes",
+            "Musée dArts de Nantes France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Château des ducs de Bretagne",
+            "Machines of the Isle of Nantes",
+            "Nantes Cathedral"
+          ]
+        },
+        {
+          "name": "Place Royale, Nantes",
+          "wiki_title": "Place Royale, Nantes",
+          "lat": 47.217,
+          "lng": -1.5571,
+          "order_index": 8,
+          "seo_phrase": "Place Royale, Nantes in Nantes | Nantes Travel Guide",
+          "seo_keywords": [
+            "Nantes",
+            "Place Royale Nantes",
+            "Nantes square",
+            "what to do in Nantes",
+            "Place Royale Nantes France"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Château des ducs de Bretagne",
+            "Machines of the Isle of Nantes",
+            "Nantes Cathedral"
+          ]
+        },
+        {
+          "name": "Trentemoult",
+          "wiki_title": "Trentemoult",
+          "lat": 47.198,
+          "lng": -1.595,
+          "order_index": 9,
+          "seo_phrase": "Trentemoult in Nantes | Nantes Travel Guide",
+          "seo_keywords": [
+            "Nantes",
+            "Trentemoult",
+            "Nantes village",
+            "what to do in Nantes",
+            "Trentemoult France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Château des ducs de Bretagne",
+            "Machines of the Isle of Nantes",
+            "Nantes Cathedral"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Toulouse",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "religious"
+      ],
+      "wiki_title": "Toulouse",
+      "seo": {
+        "title": "Toulouse Travel Guide | France City Break",
+        "description": "Use Toulouse as a France base for architecture, food, neighborhoods, and easy day plans across the city and beyond.",
+        "intro": "The pink city mixes brick architecture, aerospace heritage, and relaxed southern energy.",
+        "keywords": [
+          "things to do in Toulouse",
+          "Toulouse France travel guide",
+          "best places to visit in Toulouse",
+          "Toulouse landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Capitole de Toulouse",
+          "wiki_title": "Capitole de Toulouse",
+          "lat": 43.6047,
+          "lng": 1.4442,
+          "order_index": 0,
+          "seo_phrase": "Capitole de Toulouse in Toulouse | Toulouse Travel Guide",
+          "seo_keywords": [
+            "Toulouse",
+            "Capitole de Toulouse",
+            "Toulouse landmark",
+            "what to do in Toulouse",
+            "Capitole de Toulouse France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Basilica of Saint-Sernin",
+            "Cité de l'espace",
+            "Canal du Midi (Toulouse)"
+          ]
+        },
+        {
+          "name": "Basilica of Saint-Sernin",
+          "wiki_title": "Basilica of Saint-Sernin",
+          "lat": 43.6086,
+          "lng": 1.4419,
+          "order_index": 1,
+          "seo_phrase": "Basilica of Saint-Sernin in Toulouse | Toulouse Travel Guide",
+          "seo_keywords": [
+            "Toulouse",
+            "Basilica of Saint-Sernin",
+            "Toulouse basilica",
+            "what to do in Toulouse",
+            "Basilica of Saint-Sernin France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Capitole de Toulouse",
+            "Cité de l'espace",
+            "Canal du Midi (Toulouse)"
+          ]
+        },
+        {
+          "name": "Cité de l'espace",
+          "wiki_title": "Cité de l'Espace",
+          "lat": 43.5738,
+          "lng": 1.4935,
+          "order_index": 2,
+          "seo_phrase": "Cité de l'espace in Toulouse | Toulouse Travel Guide",
+          "seo_keywords": [
+            "Toulouse",
+            "Cité de lespace",
+            "Toulouse science park",
+            "what to do in Toulouse",
+            "Cité de lespace France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Capitole de Toulouse",
+            "Basilica of Saint-Sernin",
+            "Canal du Midi (Toulouse)"
+          ]
+        },
+        {
+          "name": "Canal du Midi (Toulouse)",
+          "wiki_title": "Canal du Midi",
+          "lat": 43.604,
+          "lng": 1.454,
+          "order_index": 3,
+          "seo_phrase": "Canal du Midi (Toulouse) in Toulouse | Toulouse Travel Guide",
+          "seo_keywords": [
+            "Toulouse",
+            "Canal du Midi (Toulouse)",
+            "Toulouse canal",
+            "what to do in Toulouse",
+            "Canal du Midi (Toulouse) France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Capitole de Toulouse",
+            "Basilica of Saint-Sernin",
+            "Cité de l'espace"
+          ]
+        },
+        {
+          "name": "Couvent des Jacobins, Toulouse",
+          "wiki_title": "Jacobins Convent, Toulouse",
+          "lat": 43.6046,
+          "lng": 1.439,
+          "order_index": 4,
+          "seo_phrase": "Couvent des Jacobins, Toulouse in Toulouse | Toulouse Travel Guide",
+          "seo_keywords": [
+            "Toulouse",
+            "Couvent des Jacobins Toulouse",
+            "Toulouse convent",
+            "what to do in Toulouse",
+            "Couvent des Jacobins Toulouse France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Capitole de Toulouse",
+            "Basilica of Saint-Sernin",
+            "Cité de l'espace"
+          ]
+        },
+        {
+          "name": "Pont Neuf, Toulouse",
+          "wiki_title": "Pont Neuf, Toulouse",
+          "lat": 43.6014,
+          "lng": 1.4382,
+          "order_index": 5,
+          "seo_phrase": "Pont Neuf, Toulouse in Toulouse | Toulouse Travel Guide",
+          "seo_keywords": [
+            "Toulouse",
+            "Pont Neuf Toulouse",
+            "Toulouse bridge",
+            "what to do in Toulouse",
+            "Pont Neuf Toulouse France"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Capitole de Toulouse",
+            "Basilica of Saint-Sernin",
+            "Cité de l'espace"
+          ]
+        },
+        {
+          "name": "Musée des Augustins",
+          "wiki_title": "Musée des Augustins",
+          "lat": 43.6006,
+          "lng": 1.4459,
+          "order_index": 6,
+          "seo_phrase": "Musée des Augustins in Toulouse | Toulouse Travel Guide",
+          "seo_keywords": [
+            "Toulouse",
+            "Musée des Augustins",
+            "Toulouse museum",
+            "what to do in Toulouse",
+            "Musée des Augustins France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Capitole de Toulouse",
+            "Basilica of Saint-Sernin",
+            "Cité de l'espace"
+          ]
+        },
+        {
+          "name": "Prairie des Filtres",
+          "wiki_title": "Prairie des Filtres",
+          "lat": 43.5982,
+          "lng": 1.4381,
+          "order_index": 7,
+          "seo_phrase": "Prairie des Filtres in Toulouse | Toulouse Travel Guide",
+          "seo_keywords": [
+            "Toulouse",
+            "Prairie des Filtres",
+            "Toulouse park",
+            "what to do in Toulouse",
+            "Prairie des Filtres France"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Capitole de Toulouse",
+            "Basilica of Saint-Sernin",
+            "Cité de l'espace"
+          ]
+        },
+        {
+          "name": "Hôtel d'Assézat",
+          "wiki_title": "Hôtel d'Assézat",
+          "lat": 43.6017,
+          "lng": 1.4427,
+          "order_index": 8,
+          "seo_phrase": "Hôtel d'Assézat in Toulouse | Toulouse Travel Guide",
+          "seo_keywords": [
+            "Toulouse",
+            "Hôtel dAssézat",
+            "Toulouse mansion",
+            "what to do in Toulouse",
+            "Hôtel dAssézat France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Capitole de Toulouse",
+            "Basilica of Saint-Sernin",
+            "Cité de l'espace"
+          ]
+        },
+        {
+          "name": "Jardin des Plantes, Toulouse",
+          "wiki_title": "Jardin des plantes de Toulouse",
+          "lat": 43.5876,
+          "lng": 1.449,
+          "order_index": 9,
+          "seo_phrase": "Jardin des Plantes, Toulouse in Toulouse | Toulouse Travel Guide",
+          "seo_keywords": [
+            "Toulouse",
+            "Jardin des Plantes Toulouse",
+            "Toulouse garden",
+            "what to do in Toulouse",
+            "Jardin des Plantes Toulouse France"
+          ],
+          "seo_priority": 76,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Capitole de Toulouse",
+            "Basilica of Saint-Sernin",
+            "Cité de l'espace"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Montpellier",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "religious"
+      ],
+      "wiki_title": "Montpellier",
+      "seo": {
+        "title": "Montpellier Travel Guide | France City Break",
+        "description": "Use Montpellier as a France base for architecture, food, neighborhoods, and easy day plans across the city and beyond.",
+        "intro": "A lively university city with sunlit squares, elegant promenades, and easy access to the coast.",
+        "keywords": [
+          "things to do in Montpellier",
+          "Montpellier France travel guide",
+          "best places to visit in Montpellier",
+          "Montpellier landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Place de la Comédie",
+          "wiki_title": "Place de la Comédie",
+          "lat": 43.6081,
+          "lng": 3.8772,
+          "order_index": 0,
+          "description": "The central pedestrian square of Montpellier.",
+          "seo_phrase": "Place de la Comédie in Montpellier | Montpellier Travel Guide",
+          "seo_keywords": [
+            "Montpellier",
+            "Place de la Comédie",
+            "Montpellier square",
+            "what to do in Montpellier",
+            "Place de la Comédie France"
+          ],
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Écusson, Montpellier",
+            "Musée Fabre",
+            "Promenade du Peyrou"
+          ],
+          "commons_file": "Place de la Comedie Montpellier.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Place_de_la_Comedie_Montpellier.jpg"
+        },
+        {
+          "name": "Écusson, Montpellier",
+          "wiki_title": "Écusson",
+          "lat": 43.61,
+          "lng": 3.877,
+          "order_index": 1,
+          "seo_phrase": "Écusson, Montpellier in Montpellier | Montpellier Travel Guide",
+          "seo_keywords": [
+            "Montpellier",
+            "Écusson Montpellier",
+            "Montpellier historic quarter",
+            "what to do in Montpellier",
+            "Écusson Montpellier France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Place de la Comédie",
+            "Musée Fabre",
+            "Promenade du Peyrou"
+          ]
+        },
+        {
+          "name": "Musée Fabre",
+          "wiki_title": "Musée Fabre",
+          "lat": 43.6115,
+          "lng": 3.8778,
+          "order_index": 2,
+          "seo_phrase": "Musée Fabre in Montpellier | Montpellier Travel Guide",
+          "seo_keywords": [
+            "Montpellier",
+            "Musée Fabre",
+            "Montpellier museum",
+            "what to do in Montpellier",
+            "Musée Fabre France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Place de la Comédie",
+            "Écusson, Montpellier",
+            "Promenade du Peyrou"
+          ]
+        },
+        {
+          "name": "Promenade du Peyrou",
+          "wiki_title": "Promenade du Peyrou",
+          "lat": 43.6119,
+          "lng": 3.8738,
+          "order_index": 3,
+          "seo_phrase": "Promenade du Peyrou in Montpellier | Montpellier Travel Guide",
+          "seo_keywords": [
+            "Montpellier",
+            "Promenade du Peyrou",
+            "Montpellier promenade",
+            "what to do in Montpellier",
+            "Promenade du Peyrou France"
+          ],
+          "seo_priority": 76,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Place de la Comédie",
+            "Écusson, Montpellier",
+            "Musée Fabre"
+          ]
+        },
+        {
+          "name": "Montpellier Cathedral",
+          "wiki_title": "Montpellier Cathedral",
+          "lat": 43.6129,
+          "lng": 3.8639,
+          "order_index": 4,
+          "seo_phrase": "Montpellier Cathedral in Montpellier | Montpellier Travel Guide",
+          "seo_keywords": [
+            "Montpellier",
+            "Montpellier Cathedral",
+            "Montpellier cathedral",
+            "what to do in Montpellier",
+            "Montpellier Cathedral France"
+          ],
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Place de la Comédie",
+            "Écusson, Montpellier",
+            "Musée Fabre"
+          ]
+        },
+        {
+          "name": "Arc de Triomphe, Montpellier",
+          "wiki_title": "Arc de Triomphe, Montpellier",
+          "lat": 43.6134,
+          "lng": 3.8745,
+          "order_index": 5,
+          "seo_phrase": "Arc de Triomphe, Montpellier in Montpellier | Montpellier Travel Guide",
+          "seo_keywords": [
+            "Montpellier",
+            "Arc de Triomphe Montpellier",
+            "Montpellier arch",
+            "what to do in Montpellier",
+            "Arc de Triomphe Montpellier France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Place de la Comédie",
+            "Écusson, Montpellier",
+            "Musée Fabre"
+          ]
+        },
+        {
+          "name": "Aqueduc Saint-Clément",
+          "wiki_title": "Aqueduc Saint-Clément",
+          "lat": 43.6149,
+          "lng": 3.8731,
+          "order_index": 6,
+          "seo_phrase": "Jardin des plantes de Montpellier in Montpellier | Montpellier Travel Guide",
+          "seo_keywords": [
+            "Montpellier",
+            "Jardin des plantes de Montpellier",
+            "Montpellier garden",
+            "what to do in Montpellier",
+            "Jardin des plantes de Montpellier France"
+          ],
+          "seo_priority": 76,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Place de la Comédie",
+            "Écusson, Montpellier",
+            "Musée Fabre"
+          ]
+        },
+        {
+          "name": "Antigone, Montpellier",
+          "wiki_title": "Antigone, Montpellier",
+          "lat": 43.607,
+          "lng": 3.89,
+          "order_index": 7,
+          "seo_phrase": "Antigone, Montpellier in Montpellier | Montpellier Travel Guide",
+          "seo_keywords": [
+            "Montpellier",
+            "Antigone Montpellier",
+            "Montpellier district",
+            "what to do in Montpellier",
+            "Antigone Montpellier France"
+          ],
+          "seo_priority": 76,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Place de la Comédie",
+            "Écusson, Montpellier",
+            "Musée Fabre"
+          ]
+        },
+        {
+          "name": "Planet Ocean Montpellier",
+          "wiki_title": "Planet Ocean World",
+          "lat": 43.6111,
+          "lng": 3.9238,
+          "order_index": 8,
+          "seo_phrase": "Planet Ocean Montpellier in Montpellier | Montpellier Travel Guide",
+          "seo_keywords": [
+            "Montpellier",
+            "Planet Ocean Montpellier",
+            "Montpellier aquarium",
+            "what to do in Montpellier",
+            "Planet Ocean Montpellier France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Place de la Comédie",
+            "Écusson, Montpellier",
+            "Musée Fabre"
+          ]
+        },
+        {
+          "name": "Château de Flaugergues",
+          "wiki_title": "Château de Flaugergues",
+          "lat": 43.6098,
+          "lng": 3.911,
+          "order_index": 9,
+          "seo_phrase": "Château de Flaugergues in Montpellier | Montpellier Travel Guide",
+          "seo_keywords": [
+            "Montpellier",
+            "Château de Flaugergues",
+            "Montpellier estate",
+            "what to do in Montpellier",
+            "Château de Flaugergues France"
+          ],
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Place de la Comédie",
+            "Écusson, Montpellier",
+            "Musée Fabre"
+          ]
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "France Nature & Road Trip Adventure",
+    "subtitle": "Explore France beyond the cities — parks, coast, and scenic drives.",
+    "wiki_title": "France",
+    "totalDays": 10,
+    "seo": {
+      "title": "France Road Trip — Nature Adventure Guide",
+      "description": "Plan a France road trip with GPS stops, national parks, and scenic routes.",
+      "intro": "Explore France beyond the cities with this nature adventure route.",
+      "keywords": [
+        "France road trip",
+        "France nature",
+        "France by car"
+      ]
+    },
+    "places": [
+      {
+        "name": "Mont Blanc",
+        "wiki_title": "Mont Blanc",
+        "region": "France",
+        "lat": 45.83263,
+        "lng": 6.86517,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "The tallest mountain in the Alps and Western Europe.",
+        "seo_phrase": "Mont Blanc Outdoor Guide | France Adventure Spot",
+        "seo_keywords": [
+          "Mont Blanc",
+          "France nature",
+          "Mont Blanc France",
+          "outdoor travel France",
+          "best scenery in France"
+        ],
+        "seo_priority": 88,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature",
+        "commons_file": "Mont Blanc summer panorama.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mont_Blanc_summer_panorama.jpg"
+      },
+      {
+        "name": "Gorges du Verdon",
+        "wiki_title": "Gorges du Verdon",
+        "region": "France",
+        "lat": 43.759,
+        "lng": 6.358,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A deep river canyon in Provence, known as Europe's 'Grand Canyon'.",
+        "seo_phrase": "Gorges du Verdon Outdoor Guide | France Adventure Spot",
+        "seo_keywords": [
+          "Gorges du Verdon",
+          "France nature",
+          "Gorges du Verdon France",
+          "outdoor travel France",
+          "best scenery in France"
+        ],
+        "seo_priority": 82,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature",
+        "commons_file": "Gorges du Verdon Boch coeur 2.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Gorges_du_Verdon_Boch_coeur_2.jpg"
+      },
+      {
+        "name": "Dune du Pilat",
+        "wiki_title": "Dune of Pilat",
+        "region": "France",
+        "lat": 44.5928,
+        "lng": -1.2147,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Europe's tallest sand dune on the Atlantic coast.",
+        "seo_phrase": "Dune du Pilat Outdoor Guide | France Adventure Spot",
+        "seo_keywords": [
+          "Dune du Pilat",
+          "France nature",
+          "Dune du Pilat France",
+          "outdoor travel France",
+          "best scenery in France"
+        ],
+        "seo_priority": 82,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature",
+        "commons_file": "Dune du Pilat.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Dune_du_Pilat.jpg"
+      },
+      {
+        "name": "Calanques National Park",
+        "wiki_title": "Calanques National Park",
+        "region": "France",
+        "lat": 43.21,
+        "lng": 5.44,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "seo_phrase": "Calanques National Park Outdoor Guide | France Adventure Spot",
+        "seo_keywords": [
+          "Calanques National Park",
+          "France nature",
+          "Calanques National Park France",
+          "outdoor travel France",
+          "best scenery in France"
+        ],
+        "seo_priority": 88,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Étretat Cliffs",
+        "wiki_title": "Étretat",
+        "region": "France",
+        "lat": 49.7075,
+        "lng": 0.2058,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "seo_phrase": "Étretat Cliffs Outdoor Guide | France Adventure Spot",
+        "seo_keywords": [
+          "Étretat Cliffs",
+          "France nature",
+          "Étretat Cliffs France",
+          "outdoor travel France",
+          "best scenery in France"
+        ],
+        "seo_priority": 82,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Camargue Regional Natural Park",
+        "wiki_title": "Camargue",
+        "region": "France",
+        "lat": 43.518,
+        "lng": 4.398,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "A unique wetland region known for its wildlife and marshes.",
+        "seo_phrase": "Camargue Regional Natural Park Outdoor Guide | France Adventure Spot",
+        "seo_keywords": [
+          "Camargue Regional Natural Park",
+          "France nature",
+          "Camargue Regional Natural Park France",
+          "outdoor travel France",
+          "best scenery in France"
+        ],
+        "seo_priority": 82,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature",
+        "commons_file": "Camargue Nature Park.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Camargue_Nature_Park.jpg"
+      },
+      {
+        "name": "Pyrenees National Park",
+        "wiki_title": "Pyrénées National Park",
+        "region": "France",
+        "lat": 42.801,
+        "lng": -0.1,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "seo_phrase": "Pyrenees National Park Outdoor Guide | France Adventure Spot",
+        "seo_keywords": [
+          "Pyrenees National Park",
+          "France nature",
+          "Pyrenees National Park France",
+          "outdoor travel France",
+          "best scenery in France"
+        ],
+        "seo_priority": 88,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Mercantour National Park",
+        "wiki_title": "Mercantour National Park",
+        "region": "France",
+        "lat": 44.09,
+        "lng": 7.32,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "seo_phrase": "Mercantour National Park Outdoor Guide | France Adventure Spot",
+        "seo_keywords": [
+          "Mercantour National Park",
+          "France nature",
+          "Mercantour National Park France",
+          "outdoor travel France",
+          "best scenery in France"
+        ],
+        "seo_priority": 88,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Cirque de Gavarnie",
+        "wiki_title": "Cirque de Gavarnie",
+        "region": "France",
+        "lat": 42.734,
+        "lng": -0.008,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "seo_phrase": "Cirque de Gavarnie Outdoor Guide | France Adventure Spot",
+        "seo_keywords": [
+          "Cirque de Gavarnie",
+          "France nature",
+          "Cirque de Gavarnie France",
+          "outdoor travel France",
+          "best scenery in France"
+        ],
+        "seo_priority": 82,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Vanoise National Park",
+        "wiki_title": "Vanoise National Park",
+        "region": "France",
+        "lat": 45.34,
+        "lng": 6.75,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "seo_phrase": "Vanoise National Park Outdoor Guide | France Adventure Spot",
+        "seo_keywords": [
+          "Vanoise National Park",
+          "France nature",
+          "Vanoise National Park France",
+          "outdoor travel France",
+          "best scenery in France"
+        ],
+        "seo_priority": 88,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      }
+    ]
+  }
+}

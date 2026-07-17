@@ -1,0 +1,3315 @@
+{
+  "country": "Serbia",
+  "cities": [
+    {
+      "name": "Belgrade",
+      "region": "Belgrade District"
+    },
+    {
+      "name": "Novi Sad",
+      "region": "South Bačka District"
+    },
+    {
+      "name": "Niš",
+      "region": "Nišava District"
+    },
+    {
+      "name": "Subotica",
+      "region": "North Bačka District"
+    },
+    {
+      "name": "Kragujevac",
+      "region": "Šumadija District"
+    },
+    {
+      "name": "Sombor",
+      "region": "West Bačka District"
+    },
+    {
+      "name": "Zrenjanin",
+      "region": "Central Banat District"
+    },
+    {
+      "name": "Pančevo",
+      "region": "South Banat District"
+    },
+    {
+      "name": "Kruševac",
+      "region": "Rasina District"
+    },
+    {
+      "name": "Leskovac",
+      "region": "Jablanica District"
+    }
+  ],
+  "attractions": [
+    {
+      "city": "Belgrade",
+      "name": "Belgrade Fortress",
+      "latitude": 44.8233,
+      "longitude": 20.4489,
+      "google_maps_url": "https://www.google.com/maps?q=44.8233,20.4489",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Belgrade_Fortress",
+      "wikidata_id": "Q1262334",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Kalemegdan_Fortress_Beograd.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен"
+      ],
+      "seo_title": "Белградска крепост Калемегдан – Историческото сърце на Сърбия",
+      "seo_description": "Открийте древната Белградска крепост. Научете за вековните битки, насладете се на панорамния изглед към Дунав и Сава и планирайте перфектната разходка.",
+      "description_short": "Средновековна твърдина, издигаща се над устието на две големи реки, превърната в огромен градски парк.",
+      "description_long": "Калемегдан е ядрото на стария Белград, чието начало датира от келтски и римски времена като Сингидунум. Разрушавана и възстановявана десетки пъти от византийци, унгарци, османци и австрийци, днес крепостта функционира като открит музей. Пешеходният достъп е улеснен, като тук можете да видите автентични средновековни порти, часовниковата кула Сахат и паметника на Победителя.",
+      "keywords": [
+        "Белградска крепост",
+        "Калемегдан",
+        "забележителности Белград",
+        "история Сърбия"
+      ],
+      "long_tail_keywords": [
+        "как да стигнем до Калемегдан",
+        "разходка в Белградската крепост парк",
+        "най-добрите панорами в Белград"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 98,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Knez Mihailova Street",
+        "Republic Square"
+      ],
+      "related_attractions": [
+        "Novi Sad Petrovaradin Fortress",
+        "Niš Fortress"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Belgrade",
+      "name": "Knez Mihailova Street",
+      "latitude": 44.8167,
+      "longitude": 20.4567,
+      "google_maps_url": "https://www.google.com/maps?q=44.8167,20.4567",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Knez_Mihailova_Street",
+      "wikidata_id": "Q1273934",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Knez_Mihailova_Street_Belgrade.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен",
+        "зима"
+      ],
+      "seo_title": "Улица Княз Михайло – Пешеходната зона и архитектурно бижу на Белград",
+      "seo_description": "Пътеводител за улица Княз Михайло в Белград. Пазаруване, емблематична архитектура от 19-ти век и най-добрите кафенета в пешеходното сърце на града.",
+      "description_short": "Главната пешеходна артерия на Белград, известна с грандиозната си архитектура и динамичен градски живот.",
+      "description_long": "Официално обособена в края на 19-ти век по градския план на Емилиан Йосимович, тази улица следва трасето на някогашния римски виа дуктус. Тя е дом на редица паметници на културата, Сръбската академия на науките и изкуствата и изящни сгради в стил сецесион и неоренесанс. Изцяло пешеходна, тя осигурява комфортна и плавна връзка между площад Република и парка Калемегдан.",
+      "keywords": [
+        "Княз Михайло",
+        "пешеходна улица Белград",
+        "шопинг Белград",
+        "архитектура Сърбия"
+      ],
+      "long_tail_keywords": [
+        "пешеходна зона Княз Михайло забележителности",
+        "архитектурни паметници на Княз Михайло"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 95,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Belgrade Fortress",
+        "Republic Square"
+      ],
+      "related_attractions": [
+        "Subotica Korzo Street",
+        "Novi Sad Dunavska Street"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Belgrade",
+      "name": "Republic Square",
+      "latitude": 44.8161,
+      "longitude": 20.4606,
+      "google_maps_url": "https://www.google.com/maps?q=44.8161,20.4606",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Republic_Square_(Belgrade)",
+      "wikidata_id": "Q946927",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Trg_republike_01.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен",
+        "зима"
+      ],
+      "seo_title": "Площад на Републиката Белград – Централното място за срещи",
+      "seo_description": "Посетете площад Република в Белград. Научете историята на паметника на княз Михайло Обренович и разгледайте културните институции наоколо.",
+      "description_short": "Главният градски площад, дом на Националния театър и Националния музей.",
+      "description_long": "Оформен след разрушаването на Стамбол капия през 1866 година, площадът се превръща в административен и културен фокус на сръбската столица. В центъра му доминира внушителният конен паметник на княз Михайло, издигнат през 1882 г. от италианския скулптор Енрико Паци. Мястото е идеална отправна точка за пешеходен туризъм из старата част на града.",
+      "keywords": [
+        "площад Република Белград",
+        "паметник княз Михайло",
+        "център Белград"
+      ],
+      "long_tail_keywords": [
+        "какво да видим на площад Република Белград",
+        "история на Стамбол капия"
+      ],
+      "search_intent": "navigational",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 90,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Knez Mihailova Street",
+        "National Museum of Serbia"
+      ],
+      "related_attractions": [
+        "Novi Sad Freedom Square",
+        "Niš King Milan Square"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Belgrade",
+      "name": "Skadarlija",
+      "latitude": 44.8172,
+      "longitude": 20.4642,
+      "google_maps_url": "https://www.google.com/maps?q=44.8172,20.4642",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Skadarlija",
+      "wikidata_id": "Q1277342",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Skadarlija_-_panoramio.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен"
+      ],
+      "seo_title": "Скадарлия – Бохемският квартал на Белград с автентичен дух",
+      "seo_description": "Разходете се из Скадарлия, бохемската улица на Белград. Насладете се на традиционна сръбска кухня, жива староградска музика и калдъръмени улички.",
+      "description_short": "Историческа калдъръмена улица, известна като белградския Монмартър, изпълнена с традиционни ресторанти.",
+      "description_long": "В края на 19-ти и началото на 20-ти век Скадарлия се превръща в сборен пункт на най-известните сръбски поети, актьори и художници. Кварталът е запазил автентичната си калдъръмена настилка и фасади, декорирани с цветя. Намира се на кратка разходка от площад Република и предлага перфектна възможност да опитате местни кулинарни специалитети под съпровода на акустични оркестри.",
+      "keywords": [
+        "Скадарлия",
+        "бохемски квартал Белград",
+        "ресторанти Скадарлия",
+        "кафенета Сърбия"
+      ],
+      "long_tail_keywords": [
+        "традиционна сръбска кухня Скадарлия",
+        "история на бохемския Белград"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 94,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Republic Square",
+        "National Museum of Serbia"
+      ],
+      "related_attractions": [
+        "Niš Tinkers Alley",
+        "Novi Sad Dunavska Street"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Belgrade",
+      "name": "Church of Saint Sava",
+      "latitude": 44.7981,
+      "longitude": 20.4692,
+      "google_maps_url": "https://www.google.com/maps?q=44.7981,20.4692",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Church_of_Saint_Sava",
+      "wikidata_id": "Q433433",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Hram_Svetog_Save_no%C4%87u.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен",
+        "зима"
+      ],
+      "seo_title": "Храм Свети Сава Белград – Един от най-големите православни храмове",
+      "seo_description": "Посетете величествения храм Свети Сава в Белград. Разгледайте невероятните златни мозайки и уникалната крипта в сърцето на Врачар.",
+      "description_short": "Монументална православна църква с грандиозни златни мозайки в интериора.",
+      "description_long": "Издигнат на платото Врачар, храмът е посветен на Свети Сава, основателя на Сръбската православна църква. Строителството му започва през 1935 г., прекъсвано е от войните и е завършено в пълния си блясък наскоро с масивни мозайки, изработени от естествен камък и стъкло. Достъпът е безпрепятствен по широки алеи, а интериорът поразява с мащаба и светлинните си ефекти.",
+      "keywords": [
+        "Свети Сава храм",
+        "православна църква Белград",
+        "мозайки Свети Сава",
+        "Врачар"
+      ],
+      "long_tail_keywords": [
+        "крипта на храм Свети Сава",
+        "работно време храм Свети Сава Белград"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 97,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Tašmajdan Park",
+        "Nikola Tesla Museum"
+      ],
+      "related_attractions": [
+        "Subotica Synagogue",
+        "Novi Sad Name of Mary Church"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Belgrade",
+      "name": "Nikola Tesla Museum",
+      "latitude": 44.8051,
+      "longitude": 20.4707,
+      "google_maps_url": "https://www.google.com/maps?q=44.8051,20.4707",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nikola_Tesla_Museum",
+      "wikidata_id": "Q1151608",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Muzej_Nikole_Tesle.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 3.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен",
+        "зима"
+      ],
+      "seo_title": "Музей на Никола Тесла в Белград – Интерактивна наука и наследство",
+      "seo_description": "Планирайте посещение на Музея на Никола Тесла в Белград. Вижте оригинални патенти, лични вещи и участвайте в демонстрации на Тесла намотки.",
+      "description_short": "Уникална научна институция, съхраняваща личния архив и изобретенията на гениалния физик.",
+      "description_long": "Разположен в красива жилищна вила от 1927 г., дело на архитект Драгиша Брашован, музеят пази над 160 000 оригинални документа, планове и лични вещи на Тесла. Посетителите могат да изпитат на живо ефектите от високочестотните трансформатори по време на редовните турове. Локацията е лесно достъпна пеша от централните градски зони.",
+      "keywords": [
+        "Музей Никола Тесла",
+        "Тесла Белград",
+        "научни музеи Сърбия",
+        "изобретения на Тесла"
+      ],
+      "long_tail_keywords": [
+        "билети за музей Никола Тесла",
+        "интерактивни екскурзии Тесла Белград"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "cost_and_tickets",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 93,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Church of Saint Sava",
+        "Tašmajdan Park"
+      ],
+      "related_attractions": [
+        "Kragujevac Old Foundry Museum",
+        "Zrenjanin National Museum"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Belgrade",
+      "name": "National Museum of Serbia",
+      "latitude": 44.8167,
+      "longitude": 20.4608,
+      "google_maps_url": "https://www.google.com/maps?q=44.8167,20.4608",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/National_Museum_of_Serbia",
+      "wikidata_id": "Q1143891",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/National_Museum_of_Serbia_04.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен",
+        "зима"
+      ],
+      "seo_title": "Народен музей на Сърбия – Безценни археологически и арт колекции",
+      "seo_description": "Разгледайте Националния музей на Сърбия на площад Република. Открийте праисторически артефакти, средновековно изкуство и шедьоври на европейската живопис.",
+      "description_short": "Най-голямата и стара музейна институция в страната, разположена на централния площад.",
+      "description_long": "Основан през 1844 г., музеят притежава над 400 000 експоната от Лепенски вир, Винча, античния Рим и средновековна Сърбия, както и забележителна колекция от френски импресионисти. Сградата е класически пример за неоренесансова архитектура с монументален интериор, напълно модернизиран за улеснен пешеходен достъп на туристически групи.",
+      "keywords": [
+        "Народен музей Сърбия",
+        "изкуство Белград",
+        "археология Сърбия",
+        "култура Белград"
+      ],
+      "long_tail_keywords": [
+        "колекции в националния музей белград",
+        "работно време народен музей сърбия"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 91,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Republic Square",
+        "Knez Mihailova Street"
+      ],
+      "related_attractions": [
+        "Museum of Vojvodina",
+        "Niš National Museum"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Belgrade",
+      "name": "Princess Ljubica's Residence",
+      "latitude": 44.8171,
+      "longitude": 20.4526,
+      "google_maps_url": "https://www.google.com/maps?q=44.8171,20.4526",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Princess_Ljubica%27s_Residence",
+      "wikidata_id": "Q2592534",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Konak_kneginje_Ljubice_1.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен",
+        "зима"
+      ],
+      "seo_title": "Конак на княгиня Любица – Балканска архитектура от 19-ти век",
+      "seo_description": "Посетете Конака на княгиня Любица в Белград. Научете за бита на династията Обренович и разгледайте автентичния османско-балкански интериор.",
+      "description_short": "Историческа резиденция, отразяваща прехода от османски стил към европейски архитектурни влияния.",
+      "description_long": "Построен между 1829 и 1830 г. по заповед на княз Милош Обренович за неговата съпруга Любица, този конак е дело на майстор Хаджи Никола Живкович. Днес той функционира като музейна експозиция, показваща интериорния дизайн на белградските домове от 19-ти век. Намира се в Косанчичев венац, най-старата компактна сръбска махала в града, изключително удобна за пешеходни разходки.",
+      "keywords": [
+        "Конак Любица",
+        "исторически сгради Белград",
+        "династия Обренович",
+        "Косанчичев венац"
+      ],
+      "long_tail_keywords": [
+        "балкански конаци в Сърбия",
+        "музейни експонати конак княгиня Любица"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 85,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Belgrade Fortress",
+        "Knez Mihailova Street"
+      ],
+      "related_attractions": [
+        "Amidža Palace",
+        "Shop-Đokić House"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Belgrade",
+      "name": "Tašmajdan Park",
+      "latitude": 44.8094,
+      "longitude": 20.4697,
+      "google_maps_url": "https://www.google.com/maps?q=44.8094,20.4697",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ta%C5%A1majdan_Park",
+      "wikidata_id": "Q1258671",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Tasmajdan_Park_Belgrade_01.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен"
+      ],
+      "seo_title": "Парк Ташмайдан – Зеленият оазис на централен Белград",
+      "seo_description": "Разгледайте парк Ташмайдан. Научете за историята на старата кариера, посетете църквата Свети Марко и се насладете на модерните пешеходни алеи.",
+      "description_short": "Популярен градски парк с фонтани, детски площадки и забележителна религиозна архитектура.",
+      "description_long": "Името на парка произлиза от турските думи 'таш' (камък) и 'майдан' (кариера), тъй като оттук са копани камъни още от римско време. В парка се намира грандиозната църква 'Свети Марко', построена в сръбско-византийски стил. Пространството е напълно обновено, с отлична достъпност за пешеходци, пейки за отдих и красиви светлинни фонтани.",
+      "keywords": [
+        "Ташмайдан",
+        "парк Белград",
+        "църква Свети Марко",
+        "отдих Белград"
+      ],
+      "long_tail_keywords": [
+        "забележителности около Ташмайдан",
+        "църква Свети Марко в Ташмайдан"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 83,
+      "topical_depth_score": 6,
+      "nearby_attractions": [
+        "Nikola Tesla Museum",
+        "Church of Saint Sava"
+      ],
+      "related_attractions": [
+        "Danube Park",
+        "Čair Park"
+      ],
+      "internal_link_priority": "low"
+    },
+    {
+      "city": "Belgrade",
+      "name": "Ada Ciganlija",
+      "latitude": 44.7875,
+      "longitude": 20.4008,
+      "google_maps_url": "https://www.google.com/maps?q=44.7875,20.4008",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ada_Ciganlija",
+      "wikidata_id": "Q346083",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Ada_Ciganlija_lake_Belgrade_Serbia.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято"
+      ],
+      "seo_title": "Ада Циганлия – Белградското море за плаж и спорт",
+      "seo_description": "Ръководство за Ада Циганлия в Белград. Плажове, водни спортове, колоездене и ресторанти на брега на Савското езеро.",
+      "description_short": "Речен остров, превърнат в полуостров с изкуствено езеро и километрични плажни ивици.",
+      "description_long": "Ada Ciganlija е най-популярната зона за летен отдих в Белград, известна като 'Белградското море'. Полуостровът разполага с отлично поддържани чакълести плажове, велосипедни алеи и игрища за разнообразни спортове. Мястото е лесно достъпно от центъра с обществен транспорт или автомобил, предоставяйки перфектни равни алеи за пешеходни разходки около водата.",
+      "keywords": [
+        "Ада Циганлия",
+        "Савско езеро",
+        "плаж Белград",
+        "спортни активности Сърбия"
+      ],
+      "long_tail_keywords": [
+        "колело под наем Ада Циганлия",
+        "кафенета и барове Ада Циганлия"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 88,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Belgrade Fortress"
+      ],
+      "related_attractions": [
+        "Štrand Beach",
+        "Tamis Quay"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Novi Sad",
+      "name": "Petrovaradin Fortress",
+      "latitude": 45.2528,
+      "longitude": 19.8631,
+      "google_maps_url": "https://www.google.com/maps?q=45.2528,19.8631",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Petrovaradin_Fortress",
+      "wikidata_id": "Q1143125",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Petrovaradinska_tvrdjava_Novi_Sad_01.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен"
+      ],
+      "seo_title": "Петроварадинска крепост Нови Сад – Гибралтар на Дунав",
+      "seo_description": "Посетете Петроварадинската крепост в Нови Сад. Научете за Обърнатата часовникова кула, подземните тунели и фестивала EXIT.",
+      "description_short": "Монументална австрийска крепост от 18-ти век, кацнала на скала над река Дунав.",
+      "description_long": "Строена в продължение на 88 години (1692–1780) по системата на Вобан, тази твърдина е била ключов щит срещу османските нашествия. Известна е със своята емблематична часовникова кула, на която малката и голямата стрелка са разменени, за да могат рибарите да виждат часа отдалеч. Достъпът от стария град на Нови Сад е пешеходен през Варадинския мост.",
+      "keywords": [
+        "Петроварадин",
+        "крепост Нови Сад",
+        "часовникова кула Петроварадин",
+        "EXIT фестивал"
+      ],
+      "long_tail_keywords": [
+        "подземни лабиринти Петроварадин",
+        "гледка към Дунав Нови Сад"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 98,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Danube Park",
+        "Freedom Square"
+      ],
+      "related_attractions": [
+        "Belgrade Fortress",
+        "Golubac Fortress"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Novi Sad",
+      "name": "Freedom Square",
+      "latitude": 45.2553,
+      "longitude": 19.8451,
+      "google_maps_url": "https://www.google.com/maps?q=45.2553,19.8451",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Trg_Slobode_(Novi_Sad)",
+      "wikidata_id": "Q7839958",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Novi_Sad_-_Trg_Slobode_1.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен",
+        "зима"
+      ],
+      "seo_title": "Площад Свобода Нови Сад – Архитектурното сърце на Войводина",
+      "seo_description": "Разгледайте площад Свобода (Trg Slobode) в Нови Сад. Насладете се на неоренесансовото кметство, паметника на Светозар Милетич и околните кафенета.",
+      "description_short": "Главният площад на Нови Сад, заобиколен от пищни исторически сгради от 19-ти век.",
+      "description_long": "Оформен по време на австро-унгарското управление, площадът е пешеходен център на обществения живот в града. Централна фигура е бронзовият паметник на видния политик Светозар Милетич, дело на Иван Мещрович. Срещу него се издига величествената сграда на Кметството (Градска куща), построена в неоренесансов стил през 1895 г.",
+      "keywords": [
+        "площад Свобода Нови Сад",
+        "Кметство Нови Сад",
+        "център Нови Сад",
+        "Светозар Милетич"
+      ],
+      "long_tail_keywords": [
+        "пешеходна разходка Трг Слободе",
+        "исторически сгради в центъра на Нови Сад"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 94,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Name of Mary Church",
+        "Bishop's Palace"
+      ],
+      "related_attractions": [
+        "Republic Square",
+        "Subotica City Hall"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Novi Sad",
+      "name": "Name of Mary Church",
+      "latitude": 45.2558,
+      "longitude": 19.8453,
+      "google_maps_url": "https://www.google.com/maps?q=45.2558,19.8453",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Name_of_Mary_Church",
+      "wikidata_id": "Q1267812",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Crkva_imena_marijinog_Novi_Sad.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен",
+        "зима"
+      ],
+      "seo_title": "Катедрала Име на Мария Нови Сад – Неоготически шедьовър",
+      "seo_description": "Открийте римокатолическата църква Име на Мария в Нови Сад. Възхитете се на цветния покрив от Жолнай керамика и високата 72 метра кула.",
+      "description_short": "Импозантна неоготическа църква, доминираща над централния градски площад.",
+      "description_long": "Построена през 1894 г. по проект на архитект Дьорд Молнар, тази римокатолическа църква често погрешно е наричана катедрала от местните жители. Най-забележителната й характеристика е покривът, покрит с многоцветни пирогранитни плочки от прочутата унгарска фабрика Жолнай. Входът е директно от площада и е напълно достъпен пеша.",
+      "keywords": [
+        "Име на Мария църква",
+        "католическа катедрала Нови Сад",
+        "Жолнай керамика",
+        "неоготика Сърбия"
+      ],
+      "long_tail_keywords": [
+        "височина на църквата Име на Мария",
+        "интериор на неоготическа катедрала Нови Сад"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 93,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Freedom Square",
+        "Dunavska Street"
+      ],
+      "related_attractions": [
+        "Subotica Synagogue",
+        "Church of Saint Sava"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Novi Sad",
+      "name": "Dunavska Street",
+      "latitude": 45.2564,
+      "longitude": 19.8489,
+      "google_maps_url": "https://www.google.com/maps?q=45.2564,19.8489",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dunavska_Street",
+      "wikidata_id": "Q11111111",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Dunavska_ulica_Novi_Sad_01.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен",
+        "зима"
+      ],
+      "seo_title": "Дунавска улица Нови Сад – Най-старата пешеходна алея",
+      "seo_description": "Разходете се по историческата Дунавска улица в Нови Сад. Открийте класически пасажи, бутици и традиционни сладкарници от миналия век.",
+      "description_short": "Живописна пешеходна улица с пастелни фасади, свързваща центъра с Дунавския парк.",
+      "description_long": "Като една от най-старите улици в Нови Сад, Дунавска е преживяла сериозни разрушения през Революцията от 1849 г., но е напълно възстановена в стил класицизъм и сецесион. Нейните приземни етажи крият уникални покрити пасажи с малки занаятчийски дюкяни. Изцяло забранена за превозни средства, тя осигурява перфектно пешеходно преживяване.",
+      "keywords": [
+        "Дунавска улица",
+        "старинен Нови Сад",
+        "пешеходна зона Войводина"
+      ],
+      "long_tail_keywords": [
+        "пасажи на Дунавска улица",
+        "най-старите сгради в Нови Сад"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 91,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Bishop's Palace",
+        "Danube Park"
+      ],
+      "related_attractions": [
+        "Knez Mihailova Street",
+        "Subotica Korzo Street"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Novi Sad",
+      "name": "Danube Park",
+      "latitude": 45.2556,
+      "longitude": 19.8511,
+      "google_maps_url": "https://www.google.com/maps?q=45.2556,19.8511",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Danube_Park",
+      "wikidata_id": "Q3364205",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Dunavski_park_Novi_Sad_01.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен"
+      ],
+      "seo_title": "Дунавски парк Нови Сад – Природен паметник в градския център",
+      "seo_description": "Посетете Дунавския парк в Нови Сад. Вижте красивото езеро с лебеди, редки растителни видове и паметника на поета Джура Якшич.",
+      "description_short": "Защитен градски парк с изкуствено езеро, фонтани и над 130 вида дървета.",
+      "description_long": "Паркът е създаден в края на 19-ти век на мястото на блатиста местност, редовно наводнявана от Дунав. Днес той е богато озеленен парк, защитен като паметник на природата. Алеите са напълно равни, асфалтирани и пригодени за лежерни пешеходни разходки, свързвайки Дунавската улица с крайбрежния булевард.",
+      "keywords": [
+        "Дунавски парк",
+        "парк Нови Сад",
+        "забележителности Войводина",
+        "зелени площи"
+      ],
+      "long_tail_keywords": [
+        "езеро в Дунавския парк",
+        "разходка за деца Нови Сад парк"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 88,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Dunavska Street",
+        "Museum of Vojvodina"
+      ],
+      "related_attractions": [
+        "Tašmajdan Park",
+        "Great Park"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Novi Sad",
+      "name": "Bishop's Palace",
+      "latitude": 45.2566,
+      "longitude": 19.8478,
+      "google_maps_url": "https://www.google.com/maps?q=45.2566,19.8478",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bishop%27s_Palace_in_Novi_Sad",
+      "wikidata_id": "Q15623030",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Vladicanski_dvor_Novi_Sad.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен",
+        "зима"
+      ],
+      "seo_title": "Владичански двор Нови Сад – Епископският дворец с уникална фасада",
+      "seo_description": "Разгледайте Владичанския двор в Нови Сад. Научете за сръбско-византийския му стил, историята на Епархия Бачка и паметника на Йован Йованович Змай.",
+      "description_short": "Официалната резиденция на сръбския православен епископ на Бачка, отличаваща се с псевдо-мавритански елементи.",
+      "description_long": "Завършен през 1901 г. по проект на архитект Владимир Николич, дворецът е архитектурен шедьовър с уникална фасада от червени керамични плочки. Интериорът пази ценни творби на Пая Йованович. Сградата се намира в края на улица Змай Йовина и се разглежда лесно по време на пешеходен тур из центъра.",
+      "keywords": [
+        "Владичански двор",
+        "Епископски дворец Нови Сад",
+        "сръбска архитектура",
+        "Йован Йованович Змай"
+      ],
+      "long_tail_keywords": [
+        "архитектура на Владичанския двор",
+        "исторически паметници Нови Сад"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 86,
+      "topical_depth_score": 6,
+      "nearby_attractions": [
+        "Freedom Square",
+        "Dunavska Street"
+      ],
+      "related_attractions": [
+        "Raichle Palace",
+        "Kronić Palace"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Novi Sad",
+      "name": "Museum of Vojvodina",
+      "latitude": 45.2561,
+      "longitude": 19.8522,
+      "google_maps_url": "https://www.google.com/maps?q=45.2561,19.8522",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Museum_of_Vojvodina",
+      "wikidata_id": "Q4110118",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Muzej_Vojvodine_Novi_Sad.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен",
+        "зима"
+      ],
+      "seo_title": "Музей на Войводина Нови Сад – Римски шлемове и вековна история",
+      "seo_description": "Посетете Музея на Войводина. Вижте прочутите позлатени римски шлемове и проследете историята на региона от палеолита до 20-ти век.",
+      "description_short": "Богат исторически и етнографски музей, съхраняващ културното наследство на провинция Войводина.",
+      "description_long": "Основан през 1947 г., музеят наследява колекциите на Матица Сръбска. Несъмнен акцент в експозицията са трите римски парадни шлема от 4-ти век, изработени от позлатен бронз. Музеят е разположен в непосредствена близост до Дунавския парк, с лесен пешеходен достъп без стълби на входа.",
+      "keywords": [
+        "Музей на Войводина",
+        "римски шлемове Сърбия",
+        "история Войводина",
+        "забележителности Нови Сад"
+      ],
+      "long_tail_keywords": [
+        "експонати в музей на Войводина",
+        "работно време билети музей Нови Сад"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 89,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Danube Park",
+        "Dunavska Street"
+      ],
+      "related_attractions": [
+        "National Museum of Serbia",
+        "Sombor National Museum"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Novi Sad",
+      "name": "Synagogue of Novi Sad",
+      "latitude": 45.2529,
+      "longitude": 19.8423,
+      "google_maps_url": "https://www.google.com/maps?q=45.2529,19.8423",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Novi_Sad_Synagogue",
+      "wikidata_id": "Q3506161",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Sinagoga_u_Novom_Sadu.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен",
+        "зима"
+      ],
+      "seo_title": "Синагога в Нови Сад – Сецесионна архитектура и концертен салон",
+      "seo_description": "Научете за еврейската синагога в Нови Сад. Открийте красивия унгарски сецесионен стил на архитекта Липот Баумхорн и акустичния салон.",
+      "description_short": "Внушителен архитектурен комплекс от началото на 20-ти век, днес използван за престижни културни събития.",
+      "description_long": "Построена между 1906 и 1909 г., тази синагога е дело на прочутия унгарски архитект Липот Баумхорн. Тя е част от голям комплекс, включващ еврейското училище и общинските сгради. Архитектурата съчетава арт нуво с мавритански мотиви. Намира се на улица Еврейска, на броени минути пеша от площад Свобода.",
+      "keywords": [
+        "Синагога Нови Сад",
+        "унгарски сецесион",
+        "Липот Баумхорн",
+        "еврейско наследство Сърбия"
+      ],
+      "long_tail_keywords": [
+        "концерти в синагогата Нови Сад",
+        "архитектурни забележителности улица Еврейска"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "inspiration",
+      "seo_priority_score": 91,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Freedom Square"
+      ],
+      "related_attractions": [
+        "Subotica Synagogue",
+        "Zrenjanin Cathedral"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Novi Sad",
+      "name": "Štrand Beach",
+      "latitude": 45.2344,
+      "longitude": 19.8458,
+      "google_maps_url": "https://www.google.com/maps?q=45.2344,19.8458",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%A0trand",
+      "wikidata_id": "Q388554",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Novi_Sad_Strand_02.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "лято"
+      ],
+      "seo_title": "Плаж Щранд Нови Сад – Най-популярният пясъчен речен плаж",
+      "seo_description": "Посетете емблематичния речен плаж Щранд на река Дунав в Нови Сад. Пясъчни ивици, кафенета, зелени площи и летни забавления за туристи.",
+      "description_short": "Прекрасен пясъчен плаж на Дунав под Моста на свободата с отлично развита инфраструктура.",
+      "description_long": "Официално открит през 1911 г., плажът Щранд предлага над 700 метра пясъчна ивица, оборудвана със съблекални, душове, спортни игрища и заведения. Достъпът е равен и улеснен, идеален за разходки покрай реката по време на горещите летни месеци.",
+      "keywords": [
+        "Щранд Нови Сад",
+        "плаж на Дунав",
+        "речен плаж Сърбия",
+        "летен отдих"
+      ],
+      "long_tail_keywords": [
+        "вход за плаж Щранд Нови Сад",
+        "инфраструктура на плаж Щранд"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 85,
+      "topical_depth_score": 6,
+      "nearby_attractions": [
+        "Petrovaradin Fortress"
+      ],
+      "related_attractions": [
+        "Ada Ciganlija",
+        "Tamis Quay"
+      ],
+      "internal_link_priority": "low"
+    },
+    {
+      "city": "Novi Sad",
+      "name": "Matica Srpska Gallery",
+      "latitude": 45.2514,
+      "longitude": 19.8453,
+      "google_maps_url": "https://www.google.com/maps?q=45.2514,19.8453",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gallery_of_Matica_Srpska",
+      "wikidata_id": "Q16082402",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Galerija_Matice_srpske_01.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен",
+        "зима"
+      ],
+      "seo_title": "Галерия Матица Сръбска – Национално художествено наследство",
+      "seo_description": "Разгледайте Галерията на Матица Сръбска в Нови Сад. Вижте най-богатата колекция от сръбско изкуство от 16-ти до 20-ти век.",
+      "description_short": "Една от най-значимите художествени галерии в страната, разположена на площада на галериите.",
+      "description_long": "Основана през 1847 г. в Будапеща и по-късно преместена в Нови Сад, галерията показва развитието на сръбската живопис през вековете – от традиционни икони до модернизъм. Сградата разполага с модерни рампи и асансьори, улесняващи пешеходния достъп и разглеждането на експонатите.",
+      "keywords": [
+        "Матица Сръбска",
+        "галерия Нови Сад",
+        "сръбска живопис",
+        "изкуство Войводина"
+      ],
+      "long_tail_keywords": [
+        "изложби в Матица Сръбска",
+        "работно време на галериите в Нови Сад"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 87,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Freedom Square",
+        "Synagogue of Novi Sad"
+      ],
+      "related_attractions": [
+        "Milan Konjović Gallery",
+        "National Museum of Serbia"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Niš",
+      "name": "Niš Fortress",
+      "latitude": 43.3253,
+      "longitude": 21.8956,
+      "google_maps_url": "https://www.google.com/maps?q=43.3253,21.8956",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ni%C5%A1_Fortress",
+      "wikidata_id": "Q1417036",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Niska_Tvrdjava_Stambol_kapija_Nis.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен"
+      ],
+      "seo_title": "Нишка крепост – Величествен османски комплекс край река Нишава",
+      "seo_description": "Посетете историческата Нишка крепост. Разгледайте Стамбол капия, античния лапидариум, хамама и се разходете из големия парк.",
+      "description_short": "Изключително добре запазена османска крепост от 18-ти век, издигната върху антични римски основи.",
+      "description_long": "Построена от турците през 1723 г., крепостта заема площ от над 22 хектара. Тя разполага с масивни каменни стени и монументални порти. Вътрешността й днес е превърната в равен, лесно достъпен пешеходен парк с амфитеатър, кафенета и археологически разкопки от римския град Наиссус. Намира се непосредствено до централния площад.",
+      "keywords": [
+        "Нишка крепост",
+        "забележителности Ниш",
+        "Стамбол капия Ниш",
+        "Наиссус"
+      ],
+      "long_tail_keywords": [
+        "разходка в Нишката крепост парк",
+        "история на османската крепост в Ниш"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 97,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "King Milan Square",
+        "Tinkers' Alley"
+      ],
+      "related_attractions": [
+        "Belgrade Fortress",
+        "Petrovaradin Fortress"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Niš",
+      "name": "King Milan Square",
+      "latitude": 43.3214,
+      "longitude": 21.8953,
+      "google_maps_url": "https://www.google.com/maps?q=43.3214,21.8953",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/King_Milan_Square",
+      "wikidata_id": "Q16086300",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Trg_Kralja_Milana_Nis_01.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен",
+        "зима"
+      ],
+      "seo_title": "Площад Крал Милан Ниш – Централната градска зона",
+      "seo_description": "Посетете централния площад Крал Милан в Ниш. Вижте Паметника на освободителите и се насладете на пешеходната зона до река Нишава.",
+      "description_short": "Главното градско пространство на Ниш, свързващо пешеходната улица 'Обреновичева' с Нишката крепост.",
+      "description_long": "Площадът носи името на крал Милан Обренович, освободителя на Ниш от османско владичество. В центъра му доминира Паметникът на освободителите на Ниш, издигнат през 1937 г. от скулптора Антун Аугустинчич. Мястото е изцяло пешеходно, плоско и много удобно за бърз достъп до моста към крепостта.",
+      "keywords": [
+        "площад Крал Милан",
+        "център Ниш",
+        "Паметник на освободителите",
+        "Обреновичева улица"
+      ],
+      "long_tail_keywords": [
+        "пешеходни маршрути в центъра на Ниш",
+        "забележителности около река Нишава"
+      ],
+      "search_intent": "navigational",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 92,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Niš Fortress",
+        "Tinkers' Alley"
+      ],
+      "related_attractions": [
+        "Republic Square",
+        "Freedom Square"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Niš",
+      "name": "Tinkers' Alley",
+      "latitude": 43.3197,
+      "longitude": 21.8944,
+      "google_maps_url": "https://www.google.com/maps?q=43.3197,21.8944",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tinkers%27_Alley",
+      "wikidata_id": "Q7808354",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Kazandzijsko_sokace_Nis_01.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен"
+      ],
+      "seo_title": "Казанджийско сокаче Ниш – Автентичната стара чаршия",
+      "seo_description": "Разходете се из Казанджийското сокаче в Ниш. Насладете се на духа на старата ориенталска чаршия, кафенетата и автентичната балканска атмосфера.",
+      "description_short": "Последната запазена улица от старата нишка чаршия, днес оживена пешеходна зона с кафенета.",
+      "description_long": "Оформена през първата половина на 18-ти век, улицата е била средище на казанджии и други занаятчии по време на Османската империя. Старите къщи са реставрирани и превърнати в кафенета и ресторанти, които пазят духа на стария Ниш. Разположена е в непосредствена близост до модерния търговски център и е лесно достъпна пеша.",
+      "keywords": [
+        "Казанджийско сокаче",
+        "стара чаршия Ниш",
+        "кафенета Ниш",
+        "ориенталска архитектура"
+      ],
+      "long_tail_keywords": [
+        "къде да ядем в Ниш",
+        "история на занаятчийската улица в Ниш"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 94,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "King Milan Square",
+        "Holy Trinity Cathedral"
+      ],
+      "related_attractions": [
+        "Skadarlija",
+        "Široka Čaršija"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Niš",
+      "name": "Holy Trinity Cathedral",
+      "latitude": 43.3169,
+      "longitude": 21.8947,
+      "google_maps_url": "https://www.google.com/maps?q=43.3169,21.8947",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Holy_Trinity_Cathedral,_Ni%C5%A1",
+      "wikidata_id": "Q4513364",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Saborna_crkva_Nis.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен",
+        "зима"
+      ],
+      "seo_title": "Съборна църква Света Троица Ниш – Религиозно и архитектурно бижу",
+      "seo_description": "Посетете Съборната църква в Ниш. Разгледайте уникалната архитектура, съчетаваща възрожденски и неовизантийски стил от 19-ти век.",
+      "description_short": "Втората по големина православна църква в Сърбия, отличаваща се с пищна архитектура.",
+      "description_long": "Строителството на храма започва през 1856 г. по проект на майстор Андрей Дамянов и е завършено през 1872 г., преди окончателното освобождение от османците. Архитектурният стил е интересна компилация от византийски, романски и барокови елементи. Храмът разполага с равен двор с лесен пешеходен достъп.",
+      "keywords": [
+        "Съборна църква Ниш",
+        "Света Троица храм",
+        "Андрей Дамянов",
+        "православно изкуство Сърбия"
+      ],
+      "long_tail_keywords": [
+        "история на съборната църква в Ниш",
+        "архитектура на Андрей Дамянов"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 88,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Tinkers' Alley",
+        "King Milan Square"
+      ],
+      "related_attractions": [
+        "Church of Saint Sava",
+        "Lazarica Church"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Niš",
+      "name": "Officers' House",
+      "latitude": 43.3236,
+      "longitude": 21.9008,
+      "google_maps_url": "https://www.google.com/maps?q=43.3236,21.9008",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Officers%27_House_(Ni%C5%A1)",
+      "wikidata_id": "Q16086259",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Oficirski_dom_Nis_01.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен",
+        "зима"
+      ],
+      "seo_title": "Офицерски дом Ниш – Културен център и исторически паметник",
+      "seo_description": "Разгледайте Офицерския дом в Ниш. Научете за историческата Нишка декларация от Първата световна война и текущите изложби.",
+      "description_short": "Емблематична сграда на брега на Нишава, послужила за заседание на Скупщината по време на Първата световна война.",
+      "description_long": "Построен в края на 19-ти век като ресторант 'Бонапарт', по-късно комплексът е закупен за нуждите на армията. През 1914 г. тук е подписана известната Нишка декларация за обединение на южните славяни. Днес сградата е напълно реставрирана и функционира като изложбена зала, лесно достъпна по равния кей на реката.",
+      "keywords": [
+        "Офицерски дом Ниш",
+        "Нишка декларация",
+        "исторически сгради Сърбия",
+        "изложби Ниш"
+      ],
+      "long_tail_keywords": [
+        "история на Офицерския дом в Ниш",
+        "културни събития край Нишава"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 84,
+      "topical_depth_score": 6,
+      "nearby_attractions": [
+        "Niš Fortress",
+        "King Milan Square"
+      ],
+      "related_attractions": [
+        "Županija Building",
+        "City Hall Zrenjanin"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Niš",
+      "name": "National Museum Niš Archaeological Hall",
+      "latitude": 43.3211,
+      "longitude": 21.8961,
+      "google_maps_url": "https://www.google.com/maps?q=43.3211,21.8961",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/National_Museum_Ni%C5%A1",
+      "wikidata_id": "Q3330689",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Narodni_muzej_Nis_01.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен",
+        "зима"
+      ],
+      "seo_title": "Археологическа зала на Народния музей в Ниш",
+      "seo_description": "Посетете Археологическата зала в Ниш. Разгледайте уникалните антични артефакти от Медиана и бронзовата глава на император Константин Велики.",
+      "description_short": "Музейна зала, съхраняваща изключително ценни находки от римско и византийско време.",
+      "description_long": "Основан през 1933 г., музеят притежава колекции от праисторията до средновековието. Най-важните експонати включват мраморни скулптури и предмети, открити в императорската резиденция Медиана. Залата се намира на улица Синджеличева в центъра на града, с лесен пешеходен достъп на едно ниво.",
+      "keywords": [
+        "Народен музей Ниш",
+        "археологическа зала",
+        "Константин Велики",
+        "римски артефакти"
+      ],
+      "long_tail_keywords": [
+        "находки от Медиана Ниш",
+        "цени на билети народен музей ниш"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 90,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "King Milan Square",
+        "Tinkers' Alley"
+      ],
+      "related_attractions": [
+        "National Museum of Serbia",
+        "Museum of Vojvodina"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Niš",
+      "name": "Bubanj Memorial Park",
+      "latitude": 43.3051,
+      "longitude": 21.8722,
+      "google_maps_url": "https://www.google.com/maps?q=43.3051,21.8722",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bubanj_Memorial_Park",
+      "wikidata_id": "Q1291120",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Spomen_park_Bubanj_Nis_02.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен"
+      ],
+      "seo_title": "Мемориален парк Бубан – Монументалните три юмрука в Ниш",
+      "seo_description": "Посетете парк Бубан в Ниш. Разгледайте гигантските бетонни паметници във формата на три юмрука, дело на Иван Саболич, сред красива природа.",
+      "description_short": "Голям горист лесопарк с внушителни модернистични паметници, издигащи се като символи на съпровата.",
+      "description_long": "Изграден през 1963 г., този мемориален комплекс е дело на хърватския скулптор Иван Саболич. Трите масивни бетонни юмрука с различна големина символизират мъжа, жената и детето, които се противопоставят на потисничеството. Паркът е с ясни, широки пешеходни асфалтирани алеи и е достъпен с кола до самия вход.",
+      "keywords": [
+        "парк Бубан Ниш",
+        "три юмрука паметник",
+        "модернистична архитектура",
+        "Иван Саболич"
+      ],
+      "long_tail_keywords": [
+        "паметници от социализма в Сърбия",
+        "разходка в гората Бубан Ниш"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "photography_spots",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 86,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Čair Park"
+      ],
+      "related_attractions": [
+        "Slobodište Memorial Park",
+        "Memorial Park to the Revolution"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Niš",
+      "name": "Čair Park",
+      "latitude": 43.3156,
+      "longitude": 21.9083,
+      "google_maps_url": "https://www.google.com/maps?q=43.3156,21.9083",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C4%8Cair_Park",
+      "wikidata_id": "Q8079737",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Park_Cair_Nis_01.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен"
+      ],
+      "seo_title": "Парк Чаир Ниш – Най-големият градски парк за отдих",
+      "seo_description": "Ръководство за парк Чаир в Ниш. Насладете се на зелени алеи, детски съоръжения, спортни комплекси и спокойна пешеходна среда.",
+      "description_short": "Обширен градски парк с вековни дървета, фонтани и отлични зони за спорт и релаксация.",
+      "description_long": "Парк Чаир е основният зелен дроб на Ниш, разположен в източната част на града. Тук се намират градският стадион и закритите басейни. Паркът предлага изключително равни и добре поддържани пешеходни пътеки, сенчести пейки и детски площадки, което го прави идеален за семеен отдих след разглеждане на историческия център.",
+      "keywords": [
+        "парк Чаир",
+        "зелени площи Ниш",
+        "спортен комплекс Чаир",
+        "отдих в Ниш"
+      ],
+      "long_tail_keywords": [
+        "семейна разходка в Ниш парк",
+        "забележителности за деца в Ниш"
+      ],
+      "search_intent": "local",
+      "intent_cluster": "what_to_do",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 80,
+      "topical_depth_score": 5,
+      "nearby_attractions": [
+        "Holy Trinity Cathedral",
+        "Tinkers' Alley"
+      ],
+      "related_attractions": [
+        "Tašmajdan Park",
+        "Danube Park"
+      ],
+      "internal_link_priority": "low"
+    },
+    {
+      "city": "Niš",
+      "name": "Mediana",
+      "latitude": 43.3103,
+      "longitude": 21.9472,
+      "google_maps_url": "https://www.google.com/maps?q=43.3103,21.9472",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mediana",
+      "wikidata_id": "Q1262313",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mediana_arheolosko_nalaziste_Nis.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен"
+      ],
+      "seo_title": "Римско селище Медиана Ниш – Императорската резиденция",
+      "seo_description": "Разгледайте археологическия обект Медиана край Ниш. Вижте античните мозайки, вилата с перистил и термите на Константин Велики.",
+      "description_short": "Луксозно предградие на античния Наиссус, послужило за резиденция на римски императори.",
+      "description_long": "Построена в края на 3-ти и началото на 4-ти век, Медиана включва голяма вила с над 1000 кв.м. подови мозайки, баптистерий и терми. След мащабна реставрация обектът е покрит със защитна конструкция и снабден с достъпни пешеходни дървени платформи за лесно разглеждане на уникалните антични подове.",
+      "keywords": [
+        "Медиана Ниш",
+        "римски мозайки",
+        "Константин Велики резиденция",
+        "археологически разкопки"
+      ],
+      "long_tail_keywords": [
+        "работно време на Медиана Ниш",
+        "антични паметници в Сърбия"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 93,
+      "topical_depth_score": 8,
+      "nearby_attractions": [
+        "Niš Fortress"
+      ],
+      "related_attractions": [
+        "Kruševac Fortress",
+        "Hisar Hill"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Niš",
+      "name": "Holy Mother of God Church",
+      "latitude": 43.3183,
+      "longitude": 21.895,
+      "google_maps_url": "https://www.google.com/maps?q=43.3183,21.8950",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Church_of_the_Holy_Mother_of_God,_Ni%C5%A1",
+      "wikidata_id": "Q11111115",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Mala_Saborna_crkva_Nis.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен",
+        "зима"
+      ],
+      "seo_title": "Малка съборна църква Успение Богородично Ниш",
+      "seo_description": "Посетете Малката съборна църква в Ниш. Научете за изграждането й през османския период и разгледайте ценния й възрожденски иконостас.",
+      "description_short": "По-старата, вкопана в земята православна църква, известна като Малката съборна църква.",
+      "description_long": "Завършена през 1815 г. след дълги преговори с османските власти, тази църква е трябвало да бъде ниска и невзрачна, според тогавашните закони. Интериорът пази изключително ценен иконостас, дело на дебърски майстори. Намира се в същия пешеходен комплекс до голямата катедрала.",
+      "keywords": [
+        "Малка съборна църква",
+        "Успение Богородично Ниш",
+        "възрожденски иконостас",
+        "история Ниш"
+      ],
+      "long_tail_keywords": [
+        "стари църкви в Ниш",
+        "православно наследство от османско време"
+      ],
+      "search_intent": "informational",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "visiting",
+      "seo_priority_score": 82,
+      "topical_depth_score": 7,
+      "nearby_attractions": [
+        "Holy Trinity Cathedral",
+        "Tinkers' Alley"
+      ],
+      "related_attractions": [
+        "Prince Miloš Church",
+        "Odžaklija Church"
+      ],
+      "internal_link_priority": "medium"
+    },
+    {
+      "city": "Subotica",
+      "name": "Subotica City Hall",
+      "latitude": 46.1001,
+      "longitude": 19.6649,
+      "google_maps_url": "https://www.google.com/maps?q=46.1001,19.6649",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Subotica_City_Hall",
+      "wikidata_id": "Q733190",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Gradska_kuca_Subotica_01.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен",
+        "зима"
+      ],
+      "seo_title": "Кметство Суботица – Върхът на унгарския сецесион",
+      "seo_description": "Посетете Кметството в Суботица. Възхитете се на пищната арт нуво архитектура, витражите на Микса Рот и се изкачете до панорамната тераса.",
+      "description_short": "Грандиозна административна сграда от 1912 г., превърната в символ на унгарския сецесион.",
+      "description_long": "Проектирана от известните будапещенски архитекти Марсел Комор и ДезModification Деже Якаб, сградата поразява с декорациите си от Жолнай керамика и сложни фолклорни мотиви. Интериорът е украсен с уникални витражи на Микса Рот. Разположена е на централния пешеходен площад, осигурявайки лесен равен достъп за туристите.",
+      "keywords": [
+        "Кметство Суботица",
+        "унгарски сецесион",
+        "Комор и Якаб",
+        "Микса Рот витражи"
+      ],
+      "long_tail_keywords": [
+        "екскурзия из Кметството в Суботица",
+        "арт нуво сгради Войводина"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 99,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Blue Fountain",
+        "Korzo Street"
+      ],
+      "related_attractions": [
+        "Freedom Square",
+        "City Hall Zrenjanin"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "city": "Subotica",
+      "name": "Synagogue of Subotica",
+      "latitude": 46.1003,
+      "longitude": 19.6617,
+      "google_maps_url": "https://www.google.com/maps?q=46.1003,19.6617",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Subotica_Synagogue",
+      "wikidata_id": "Q831613",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Sinagoga_u_Subotici_01.jpg",
+      "image_source": "Wikimedia Commons",
+      "image_license": "CC BY-SA 4.0",
+      "season_tags": [
+        "пролет",
+        "лято",
+        "есен",
+        "зима"
+      ],
+      "seo_title": "Синагога в Суботица – Втората по големина в Европа",
+      "seo_description": "Разгледайте напълно реставрираната Синагога в Суботица. Научете за невероятната й метална конструкция, сецесионен стил и еврейска история.",
+      "description_short": "Шедьовър на сакралната арт нуво архитектура, напълно реставриран с подкрепата на ЮНЕСКО.",
+      "description_long": "Построена през 1902 г. от същия тандем архитекти (Комор и Якаб), синагогата е единствената в света, която съчетава еврейски символи с унгарски народни орнаменти от лалета и карамфили. Вътрешната структура се крепи на леки железни стълбове. Намира се на кратка разходка от Кметството по равни тротоари.",
+      "keywords": [
+        "Синагога Суботица",
+        "еврейска архитектура",
+        "ЮНЕСКО наследство Сърбия",
+        "Марсел Комор"
+      ],
+      "long_tail_keywords": [
+        "реставрация на синагогата в Суботица",
+        "цени на билети синагога суботица"
+      ],
+      "search_intent": "travel_planning",
+      "intent_cluster": "history_culture",
+      "user_journey_stage": "planning",
+      "seo_priority_score": 96,
+      "topical_depth_score": 9,
+      "nearby_attractions": [
+        "Subotica City Hall",
+        "Cathedral of St. Teresa of Avila"
+      ],
+      "related_attractions": [
+        "Synagogue of Novi Sad",
+        "Church of Saint Sava"
+      ],
+      "internal_link_priority": "high"
+    },
+    {
+      "name": "Belgrade",
+      "city": "Subotica",
+      "region": "Serbia",
+      "latitude": 44.81777778,
+      "longitude": 20.45694444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Belgrade",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Panorama_Belgrad.jpg/800px-Panorama_Belgrad.jpg",
+      "description_short": "Belgrade — a notable landmark in Subotica, Serbia.",
+      "keywords": [
+        "Subotica",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Kragujevac",
+      "city": "Subotica",
+      "region": "Serbia",
+      "latitude": 44.01008333,
+      "longitude": 20.91719444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kragujevac",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/View_on_the_city_of_Kragujevac.jpg/800px-View_on_the_city_of_Kragujevac.jpg",
+      "description_short": "Kragujevac — a notable landmark in Subotica, Serbia.",
+      "keywords": [
+        "Subotica",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Subotica",
+      "city": "Subotica",
+      "region": "Serbia",
+      "latitude": 46.10027778,
+      "longitude": 19.66555556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Subotica",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/View_of_Subotica_%282024%29.jpg/800px-View_of_Subotica_%282024%29.jpg",
+      "description_short": "Subotica — a notable landmark in Subotica, Serbia.",
+      "keywords": [
+        "Subotica",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Zrenjanin",
+      "city": "Subotica",
+      "region": "Serbia",
+      "latitude": 45.3825,
+      "longitude": 20.39166667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Zrenjanin",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/%C5%BDupanijska_palata_u_Zrenjaninu.jpg/800px-%C5%BDupanijska_palata_u_Zrenjaninu.jpg",
+      "description_short": "Zrenjanin — a notable landmark in Subotica, Serbia.",
+      "keywords": [
+        "Subotica",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Skull Tower",
+      "city": "Subotica",
+      "region": "Serbia",
+      "latitude": 43.3122,
+      "longitude": 21.9238,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Skull_Tower",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Skull_Tower_detail.jpg",
+      "description_short": "Skull Tower — a notable landmark in Subotica, Serbia.",
+      "keywords": [
+        "Subotica",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Stari Grad",
+      "city": "Subotica",
+      "region": "Serbia",
+      "latitude": 45.2566,
+      "longitude": 19.848,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Stari_Grad%2C_Novi_Sad",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Trg_Slobode_nocu.jpg/800px-Trg_Slobode_nocu.jpg",
+      "description_short": "Stari Grad, Novi Sad — a notable landmark in Subotica, Serbia.",
+      "keywords": [
+        "Subotica",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Roman Catholic Archdiocese of Belgrade",
+      "city": "Subotica",
+      "region": "Serbia",
+      "latitude": 44.7943,
+      "longitude": 20.4752,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Belgrade",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/%D0%A1%D0%B2%D1%98%D0%B5%D1%82%D0%BB%D0%BE%D0%BF%D0%B8%D1%81_%D0%BA%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D1%87%D0%BA%D0%B5_%D0%BA%D0%B0%D1%82%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D0%B5_%D0%A3%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D1%9A%D0%B0_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B5%2C_%D0%92%D1%80%D0%B0%D1%87%D0%B0%D1%80%2C_%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%2C_%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B018.jpg/800px-%D0%A1%D0%B2%D1%98%D0%B5%D1%82%D0%BB%D0%BE%D0%BF%D0%B8%D1%81_%D0%BA%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D1%87%D0%BA%D0%B5_%D0%BA%D0%B0%D1%82%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D0%B5_%D0%A3%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D1%9A%D0%B0_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B5%2C_%D0%92%D1%80%D0%B0%D1%87%D0%B0%D1%80%2C_%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%2C_%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B018.jpg",
+      "description_short": "Roman Catholic Archdiocese of Belgrade — a notable landmark in Subotica, Serbia.",
+      "keywords": [
+        "Subotica",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Novi Sad railway station canopy collapse",
+      "city": "Subotica",
+      "region": "Serbia",
+      "latitude": 45.26555556,
+      "longitude": 19.82944444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Novi_Sad_railway_station_canopy_collapse",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Novi_Sad_railway_station_canopy_collapse.jpg/800px-Novi_Sad_railway_station_canopy_collapse.jpg",
+      "description_short": "Novi Sad railway station canopy collapse — a notable landmark in Subotica, Serbia.",
+      "keywords": [
+        "Subotica",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Bačka",
+      "city": "Subotica",
+      "region": "Serbia",
+      "latitude": 46,
+      "longitude": 19.33333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ba%C4%8Dka",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Baja%2C_v%C3%A1rosh%C3%A1za_2021_01.jpg/800px-Baja%2C_v%C3%A1rosh%C3%A1za_2021_01.jpg",
+      "description_short": "Bačka — a notable landmark in Subotica, Serbia.",
+      "keywords": [
+        "Subotica",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Temerin",
+      "city": "Subotica",
+      "region": "Serbia",
+      "latitude": 45.41666667,
+      "longitude": 19.88333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Temerin",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Temerin_from_air.jpg/800px-Temerin_from_air.jpg",
+      "description_short": "Temerin — a notable landmark in Subotica, Serbia.",
+      "keywords": [
+        "Subotica",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Lake Palić",
+      "city": "Subotica",
+      "region": "Serbia",
+      "latitude": 46.07,
+      "longitude": 19.7475,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lake_Pali%C4%87",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Palic_lake_view.jpg/800px-Palic_lake_view.jpg",
+      "description_short": "Lake Palić — a notable landmark in Subotica, Serbia.",
+      "keywords": [
+        "Subotica",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Koceljeva",
+      "city": "Subotica",
+      "region": "Serbia",
+      "latitude": 44.46666667,
+      "longitude": 19.81666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Koceljeva",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/%D0%9A%D0%BE%D1%86%D0%B5%D1%99%D0%B5%D0%B2%D0%B0.jpg/800px-%D0%9A%D0%BE%D1%86%D0%B5%D1%99%D0%B5%D0%B2%D0%B0.jpg",
+      "description_short": "Koceljeva — a notable landmark in Subotica, Serbia.",
+      "keywords": [
+        "Subotica",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Aerodrom",
+      "city": "Kragujevac",
+      "region": "Serbia",
+      "latitude": 44.0325,
+      "longitude": 20.905,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aerodrom%2C_Kragujevac",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/AerodromKragujevac.jpg",
+      "description_short": "Aerodrom, Kragujevac — a notable landmark in Kragujevac, Serbia.",
+      "keywords": [
+        "Kragujevac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Kosančićev Venac",
+      "city": "Kragujevac",
+      "region": "Serbia",
+      "latitude": 44.8175,
+      "longitude": 20.4514,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kosan%C4%8Di%C4%87ev_Venac",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Cath%C3%A9drale_Saint-Michel_de_Belgrade.jpg",
+      "description_short": "Kosančićev Venac — a notable landmark in Kragujevac, Serbia.",
+      "keywords": [
+        "Kragujevac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Jagodina",
+      "city": "Kragujevac",
+      "region": "Serbia",
+      "latitude": 43.96666667,
+      "longitude": 21.25,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jagodina",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Downtown_of_Jagodina_-_panoramio.jpg/800px-Downtown_of_Jagodina_-_panoramio.jpg",
+      "description_short": "Jagodina — a notable landmark in Kragujevac, Serbia.",
+      "keywords": [
+        "Kragujevac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Battle of Kosovo (1448)",
+      "city": "Kragujevac",
+      "region": "Serbia",
+      "latitude": 42.63,
+      "longitude": 21.12,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Kosovo_(1448)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sueleymanname_akinci.png/800px-Sueleymanname_akinci.png",
+      "description_short": "Battle of Kosovo (1448) — a notable landmark in Kragujevac, Serbia.",
+      "keywords": [
+        "Kragujevac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Battle of Zenta",
+      "city": "Kragujevac",
+      "region": "Serbia",
+      "latitude": 45.92611111,
+      "longitude": 20.09805556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Zenta",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/A_zentai_csata_Eisenhut_Ferenc_k%C3%A9pe.jpg/800px-A_zentai_csata_Eisenhut_Ferenc_k%C3%A9pe.jpg",
+      "description_short": "Battle of Zenta — a notable landmark in Kragujevac, Serbia.",
+      "keywords": [
+        "Kragujevac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Battle of Vukovar",
+      "city": "Kragujevac",
+      "region": "Serbia",
+      "latitude": 45.34694444,
+      "longitude": 19.00833333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Vukovar",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Vukovar-watertower-after-war.jpg",
+      "description_short": "Battle of Vukovar — a notable landmark in Kragujevac, Serbia.",
+      "keywords": [
+        "Kragujevac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Amidža Konak",
+      "city": "Kragujevac",
+      "region": "Serbia",
+      "latitude": 44.00930556,
+      "longitude": 20.91180556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Amid%C5%BEa_Konak",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/La_R%C3%A9sidence_Amid%C5%BEa_%C3%A0_Kragujevac.jpg/800px-La_R%C3%A9sidence_Amid%C5%BEa_%C3%A0_Kragujevac.jpg",
+      "description_short": "Amidža Konak — a notable landmark in Kragujevac, Serbia.",
+      "keywords": [
+        "Kragujevac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Šumarice Memorial Park",
+      "city": "Kragujevac",
+      "region": "Serbia",
+      "latitude": 44.02333333,
+      "longitude": 20.90055556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%A0umarice_Memorial_Park",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Da.se.ne.zaboravi.jpg/800px-Da.se.ne.zaboravi.jpg",
+      "description_short": "Šumarice Memorial Park — a notable landmark in Kragujevac, Serbia.",
+      "keywords": [
+        "Kragujevac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Museum of Contemporary Art",
+      "city": "Kragujevac",
+      "region": "Serbia",
+      "latitude": 44.81944444,
+      "longitude": 20.44222222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art%2C_Belgrade",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Beograd_-_Muzej_Savremene_Umetnosti_%28MoCAB%29_%28crop%29.jpg/800px-Beograd_-_Muzej_Savremene_Umetnosti_%28MoCAB%29_%28crop%29.jpg",
+      "description_short": "Museum of Contemporary Art, Belgrade — a notable landmark in Kragujevac, Serbia.",
+      "keywords": [
+        "Kragujevac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Princely Serbian Theatre",
+      "city": "Kragujevac",
+      "region": "Serbia",
+      "latitude": 44.01055556,
+      "longitude": 20.91027778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Princely_Serbian_Theatre",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Teatar_%D0%9Aragujevac.jpg/800px-Teatar_%D0%9Aragujevac.jpg",
+      "description_short": "Princely Serbian Theatre — a notable landmark in Kragujevac, Serbia.",
+      "keywords": [
+        "Kragujevac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "National Museum of Šumadija",
+      "city": "Kragujevac",
+      "region": "Serbia",
+      "latitude": 44.00934,
+      "longitude": 20.91177,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/National_Museum_of_%C5%A0umadija%2C_Kragujevac",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Wiki_%C5%A0umadija_XVI_National_Museum_of_Kragujevac_854.jpg/800px-Wiki_%C5%A0umadija_XVI_National_Museum_of_Kragujevac_854.jpg",
+      "description_short": "National Museum of Šumadija, Kragujevac — a notable landmark in Kragujevac, Serbia.",
+      "keywords": [
+        "Kragujevac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Apatin",
+      "city": "Sombor",
+      "region": "Serbia",
+      "latitude": 45.66666667,
+      "longitude": 18.98333333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Apatin",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Wiki.Vojvodina_IX_Apatin_Town_Hall_503.jpg/800px-Wiki.Vojvodina_IX_Apatin_Town_Hall_503.jpg",
+      "description_short": "Apatin — a notable landmark in Sombor, Serbia.",
+      "keywords": [
+        "Sombor",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Cathedral of Saint Archangel Michael",
+      "city": "Sombor",
+      "region": "Serbia",
+      "latitude": 44.81806,
+      "longitude": 20.45216,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cathedral_of_Saint_Archangel_Michael%2C_Belgrade",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Saborna_crkva.jpg",
+      "description_short": "Cathedral of Saint Archangel Michael, Belgrade — a notable landmark in Sombor, Serbia.",
+      "keywords": [
+        "Sombor",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Cathedral of the Resurrection of Christ",
+      "city": "Sombor",
+      "region": "Serbia",
+      "latitude": 42.44569444,
+      "longitude": 19.24825,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cathedral_of_the_Resurrection_of_Christ%2C_Podgorica",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Podgorica%2C_cattedrale_della_resurrezione_di_cristo%2C_esterno_01.JPG/800px-Podgorica%2C_cattedrale_della_resurrezione_di_cristo%2C_esterno_01.JPG",
+      "description_short": "Cathedral of the Resurrection of Christ, Podgorica — a notable landmark in Sombor, Serbia.",
+      "keywords": [
+        "Sombor",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Church of the Holy Emperor Uroš",
+      "city": "Sombor",
+      "region": "Serbia",
+      "latitude": 42.370425,
+      "longitude": 21.150424,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Church_of_the_Holy_Emperor_Uro%C5%A1%2C_Ferizaj",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Church_of_Saint_tsar_Uros.jpg/800px-Church_of_Saint_tsar_Uros.jpg",
+      "description_short": "Church of the Holy Emperor Uroš, Ferizaj — a notable landmark in Sombor, Serbia.",
+      "keywords": [
+        "Sombor",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Saint George Cathedral",
+      "city": "Sombor",
+      "region": "Serbia",
+      "latitude": 42.2082,
+      "longitude": 20.74038,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_George_Cathedral%2C_Prizren",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sv._Djordje_Prizren.jpg/800px-Sv._Djordje_Prizren.jpg",
+      "description_short": "Saint George Cathedral, Prizren — a notable landmark in Sombor, Serbia.",
+      "keywords": [
+        "Sombor",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Cathedral of the Ascension of the Lord",
+      "city": "Sombor",
+      "region": "Serbia",
+      "latitude": 45.75777778,
+      "longitude": 21.2275,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cathedral_of_the_Ascension_of_the_Lord%2C_Timi%C8%99oara",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Catedrala_Ortodox%C4%83_S%C3%A2rb%C4%83%2C_Timi%C8%99oara_%282023%29.jpg/800px-Catedrala_Ortodox%C4%83_S%C3%A2rb%C4%83%2C_Timi%C8%99oara_%282023%29.jpg",
+      "description_short": "Cathedral of the Ascension of the Lord, Timișoara — a notable landmark in Sombor, Serbia.",
+      "keywords": [
+        "Sombor",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Saint Nicholas Cathedral",
+      "city": "Sombor",
+      "region": "Serbia",
+      "latitude": 45.2029,
+      "longitude": 19.9342,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_Nicholas_Cathedral%2C_Sremski_Karlovci",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SREMSKI_KARLOVCI_Sveti_Nikola.JPG/800px-SREMSKI_KARLOVCI_Sveti_Nikola.JPG",
+      "description_short": "Saint Nicholas Cathedral, Sremski Karlovci — a notable landmark in Sombor, Serbia.",
+      "keywords": [
+        "Sombor",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Church of St. George",
+      "city": "Sombor",
+      "region": "Serbia",
+      "latitude": 45.77388889,
+      "longitude": 19.115,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Church_of_St._George%2C_Sombor",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/%D0%A6%D1%80%D0%BA%D0%B2%D0%B0_%D0%A1%D0%B2._%D0%82%D0%BE%D1%80%D1%92%D0%B0_%D1%83_%D0%A1%D0%BE%D0%BC%D0%B1%D0%BE%D1%80%D1%83.JPG/800px-%D0%A6%D1%80%D0%BA%D0%B2%D0%B0_%D0%A1%D0%B2._%D0%82%D0%BE%D1%80%D1%92%D0%B0_%D1%83_%D0%A1%D0%BE%D0%BC%D0%B1%D0%BE%D1%80%D1%83.JPG",
+      "description_short": "Church of St. George, Sombor — a notable landmark in Sombor, Serbia.",
+      "keywords": [
+        "Sombor",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Saint Nicholas Cathedral",
+      "city": "Sombor",
+      "region": "Serbia",
+      "latitude": 45.11944444,
+      "longitude": 21.29527778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_Nicholas_Cathedral%2C_Vr%C5%A1ac",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wiki.Vojvodina_VI_Vr%C5%A1ac_213.jpg/800px-Wiki.Vojvodina_VI_Vr%C5%A1ac_213.jpg",
+      "description_short": "Saint Nicholas Cathedral, Vršac — a notable landmark in Sombor, Serbia.",
+      "keywords": [
+        "Sombor",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Church of the Presentation of the Theotokos",
+      "city": "Sombor",
+      "region": "Serbia",
+      "latitude": 45.04694444,
+      "longitude": 20.07861111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Church_of_the_Presentation_of_the_Theotokos%2C_In%C4%91ija",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pravoslavna-crkva-indjija.jpg/800px-Pravoslavna-crkva-indjija.jpg",
+      "description_short": "Church of the Presentation of the Theotokos, Inđija — a notable landmark in Sombor, Serbia.",
+      "keywords": [
+        "Sombor",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Saint George Cathedral",
+      "city": "Sombor",
+      "region": "Serbia",
+      "latitude": 43.5791,
+      "longitude": 21.3317,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_George_Cathedral%2C_Kru%C5%A1evac",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wiki.Rasina_I_Crkva_Sv._%C4%90or%C4%91a_%28Kru%C5%A1evac%29_1124_11.jpg/800px-Wiki.Rasina_I_Crkva_Sv._%C4%90or%C4%91a_%28Kru%C5%A1evac%29_1124_11.jpg",
+      "description_short": "Saint George Cathedral, Kruševac — a notable landmark in Sombor, Serbia.",
+      "keywords": [
+        "Sombor",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Holy Trinity Cathedral",
+      "city": "Sombor",
+      "region": "Serbia",
+      "latitude": 43.72576,
+      "longitude": 20.68332,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Holy_Trinity_Cathedral%2C_Kraljevo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/%D0%A6%D1%80%D0%BA%D0%B2%D0%B0_%D0%A1%D0%B2%D0%B5%D1%82%D0%B5_%D0%A2%D1%80%D0%BE%D1%98%D0%B8%D1%86%D0%B5_%D1%83_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D1%83_-_%D0%BE%D0%BA%D1%82%D0%BE%D0%B1%D0%B0%D1%80_2024.%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B5.jpg/800px-%D0%A6%D1%80%D0%BA%D0%B2%D0%B0_%D0%A1%D0%B2%D0%B5%D1%82%D0%B5_%D0%A2%D1%80%D0%BE%D1%98%D0%B8%D1%86%D0%B5_%D1%83_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D1%83_-_%D0%BE%D0%BA%D1%82%D0%BE%D0%B1%D0%B0%D1%80_2024.%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B5.jpg",
+      "description_short": "Holy Trinity Cathedral, Kraljevo — a notable landmark in Sombor, Serbia.",
+      "keywords": [
+        "Sombor",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Church of the Assumption",
+      "city": "Zrenjanin",
+      "region": "Serbia",
+      "latitude": 45.38055556,
+      "longitude": 20.39583333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Church_of_the_Assumption%2C_Zrenjanin",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Zr_crkvasvetosavska.jpg",
+      "description_short": "Church of the Assumption, Zrenjanin — a notable landmark in Zrenjanin, Serbia.",
+      "keywords": [
+        "Zrenjanin",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Church of Saint Gerhard de Sangredo",
+      "city": "Zrenjanin",
+      "region": "Serbia",
+      "latitude": 45.11815,
+      "longitude": 21.30165,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Church_of_Saint_Gerhard_de_Sangredo%2C_Vr%C5%A1ac",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Wiki.Vojvodina_VI_Vr%C5%A1ac_444.jpg/800px-Wiki.Vojvodina_VI_Vr%C5%A1ac_444.jpg",
+      "description_short": "Church of Saint Gerhard de Sangredo, Vršac — a notable landmark in Zrenjanin, Serbia.",
+      "keywords": [
+        "Zrenjanin",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Church of the Holy Archangel Gabriel",
+      "city": "Zrenjanin",
+      "region": "Serbia",
+      "latitude": 45.77061,
+      "longitude": 20.28295,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Church_of_the_Holy_Archangel_Gabriel%2C_Bo%C4%8Dar",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/SPC_Sv._Arhan%C4%91ela_Gavrila_u_Bo%C4%8Daru_nakon_obnove.jpg/800px-SPC_Sv._Arhan%C4%91ela_Gavrila_u_Bo%C4%8Daru_nakon_obnove.jpg",
+      "description_short": "Church of the Holy Archangel Gabriel, Bočar — a notable landmark in Zrenjanin, Serbia.",
+      "keywords": [
+        "Zrenjanin",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Church of St. Nicholas",
+      "city": "Zrenjanin",
+      "region": "Serbia",
+      "latitude": 45.31645,
+      "longitude": 20.43655,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Church_of_St._Nicholas%2C_E%C4%8Dka",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Srpska_pravoslavna_crkva_Svetog_Nikole_u_E%C4%8Dki.jpg/800px-Srpska_pravoslavna_crkva_Svetog_Nikole_u_E%C4%8Dki.jpg",
+      "description_short": "Church of St. Nicholas, Ečka — a notable landmark in Zrenjanin, Serbia.",
+      "keywords": [
+        "Zrenjanin",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Temeşvar Eyalet",
+      "city": "Zrenjanin",
+      "region": "Serbia",
+      "latitude": 45.75,
+      "longitude": 21.21666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Teme%C5%9Fvar_Eyalet",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Central_europe_1683.png/800px-Central_europe_1683.png",
+      "description_short": "Temeşvar Eyalet — a notable landmark in Zrenjanin, Serbia.",
+      "keywords": [
+        "Zrenjanin",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Novo Miloševo",
+      "city": "Zrenjanin",
+      "region": "Serbia",
+      "latitude": 45.71972222,
+      "longitude": 20.30194444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Novo_Milo%C5%A1evo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dvorac_Kara%C4%8Donji_u_Novom_Milo%C5%A1evu%2C_frontalni_izgled.jpg/800px-Dvorac_Kara%C4%8Donji_u_Novom_Milo%C5%A1evu%2C_frontalni_izgled.jpg",
+      "description_short": "Novo Miloševo — a notable landmark in Zrenjanin, Serbia.",
+      "keywords": [
+        "Zrenjanin",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Ečka",
+      "city": "Zrenjanin",
+      "region": "Serbia",
+      "latitude": 45.31777778,
+      "longitude": 20.43888889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/E%C4%8Dka",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Srpska_pravoslavna_crkva_Svetog_Nikole_u_E%C4%8Dki.jpg/800px-Srpska_pravoslavna_crkva_Svetog_Nikole_u_E%C4%8Dki.jpg",
+      "description_short": "Ečka — a notable landmark in Zrenjanin, Serbia.",
+      "keywords": [
+        "Zrenjanin",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Lukino Selo",
+      "city": "Zrenjanin",
+      "region": "Serbia",
+      "latitude": 45.30194444,
+      "longitude": 20.42194444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lukino_Selo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Lukino_Selo_-_Catholic_church.jpg",
+      "description_short": "Lukino Selo — a notable landmark in Zrenjanin, Serbia.",
+      "keywords": [
+        "Zrenjanin",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Church of Saint George",
+      "city": "Zrenjanin",
+      "region": "Serbia",
+      "latitude": 45.7575,
+      "longitude": 21.25083333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Church_of_Saint_George%2C_Timi%C8%99oara",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Biserica_ortodoxa_sarbeasca_Sf._Gheorghe_-_panoramio.jpg/800px-Biserica_ortodoxa_sarbeasca_Sf._Gheorghe_-_panoramio.jpg",
+      "description_short": "Church of Saint George, Timișoara — a notable landmark in Zrenjanin, Serbia.",
+      "keywords": [
+        "Zrenjanin",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Partoș Monastery",
+      "city": "Zrenjanin",
+      "region": "Serbia",
+      "latitude": 45.33527778,
+      "longitude": 21.12416667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Parto%C8%99_Monastery",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ansamblu_manastire.jpg/800px-Ansamblu_manastire.jpg",
+      "description_short": "Partoș Monastery — a notable landmark in Zrenjanin, Serbia.",
+      "keywords": [
+        "Zrenjanin",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Church of the Assumption of the Theotokos",
+      "city": "Pančevo",
+      "region": "Serbia",
+      "latitude": 44.87222222,
+      "longitude": 20.63861111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Church_of_the_Assumption_of_the_Theotokos%2C_Pan%C4%8Devo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hram_Uspenja_Presvete_Bogorodice_Pancevo.jpg/800px-Hram_Uspenja_Presvete_Bogorodice_Pancevo.jpg",
+      "description_short": "Church of the Assumption of the Theotokos, Pančevo — a notable landmark in Pančevo, Serbia.",
+      "keywords": [
+        "Pančevo",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Church of the Assumption of the Theotokos",
+      "city": "Pančevo",
+      "region": "Serbia",
+      "latitude": 45.11706,
+      "longitude": 21.28993,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Church_of_the_Assumption_of_the_Theotokos%2C_Vr%C5%A1ac",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wiki.Vojvodina_VI_Vr%C5%A1ac_193.jpg/800px-Wiki.Vojvodina_VI_Vr%C5%A1ac_193.jpg",
+      "description_short": "Church of the Assumption of the Theotokos, Vršac — a notable landmark in Pančevo, Serbia.",
+      "keywords": [
+        "Pančevo",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Church of the Transfiguration of the Lord",
+      "city": "Pančevo",
+      "region": "Serbia",
+      "latitude": 44.87771,
+      "longitude": 20.63173,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Church_of_the_Transfiguration_of_the_Lord%2C_Pan%C4%8Devo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pancevo_oldchurch.jpg/800px-Pancevo_oldchurch.jpg",
+      "description_short": "Church of the Transfiguration of the Lord, Pančevo — a notable landmark in Pančevo, Serbia.",
+      "keywords": [
+        "Pančevo",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Bor",
+      "city": "Pančevo",
+      "region": "Serbia",
+      "latitude": 44.08333333,
+      "longitude": 22.1,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bor%2C_Serbia",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Borizvazduha.jpg",
+      "description_short": "Bor, Serbia — a notable landmark in Pančevo, Serbia.",
+      "keywords": [
+        "Pančevo",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Church of Saint Nicholas",
+      "city": "Pančevo",
+      "region": "Serbia",
+      "latitude": 45.76543,
+      "longitude": 21.20736,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Church_of_Saint_Nicholas%2C_Timi%C8%99oara",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Mehalai_szerb_templom.jpg/800px-Mehalai_szerb_templom.jpg",
+      "description_short": "Church of Saint Nicholas, Timișoara — a notable landmark in Pančevo, Serbia.",
+      "keywords": [
+        "Pančevo",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Timiș",
+      "city": "Pančevo",
+      "region": "Serbia",
+      "latitude": 44.84805556,
+      "longitude": 20.63555556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Timi%C8%99",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Pancevo_Tamis.JPG/800px-Pancevo_Tamis.JPG",
+      "description_short": "Timiș — a notable landmark in Pančevo, Serbia.",
+      "keywords": [
+        "Pančevo",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Palilula",
+      "city": "Pančevo",
+      "region": "Serbia",
+      "latitude": 44.81166667,
+      "longitude": 20.51611111,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Palilula%2C_Belgrade",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/COA_Palilula_%28big%29.png",
+      "description_short": "Palilula, Belgrade — a notable landmark in Pančevo, Serbia.",
+      "keywords": [
+        "Pančevo",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Exit (festival)",
+      "city": "Pančevo",
+      "region": "Serbia",
+      "latitude": 45.25,
+      "longitude": 19.8667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Exit_(festival)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mind_Against%2C_Dance_Arena%2C_2023.jpg/800px-Mind_Against%2C_Dance_Arena%2C_2023.jpg",
+      "description_short": "Exit (festival) — a notable landmark in Pančevo, Serbia.",
+      "keywords": [
+        "Pančevo",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Stari Grad",
+      "city": "Pančevo",
+      "region": "Serbia",
+      "latitude": 44.8191359,
+      "longitude": 20.4572362,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Stari_Grad%2C_Belgrade",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Belgrade_Municipalities_Stari_Grad.png/800px-Belgrade_Municipalities_Stari_Grad.png",
+      "description_short": "Stari Grad, Belgrade — a notable landmark in Pančevo, Serbia.",
+      "keywords": [
+        "Pančevo",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Dorćol",
+      "city": "Pančevo",
+      "region": "Serbia",
+      "latitude": 44.82555556,
+      "longitude": 20.45972222,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dor%C4%87ol",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Rue_Cara_Du%C5%A1anova_%C3%A0_Belgrade.jpg",
+      "description_short": "Dorćol — a notable landmark in Pančevo, Serbia.",
+      "keywords": [
+        "Pančevo",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Savamala",
+      "city": "Pančevo",
+      "region": "Serbia",
+      "latitude": 44.8135,
+      "longitude": 20.45230556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Savamala",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Savamala.jpg/800px-Savamala.jpg",
+      "description_short": "Savamala — a notable landmark in Pančevo, Serbia.",
+      "keywords": [
+        "Pančevo",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Vukov Spomenik",
+      "city": "Pančevo",
+      "region": "Serbia",
+      "latitude": 44.80305556,
+      "longitude": 20.48555556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Vukov_Spomenik",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/%D0%A1%D0%B2%D1%98%D0%B5%D1%82%D0%BB%D0%BE%D0%BF%D0%B8%D1%81_%D1%81%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D1%83%D0%BA%D1%83_%D0%9A%D0%B0%D1%80%D0%B0%D1%9F%D0%B8%D1%9B%D1%83_%D1%83_%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%83.jpg/800px-%D0%A1%D0%B2%D1%98%D0%B5%D1%82%D0%BB%D0%BE%D0%BF%D0%B8%D1%81_%D1%81%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0_%D0%92%D1%83%D0%BA%D1%83_%D0%9A%D0%B0%D1%80%D0%B0%D1%9F%D0%B8%D1%9B%D1%83_%D1%83_%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%83.jpg",
+      "description_short": "Vukov Spomenik — a notable landmark in Pančevo, Serbia.",
+      "keywords": [
+        "Pančevo",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Diana Fort",
+      "city": "Pančevo",
+      "region": "Serbia",
+      "latitude": 44.65361111,
+      "longitude": 22.54388889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Diana_Fort",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tvrdjava_Diana_istocna_kapija2.jpg/800px-Tvrdjava_Diana_istocna_kapija2.jpg",
+      "description_short": "Diana Fort — a notable landmark in Pančevo, Serbia.",
+      "keywords": [
+        "Pančevo",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Battle of Pancsova",
+      "city": "Pančevo",
+      "region": "Serbia",
+      "latitude": 44.88713889,
+      "longitude": 20.6295,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Pancsova",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Battle_of_Pancsova_-_2_January_1849_by_Vincenz_Katzler.jpg/800px-Battle_of_Pancsova_-_2_January_1849_by_Vincenz_Katzler.jpg",
+      "description_short": "Battle of Pancsova — a notable landmark in Pančevo, Serbia.",
+      "keywords": [
+        "Pančevo",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Kruševac",
+      "city": "Kruševac",
+      "region": "Serbia",
+      "latitude": 43.58055556,
+      "longitude": 21.33055556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kru%C5%A1evac",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Krusevac_panorama1.jpg",
+      "description_short": "Kruševac — a notable landmark in Kruševac, Serbia.",
+      "keywords": [
+        "Kruševac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Lazarica Church",
+      "city": "Kruševac",
+      "region": "Serbia",
+      "latitude": 43.58410278,
+      "longitude": 21.32123889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lazarica_Church",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Lazarica_Church.jpg",
+      "description_short": "Lazarica Church — a notable landmark in Kruševac, Serbia.",
+      "keywords": [
+        "Kruševac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Prokuplje",
+      "city": "Kruševac",
+      "region": "Serbia",
+      "latitude": 43.23611111,
+      "longitude": 21.59027778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Prokuplje",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/PK_sa_Savicevca1.jpg/800px-PK_sa_Savicevca1.jpg",
+      "description_short": "Prokuplje — a notable landmark in Kruševac, Serbia.",
+      "keywords": [
+        "Kruševac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Golubac Fortress",
+      "city": "Kruševac",
+      "region": "Serbia",
+      "latitude": 44.6611873,
+      "longitude": 21.6784847,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Golubac_Fortress",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Golubac_Fortress_%28%D0%B3%D1%80%D0%B0%D0%B4_%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D0%B0%D1%86%29.jpg/800px-Golubac_Fortress_%28%D0%B3%D1%80%D0%B0%D0%B4_%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D0%B0%D1%86%29.jpg",
+      "description_short": "Golubac Fortress — a notable landmark in Kruševac, Serbia.",
+      "keywords": [
+        "Kruševac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Koznik",
+      "city": "Kruševac",
+      "region": "Serbia",
+      "latitude": 43.455,
+      "longitude": 20.94055556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Koznik",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Koznik77356.jpg/800px-Koznik77356.jpg",
+      "description_short": "Koznik — a notable landmark in Kruševac, Serbia.",
+      "keywords": [
+        "Kruševac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Stalać Fortress",
+      "city": "Kruševac",
+      "region": "Serbia",
+      "latitude": 43.67027778,
+      "longitude": 21.40444444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Stala%C4%87_Fortress",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Stala%C4%87_Fortress.jpg/800px-Stala%C4%87_Fortress.jpg",
+      "description_short": "Stalać Fortress — a notable landmark in Kruševac, Serbia.",
+      "keywords": [
+        "Kruševac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Podgorica Royal Palace",
+      "city": "Kruševac",
+      "region": "Serbia",
+      "latitude": 42.43777778,
+      "longitude": 19.25027778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Podgorica_Royal_Palace",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Podgorica_K%C3%B6nigspalast_3.JPG/800px-Podgorica_K%C3%B6nigspalast_3.JPG",
+      "description_short": "Podgorica Royal Palace — a notable landmark in Kruševac, Serbia.",
+      "keywords": [
+        "Kruševac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Paraćin",
+      "city": "Kruševac",
+      "region": "Serbia",
+      "latitude": 43.86666667,
+      "longitude": 21.41666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Para%C4%87in",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Spomenik-kulture-SK154-Manastir-Lesje_20150221_0970.jpg/800px-Spomenik-kulture-SK154-Manastir-Lesje_20150221_0970.jpg",
+      "description_short": "Paraćin — a notable landmark in Kruševac, Serbia.",
+      "keywords": [
+        "Kruševac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Kruševac Fortress",
+      "city": "Kruševac",
+      "region": "Serbia",
+      "latitude": 43.58444444,
+      "longitude": 21.32194444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kru%C5%A1evac_Fortress",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Don_Zon_kula.jpg",
+      "description_short": "Kruševac Fortress — a notable landmark in Kruševac, Serbia.",
+      "keywords": [
+        "Kruševac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Slobodište",
+      "city": "Kruševac",
+      "region": "Serbia",
+      "latitude": 43.5597,
+      "longitude": 21.3322,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Slobodi%C5%A1te",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Slobodiste_01.jpg/800px-Slobodiste_01.jpg",
+      "description_short": "Slobodište — a notable landmark in Kruševac, Serbia.",
+      "keywords": [
+        "Kruševac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Niš",
+      "city": "Leskovac",
+      "region": "Serbia",
+      "latitude": 43.32083333,
+      "longitude": 21.89583333,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ni%C5%A1",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/%D0%9D%D0%B8%D1%88_34.JPG/800px-%D0%9D%D0%B8%D1%88_34.JPG",
+      "description_short": "Niš — a notable landmark in Leskovac, Serbia.",
+      "keywords": [
+        "Leskovac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Odžaklija",
+      "city": "Leskovac",
+      "region": "Serbia",
+      "latitude": 42.99572222,
+      "longitude": 21.95105556,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Od%C5%BEaklija",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Odzaklija.jpg",
+      "description_short": "Odžaklija — a notable landmark in Leskovac, Serbia.",
+      "keywords": [
+        "Leskovac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Church of the Holy Trinity",
+      "city": "Leskovac",
+      "region": "Serbia",
+      "latitude": 42.99543,
+      "longitude": 21.951,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Church_of_the_Holy_Trinity%2C_Leskovac",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Crkva_Svete_Trojice_u_Leskovcu.jpg",
+      "description_short": "Church of the Holy Trinity, Leskovac — a notable landmark in Leskovac, Serbia.",
+      "keywords": [
+        "Leskovac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Leskovac",
+      "city": "Leskovac",
+      "region": "Serbia",
+      "latitude": 43,
+      "longitude": 21.95,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Leskovac",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/LESKOVAC_SIROKA_CARSIJA.jpg/800px-LESKOVAC_SIROKA_CARSIJA.jpg",
+      "description_short": "Leskovac — a notable landmark in Leskovac, Serbia.",
+      "keywords": [
+        "Leskovac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Kuršumlija",
+      "city": "Leskovac",
+      "region": "Serbia",
+      "latitude": 43.15,
+      "longitude": 21.26666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kur%C5%A1umlija",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kursumlija-panorama.jpg/800px-Kursumlija-panorama.jpg",
+      "description_short": "Kuršumlija — a notable landmark in Leskovac, Serbia.",
+      "keywords": [
+        "Leskovac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Hisar Hill",
+      "city": "Leskovac",
+      "region": "Serbia",
+      "latitude": 42.99096,
+      "longitude": 21.936212,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hisar_Hill",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Brdo_Hisar_kod_Leskovca_01.jpg/800px-Brdo_Hisar_kod_Leskovca_01.jpg",
+      "description_short": "Hisar Hill — a notable landmark in Leskovac, Serbia.",
+      "keywords": [
+        "Leskovac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Zaječar",
+      "city": "Leskovac",
+      "region": "Serbia",
+      "latitude": 43.91666667,
+      "longitude": 22.3,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Zaje%C4%8Dar",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Zgrada_Skup%C5%A1tine_Op%C5%A1tine_Zaje%C4%8Dar.jpg/800px-Zgrada_Skup%C5%A1tine_Op%C5%A1tine_Zaje%C4%8Dar.jpg",
+      "description_short": "Zaječar — a notable landmark in Leskovac, Serbia.",
+      "keywords": [
+        "Leskovac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Matica srpska",
+      "city": "Leskovac",
+      "region": "Serbia",
+      "latitude": 45.259281,
+      "longitude": 19.8451362,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Matica_srpska",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Predseda_Matice_srbskej_Dragan_Stani%C4%87_na_VI._kongrese_mat%C3%ADc_a_in%C5%A1tit%C3%BAci%C3%AD_slovansk%C3%BDch_n%C3%A1rodov.png/800px-Predseda_Matice_srbskej_Dragan_Stani%C4%87_na_VI._kongrese_mat%C3%ADc_a_in%C5%A1tit%C3%BAci%C3%AD_slovansk%C3%BDch_n%C3%A1rodov.png",
+      "description_short": "Matica srpska — a notable landmark in Leskovac, Serbia.",
+      "keywords": [
+        "Leskovac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Allied bombing of Yugoslavia in World War II",
+      "city": "Leskovac",
+      "region": "Serbia",
+      "latitude": 44.81666667,
+      "longitude": 20.46666667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Allied_bombing_of_Yugoslavia_in_World_War_II",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Savezni%C4%8Dko_bombardovanje_Kraljeva_05.jpg",
+      "description_short": "Allied bombing of Yugoslavia in World War II — a notable landmark in Leskovac, Serbia.",
+      "keywords": [
+        "Leskovac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Main Post Office Palace",
+      "city": "Leskovac",
+      "region": "Serbia",
+      "latitude": 44.8106,
+      "longitude": 20.4674,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Main_Post_Office_Palace%2C_Belgrade",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Main_Post_Office_of_Serbia_building_%2813810388075%29.jpg/800px-Main_Post_Office_of_Serbia_building_%2813810388075%29.jpg",
+      "description_short": "Main Post Office Palace, Belgrade — a notable landmark in Leskovac, Serbia.",
+      "keywords": [
+        "Leskovac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Fall of Belgrade (1915)",
+      "city": "Leskovac",
+      "region": "Serbia",
+      "latitude": 44.81777778,
+      "longitude": 20.45694444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fall_of_Belgrade_(1915)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Austro-Hungarian_troops_cross_the_Danube_covered_by_fire_from_the_Danube_monitors.png/800px-Austro-Hungarian_troops_cross_the_Danube_covered_by_fire_from_the_Danube_monitors.png",
+      "description_short": "Fall of Belgrade (1915) — a notable landmark in Leskovac, Serbia.",
+      "keywords": [
+        "Leskovac",
+        "Serbia",
+        "travel"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "all-seasons"
+      ],
+      "seo_priority_score": 85
+    }
+  ],
+  "adventure_locations": [
+    {
+      "name": "Vršac Castle",
+      "region": "Serbia",
+      "latitude": 45.12305556,
+      "longitude": 21.32444444,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Vr%C5%A1ac_Castle",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Vr%C5%A1a%C4%8Dka_kula_posle_obnove2.jpg/800px-Vr%C5%A1a%C4%8Dka_kula_posle_obnove2.jpg",
+      "description_short": "Vršac Castle — a must-see landmark on a Serbia road trip.",
+      "keywords": [
+        "Vršac Castle",
+        "Serbia",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 90
+    },
+    {
+      "name": "Church of Saint Sava",
+      "region": "Serbia",
+      "latitude": 44.79805556,
+      "longitude": 20.46853889,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Church_of_Saint_Sava",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hram_svetog_save_beograd_0005_%28edited%29.jpg/800px-Hram_svetog_save_beograd_0005_%28edited%29.jpg",
+      "description_short": "Church of Saint Sava — a must-see landmark on a Serbia road trip.",
+      "keywords": [
+        "Church of Saint Sava",
+        "Serbia",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 89
+    },
+    {
+      "name": "Cathedral of Saint Archangel Michael",
+      "region": "Serbia",
+      "latitude": 44.81806,
+      "longitude": 20.45216,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cathedral_of_Saint_Archangel_Michael%2C_Belgrade",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Saborna_crkva.jpg",
+      "description_short": "Cathedral of Saint Archangel Michael — a must-see landmark on a Serbia road trip.",
+      "keywords": [
+        "Cathedral of Saint Archangel Michael",
+        "Serbia",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 88
+    },
+    {
+      "name": "Cathedral of the Resurrection of Christ",
+      "region": "Serbia",
+      "latitude": 42.44569444,
+      "longitude": 19.24825,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cathedral_of_the_Resurrection_of_Christ%2C_Podgorica",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Podgorica%2C_cattedrale_della_resurrezione_di_cristo%2C_esterno_01.JPG/800px-Podgorica%2C_cattedrale_della_resurrezione_di_cristo%2C_esterno_01.JPG",
+      "description_short": "Cathedral of the Resurrection of Christ — a must-see landmark on a Serbia road trip.",
+      "keywords": [
+        "Cathedral of the Resurrection of Christ",
+        "Serbia",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 87
+    },
+    {
+      "name": "Saint Nicholas Cathedral",
+      "region": "Serbia",
+      "latitude": 45.2029,
+      "longitude": 19.9342,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_Nicholas_Cathedral%2C_Sremski_Karlovci",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SREMSKI_KARLOVCI_Sveti_Nikola.JPG/800px-SREMSKI_KARLOVCI_Sveti_Nikola.JPG",
+      "description_short": "Saint Nicholas Cathedral — a must-see landmark on a Serbia road trip.",
+      "keywords": [
+        "Saint Nicholas Cathedral",
+        "Serbia",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 86
+    },
+    {
+      "name": "Saint Nicholas Cathedral",
+      "region": "Serbia",
+      "latitude": 45.11944444,
+      "longitude": 21.29527778,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_Nicholas_Cathedral%2C_Vr%C5%A1ac",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wiki.Vojvodina_VI_Vr%C5%A1ac_213.jpg/800px-Wiki.Vojvodina_VI_Vr%C5%A1ac_213.jpg",
+      "description_short": "Saint Nicholas Cathedral — a must-see landmark on a Serbia road trip.",
+      "keywords": [
+        "Saint Nicholas Cathedral",
+        "Serbia",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 85
+    },
+    {
+      "name": "Saint George Cathedral",
+      "region": "Serbia",
+      "latitude": 43.5791,
+      "longitude": 21.3317,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_George_Cathedral%2C_Kru%C5%A1evac",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wiki.Rasina_I_Crkva_Sv._%C4%90or%C4%91a_%28Kru%C5%A1evac%29_1124_11.jpg/800px-Wiki.Rasina_I_Crkva_Sv._%C4%90or%C4%91a_%28Kru%C5%A1evac%29_1124_11.jpg",
+      "description_short": "Saint George Cathedral — a must-see landmark on a Serbia road trip.",
+      "keywords": [
+        "Saint George Cathedral",
+        "Serbia",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 84
+    },
+    {
+      "name": "Holy Trinity Cathedral",
+      "region": "Serbia",
+      "latitude": 43.72576,
+      "longitude": 20.68332,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Holy_Trinity_Cathedral%2C_Kraljevo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/%D0%A6%D1%80%D0%BA%D0%B2%D0%B0_%D0%A1%D0%B2%D0%B5%D1%82%D0%B5_%D0%A2%D1%80%D0%BE%D1%98%D0%B8%D1%86%D0%B5_%D1%83_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D1%83_-_%D0%BE%D0%BA%D1%82%D0%BE%D0%B1%D0%B0%D1%80_2024.%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B5.jpg/800px-%D0%A6%D1%80%D0%BA%D0%B2%D0%B0_%D0%A1%D0%B2%D0%B5%D1%82%D0%B5_%D0%A2%D1%80%D0%BE%D1%98%D0%B8%D1%86%D0%B5_%D1%83_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D1%83_-_%D0%BE%D0%BA%D1%82%D0%BE%D0%B1%D0%B0%D1%80_2024.%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B5.jpg",
+      "description_short": "Holy Trinity Cathedral — a must-see landmark on a Serbia road trip.",
+      "keywords": [
+        "Holy Trinity Cathedral",
+        "Serbia",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 83
+    },
+    {
+      "name": "Studenica Monastery",
+      "region": "Serbia",
+      "latitude": 43.48611,
+      "longitude": 20.53667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Studenica_Monastery",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Manastir_Studenica%2C_Bogorodi%C4%8Dina_crkva_sa_ulaznim_portalom.jpg/800px-Manastir_Studenica%2C_Bogorodi%C4%8Dina_crkva_sa_ulaznim_portalom.jpg",
+      "description_short": "Studenica Monastery — a must-see landmark on a Serbia road trip.",
+      "keywords": [
+        "Studenica Monastery",
+        "Serbia",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 82
+    },
+    {
+      "name": "Ostrog Monastery",
+      "region": "Serbia",
+      "latitude": 42.675,
+      "longitude": 19.02916667,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ostrog_Monastery",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Monasterio_de_Ostrog%2C_Montenegro%2C_2014-04-14%2C_DD_14.JPG/800px-Monasterio_de_Ostrog%2C_Montenegro%2C_2014-04-14%2C_DD_14.JPG",
+      "description_short": "Ostrog Monastery — a must-see landmark on a Serbia road trip.",
+      "keywords": [
+        "Ostrog Monastery",
+        "Serbia",
+        "road trip"
+      ],
+      "search_intent": "travel_planning",
+      "season_tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "seo_priority_score": 81
+    }
+  ],
+  "country_cover_image": {
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/de/House_on_Drina_river.jpg",
+    "image_source": "Wikimedia Commons",
+    "image_license": "CC BY-SA 4.0"
+  }
+}

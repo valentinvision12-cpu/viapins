@@ -1,0 +1,3538 @@
+{
+  "version": 2,
+  "country": "Belgium",
+  "published": true,
+  "cities": [
+    {
+      "city": "Brussels",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Brussels",
+      "seo": {
+        "title": "Top 10 Things to Do in Brussels, Belgium",
+        "description": "Discover 10 must-see landmarks in Brussels, Belgium. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Brussels? Explore the best places to visit in Brussels, Belgium.",
+        "keywords": [
+          "things to do in Brussels",
+          "Brussels Belgium travel guide",
+          "best places to visit in Brussels",
+          "Brussels landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Grand Place",
+          "wiki_title": "Grand Place",
+          "lat": 50.8467,
+          "lng": 4.3525,
+          "order_index": 0,
+          "description": "Iconic square with gothic architecture.",
+          "seo_phrase": "Grand Place Brussels: The Heart of Belgium",
+          "seo_keywords": [
+            "Grand Place",
+            "Brussels"
+          ],
+          "commons_file": "Grand Place Brussels.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Grand_Place_Brussels.jpg",
+          "seo_priority": 100,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Atomium",
+          "wiki_title": "Atomium",
+          "lat": 50.8949,
+          "lng": 4.3416,
+          "order_index": 1,
+          "description": "Giant iron crystal model.",
+          "seo_phrase": "Atomium Brussels: Iconic Landmark",
+          "seo_keywords": [
+            "Atomium",
+            "Brussels"
+          ],
+          "commons_file": "Atomium Brussels.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Atomium_Brussels.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Royal Palace of Brussels",
+          "wiki_title": "Royal Palace of Brussels",
+          "lat": 50.8412,
+          "lng": 4.3603,
+          "order_index": 2,
+          "description": "Majestic royal residence.",
+          "seo_phrase": "Royal Palace of Brussels",
+          "seo_keywords": [
+            "Royal Palace",
+            "Brussels"
+          ],
+          "commons_file": "Royal Palace Brussels.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Royal_Palace_Brussels.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Mont des Arts",
+          "wiki_title": "Mont des Arts",
+          "lat": 50.843,
+          "lng": 4.357,
+          "order_index": 3,
+          "description": "Beautiful city vantage point.",
+          "seo_phrase": "Mont des Arts",
+          "seo_keywords": [
+            "Mont des Arts",
+            "Brussels view"
+          ],
+          "commons_file": "Mont des Arts.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Mont_des_Arts.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Parc du Cinquantenaire",
+          "wiki_title": "Parc du Cinquantenaire",
+          "lat": 50.841,
+          "lng": 4.393,
+          "order_index": 4,
+          "description": "Historic public park.",
+          "seo_phrase": "Cinquantenaire Park Brussels",
+          "seo_keywords": [
+            "Cinquantenaire",
+            "Brussels park"
+          ],
+          "commons_file": "Arc du Cinquantenaire.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Arc_du_Cinquantenaire.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "St. Michael and St. Gudula Cathedral",
+          "wiki_title": "Cathedral of St. Michael and St. Gudula",
+          "lat": 50.8483,
+          "lng": 4.3608,
+          "order_index": 5,
+          "description": "Grand gothic religious site.",
+          "seo_phrase": "St. Michael and St. Gudula Cathedral",
+          "seo_keywords": [
+            "Cathedral Brussels",
+            "Gothic architecture"
+          ],
+          "commons_file": "Cathedrale Saint-Michel et Sainte-Gudule.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Cathedrale_Saint-Michel_et_Sainte-Gudule.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Royal Museums of Fine Arts of Belgium",
+          "wiki_title": "Royal Museums of Fine Arts of Belgium",
+          "lat": 50.842,
+          "lng": 4.358,
+          "order_index": 6,
+          "description": "World-class art collection.",
+          "seo_phrase": "Royal Museums of Fine Arts",
+          "seo_keywords": [
+            "Fine Arts Museum",
+            "Brussels"
+          ],
+          "commons_file": "Fine Arts Museum Brussels.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Fine_Arts_Museum_Brussels.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Galeries Royales Saint-Hubert",
+          "wiki_title": "Galeries Royales Saint-Hubert",
+          "lat": 50.847,
+          "lng": 4.355,
+          "order_index": 7,
+          "description": "Elegant 19th-century gallery.",
+          "seo_phrase": "Galeries Royales Saint-Hubert",
+          "seo_keywords": [
+            "shopping arcades",
+            "Brussels"
+          ],
+          "commons_file": "Galeries Saint Hubert.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Galeries_Saint_Hubert.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "commercial",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Belgian Comic Strip Center",
+          "wiki_title": "Belgian Comic Strip Center",
+          "lat": 50.852,
+          "lng": 4.357,
+          "order_index": 8,
+          "description": "Fun comic art museum.",
+          "seo_phrase": "Comic Strip Center Brussels",
+          "seo_keywords": [
+            "comics museum",
+            "Tintin"
+          ],
+          "commons_file": "Comic Strip Center Brussels.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Comic_Strip_Center_Brussels.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Place Royale",
+          "wiki_title": "Place Royale (Brussels",
+          "lat": 50.841,
+          "lng": 4.359,
+          "order_index": 9,
+          "description": "Classic Neoclassical square.",
+          "seo_phrase": "Place Royale",
+          "seo_keywords": [
+            "Place Royale",
+            "Brussels"
+          ],
+          "commons_file": "Place Royale Brussels.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Place_Royale_Brussels.jpg",
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Bruges",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Bruges",
+      "seo": {
+        "title": "Top 10 Things to Do in Bruges, Belgium",
+        "description": "Discover 10 must-see landmarks in Bruges, Belgium. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Bruges? Explore the best places to visit in Bruges, Belgium.",
+        "keywords": [
+          "things to do in Bruges",
+          "Bruges Belgium travel guide",
+          "best places to visit in Bruges",
+          "Bruges landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Belfry of Bruges",
+          "wiki_title": "Belfry of Bruges",
+          "lat": 51.208,
+          "lng": 3.224,
+          "order_index": 0,
+          "description": "Iconic medieval tower.",
+          "seo_phrase": "Belfry of Bruges",
+          "seo_keywords": [
+            "Belfry",
+            "Bruges"
+          ],
+          "commons_file": "Belfort van Brugge.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Belfort_van_Brugge.jpg",
+          "seo_priority": 99,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Grote Markt",
+          "wiki_title": "Markt (Bruges",
+          "lat": 51.208,
+          "lng": 3.224,
+          "order_index": 1,
+          "description": "Historic market plaza.",
+          "seo_phrase": "Grote Markt Bruges",
+          "seo_keywords": [
+            "Markt",
+            "Bruges square"
+          ],
+          "commons_file": "Markt Brugge.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Markt_Brugge.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Minnewater Lake",
+          "wiki_title": "Minnewater",
+          "lat": 51.199,
+          "lng": 3.225,
+          "order_index": 2,
+          "description": "Picturesque romantic lake.",
+          "seo_phrase": "Minnewater Lake",
+          "seo_keywords": [
+            "Minnewater",
+            "Lake of Love"
+          ],
+          "commons_file": "Minnewater Brugge.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Minnewater_Brugge.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": []
+        },
+        {
+          "name": "Basilica of the Holy Blood",
+          "wiki_title": "Basilica of the Holy Blood",
+          "lat": 51.208,
+          "lng": 3.226,
+          "order_index": 3,
+          "description": "Religious landmark in Bruges.",
+          "seo_phrase": "Basilica of the Holy Blood",
+          "seo_keywords": [
+            "Holy Blood",
+            "Bruges"
+          ],
+          "commons_file": "Heilig-Bloedbasiliek Brugge.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Heilig-Bloedbasiliek_Brugge.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Church of Our Lady",
+          "wiki_title": "Church of Our Lady, Bruges",
+          "lat": 51.204,
+          "lng": 3.224,
+          "order_index": 4,
+          "description": "Historic church with art.",
+          "seo_phrase": "Church of Our Lady",
+          "seo_keywords": [
+            "Church of Our Lady",
+            "Bruges"
+          ],
+          "commons_file": "Onze-Lieve-Vrouwekerk Brugge.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Onze-Lieve-Vrouwekerk_Brugge.jpg",
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Groeningemuseum",
+          "wiki_title": "Groeningemuseum",
+          "lat": 51.206,
+          "lng": 3.227,
+          "order_index": 5,
+          "description": "Fine art gallery.",
+          "seo_phrase": "Groeningemuseum",
+          "seo_keywords": [
+            "Groeningemuseum",
+            "Bruges art"
+          ],
+          "commons_file": "Groeningemuseum Brugge.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Groeningemuseum_Brugge.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Begijnhof",
+          "wiki_title": "Beguinage, Bruges",
+          "lat": 51.203,
+          "lng": 3.223,
+          "order_index": 6,
+          "description": "Serene historic convent.",
+          "seo_phrase": "Begijnhof Bruges",
+          "seo_keywords": [
+            "Begijnhof",
+            "Beguinage"
+          ],
+          "commons_file": "Begijnhof Brugge.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Begijnhof_Brugge.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Choco-Story Museum",
+          "wiki_title": "Choco-Story",
+          "lat": 51.209,
+          "lng": 3.223,
+          "order_index": 7,
+          "description": "Fun chocolate museum.",
+          "seo_phrase": "Choco-Story Museum",
+          "seo_keywords": [
+            "chocolate museum",
+            "Bruges"
+          ],
+          "commons_file": "Chocostory Brugge.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Chocostory_Brugge.jpg",
+          "seo_priority": 78,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Town Hall (Stadhuis)",
+          "wiki_title": "Bruges City Hall",
+          "lat": 51.208,
+          "lng": 3.227,
+          "order_index": 8,
+          "description": "Ornate historic building.",
+          "seo_phrase": "Bruges Town Hall",
+          "seo_keywords": [
+            "Stadhuis",
+            "Bruges architecture"
+          ],
+          "commons_file": "Stadhuis Brugge.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Stadhuis_Brugge.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Historium",
+          "wiki_title": "Historium",
+          "lat": 51.208,
+          "lng": 3.225,
+          "order_index": 9,
+          "description": "Experience medieval history.",
+          "seo_phrase": "Historium Bruges",
+          "seo_keywords": [
+            "Historium",
+            "Bruges"
+          ],
+          "commons_file": "Historium Brugge.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Historium_Brugge.jpg",
+          "seo_priority": 70,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Antwerp",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Antwerp",
+      "seo": {
+        "title": "Top 10 Things to Do in Antwerp, Belgium",
+        "description": "Discover 10 must-see landmarks in Antwerp, Belgium. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Antwerp? Explore the best places to visit in Antwerp, Belgium.",
+        "keywords": [
+          "things to do in Antwerp",
+          "Antwerp Belgium travel guide",
+          "best places to visit in Antwerp",
+          "Antwerp landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Cathedral of Our Lady",
+          "wiki_title": "Cathedral of Our Lady (Antwerp",
+          "lat": 51.221,
+          "lng": 4.403,
+          "order_index": 0,
+          "description": "Masterpiece of architecture.",
+          "seo_phrase": "Cathedral of Our Lady Antwerp",
+          "seo_keywords": [
+            "Cathedral",
+            "Antwerp"
+          ],
+          "commons_file": "Onze-Lieve-Vrouwekathedraal Antwerpen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Onze-Lieve-Vrouwekathedraal_Antwerpen.jpg",
+          "seo_priority": 96,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Antwerp Central Station",
+          "wiki_title": "Antwerp Central railway station",
+          "lat": 51.217,
+          "lng": 4.421,
+          "order_index": 1,
+          "description": "Beautiful rail hub.",
+          "seo_phrase": "Antwerp Central Station",
+          "seo_keywords": [
+            "railway station",
+            "Antwerp"
+          ],
+          "commons_file": "Antwerpen-Centraal station.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Antwerpen-Centraal_station.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Rubens House",
+          "wiki_title": "Rubens House",
+          "lat": 51.217,
+          "lng": 4.411,
+          "order_index": 2,
+          "description": "Historic artist residence.",
+          "seo_phrase": "Rubens House",
+          "seo_keywords": [
+            "Rubens",
+            "museum",
+            "Antwerp"
+          ],
+          "commons_file": "Rubenshuis Antwerpen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Rubenshuis_Antwerpen.jpg",
+          "seo_priority": 89,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Grote Markt Antwerp",
+          "wiki_title": "Grote Markt (Antwerp",
+          "lat": 51.221,
+          "lng": 4.399,
+          "order_index": 3,
+          "description": "Vibrant city square.",
+          "seo_phrase": "Grote Markt Antwerp",
+          "seo_keywords": [
+            "Grote Markt",
+            "Antwerp"
+          ],
+          "commons_file": "Grote Markt Antwerpen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Grote_Markt_Antwerpen.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Museum aan de Stroom (MAS)",
+          "wiki_title": "Museum aan de Stroom",
+          "lat": 51.227,
+          "lng": 4.402,
+          "order_index": 4,
+          "description": "Contemporary history museum.",
+          "seo_phrase": "MAS Museum",
+          "seo_keywords": [
+            "MAS",
+            "Antwerp museum"
+          ],
+          "commons_file": "MAS Antwerpen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/MAS_Antwerpen.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Plantin-Moretus Museum",
+          "wiki_title": "Plantin-Moretus Museum",
+          "lat": 51.218,
+          "lng": 4.397,
+          "order_index": 5,
+          "description": "Historic printing house.",
+          "seo_phrase": "Plantin-Moretus Museum",
+          "seo_keywords": [
+            "printing museum",
+            "Antwerp"
+          ],
+          "image_url": "",
+          "seo_priority": 83,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Royal Museum of Fine Arts Antwerp",
+          "wiki_title": "Royal Museum of Fine Arts Antwerp",
+          "lat": 51.212,
+          "lng": 4.395,
+          "order_index": 6,
+          "description": "Renowned art museum.",
+          "seo_phrase": "Fine Arts Museum Antwerp",
+          "seo_keywords": [
+            "art museum",
+            "Antwerp"
+          ],
+          "commons_file": "KMSKA Antwerpen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/KMSKA_Antwerpen.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "St. Paul's Church",
+          "wiki_title": "St. Paul's Church, Antwerp",
+          "lat": 51.224,
+          "lng": 4.401,
+          "order_index": 7,
+          "description": "Beautiful baroque interior.",
+          "seo_phrase": "St. Paul's Church Antwerp",
+          "seo_keywords": [
+            "Baroque church",
+            "Antwerp"
+          ],
+          "commons_file": "Sint-Pauluskerk Antwerpen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Sint-Pauluskerk_Antwerpen.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "St. Carolus Borromeus Church",
+          "wiki_title": "St. Carolus Borromeus Church, Antwerp",
+          "lat": 51.22,
+          "lng": 4.405,
+          "order_index": 8,
+          "description": "Ornate Jesuit architecture.",
+          "seo_phrase": "St. Carolus Borromeus Church",
+          "seo_keywords": [
+            "Jesuit church",
+            "Antwerp"
+          ],
+          "commons_file": "Sint-Carolus Borromeuskerk Antwerpen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Sint-Carolus_Borromeuskerk_Antwerpen.jpg",
+          "seo_priority": 72,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Hendrik Conscience Heritage Library",
+          "wiki_title": "Hendrik Conscience Heritage Library",
+          "lat": 51.221,
+          "lng": 4.406,
+          "order_index": 9,
+          "description": "Stunning old library.",
+          "seo_phrase": "Hendrik Conscience Library",
+          "seo_keywords": [
+            "library",
+            "Antwerp"
+          ],
+          "commons_file": "Consciencebibliotheek Antwerpen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Consciencebibliotheek_Antwerpen.jpg",
+          "seo_priority": 70,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Ghent",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Ghent",
+      "seo": {
+        "title": "Top 10 Things to Do in Ghent, Belgium",
+        "description": "Discover 10 must-see landmarks in Ghent, Belgium. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Ghent? Explore the best places to visit in Ghent, Belgium.",
+        "keywords": [
+          "things to do in Ghent",
+          "Ghent Belgium travel guide",
+          "best places to visit in Ghent",
+          "Ghent landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Gravensteen Castle",
+          "wiki_title": "Gravensteen",
+          "lat": 51.056,
+          "lng": 3.722,
+          "order_index": 0,
+          "description": "Well-preserved medieval fortress.",
+          "seo_phrase": "Gravensteen Castle Ghent",
+          "seo_keywords": [
+            "castle",
+            "Ghent"
+          ],
+          "commons_file": "Gravensteen Gent.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Gravensteen_Gent.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "St. Bavo's Cathedral",
+          "wiki_title": "Saint Bavo's Cathedral, Ghent",
+          "lat": 51.053,
+          "lng": 3.725,
+          "order_index": 1,
+          "description": "Famous art-filled cathedral.",
+          "seo_phrase": "St. Bavo's Cathedral Ghent",
+          "seo_keywords": [
+            "Cathedral",
+            "Ghent",
+            "Altarpiece"
+          ],
+          "commons_file": "Sint-Baafskathedraal Gent.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Sint-Baafskathedraal_Gent.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Graslei and Korenlei",
+          "wiki_title": "Graslei and Korenlei",
+          "lat": 51.054,
+          "lng": 3.721,
+          "order_index": 2,
+          "description": "Beautiful canal views.",
+          "seo_phrase": "Graslei and Korenlei",
+          "seo_keywords": [
+            "Graslei",
+            "Korenlei",
+            "Ghent"
+          ],
+          "commons_file": "Graslei Gent.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Graslei_Gent.jpg",
+          "seo_priority": 92,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Belfry of Ghent",
+          "wiki_title": "Belfry of Ghent",
+          "lat": 51.053,
+          "lng": 3.723,
+          "order_index": 3,
+          "description": "Historic bell tower.",
+          "seo_phrase": "Belfry of Ghent",
+          "seo_keywords": [
+            "Belfry",
+            "Ghent"
+          ],
+          "commons_file": "Belfort Gent.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Belfort_Gent.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "St. Nicholas' Church",
+          "wiki_title": "St. Nicholas' Church, Ghent",
+          "lat": 51.053,
+          "lng": 3.722,
+          "order_index": 4,
+          "description": "Classic gothic architecture.",
+          "seo_phrase": "St. Nicholas' Church Ghent",
+          "seo_keywords": [
+            "St. Nicholas",
+            "Ghent"
+          ],
+          "commons_file": "Sint-Niklaaskerk Gent.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Sint-Niklaaskerk_Gent.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "MSK Gent (Museum of Fine Arts)",
+          "wiki_title": "Museum of Fine Arts, Ghent",
+          "lat": 51.041,
+          "lng": 3.729,
+          "order_index": 5,
+          "description": "Major art museum.",
+          "seo_phrase": "Fine Arts Museum Ghent",
+          "seo_keywords": [
+            "art museum",
+            "Ghent"
+          ],
+          "commons_file": "MSK Gent.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/MSK_Gent.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "SMAK (Municipal Museum of Contemporary Art)",
+          "wiki_title": "S.M.A.K",
+          "lat": 51.042,
+          "lng": 3.728,
+          "order_index": 6,
+          "description": "Modern art gallery.",
+          "seo_phrase": "SMAK Ghent",
+          "seo_keywords": [
+            "contemporary art",
+            "Ghent"
+          ],
+          "commons_file": "SMAK Gent.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/SMAK_Gent.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Design Museum Ghent",
+          "wiki_title": "Design Museum Ghent",
+          "lat": 51.056,
+          "lng": 3.72,
+          "order_index": 7,
+          "description": "Stylish design museum.",
+          "seo_phrase": "Design Museum Ghent",
+          "seo_keywords": [
+            "design museum",
+            "Ghent"
+          ],
+          "commons_file": "Design Museum Gent.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Design_Museum_Gent.jpg",
+          "seo_priority": 72,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Vrijdagmarkt",
+          "wiki_title": "Vrijdagmarkt (Ghent",
+          "lat": 51.056,
+          "lng": 3.725,
+          "order_index": 8,
+          "description": "Classic city plaza.",
+          "seo_phrase": "Vrijdagmarkt Ghent",
+          "seo_keywords": [
+            "Vrijdagmarkt",
+            "Ghent"
+          ],
+          "commons_file": "Vrijdagmarkt Gent.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Vrijdagmarkt_Gent.jpg",
+          "seo_priority": 70,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "St. Peter's Abbey",
+          "wiki_title": "St. Peter's Abbey, Ghent",
+          "lat": 51.043,
+          "lng": 3.731,
+          "order_index": 9,
+          "description": "Serene abbey site.",
+          "seo_phrase": "St. Peter's Abbey Ghent",
+          "seo_keywords": [
+            "abbey",
+            "Ghent"
+          ],
+          "commons_file": "Sint-Pietersabdij Gent.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sint-Pietersabdij_Gent.jpg",
+          "seo_priority": 68,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Liège",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Liège",
+      "seo": {
+        "title": "Top 10 Things to Do in Liège, Belgium",
+        "description": "Discover 10 must-see landmarks in Liège, Belgium. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Liège? Explore the best places to visit in Liège, Belgium.",
+        "keywords": [
+          "things to do in Liège",
+          "Liège Belgium travel guide",
+          "best places to visit in Liège",
+          "Liège landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Liège-Guillemins Railway Station",
+          "wiki_title": "Liège-Guillemins railway station",
+          "lat": 50.625,
+          "lng": 5.564,
+          "order_index": 0,
+          "description": "Stunning modern design.",
+          "seo_phrase": "Liège-Guillemins Station",
+          "seo_keywords": [
+            "railway station",
+            "Liège"
+          ],
+          "commons_file": "Liege-Guillemins Station.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Liege-Guillemins_Station.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Montagne de Bueren",
+          "wiki_title": "Montagne de Bueren",
+          "lat": 50.645,
+          "lng": 5.578,
+          "order_index": 1,
+          "description": "Impressive historic stairs.",
+          "seo_phrase": "Montagne de Bueren",
+          "seo_keywords": [
+            "stairs",
+            "Liège"
+          ],
+          "commons_file": "Montagne de Bueren.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Montagne_de_Bueren.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Prince-Bishops' Palace",
+          "wiki_title": "Prince-Bishops' Palace of Liège",
+          "lat": 50.643,
+          "lng": 5.575,
+          "order_index": 2,
+          "description": "Grand historical building.",
+          "seo_phrase": "Prince-Bishops' Palace Liège",
+          "seo_keywords": [
+            "Palace",
+            "Liège"
+          ],
+          "commons_file": "Palais des Prince-Eveques Liege.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Palais_des_Prince-Eveques_Liege.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Musée de la Boverie",
+          "wiki_title": "La Boverie",
+          "lat": 50.631,
+          "lng": 5.575,
+          "order_index": 3,
+          "description": "Fine art and city museum.",
+          "seo_phrase": "La Boverie Museum",
+          "seo_keywords": [
+            "Boverie",
+            "Liège"
+          ],
+          "commons_file": "La Boverie Liege.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/La_Boverie_Liege.jpg",
+          "seo_priority": 78,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Collegiate Church of St. Bartholomew",
+          "wiki_title": "Collegiate Church of St. Bartholomew, Liège",
+          "lat": 50.645,
+          "lng": 5.581,
+          "order_index": 4,
+          "description": "Ancient stone church.",
+          "seo_phrase": "St. Bartholomew's Church",
+          "seo_keywords": [
+            "St. Bartholomew",
+            "Liège"
+          ],
+          "commons_file": "Sint-Bartholomeuskerk Luik.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Sint-Bartholomeuskerk_Luik.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Place du Marché",
+          "wiki_title": "Place du Marché (Liège",
+          "lat": 50.644,
+          "lng": 5.577,
+          "order_index": 5,
+          "description": "Classic city square.",
+          "seo_phrase": "Place du Marché Liège",
+          "seo_keywords": [
+            "Place du Marché",
+            "Liège"
+          ],
+          "commons_file": "Place du Marche Liege.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Place_du_Marche_Liege.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Grand Curtius Museum",
+          "wiki_title": "Grand Curtius",
+          "lat": 50.646,
+          "lng": 5.58,
+          "order_index": 6,
+          "description": "Comprehensive history museum.",
+          "seo_phrase": "Grand Curtius Museum",
+          "seo_keywords": [
+            "Grand Curtius",
+            "Liège"
+          ],
+          "commons_file": "Grand Curtius Liege.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Grand_Curtius_Liege.jpg",
+          "seo_priority": 72,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "St. Paul's Cathedral",
+          "wiki_title": "Liège Cathedral",
+          "lat": 50.641,
+          "lng": 5.572,
+          "order_index": 7,
+          "description": "Beautiful city cathedral.",
+          "seo_phrase": "St. Paul's Cathedral Liège",
+          "seo_keywords": [
+            "Cathedral",
+            "Liège"
+          ],
+          "commons_file": "Cathedrale Saint Paul Liege.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Cathedrale_Saint_Paul_Liege.jpg",
+          "seo_priority": 70,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Opera Royal de Wallonie",
+          "wiki_title": "Opéra royal de Wallonie",
+          "lat": 50.641,
+          "lng": 5.574,
+          "order_index": 8,
+          "description": "Elegant opera theater.",
+          "seo_phrase": "Royal Opera of Wallonia",
+          "seo_keywords": [
+            "Opera",
+            "Liège"
+          ],
+          "commons_file": "Opera Royal de Wallonie.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Opera_Royal_de_Wallonie.jpg",
+          "seo_priority": 70,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Parc de la Boverie",
+          "wiki_title": "Parc de la Boverie",
+          "lat": 50.63,
+          "lng": 5.576,
+          "order_index": 9,
+          "description": "Beautiful riverside park.",
+          "seo_phrase": "Parc de la Boverie",
+          "seo_keywords": [
+            "park",
+            "Liège"
+          ],
+          "commons_file": "Parc de la Boverie.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Parc_de_la_Boverie.jpg",
+          "seo_priority": 68,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Namur",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Namur",
+      "seo": {
+        "title": "Top 10 Things to Do in Namur, Belgium",
+        "description": "Discover 10 must-see landmarks in Namur, Belgium. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Namur? Explore the best places to visit in Namur, Belgium.",
+        "keywords": [
+          "things to do in Namur",
+          "Namur Belgium travel guide",
+          "best places to visit in Namur",
+          "Namur landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Citadel of Namur",
+          "wiki_title": "Citadel of Namur",
+          "lat": 50.457,
+          "lng": 4.851,
+          "order_index": 0,
+          "description": "Imposing historic citadel.",
+          "seo_phrase": "Citadel of Namur",
+          "seo_keywords": [
+            "citadel",
+            "Namur"
+          ],
+          "commons_file": "Citadelle de Namur.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Citadelle_de_Namur.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Saint Aubin Cathedral",
+          "wiki_title": "Saint Aubin Cathedral, Namur",
+          "lat": 50.463,
+          "lng": 4.863,
+          "order_index": 1,
+          "description": "Elegant cathedral.",
+          "seo_phrase": "Saint Aubin Cathedral Namur",
+          "seo_keywords": [
+            "Cathedral",
+            "Namur"
+          ],
+          "commons_file": "Cathedrale Saint Aubin Namur.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Cathedrale_Saint_Aubin_Namur.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Félicien Rops Museum",
+          "wiki_title": "Félicien Rops Museum",
+          "lat": 50.464,
+          "lng": 4.866,
+          "order_index": 2,
+          "description": "Artist-focused museum.",
+          "seo_phrase": "Félicien Rops Museum",
+          "seo_keywords": [
+            "Rops",
+            "museum",
+            "Namur"
+          ],
+          "commons_file": "Musee Felicien Rops.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Musee_Felicien_Rops.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Saint-Loup Church",
+          "wiki_title": "Church of Saint-Loup, Namur",
+          "lat": 50.465,
+          "lng": 4.866,
+          "order_index": 3,
+          "description": "Stunning baroque interior.",
+          "seo_phrase": "Saint-Loup Church Namur",
+          "seo_keywords": [
+            "Church",
+            "Namur"
+          ],
+          "commons_file": "Eglise Saint-Loup Namur.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Eglise_Saint-Loup_Namur.jpg",
+          "seo_priority": 72,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Belfry of Namur",
+          "wiki_title": "Belfry of Namur",
+          "lat": 50.464,
+          "lng": 4.865,
+          "order_index": 4,
+          "description": "Ancient bell tower.",
+          "seo_phrase": "Belfry of Namur",
+          "seo_keywords": [
+            "Belfry",
+            "Namur"
+          ],
+          "commons_file": "Beffroi de Namur.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Beffroi_de_Namur.jpg",
+          "seo_priority": 70,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Place du Vieux Marché",
+          "wiki_title": "Place du Vieux Marché (Namur",
+          "lat": 50.465,
+          "lng": 4.867,
+          "order_index": 5,
+          "description": "Classic city square.",
+          "seo_phrase": "Place du Vieux Marché Namur",
+          "seo_keywords": [
+            "Vieux Marché",
+            "Namur"
+          ],
+          "commons_file": "Place du Vieux Marche Namur.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Place_du_Vieux_Marche_Namur.jpg",
+          "seo_priority": 68,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Confluence of Sambre and Meuse",
+          "wiki_title": "Namur",
+          "lat": 50.46,
+          "lng": 4.856,
+          "order_index": 6,
+          "description": "Scenic river confluence.",
+          "seo_phrase": "Sambre and Meuse Confluence",
+          "seo_keywords": [
+            "rivers",
+            "Namur"
+          ],
+          "commons_file": "Confluence Namur.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Confluence_Namur.jpg",
+          "seo_priority": 68,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Archeological Museum of Namur",
+          "wiki_title": "Archeological Museum of Namur",
+          "lat": 50.463,
+          "lng": 4.864,
+          "order_index": 7,
+          "description": "Fascinating history museum.",
+          "seo_phrase": "Archeological Museum Namur",
+          "seo_keywords": [
+            "archeology",
+            "museum",
+            "Namur"
+          ],
+          "commons_file": "Musee Archeologique Namur.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Musee_Archeologique_Namur.jpg",
+          "seo_priority": 65,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Jardin du Maïeur",
+          "wiki_title": "Jardin du Maïeur",
+          "lat": 50.464,
+          "lng": 4.865,
+          "order_index": 8,
+          "description": "Peaceful city garden.",
+          "seo_phrase": "Jardin du Maïeur Namur",
+          "seo_keywords": [
+            "garden",
+            "Namur"
+          ],
+          "commons_file": "Jardin du Maieur Namur.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Jardin_du_Maieur_Namur.jpg",
+          "seo_priority": 62,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Theatre de Namur",
+          "wiki_title": "Théâtre de Namur",
+          "lat": 50.464,
+          "lng": 4.867,
+          "order_index": 9,
+          "description": "Cultural theater spot.",
+          "seo_phrase": "Theatre de Namur",
+          "seo_keywords": [
+            "theatre",
+            "Namur"
+          ],
+          "commons_file": "Theatre de Namur.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Theatre_de_Namur.jpg",
+          "seo_priority": 60,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Mechelen",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Mechelen",
+      "seo": {
+        "title": "Top 10 Things to Do in Mechelen, Belgium",
+        "description": "Discover 10 must-see landmarks in Mechelen, Belgium. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Mechelen? Explore the best places to visit in Mechelen, Belgium.",
+        "keywords": [
+          "things to do in Mechelen",
+          "Mechelen Belgium travel guide",
+          "best places to visit in Mechelen",
+          "Mechelen landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "St. Rumbold's Cathedral",
+          "wiki_title": "St. Rumbold's Cathedral, Mechelen",
+          "lat": 51.028,
+          "lng": 4.479,
+          "order_index": 0,
+          "description": "Iconic cathedral tower.",
+          "seo_phrase": "St. Rumbold's Cathedral Mechelen",
+          "seo_keywords": [
+            "Cathedral",
+            "Mechelen"
+          ],
+          "commons_file": "Sint-Romboutskathedraal Mechelen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Sint-Romboutskathedraal_Mechelen.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Grote Markt Mechelen",
+          "wiki_title": "Grote Markt (Mechelen",
+          "lat": 51.028,
+          "lng": 4.478,
+          "order_index": 1,
+          "description": "Vibrant market square.",
+          "seo_phrase": "Grote Markt Mechelen",
+          "seo_keywords": [
+            "Grote Markt",
+            "Mechelen"
+          ],
+          "commons_file": "Grote Markt Mechelen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Grote_Markt_Mechelen.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Kazerne Dossin",
+          "wiki_title": "Kazerne Dossin",
+          "lat": 51.033,
+          "lng": 4.475,
+          "order_index": 2,
+          "description": "Historic human rights museum.",
+          "seo_phrase": "Kazerne Dossin",
+          "seo_keywords": [
+            "Holocaust museum",
+            "Mechelen"
+          ],
+          "commons_file": "Kazerne Dossin.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Kazerne_Dossin.jpg",
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Mechelen Town Hall",
+          "wiki_title": "Mechelen Town Hall",
+          "lat": 51.028,
+          "lng": 4.478,
+          "order_index": 3,
+          "description": "Grand city hall.",
+          "seo_phrase": "Mechelen Town Hall",
+          "seo_keywords": [
+            "Town Hall",
+            "Mechelen"
+          ],
+          "commons_file": "Stadhuis Mechelen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Stadhuis_Mechelen.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Begijnhof Mechelen",
+          "wiki_title": "Beguinage, Mechelen",
+          "lat": 51.026,
+          "lng": 4.475,
+          "order_index": 4,
+          "description": "Serene Beguinage.",
+          "seo_phrase": "Begijnhof Mechelen",
+          "seo_keywords": [
+            "Begijnhof",
+            "Mechelen"
+          ],
+          "commons_file": "Begijnhof Mechelen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Begijnhof_Mechelen.jpg",
+          "seo_priority": 72,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Hof van Busleyden",
+          "wiki_title": "Hof van Busleyden",
+          "lat": 51.029,
+          "lng": 4.476,
+          "order_index": 5,
+          "description": "Beautiful city museum.",
+          "seo_phrase": "Hof van Busleyden Museum",
+          "seo_keywords": [
+            "Hof van Busleyden",
+            "Mechelen"
+          ],
+          "commons_file": "Hof van Busleyden.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Hof_van_Busleyden.jpg",
+          "seo_priority": 70,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Dijlepad",
+          "wiki_title": "Dijlepad",
+          "lat": 51.028,
+          "lng": 4.479,
+          "order_index": 6,
+          "description": "Picturesque river walk.",
+          "seo_phrase": "Dijlepad River Walk",
+          "seo_keywords": [
+            "river walk",
+            "Mechelen"
+          ],
+          "commons_file": "Dijlepad Mechelen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Dijlepad_Mechelen.jpg",
+          "seo_priority": 68,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Palace of Margaret of Austria",
+          "wiki_title": "Palace of Margaret of Austria",
+          "lat": 51.03,
+          "lng": 4.474,
+          "order_index": 7,
+          "description": "Grand historical palace.",
+          "seo_phrase": "Palace of Margaret of Austria",
+          "seo_keywords": [
+            "Palace",
+            "Mechelen"
+          ],
+          "commons_file": "Paleis Margareta van Oostenrijk.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Paleis_Margareta_van_Oostenrijk.jpg",
+          "seo_priority": 65,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Technopolis",
+          "wiki_title": "Technopolis (Mechelen",
+          "lat": 51.042,
+          "lng": 4.453,
+          "order_index": 8,
+          "description": "Science center.",
+          "seo_phrase": "Technopolis",
+          "seo_keywords": [
+            "science museum",
+            "Mechelen"
+          ],
+          "commons_file": "Technopolis Mechelen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Technopolis_Mechelen.jpg",
+          "seo_priority": 62,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Vrijbroekpark",
+          "wiki_title": "Vrijbroekpark",
+          "lat": 51.035,
+          "lng": 4.492,
+          "order_index": 9,
+          "description": "Spacious city park.",
+          "seo_phrase": "Vrijbroekpark",
+          "seo_keywords": [
+            "park",
+            "Mechelen"
+          ],
+          "commons_file": "Vrijbroekpark Mechelen.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Vrijbroekpark_Mechelen.jpg",
+          "seo_priority": 60,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Mons",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Mons",
+      "seo": {
+        "title": "Top 10 Things to Do in Mons, Belgium",
+        "description": "Discover 10 must-see landmarks in Mons, Belgium. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Mons? Explore the best places to visit in Mons, Belgium.",
+        "keywords": [
+          "things to do in Mons",
+          "Mons Belgium travel guide",
+          "best places to visit in Mons",
+          "Mons landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Belfry of Mons",
+          "wiki_title": "Belfry of Mons",
+          "lat": 50.45,
+          "lng": 3.955,
+          "order_index": 0,
+          "description": "Historic bell tower.",
+          "seo_phrase": "Belfry of Mons",
+          "seo_keywords": [
+            "Belfry",
+            "Mons"
+          ],
+          "commons_file": "Beffroi de Mons.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Beffroi_de_Mons.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Grand Place Mons",
+          "wiki_title": "Grand Place (Mons",
+          "lat": 50.454,
+          "lng": 3.954,
+          "order_index": 1,
+          "description": "Vibrant market square.",
+          "seo_phrase": "Grand Place Mons",
+          "seo_keywords": [
+            "Grand Place",
+            "Mons"
+          ],
+          "commons_file": "Grand Place Mons.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Grand_Place_Mons.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Collegiale Sainte-Waudru",
+          "wiki_title": "Collegiate Church of St. Waudru",
+          "lat": 50.451,
+          "lng": 3.953,
+          "order_index": 2,
+          "description": "Historic gothic landmark.",
+          "seo_phrase": "Sainte-Waudru Church Mons",
+          "seo_keywords": [
+            "Church",
+            "Mons"
+          ],
+          "commons_file": "Collegiale Sainte-Waudru.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Collegiale_Sainte-Waudru.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Mons Memorial Museum",
+          "wiki_title": "Mons Memorial Museum",
+          "lat": 50.452,
+          "lng": 3.956,
+          "order_index": 3,
+          "description": "History and war museum.",
+          "seo_phrase": "Mons Memorial Museum",
+          "seo_keywords": [
+            "museum",
+            "Mons"
+          ],
+          "commons_file": "Mons Memorial Museum.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Mons_Memorial_Museum.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Musée des Beaux-Arts",
+          "wiki_title": "Musée des Beaux-Arts de Mons",
+          "lat": 50.455,
+          "lng": 3.952,
+          "order_index": 4,
+          "description": "Fine art museum.",
+          "seo_phrase": "Fine Arts Museum Mons",
+          "seo_keywords": [
+            "art museum",
+            "Mons"
+          ],
+          "commons_file": "Musee Beaux Arts Mons.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Musee_Beaux_Arts_Mons.jpg",
+          "seo_priority": 72,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Mundaneum",
+          "wiki_title": "Mundaneum",
+          "lat": 50.456,
+          "lng": 3.955,
+          "order_index": 5,
+          "description": "Unique knowledge museum.",
+          "seo_phrase": "Mundaneum",
+          "seo_keywords": [
+            "Mundaneum",
+            "Mons"
+          ],
+          "commons_file": "Mundaneum Mons.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Mundaneum_Mons.jpg",
+          "seo_priority": 70,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Van Gogh House",
+          "wiki_title": "Van Gogh House (Cuesmes",
+          "lat": 50.445,
+          "lng": 3.915,
+          "order_index": 6,
+          "description": "Historic house.",
+          "seo_phrase": "Van Gogh House Mons",
+          "seo_keywords": [
+            "Van Gogh",
+            "Mons"
+          ],
+          "commons_file": "Maison Van Gogh Mons.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Maison_Van_Gogh_Mons.jpg",
+          "seo_priority": 68,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "City Hall of Mons",
+          "wiki_title": "Hôtel de Ville de Mons",
+          "lat": 50.454,
+          "lng": 3.953,
+          "order_index": 7,
+          "description": "Historic town hall.",
+          "seo_phrase": "Mons City Hall",
+          "seo_keywords": [
+            "Town Hall",
+            "Mons"
+          ],
+          "commons_file": "Hotel de Ville Mons.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Hotel_de_Ville_Mons.jpg",
+          "seo_priority": 65,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Square des Martyrs",
+          "wiki_title": "Mons",
+          "lat": 50.454,
+          "lng": 3.957,
+          "order_index": 8,
+          "description": "City plaza.",
+          "seo_phrase": "Square des Martyrs",
+          "seo_keywords": [
+            "square",
+            "Mons"
+          ],
+          "commons_file": "Square des Martyrs Mons.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Square_des_Martyrs_Mons.jpg",
+          "seo_priority": 62,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Jardin du Mayeur",
+          "wiki_title": "Mons",
+          "lat": 50.454,
+          "lng": 3.953,
+          "order_index": 9,
+          "description": "Peaceful garden.",
+          "seo_phrase": "Jardin du Mayeur",
+          "seo_keywords": [
+            "garden",
+            "Mons"
+          ],
+          "commons_file": "Jardin du Mayeur Mons.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Jardin_du_Mayeur_Mons.jpg",
+          "seo_priority": 60,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Tournai",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Tournai",
+      "seo": {
+        "title": "Top 10 Things to Do in Tournai, Belgium",
+        "description": "Discover 10 must-see landmarks in Tournai, Belgium. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Tournai? Explore the best places to visit in Tournai, Belgium.",
+        "keywords": [
+          "things to do in Tournai",
+          "Tournai Belgium travel guide",
+          "best places to visit in Tournai",
+          "Tournai landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Cathedral of Our Lady of Tournai",
+          "wiki_title": "Cathedral of Our Lady of Tournai",
+          "lat": 50.606,
+          "lng": 3.388,
+          "order_index": 0,
+          "description": "Historic cathedral.",
+          "seo_phrase": "Tournai Cathedral",
+          "seo_keywords": [
+            "Cathedral",
+            "Tournai"
+          ],
+          "commons_file": "Cathedrale Tournai.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Cathedrale_Tournai.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Belfry of Tournai",
+          "wiki_title": "Belfry of Tournai",
+          "lat": 50.605,
+          "lng": 3.387,
+          "order_index": 1,
+          "description": "Ancient bell tower.",
+          "seo_phrase": "Belfry of Tournai",
+          "seo_keywords": [
+            "Belfry",
+            "Tournai"
+          ],
+          "commons_file": "Beffroi Tournai.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Beffroi_Tournai.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Grand Place Tournai",
+          "wiki_title": "Grand Place (Tournai",
+          "lat": 50.605,
+          "lng": 3.386,
+          "order_index": 2,
+          "description": "Vibrant market plaza.",
+          "seo_phrase": "Grand Place Tournai",
+          "seo_keywords": [
+            "Grand Place",
+            "Tournai"
+          ],
+          "commons_file": "Grand Place Tournai.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Grand_Place_Tournai.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Fine Arts Museum of Tournai",
+          "wiki_title": "Museum of Fine Arts of Tournai",
+          "lat": 50.608,
+          "lng": 3.384,
+          "order_index": 3,
+          "description": "Renowned art museum.",
+          "seo_phrase": "Fine Arts Museum Tournai",
+          "seo_keywords": [
+            "art museum",
+            "Tournai"
+          ],
+          "commons_file": "Musee Beaux Arts Tournai.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Musee_Beaux_Arts_Tournai.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Pont des Trous",
+          "wiki_title": "Pont des Trous",
+          "lat": 50.608,
+          "lng": 3.382,
+          "order_index": 4,
+          "description": "Ancient stone bridge.",
+          "seo_phrase": "Pont des Trous",
+          "seo_keywords": [
+            "bridge",
+            "Tournai"
+          ],
+          "commons_file": "Pont des Trous Tournai.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Pont_des_Trous_Tournai.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Natural History Museum Tournai",
+          "wiki_title": "Natural History Museum of Tournai",
+          "lat": 50.604,
+          "lng": 3.388,
+          "order_index": 5,
+          "description": "Fascinating science museum.",
+          "seo_phrase": "Natural History Museum Tournai",
+          "seo_keywords": [
+            "science museum",
+            "Tournai"
+          ],
+          "commons_file": "Musee Histoire Naturelle Tournai.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Musee_Histoire_Naturelle_Tournai.jpg",
+          "seo_priority": 70,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Museum of Folklore",
+          "wiki_title": "Museum of Folklore (Tournai",
+          "lat": 50.606,
+          "lng": 3.385,
+          "order_index": 6,
+          "description": "Local heritage museum.",
+          "seo_phrase": "Folklore Museum Tournai",
+          "seo_keywords": [
+            "folklore",
+            "museum",
+            "Tournai"
+          ],
+          "commons_file": "Musee Folklore Tournai.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Musee_Folklore_Tournai.jpg",
+          "seo_priority": 68,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Cloth Hall (Halle aux Draps)",
+          "wiki_title": "Tournai",
+          "lat": 50.605,
+          "lng": 3.387,
+          "order_index": 7,
+          "description": "Old market hall.",
+          "seo_phrase": "Cloth Hall Tournai",
+          "seo_keywords": [
+            "Cloth Hall",
+            "Tournai"
+          ],
+          "commons_file": "Halle aux Draps Tournai.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Halle_aux_Draps_Tournai.jpg",
+          "seo_priority": 65,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Parc Communal",
+          "wiki_title": "Tournai",
+          "lat": 50.607,
+          "lng": 3.382,
+          "order_index": 8,
+          "description": "Beautiful city park.",
+          "seo_phrase": "Parc Communal",
+          "seo_keywords": [
+            "park",
+            "Tournai"
+          ],
+          "commons_file": "Parc Communal Tournai.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Parc_Communal_Tournai.jpg",
+          "seo_priority": 62,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Saint-Brice Church",
+          "wiki_title": "Saint-Brice Church, Tournai",
+          "lat": 50.607,
+          "lng": 3.389,
+          "order_index": 9,
+          "description": "Old religious monument.",
+          "seo_phrase": "Saint-Brice Church",
+          "seo_keywords": [
+            "Church",
+            "Tournai"
+          ],
+          "commons_file": "Eglise Saint-Brice Tournai.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Eglise_Saint-Brice_Tournai.jpg",
+          "seo_priority": 60,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        }
+      ]
+    },
+    {
+      "city": "Leuven",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "history",
+        "culture"
+      ],
+      "wiki_title": "Leuven",
+      "seo": {
+        "title": "Top 10 Things to Do in Leuven, Belgium",
+        "description": "Discover 10 must-see landmarks in Leuven, Belgium. Free GPS routes, photos, and history.",
+        "intro": "Planning a trip to Leuven? Explore the best places to visit in Leuven, Belgium.",
+        "keywords": [
+          "things to do in Leuven",
+          "Leuven Belgium travel guide",
+          "best places to visit in Leuven",
+          "Leuven landmarks"
+        ]
+      },
+      "places": [
+        {
+          "name": "Leuven Town Hall",
+          "wiki_title": "Leuven Town Hall",
+          "lat": 50.879,
+          "lng": 4.7,
+          "order_index": 0,
+          "description": "Stunning gothic masterpiece.",
+          "seo_phrase": "Leuven Town Hall",
+          "seo_keywords": [
+            "Town Hall",
+            "Leuven"
+          ],
+          "commons_file": "Stadhuis Leuven.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Stadhuis_Leuven.jpg",
+          "seo_priority": 98,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Oude Markt",
+          "wiki_title": "Oude Markt (Leuven",
+          "lat": 50.879,
+          "lng": 4.703,
+          "order_index": 1,
+          "description": "Lively historic market.",
+          "seo_phrase": "Oude Markt Leuven",
+          "seo_keywords": [
+            "Oude Markt",
+            "Leuven"
+          ],
+          "commons_file": "Oude Markt Leuven.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Oude_Markt_Leuven.jpg",
+          "seo_priority": 95,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "St. Peter's Church",
+          "wiki_title": "St. Peter's Church, Leuven",
+          "lat": 50.879,
+          "lng": 4.701,
+          "order_index": 2,
+          "description": "Beautiful city church.",
+          "seo_phrase": "St. Peter's Church Leuven",
+          "seo_keywords": [
+            "Church",
+            "Leuven"
+          ],
+          "commons_file": "Sint-Pieterskerk Leuven.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sint-Pieterskerk_Leuven.jpg",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Leuven University Library",
+          "wiki_title": "University Library of KU Leuven",
+          "lat": 50.878,
+          "lng": 4.705,
+          "order_index": 3,
+          "description": "Stunning library.",
+          "seo_phrase": "Leuven University Library",
+          "seo_keywords": [
+            "library",
+            "Leuven"
+          ],
+          "commons_file": "Universiteitsbibliotheek Leuven.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Universiteitsbibliotheek_Leuven.jpg",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Groot Begijnhof",
+          "wiki_title": "Groot Begijnhof, Leuven",
+          "lat": 50.873,
+          "lng": 4.7,
+          "order_index": 4,
+          "description": "Serene Beguinage.",
+          "seo_phrase": "Groot Begijnhof Leuven",
+          "seo_keywords": [
+            "Begijnhof",
+            "Leuven"
+          ],
+          "commons_file": "Groot Begijnhof Leuven.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Groot_Begijnhof_Leuven.jpg",
+          "seo_priority": 85,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Botanical Garden Leuven",
+          "wiki_title": "Hortus Botanicus Lovaniensis",
+          "lat": 50.875,
+          "lng": 4.707,
+          "order_index": 5,
+          "description": "Historic garden.",
+          "seo_phrase": "Botanical Garden Leuven",
+          "seo_keywords": [
+            "garden",
+            "Leuven"
+          ],
+          "commons_file": "Kruidtuin Leuven.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Kruidtuin_Leuven.jpg",
+          "seo_priority": 80,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 3,
+          "nearby_places": []
+        },
+        {
+          "name": "M-Museum Leuven",
+          "wiki_title": "M - Museum Leuven",
+          "lat": 50.879,
+          "lng": 4.703,
+          "order_index": 6,
+          "description": "Renowned art museum.",
+          "seo_phrase": "M-Museum Leuven",
+          "seo_keywords": [
+            "art museum",
+            "Leuven"
+          ],
+          "commons_file": "M Museum Leuven.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/M_Museum_Leuven.jpg",
+          "seo_priority": 78,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Parc Abbey",
+          "wiki_title": "Parc Abbey",
+          "lat": 50.867,
+          "lng": 4.717,
+          "order_index": 7,
+          "description": "Stunning historic abbey.",
+          "seo_phrase": "Parc Abbey Leuven",
+          "seo_keywords": [
+            "abbey",
+            "Leuven"
+          ],
+          "commons_file": "Abdij van Park.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Abdij_van_Park.jpg",
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Fonske Statue",
+          "wiki_title": "Fonske",
+          "lat": 50.879,
+          "lng": 4.701,
+          "order_index": 8,
+          "description": "Iconic city statue.",
+          "seo_phrase": "Fonske Statue",
+          "seo_keywords": [
+            "statue",
+            "Leuven"
+          ],
+          "commons_file": "Fonske Leuven.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Fonske_Leuven.jpg",
+          "seo_priority": 70,
+          "search_intent": [
+            "local",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Arenberg Castle",
+          "wiki_title": "Arenberg Castle",
+          "lat": 50.864,
+          "lng": 4.679,
+          "order_index": 9,
+          "description": "Grand historic castle.",
+          "seo_phrase": "Arenberg Castle",
+          "seo_keywords": [
+            "castle",
+            "Leuven"
+          ],
+          "commons_file": "Kasteel Arenberg.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Kasteel_Arenberg.jpg",
+          "seo_priority": 68,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "Belgium Scenic Road Trip",
+    "subtitle": "Explore Belgium beyond the cities — nature, coastlines, and scenic routes.",
+    "wiki_title": "Belgium",
+    "hero_image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Grand_Place_Brussels.jpg",
+    "totalDays": 10,
+    "seo": {
+      "title": "Belgium Road Trip Adventure",
+      "description": "Plan a Belgium road trip with GPS stops and scenic routes.",
+      "intro": "Explore Belgium beyond the cities with this adventure route.",
+      "keywords": [
+        "Belgium road trip",
+        "Belgium by car"
+      ]
+    },
+    "places": [
+      {
+        "name": "Hoge Veluwe National Park (Belgium equivalent - Hautes Fagnes)",
+        "wiki_title": "High Fens",
+        "region": "Belgium",
+        "lat": 50.533,
+        "lng": 6.1,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Untamed wilderness.",
+        "seo_phrase": "High Fens Nature Reserve",
+        "seo_keywords": [
+          "High Fens",
+          "hiking",
+          "Belgium"
+        ],
+        "commons_file": "Hautes Fagnes 1.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Hautes_Fagnes_1.jpg",
+        "seo_priority": 90,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Dinant (River Meuse adventure)",
+        "wiki_title": "Dinant",
+        "region": "Belgium",
+        "lat": 50.262,
+        "lng": 4.91,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Scenic river valley.",
+        "seo_phrase": "Dinant and Meuse River",
+        "seo_keywords": [
+          "Dinant",
+          "kayaking",
+          "adventure"
+        ],
+        "commons_file": "Dinant Meuse.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Dinant_Meuse.jpg",
+        "seo_priority": 95,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Durbuy (The smallest city)",
+        "wiki_title": "Durbuy",
+        "region": "Belgium",
+        "lat": 50.35,
+        "lng": 5.454,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Exciting adventure destination.",
+        "seo_phrase": "Durbuy Adventure",
+        "seo_keywords": [
+          "Durbuy",
+          "adventure sports"
+        ],
+        "commons_file": "Durbuy Belgium.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Durbuy_Belgium.jpg",
+        "seo_priority": 88,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Semois Valley",
+        "wiki_title": "Semois",
+        "region": "Belgium",
+        "lat": 49.855,
+        "lng": 5.25,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Beautiful river valley.",
+        "seo_phrase": "Semois Valley",
+        "seo_keywords": [
+          "Semois",
+          "kayaking",
+          "Ardennes"
+        ],
+        "commons_file": "Semois Valley.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Semois_Valley.jpg",
+        "seo_priority": 85,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Grotten van Han (Han Caves)",
+        "wiki_title": "Grottes de Han",
+        "region": "Belgium",
+        "lat": 50.121,
+        "lng": 5.199,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Amazing cave network.",
+        "seo_phrase": "Grotten van Han",
+        "seo_keywords": [
+          "caves",
+          "Han",
+          "adventure"
+        ],
+        "commons_file": "Grotten van Han.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Grotten_van_Han.jpg",
+        "seo_priority": 92,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Ardennes Regional Park",
+        "wiki_title": "Ardennes",
+        "region": "Belgium",
+        "lat": 50.25,
+        "lng": 5.5,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Dense forest wilderness.",
+        "seo_phrase": "Ardennes Forest",
+        "seo_keywords": [
+          "Ardennes",
+          "hiking",
+          "Belgium"
+        ],
+        "commons_file": "Ardennes Forest.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Ardennes_Forest.jpg",
+        "seo_priority": 95,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Signal de Botrange",
+        "wiki_title": "Signal de Botrange",
+        "region": "Belgium",
+        "lat": 50.503,
+        "lng": 6.095,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Belgium's highest peak.",
+        "seo_phrase": "Signal de Botrange",
+        "seo_keywords": [
+          "Signal de Botrange",
+          "highest point"
+        ],
+        "commons_file": "Signal de Botrange.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Signal_de_Botrange.jpg",
+        "seo_priority": 80,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Lakes of Eau d'Heure",
+        "wiki_title": "Lacs de l'Eau d'Heure",
+        "region": "Belgium",
+        "lat": 50.188,
+        "lng": 4.412,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Great lake adventure.",
+        "seo_phrase": "Lakes of Eau d'Heure",
+        "seo_keywords": [
+          "lakes",
+          "water sports",
+          "Belgium"
+        ],
+        "commons_file": "Eau dHeure Lakes.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Eau_dHeure_Lakes.jpg",
+        "seo_priority": 85,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Fagne de Malchamps",
+        "wiki_title": "Fagne de Malchamps",
+        "region": "Belgium",
+        "lat": 50.485,
+        "lng": 5.925,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Special bog ecosystem.",
+        "seo_phrase": "Fagne de Malchamps",
+        "seo_keywords": [
+          "bog",
+          "nature",
+          "Belgium"
+        ],
+        "commons_file": "Fagne de Malchamps.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Fagne_de_Malchamps.jpg",
+        "seo_priority": 75,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      },
+      {
+        "name": "Rochefort (Speleology & Nature)",
+        "wiki_title": "Rochefort, Belgium",
+        "region": "Belgium",
+        "lat": 50.165,
+        "lng": 5.222,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "hidden_gem",
+          "adventure",
+          "spring",
+          "summer",
+          "autumn"
+        ],
+        "description": "Speleology hotspot.",
+        "seo_phrase": "Rochefort Caves",
+        "seo_keywords": [
+          "Rochefort",
+          "caving",
+          "Ardennes"
+        ],
+        "commons_file": "Rochefort Belgium.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Rochefort_Belgium.jpg",
+        "seo_priority": 78,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4,
+        "type": "nature"
+      }
+    ]
+  }
+}

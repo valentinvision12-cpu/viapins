@@ -1,0 +1,4248 @@
+{
+  "version": 2,
+  "country": "Belarus",
+  "published": true,
+  "cities": [
+    {
+      "city": "Minsk",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "wiki_title": "Minsk",
+      "seo": {
+        "title": "Minsk Travel Guide — Top Attractions in Belarus Capital",
+        "description": "Explore Minsk, Belarus: Soviet grandeur, green boulevards, museums, and the iconic National Library.",
+        "intro": "Belarus capital blending Stalinist architecture, parks, and a lively café culture.",
+        "keywords": [
+          "things to do in Minsk",
+          "Minsk Belarus travel guide",
+          "best places to visit in Minsk",
+          "Minsk landmarks",
+          "Minsk itinerary"
+        ]
+      },
+      "places": [
+        {
+          "name": "National Library of Belarus",
+          "wiki_title": "National Library of Belarus",
+          "lat": 53.931421,
+          "lng": 27.645844,
+          "order_index": 0,
+          "description": "The National Library of Belarus (Belarusian: Нацыянальная бібліятэка Беларусі, romanized: Natsyyanal'naya bibliyateka Byelarusi, Russian: Национальная библиотека Беларуси, romanized: Natsional'naya biblioteka Belarusi...",
+          "seo_phrase": "National Library of Belarus",
+          "seo_keywords": [
+            "National Library of Belarus",
+            "Minsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Národní_knihovna,_Minsk_-_panoramio.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/N%C3%A1rodn%C3%AD_knihovna%2C_Minsk_-_panoramio.jpg?width=900",
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Independence Square, Minsk",
+            "Church of Saints Simon and Helena",
+            "Island of Tears"
+          ]
+        },
+        {
+          "name": "Independence Square, Minsk",
+          "wiki_title": "Independence Square, Minsk",
+          "lat": 53.895555555556,
+          "lng": 27.547777777778,
+          "order_index": 1,
+          "description": "Independence Square (Belarusian: Плошча Незалежнасці, Belarusian pronunciation: [ˈpɫoʂt͡ʂa nʲezaˈlʲeʐnasʲt͡sʲi], Russian: Площадь Независимости, romanized: Ploshchad Nezavisimosti) is a square in Minsk, Belarus. It is...",
+          "seo_phrase": "Independence Square, Minsk",
+          "seo_keywords": [
+            "Independence Square, Minsk",
+            "Minsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Gouvernementbelarus.JPG",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gouvernementbelarus.JPG?width=900",
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "park",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "National Library of Belarus",
+            "Church of Saints Simon and Helena",
+            "Island of Tears"
+          ]
+        },
+        {
+          "name": "Church of Saints Simon and Helena",
+          "wiki_title": "Church of Saints Simon and Helena",
+          "lat": 53.896519444444,
+          "lng": 27.547477777778,
+          "order_index": 2,
+          "description": "The Church of Saints Simon and Helena (Belarusian: Касьцёл сьвятых Сымона і Алены, romanized: Kaściol śviatych Symona i Alieny; Russian: Костёл Святого Симеона и Святой Елены, romanized: Kostel Svyatogo Simeona i Svya...",
+          "seo_phrase": "Church of Saints Simon and Helena",
+          "seo_keywords": [
+            "Church of Saints Simon and Helena",
+            "Minsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Belarus-Minsk-Church_of_Simon_and_Helena-7-2.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Belarus-Minsk-Church_of_Simon_and_Helena-7-2.jpg?width=900",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "National Library of Belarus",
+            "Independence Square, Minsk",
+            "Island of Tears"
+          ]
+        },
+        {
+          "name": "Island of Tears",
+          "wiki_title": "Island of Tears",
+          "lat": 53.9025,
+          "lng": 27.5561,
+          "order_index": 3,
+          "description": "Island of Tears ranks among the signature sights of Minsk.",
+          "seo_phrase": "Island of Tears",
+          "seo_keywords": [
+            "Island of Tears",
+            "Minsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Island of Tears Minsk.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Island%20of%20Tears%20Minsk.jpg?width=900",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "National Library of Belarus",
+            "Independence Square, Minsk",
+            "Church of Saints Simon and Helena"
+          ]
+        },
+        {
+          "name": "Upper Town, Minsk",
+          "wiki_title": "Upper Town, Minsk",
+          "lat": 53.9044,
+          "lng": 27.5567,
+          "order_index": 4,
+          "description": "Upper Town, Minsk ranks among the signature sights of Minsk.",
+          "seo_phrase": "Upper Town, Minsk",
+          "seo_keywords": [
+            "Upper Town, Minsk",
+            "Minsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Minsk Upper Town.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Minsk%20Upper%20Town.jpg?width=900",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "National Library of Belarus",
+            "Independence Square, Minsk",
+            "Church of Saints Simon and Helena"
+          ]
+        },
+        {
+          "name": "Holy Spirit Cathedral, Minsk",
+          "wiki_title": "Holy Spirit Cathedral, Minsk",
+          "lat": 53.905,
+          "lng": 27.556111111111,
+          "order_index": 5,
+          "description": "The Holy Spirit Cathedral or the Holy Ghost Cathedral (Belarusian: Кафедральны сабор Сашэсця Святога Духа) is a cathedral in Minsk, Belarus. Consecrated in honour of the Holy Spirit, it the mother church of the Belaru...",
+          "seo_phrase": "Holy Spirit Cathedral, Minsk",
+          "seo_keywords": [
+            "Holy Spirit Cathedral, Minsk",
+            "Minsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Holy_Spirit_Cathedral_in_Minsk.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Holy_Spirit_Cathedral_in_Minsk.jpg?width=900",
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "National Library of Belarus",
+            "Independence Square, Minsk",
+            "Church of Saints Simon and Helena"
+          ]
+        },
+        {
+          "name": "Belarusian Great Patriotic War Museum",
+          "wiki_title": "Belarusian Great Patriotic War Museum",
+          "lat": 53.91630555555555,
+          "lng": 27.53788888888889,
+          "order_index": 6,
+          "description": "The Belarusian State Great Patriotic War Museum (Belarusian: Беларускі дзяржаўны музей гісторыі Вялікай Айчыннай вайны, romanized: Belaruski dzi͡arz͡haŭny muzeĭ historyi Vi͡alikaĭ Aĭchynnaĭ vaĭny, Russian: Белорусский...",
+          "seo_phrase": "Belarusian Great Patriotic War Museum",
+          "seo_keywords": [
+            "Belarusian Great Patriotic War Museum",
+            "Minsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Minsk_Kriegsmuseum.JPG",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Minsk_Kriegsmuseum.JPG?width=900",
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "National Library of Belarus",
+            "Independence Square, Minsk",
+            "Church of Saints Simon and Helena"
+          ]
+        },
+        {
+          "name": "Gorky Park, Minsk",
+          "wiki_title": "Gorky Park, Minsk",
+          "lat": 53.8947,
+          "lng": 27.5653,
+          "order_index": 7,
+          "description": "Gorky Park, Minsk ranks among the signature sights of Minsk.",
+          "seo_phrase": "Gorky Park, Minsk",
+          "seo_keywords": [
+            "Gorky Park, Minsk",
+            "Minsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Gorky Park Minsk.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gorky%20Park%20Minsk.jpg?width=900",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "park",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "National Library of Belarus",
+            "Independence Square, Minsk",
+            "Church of Saints Simon and Helena"
+          ]
+        },
+        {
+          "name": "National Art Museum of the Republic of Belarus",
+          "wiki_title": "National Art Museum of the Republic of Belarus",
+          "lat": 53.8986,
+          "lng": 27.5586,
+          "order_index": 8,
+          "description": "National Art Museum of the Republic of Belarus ranks among the signature sights of Minsk.",
+          "seo_phrase": "National Art Museum of the Republic of Belarus",
+          "seo_keywords": [
+            "National Art Museum of the Republic of Belarus",
+            "Minsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "National Art Museum Belarus.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Art%20Museum%20Belarus.jpg?width=900",
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "National Library of Belarus",
+            "Independence Square, Minsk",
+            "Church of Saints Simon and Helena"
+          ]
+        },
+        {
+          "name": "Victory Square, Minsk",
+          "wiki_title": "Victory Square, Minsk",
+          "lat": 53.908528,
+          "lng": 27.574785,
+          "order_index": 9,
+          "description": "Victory Square, Minsk ranks among the signature sights of Minsk.",
+          "seo_phrase": "Victory Square, Minsk",
+          "seo_keywords": [
+            "Victory Square, Minsk",
+            "Minsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Victory-square.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Victory-square.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "park",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "National Library of Belarus",
+            "Independence Square, Minsk",
+            "Church of Saints Simon and Helena"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Brest",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "wiki_title": "Brest, Belarus",
+      "seo": {
+        "title": "Brest Belarus — Fortress, History & Border City Guide",
+        "description": "Visit Brest Fortress, heroic memorials, and charming old-town streets near the Polish border.",
+        "intro": "Historic border city famed for the Hero-Fortress and gateway to Belovezhskaya Pushcha.",
+        "keywords": [
+          "things to do in Brest",
+          "Brest Belarus travel guide",
+          "best places to visit in Brest",
+          "Brest landmarks",
+          "Brest itinerary"
+        ]
+      },
+      "places": [
+        {
+          "name": "Brest Fortress",
+          "wiki_title": "Brest Fortress",
+          "lat": 52.083333333333336,
+          "lng": 23.65277777777778,
+          "order_index": 0,
+          "description": "Brest Fortress (Belarusian: Брэсцкая крэпасць, romanized: Bresckaja krepasć; Russian: Брестская крепость, romanized: Brestskaya krepost; Polish: Twierdza brzeska; Lithuanian: Bresto tvirtovė), formerly known as Brest-...",
+          "seo_phrase": "Brest Fortress",
+          "seo_keywords": [
+            "Brest Fortress",
+            "Brest",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Brest_Brest_Fortress_Kholm_Gate_9209_2150.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brest_Brest_Fortress_Kholm_Gate_9209_2150.jpg?width=900",
+          "seo_priority": 98,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Brest Hero-Fortress Memorial Complex",
+            "St. Nicholas Brotherhood Church",
+            "Brest Railway Station"
+          ]
+        },
+        {
+          "name": "Brest Hero-Fortress Memorial Complex",
+          "wiki_title": "Brest Fortress",
+          "lat": 52.083333333333336,
+          "lng": 23.65277777777778,
+          "order_index": 1,
+          "description": "Brest Fortress (Belarusian: Брэсцкая крэпасць, romanized: Bresckaja krepasć; Russian: Брестская крепость, romanized: Brestskaya krepost; Polish: Twierdza brzeska; Lithuanian: Bresto tvirtovė), formerly known as Brest-...",
+          "seo_phrase": "Brest Hero-Fortress Memorial Complex",
+          "seo_keywords": [
+            "Brest Hero-Fortress Memorial Complex",
+            "Brest",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Brest_Brest_Fortress_Kholm_Gate_9209_2150.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brest_Brest_Fortress_Kholm_Gate_9209_2150.jpg?width=900",
+          "seo_priority": 96,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Brest Fortress",
+            "St. Nicholas Brotherhood Church",
+            "Brest Railway Station"
+          ]
+        },
+        {
+          "name": "St. Nicholas Brotherhood Church",
+          "wiki_title": "St. Nicholas Brotherhood Church",
+          "lat": 52.0911,
+          "lng": 23.6847,
+          "order_index": 2,
+          "description": "St. Nicholas Brotherhood Church ranks among the signature sights of Brest.",
+          "seo_phrase": "St. Nicholas Brotherhood Church",
+          "seo_keywords": [
+            "St. Nicholas Brotherhood Church",
+            "Brest",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "St Nicholas Church Brest.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/St%20Nicholas%20Church%20Brest.jpg?width=900",
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Brest Fortress",
+            "Brest Hero-Fortress Memorial Complex",
+            "Brest Railway Station"
+          ]
+        },
+        {
+          "name": "Brest Railway Station",
+          "wiki_title": "Brest Railway Station",
+          "lat": 52.1014,
+          "lng": 23.6556,
+          "order_index": 3,
+          "description": "Brest Railway Station ranks among the signature sights of Brest.",
+          "seo_phrase": "Brest Railway Station",
+          "seo_keywords": [
+            "Brest Railway Station",
+            "Brest",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Brest train station.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brest%20train%20station.jpg?width=900",
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Brest Fortress",
+            "Brest Hero-Fortress Memorial Complex",
+            "St. Nicholas Brotherhood Church"
+          ]
+        },
+        {
+          "name": "Terespol Gate",
+          "wiki_title": "Brest Fortress",
+          "lat": 52.083333333333336,
+          "lng": 23.65277777777778,
+          "order_index": 4,
+          "description": "Brest Fortress (Belarusian: Брэсцкая крэпасць, romanized: Bresckaja krepasć; Russian: Брестская крепость, romanized: Brestskaya krepost; Polish: Twierdza brzeska; Lithuanian: Bresto tvirtovė), formerly known as Brest-...",
+          "seo_phrase": "Terespol Gate",
+          "seo_keywords": [
+            "Terespol Gate",
+            "Brest",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Brest_Brest_Fortress_Kholm_Gate_9209_2150.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brest_Brest_Fortress_Kholm_Gate_9209_2150.jpg?width=900",
+          "seo_priority": 74,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Brest Fortress",
+            "Brest Hero-Fortress Memorial Complex",
+            "St. Nicholas Brotherhood Church"
+          ]
+        },
+        {
+          "name": "Brest City Park",
+          "wiki_title": "Brest City Park",
+          "lat": 52.09444444,
+          "lng": 23.67666667,
+          "order_index": 5,
+          "description": "Brest City Park is an urban public park in Brest, Belarus. The Russian soldiers of Libava Regiment, who were stationed in this part of Brest-Litovsk, laid out the park in 1906.",
+          "seo_phrase": "Brest City Park",
+          "seo_keywords": [
+            "Brest City Park",
+            "Brest",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "BrestPark.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BrestPark.jpg?width=900",
+          "seo_priority": 70,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "park",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Brest Fortress",
+            "Brest Hero-Fortress Memorial Complex",
+            "St. Nicholas Brotherhood Church"
+          ]
+        },
+        {
+          "name": "Museum of Railway Technology, Brest",
+          "wiki_title": "Museum of Railway Technology, Brest",
+          "lat": 52.0978,
+          "lng": 23.6703,
+          "order_index": 6,
+          "description": "Museum of Railway Technology, Brest ranks among the signature sights of Brest.",
+          "seo_phrase": "Museum of Railway Technology, Brest",
+          "seo_keywords": [
+            "Museum of Railway Technology, Brest",
+            "Brest",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Brest railway museum.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brest%20railway%20museum.jpg?width=900",
+          "seo_priority": 72,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Brest Fortress",
+            "Brest Hero-Fortress Memorial Complex",
+            "St. Nicholas Brotherhood Church"
+          ]
+        },
+        {
+          "name": "Church of the Exaltation of the Holy Cross, Brest",
+          "wiki_title": "Church of the Exaltation of the Holy Cross, Brest",
+          "lat": 52.0889,
+          "lng": 23.6811,
+          "order_index": 7,
+          "description": "Church of the Exaltation of the Holy Cross, Brest ranks among the signature sights of Brest.",
+          "seo_phrase": "Church of the Exaltation of the Holy Cross, Brest",
+          "seo_keywords": [
+            "Church of the Exaltation of the Holy Cross, Brest",
+            "Brest",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Holy Cross Church Brest.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Holy%20Cross%20Church%20Brest.jpg?width=900",
+          "seo_priority": 73,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Brest Fortress",
+            "Brest Hero-Fortress Memorial Complex",
+            "St. Nicholas Brotherhood Church"
+          ]
+        },
+        {
+          "name": "Belaya Vezha",
+          "wiki_title": "Kamianiec Tower",
+          "lat": 52.0933,
+          "lng": 23.655,
+          "order_index": 8,
+          "description": "Belaya Vezha ranks among the signature sights of Brest.",
+          "seo_phrase": "Belaya Vezha",
+          "seo_keywords": [
+            "Belaya Vezha",
+            "Brest",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Kamenets Tower.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kamenets%20Tower.jpg?width=900",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Brest Fortress",
+            "Brest Hero-Fortress Memorial Complex",
+            "St. Nicholas Brotherhood Church"
+          ]
+        },
+        {
+          "name": "Brest Regional Museum",
+          "wiki_title": "Brest Regional Museum",
+          "lat": 52.0917,
+          "lng": 23.6833,
+          "order_index": 9,
+          "description": "Brest Regional Museum ranks among the signature sights of Brest.",
+          "seo_phrase": "Brest Regional Museum",
+          "seo_keywords": [
+            "Brest Regional Museum",
+            "Brest",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Brest regional museum.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brest%20regional%20museum.jpg?width=900",
+          "seo_priority": 71,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Brest Fortress",
+            "Brest Hero-Fortress Memorial Complex",
+            "St. Nicholas Brotherhood Church"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Grodno",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "wiki_title": "Grodno",
+      "seo": {
+        "title": "Grodno Travel Guide — Castles & Old Town in Western Belarus",
+        "description": "Discover Grodno's twin castles, baroque churches, and multicultural old town on the Neman River.",
+        "intro": "One of Belarus oldest cities with castles, synagogues, and riverside walks.",
+        "keywords": [
+          "things to do in Grodno",
+          "Grodno Belarus travel guide",
+          "best places to visit in Grodno",
+          "Grodno landmarks",
+          "Grodno itinerary"
+        ]
+      },
+      "places": [
+        {
+          "name": "Old Grodno Castle",
+          "wiki_title": "Old Grodno Castle",
+          "lat": 53.677,
+          "lng": 23.823,
+          "order_index": 0,
+          "description": "Old Grodno Castle ranks among the signature sights of Grodno.",
+          "seo_phrase": "Old Grodno Castle",
+          "seo_keywords": [
+            "Old Grodno Castle",
+            "Grodno",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Hrodna_Old_Castle_2023-06-25_5509.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hrodna_Old_Castle_2023-06-25_5509.jpg?width=900",
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "New Grodno Castle",
+            "Kalozha Church",
+            "St. Francis Xavier Cathedral, Grodno"
+          ]
+        },
+        {
+          "name": "New Grodno Castle",
+          "wiki_title": "New Grodno Castle",
+          "lat": 53.67613,
+          "lng": 23.82538,
+          "order_index": 1,
+          "description": "New Grodno Castle ranks among the signature sights of Grodno.",
+          "seo_phrase": "New Grodno Castle",
+          "seo_keywords": [
+            "New Grodno Castle",
+            "Grodno",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Horadnia,_Novy_zamak._Горадня,_Новы_замак_(XVIII).jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Horadnia%2C_Novy_zamak._%D0%93%D0%BE%D1%80%D0%B0%D0%B4%D0%BD%D1%8F%2C_%D0%9D%D0%BE%D0%B2%D1%8B_%D0%B7%D0%B0%D0%BC%D0%B0%D0%BA_(XVIII).jpg?width=900",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Grodno Castle",
+            "Kalozha Church",
+            "St. Francis Xavier Cathedral, Grodno"
+          ]
+        },
+        {
+          "name": "Kalozha Church",
+          "wiki_title": "Kalozha Church",
+          "lat": 53.67841,
+          "lng": 23.81861,
+          "order_index": 2,
+          "description": "The Kalozha Church of Sts. Boris and Gleb is the oldest extant structure in Grodno, Belarus.",
+          "seo_phrase": "Kalozha Church",
+          "seo_keywords": [
+            "Kalozha Church",
+            "Grodno",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Horadnia_(Hrodna),_Kaloža._Горадня,_Каложа_(2021)_02.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Horadnia_(Hrodna)%2C_Kalo%C5%BEa._%D0%93%D0%BE%D1%80%D0%B0%D0%B4%D0%BD%D1%8F%2C_%D0%9A%D0%B0%D0%BB%D0%BE%D0%B6%D0%B0_(2021)_02.jpg?width=900",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Grodno Castle",
+            "New Grodno Castle",
+            "St. Francis Xavier Cathedral, Grodno"
+          ]
+        },
+        {
+          "name": "St. Francis Xavier Cathedral, Grodno",
+          "wiki_title": "St. Francis Xavier Cathedral, Grodno",
+          "lat": 53.6782,
+          "lng": 23.8311,
+          "order_index": 3,
+          "description": "St. Francis Xavier Cathedral, Grodno ranks among the signature sights of Grodno.",
+          "seo_phrase": "St. Francis Xavier Cathedral, Grodno",
+          "seo_keywords": [
+            "St. Francis Xavier Cathedral, Grodno",
+            "Grodno",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Гродно_Костел_Фарный_01.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE_%D0%9A%D0%BE%D1%81%D1%82%D0%B5%D0%BB_%D0%A4%D0%B0%D1%80%D0%BD%D1%8B%D0%B9_01.jpg?width=900",
+          "seo_priority": 87,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Grodno Castle",
+            "New Grodno Castle",
+            "Kalozha Church"
+          ]
+        },
+        {
+          "name": "Great Choral Synagogue, Grodno",
+          "wiki_title": "Great Choral Synagogue, Grodno",
+          "lat": 53.6822,
+          "lng": 23.8267,
+          "order_index": 4,
+          "description": "Great Choral Synagogue, Grodno ranks among the signature sights of Grodno.",
+          "seo_phrase": "Great Choral Synagogue, Grodno",
+          "seo_keywords": [
+            "Great Choral Synagogue, Grodno",
+            "Grodno",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Great Synagogue Grodno.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Great%20Synagogue%20Grodno.jpg?width=900",
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Grodno Castle",
+            "New Grodno Castle",
+            "Kalozha Church"
+          ]
+        },
+        {
+          "name": "Grodno Zoo",
+          "wiki_title": "Grodno Zoo",
+          "lat": 53.68871,
+          "lng": 23.84873,
+          "order_index": 5,
+          "description": "Grodno Zoo, is a zoo, located in Grodno in Belarus. Grodno Zoo was founded in 1927 as the first zoo in future Belarus on the initiative of the high school teacher Jan Kochanowski.",
+          "seo_phrase": "Grodno Zoo",
+          "seo_keywords": [
+            "Grodno Zoo",
+            "Grodno",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "75_лет_зоопарку2.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/75_%D0%BB%D0%B5%D1%82_%D0%B7%D0%BE%D0%BE%D0%BF%D0%B0%D1%80%D0%BA%D1%832.jpg?width=900",
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Grodno Castle",
+            "New Grodno Castle",
+            "Kalozha Church"
+          ]
+        },
+        {
+          "name": "Boris and Gleb Church, Grodno",
+          "wiki_title": "Boris and Gleb Church, Grodno",
+          "lat": 53.6844,
+          "lng": 23.8311,
+          "order_index": 6,
+          "description": "Boris and Gleb Church, Grodno ranks among the signature sights of Grodno.",
+          "seo_phrase": "Boris and Gleb Church, Grodno",
+          "seo_keywords": [
+            "Boris and Gleb Church, Grodno",
+            "Grodno",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Boris Gleb Church Grodno.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Boris%20Gleb%20Church%20Grodno.jpg?width=900",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Grodno Castle",
+            "New Grodno Castle",
+            "Kalozha Church"
+          ]
+        },
+        {
+          "name": "Augustów Canal",
+          "wiki_title": "Augustów Canal",
+          "lat": 53.866666666667,
+          "lng": 22.966666666667,
+          "order_index": 7,
+          "description": "The Augustów Canal (Polish: Kanał Augustowski, [ˈkanau̯ au̯ɡusˈtɔfski], Belarusian: Аўгустоўскі канал, romanized: Aŭhustoŭski kanal) is a cross-border canal built by the Congress Kingdom of Poland in 19th century in t...",
+          "seo_phrase": "Augustów Canal",
+          "seo_keywords": [
+            "Augustów Canal",
+            "Grodno",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Bulwar_w_Augustowie.JPG",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bulwar_w_Augustowie.JPG?width=900",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Grodno Castle",
+            "New Grodno Castle",
+            "Kalozha Church"
+          ]
+        },
+        {
+          "name": "Grodno Regional Museum",
+          "wiki_title": "Grodno Regional Museum",
+          "lat": 53.6789,
+          "lng": 23.8244,
+          "order_index": 8,
+          "description": "Grodno Regional Museum ranks among the signature sights of Grodno.",
+          "seo_phrase": "Grodno Regional Museum",
+          "seo_keywords": [
+            "Grodno Regional Museum",
+            "Grodno",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Grodno museum.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grodno%20museum.jpg?width=900",
+          "seo_priority": 74,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Old Grodno Castle",
+            "New Grodno Castle",
+            "Kalozha Church"
+          ]
+        },
+        {
+          "name": "Kolozhsky Park",
+          "wiki_title": "Kolozhsky Park",
+          "lat": 53.6836,
+          "lng": 23.8344,
+          "order_index": 9,
+          "description": "Kolozhsky Park ranks among the signature sights of Grodno.",
+          "seo_phrase": "Kolozhsky Park",
+          "seo_keywords": [
+            "Kolozhsky Park",
+            "Grodno",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Kolozha park Grodno.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kolozha%20park%20Grodno.jpg?width=900",
+          "seo_priority": 76,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "park",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Old Grodno Castle",
+            "New Grodno Castle",
+            "Kalozha Church"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Vitebsk",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "wiki_title": "Vitebsk",
+      "seo": {
+        "title": "Vitebsk — Chagall, Art & Dvina River Attractions",
+        "description": "Walk Vitebsk where Marc Chagall was born: art museums, cathedrals, and festival squares.",
+        "intro": "Cultural capital on the Dvina, linked to Marc Chagall and Slavonic Bazaar festival.",
+        "keywords": [
+          "things to do in Vitebsk",
+          "Vitebsk Belarus travel guide",
+          "best places to visit in Vitebsk",
+          "Vitebsk landmarks",
+          "Vitebsk itinerary"
+        ]
+      },
+      "places": [
+        {
+          "name": "Marc Chagall Museum",
+          "wiki_title": "Marc Chagall Museum",
+          "lat": 55.20055556,
+          "lng": 30.19083333,
+          "order_index": 0,
+          "description": "The Marc Chagall Museum (Belarusian: Віцебскі музей Марка Шагала, romanized: Viciebski muziej Marka Šahala) is a museum dedicated to the painter Marc Chagall, in his hometown of Vitebsk, Belarus. The museum was founde...",
+          "seo_phrase": "Marc Chagall Museum",
+          "seo_keywords": [
+            "Marc Chagall Museum",
+            "Vitebsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "ArtChagall.JPG",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ArtChagall.JPG?width=900",
+          "seo_priority": 94,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Cathedral of the Merciful Jesus, Vitebsk",
+            "Old Cathedral of St. Barbara and St. Paul, Vitebsk",
+            "Annunciation Church, Vitebsk"
+          ]
+        },
+        {
+          "name": "Cathedral of the Merciful Jesus, Vitebsk",
+          "wiki_title": "Cathedral of the Merciful Jesus, Vitebsk",
+          "lat": 55.16333,
+          "lng": 30.21547,
+          "order_index": 1,
+          "description": "The Cathedral of the Merciful Jesus  (Belarusian: Катэдральны сабор Ісуса Міласэрнага, romanized: Katedraĺny sabor Isusa Milasernaha) also called Vitebsk Cathedral It is the name given to a religious building that is ...",
+          "seo_phrase": "Cathedral of the Merciful Jesus, Vitebsk",
+          "seo_keywords": [
+            "Cathedral of the Merciful Jesus, Vitebsk",
+            "Vitebsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Church_of_the_Merciful_Jesus_in_Viciebsk_-_panoramio.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Church_of_the_Merciful_Jesus_in_Viciebsk_-_panoramio.jpg?width=900",
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Marc Chagall Museum",
+            "Old Cathedral of St. Barbara and St. Paul, Vitebsk",
+            "Annunciation Church, Vitebsk"
+          ]
+        },
+        {
+          "name": "Old Cathedral of St. Barbara and St. Paul, Vitebsk",
+          "wiki_title": "Old Cathedral of St. Barbara and St. Paul, Vitebsk",
+          "lat": 55.201944444444,
+          "lng": 30.178333333333,
+          "order_index": 2,
+          "description": "Old Cathedral of St. Barbara and St. Paul, Vitebsk ranks among the signature sights of Vitebsk.",
+          "seo_phrase": "Old Cathedral of St. Barbara and St. Paul, Vitebsk",
+          "seo_keywords": [
+            "Old Cathedral of St. Barbara and St. Paul, Vitebsk",
+            "Vitebsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Витебск-костел.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA-%D0%BA%D0%BE%D1%81%D1%82%D0%B5%D0%BB.jpg?width=900",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Marc Chagall Museum",
+            "Cathedral of the Merciful Jesus, Vitebsk",
+            "Annunciation Church, Vitebsk"
+          ]
+        },
+        {
+          "name": "Annunciation Church, Vitebsk",
+          "wiki_title": "Annunciation Church, Vitebsk",
+          "lat": 55.195,
+          "lng": 30.2042,
+          "order_index": 3,
+          "description": "Annunciation Church, Vitebsk ranks among the signature sights of Vitebsk.",
+          "seo_phrase": "Annunciation Church, Vitebsk",
+          "seo_keywords": [
+            "Annunciation Church, Vitebsk",
+            "Vitebsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Vitebsk city hall.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vitebsk%20city%20hall.jpg?width=900",
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Marc Chagall Museum",
+            "Cathedral of the Merciful Jesus, Vitebsk",
+            "Old Cathedral of St. Barbara and St. Paul, Vitebsk"
+          ]
+        },
+        {
+          "name": "Vitebsk Regional Museum",
+          "wiki_title": "Vitebsk Regional Museum",
+          "lat": 55.1947,
+          "lng": 30.2036,
+          "order_index": 4,
+          "description": "Vitebsk Regional Museum ranks among the signature sights of Vitebsk.",
+          "seo_phrase": "Vitebsk Regional Museum",
+          "seo_keywords": [
+            "Vitebsk Regional Museum",
+            "Vitebsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Governor palace Vitebsk.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Governor%20palace%20Vitebsk.jpg?width=900",
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Marc Chagall Museum",
+            "Cathedral of the Merciful Jesus, Vitebsk",
+            "Old Cathedral of St. Barbara and St. Paul, Vitebsk"
+          ]
+        },
+        {
+          "name": "Governor's Palace, Vitebsk",
+          "wiki_title": "Governor's Palace, Vitebsk",
+          "lat": 55.1986,
+          "lng": 30.2067,
+          "order_index": 5,
+          "description": "Governor's Palace, Vitebsk ranks among the signature sights of Vitebsk.",
+          "seo_phrase": "Governor's Palace, Vitebsk",
+          "seo_keywords": [
+            "Governor's Palace, Vitebsk",
+            "Vitebsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Victory Square Vitebsk.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Victory%20Square%20Vitebsk.jpg?width=900",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Marc Chagall Museum",
+            "Cathedral of the Merciful Jesus, Vitebsk",
+            "Old Cathedral of St. Barbara and St. Paul, Vitebsk"
+          ]
+        },
+        {
+          "name": "Slavonic Bazaar in Vitebsk",
+          "wiki_title": "Slavonic Bazaar in Vitebsk",
+          "lat": 55.1933,
+          "lng": 30.2011,
+          "order_index": 6,
+          "description": "Slavonic Bazaar in Vitebsk ranks among the signature sights of Vitebsk.",
+          "seo_phrase": "Slavonic Bazaar in Vitebsk",
+          "seo_keywords": [
+            "Slavonic Bazaar in Vitebsk",
+            "Vitebsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Summer amphitheatre Vitebsk.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Summer%20amphitheatre%20Vitebsk.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Marc Chagall Museum",
+            "Cathedral of the Merciful Jesus, Vitebsk",
+            "Old Cathedral of St. Barbara and St. Paul, Vitebsk"
+          ]
+        },
+        {
+          "name": "Church of the Assumption, Vitebsk",
+          "wiki_title": "Church of the Assumption, Vitebsk",
+          "lat": 55.1967,
+          "lng": 30.2056,
+          "order_index": 7,
+          "description": "Church of the Assumption, Vitebsk ranks among the signature sights of Vitebsk.",
+          "seo_phrase": "Church of the Assumption, Vitebsk",
+          "seo_keywords": [
+            "Church of the Assumption, Vitebsk",
+            "Vitebsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Kirov street Vitebsk.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kirov%20street%20Vitebsk.jpg?width=900",
+          "seo_priority": 72,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Marc Chagall Museum",
+            "Cathedral of the Merciful Jesus, Vitebsk",
+            "Old Cathedral of St. Barbara and St. Paul, Vitebsk"
+          ]
+        },
+        {
+          "name": "Vitebsk TV Tower",
+          "wiki_title": "Vitebsk TV Tower",
+          "lat": 55.1933,
+          "lng": 30.1665,
+          "order_index": 8,
+          "description": "Vitebsk TV Tower ranks among the signature sights of Vitebsk.",
+          "seo_phrase": "Vitebsk TV Tower",
+          "seo_keywords": [
+            "Vitebsk TV Tower",
+            "Vitebsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Dvina Vitebsk.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dvina%20Vitebsk.jpg?width=900",
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Marc Chagall Museum",
+            "Cathedral of the Merciful Jesus, Vitebsk",
+            "Old Cathedral of St. Barbara and St. Paul, Vitebsk"
+          ]
+        },
+        {
+          "name": "Western Dvina",
+          "wiki_title": "Western Dvina",
+          "lat": 55.1972,
+          "lng": 30.21,
+          "order_index": 9,
+          "description": "Western Dvina ranks among the signature sights of Vitebsk.",
+          "seo_phrase": "Western Dvina",
+          "seo_keywords": [
+            "Western Dvina",
+            "Vitebsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Dvina Vitebsk.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dvina%20Vitebsk.jpg?width=900",
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Marc Chagall Museum",
+            "Cathedral of the Merciful Jesus, Vitebsk",
+            "Old Cathedral of St. Barbara and St. Paul, Vitebsk"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Gomel",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "wiki_title": "Gomel",
+      "seo": {
+        "title": "Gomel Palace & Parks — Southern Belarus Travel Guide",
+        "description": "Tour Rumyantsev-Paskevich Palace, riverside Sozh views, and leafy Gomel Park.",
+        "intro": "Southern Belarus hub with a riverside palace, observatory tower, and wide boulevards.",
+        "keywords": [
+          "things to do in Gomel",
+          "Gomel Belarus travel guide",
+          "best places to visit in Gomel",
+          "Gomel landmarks",
+          "Gomel itinerary"
+        ]
+      },
+      "places": [
+        {
+          "name": "Gomel Palace",
+          "wiki_title": "Gomel Palace",
+          "lat": 52.42222222,
+          "lng": 31.01638889,
+          "order_index": 0,
+          "description": "The Rumyantsev-Paskevich Residence (Belarusian: Палац Румянцавых — Паскевічаў; Russian: Дворец Румянцевых — Паскевичей) is the main place of historical importance in the city of Gomel, Belarus. The grounds of the resi...",
+          "seo_phrase": "Gomel Palace",
+          "seo_keywords": [
+            "Gomel Palace",
+            "Gomel",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Gomel_zaleski.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gomel_zaleski.jpg?width=900",
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Gomel Park",
+            "Cathedral of Saints Peter and Paul, Gomel",
+            "Gomel Regional Museum"
+          ]
+        },
+        {
+          "name": "Gomel Park",
+          "wiki_title": "Gomel Park",
+          "lat": 52.424,
+          "lng": 31.015,
+          "order_index": 1,
+          "description": "Gomel Park ranks among the signature sights of Gomel.",
+          "seo_phrase": "Gomel Park",
+          "seo_keywords": [
+            "Gomel Park",
+            "Gomel",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Gomel park palace.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gomel%20park%20palace.jpg?width=900",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "park",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Gomel Palace",
+            "Cathedral of Saints Peter and Paul, Gomel",
+            "Gomel Regional Museum"
+          ]
+        },
+        {
+          "name": "Cathedral of Saints Peter and Paul, Gomel",
+          "wiki_title": "Peter and Paul Cathedral, Gomel",
+          "lat": 52.42405,
+          "lng": 31.01752,
+          "order_index": 2,
+          "description": "Saints Peter and Paul Cathedral (Belarusian: Петрапаўлаўскі сабор) is the cathedral church of the Gomel diocese of the Belarusian Orthodox Church. It is located in Gomel Central Park, part of the Gomel Palace and Park...",
+          "seo_phrase": "Cathedral of Saints Peter and Paul, Gomel",
+          "seo_keywords": [
+            "Cathedral of Saints Peter and Paul, Gomel",
+            "Gomel",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Гомель._Собор_святых_Апостолов_Петра_и_Павла_27.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C._%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D1%81%D0%B2%D1%8F%D1%82%D1%8B%D1%85_%D0%90%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%BB%D0%BE%D0%B2_%D0%9F%D0%B5%D1%82%D1%80%D0%B0_%D0%B8_%D0%9F%D0%B0%D0%B2%D0%BB%D0%B0_27.jpg?width=900",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Gomel Palace",
+            "Gomel Park",
+            "Gomel Regional Museum"
+          ]
+        },
+        {
+          "name": "Gomel Regional Museum",
+          "wiki_title": "Gomel Regional Museum",
+          "lat": 52.4311,
+          "lng": 31.0056,
+          "order_index": 3,
+          "description": "Gomel Regional Museum ranks among the signature sights of Gomel.",
+          "seo_phrase": "Gomel Regional Museum",
+          "seo_keywords": [
+            "Gomel Regional Museum",
+            "Gomel",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Gomel regional museum.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gomel%20regional%20museum.jpg?width=900",
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Gomel Palace",
+            "Gomel Park",
+            "Cathedral of Saints Peter and Paul, Gomel"
+          ]
+        },
+        {
+          "name": "Hunting Lodge, Gomel",
+          "wiki_title": "Hunting Lodge, Gomel",
+          "lat": 52.425,
+          "lng": 31.016,
+          "order_index": 4,
+          "description": "Hunting Lodge, Gomel ranks among the signature sights of Gomel.",
+          "seo_phrase": "Hunting Lodge, Gomel",
+          "seo_keywords": [
+            "Hunting Lodge, Gomel",
+            "Gomel",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Gomel hunting lodge.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gomel%20hunting%20lodge.jpg?width=900",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Gomel Palace",
+            "Gomel Park",
+            "Cathedral of Saints Peter and Paul, Gomel"
+          ]
+        },
+        {
+          "name": "Chapel of St. Euphrosyne of Polotsk",
+          "wiki_title": "Chapel of St. Euphrosyne of Polotsk",
+          "lat": 52.4248,
+          "lng": 31.0148,
+          "order_index": 5,
+          "description": "Chapel of St. Euphrosyne of Polotsk ranks among the signature sights of Gomel.",
+          "seo_phrase": "Chapel of St. Euphrosyne of Polotsk",
+          "seo_keywords": [
+            "Chapel of St. Euphrosyne of Polotsk",
+            "Gomel",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Euphrosyne chapel Gomel.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Euphrosyne%20chapel%20Gomel.jpg?width=900",
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Gomel Palace",
+            "Gomel Park",
+            "Cathedral of Saints Peter and Paul, Gomel"
+          ]
+        },
+        {
+          "name": "Observation Tower, Gomel Palace",
+          "wiki_title": "Observation Tower, Gomel Palace",
+          "lat": 52.4246,
+          "lng": 31.0145,
+          "order_index": 6,
+          "description": "Observation Tower, Gomel Palace ranks among the signature sights of Gomel.",
+          "seo_phrase": "Observation Tower, Gomel Palace",
+          "seo_keywords": [
+            "Observation Tower, Gomel Palace",
+            "Gomel",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Gomel palace tower.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gomel%20palace%20tower.jpg?width=900",
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Gomel Palace",
+            "Gomel Park",
+            "Cathedral of Saints Peter and Paul, Gomel"
+          ]
+        },
+        {
+          "name": "Rumyantsev-Paskevich Palace",
+          "wiki_title": "Gomel Palace",
+          "lat": 52.42222222,
+          "lng": 31.01638889,
+          "order_index": 7,
+          "description": "The Rumyantsev-Paskevich Residence (Belarusian: Палац Румянцавых — Паскевічаў; Russian: Дворец Румянцевых — Паскевичей) is the main place of historical importance in the city of Gomel, Belarus. The grounds of the resi...",
+          "seo_phrase": "Rumyantsev-Paskevich Palace",
+          "seo_keywords": [
+            "Rumyantsev-Paskevich Palace",
+            "Gomel",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Gomel_zaleski.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gomel_zaleski.jpg?width=900",
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Gomel Palace",
+            "Gomel Park",
+            "Cathedral of Saints Peter and Paul, Gomel"
+          ]
+        },
+        {
+          "name": "Sozh River Embankment, Gomel",
+          "wiki_title": "Sozh River",
+          "lat": 52.428,
+          "lng": 31.01,
+          "order_index": 8,
+          "description": "Sozh River Embankment, Gomel ranks among the signature sights of Gomel.",
+          "seo_phrase": "Sozh River Embankment, Gomel",
+          "seo_keywords": [
+            "Sozh River Embankment, Gomel",
+            "Gomel",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Sozh Gomel.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sozh%20Gomel.jpg?width=900",
+          "seo_priority": 76,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "park",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Gomel Palace",
+            "Gomel Park",
+            "Cathedral of Saints Peter and Paul, Gomel"
+          ]
+        },
+        {
+          "name": "Gomel Puppet Theatre",
+          "wiki_title": "Gomel Puppet Theatre",
+          "lat": 52.4294,
+          "lng": 31.0089,
+          "order_index": 9,
+          "description": "Gomel Puppet Theatre ranks among the signature sights of Gomel.",
+          "seo_phrase": "Gomel Puppet Theatre",
+          "seo_keywords": [
+            "Gomel Puppet Theatre",
+            "Gomel",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Gomel puppet theatre.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gomel%20puppet%20theatre.jpg?width=900",
+          "seo_priority": 70,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Gomel Palace",
+            "Gomel Park",
+            "Cathedral of Saints Peter and Paul, Gomel"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Nesvizh",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "wiki_title": "Nesvizh",
+      "seo": {
+        "title": "Nesvizh Castle UNESCO Site — Radziwill Estate Guide",
+        "description": "Visit Nesvizh Castle, Corpus Christi Church, and landscaped parks of the Radziwill dynasty.",
+        "intro": "UNESCO town of the Radziwill palace complex and baroque Corpus Christi Church.",
+        "keywords": [
+          "things to do in Nesvizh",
+          "Nesvizh Belarus travel guide",
+          "best places to visit in Nesvizh",
+          "Nesvizh landmarks",
+          "Nesvizh itinerary"
+        ]
+      },
+      "places": [
+        {
+          "name": "Nesvizh Castle",
+          "wiki_title": "Nesvizh Castle",
+          "lat": 53.222877777778,
+          "lng": 26.691736111111,
+          "order_index": 0,
+          "description": "Nesvizh Castle or Nyasvizh Castle is a residential castle of the Radziwiłł family in Nyasvizh (Nesvizh), Belarus. It is 183 metres (600 ft) above sea level.",
+          "seo_phrase": "Nesvizh Castle",
+          "seo_keywords": [
+            "Nesvizh Castle",
+            "Nesvizh",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Нясвіж_і_Нясвіжскі_замак_12.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9D%D1%8F%D1%81%D0%B2%D1%96%D0%B6_%D1%96_%D0%9D%D1%8F%D1%81%D0%B2%D1%96%D0%B6%D1%81%D0%BA%D1%96_%D0%B7%D0%B0%D0%BC%D0%B0%D0%BA_12.jpg?width=900",
+          "seo_priority": 98,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Corpus Christi Church, Nesvizh",
+            "Nesvizh Town Hall",
+            "Benedictine Monastery, Nesvizh"
+          ]
+        },
+        {
+          "name": "Corpus Christi Church, Nesvizh",
+          "wiki_title": "Corpus Christi Church, Nesvizh",
+          "lat": 53.2186,
+          "lng": 26.6794,
+          "order_index": 1,
+          "description": "Corpus Christi Church, Nesvizh ranks among the signature sights of Nesvizh.",
+          "seo_phrase": "Corpus Christi Church, Nesvizh",
+          "seo_keywords": [
+            "Corpus Christi Church, Nesvizh",
+            "Nesvizh",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Corpus Christi Nesvizh.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Corpus%20Christi%20Nesvizh.jpg?width=900",
+          "seo_priority": 94,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Nesvizh Castle",
+            "Nesvizh Town Hall",
+            "Benedictine Monastery, Nesvizh"
+          ]
+        },
+        {
+          "name": "Nesvizh Town Hall",
+          "wiki_title": "Nesvizh Town Hall",
+          "lat": 53.2189,
+          "lng": 26.6797,
+          "order_index": 2,
+          "description": "Nesvizh Town Hall ranks among the signature sights of Nesvizh.",
+          "seo_phrase": "Nesvizh Town Hall",
+          "seo_keywords": [
+            "Nesvizh Town Hall",
+            "Nesvizh",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Nesvizh town hall.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nesvizh%20town%20hall.jpg?width=900",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Nesvizh Castle",
+            "Corpus Christi Church, Nesvizh",
+            "Benedictine Monastery, Nesvizh"
+          ]
+        },
+        {
+          "name": "Benedictine Monastery, Nesvizh",
+          "wiki_title": "Benedictine Monastery, Nesvizh",
+          "lat": 53.2194,
+          "lng": 26.68,
+          "order_index": 3,
+          "description": "Benedictine Monastery, Nesvizh ranks among the signature sights of Nesvizh.",
+          "seo_phrase": "Benedictine Monastery, Nesvizh",
+          "seo_keywords": [
+            "Benedictine Monastery, Nesvizh",
+            "Nesvizh",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Benedictine Nesvizh.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Benedictine%20Nesvizh.jpg?width=900",
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Nesvizh Castle",
+            "Corpus Christi Church, Nesvizh",
+            "Nesvizh Town Hall"
+          ]
+        },
+        {
+          "name": "Slutsk Gate, Nesvizh",
+          "wiki_title": "Slutsk Gate, Nesvizh",
+          "lat": 53.22,
+          "lng": 26.685,
+          "order_index": 4,
+          "description": "Slutsk Gate, Nesvizh ranks among the signature sights of Nesvizh.",
+          "seo_phrase": "Slutsk Gate, Nesvizh",
+          "seo_keywords": [
+            "Slutsk Gate, Nesvizh",
+            "Nesvizh",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Slutsk Gate Nesvizh.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Slutsk%20Gate%20Nesvizh.jpg?width=900",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Nesvizh Castle",
+            "Corpus Christi Church, Nesvizh",
+            "Nesvizh Town Hall"
+          ]
+        },
+        {
+          "name": "Nesvizh Park",
+          "wiki_title": "Nesvizh Park",
+          "lat": 53.223,
+          "lng": 26.692,
+          "order_index": 5,
+          "description": "Nesvizh Park ranks among the signature sights of Nesvizh.",
+          "seo_phrase": "Nesvizh Park",
+          "seo_keywords": [
+            "Nesvizh Park",
+            "Nesvizh",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Nesvizh park.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nesvizh%20park.jpg?width=900",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "park",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Nesvizh Castle",
+            "Corpus Christi Church, Nesvizh",
+            "Nesvizh Town Hall"
+          ]
+        },
+        {
+          "name": "Farny Church, Nesvizh",
+          "wiki_title": "Farny Church, Nesvizh",
+          "lat": 53.219,
+          "lng": 26.6795,
+          "order_index": 6,
+          "description": "Farny Church, Nesvizh ranks among the signature sights of Nesvizh.",
+          "seo_phrase": "Farny Church, Nesvizh",
+          "seo_keywords": [
+            "Farny Church, Nesvizh",
+            "Nesvizh",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Farny church Nesvizh.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Farny%20church%20Nesvizh.jpg?width=900",
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Nesvizh Castle",
+            "Corpus Christi Church, Nesvizh",
+            "Nesvizh Town Hall"
+          ]
+        },
+        {
+          "name": "Nesvizh Synagogue",
+          "wiki_title": "Nesvizh Synagogue",
+          "lat": 53.218,
+          "lng": 26.678,
+          "order_index": 7,
+          "description": "Nesvizh Synagogue ranks among the signature sights of Nesvizh.",
+          "seo_phrase": "Nesvizh Synagogue",
+          "seo_keywords": [
+            "Nesvizh Synagogue",
+            "Nesvizh",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Nesvizh synagogue.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nesvizh%20synagogue.jpg?width=900",
+          "seo_priority": 77,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Nesvizh Castle",
+            "Corpus Christi Church, Nesvizh",
+            "Nesvizh Town Hall"
+          ]
+        },
+        {
+          "name": "Almshouse, Nesvizh",
+          "wiki_title": "Almshouse, Nesvizh",
+          "lat": 53.2195,
+          "lng": 26.6805,
+          "order_index": 8,
+          "description": "Almshouse, Nesvizh ranks among the signature sights of Nesvizh.",
+          "seo_phrase": "Almshouse, Nesvizh",
+          "seo_keywords": [
+            "Almshouse, Nesvizh",
+            "Nesvizh",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Almshouse Nesvizh.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Almshouse%20Nesvizh.jpg?width=900",
+          "seo_priority": 72,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Nesvizh Castle",
+            "Corpus Christi Church, Nesvizh",
+            "Nesvizh Town Hall"
+          ]
+        },
+        {
+          "name": "Golden Chapel, Nesvizh",
+          "wiki_title": "Golden Chapel, Nesvizh",
+          "lat": 53.2225,
+          "lng": 26.6915,
+          "order_index": 9,
+          "description": "Golden Chapel, Nesvizh ranks among the signature sights of Nesvizh.",
+          "seo_phrase": "Golden Chapel, Nesvizh",
+          "seo_keywords": [
+            "Golden Chapel, Nesvizh",
+            "Nesvizh",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Golden chapel Nesvizh.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Golden%20chapel%20Nesvizh.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Nesvizh Castle",
+            "Corpus Christi Church, Nesvizh",
+            "Nesvizh Town Hall"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Mir",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "wiki_title": "Mir, Belarus",
+      "seo": {
+        "title": "Mir Castle — Medieval Fortress & Lake Views in Belarus",
+        "description": "Explore Mir Castle Complex, lakeside walks, and historic churches in this UNESCO gem.",
+        "intro": "Small town dominated by a fairy-tale UNESCO castle beside Lake Miranka.",
+        "keywords": [
+          "things to do in Mir",
+          "Mir Belarus travel guide",
+          "best places to visit in Mir",
+          "Mir landmarks",
+          "Mir itinerary"
+        ]
+      },
+      "places": [
+        {
+          "name": "Mir Castle Complex",
+          "wiki_title": "Mir Castle Complex",
+          "lat": 53.45123889,
+          "lng": 26.473,
+          "order_index": 0,
+          "description": "The Mir Castle Complex (Belarusian: Мірскі замак, romanized: Mirski zamak; Russian: Мирский замок, romanized: Mirsky zamok; Polish: Zamek w Mirze; Lithuanian: Myriaus pilies kompleksas) is a historic fortified castle ...",
+          "seo_phrase": "Mir Castle Complex",
+          "seo_keywords": [
+            "Mir Castle Complex",
+            "Mir",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Комплекс_Мирского_замка.JPG",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%9C%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%BC%D0%BA%D0%B0.JPG?width=900",
+          "seo_priority": 98,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Nicholas Church, Mir",
+            "Trinity Church, Mir",
+            "Mir Castle Chapel"
+          ]
+        },
+        {
+          "name": "St. Nicholas Church, Mir",
+          "wiki_title": "St. Nicholas Church, Mir",
+          "lat": 53.4519,
+          "lng": 26.4728,
+          "order_index": 1,
+          "description": "St. Nicholas Church, Mir ranks among the signature sights of Mir.",
+          "seo_phrase": "St. Nicholas Church, Mir",
+          "seo_keywords": [
+            "St. Nicholas Church, Mir",
+            "Mir",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "St Nicholas Mir.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/St%20Nicholas%20Mir.jpg?width=900",
+          "seo_priority": 86,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mir Castle Complex",
+            "Trinity Church, Mir",
+            "Mir Castle Chapel"
+          ]
+        },
+        {
+          "name": "Trinity Church, Mir",
+          "wiki_title": "Trinity Church, Mir",
+          "lat": 53.4522,
+          "lng": 26.4735,
+          "order_index": 2,
+          "description": "Trinity Church, Mir ranks among the signature sights of Mir.",
+          "seo_phrase": "Trinity Church, Mir",
+          "seo_keywords": [
+            "Trinity Church, Mir",
+            "Mir",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Trinity Church Mir.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Trinity%20Church%20Mir.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mir Castle Complex",
+            "St. Nicholas Church, Mir",
+            "Mir Castle Chapel"
+          ]
+        },
+        {
+          "name": "Mir Castle Chapel",
+          "wiki_title": "Mir Castle Complex",
+          "lat": 53.45123889,
+          "lng": 26.473,
+          "order_index": 3,
+          "description": "The Mir Castle Complex (Belarusian: Мірскі замак, romanized: Mirski zamak; Russian: Мирский замок, romanized: Mirsky zamok; Polish: Zamek w Mirze; Lithuanian: Myriaus pilies kompleksas) is a historic fortified castle ...",
+          "seo_phrase": "Mir Castle Chapel",
+          "seo_keywords": [
+            "Mir Castle Chapel",
+            "Mir",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Комплекс_Мирского_замка.JPG",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%9C%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%BC%D0%BA%D0%B0.JPG?width=900",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mir Castle Complex",
+            "St. Nicholas Church, Mir",
+            "Trinity Church, Mir"
+          ]
+        },
+        {
+          "name": "Mir Yeshiva",
+          "wiki_title": "Mir yeshiva",
+          "lat": 53.4508,
+          "lng": 26.4719,
+          "order_index": 4,
+          "description": "Mir Yeshiva or Mirrer Yeshiva may refer to:\n\nMir Yeshiva (Belarus)\nMir Yeshiva (Brooklyn)\nMir Yeshiva (Jerusalem)\nMir Brachfeld, branch of Mir Yeshiva in Modi'in Illit",
+          "seo_phrase": "Mir Yeshiva",
+          "seo_keywords": [
+            "Mir Yeshiva",
+            "Mir",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Mir yeshiva.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mir%20yeshiva.jpg?width=900",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mir Castle Complex",
+            "St. Nicholas Church, Mir",
+            "Trinity Church, Mir"
+          ]
+        },
+        {
+          "name": "Market Square, Mir",
+          "wiki_title": "Mir, Belarus",
+          "lat": 53.45472222222222,
+          "lng": 26.466666666666665,
+          "order_index": 5,
+          "description": "Mir (Belarusian: Мір; Russian: Мир; Yiddish: מיר) is an urban-type settlement in Karelichy District, Grodno Region, Belarus. It is situated on the banks of Miranka River, about 85 kilometres (53 mi) southwest of the c...",
+          "seo_phrase": "Market Square, Mir",
+          "seo_keywords": [
+            "Market Square, Mir",
+            "Mir",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "City_Mir_Belarus.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/City_Mir_Belarus.jpg?width=900",
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "park",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mir Castle Complex",
+            "St. Nicholas Church, Mir",
+            "Trinity Church, Mir"
+          ]
+        },
+        {
+          "name": "Greek Catholic Church, Mir",
+          "wiki_title": "Greek Catholic Church, Mir",
+          "lat": 53.4512,
+          "lng": 26.472,
+          "order_index": 6,
+          "description": "Greek Catholic Church, Mir ranks among the signature sights of Mir.",
+          "seo_phrase": "Greek Catholic Church, Mir",
+          "seo_keywords": [
+            "Greek Catholic Church, Mir",
+            "Mir",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Greek Catholic Mir.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Greek%20Catholic%20Mir.jpg?width=900",
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mir Castle Complex",
+            "St. Nicholas Church, Mir",
+            "Trinity Church, Mir"
+          ]
+        },
+        {
+          "name": "Chapel-tomb of Sviatopolk-Mirski family",
+          "wiki_title": "Chapel-tomb of Sviatopolk-Mirski family",
+          "lat": 53.452,
+          "lng": 26.474,
+          "order_index": 7,
+          "description": "Chapel-tomb of Sviatopolk-Mirski family ranks among the signature sights of Mir.",
+          "seo_phrase": "Chapel-tomb of Sviatopolk-Mirski family",
+          "seo_keywords": [
+            "Mir",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Sviatopolk Mirski chapel.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sviatopolk%20Mirski%20chapel.jpg?width=900",
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mir Castle Complex",
+            "St. Nicholas Church, Mir",
+            "Trinity Church, Mir"
+          ]
+        },
+        {
+          "name": "Lake Miranka",
+          "wiki_title": "Lake Miranka",
+          "lat": 53.453,
+          "lng": 26.475,
+          "order_index": 8,
+          "description": "Lake Miranka ranks among the signature sights of Mir.",
+          "seo_phrase": "Lake Miranka",
+          "seo_keywords": [
+            "Lake Miranka",
+            "Mir",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Lake Miranka.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Miranka.jpg?width=900",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mir Castle Complex",
+            "St. Nicholas Church, Mir",
+            "Trinity Church, Mir"
+          ]
+        },
+        {
+          "name": "Mir Castle Courtyard",
+          "wiki_title": "Mir Castle Complex",
+          "lat": 53.45123889,
+          "lng": 26.473,
+          "order_index": 9,
+          "description": "The Mir Castle Complex (Belarusian: Мірскі замак, romanized: Mirski zamak; Russian: Мирский замок, romanized: Mirsky zamok; Polish: Zamek w Mirze; Lithuanian: Myriaus pilies kompleksas) is a historic fortified castle ...",
+          "seo_phrase": "Mir Castle Courtyard",
+          "seo_keywords": [
+            "Mir Castle Courtyard",
+            "Mir",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Комплекс_Мирского_замка.JPG",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%9C%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%BC%D0%BA%D0%B0.JPG?width=900",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mir Castle Complex",
+            "St. Nicholas Church, Mir",
+            "Trinity Church, Mir"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Polotsk",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "wiki_title": "Polotsk",
+      "seo": {
+        "title": "Polotsk — Ancient Capital & St. Sophia Cathedral",
+        "description": "Discover Polotsk: St. Sophia Cathedral, Euphrosyne convent, and printing museum on the Dvina.",
+        "intro": "One of the oldest cities in Belarus with monasteries and medieval cathedral.",
+        "keywords": [
+          "things to do in Polotsk",
+          "Polotsk Belarus travel guide",
+          "best places to visit in Polotsk",
+          "Polotsk landmarks",
+          "Polotsk itinerary"
+        ]
+      },
+      "places": [
+        {
+          "name": "St. Sophia Cathedral, Polotsk",
+          "wiki_title": "Cathedral of Saint Sophia, Polotsk",
+          "lat": 55.4869,
+          "lng": 28.7686,
+          "order_index": 0,
+          "description": "St. Sophia Cathedral, Polotsk ranks among the signature sights of Polotsk.",
+          "seo_phrase": "St. Sophia Cathedral, Polotsk",
+          "seo_keywords": [
+            "St. Sophia Cathedral, Polotsk",
+            "Polotsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "St Sophia Polotsk.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/St%20Sophia%20Polotsk.jpg?width=900",
+          "seo_priority": 96,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Convent of Saint Euphrosyne",
+            "Saviour-Euphrosyne Monastery",
+            "Epiphany Cathedral, Polotsk"
+          ]
+        },
+        {
+          "name": "Convent of Saint Euphrosyne",
+          "wiki_title": "Convent of Saint Euphrosyne",
+          "lat": 55.4875,
+          "lng": 28.7694,
+          "order_index": 1,
+          "description": "Convent of Saint Euphrosyne ranks among the signature sights of Polotsk.",
+          "seo_phrase": "Convent of Saint Euphrosyne",
+          "seo_keywords": [
+            "Convent of Saint Euphrosyne",
+            "Polotsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Euphrosyne convent Polotsk.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Euphrosyne%20convent%20Polotsk.jpg?width=900",
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Sophia Cathedral, Polotsk",
+            "Saviour-Euphrosyne Monastery",
+            "Epiphany Cathedral, Polotsk"
+          ]
+        },
+        {
+          "name": "Saviour-Euphrosyne Monastery",
+          "wiki_title": "Saviour-Euphrosyne Monastery",
+          "lat": 55.4878,
+          "lng": 28.7697,
+          "order_index": 2,
+          "description": "Saviour-Euphrosyne Monastery ranks among the signature sights of Polotsk.",
+          "seo_phrase": "Saviour-Euphrosyne Monastery",
+          "seo_keywords": [
+            "Saviour-Euphrosyne Monastery",
+            "Polotsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Saviour Euphrosyne monastery.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saviour%20Euphrosyne%20monastery.jpg?width=900",
+          "seo_priority": 90,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Sophia Cathedral, Polotsk",
+            "Convent of Saint Euphrosyne",
+            "Epiphany Cathedral, Polotsk"
+          ]
+        },
+        {
+          "name": "Epiphany Cathedral, Polotsk",
+          "wiki_title": "Epiphany Cathedral, Polotsk",
+          "lat": 55.486,
+          "lng": 28.767,
+          "order_index": 3,
+          "description": "Epiphany Cathedral, Polotsk ranks among the signature sights of Polotsk.",
+          "seo_phrase": "Epiphany Cathedral, Polotsk",
+          "seo_keywords": [
+            "Epiphany Cathedral, Polotsk",
+            "Polotsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Epiphany Cathedral Polotsk.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epiphany%20Cathedral%20Polotsk.jpg?width=900",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Sophia Cathedral, Polotsk",
+            "Convent of Saint Euphrosyne",
+            "Saviour-Euphrosyne Monastery"
+          ]
+        },
+        {
+          "name": "Lutheran Church, Polotsk",
+          "wiki_title": "Lutheran Church, Polotsk",
+          "lat": 55.4855,
+          "lng": 28.7665,
+          "order_index": 4,
+          "description": "Lutheran Church, Polotsk ranks among the signature sights of Polotsk.",
+          "seo_phrase": "Lutheran Church, Polotsk",
+          "seo_keywords": [
+            "Lutheran Church, Polotsk",
+            "Polotsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Lutheran Polotsk.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lutheran%20Polotsk.jpg?width=900",
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Sophia Cathedral, Polotsk",
+            "Convent of Saint Euphrosyne",
+            "Saviour-Euphrosyne Monastery"
+          ]
+        },
+        {
+          "name": "Boris Stone",
+          "wiki_title": "Boris Stones",
+          "lat": 55.488,
+          "lng": 28.77,
+          "order_index": 5,
+          "description": "Boris Stone ranks among the signature sights of Polotsk.",
+          "seo_phrase": "Boris Stone",
+          "seo_keywords": [
+            "Boris Stone",
+            "Polotsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Boris stone Polotsk.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Boris%20stone%20Polotsk.jpg?width=900",
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Sophia Cathedral, Polotsk",
+            "Convent of Saint Euphrosyne",
+            "Saviour-Euphrosyne Monastery"
+          ]
+        },
+        {
+          "name": "Polotsk National Historical Museum",
+          "wiki_title": "Polotsk National Historical Museum",
+          "lat": 55.4865,
+          "lng": 28.768,
+          "order_index": 6,
+          "description": "Polotsk National Historical Museum ranks among the signature sights of Polotsk.",
+          "seo_phrase": "Polotsk National Historical Museum",
+          "seo_keywords": [
+            "Polotsk National Historical Museum",
+            "Polotsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Polotsk museum.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Polotsk%20museum.jpg?width=900",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "St. Sophia Cathedral, Polotsk",
+            "Convent of Saint Euphrosyne",
+            "Saviour-Euphrosyne Monastery"
+          ]
+        },
+        {
+          "name": "Museum of Belarusian Printing",
+          "wiki_title": "Museum of Belarusian Printing",
+          "lat": 55.487,
+          "lng": 28.769,
+          "order_index": 7,
+          "description": "Museum of Belarusian Printing ranks among the signature sights of Polotsk.",
+          "seo_phrase": "Museum of Belarusian Printing",
+          "seo_keywords": [
+            "Museum of Belarusian Printing",
+            "Polotsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Printing museum Polotsk.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Printing%20museum%20Polotsk.jpg?width=900",
+          "seo_priority": 84,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "St. Sophia Cathedral, Polotsk",
+            "Convent of Saint Euphrosyne",
+            "Saviour-Euphrosyne Monastery"
+          ]
+        },
+        {
+          "name": "Red Tower, Polotsk",
+          "wiki_title": "Red Tower, Polotsk",
+          "lat": 55.4862,
+          "lng": 28.7675,
+          "order_index": 8,
+          "description": "Red Tower, Polotsk ranks among the signature sights of Polotsk.",
+          "seo_phrase": "Red Tower, Polotsk",
+          "seo_keywords": [
+            "Red Tower, Polotsk",
+            "Polotsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Red tower Polotsk.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Red%20tower%20Polotsk.jpg?width=900",
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Sophia Cathedral, Polotsk",
+            "Convent of Saint Euphrosyne",
+            "Saviour-Euphrosyne Monastery"
+          ]
+        },
+        {
+          "name": "Western Dvina Embankment, Polotsk",
+          "wiki_title": "Western Dvina",
+          "lat": 55.4872,
+          "lng": 28.771,
+          "order_index": 9,
+          "description": "Western Dvina Embankment, Polotsk ranks among the signature sights of Polotsk.",
+          "seo_phrase": "Western Dvina Embankment, Polotsk",
+          "seo_keywords": [
+            "Western Dvina Embankment, Polotsk",
+            "Polotsk",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Dvina Polotsk.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dvina%20Polotsk.jpg?width=900",
+          "seo_priority": 77,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "park",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Sophia Cathedral, Polotsk",
+            "Convent of Saint Euphrosyne",
+            "Saviour-Euphrosyne Monastery"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Lida",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "wiki_title": "Lida",
+      "seo": {
+        "title": "Lida Castle & Old Town — Grodno Region Day Trips",
+        "description": "Climb Lida Castle walls, explore Gothic churches, and stroll the historic center.",
+        "intro": "Medieval castle town in western Belarus with brick fortress and Catholic heritage.",
+        "keywords": [
+          "things to do in Lida",
+          "Lida Belarus travel guide",
+          "best places to visit in Lida",
+          "Lida landmarks",
+          "Lida itinerary"
+        ]
+      },
+      "places": [
+        {
+          "name": "Lida Castle",
+          "wiki_title": "Lida Castle",
+          "lat": 53.887197222222,
+          "lng": 25.302783333333,
+          "order_index": 0,
+          "description": "Lida Castle (Belarusian: Лідскі замак, Lithuanian: Lydos pilis, Polish: Zamek w Lidzie) is a historic, medieval castle in Lida, Grodno Region, western Belarus.",
+          "seo_phrase": "Lida Castle",
+          "seo_keywords": [
+            "Lida Castle",
+            "Lida",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Ліда._Лідскі_замак._2015_(15).jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9B%D1%96%D0%B4%D0%B0._%D0%9B%D1%96%D0%B4%D1%81%D0%BA%D1%96_%D0%B7%D0%B0%D0%BC%D0%B0%D0%BA._2015_(15).jpg?width=900",
+          "seo_priority": 95,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Joseph Church, Lida",
+            "Church of the Exaltation of the Holy Cross, Lida",
+            "Holy Trinity Church, Lida"
+          ]
+        },
+        {
+          "name": "St. Joseph Church, Lida",
+          "wiki_title": "St. Joseph Church, Lida",
+          "lat": 53.8872,
+          "lng": 25.3033,
+          "order_index": 1,
+          "description": "St. Joseph Church, Lida ranks among the signature sights of Lida.",
+          "seo_phrase": "St. Joseph Church, Lida",
+          "seo_keywords": [
+            "St. Joseph Church, Lida",
+            "Lida",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "St Joseph Lida.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/St%20Joseph%20Lida.jpg?width=900",
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Lida Castle",
+            "Church of the Exaltation of the Holy Cross, Lida",
+            "Holy Trinity Church, Lida"
+          ]
+        },
+        {
+          "name": "Church of the Exaltation of the Holy Cross, Lida",
+          "wiki_title": "Church of the Exaltation of the Holy Cross, Lida",
+          "lat": 53.8869,
+          "lng": 25.3025,
+          "order_index": 2,
+          "description": "Church of the Exaltation of the Holy Cross, Lida ranks among the signature sights of Lida.",
+          "seo_phrase": "Church of the Exaltation of the Holy Cross, Lida",
+          "seo_keywords": [
+            "Church of the Exaltation of the Holy Cross, Lida",
+            "Lida",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Holy Cross Lida.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Holy%20Cross%20Lida.jpg?width=900",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Lida Castle",
+            "St. Joseph Church, Lida",
+            "Holy Trinity Church, Lida"
+          ]
+        },
+        {
+          "name": "Holy Trinity Church, Lida",
+          "wiki_title": "Holy Trinity Church, Lida",
+          "lat": 53.8875,
+          "lng": 25.304,
+          "order_index": 3,
+          "description": "Holy Trinity Church, Lida ranks among the signature sights of Lida.",
+          "seo_phrase": "Holy Trinity Church, Lida",
+          "seo_keywords": [
+            "Holy Trinity Church, Lida",
+            "Lida",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Holy Trinity Lida.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Holy%20Trinity%20Lida.jpg?width=900",
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Lida Castle",
+            "St. Joseph Church, Lida",
+            "Church of the Exaltation of the Holy Cross, Lida"
+          ]
+        },
+        {
+          "name": "Lida Castle Inner Courtyard",
+          "wiki_title": "Lida Castle",
+          "lat": 53.887197222222,
+          "lng": 25.302783333333,
+          "order_index": 4,
+          "description": "Lida Castle (Belarusian: Лідскі замак, Lithuanian: Lydos pilis, Polish: Zamek w Lidzie) is a historic, medieval castle in Lida, Grodno Region, western Belarus.",
+          "seo_phrase": "Lida Castle Inner Courtyard",
+          "seo_keywords": [
+            "Lida Castle Inner Courtyard",
+            "Lida",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Ліда._Лідскі_замак._2015_(15).jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9B%D1%96%D0%B4%D0%B0._%D0%9B%D1%96%D0%B4%D1%81%D0%BA%D1%96_%D0%B7%D0%B0%D0%BC%D0%B0%D0%BA._2015_(15).jpg?width=900",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Lida Castle",
+            "St. Joseph Church, Lida",
+            "Church of the Exaltation of the Holy Cross, Lida"
+          ]
+        },
+        {
+          "name": "Lida Regional Museum",
+          "wiki_title": "Lida Regional Museum",
+          "lat": 53.8878,
+          "lng": 25.3045,
+          "order_index": 5,
+          "description": "Lida Regional Museum ranks among the signature sights of Lida.",
+          "seo_phrase": "Lida Regional Museum",
+          "seo_keywords": [
+            "Lida Regional Museum",
+            "Lida",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Lida museum.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lida%20museum.jpg?width=900",
+          "seo_priority": 74,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Lida Castle",
+            "St. Joseph Church, Lida",
+            "Church of the Exaltation of the Holy Cross, Lida"
+          ]
+        },
+        {
+          "name": "Central Park, Lida",
+          "wiki_title": "Central Park, Lida",
+          "lat": 53.888,
+          "lng": 25.305,
+          "order_index": 6,
+          "description": "Central Park, Lida ranks among the signature sights of Lida.",
+          "seo_phrase": "Central Park, Lida",
+          "seo_keywords": [
+            "Central Park, Lida",
+            "Lida",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Lida central park.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lida%20central%20park.jpg?width=900",
+          "seo_priority": 72,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "park",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Lida Castle",
+            "St. Joseph Church, Lida",
+            "Church of the Exaltation of the Holy Cross, Lida"
+          ]
+        },
+        {
+          "name": "Lida Railway Station",
+          "wiki_title": "Lida Railway Station",
+          "lat": 53.889,
+          "lng": 25.306,
+          "order_index": 7,
+          "description": "Lida Railway Station ranks among the signature sights of Lida.",
+          "seo_phrase": "Lida Railway Station",
+          "seo_keywords": [
+            "Lida Railway Station",
+            "Lida",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Lida railway station.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lida%20railway%20station.jpg?width=900",
+          "seo_priority": 70,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Lida Castle",
+            "St. Joseph Church, Lida",
+            "Church of the Exaltation of the Holy Cross, Lida"
+          ]
+        },
+        {
+          "name": "Lida Castle Historical Museum",
+          "wiki_title": "Lida Castle",
+          "lat": 53.8871,
+          "lng": 25.3031,
+          "order_index": 8,
+          "description": "The museum inside Lida Castle presents medieval Grodno Region history, armour, and archaeological finds from the brick fortress.",
+          "seo_phrase": "Lida Castle Historical Museum — medieval fortress museum",
+          "seo_keywords": [
+            "Lida Castle museum",
+            "Lida Castle Belarus",
+            "medieval castle Lida",
+            "Grodno Region history"
+          ],
+          "commons_file": "Ліда._Лідскі_замак._2015_(15).jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9B%D1%96%D0%B4%D0%B0._%D0%9B%D1%96%D0%B4%D1%81%D0%BA%D1%96_%D0%B7%D0%B0%D0%BC%D0%B0%D0%BA._2015_(15).jpg?width=900",
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Lida Castle",
+            "Castle Gate Tower, Lida",
+            "St. Joseph Church, Lida"
+          ]
+        },
+        {
+          "name": "Castle Gate Tower, Lida",
+          "wiki_title": "Lida Castle",
+          "lat": 53.887197222222,
+          "lng": 25.302783333333,
+          "order_index": 9,
+          "description": "Lida Castle (Belarusian: Лідскі замак, Lithuanian: Lydos pilis, Polish: Zamek w Lidzie) is a historic, medieval castle in Lida, Grodno Region, western Belarus.",
+          "seo_phrase": "Castle Gate Tower, Lida",
+          "seo_keywords": [
+            "Castle Gate Tower, Lida",
+            "Lida",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Ліда._Лідскі_замак._2015_(15).jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9B%D1%96%D0%B4%D0%B0._%D0%9B%D1%96%D0%B4%D1%81%D0%BA%D1%96_%D0%B7%D0%B0%D0%BC%D0%B0%D0%BA._2015_(15).jpg?width=900",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "historic_site",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Lida Castle",
+            "St. Joseph Church, Lida",
+            "Church of the Exaltation of the Holy Cross, Lida"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Mogilev",
+      "tags": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "wiki_title": "Mogilev",
+      "seo": {
+        "title": "Mogilev City Guide — Dnieper Views & Baroque Monasteries",
+        "description": "See Mogilev Town Hall, St. Nicholas Monastery, and memorials along the Dnieper River.",
+        "intro": "Eastern Belarus city with baroque monasteries and a reconstructed town hall.",
+        "keywords": [
+          "things to do in Mogilev",
+          "Mogilev Belarus travel guide",
+          "best places to visit in Mogilev",
+          "Mogilev landmarks",
+          "Mogilev itinerary"
+        ]
+      },
+      "places": [
+        {
+          "name": "Mogilev Town Hall",
+          "wiki_title": "Mogilev Town Hall",
+          "lat": 53.8947,
+          "lng": 30.3303,
+          "order_index": 0,
+          "description": "Mogilev Town Hall ranks among the signature sights of Mogilev.",
+          "seo_phrase": "Mogilev Town Hall",
+          "seo_keywords": [
+            "Mogilev Town Hall",
+            "Mogilev",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Mogilev town hall.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mogilev%20town%20hall.jpg?width=900",
+          "seo_priority": 92,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "St. Nicholas Monastery, Mogilev",
+            "Mogilev Drama Theatre",
+            "Buinichi Field Memorial"
+          ]
+        },
+        {
+          "name": "St. Nicholas Monastery, Mogilev",
+          "wiki_title": "St. Nicholas Monastery, Mogilev",
+          "lat": 53.895,
+          "lng": 30.331,
+          "order_index": 1,
+          "description": "St. Nicholas Monastery, Mogilev ranks among the signature sights of Mogilev.",
+          "seo_phrase": "St. Nicholas Monastery, Mogilev",
+          "seo_keywords": [
+            "St. Nicholas Monastery, Mogilev",
+            "Mogilev",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "St Nicholas Mogilev.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/St%20Nicholas%20Mogilev.jpg?width=900",
+          "seo_priority": 88,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mogilev Town Hall",
+            "Mogilev Drama Theatre",
+            "Buinichi Field Memorial"
+          ]
+        },
+        {
+          "name": "Mogilev Drama Theatre",
+          "wiki_title": "Mogilev Drama Theatre",
+          "lat": 53.896,
+          "lng": 30.332,
+          "order_index": 2,
+          "description": "Mogilev Drama Theatre ranks among the signature sights of Mogilev.",
+          "seo_phrase": "Mogilev Drama Theatre",
+          "seo_keywords": [
+            "Mogilev Drama Theatre",
+            "Mogilev",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Mogilev drama theatre.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mogilev%20drama%20theatre.jpg?width=900",
+          "seo_priority": 80,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mogilev Town Hall",
+            "St. Nicholas Monastery, Mogilev",
+            "Buinichi Field Memorial"
+          ]
+        },
+        {
+          "name": "Buinichi Field Memorial",
+          "wiki_title": "Buinichi Field Memorial",
+          "lat": 53.85,
+          "lng": 30.25,
+          "order_index": 3,
+          "description": "Buinichi Field Memorial ranks among the signature sights of Mogilev.",
+          "seo_phrase": "Buinichi Field Memorial",
+          "seo_keywords": [
+            "Buinichi Field Memorial",
+            "Mogilev",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Buinichi field.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Buinichi%20field.jpg?width=900",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "monument",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mogilev Town Hall",
+            "St. Nicholas Monastery, Mogilev",
+            "Mogilev Drama Theatre"
+          ]
+        },
+        {
+          "name": "Leninskaya Street, Mogilev",
+          "wiki_title": "Leninskaya Street, Mogilev",
+          "lat": 53.8955,
+          "lng": 30.3315,
+          "order_index": 4,
+          "description": "Leninskaya Street, Mogilev ranks among the signature sights of Mogilev.",
+          "seo_phrase": "Leninskaya Street, Mogilev",
+          "seo_keywords": [
+            "Leninskaya Street, Mogilev",
+            "Mogilev",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Leninskaya Mogilev.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leninskaya%20Mogilev.jpg?width=900",
+          "seo_priority": 75,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mogilev Town Hall",
+            "St. Nicholas Monastery, Mogilev",
+            "Mogilev Drama Theatre"
+          ]
+        },
+        {
+          "name": "St. Stanislav Cathedral, Mogilev",
+          "wiki_title": "St. Stanislav Cathedral, Mogilev",
+          "lat": 53.894,
+          "lng": 30.329,
+          "order_index": 5,
+          "description": "St. Stanislav Cathedral, Mogilev ranks among the signature sights of Mogilev.",
+          "seo_phrase": "St. Stanislav Cathedral, Mogilev",
+          "seo_keywords": [
+            "St. Stanislav Cathedral, Mogilev",
+            "Mogilev",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Stanislav Mogilev.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stanislav%20Mogilev.jpg?width=900",
+          "seo_priority": 82,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "church",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mogilev Town Hall",
+            "St. Nicholas Monastery, Mogilev",
+            "Mogilev Drama Theatre"
+          ]
+        },
+        {
+          "name": "Dnieper Embankment, Mogilev",
+          "wiki_title": "Dnieper",
+          "lat": 55.8721,
+          "lng": 33.7239,
+          "order_index": 6,
+          "description": "The Dnieper or Dnepr ( (də-)NEE-pər), also known as the Dnipro ( (də-)NEE-proh), is one of the major transboundary rivers of Europe, rising in the Valdai Hills near Smolensk, Russia, before flowing through Belarus and...",
+          "seo_phrase": "Dnieper Embankment, Mogilev",
+          "seo_keywords": [
+            "Dnieper Embankment, Mogilev",
+            "Mogilev",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Dniepr_river_in_Kyiv.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dniepr_river_in_Kyiv.jpg?width=900",
+          "seo_priority": 78,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "park",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mogilev Town Hall",
+            "St. Nicholas Monastery, Mogilev",
+            "Mogilev Drama Theatre"
+          ]
+        },
+        {
+          "name": "Stars Square, Mogilev",
+          "wiki_title": "Stars Square, Mogilev",
+          "lat": 53.8965,
+          "lng": 30.3325,
+          "order_index": 7,
+          "description": "Stars Square, Mogilev ranks among the signature sights of Mogilev.",
+          "seo_phrase": "Stars Square, Mogilev",
+          "seo_keywords": [
+            "Stars Square, Mogilev",
+            "Mogilev",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Stars square Mogilev.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stars%20square%20Mogilev.jpg?width=900",
+          "seo_priority": 74,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "park",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mogilev Town Hall",
+            "St. Nicholas Monastery, Mogilev",
+            "Mogilev Drama Theatre"
+          ]
+        },
+        {
+          "name": "Mogilev Regional Museum",
+          "wiki_title": "Mogilev Regional Museum",
+          "lat": 53.8958,
+          "lng": 30.3318,
+          "order_index": 8,
+          "description": "Mogilev Regional Museum ranks among the signature sights of Mogilev.",
+          "seo_phrase": "Mogilev Regional Museum",
+          "seo_keywords": [
+            "Mogilev Regional Museum",
+            "Mogilev",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Mogilev regional museum.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mogilev%20regional%20museum.jpg?width=900",
+          "seo_priority": 76,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "museum",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Mogilev Town Hall",
+            "St. Nicholas Monastery, Mogilev",
+            "Mogilev Drama Theatre"
+          ]
+        },
+        {
+          "name": "Maslennikov Drama Theatre",
+          "wiki_title": "Maslennikov Drama Theatre",
+          "lat": 53.8962,
+          "lng": 30.3322,
+          "order_index": 9,
+          "description": "Maslennikov Drama Theatre ranks among the signature sights of Mogilev.",
+          "seo_phrase": "Maslennikov Drama Theatre",
+          "seo_keywords": [
+            "Maslennikov Drama Theatre",
+            "Mogilev",
+            "Belarus",
+            "travel",
+            "attractions",
+            "tourism"
+          ],
+          "commons_file": "Maslennikov theatre.jpg",
+          "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maslennikov%20theatre.jpg?width=900",
+          "seo_priority": 79,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "type": "culture",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Mogilev Town Hall",
+            "St. Nicholas Monastery, Mogilev",
+            "Mogilev Drama Theatre"
+          ]
+        }
+      ]
+    }
+  ],
+  "adventure": {
+    "title": "Belarus Nature & Forest Road Trip",
+    "subtitle": "10-day drive through national parks, lakes, and ancient woodlands",
+    "wiki_title": "Belarus",
+    "totalDays": 10,
+    "seo": {
+      "title": "10-Day Belarus Road Trip: Forests, Lakes & National Parks",
+      "description": "Drive through Belovezhskaya Pushcha, Braslaw Lakes, Pripyatsky marshes, and Belarus's wildest landscapes.",
+      "intro": "A car-based route linking Belarus's best nature reserves — bison forests, glacial lakes, and river floodplains.",
+      "keywords": [
+        "Belarus road trip",
+        "Belarus national parks",
+        "Belovezhskaya Pushcha",
+        "nature travel Belarus"
+      ]
+    },
+    "places": [
+      {
+        "name": "Belovezhskaya Pushcha National Park",
+        "wiki_title": "Belovezhskaya Pushcha National Park",
+        "region": "Brest Region",
+        "lat": 52.58546111,
+        "lng": 23.87912778,
+        "day": 1,
+        "order_index": 0,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "adventure"
+        ],
+        "description": "Belovezhskaya Pushcha National Park (Russian: Национальный парк «Беловежская пуща», Belarusian: Нацыянальны парк Белавежская пушча) is a national park within parts of the Brest Region (Kamyanyets D...",
+        "seo_phrase": "Belovezhskaya Pushcha National Park",
+        "seo_keywords": [
+          "Belovezhskaya Pushcha National Park",
+          "Belarus",
+          "national park",
+          "nature",
+          "hiking",
+          "road trip"
+        ],
+        "commons_file": "BelarusBNP09.JPG",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BelarusBNP09.JPG?width=900",
+        "seo_priority": 98,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4
+      },
+      {
+        "name": "Braslaw Lakes National Park",
+        "wiki_title": "Braslaw Lakes National Park",
+        "region": "Vitebsk Region",
+        "lat": 55.633,
+        "lng": 27.033,
+        "day": 2,
+        "order_index": 1,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "adventure"
+        ],
+        "description": "Braslaw Lakes National Park is one of Belarus's flagship outdoor destinations.",
+        "seo_phrase": "Braslaw Lakes National Park",
+        "seo_keywords": [
+          "Braslaw Lakes National Park",
+          "Belarus",
+          "national park",
+          "nature",
+          "hiking",
+          "road trip"
+        ],
+        "commons_file": "Braslaw lakes.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Braslaw%20lakes.jpg?width=900",
+        "seo_priority": 95,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4
+      },
+      {
+        "name": "Naliboki Forest",
+        "wiki_title": "Naliboki forest",
+        "region": "Grodnenskaya Region",
+        "lat": 53.88444444,
+        "lng": 26.4425,
+        "day": 3,
+        "order_index": 2,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "adventure"
+        ],
+        "description": "Naliboki Forest (Belarusian: Налібоцкая пушча, Nalibotskaya Pushcha; Russian: Налибокская пуща, Nalibokskaya Pushcha) (pushcha: wild forest, primeval forest)) is a large forest complex in northwest...",
+        "seo_phrase": "Naliboki Forest",
+        "seo_keywords": [
+          "Naliboki Forest",
+          "Belarus",
+          "national park",
+          "nature",
+          "hiking",
+          "road trip"
+        ],
+        "commons_file": "Nalibotskaya_Pushcha.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nalibotskaya_Pushcha.jpg?width=900",
+        "seo_priority": 88,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4
+      },
+      {
+        "name": "Pripyatsky National Park",
+        "wiki_title": "Pripyatsky National Park",
+        "region": "Gomel Region",
+        "lat": 52,
+        "lng": 28,
+        "day": 4,
+        "order_index": 3,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "adventure"
+        ],
+        "description": "Pripyatsky National Park or Pripyat National Park, is a natural reserve in Gomel Region, Belarus. Before becoming a national park in 1996, the area operated as the Pripyatsky Landscape-Hydrological...",
+        "seo_phrase": "Pripyatsky National Park",
+        "seo_keywords": [
+          "Pripyatsky National Park",
+          "Belarus",
+          "national park",
+          "nature",
+          "hiking",
+          "road trip"
+        ],
+        "commons_file": "Prypiać_river_in_Mazyr,_Belarus_2005.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prypia%C4%87_river_in_Mazyr%2C_Belarus_2005.jpg?width=900",
+        "seo_priority": 92,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4
+      },
+      {
+        "name": "Berezina Biosphere Reserve",
+        "wiki_title": "Berezina Biosphere Reserve",
+        "region": "Minsk Region",
+        "lat": 54.667,
+        "lng": 28.333,
+        "day": 5,
+        "order_index": 4,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "adventure"
+        ],
+        "description": "Berezina Biosphere Reserve is one of Belarus's flagship outdoor destinations.",
+        "seo_phrase": "Berezina Biosphere Reserve",
+        "seo_keywords": [
+          "Berezina Biosphere Reserve",
+          "Belarus",
+          "national park",
+          "nature",
+          "hiking",
+          "road trip"
+        ],
+        "commons_file": "Berezina reserve.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Berezina%20reserve.jpg?width=900",
+        "seo_priority": 90,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4
+      },
+      {
+        "name": "Lake Narach",
+        "wiki_title": "Lake Narach",
+        "region": "Minsk Region",
+        "lat": 54.933,
+        "lng": 26.733,
+        "day": 6,
+        "order_index": 5,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "adventure"
+        ],
+        "description": "Lake Narach is one of Belarus's flagship outdoor destinations.",
+        "seo_phrase": "Lake Narach",
+        "seo_keywords": [
+          "Lake Narach",
+          "Belarus",
+          "national park",
+          "nature",
+          "hiking",
+          "road trip"
+        ],
+        "commons_file": "Lake Narach.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Narach.jpg?width=900",
+        "seo_priority": 86,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4
+      },
+      {
+        "name": "Zaslavskoye Reservoir",
+        "wiki_title": "Zaslavskoye Reservoir",
+        "region": "Minsk Region",
+        "lat": 53.883,
+        "lng": 27.267,
+        "day": 7,
+        "order_index": 6,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "adventure"
+        ],
+        "description": "Zaslavskoye Reservoir is one of Belarus's flagship outdoor destinations.",
+        "seo_phrase": "Zaslavskoye Reservoir",
+        "seo_keywords": [
+          "Zaslavskoye Reservoir",
+          "Belarus",
+          "national park",
+          "nature",
+          "hiking",
+          "road trip"
+        ],
+        "commons_file": "Zaslavskoye reservoir.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zaslavskoye%20reservoir.jpg?width=900",
+        "seo_priority": 82,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4
+      },
+      {
+        "name": "Svislach River Valley",
+        "wiki_title": "Svislach River",
+        "region": "Minsk Region",
+        "lat": 53.9,
+        "lng": 27.55,
+        "day": 8,
+        "order_index": 7,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "adventure"
+        ],
+        "description": "Svislach River Valley is one of Belarus's flagship outdoor destinations.",
+        "seo_phrase": "Svislach River Valley",
+        "seo_keywords": [
+          "Svislach River Valley",
+          "Belarus",
+          "national park",
+          "nature",
+          "hiking",
+          "road trip"
+        ],
+        "commons_file": "Svislach river.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Svislach%20river.jpg?width=900",
+        "seo_priority": 80,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4
+      },
+      {
+        "name": "Blue Lakes Nature Reserve",
+        "wiki_title": "Blue Lakes Nature Reserve",
+        "region": "Vitebsk Region",
+        "lat": 55.5,
+        "lng": 27.5,
+        "day": 9,
+        "order_index": 8,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "adventure"
+        ],
+        "description": "Blue Lakes Nature Reserve is one of Belarus's flagship outdoor destinations.",
+        "seo_phrase": "Blue Lakes Nature Reserve",
+        "seo_keywords": [
+          "Blue Lakes Nature Reserve",
+          "Belarus",
+          "national park",
+          "nature",
+          "hiking",
+          "road trip"
+        ],
+        "commons_file": "Blue lakes Belarus.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue%20lakes%20Belarus.jpg?width=900",
+        "seo_priority": 84,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4
+      },
+      {
+        "name": "Osveja Lake",
+        "wiki_title": "Osveja Lake",
+        "region": "Vitebsk Region",
+        "lat": 55.617,
+        "lng": 28.167,
+        "day": 10,
+        "order_index": 9,
+        "requires_car": true,
+        "tags": [
+          "nature",
+          "adventure"
+        ],
+        "description": "Osveja Lake is one of Belarus's flagship outdoor destinations.",
+        "seo_phrase": "Osveja Lake",
+        "seo_keywords": [
+          "Osveja Lake",
+          "Belarus",
+          "national park",
+          "nature",
+          "hiking",
+          "road trip"
+        ],
+        "commons_file": "Osveja lake.jpg",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Osveja%20lake.jpg?width=900",
+        "seo_priority": 83,
+        "best_season": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "visit_duration_hours": 4
+      }
+    ]
+  }
+}
