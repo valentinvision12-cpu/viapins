@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { useTranslations } from "next-intl";
-import { Search, Sparkles, Compass } from "lucide-react";
+import { Search, Compass } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import type { CountryCard, DestinationCard } from "@/actions/get-destinations";
 import { CountryFlag } from "@/components/public/country-flag";
@@ -11,23 +11,13 @@ import { LUXURY, COMPASS } from "@/lib/luxury-palette";
 
 const COMPASS_IMAGE = "/images/hero-luxury-compass.png";
 
-const SEASONS = [
-  { key: "winter", emoji: "❄️" },
-  { key: "spring", emoji: "🌸" },
-  { key: "summer", emoji: "☀️" },
-  { key: "autumn", emoji: "🍂" },
-] as const;
-
 interface HeroMapProps {
   featuredCountries: CountryCard[];
   inspireCities: DestinationCard[];
   searchQuery: string;
   onSearchChange: (q: string) => void;
-  seasonFilter: string | null;
-  onSeasonFilter: (s: string | null) => void;
   onQuickPick: (city: string) => void;
   onSearchSubmit: () => void;
-  availableSeasons?: Set<string>;
 }
 
 export function HeroMap({
@@ -35,14 +25,10 @@ export function HeroMap({
   inspireCities,
   searchQuery,
   onSearchChange,
-  seasonFilter,
-  onSeasonFilter,
   onQuickPick,
   onSearchSubmit,
-  availableSeasons,
 }: HeroMapProps) {
   const t = useTranslations("home");
-  const tSeasons = useTranslations("seasons");
 
   const quickPicks = featuredCountries.slice(0, 6);
 
@@ -152,33 +138,6 @@ export function HeroMap({
             </button>
           </form>
         </div>
-
-        {availableSeasons && availableSeasons.size > 0 && (
-        <div className="flex flex-wrap gap-2 justify-center mb-5">
-          {SEASONS.filter(({ key }) => availableSeasons.has(key)).map(({ key, emoji }) => {
-            const active = seasonFilter === key;
-            return (
-              <button
-                key={key}
-                type="button"
-                onClick={() => onSeasonFilter(active ? null : key)}
-                className="px-3.5 py-1.5 min-h-[36px] rounded-full text-xs font-medium border transition-all cursor-pointer"
-                style={
-                  active
-                    ? { background: LUXURY.bronze, color: "#fff", borderColor: LUXURY.bronze }
-                    : {
-                        background: "rgba(253,251,247,0.85)",
-                        color: LUXURY.textSecondary,
-                        borderColor: LUXURY.bronzeBorder,
-                      }
-                }
-              >
-                {emoji} {tSeasons(key)}
-              </button>
-            );
-          })}
-        </div>
-        )}
 
         {quickPicks.length > 0 && (
           <div className="flex flex-wrap items-center justify-center gap-2 mb-4">

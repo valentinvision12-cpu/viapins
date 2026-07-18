@@ -6,20 +6,13 @@ import { MapPin, Layers, ArrowRight } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import { motion } from "framer-motion";
 import type { DestinationCard as DestinationCardType } from "@/actions/get-destinations";
-import { LUXURY } from "@/lib/luxury-palette";
+import { fallbackImageUrl } from "@/lib/fallback-image";
 
 interface Props {
   destination: DestinationCardType;
   index: number;
   priority?: boolean;
 }
-
-const TAG_COLORS: Record<string, string> = {
-  winter: "bg-sky-50 text-sky-600 border-sky-100",
-  spring: "bg-pink-50 text-pink-600 border-pink-100",
-  summer: "bg-amber-50 text-amber-600 border-amber-100",
-  autumn: "bg-orange-50 text-orange-600 border-orange-100",
-};
 
 const GRADIENTS = [
   "from-[#1a2a4a] to-[#2d4a7a]",
@@ -39,7 +32,10 @@ function gradientForCity(city: string) {
 
 export function DestinationCard({ destination, index, priority = false }: Props) {
   const gradient = gradientForCity(destination.city);
-  const [imgSrc, setImgSrc] = useState(destination.coverImage || "");
+  const seed = `${destination.city}-${destination.country}`;
+  const [imgSrc, setImgSrc] = useState(
+    destination.coverImage || fallbackImageUrl(seed)
+  );
   const hasImage = !!imgSrc;
 
   const cardContent = (
@@ -56,7 +52,7 @@ export function DestinationCard({ destination, index, priority = false }: Props)
             unoptimized
             priority={priority}
             referrerPolicy="no-referrer"
-            onError={() => setImgSrc("")}
+            onError={() => setImgSrc(fallbackImageUrl(seed))}
           />
         )}
 

@@ -11,7 +11,6 @@ import { LUXURY } from "@/lib/luxury-palette";
 
 interface Props {
   countries: CountryCardType[];
-  seasonFilter: string | null;
 }
 
 function ContinentSectionBanner({
@@ -79,25 +78,18 @@ function ContinentSectionBanner({
   );
 }
 
-export function CountriesGrid({ countries, seasonFilter }: Props) {
+export function CountriesGrid({ countries }: Props) {
   const t = useTranslations("home");
   const tContinents = useTranslations("continents");
 
-  const filtered = useMemo(() => {
-    if (!seasonFilter) return countries;
-    return countries.filter((c) =>
-      c.tags.map((tag) => tag.toLowerCase()).includes(seasonFilter)
-    );
-  }, [countries, seasonFilter]);
-
   const europeCountries = useMemo(
-    () => filtered.filter((c) => c.continent === "europe"),
-    [filtered]
+    () => countries.filter((c) => c.continent === "europe"),
+    [countries]
   );
 
   const asiaCountries = useMemo(
-    () => filtered.filter((c) => c.continent === "asia"),
-    [filtered]
+    () => countries.filter((c) => c.continent === "asia"),
+    [countries]
   );
 
   return (
@@ -109,12 +101,12 @@ export function CountriesGrid({ countries, seasonFilter }: Props) {
               {t("countriesTitle")}
             </h2>
             <p className="text-sm mt-1" style={{ color: LUXURY.textMuted }}>
-              {filtered.length} {t("countriesCount")}
+              {countries.length} {t("countriesCount")}
             </p>
           </div>
         </div>
 
-        {filtered.length === 0 ? (
+        {countries.length === 0 ? (
           <div className="text-center py-20">
             <Compass className="w-10 h-10 mx-auto mb-3 opacity-40" style={{ color: LUXURY.textMuted }} />
             <p className="text-lg" style={{ color: LUXURY.textSecondary }}>

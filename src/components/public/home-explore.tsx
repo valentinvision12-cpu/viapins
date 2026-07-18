@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useCallback, useMemo } from "react";
+import { useState, useCallback } from "react";
 import { HeroMap } from "@/components/public/hero-map";
 import { CountriesGrid } from "@/components/public/countries-grid";
 import { SearchResultsGrid } from "@/components/public/search-results-grid";
@@ -15,7 +15,6 @@ interface Props {
 
 export function HomeExplore({ countries, heroCountries, searchIndex, inspireCities }: Props) {
   const [searchQuery, setSearchQuery] = useState("");
-  const [seasonFilter, setSeasonFilter] = useState<string | null>(null);
 
   const scrollToDestinations = useCallback(() => {
     document.getElementById("destinations")?.scrollIntoView({ behavior: "smooth" });
@@ -31,16 +30,6 @@ export function HomeExplore({ countries, heroCountries, searchIndex, inspireCiti
 
   const isSearching = searchQuery.trim().length > 0;
 
-  const availableSeasons = useMemo(() => {
-    const set = new Set<string>();
-    for (const c of countries) {
-      for (const tag of c.tags) {
-        set.add(tag.toLowerCase());
-      }
-    }
-    return set;
-  }, [countries]);
-
   return (
     <>
       <HeroMap
@@ -48,17 +37,14 @@ export function HomeExplore({ countries, heroCountries, searchIndex, inspireCiti
         inspireCities={inspireCities}
         searchQuery={searchQuery}
         onSearchChange={setSearchQuery}
-        seasonFilter={seasonFilter}
-        onSeasonFilter={setSeasonFilter}
         onQuickPick={handleQuickPick}
         onSearchSubmit={scrollToDestinations}
-        availableSeasons={availableSeasons}
       />
 
       {isSearching ? (
         <SearchResultsGrid items={searchIndex} query={searchQuery} />
       ) : (
-        <CountriesGrid countries={countries} seasonFilter={seasonFilter} />
+        <CountriesGrid countries={countries} />
       )}
     </>
   );

@@ -47,7 +47,7 @@ export default async function MyPassportPage({ params }: Props) {
   return (
     <>
       <NavHeader />
-      <main className="min-h-screen pt-20 text-white bg-gradient-to-br from-slate-950 via-blue-950 to-black">
+      <main className="min-h-screen pt-20 text-white" style={{ background: "linear-gradient(145deg, #1C1409 0%, #2C1E0E 40%, #1A1510 100%)" }}>
         <div className="container max-w-4xl mx-auto px-6 py-12">
           {user && isConfigured && (
             <PassportProfileHeader
@@ -67,9 +67,9 @@ export default async function MyPassportPage({ params }: Props) {
             <div className="flex items-center gap-4 mb-10">
               <div
                 className="w-14 h-14 rounded-2xl flex items-center justify-center shadow-sm flex-shrink-0"
-                style={{ background: "oklch(0.68 0.16 82)" }}
+                style={{ background: "rgba(154,123,79,0.25)", border: "1px solid rgba(154,123,79,0.3)" }}
               >
-                <Briefcase className="w-7 h-7 text-white" />
+                <Briefcase className="w-7 h-7" style={{ color: "#E8C99B" }} />
               </div>
               <div>
                 <h1 className="text-2xl font-bold text-white">{t("title")}</h1>

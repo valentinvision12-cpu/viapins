@@ -93,11 +93,17 @@ export function NavHeader() {
             className={cn(
               "inline-flex items-center gap-1.5 text-sm font-medium transition-colors duration-300",
               pathname.includes("/adventures")
-                ? "text-orange-600"
-                : dark
-                ? "text-orange-200 hover:text-orange-100"
-                : "text-orange-700 hover:text-orange-900"
+                ? "font-semibold"
+                : "",
+              dark
+                ? "text-white/70 hover:text-white"
+                : "text-stone-600 hover:text-stone-900"
             )}
+            style={
+              !dark && pathname.includes("/adventures")
+                ? { color: LUXURY.bronze }
+                : undefined
+            }
           >
             <Compass className="w-3.5 h-3.5" />
             {t("adventures")}
@@ -117,7 +123,7 @@ export function NavHeader() {
             <Briefcase className="w-3.5 h-3.5" />
             <NavTripBadge dark={dark} />
           </Link>
-          {CORE_LOCALES.length > 1 && (
+          {false && CORE_LOCALES.length > 1 && (
             <LanguageSwitcher variant={dark ? "default" : "minimal"} />
           )}
           <UserNav dark={dark} />

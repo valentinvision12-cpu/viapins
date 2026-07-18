@@ -9,6 +9,7 @@ import { useRouteCart } from "@/lib/context/route-cart-context";
 import { useFavorites } from "@/lib/context/favorites-context";
 import { isBadImageUrl } from "@/lib/wiki-image";
 import { verifyPlaceImage } from "@/lib/place-image-verify";
+import { fallbackImageUrl } from "@/lib/fallback-image";
 import { buildPlaceSeo } from "@/lib/seo";
 import { wikipediaUrl } from "@/lib/place-links";
 import { MapsPlaceLink } from "@/components/public/maps-place-link";
@@ -47,12 +48,14 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
   const t = useTranslations("route");
   const tPlace = useTranslations("place");
   const [wikiOpen, setWikiOpen] = useState(false);
-  const [imgSrc, setImgSrc] = useState(place.image_url || "");
+  const fallback = fallbackImageUrl(`${place.name}-${city}`);
+  const [imgSrc, setImgSrc] = useState(place.image_url || fallback);
   const { addItem, removeItem, isInCart } = useRouteCart();
   const { isFavorite, toggleFavorite, isLoggedIn } = useFavorites();
 
   useEffect(() => {
-    setImgSrc(place.image_url || "");
+    setImgSrc(place.image_url || fallback);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [place.image_url]);
 
   useEffect(() => {
@@ -150,13 +153,22 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
                   .then((r) => r.json())
                   .then((data: { url?: string }) => {
                     if (data.url) setImgSrc(data.url);
-                    else setImgSrc("");
+                    else setImgSrc(fallbackImageUrl(`${place.name}-${city}`));
                   })
-                  .catch(() => setImgSrc(""));
+                  .catch(() => setImgSrc(fallbackImageUrl(`${place.name}-${city}`)));
               }}
             />
           ) : (
-            <div className="w-full h-full bg-gradient-to-br from-stone-200 to-stone-300" />
+            <div className="relative w-full h-full bg-gradient-to-br from-stone-200 to-stone-300">
+              <Image
+                src={fallbackImageUrl(`${place.name}-${city}`)}
+                alt={place.name}
+                fill
+                sizes="(max-width: 640px) 100vw, 208px"
+                className="object-cover opacity-70"
+                unoptimized
+              />
+            </div>
           )}
 
           <div

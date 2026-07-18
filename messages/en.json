@@ -17,12 +17,12 @@
   },
   "nav": {
     "explore": "Explore",
-    "myPassport": "My Passport",
-    "myTrip": "My Trip",
+    "myPassport": "My Places",
+    "myTrip": "My Places",
     "signIn": "Sign In",
     "signOut": "Sign Out",
     "home": "Explore",
-    "adventures": "Adventures"
+    "adventures": "Routes"
   },
   "home": {
     "heroEyebrow": "Free travel guides",
@@ -299,9 +299,9 @@
     "noDestinations": "No destinations available yet."
   },
   "myTrip": {
-    "title": "My Passport",
-    "subtitle": "Your saved places, routes, and completed trips",
-    "metaTitle": "My Passport",
+    "title": "My Places",
+    "subtitle": "Your saved places and routes",
+    "metaTitle": "My Places",
     "statsCountries": "Countries",
     "statsPlaces": "Saved",
     "statsRoutes": "Routes",
