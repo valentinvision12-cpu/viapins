@@ -233,7 +233,7 @@ function FavoritesAuthModal({ onClose, pendingPlace }: {
 
     const { error } = await supabase.auth.signInWithOtp({
       email: email.trim(),
-      options: { emailRedirectTo: "http://localhost:3002/api/auth/callback?next=/en/my-passport" },
+      options: { emailRedirectTo: `${(process.env.NEXT_PUBLIC_SITE_URL ?? "").replace(/\/$/, "") || (typeof window !== "undefined" ? window.location.origin : "")}/api/auth/callback?next=/en/my-passport` },
     });
 
     setStep(error ? "error" : "sent");

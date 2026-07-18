@@ -9,14 +9,12 @@ import { getDemoDestination, type DemoDestination } from "@/lib/demo-data";
 import { isBadImageUrl } from "@/lib/wiki-image";
 import {
   filterPlacesForDisplay,
-  filterPlacesForMap,
   filterPlacesWithPhoto,
   pickCityCoverFromPlaces,
   resolveCityCoverFromDb,
 } from "@/lib/city-cover";
 import { ShareDestinationButton } from "@/components/public/share-destination-button";
 import { PlaceCard } from "@/components/public/place-card";
-import { CityPlacesMap } from "@/components/public/city-places-map";
 import { NavHeader } from "@/components/public/nav-header";
 import { CityProgress } from "@/components/public/city-progress";
 import { AdventureLinkBanner } from "@/components/public/adventure-link-banner";
@@ -107,7 +105,6 @@ export default async function ExploreCityPage({ params }: Props) {
     const demo = rawDestination as DemoDestination;
     const countryName = demo.country;
     const places = filterPlacesForDisplay(demo.places);
-    const mapStops = filterPlacesForMap(demo.places);
     const resolvedHero =
       demo.cityImage ||
       pickCityCoverFromPlaces(filterPlacesWithPhoto(demo.places)) ||
@@ -125,11 +122,6 @@ export default async function ExploreCityPage({ params }: Props) {
       filterPlacesWithPhoto(dbDest.places)
     );
   }
-
-  const mapStops =
-    "wiki_title" in rawDestination
-      ? filterPlacesForMap((rawDestination as DemoDestination).places)
-      : filterPlacesForMap((rawDestination as DestinationDetail).places);
 
   const seo = buildCitySeo({
     city: destination.city,
@@ -240,33 +232,6 @@ export default async function ExploreCityPage({ params }: Props) {
         <CityProgress city={destination.city} totalPlaces={destination.places.length} />
 
         <section className="container max-w-7xl mx-auto px-4 sm:px-6 py-6 sm:py-10 pb-10">
-          <CityPlacesMap
-            className="mb-6 sm:mb-8"
-            locale={locale}
-            city={destination.city}
-            country={destination.country}
-            stops={mapStops.map((p) => {
-              const translations = p.translations as Record<
-                string,
-                { maps_query?: string; maps_url?: string }
-              >;
-              const tr = translations[locale] ?? translations.en;
-              return {
-                id: p.id,
-                name: p.name,
-                lat: Number(p.lat),
-                lng: Number(p.lng),
-                order_index: p.order_index,
-                image_url: p.image_url,
-                city: destination.city,
-                country: destination.country,
-                mapsQuery: tr?.maps_query,
-                mapsUrl: tr?.maps_url,
-                translations,
-              };
-            })}
-          />
-
           <AdventureLinkBanner
             countrySlug={country}
             countryName={destination.country}

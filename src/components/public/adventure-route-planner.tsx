@@ -11,7 +11,6 @@ import {
   sortByRecommendedOrder,
 } from "@/lib/adventure-itinerary";
 import { mapsPinLinkProps } from "@/components/public/maps-place-link";
-import { AdventureRouteMap } from "@/components/public/adventure-route-map";
 import type { AdventurePlace } from "@/lib/adventure-types";
 
 interface Props {
@@ -84,16 +83,7 @@ export function AdventureRoutePlanner({ places, country, totalDays, locale = "en
           </div>
         </div>
 
-        <div className="p-5 grid grid-cols-1 lg:grid-cols-2 gap-5">
-          <AdventureRouteMap
-            places={sortedPlaces}
-            country={country}
-            locale={locale}
-            activeIds={cartAdventureIds.size > 0 ? cartAdventureIds : undefined}
-            activeId={focusedStopId}
-            onActiveChange={setFocusedStopId}
-          />
-
+        <div className="p-5">
           <div className="space-y-3">
             {/* Add full route button */}
             <button

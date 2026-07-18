@@ -17,19 +17,12 @@ const securityHeaders = [
     key: "Content-Security-Policy",
     value: [
       "default-src 'self'",
-      // Scripts: self + Next.js inline scripts + Mapbox
-      "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://api.mapbox.com https://events.mapbox.com",
-      // Styles: self + inline (Tailwind/Mapbox CSS) + Google Fonts
-      "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://api.mapbox.com",
-      // Fonts
-      "font-src 'self' data: https://fonts.gstatic.com https://api.mapbox.com",
-      // Images: self + data URIs + Wikimedia + Supabase + Mapbox + Picsum + FlagCDN + commons
-      "img-src 'self' data: blob: https://*.supabase.co https://upload.wikimedia.org https://commons.wikimedia.org https://flagcdn.com https://api.mapbox.com https://picsum.photos https://*.unsplash.com",
-      // Connect: API calls to Supabase + Mapbox
-      "connect-src 'self' https://*.supabase.co wss://*.supabase.co https://api.mapbox.com https://events.mapbox.com https://*.mapbox.com",
-      // Workers for Mapbox GL
+      "script-src 'self' 'unsafe-inline' 'unsafe-eval'",
+      "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
+      "font-src 'self' data: https://fonts.gstatic.com",
+      "img-src 'self' data: blob: https://*.supabase.co https://upload.wikimedia.org https://commons.wikimedia.org https://flagcdn.com https://picsum.photos https://*.unsplash.com https://images.unsplash.com",
+      "connect-src 'self' https://*.supabase.co wss://*.supabase.co",
       "worker-src blob:",
-      // Frames: only self (embed route)
       "frame-src 'self'",
       "object-src 'none'",
       "base-uri 'self'",

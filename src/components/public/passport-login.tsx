@@ -26,7 +26,8 @@ export function PassportLogin() {
     process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
   );
 
-  const redirectTo = `http://localhost:3002/api/auth/callback?next=/en/my-passport`;
+  const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL ?? "").replace(/\/$/, "") || (typeof window !== "undefined" ? window.location.origin : "");
+  const redirectTo = `${siteUrl}/api/auth/callback?next=/en/my-passport`;
 
   async function handleGoogle() {
     await supabase.auth.signInWithOAuth({

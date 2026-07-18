@@ -19,7 +19,7 @@ import { hasAdventureMode } from "@/lib/adventure-data";
 import { getCountryContinent } from "@/lib/country-continents";
 
 function pageShareUrl(locale: string, path: string) {
-  const base = (process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3002").replace(/\/$/, "");
+  const base = (process.env.NEXT_PUBLIC_SITE_URL ?? "").replace(/\/$/, "") || "https://travel-magazine-six.vercel.app";
   return `${base}/${locale}${path.startsWith("/") ? path : `/${path}`}`;
 }
 
