@@ -198,3 +198,38 @@ body {
 .map-chip-scroll::-webkit-scrollbar {
   display: none;
 }
+
+/* ─── Skeleton shimmer ──────────────────────────────────────────────────── */
+@keyframes skeleton-shimmer {
+  0%   { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+/* ─── Mobile swipe scroll snap ──────────────────────────────────────────── */
+.swipe-scroll {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  gap: 1rem;
+  padding-bottom: 4px;
+}
+.swipe-scroll::-webkit-scrollbar { display: none; }
+.swipe-scroll > * {
+  scroll-snap-align: start;
+  flex-shrink: 0;
+}
+
+/* ─── Safe bottom spacing for pages (avoids bottom nav overlap) ─────────── */
+@media (max-width: 767px) {
+  main {
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+  footer {
+    padding-bottom: calc(5rem + env(safe-area-inset-bottom, 0px)) !important;
+  }
+}
+.pb-safe {
+  padding-bottom: max(0.5rem, env(safe-area-inset-bottom));
+}

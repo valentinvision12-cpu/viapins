@@ -126,9 +126,19 @@ export default async function ExploreCountryPage({ params }: Props) {
             </h2>
           </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {/* Mobile: horizontal swipe scroll */}
+          <div className="sm:hidden swipe-scroll -mx-6 px-6">
             {data.cities.map((city, i) => (
-              <DestinationCard key={city.id} destination={city} index={i} />
+              <div key={city.id} className="w-[78vw] max-w-[280px]">
+                <DestinationCard destination={city} index={i} priority={i < 2} />
+              </div>
+            ))}
+          </div>
+
+          {/* Desktop: regular grid */}
+          <div className="hidden sm:grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {data.cities.map((city, i) => (
+              <DestinationCard key={city.id} destination={city} index={i} priority={i < 2} />
             ))}
           </div>
         </section>

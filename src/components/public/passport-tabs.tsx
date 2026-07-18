@@ -3,7 +3,8 @@
 import { useEffect, useMemo, useState } from "react";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
-import { BookMarked, Stamp, Globe, MapPin, Map, Heart, X, ExternalLink, Navigation, LayoutGrid, List, Sparkles, Gauge } from "lucide-react";
+import { BookMarked, Stamp, Globe, MapPin, Map, Heart, X, ExternalLink, Navigation, LayoutGrid, List, Sparkles, Gauge, Settings, LogOut, ChevronRight, Languages } from "lucide-react";
+import { createBrowserClient } from "@supabase/ssr";
 import { motion, AnimatePresence } from "framer-motion";
 import type { SavedRoute } from "@/actions/get-my-routes";
 import type { FavoritePlace } from "@/actions/favorites";
@@ -359,9 +360,92 @@ interface Props {
 type Tab = "saved" | "routes" | "visited";
 type SavedView = "country" | "all";
 
+function SettingsPanel({ locale }: { locale: string }) {
+  const [signingOut, setSigningOut] = useState(false);
+
+  async function handleSignOut() {
+    setSigningOut(true);
+    const supabase = createBrowserClient(
+      process.env.NEXT_PUBLIC_SUPABASE_URL!,
+      process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
+    );
+    await supabase.auth.signOut();
+    window.location.href = `/${locale}`;
+  }
+
+  const LANG_OPTIONS = [
+    { code: "en", label: "English", flag: "🇬🇧" },
+    { code: "es", label: "Español", flag: "🇪🇸" },
+    { code: "fr", label: "Français", flag: "🇫🇷" },
+    { code: "de", label: "Deutsch", flag: "🇩🇪" },
+    { code: "it", label: "Italiano", flag: "🇮🇹" },
+  ];
+
+  return (
+    <motion.div key="settings" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
+      <div className="space-y-4">
+        {/* Language */}
+        <div className="rounded-3xl border border-white/10 bg-white/5 backdrop-blur-xl overflow-hidden">
+          <div className="px-5 py-4 border-b border-white/10 flex items-center gap-2">
+            <Languages className="w-4 h-4 text-cyan-300" />
+            <p className="text-white font-semibold text-sm">Language</p>
+          </div>
+          <div className="divide-y divide-white/10">
+            {LANG_OPTIONS.map((lang) => {
+              const isCurrent = locale === lang.code;
+              return (
+                <a
+                  key={lang.code}
+                  href={`/${lang.code}/my-passport`}
+                  className={`flex items-center justify-between px-5 py-3.5 transition-colors ${
+                    isCurrent ? "bg-white/10" : "hover:bg-white/5"
+                  }`}
+                >
+                  <div className="flex items-center gap-3">
+                    <span className="text-lg">{lang.flag}</span>
+                    <span className={`text-sm font-medium ${isCurrent ? "text-white" : "text-white/70"}`}>{lang.label}</span>
+                  </div>
+                  {isCurrent && <div className="w-2 h-2 rounded-full bg-cyan-400" />}
+                </a>
+              );
+            })}
+          </div>
+        </div>
+
+        {/* Legal links */}
+        <div className="rounded-3xl border border-white/10 bg-white/5 backdrop-blur-xl overflow-hidden">
+          {[
+            { label: "Terms of Service", href: `/${locale}/terms` },
+            { label: "Privacy Policy", href: `/${locale}/privacy` },
+          ].map((item) => (
+            <a
+              key={item.href}
+              href={item.href}
+              className="flex items-center justify-between px-5 py-3.5 hover:bg-white/5 transition-colors border-b border-white/10 last:border-0"
+            >
+              <span className="text-white/70 text-sm">{item.label}</span>
+              <ChevronRight className="w-4 h-4 text-white/35" />
+            </a>
+          ))}
+        </div>
+
+        {/* Sign out */}
+        <button
+          onClick={handleSignOut}
+          disabled={signingOut}
+          className="w-full flex items-center justify-center gap-2 py-3.5 rounded-2xl border border-red-500/30 bg-red-500/10 text-red-400 font-semibold text-sm hover:bg-red-500/20 transition-colors disabled:opacity-50"
+        >
+          <LogOut className="w-4 h-4" />
+          {signingOut ? "Signing out…" : "Sign Out"}
+        </button>
+      </div>
+    </motion.div>
+  );
+}
+
 export function PassportTabs({ savedRoutes, visitedRoutes, initialFavorites, locale = "en" }: Props) {
   const t = useTranslations("myTrip");
-  const [tab, setTab] = useState<Tab | "dna">("saved");
+  const [tab, setTab] = useState<Tab | "dna" | "settings">("saved");
   const [savedView, setSavedView] = useState<SavedView>("country");
   const { favorites: liveFavorites, totalFavorites } = useFavorites();
 
@@ -377,11 +461,12 @@ export function PassportTabs({ savedRoutes, visitedRoutes, initialFavorites, loc
 
   const routes = tab === "routes" ? savedRoutes : visitedRoutes;
 
-  const tabs: { key: Tab | "dna"; label: string; icon: React.ElementType; count?: number }[] = [
+  const tabs: { key: Tab | "dna" | "settings"; label: string; icon: React.ElementType; count?: number }[] = [
     { key: "saved", label: t("tabSaved"), icon: Heart, count: totalFavorites || favorites.length },
     { key: "routes", label: t("tabRoutes"), icon: BookMarked, count: savedRoutes.length },
     { key: "visited", label: t("tabVisited"), icon: Stamp, count: visitedRoutes.length },
     { key: "dna", label: t("tabDna"), icon: Sparkles },
+    { key: "settings", label: "Settings", icon: Settings },
   ];
 
   const dna = useMemo(() => {
@@ -438,8 +523,8 @@ export function PassportTabs({ savedRoutes, visitedRoutes, initialFavorites, loc
   useEffect(() => {
     try {
       const stored = localStorage.getItem("viapins_passport_tab");
-      if (stored && ["saved", "routes", "visited", "dna"].includes(stored)) {
-        setTab(stored as (Tab | "dna"));
+      if (stored && ["saved", "routes", "visited", "dna", "settings"].includes(stored)) {
+        setTab(stored as (Tab | "dna" | "settings"));
       }
     } catch {
       // ignore
@@ -673,25 +758,30 @@ export function PassportTabs({ savedRoutes, visitedRoutes, initialFavorites, loc
             </div>
           </motion.div>
         )}
+
+        {tab === "settings" && (
+          <SettingsPanel locale={locale} />
+        )}
       </AnimatePresence>
 
       {/* Mobile bottom navigation (Passport only) */}
       <nav className="fixed inset-x-0 bottom-0 z-40 md:hidden border-t border-white/10 bg-slate-950/70 backdrop-blur-2xl">
-        <div className="container max-w-4xl mx-auto px-4 py-3">
-          <div className="grid grid-cols-4 gap-2">
+        <div className="container max-w-4xl mx-auto px-4 py-3 pb-safe">
+          <div className="grid grid-cols-5 gap-1">
             {[
               { key: "saved", icon: Heart, label: t("tabSaved") },
               { key: "routes", icon: BookMarked, label: t("tabRoutes") },
               { key: "visited", icon: Stamp, label: t("tabVisited") },
               { key: "dna", icon: Sparkles, label: t("tabDna") },
+              { key: "settings", icon: Settings, label: "Settings" },
             ].map((item) => {
               const active = tab === item.key;
               return (
                 <button
                   key={item.key}
                   type="button"
-                  onClick={() => setTab(item.key as (Tab | "dna"))}
-                  className={`flex flex-col items-center justify-center gap-1 rounded-2xl px-2 py-2.5 transition-all ${
+                  onClick={() => setTab(item.key as (Tab | "dna" | "settings"))}
+                  className={`flex flex-col items-center justify-center gap-1 rounded-2xl px-1 py-2.5 transition-all ${
                     active ? "bg-white/15 text-white shadow-sm" : "text-white/55 hover:text-white"
                   }`}
                 >

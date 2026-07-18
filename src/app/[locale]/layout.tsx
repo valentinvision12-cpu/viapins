@@ -10,6 +10,7 @@ import { RouteCart } from "@/components/public/route-cart";
 import { RouteCartAlert } from "@/components/public/route-cart-alert";
 import { AdBlockProvider } from "@/components/public/adblock-detector";
 import { GuardianAgent } from "@/components/public/guardian-agent";
+import { MobileBottomNav } from "@/components/public/mobile-bottom-nav";
 
 type Props = {
   children: React.ReactNode;
@@ -46,6 +47,7 @@ export default async function LocaleLayout({ children, params }: Props) {
                 {children}
                 <RouteCartAlert />
                 <RouteCart />
+                <MobileBottomNav />
               </FavoritesProvider>
             </RouteCartProvider>
           </GuardianAgent>

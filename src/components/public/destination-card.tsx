@@ -2,14 +2,16 @@
 
 import Image from "next/image";
 import { useState } from "react";
-import { MapPin, Layers } from "lucide-react";
+import { MapPin, Layers, ArrowRight } from "lucide-react";
 import { Link } from "@/i18n/navigation";
+import { motion } from "framer-motion";
 import type { DestinationCard as DestinationCardType } from "@/actions/get-destinations";
 import { LUXURY } from "@/lib/luxury-palette";
 
 interface Props {
   destination: DestinationCardType;
   index: number;
+  priority?: boolean;
 }
 
 const TAG_COLORS: Record<string, string> = {
@@ -35,21 +37,15 @@ function gradientForCity(city: string) {
   return GRADIENTS[idx];
 }
 
-export function DestinationCard({ destination, index }: Props) {
+export function DestinationCard({ destination, index, priority = false }: Props) {
   const gradient = gradientForCity(destination.city);
   const [imgSrc, setImgSrc] = useState(destination.coverImage || "");
   const hasImage = !!imgSrc;
 
   const cardContent = (
-    <div
-      className="rounded-2xl overflow-hidden shadow-sm transition-all duration-300 group-hover:shadow-lg group-hover:-translate-y-0.5"
-      style={{
-        background: LUXURY.creamCard,
-        border: `1px solid ${LUXURY.bronzeBorder}`,
-      }}
-    >
-      {/* Cover image */}
-      <div className={`relative h-52 overflow-hidden bg-gradient-to-br ${gradient}`}>
+    <div className="rounded-2xl overflow-hidden shadow-md transition-all duration-300 group-hover:shadow-xl group-hover:-translate-y-1 border border-stone-200/60">
+      {/* Cover image — full bleed, taller on mobile */}
+      <div className={`relative h-60 sm:h-52 overflow-hidden bg-gradient-to-br ${gradient}`}>
         {hasImage && (
           <Image
             src={imgSrc}
@@ -58,6 +54,7 @@ export function DestinationCard({ destination, index }: Props) {
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
             className="object-cover transition-transform duration-500 group-hover:scale-105"
             unoptimized
+            priority={priority}
             referrerPolicy="no-referrer"
             onError={() => setImgSrc("")}
           />
@@ -71,57 +68,60 @@ export function DestinationCard({ destination, index }: Props) {
           </div>
         )}
 
-        {/* Gradient overlay at bottom */}
-        <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent" />
+        {/* Rich gradient overlay */}
+        <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent" />
 
-        {/* Place count badge */}
-        <div className="absolute top-3 right-3 flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-black/30 backdrop-blur-sm text-white text-xs font-medium">
+        {/* Place count badge — glassmorphism pill */}
+        <div className="absolute top-3 right-3 flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-white/15 backdrop-blur-md border border-white/20 text-white text-xs font-semibold shadow-lg">
           <Layers className="w-3 h-3" />
           {destination.placeCount}
         </div>
-      </div>
 
-      {/* Content */}
-      <div className="p-4">
-        <div className="flex items-center gap-1.5 mb-1.5">
-          <MapPin className="w-3.5 h-3.5 flex-shrink-0" style={{ color: LUXURY.bronze }} />
-          <span className="text-xs truncate" style={{ color: LUXURY.textMuted }}>{destination.country}</span>
-        </div>
-
-        <h3
-          className="font-bold text-lg leading-tight mb-3 transition-colors group-hover:opacity-80"
-          style={{ color: LUXURY.text }}
-        >
-          {destination.city}
-        </h3>
-
-        {destination.tags.length > 0 && (
-          <div className="flex flex-wrap gap-1.5">
-            {destination.tags.slice(0, 3).map((tag) => (
-              <span
-                key={tag}
-                className={`px-2 py-0.5 rounded-full text-[10px] font-semibold border ${
-                  TAG_COLORS[tag.toLowerCase()] ??
-                  "bg-stone-50 text-stone-500 border-stone-100"
-                }`}
-              >
-                {tag}
-              </span>
-            ))}
+        {/* City name overlaid on image */}
+        <div className="absolute bottom-0 left-0 right-0 p-4">
+          <div className="flex items-center gap-1.5 mb-1">
+            <MapPin className="w-3 h-3 text-white/60 flex-shrink-0" />
+            <span className="text-white/60 text-xs truncate">{destination.country}</span>
           </div>
-        )}
+          <div className="flex items-end justify-between gap-2">
+            <h3 className="font-bold text-2xl text-white leading-tight drop-shadow-sm">
+              {destination.city}
+            </h3>
+            <div className="w-8 h-8 rounded-full bg-white/15 backdrop-blur-md border border-white/20 flex items-center justify-center flex-shrink-0 group-hover:bg-white/25 transition-colors">
+              <ArrowRight className="w-4 h-4 text-white" />
+            </div>
+          </div>
+          {destination.tags.length > 0 && (
+            <div className="flex flex-wrap gap-1 mt-2">
+              {destination.tags.slice(0, 3).map((tag) => (
+                <span
+                  key={tag}
+                  className="px-2 py-0.5 rounded-full text-[10px] font-semibold bg-white/15 backdrop-blur-sm border border-white/20 text-white/90"
+                >
+                  {tag}
+                </span>
+              ))}
+            </div>
+          )}
+        </div>
       </div>
+
+      {/* Subtle bottom strip (hidden — content is now on image) */}
+      <div className="hidden" />
     </div>
   );
 
   return (
-    <div
-      className="group animate-fade-in opacity-0"
-      style={{ animationDelay: `${index * 0.07}s` }}
+    <motion.div
+      className="group"
+      initial={{ opacity: 0, y: 12 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.35, delay: index * 0.06, ease: [0.22, 1, 0.36, 1] }}
+      whileTap={{ scale: 0.98 }}
     >
       <Link href={`/explore/${destination.slug.country}/${destination.slug.city}`} className="group block">
         {cardContent}
       </Link>
-    </div>
+    </motion.div>
   );
 }
