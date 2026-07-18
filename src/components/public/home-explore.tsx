@@ -13,31 +13,21 @@ interface Props {
   inspireCities: DestinationCard[];
 }
 
-export function HomeExplore({ countries, heroCountries, searchIndex, inspireCities }: Props) {
+export function HomeExplore({ countries, heroCountries: _heroCountries, searchIndex, inspireCities }: Props) {
   const [searchQuery, setSearchQuery] = useState("");
 
   const scrollToDestinations = useCallback(() => {
     document.getElementById("destinations")?.scrollIntoView({ behavior: "smooth" });
   }, []);
 
-  const handleQuickPick = useCallback(
-    (countryName: string) => {
-      setSearchQuery(countryName);
-      scrollToDestinations();
-    },
-    [scrollToDestinations]
-  );
-
   const isSearching = searchQuery.trim().length > 0;
 
   return (
     <>
       <HeroMap
-        featuredCountries={heroCountries}
         inspireCities={inspireCities}
         searchQuery={searchQuery}
         onSearchChange={setSearchQuery}
-        onQuickPick={handleQuickPick}
         onSearchSubmit={scrollToDestinations}
       />
 

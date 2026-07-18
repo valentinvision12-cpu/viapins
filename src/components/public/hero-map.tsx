@@ -5,32 +5,25 @@ import { useTranslations } from "next-intl";
 import { Search, Compass } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import type { CountryCard, DestinationCard } from "@/actions/get-destinations";
-import { CountryFlag } from "@/components/public/country-flag";
 import { InspireMeButton } from "@/components/public/inspire-me-modal";
 import { LUXURY, COMPASS } from "@/lib/luxury-palette";
 
 const COMPASS_IMAGE = "/images/hero-luxury-compass.png";
 
 interface HeroMapProps {
-  featuredCountries: CountryCard[];
   inspireCities: DestinationCard[];
   searchQuery: string;
   onSearchChange: (q: string) => void;
-  onQuickPick: (city: string) => void;
   onSearchSubmit: () => void;
 }
 
 export function HeroMap({
-  featuredCountries,
   inspireCities,
   searchQuery,
   onSearchChange,
-  onQuickPick,
   onSearchSubmit,
 }: HeroMapProps) {
   const t = useTranslations("home");
-
-  const quickPicks = featuredCountries.slice(0, 6);
 
   return (
     <section
@@ -138,30 +131,6 @@ export function HeroMap({
             </button>
           </form>
         </div>
-
-        {quickPicks.length > 0 && (
-          <div className="flex flex-wrap items-center justify-center gap-2 mb-4">
-            <span className="text-xs font-medium" style={{ color: LUXURY.textMuted }}>
-              {t("heroPopular")}:
-            </span>
-            {quickPicks.map((c) => (
-              <button
-                key={c.slug}
-                type="button"
-                onClick={() => onQuickPick(c.country)}
-                className="inline-flex items-center gap-1.5 text-xs font-semibold px-3 py-1.5 rounded-full border transition-all hover:opacity-80 min-h-[36px]"
-                style={{
-                  color: LUXURY.text,
-                  background: "rgba(253,251,247,0.9)",
-                  borderColor: LUXURY.bronzeBorder,
-                }}
-              >
-                <CountryFlag country={c.country} size="sm" />
-                {c.country}
-              </button>
-            ))}
-          </div>
-        )}
 
         <div className="flex flex-wrap items-center justify-center gap-4 mb-2">
           <InspireMeButton destinations={inspireCities} variant="hero" />
