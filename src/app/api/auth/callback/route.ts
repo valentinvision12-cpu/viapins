@@ -8,21 +8,27 @@ import { createClient } from "@/lib/supabase/server";
  *
  * After session exchange, redirect to /my-passport (or a custom next= param).
  */
+const LOCALES = ["en", "es", "fr", "de", "it"];
+
 export async function GET(request: NextRequest) {
   const { searchParams, origin } = new URL(request.url);
   const code = searchParams.get("code");
-  const next = searchParams.get("next") ?? "/my-passport";
+  const rawNext = searchParams.get("next") ?? "/my-passport";
 
   if (code) {
     const supabase = await createClient();
     const { error } = await supabase.auth.exchangeCodeForSession(code);
     if (!error) {
-      // Redirect to the locale-prefixed target
       const locale = request.cookies.get("NEXT_LOCALE")?.value ?? "en";
-      return NextResponse.redirect(`${origin}/${locale}${next}`);
+
+      // If next already has a locale prefix (e.g. /en/my-passport), use it as-is.
+      // Otherwise prepend the current locale.
+      const hasLocalePrefix = LOCALES.some((l) => rawNext === `/${l}` || rawNext.startsWith(`/${l}/`));
+      const destination = hasLocalePrefix ? rawNext : `/${locale}${rawNext.startsWith("/") ? rawNext : `/${rawNext}`}`;
+
+      return NextResponse.redirect(`${origin}${destination}`);
     }
   }
 
-  // Auth failed — redirect home with error indicator
   return NextResponse.redirect(`${origin}/en?auth_error=true`);
 }
