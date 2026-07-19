@@ -36,7 +36,7 @@ export function NavHeader() {
         scrolled
           ? "bg-[#FDFBF7]/97 backdrop-blur-md border-b py-3"
           : isDarkHeroPage
-          ? "bg-transparent py-5"
+          ? "bg-black/25 backdrop-blur-md border-b border-white/10 py-3.5"
           : "backdrop-blur-sm py-4 md:py-5"
       )}
       style={
@@ -50,16 +50,16 @@ export function NavHeader() {
           : undefined
       }
     >
-      <div className="container max-w-7xl mx-auto px-6 flex items-center justify-between">
+      <div className="container max-w-7xl mx-auto px-4 sm:px-6 flex items-center justify-between">
         <Link href="/" className="flex items-center group shrink-0">
           <SiteLogo dark={dark} />
         </Link>
 
-        <nav className="hidden md:flex items-center gap-6">
+        <nav className="hidden md:flex items-center gap-7">
           <Link
             href="/"
             className={cn(
-              "text-sm transition-colors duration-300",
+              "text-[15px] font-semibold transition-colors duration-300",
               pathname === "/" || pathname === ""
                 ? "font-semibold"
                 : "",
@@ -74,7 +74,7 @@ export function NavHeader() {
           <Link
             href="/my-passport"
             className={cn(
-              "inline-flex items-center gap-1.5 text-sm font-medium transition-colors duration-300",
+              "inline-flex items-center gap-1.5 text-[15px] font-semibold transition-colors duration-300",
               isMyTrip
                 ? dark
                   ? "text-white"
@@ -91,7 +91,7 @@ export function NavHeader() {
           <Link
             href="/adventures"
             className={cn(
-              "inline-flex items-center gap-1.5 text-sm font-medium transition-colors duration-300",
+              "inline-flex items-center gap-1.5 text-[15px] font-semibold transition-colors duration-300",
               pathname.includes("/adventures")
                 ? "font-semibold"
                 : "",

@@ -38,6 +38,7 @@ import {
 import { useRouteCart } from "@/lib/context/route-cart-context";
 import type { SavedRoute } from "@/actions/get-my-routes";
 import { SITE_NAME, SITE_DEFAULT_URL } from "@/lib/site-brand";
+import { fallbackImageUrl } from "@/lib/fallback-image";
 
 function buildEmbedPayload(route: SavedRoute) {
   return {
@@ -120,13 +121,16 @@ function SortablePlaceItem({ place, index }: { place: RoutePlaceItem; index: num
       </span>
 
       {/* Thumbnail */}
-      {place.image_url ? (
-        <div className="relative w-9 h-9 rounded-lg overflow-hidden flex-shrink-0">
-          <Image src={place.image_url} alt={place.name} fill sizes="36px" className="object-cover" />
-        </div>
-      ) : (
-        <div className="w-9 h-9 rounded-lg bg-white/8 flex-shrink-0" />
-      )}
+      <div className="relative w-9 h-9 rounded-lg overflow-hidden flex-shrink-0 bg-white/8">
+        <Image
+          src={place.image_url || fallbackImageUrl(`${place.name}-${place.city}`, 144, 144)}
+          alt={place.name}
+          fill
+          sizes="36px"
+          className="object-cover"
+          unoptimized
+        />
+      </div>
 
       {/* Name */}
       <p className="flex-1 text-sm text-white truncate font-medium">{place.name}</p>

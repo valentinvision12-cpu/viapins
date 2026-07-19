@@ -1,5 +1,5 @@
 #!/usr/bin/env npx tsx
-import { readFileSync, existsSync } from "fs";
+import { readFileSync, existsSync, readdirSync } from "fs";
 import { join } from "path";
 import { createClient } from "@supabase/supabase-js";
 import { isBadImageUrl, resolvePlaceImage } from "../src/lib/wiki-image";
@@ -44,7 +44,21 @@ async function main() {
 
   const args = process.argv.slice(2);
   const badOnly = args.includes("--bad-only");
-  const slugs = args.filter((a) => !a.startsWith("--"));
+  const checkHttp = args.includes("--check-http");
+  const requestedSlugs = args.filter((a) => !a.startsWith("--"));
+  const seedDir = join(process.cwd(), "data", "seeds");
+  const slugs = requestedSlugs.length
+    ? requestedSlugs
+    : readdirSync(seedDir)
+        .filter(
+          (file) =>
+            file.endsWith(".json") &&
+            !file.includes("phase1") &&
+            !file.includes("supplement") &&
+            !file.includes("partial") &&
+            !file.includes("patch")
+        )
+        .map((file) => file.replace(/\.json$/, ""));
 
   const supabase = createClient(
     process.env.NEXT_PUBLIC_SUPABASE_URL!,
@@ -74,7 +88,8 @@ async function main() {
       const { data: dbPlaces } = await supabase
         .from("places")
         .select("id, name, image_url, translations")
-        .eq("destination_id", dest.id);
+        .eq("destination_id", dest.id)
+        .order("order_index");
 
       const seedByName = new Map(
         (citySeed.places ?? []).map((p: { name: string }) => [
@@ -82,6 +97,8 @@ async function main() {
           p,
         ])
       );
+
+      const usedImages = new Set<string>();
 
       for (const dbp of dbPlaces ?? []) {
         const seedPlace = seedByName.get(dbp.name.toLowerCase()) as
@@ -97,16 +114,23 @@ async function main() {
         const wikiTitle = en?.wiki_title || seedPlace?.wiki_title || dbp.name;
         const current = dbp.image_url?.trim() ?? "";
         const currentBad =
-          !current || isBadImageUrl(current) || !(await imageOk(current));
+          !current ||
+          isBadImageUrl(current) ||
+          usedImages.has(current) ||
+          (checkHttp && !(await imageOk(current)));
 
-        if (badOnly && !currentBad) continue;
+        if (badOnly && !currentBad) {
+          usedImages.add(current);
+          continue;
+        }
 
         let newUrl = "";
 
         if (
           seedPlace?.image_url &&
           !isBadImageUrl(seedPlace.image_url) &&
-          (await imageOk(seedPlace.image_url))
+          !usedImages.has(seedPlace.image_url) &&
+          (!checkHttp || (await imageOk(seedPlace.image_url)))
         ) {
           newUrl = seedPlace.image_url;
         }
@@ -120,15 +144,22 @@ async function main() {
               country,
               commonsFile: seedPlace?.commons_file,
               preferCommons: true,
+              avoidUrls: usedImages,
             },
             900
           );
         }
 
-        if (!newUrl || newUrl === current) {
+        if (!newUrl || isBadImageUrl(newUrl) || usedImages.has(newUrl)) {
           if (currentBad) {
             console.warn(`  x ${city} / ${dbp.name}: no better image`);
           }
+          if (current && !usedImages.has(current)) usedImages.add(current);
+          continue;
+        }
+
+        if (newUrl === current) {
+          usedImages.add(current);
           continue;
         }
 
@@ -138,7 +169,10 @@ async function main() {
           .eq("id", dbp.id);
 
         if (error) console.warn(`  x ${dbp.name}: ${error.message}`);
-        else console.log(`  ok ${city} / ${dbp.name}`);
+        else {
+          usedImages.add(newUrl);
+          console.log(`  ok ${city} / ${dbp.name}`);
+        }
 
         await new Promise((r) =>
           setTimeout(r, Number(process.env.WIKI_DELAY_MS || 400))

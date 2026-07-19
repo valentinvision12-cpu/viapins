@@ -67,33 +67,30 @@ export function HeroMap({
       <HeroLuxuryCompass />
 
       <div className="relative z-10 text-center w-full max-w-2xl mx-auto">
-        <p
-          className="text-[10px] font-semibold tracking-[0.14em] uppercase mb-3"
-          style={{ color: LUXURY.bronze }}
-        >
+        <p className="text-[11px] font-extrabold tracking-[0.18em] uppercase mb-3 text-[#D9472C]">
           {t("heroEyebrow")}
         </p>
 
         <h1
-          className="text-[1.75rem] leading-[1.1] sm:text-4xl md:text-[2.75rem] font-bold tracking-tight mb-3"
+          className="text-[2.15rem] leading-[1.02] sm:text-5xl md:text-[3.5rem] font-black tracking-[-0.045em] mb-4"
           style={{ color: LUXURY.text }}
         >
           {t("heroTitle")}
           <br />
-          <span style={{ color: LUXURY.bronze }}>{t("heroTitleAccent")}</span>
+          <span className="text-[#D9472C]">{t("heroTitleAccent")}</span>
         </h1>
 
-        <p className="text-sm sm:text-base mb-6 max-w-md mx-auto" style={{ color: LUXURY.textSecondary }}>
+        <p className="text-base sm:text-lg mb-7 max-w-xl mx-auto font-medium leading-relaxed" style={{ color: LUXURY.textSecondary }}>
           {t("heroSubtitle")}
         </p>
 
         {/* Single primary action — Booking/Airbnb pattern, no competing CTAs */}
         <div
-          className="rounded-2xl md:rounded-full p-2 shadow-lg mb-5 text-left"
+          className="rounded-2xl md:rounded-full p-2 shadow-xl mb-5 text-left"
           style={{
             background: LUXURY.creamCard,
             border: `1px solid ${LUXURY.bronzeBorder}`,
-            boxShadow: "0 8px 32px rgba(44,36,22,0.08)",
+            boxShadow: "0 14px 44px rgba(44,36,22,0.13)",
           }}
         >
           <form
@@ -120,10 +117,10 @@ export function HeroMap({
             </div>
             <button
               type="submit"
-              className="inline-flex items-center justify-center gap-2 px-8 py-3.5 rounded-xl md:rounded-full font-semibold text-sm text-white transition-all hover:brightness-95 active:scale-[0.98] min-h-[48px] shrink-0"
+              className="inline-flex items-center justify-center gap-2 px-8 py-3.5 rounded-xl md:rounded-full font-bold text-sm text-white transition-all hover:brightness-105 active:scale-[0.98] min-h-[48px] shrink-0"
               style={{
-                background: LUXURY.bronze,
-                boxShadow: "0 4px 14px rgba(154,123,79,0.28)",
+                background: "linear-gradient(135deg, #F26A3D 0%, #D9472C 100%)",
+                boxShadow: "0 6px 18px rgba(217,71,44,0.28)",
               }}
             >
               <Search className="w-4 h-4" />
@@ -136,27 +133,17 @@ export function HeroMap({
           <InspireMeButton destinations={inspireCities} variant="hero" />
           <Link
             href="/adventures"
-            className="inline-flex items-center gap-1.5 text-xs font-medium transition-colors hover:opacity-80"
-            style={{ color: LUXURY.textSecondary }}
+            className="inline-flex items-center justify-center gap-2 px-6 py-3.5 min-h-[48px] rounded-full text-sm font-bold border bg-white/65 transition-all hover:-translate-y-0.5 hover:bg-white hover:shadow-md active:scale-[0.98] w-full sm:w-auto"
+            style={{
+              color: LUXURY.text,
+              borderColor: LUXURY.bronzeBorderStrong,
+            }}
           >
-            <Compass className="w-3.5 h-3.5" />
+            <Compass className="w-4 h-4 text-[#D9472C]" />
             {t("heroAdventuresCta")}
           </Link>
         </div>
 
-        {/* Quick trust stats — Booking.com / Airbnb pattern */}
-        <div className="flex items-center justify-center gap-5 mt-4 flex-wrap">
-          {[
-            { value: "50+", label: "Countries" },
-            { value: "500+", label: "Cities" },
-            { value: "5 000+", label: "Landmarks" },
-          ].map(({ value, label }) => (
-            <div key={label} className="flex items-center gap-1.5">
-              <span className="font-bold text-sm" style={{ color: LUXURY.text }}>{value}</span>
-              <span className="text-xs" style={{ color: LUXURY.textMuted }}>{label}</span>
-            </div>
-          ))}
-        </div>
       </div>
 
       <div

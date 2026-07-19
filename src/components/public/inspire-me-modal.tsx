@@ -31,6 +31,7 @@ import {
   type InspireMatch,
 } from "@/lib/inspire-engine";
 import { LUXURY } from "@/lib/luxury-palette";
+import { fallbackImageUrl } from "@/lib/fallback-image";
 
 const GOLD = LUXURY.bronze;
 
@@ -346,20 +347,20 @@ export function InspireMeModal({ destinations, open, onClose }: Props) {
                 </p>
 
                 <div className="relative h-48 rounded-2xl overflow-hidden mb-4 shadow-md">
-                  {result.destination.coverImage ? (
-                    <Image
-                      src={result.destination.coverImage}
-                      alt={result.destination.city}
-                      fill
-                      className="object-cover"
-                      unoptimized
-                    />
-                  ) : (
-                    <div
-                      className="absolute inset-0"
-                      style={{ background: GOLD }}
-                    />
-                  )}
+                  <Image
+                    src={
+                      result.destination.coverImage ||
+                      fallbackImageUrl(
+                        `${result.destination.city}-${result.destination.country}`,
+                        900,
+                        540
+                      )
+                    }
+                    alt={result.destination.city}
+                    fill
+                    className="object-cover"
+                    unoptimized
+                  />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
                   <div className="absolute bottom-4 left-4 text-left">
                     <p className="text-white/70 text-xs">{result.destination.country}</p>
@@ -486,10 +487,10 @@ export function InspireMeButton({
       <>
         <button
           onClick={() => setOpen(true)}
-          className="inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-full font-semibold text-sm border transition-all hover:scale-[1.02] active:scale-[0.98] min-h-[48px] w-full sm:w-auto"
+          className="inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-full font-bold text-sm border transition-all hover:-translate-y-0.5 hover:shadow-md active:scale-[0.98] min-h-[48px] w-full sm:w-auto"
           style={{
-            borderColor: LUXURY.bronzeBorderStrong,
-            color: LUXURY.bronze,
+            borderColor: "rgba(217,71,44,.28)",
+            color: "#C63E27",
             background: LUXURY.creamCard,
           }}
         >

@@ -109,9 +109,13 @@ export function AdventurePlaceCard({ place, locale, index, stopNumber }: Props) 
                   .then((r) => r.json())
                   .then((data: { url?: string }) => {
                     if (data.url) setImgSrc(data.url);
+                    else if (imgSrc !== _fallback) setImgSrc(_fallback);
                     else setImgSrc("");
                   })
-                  .catch(() => setImgSrc(""));
+                  .catch(() => {
+                    if (imgSrc !== _fallback) setImgSrc(_fallback);
+                    else setImgSrc("");
+                  });
               }}
             />
           ) : (

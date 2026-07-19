@@ -107,7 +107,8 @@ async function geosearchHits(
   for (const h of hits) {
     const title = h.title;
     const key = title.toLowerCase();
-    if (existingNames.has(key) || skipTitle(title)) continue;
+    const displayKey = displayName(title).toLowerCase();
+    if (existingNames.has(key) || existingNames.has(displayKey) || skipTitle(title)) continue;
     if (isVaguePlace(title, undefined, country, h.lat, h.lon)) continue;
     if (!isSpecificLandmark(title)) continue;
     if (!isCoordNearCity(h.lat, h.lon, coords.lat, coords.lng, country)) continue;
@@ -151,7 +152,15 @@ async function searchHits(
   for (const p of pages) {
     const title = p.title ?? "";
     const key = title.toLowerCase();
-    if (!title || existingNames.has(key) || skipTitle(title)) continue;
+    const displayKey = displayName(title).toLowerCase();
+    if (
+      !title ||
+      existingNames.has(key) ||
+      existingNames.has(displayKey) ||
+      skipTitle(title)
+    ) {
+      continue;
+    }
     const lat = p.coordinates?.[0]?.lat ?? 0;
     const lng = p.coordinates?.[0]?.lon ?? 0;
     if (isVaguePlace(title, undefined, country, lat, lng)) continue;
@@ -244,6 +253,14 @@ export async function findReplacementLandmark(
 
   for (const hit of candidates) {
     const name = displayName(hit.title);
+    const nameKey = name.toLowerCase();
+    if (
+      nameKey === city.toLowerCase() ||
+      nameKey === country.toLowerCase() ||
+      existingNames.has(nameKey)
+    ) {
+      continue;
+    }
     let image = hit.thumb && !isBadImageUrl(hit.thumb) ? hit.thumb : "";
     if (!image || avoidUrls.has(image)) {
       image = await resolvePlaceImage(

@@ -130,12 +130,22 @@ async function main() {
 
     for (const citySeed of seed.cities) {
       const city = citySeed.city;
-      const { data: dest } = await supabase
+      let { data: dest } = await supabase
         .from("destinations")
         .select("id, cover_image")
         .ilike("country", country)
         .ilike("city", city)
         .maybeSingle();
+      if (!dest) {
+        // cover_image column may not exist in this environment — retry without it.
+        const legacy = await supabase
+          .from("destinations")
+          .select("id")
+          .ilike("country", country)
+          .ilike("city", city)
+          .maybeSingle();
+        dest = legacy.data as typeof dest;
+      }
 
       if (!dest) {
         console.warn(`  ⚠ No destination: ${city}`);
@@ -455,12 +465,18 @@ async function main() {
         .from("places")
         .select("name, image_url, order_index")
         .eq("destination_id", dest.id);
-      const cover = resolveCityCoverFromDb(dest.cover_image ?? undefined, freshPlaces ?? []);
+      const cover = resolveCityCoverFromDb(
+        (dest as { cover_image?: string }).cover_image ?? undefined,
+        freshPlaces ?? []
+      );
       if (cover) {
-        await supabase
+        const { error: coverErr } = await supabase
           .from("destinations")
           .update({ cover_image: cover, updated_at: new Date().toISOString() })
           .eq("id", dest.id);
+        if (coverErr && !coverErr.message?.includes("cover_image")) {
+          console.warn(`  ⚠ cover update failed: ${coverErr.message}`);
+        }
       }
     }
   }

@@ -3,12 +3,13 @@
 import { useMemo } from "react";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
-import { Search, Globe, MapPin } from "lucide-react";
+import { Search, Globe } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import type { SearchResultItem } from "@/actions/get-destinations";
 import { filterSearchResults } from "@/lib/search-index";
 import { LUXURY } from "@/lib/luxury-palette";
 import { CountryFlag } from "@/components/public/country-flag";
+import { fallbackImageUrl } from "@/lib/fallback-image";
 
 interface Props {
   items: SearchResultItem[];
@@ -67,18 +68,14 @@ export function SearchResultsGrid({ items, query }: Props) {
                       <div className="w-full h-full flex items-center justify-center">
                         <CountryFlag country={item.name} size="lg" />
                       </div>
-                    ) : item.coverImage ? (
+                    ) : (
                       <Image
-                        src={item.coverImage}
+                        src={item.coverImage || fallbackImageUrl(`${item.name}-${item.subtitle}`, 320, 320)}
                         alt={item.name}
                         fill
                         className="object-cover"
                         unoptimized
                       />
-                    ) : (
-                      <div className="w-full h-full flex items-center justify-center text-stone-300">
-                        <MapPin className="w-6 h-6" />
-                      </div>
                     )}
                   </div>
                   <div className="min-w-0">

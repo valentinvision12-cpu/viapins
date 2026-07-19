@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import Image from "next/image";
 import { cn } from "@/lib/utils";
+import { fallbackImageUrl } from "@/lib/fallback-image";
 
 /** Card grid — slow enough to read the landmark */
 export const COVER_SLIDE_INTERVAL_CARD_MS = 14_000;
@@ -49,7 +50,24 @@ export function CountryCoverSlideshow({
     return () => clearInterval(id);
   }, [visible.length, intervalMs, paused]);
 
-  if (visible.length === 0) return null;
+  if (visible.length === 0) {
+    return (
+      <div className={cn("relative overflow-hidden", className)}>
+        <Image
+          src={fallbackImageUrl(alt, 1400, 900)}
+          alt={alt}
+          fill
+          sizes={sizes}
+          priority={priority}
+          className={cn(
+            "object-cover brightness-[0.96] contrast-[1.06] saturate-[1.04]",
+            imageClassName
+          )}
+          unoptimized
+        />
+      </div>
+    );
+  }
 
   const current = Math.min(active, visible.length - 1);
 
