@@ -72,6 +72,7 @@ export default async function HomePage({ params }: Props) {
         <HomeExplore
           countries={allCountries}
           searchIndex={searchIndex}
+          inspireCities={allCities}
         />
 
         <footer

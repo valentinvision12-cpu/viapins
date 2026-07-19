@@ -4,14 +4,15 @@ import { useState, useCallback } from "react";
 import { HeroMap } from "@/components/public/hero-map";
 import { CountriesGrid } from "@/components/public/countries-grid";
 import { SearchResultsGrid } from "@/components/public/search-results-grid";
-import type { CountryCard, SearchResultItem } from "@/actions/get-destinations";
+import type { CountryCard, DestinationCard, SearchResultItem } from "@/actions/get-destinations";
 
 interface Props {
   countries: CountryCard[];
   searchIndex: SearchResultItem[];
+  inspireCities: DestinationCard[];
 }
 
-export function HomeExplore({ countries, searchIndex }: Props) {
+export function HomeExplore({ countries, searchIndex, inspireCities }: Props) {
   const [searchQuery, setSearchQuery] = useState("");
 
   const scrollToDestinations = useCallback(() => {
@@ -23,6 +24,7 @@ export function HomeExplore({ countries, searchIndex }: Props) {
   return (
     <>
       <HeroMap
+        inspireCities={inspireCities}
         searchQuery={searchQuery}
         onSearchChange={setSearchQuery}
         onSearchSubmit={scrollToDestinations}

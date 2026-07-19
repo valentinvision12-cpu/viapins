@@ -2,18 +2,23 @@
 
 import Image from "next/image";
 import { useTranslations } from "next-intl";
-import { Search } from "lucide-react";
+import { Search, Compass } from "lucide-react";
+import { Link } from "@/i18n/navigation";
+import type { DestinationCard } from "@/actions/get-destinations";
+import { InspireMeButton } from "@/components/public/inspire-me-modal";
 import { LUXURY, COMPASS } from "@/lib/luxury-palette";
 
 const COMPASS_IMAGE = "/images/hero-luxury-compass.png";
 
 interface HeroMapProps {
+  inspireCities: DestinationCard[];
   searchQuery: string;
   onSearchChange: (q: string) => void;
   onSearchSubmit: () => void;
 }
 
 export function HeroMap({
+  inspireCities,
   searchQuery,
   onSearchChange,
   onSearchSubmit,
@@ -125,6 +130,18 @@ export function HeroMap({
               {t("heroSearchCta")}
             </button>
           </form>
+        </div>
+
+        <div className="flex flex-wrap items-center justify-center gap-4 mb-2">
+          <InspireMeButton destinations={inspireCities} variant="hero" />
+          <Link
+            href="/adventures"
+            className="inline-flex items-center gap-1.5 text-xs font-medium transition-colors hover:opacity-80"
+            style={{ color: LUXURY.textSecondary }}
+          >
+            <Compass className="w-3.5 h-3.5" />
+            {t("heroAdventuresCta")}
+          </Link>
         </div>
 
         {/* Quick trust stats — Booking.com / Airbnb pattern */}
