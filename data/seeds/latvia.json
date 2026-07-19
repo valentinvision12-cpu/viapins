@@ -1986,123 +1986,71 @@
           "nearby_places": []
         },
         {
-          "name": "Pāvilosta",
-          "wiki_title": "Pāvilosta",
-          "lat": 56.88333333,
-          "lng": 21.16666667,
+          "name": "Karosta Prison",
+          "wiki_title": "Karosta Prison",
+          "lat": 56.548,
+          "lng": 21.018,
           "order_index": 6,
-          "description": "Pāvilosta — a notable landmark in Liepaja, Latvia.",
-          "seo_phrase": "Pāvilosta",
-          "seo_keywords": [
-            "Liepaja",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Dzintaru iela (Pāvilosta) (2).jpg/800px-Dzintaru iela (Pāvilosta) (2).jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dzintaru_iela_%28P%C4%81vilosta%29_%282%29.jpg/800px-Dzintaru_iela_%28P%C4%81vilosta%29_%282%29.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
+          "description": "Former military prison in the Karosta district, now a museum.",
+          "seo_phrase": "Karosta Prison",
+          "seo_keywords": ["Liepaja", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Karosta_prison_Liepaja.jpg/1280px-Karosta_prison_Liepaja.jpg",
+          "seo_priority": 86,
+          "search_intent": ["travel_planning"],
+          "type": "museum",
+          "best_season": ["spring", "summer", "autumn", "winter"],
           "visit_duration_hours": 1,
           "nearby_places": []
         },
         {
-          "name": "Liepāja Museum",
-          "wiki_title": "Liepāja Museum",
-          "lat": 56.51083333,
-          "lng": 21.00194444,
+          "name": "Liepaja Beach",
+          "wiki_title": "Liepaja Beach",
+          "lat": 56.518,
+          "lng": 20.978,
           "order_index": 7,
-          "description": "Liepāja Museum — a notable landmark in Liepaja, Latvia.",
-          "seo_phrase": "Liepāja Museum",
-          "seo_keywords": [
-            "Liepaja",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Saulainā diena.jpg/800px-Saulainā diena.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Saulain%C4%81_diena.jpg/800px-Saulain%C4%81_diena.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "museum",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
+          "description": "Long sandy beach along the Baltic Sea, popular in summer.",
+          "seo_phrase": "Liepaja Beach",
+          "seo_keywords": ["Liepaja", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Liepaja_lighthouse_and_port.JPG/960px-Liepaja_lighthouse_and_port.JPG",
+          "seo_priority": 88,
+          "search_intent": ["travel_planning"],
+          "type": "landmark",
+          "best_season": ["summer"],
           "visit_duration_hours": 2,
           "nearby_places": []
         },
         {
-          "name": "Liepāja massacres",
-          "wiki_title": "Liepāja massacres",
-          "lat": 56.48277778,
-          "lng": 21.00972222,
+          "name": "Dzintars Concert Hall",
+          "wiki_title": "Dzintars Concert Hall",
+          "lat": 56.512,
+          "lng": 21.005,
           "order_index": 8,
-          "description": "Liepāja massacres — a notable landmark in Liepaja, Latvia.",
-          "seo_phrase": "Liepāja massacres",
-          "seo_keywords": [
-            "Liepaja",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "LiepajaLatvia1941.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/LiepajaLatvia1941.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "description": "Modern concert hall and cultural centre on the seafront.",
+          "seo_phrase": "Dzintars Concert Hall",
+          "seo_keywords": ["Liepaja", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Liep%C4%81ja_-_church_%281%29.jpg/960px-Liep%C4%81ja_-_church_%281%29.jpg",
+          "seo_priority": 82,
+          "search_intent": ["travel_planning"],
           "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
+          "best_season": ["spring", "summer", "autumn", "winter"],
           "visit_duration_hours": 1,
           "nearby_places": []
         },
         {
-          "name": "Courland",
-          "wiki_title": "Courland",
-          "lat": 57,
-          "lng": 22,
+          "name": "Northern Forts of Karosta",
+          "wiki_title": "Northern Forts of Liepaja",
+          "lat": 56.558,
+          "lng": 21.005,
           "order_index": 9,
-          "description": "Courland — a notable landmark in Liepaja, Latvia.",
-          "seo_phrase": "Courland",
-          "seo_keywords": [
-            "Liepaja",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Ventspils viduslaiku pils 1.jpg/800px-Ventspils viduslaiku pils 1.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ventspils_viduslaiku_pils_1.jpg/800px-Ventspils_viduslaiku_pils_1.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
+          "description": "Tsarist-era coastal fortifications in the Karosta military district.",
+          "seo_phrase": "Northern Forts Liepaja",
+          "seo_keywords": ["Liepaja", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Liepaja_Orthodoxe_Kathedrale_St._Nikolaus_Fassade_2.JPG/960px-Liepaja_Orthodoxe_Kathedrale_St._Nikolaus_Fassade_2.JPG",
+          "seo_priority": 84,
+          "search_intent": ["travel_planning"],
+          "type": "historic_site",
+          "best_season": ["spring", "summer", "autumn"],
+          "visit_duration_hours": 1.5,
           "nearby_places": []
         }
       ]
@@ -2131,302 +2079,172 @@
       },
       "places": [
         {
-          "name": "Tukums",
-          "wiki_title": "Tukums",
-          "lat": 56.96666667,
-          "lng": 23.15,
+          "name": "Ventspils Castle",
+          "wiki_title": "Ventspils Castle",
+          "lat": 57.3897,
+          "lng": 21.5606,
           "order_index": 0,
-          "description": "Tukums — a notable landmark in Ventspils, Latvia.",
-          "seo_phrase": "Tukums",
-          "seo_keywords": [
-            "Ventspils",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Tukums, luteránský kostel.jpg/800px-Tukums, luteránský kostel.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tukums%2C_luter%C3%A1nsk%C3%BD_kostel.jpg/800px-Tukums%2C_luter%C3%A1nsk%C3%BD_kostel.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
+          "description": "Medieval Livonian Order castle and museum in the heart of Ventspils.",
+          "seo_phrase": "Ventspils Castle",
+          "seo_keywords": ["Ventspils", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ventspils_viduslaiku_pils_2.jpg/1280px-Ventspils_viduslaiku_pils_2.jpg",
+          "seo_priority": 90,
+          "search_intent": ["travel_planning"],
+          "type": "historic_site",
+          "best_season": ["spring", "summer", "autumn", "winter"],
+          "visit_duration_hours": 1.5,
           "nearby_places": []
         },
         {
-          "name": "Rēzekne",
-          "wiki_title": "Rēzekne",
-          "lat": 56.512716,
-          "lng": 27.342739,
+          "name": "Seaside Open Air Museum",
+          "wiki_title": "Seaside Open Air Museum, Ventspils",
+          "lat": 57.4014,
+          "lng": 21.5481,
           "order_index": 1,
-          "description": "Rēzekne — a notable landmark in Ventspils, Latvia.",
-          "seo_phrase": "Rēzekne",
-          "seo_keywords": [
-            "Ventspils",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Rezekne castle ruins.jpg/800px-Rezekne castle ruins.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rezekne_castle_ruins.jpg/800px-Rezekne_castle_ruins.jpg",
+          "description": "Open-air museum with fishing boats, windmills, and coastal heritage.",
+          "seo_phrase": "Seaside Open Air Museum",
+          "seo_keywords": ["Ventspils", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ventspils_viduslaiku_pils_2.jpg/1280px-Ventspils_viduslaiku_pils_2.jpg",
           "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
+          "search_intent": ["travel_planning"],
+          "type": "museum",
+          "best_season": ["spring", "summer", "autumn"],
+          "visit_duration_hours": 1.5,
           "nearby_places": []
         },
         {
-          "name": "Ludza",
-          "wiki_title": "Ludza",
-          "lat": 56.55,
-          "lng": 27.71666667,
+          "name": "Ventspils Beach",
+          "wiki_title": "Ventspils Beach",
+          "lat": 57.3958,
+          "lng": 21.5453,
           "order_index": 2,
-          "description": "Ludza — a notable landmark in Ventspils, Latvia.",
-          "seo_phrase": "Ludza",
-          "seo_keywords": [
-            "Ventspils",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Ludza 2012. gads.jpg/800px-Ludza 2012. gads.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ludza_2012._gads.jpg/800px-Ludza_2012._gads.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "description": "Wide sandy Baltic beach with dunes and a family-friendly promenade.",
+          "seo_phrase": "Ventspils Beach",
+          "seo_keywords": ["Ventspils", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ventspils_viduslaiku_pils_2.jpg/1280px-Ventspils_viduslaiku_pils_2.jpg",
+          "seo_priority": 88,
+          "search_intent": ["travel_planning"],
           "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
+          "best_season": ["summer"],
+          "visit_duration_hours": 2,
           "nearby_places": []
         },
         {
-          "name": "Dundaga",
-          "wiki_title": "Dundaga",
-          "lat": 57.51666667,
-          "lng": 22.35,
+          "name": "Children Town",
+          "wiki_title": "Children Town, Ventspils",
+          "lat": 57.4025,
+          "lng": 21.5519,
           "order_index": 3,
-          "description": "Dundaga — a notable landmark in Ventspils, Latvia.",
-          "seo_phrase": "Dundaga",
-          "seo_keywords": [
-            "Ventspils",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Dundagas pils.jpg/800px-Dundagas pils.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dundagas_pils.jpg/800px-Dundagas_pils.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "description": "Playful park with miniature buildings and attractions for families.",
+          "seo_phrase": "Children Town Ventspils",
+          "seo_keywords": ["Ventspils", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ventspils_viduslaiku_pils_2.jpg/1280px-Ventspils_viduslaiku_pils_2.jpg",
+          "seo_priority": 82,
+          "search_intent": ["travel_planning"],
           "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
+          "best_season": ["spring", "summer", "autumn"],
           "visit_duration_hours": 1,
           "nearby_places": []
         },
         {
-          "name": "Ventspils",
-          "wiki_title": "Ventspils",
-          "lat": 57.39055556,
-          "lng": 21.57333333,
+          "name": "Renka Garden",
+          "wiki_title": "Renka Garden",
+          "lat": 57.3872,
+          "lng": 21.5611,
           "order_index": 4,
-          "description": "Ventspils — a notable landmark in Ventspils, Latvia.",
-          "seo_phrase": "Ventspils",
-          "seo_keywords": [
-            "Ventspils",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Ventspils viduslaiku pils 2.jpg/800px-Ventspils viduslaiku pils 2.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ventspils_viduslaiku_pils_2.jpg/800px-Ventspils_viduslaiku_pils_2.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "description": "Historic garden near the old town with sculptures and quiet paths.",
+          "seo_phrase": "Renka Garden",
+          "seo_keywords": ["Ventspils", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ventspils_viduslaiku_pils_2.jpg/1280px-Ventspils_viduslaiku_pils_2.jpg",
+          "seo_priority": 80,
+          "search_intent": ["travel_planning"],
           "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
+          "best_season": ["spring", "summer", "autumn"],
           "visit_duration_hours": 1,
           "nearby_places": []
         },
         {
-          "name": "Duchy of Courland and Semigallia",
-          "wiki_title": "Duchy of Courland and Semigallia",
-          "lat": 56.63638889,
-          "lng": 23.71527778,
+          "name": "Ventspils Water Tower",
+          "wiki_title": "Ventspils Water Tower",
+          "lat": 57.3892,
+          "lng": 21.5625,
           "order_index": 5,
-          "description": "Duchy of Courland and Semigallia — a notable landmark in Ventspils, Latvia.",
-          "seo_phrase": "Duchy of Courland and Semigallia",
-          "seo_keywords": [
-            "Ventspils",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Flag of Courland (state).svg/800px-Flag of Courland (state).svg.png",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Courland_%28state%29.svg/800px-Flag_of_Courland_%28state%29.svg.png",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "description": "Landmark water tower with a viewing platform over the city.",
+          "seo_phrase": "Ventspils Water Tower",
+          "seo_keywords": ["Ventspils", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ventspils_viduslaiku_pils_2.jpg/1280px-Ventspils_viduslaiku_pils_2.jpg",
+          "seo_priority": 78,
+          "search_intent": ["travel_planning"],
           "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
+          "best_season": ["spring", "summer", "autumn", "winter"],
+          "visit_duration_hours": 0.5,
           "nearby_places": []
         },
         {
-          "name": "Piltene",
-          "wiki_title": "Piltene",
-          "lat": 57.21666667,
-          "lng": 21.66666667,
+          "name": "Ostas Street Promenade",
+          "wiki_title": "Ostas iela, Ventspils",
+          "lat": 57.391,
+          "lng": 21.555,
           "order_index": 6,
-          "description": "Piltene — a notable landmark in Ventspils, Latvia.",
-          "seo_phrase": "Piltene",
-          "seo_keywords": [
-            "Ventspils",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Piltenes pilsdrupas un baznīca.jpg/800px-Piltenes pilsdrupas un baznīca.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Piltenes_pilsdrupas_un_bazn%C4%ABca.jpg/960px-Piltenes_pilsdrupas_un_bazn%C4%ABca.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "description": "Harbour promenade with cafes, sculptures, and sea views.",
+          "seo_phrase": "Ostas Street Ventspils",
+          "seo_keywords": ["Ventspils", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ventspils_viduslaiku_pils_2.jpg/1280px-Ventspils_viduslaiku_pils_2.jpg",
+          "seo_priority": 84,
+          "search_intent": ["travel_planning"],
           "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
+          "best_season": ["spring", "summer", "autumn"],
           "visit_duration_hours": 1,
           "nearby_places": []
         },
         {
-          "name": "Kandava",
-          "wiki_title": "Kandava",
-          "lat": 57.03333333,
-          "lng": 22.75,
+          "name": "Cow Parade Sculptures",
+          "wiki_title": "Cow Parade, Ventspils",
+          "lat": 57.389,
+          "lng": 21.564,
           "order_index": 7,
-          "description": "Kandava — a notable landmark in Ventspils, Latvia.",
-          "seo_phrase": "Kandava",
-          "seo_keywords": [
-            "Ventspils",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Sabiles street in Kandava.jpg/800px-Sabiles street in Kandava.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kandava%2C_Kandavas_pils%C4%93ta%2C_LV-3120%2C_Latvia_-_panoramio.jpg/1280px-Kandava%2C_Kandavas_pils%C4%93ta%2C_LV-3120%2C_Latvia_-_panoramio.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "description": "Colourful cow sculptures that have become a symbol of Ventspils.",
+          "seo_phrase": "Cow Parade Ventspils",
+          "seo_keywords": ["Ventspils", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ventspils_viduslaiku_pils_2.jpg/1280px-Ventspils_viduslaiku_pils_2.jpg",
+          "seo_priority": 79,
+          "search_intent": ["travel_planning"],
           "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
+          "best_season": ["spring", "summer", "autumn", "winter"],
+          "visit_duration_hours": 0.5,
           "nearby_places": []
         },
         {
-          "name": "Stende",
-          "wiki_title": "Stende",
-          "lat": 57.13333333,
-          "lng": 22.51666667,
+          "name": "Ventspils Port",
+          "wiki_title": "Port of Ventspils",
+          "lat": 57.394,
+          "lng": 21.537,
           "order_index": 8,
-          "description": "Stende — a notable landmark in Ventspils, Latvia.",
-          "seo_phrase": "Stende",
-          "seo_keywords": [
-            "Ventspils",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Stendes pilsēta - panoramio.jpg/800px-Stendes pilsēta - panoramio.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Eisenbahnstrecken_Lettland_1925_%28cropped%2C_Ventspils%E2%80%93Stende%29.jpg/1280px-Eisenbahnstrecken_Lettland_1925_%28cropped%2C_Ventspils%E2%80%93Stende%29.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "description": "Active Baltic port with industrial heritage and waterfront views.",
+          "seo_phrase": "Ventspils Port",
+          "seo_keywords": ["Ventspils", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ventspils_viduslaiku_pils_2.jpg/1280px-Ventspils_viduslaiku_pils_2.jpg",
+          "seo_priority": 76,
+          "search_intent": ["travel_planning"],
           "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
+          "best_season": ["spring", "summer", "autumn"],
           "visit_duration_hours": 1,
           "nearby_places": []
         },
         {
-          "name": "Bandava",
-          "wiki_title": "Bandava",
-          "lat": 56.96666667,
-          "lng": 21.96666667,
+          "name": "Kalna Parks",
+          "wiki_title": "Kalna Parks, Ventspils",
+          "lat": 57.388,
+          "lng": 21.558,
           "order_index": 9,
-          "description": "Bandava — a notable landmark in Ventspils, Latvia.",
-          "seo_phrase": "Bandava",
-          "seo_keywords": [
-            "Ventspils",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "OldCourland.jpg/800px-OldCourland.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/OldCourland.jpg/960px-OldCourland.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "description": "Hilltop park with walking trails and views over the old town.",
+          "seo_phrase": "Kalna Parks Ventspils",
+          "seo_keywords": ["Ventspils", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ventspils_viduslaiku_pils_2.jpg/1280px-Ventspils_viduslaiku_pils_2.jpg",
+          "seo_priority": 77,
+          "search_intent": ["travel_planning"],
           "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
+          "best_season": ["spring", "summer", "autumn"],
           "visit_duration_hours": 1,
           "nearby_places": []
         }
@@ -2456,302 +2274,172 @@
       },
       "places": [
         {
-          "name": "Daugavpils",
-          "wiki_title": "Daugavpils",
-          "lat": 55.875,
-          "lng": 26.53555556,
-          "order_index": 0,
-          "description": "Daugavpils — a notable landmark in Daugavpils, Latvia.",
-          "seo_phrase": "Daugavpils",
-          "seo_keywords": [
-            "Daugavpils",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Daugavpils luterāņu baznīca 01.JPG/800px-Daugavpils luterāņu baznīca 01.JPG",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Daugavpils_Latvia.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Jēkabpils",
-          "wiki_title": "Jēkabpils",
-          "lat": 56.49944444,
-          "lng": 25.87833333,
-          "order_index": 1,
-          "description": "Jēkabpils — a notable landmark in Daugavpils, Latvia.",
-          "seo_phrase": "Jēkabpils",
-          "seo_keywords": [
-            "Daugavpils",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Jēkabpils lynx - panoramio.jpg/800px-Jēkabpils lynx - panoramio.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Daugavpils_iela%2C_Latgale_Suburb%2C_Riga%2C_Latvia_-_panoramio.jpg/1280px-Daugavpils_iela%2C_Latgale_Suburb%2C_Riga%2C_Latvia_-_panoramio.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Ogre",
-          "wiki_title": "Ogre, Latvia",
-          "lat": 56.81861111,
-          "lng": 24.60555556,
-          "order_index": 2,
-          "description": "Ogre, Latvia — a notable landmark in Daugavpils, Latvia.",
-          "seo_phrase": "Ogre",
-          "seo_keywords": [
-            "Daugavpils",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Ogre3.jpg/800px-Ogre3.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Gar_R%C4%ABgas-Daugavpils_%C5%A1oseju_-_panoramio.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Latgale",
-          "wiki_title": "Latgale",
-          "lat": 56.5225,
-          "lng": 27.0324,
-          "order_index": 3,
-          "description": "Latgale — a notable landmark in Daugavpils, Latvia.",
-          "seo_phrase": "Latgale",
-          "seo_keywords": [
-            "Daugavpils",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Rēzeknes pilsdrupas. Rezekne castle ruins - panoramio.jpg/800px-Rēzeknes pilsdrupas. Rezekne castle ruins - panoramio.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Daugavpils_iela%2C_Latgale_Suburb%2C_Riga%2C_Latvia_-_panoramio.jpg/1280px-Daugavpils_iela%2C_Latgale_Suburb%2C_Riga%2C_Latvia_-_panoramio.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Ikšķile",
-          "wiki_title": "Ikšķile",
-          "lat": 56.8367,
-          "lng": 24.4964,
-          "order_index": 4,
-          "description": "Ikšķile — a notable landmark in Daugavpils, Latvia.",
-          "seo_phrase": "Ikšķile",
-          "seo_keywords": [
-            "Daugavpils",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Ikšķiles baznīcas drupas.jpg/800px-Ikšķiles baznīcas drupas.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bask%C4%81ju_Karmela_M%C4%81su_Orde%C5%86a_klosteris%2C_Smil%C5%A1u_iela_15%2C_Ik%C5%A1%C4%B7ile%2C_Ik%C5%A1%C4%B7iles_novads%2C_Latvia_-_panoramio.jpg/1280px-Bask%C4%81ju_Karmela_M%C4%81su_Orde%C5%86a_klosteris%2C_Smil%C5%A1u_iela_15%2C_Ik%C5%A1%C4%B7ile%2C_Ik%C5%A1%C4%B7iles_novads%2C_Latvia_-_panoramio.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Daugavpils fortress",
+          "name": "Daugavpils Fortress",
           "wiki_title": "Daugavpils fortress",
-          "lat": 55.88638889,
+          "lat": 55.8864,
           "lng": 26.495,
-          "order_index": 5,
-          "description": "Daugavpils fortress — a notable landmark in Daugavpils, Latvia.",
-          "seo_phrase": "Daugavpils fortress",
-          "seo_keywords": [
-            "Daugavpils",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Динабургская крепость.jpg/800px-Динабургская крепость.jpg",
+          "order_index": 0,
+          "description": "Massive 19th-century star fortress and the city's defining landmark.",
+          "seo_phrase": "Daugavpils Fortress",
+          "seo_keywords": ["Daugavpils", "Latvia", "travel"],
           "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Daugavpils_Fortress_05.jpg/1280px-Daugavpils_Fortress_05.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "seo_priority": 92,
+          "search_intent": ["travel_planning"],
           "type": "historic_site",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1.5,
+          "best_season": ["spring", "summer", "autumn", "winter"],
+          "visit_duration_hours": 2,
           "nearby_places": []
         },
         {
           "name": "Mark Rothko Art Centre",
           "wiki_title": "Mark Rothko Art Centre",
-          "lat": 55.88388889,
-          "lng": 26.4975,
-          "order_index": 6,
-          "description": "Mark Rothko Art Centre — a notable landmark in Daugavpils, Latvia.",
+          "lat": 55.8861,
+          "lng": 26.4947,
+          "order_index": 1,
+          "description": "Contemporary art centre dedicated to Mark Rothko inside the fortress.",
           "seo_phrase": "Mark Rothko Art Centre",
-          "seo_keywords": [
-            "Daugavpils",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Artillery arsenal (Daugavpils fortress).jpg/800px-Artillery arsenal (Daugavpils fortress).jpg",
+          "seo_keywords": ["Daugavpils", "Latvia", "travel"],
           "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Tribute%2C_Mark_Rothko_Art_Centre%2C_Daugavpils_%28Latvia%29%2C_October_2017.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "seo_priority": 90,
+          "search_intent": ["travel_planning"],
+          "type": "museum",
+          "best_season": ["spring", "summer", "autumn", "winter"],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Unity House",
+          "wiki_title": "Daugavpils Unity House",
+          "lat": 55.8742,
+          "lng": 26.5317,
+          "order_index": 2,
+          "description": "Grand cultural centre and concert hall in the city centre.",
+          "seo_phrase": "Unity House Daugavpils",
+          "seo_keywords": ["Daugavpils", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Daugavpils_Latvia.jpg",
+          "seo_priority": 84,
+          "search_intent": ["travel_planning"],
           "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
+          "best_season": ["spring", "summer", "autumn", "winter"],
           "visit_duration_hours": 1,
           "nearby_places": []
         },
         {
-          "name": "Salaspils",
-          "wiki_title": "Salaspils",
-          "lat": 56.86666667,
-          "lng": 24.35,
-          "order_index": 7,
-          "description": "Salaspils — a notable landmark in Daugavpils, Latvia.",
-          "seo_phrase": "Salaspils",
-          "seo_keywords": [
-            "Daugavpils",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Salaspils-station.jpg/800px-Salaspils-station.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Salaspils%2C_Salaspils_pils%C4%93ta%2C_Latvia_-_panoramio.jpg/1280px-Salaspils%2C_Salaspils_pils%C4%93ta%2C_Latvia_-_panoramio.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Ilūkste",
-          "wiki_title": "Ilūkste",
-          "lat": 55.9781,
-          "lng": 26.2967,
-          "order_index": 8,
-          "description": "Ilūkste — a notable landmark in Daugavpils, Latvia.",
-          "seo_phrase": "Ilūkste",
-          "seo_keywords": [
-            "Daugavpils",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Ilūkste Roman Catholic Church.jpg/800px-Ilūkste Roman Catholic Church.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Il%C5%ABkste%2C_Il%C5%ABkstes_pils%C4%93ta%2C_Latvia_-_panoramio_%282%29.jpg/1280px-Il%C5%ABkste%2C_Il%C5%ABkstes_pils%C4%93ta%2C_Latvia_-_panoramio_%282%29.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Aglona",
-          "wiki_title": "Aglona",
-          "lat": 56.13333333,
-          "lng": 27.01666667,
-          "order_index": 9,
-          "description": "Aglona — a notable landmark in Daugavpils, Latvia.",
-          "seo_phrase": "Aglona",
-          "seo_keywords": [
-            "Daugavpils",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Aglona Basilica.jpg/800px-Aglona Basilica.jpg",
+          "name": "Saints Boris and Gleb Cathedral",
+          "wiki_title": "Saints Boris and Gleb Cathedral, Daugavpils",
+          "lat": 55.8686,
+          "lng": 26.5144,
+          "order_index": 3,
+          "description": "Imposing Orthodox cathedral on Church Hill overlooking the city.",
+          "seo_phrase": "Boris and Gleb Cathedral",
+          "seo_keywords": ["Daugavpils", "Latvia", "travel"],
           "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Daugavpils%2C_Latvia_-_panoramio_%28121%29.jpg/1280px-Daugavpils%2C_Latvia_-_panoramio_%28121%29.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "seo_priority": 88,
+          "search_intent": ["travel_planning"],
           "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
+          "best_season": ["spring", "summer", "autumn", "winter"],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Daugavpils Lead Shot Factory",
+          "wiki_title": "Daugavpils Lead Shot Factory",
+          "lat": 55.889,
+          "lng": 26.497,
+          "order_index": 4,
+          "description": "Historic industrial complex with a unique shot tower inside the fortress.",
+          "seo_phrase": "Lead Shot Factory",
+          "seo_keywords": ["Daugavpils", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Daugavpils_Fortress_05.jpg/1280px-Daugavpils_Fortress_05.jpg",
+          "seo_priority": 82,
+          "search_intent": ["travel_planning"],
+          "type": "historic_site",
+          "best_season": ["spring", "summer", "autumn"],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Church Hill",
+          "wiki_title": "Church Hill, Daugavpils",
+          "lat": 55.869,
+          "lng": 26.515,
+          "order_index": 5,
+          "description": "Historic hill with churches and panoramic views over Daugavpils.",
+          "seo_phrase": "Church Hill Daugavpils",
+          "seo_keywords": ["Daugavpils", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Daugavpils%2C_Latvia_-_panoramio_%28121%29.jpg/1280px-Daugavpils%2C_Latvia_-_panoramio_%28121%29.jpg",
+          "seo_priority": 83,
+          "search_intent": ["travel_planning"],
+          "type": "landmark",
+          "best_season": ["spring", "summer", "autumn"],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Daugavpils Museum of Regional Studies",
+          "wiki_title": "Daugavpils Museum of Regional Studies",
+          "lat": 55.874,
+          "lng": 26.532,
+          "order_index": 6,
+          "description": "Museum showcasing the history and culture of southeastern Latvia.",
+          "seo_phrase": "Daugavpils Museum",
+          "seo_keywords": ["Daugavpils", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Daugavpils_Latvia.jpg",
+          "seo_priority": 80,
+          "search_intent": ["travel_planning"],
+          "type": "museum",
+          "best_season": ["spring", "summer", "autumn", "winter"],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Dubrovin Park",
+          "wiki_title": "Dubrovin Park",
+          "lat": 55.873,
+          "lng": 26.528,
+          "order_index": 7,
+          "description": "Central park with fountains, sculptures, and shaded walking paths.",
+          "seo_phrase": "Dubrovin Park",
+          "seo_keywords": ["Daugavpils", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Daugavpils_Latvia.jpg",
+          "seo_priority": 78,
+          "search_intent": ["travel_planning"],
+          "type": "landmark",
+          "best_season": ["spring", "summer", "autumn"],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Martin Luther Church",
+          "wiki_title": "Daugavpils Lutheran Church of Martin Luther",
+          "lat": 55.875,
+          "lng": 26.536,
+          "order_index": 8,
+          "description": "Neo-Gothic Lutheran church in the historic centre of Daugavpils.",
+          "seo_phrase": "Martin Luther Church Daugavpils",
+          "seo_keywords": ["Daugavpils", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Daugavpils_Latvia.jpg",
+          "seo_priority": 81,
+          "search_intent": ["travel_planning"],
+          "type": "landmark",
+          "best_season": ["spring", "summer", "autumn", "winter"],
+          "visit_duration_hours": 0.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Garden of Sculptures",
+          "wiki_title": "Garden of Sculptures, Daugavpils",
+          "lat": 55.872,
+          "lng": 26.53,
+          "order_index": 9,
+          "description": "Outdoor sculpture garden with works by Latvian and international artists.",
+          "seo_phrase": "Garden of Sculptures Daugavpils",
+          "seo_keywords": ["Daugavpils", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Daugavpils%2C_Latvia_-_panoramio_%28121%29.jpg/1280px-Daugavpils%2C_Latvia_-_panoramio_%28121%29.jpg",
+          "seo_priority": 79,
+          "search_intent": ["travel_planning"],
+          "type": "landmark",
+          "best_season": ["spring", "summer", "autumn"],
           "visit_duration_hours": 1,
           "nearby_places": []
         }
@@ -2781,303 +2469,173 @@
       },
       "places": [
         {
-          "name": "Kuldīga",
-          "wiki_title": "Kuldīga",
-          "lat": 56.96666667,
-          "lng": 21.96666667,
-          "order_index": 0,
-          "description": "Kuldīga — a notable landmark in Jelgava, Latvia.",
-          "seo_phrase": "Kuldīga",
-          "seo_keywords": [
-            "Jelgava",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Kuldīga, Kurzeme, Latvija, Vecpilsēta.jpg/800px-Kuldīga, Kurzeme, Latvija, Vecpilsēta.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kuld%C4%ABga%2C_Jelgavas_iela_24a.jpg/1280px-Kuld%C4%ABga%2C_Jelgavas_iela_24a.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Jelgava",
-          "wiki_title": "Jelgava",
-          "lat": 56.64833333,
-          "lng": 23.71388889,
-          "order_index": 1,
-          "description": "Jelgava — a notable landmark in Jelgava, Latvia.",
-          "seo_phrase": "Jelgava",
-          "seo_keywords": [
-            "Jelgava",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Jelgava winter.jpg/800px-Jelgava winter.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Latvian_city_Jelgava_%28Mitau%29_in_1935.jpg/1280px-Latvian_city_Jelgava_%28Mitau%29_in_1935.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Bauska",
-          "wiki_title": "Bauska",
-          "lat": 56.40833333,
-          "lng": 24.19305556,
-          "order_index": 2,
-          "description": "Bauska — a notable landmark in Jelgava, Latvia.",
-          "seo_phrase": "Bauska",
-          "seo_keywords": [
-            "Jelgava",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Pils jaunais.tif/lossy-page1-960px-Pils jaunais.tif.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Pils_jaunais.tif/lossy-page1-960px-Pils_jaunais.tif.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Semigallia",
-          "wiki_title": "Semigallia",
-          "lat": 56.66666667,
-          "lng": 23.5,
-          "order_index": 3,
-          "description": "Semigallia — a notable landmark in Jelgava, Latvia.",
-          "seo_phrase": "Semigallia",
-          "seo_keywords": [
-            "Jelgava",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Bauskas pils foto Sandris Kuzmickis.jpg/800px-Bauskas pils foto Sandris Kuzmickis.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jelgava_16.jpg/1280px-Jelgava_16.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Vecumnieki",
-          "wiki_title": "Vecumnieki",
-          "lat": 56.60638889,
-          "lng": 24.52222222,
-          "order_index": 4,
-          "description": "Vecumnieki — a notable landmark in Jelgava, Latvia.",
-          "seo_phrase": "Vecumnieki",
-          "seo_keywords": [
-            "Jelgava",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Vecumnieku baznica.JPG/800px-Vecumnieku baznica.JPG",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Vecumnieki%2C_Vecumnieki_parish%2C_LV-3933%2C_Latvia_-_panoramio.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Rundāle Palace",
-          "wiki_title": "Rundāle Palace",
-          "lat": 56.4138,
-          "lng": 24.0248,
-          "order_index": 5,
-          "description": "Rundāle Palace — a notable landmark in Jelgava, Latvia.",
-          "seo_phrase": "Rundāle Palace",
-          "seo_keywords": [
-            "Jelgava",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Rundale Palace (6483271573).jpg/800px-Rundale Palace (6483271573).jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rund%C4%81le_Palace_05.jpg/1280px-Rund%C4%81le_Palace_05.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "historic_site",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1.5,
-          "nearby_places": []
-        },
-        {
-          "name": "Courland Governorate",
-          "wiki_title": "Courland Governorate",
-          "lat": 56.6522,
-          "lng": 23.7244,
-          "order_index": 6,
-          "description": "Courland Governorate — a notable landmark in Jelgava, Latvia.",
-          "seo_phrase": "Courland Governorate",
-          "seo_keywords": [
-            "Jelgava",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Courland governorate 1820.jpg/800px-Courland governorate 1820.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jelgava_16.jpg/1280px-Jelgava_16.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Skrunda",
-          "wiki_title": "Skrunda",
-          "lat": 56.66666667,
-          "lng": 22,
-          "order_index": 7,
-          "description": "Skrunda — a notable landmark in Jelgava, Latvia.",
-          "seo_phrase": "Skrunda",
-          "seo_keywords": [
-            "Jelgava",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Skrunda - panoramio (9).jpg/800px-Skrunda - panoramio (9).jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/7ATC-TSAE_site_survey_Skrunda%2C_Latvia_%284942810%29.jpg/1280px-7ATC-TSAE_site_survey_Skrunda%2C_Latvia_%284942810%29.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
           "name": "Jelgava Palace",
           "wiki_title": "Jelgava Palace",
-          "lat": 56.6558,
-          "lng": 23.733,
-          "order_index": 8,
-          "description": "Jelgava Palace — a notable landmark in Jelgava, Latvia.",
+          "lat": 56.6503,
+          "lng": 23.7264,
+          "order_index": 0,
+          "description": "Baroque palace of the Dukes of Courland, now home to the university.",
           "seo_phrase": "Jelgava Palace",
-          "seo_keywords": [
-            "Jelgava",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Biron Rezidenz.jpg/800px-Biron Rezidenz.jpg",
+          "seo_keywords": ["Jelgava", "Latvia", "travel"],
           "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Jelgava_Palace_Square%2C_Latvia.jpg/1280px-Jelgava_Palace_Square%2C_Latvia.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "seo_priority": 92,
+          "search_intent": ["travel_planning"],
           "type": "historic_site",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1.5,
+          "best_season": ["spring", "summer", "autumn", "winter"],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Holy Trinity Church Tower",
+          "wiki_title": "Holy Trinity Church Tower, Jelgava",
+          "lat": 56.651,
+          "lng": 23.713,
+          "order_index": 1,
+          "description": "Ruined church tower — a symbol of Jelgava's old town skyline.",
+          "seo_phrase": "Holy Trinity Church Tower",
+          "seo_keywords": ["Jelgava", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jelgava_16.jpg/1280px-Jelgava_16.jpg",
+          "seo_priority": 88,
+          "search_intent": ["travel_planning"],
+          "type": "landmark",
+          "best_season": ["spring", "summer", "autumn", "winter"],
+          "visit_duration_hours": 0.5,
           "nearby_places": []
         },
         {
           "name": "Latvian Railway History Museum",
           "wiki_title": "Latvian Railway History Museum",
-          "lat": 56.9409,
-          "lng": 24.0945,
-          "order_index": 9,
-          "description": "Latvian Railway History Museum — a notable landmark in Jelgava, Latvia.",
-          "seo_phrase": "Latvian Railway History Museum",
-          "seo_keywords": [
-            "Jelgava",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Rail Museum, Riga, Latvia.jpg/800px-Rail Museum, Riga, Latvia.jpg",
+          "lat": 56.654,
+          "lng": 23.699,
+          "order_index": 2,
+          "description": "Railway museum with historic locomotives in Jelgava.",
+          "seo_phrase": "Railway History Museum Jelgava",
+          "seo_keywords": ["Jelgava", "Latvia", "travel"],
           "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Latvian_Railway_History_Museum_%28Jelgava_branch%29.jpg/1280px-Latvian_Railway_History_Museum_%28Jelgava_branch%29.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "seo_priority": 84,
+          "search_intent": ["travel_planning"],
           "type": "museum",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 2,
+          "best_season": ["spring", "summer", "autumn", "winter"],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Jelgava History and Art Museum",
+          "wiki_title": "Jelgava History and Art Museum",
+          "lat": 56.651,
+          "lng": 23.714,
+          "order_index": 3,
+          "description": "Regional museum with art and history collections in the old town.",
+          "seo_phrase": "Jelgava History Museum",
+          "seo_keywords": ["Jelgava", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jelgava_16.jpg/1280px-Jelgava_16.jpg",
+          "seo_priority": 82,
+          "search_intent": ["travel_planning"],
+          "type": "museum",
+          "best_season": ["spring", "summer", "autumn", "winter"],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Academia Petrina",
+          "wiki_title": "Academia Petrina",
+          "lat": 56.6515,
+          "lng": 23.7125,
+          "order_index": 4,
+          "description": "Historic academy building from the Duchy of Courland era.",
+          "seo_phrase": "Academia Petrina",
+          "seo_keywords": ["Jelgava", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jelgava_16.jpg/1280px-Jelgava_16.jpg",
+          "seo_priority": 80,
+          "search_intent": ["travel_planning"],
+          "type": "landmark",
+          "best_season": ["spring", "summer", "autumn", "winter"],
+          "visit_duration_hours": 0.5,
+          "nearby_places": []
+        },
+        {
+          "name": "St. Simeon and St. Anna Cathedral",
+          "wiki_title": "St. Simeon and St. Anna Orthodox Cathedral, Jelgava",
+          "lat": 56.65,
+          "lng": 23.711,
+          "order_index": 5,
+          "description": "Orthodox cathedral with distinctive onion domes in the city centre.",
+          "seo_phrase": "St Simeon Cathedral Jelgava",
+          "seo_keywords": ["Jelgava", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Jelgava_Palace_Square%2C_Latvia.jpg/1280px-Jelgava_Palace_Square%2C_Latvia.jpg",
+          "seo_priority": 83,
+          "search_intent": ["travel_planning"],
+          "type": "landmark",
+          "best_season": ["spring", "summer", "autumn", "winter"],
+          "visit_duration_hours": 0.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Pasta Island",
+          "wiki_title": "Pasta Island, Jelgava",
+          "lat": 56.653,
+          "lng": 23.718,
+          "order_index": 6,
+          "description": "Island park on the Lielupe River popular for walks and events.",
+          "seo_phrase": "Pasta Island Jelgava",
+          "seo_keywords": ["Jelgava", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jelgava_16.jpg/1280px-Jelgava_16.jpg",
+          "seo_priority": 79,
+          "search_intent": ["travel_planning"],
+          "type": "landmark",
+          "best_season": ["spring", "summer", "autumn"],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Jelgava Lutheran Church",
+          "wiki_title": "Jelgava Lutheran Church",
+          "lat": 56.651,
+          "lng": 23.7135,
+          "order_index": 7,
+          "description": "Historic Lutheran church in the heart of Jelgava.",
+          "seo_phrase": "Jelgava Lutheran Church",
+          "seo_keywords": ["Jelgava", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jelgava_16.jpg/1280px-Jelgava_16.jpg",
+          "seo_priority": 78,
+          "search_intent": ["travel_planning"],
+          "type": "landmark",
+          "best_season": ["spring", "summer", "autumn", "winter"],
+          "visit_duration_hours": 0.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Driksas Street",
+          "wiki_title": "Driksas iela, Jelgava",
+          "lat": 56.652,
+          "lng": 23.712,
+          "order_index": 8,
+          "description": "Pedestrian street with cafes, shops, and historic architecture.",
+          "seo_phrase": "Driksas Street Jelgava",
+          "seo_keywords": ["Jelgava", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jelgava_16.jpg/1280px-Jelgava_16.jpg",
+          "seo_priority": 77,
+          "search_intent": ["travel_planning"],
+          "type": "landmark",
+          "best_season": ["spring", "summer", "autumn"],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Rundale Palace",
+          "wiki_title": "Rundale Palace",
+          "lat": 56.4138,
+          "lng": 24.0248,
+          "order_index": 9,
+          "description": "Magnificent Baroque palace and gardens, a day trip from Jelgava.",
+          "seo_phrase": "Rundale Palace",
+          "seo_keywords": ["Jelgava", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rund%C4%81le_Palace_05.jpg/1280px-Rund%C4%81le_Palace_05.jpg",
+          "seo_priority": 91,
+          "search_intent": ["travel_planning"],
+          "type": "historic_site",
+          "best_season": ["spring", "summer", "autumn"],
+          "visit_duration_hours": 2.5,
           "nearby_places": []
         }
       ]
@@ -3106,301 +2664,172 @@
       },
       "places": [
         {
-          "name": "Kupiškis",
-          "wiki_title": "Kupiškis",
-          "lat": 55.83333333,
-          "lng": 24.96666667,
+          "name": "Rezekne Castle Ruins",
+          "wiki_title": "Rezekne Castle",
+          "lat": 56.5024,
+          "lng": 27.3345,
           "order_index": 0,
-          "description": "Kupiškis — a notable landmark in Rezekne, Latvia.",
-          "seo_phrase": "Kupiškis",
-          "seo_keywords": [
-            "Rezekne",
-            "Latvia",
-            "travel"
-          ],
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Kupi%C5%A1kis_Culture_Centre_in_Kupi%C5%A1kis%2C_Lithuania_in_2024.jpg/800px-Kupi%C5%A1kis_Culture_Centre_in_Kupi%C5%A1kis%2C_Lithuania_in_2024.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Rēzekne Castle",
-          "wiki_title": "Rēzekne Castle",
-          "lat": 56.50242,
-          "lng": 27.33454,
-          "order_index": 1,
-          "description": "Rēzekne Castle — a notable landmark in Rezekne, Latvia.",
-          "seo_phrase": "Rēzekne Castle",
-          "seo_keywords": [
-            "Rezekne",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Rezekne castle.JPG/800px-Rezekne castle.JPG",
+          "description": "Medieval castle ruins on a hill overlooking the city.",
+          "seo_phrase": "Rezekne Castle",
+          "seo_keywords": ["Rezekne", "Latvia", "travel"],
           "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/R%C4%93zeknes_pilsdrupas._Rezekne_castle_ruins_-_panoramio.jpg/1280px-R%C4%93zeknes_pilsdrupas._Rezekne_castle_ruins_-_panoramio.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "seo_priority": 90,
+          "search_intent": ["travel_planning"],
           "type": "historic_site",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
+          "best_season": ["spring", "summer", "autumn", "winter"],
           "visit_duration_hours": 1.5,
           "nearby_places": []
         },
         {
-          "name": "Lūznava Manor",
-          "wiki_title": "Lūznava Manor",
-          "lat": 56.36027778,
-          "lng": 27.26027778,
-          "order_index": 2,
-          "description": "Lūznava Manor — a notable landmark in Rezekne, Latvia.",
-          "seo_phrase": "Lūznava Manor",
-          "seo_keywords": [
-            "Rezekne",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Lūznavas muižas atklāšana.jpeg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/L%C5%ABznavas_mui%C5%BEas_atkl%C4%81%C5%A1ana.jpeg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "name": "Latgales Mara Monument",
+          "wiki_title": "Latgales Mara",
+          "lat": 56.51,
+          "lng": 27.333,
+          "order_index": 1,
+          "description": "Iconic monument symbolising the unity of the Latgale region.",
+          "seo_phrase": "Latgales Mara",
+          "seo_keywords": ["Rezekne", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rezekne_-_Latgales_Mara.jpg/1280px-Rezekne_-_Latgales_Mara.jpg",
+          "seo_priority": 88,
+          "search_intent": ["travel_planning"],
           "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
+          "best_season": ["spring", "summer", "autumn", "winter"],
+          "visit_duration_hours": 0.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Our Lady of Sorrows Cathedral",
+          "wiki_title": "Our Lady of Sorrows Cathedral, Rezekne",
+          "lat": 56.509,
+          "lng": 27.337,
+          "order_index": 2,
+          "description": "Neo-Gothic Catholic cathedral in the city centre.",
+          "seo_phrase": "Our Lady of Sorrows Cathedral",
+          "seo_keywords": ["Rezekne", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rezekne_-_Latgales_Mara.jpg/1280px-Rezekne_-_Latgales_Mara.jpg",
+          "seo_priority": 85,
+          "search_intent": ["travel_planning"],
+          "type": "landmark",
+          "best_season": ["spring", "summer", "autumn", "winter"],
+          "visit_duration_hours": 0.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Rezekne History and Art Museum",
+          "wiki_title": "Rezekne History and Art Museum",
+          "lat": 56.508,
+          "lng": 27.336,
+          "order_index": 3,
+          "description": "Museum with regional history and art exhibitions.",
+          "seo_phrase": "Rezekne Museum",
+          "seo_keywords": ["Rezekne", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/R%C4%93zeknes_pilsdrupas._Rezekne_castle_ruins_-_panoramio.jpg/1280px-R%C4%93zeknes_pilsdrupas._Rezekne_castle_ruins_-_panoramio.jpg",
+          "seo_priority": 82,
+          "search_intent": ["travel_planning"],
+          "type": "museum",
+          "best_season": ["spring", "summer", "autumn", "winter"],
           "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Holy Trinity Lutheran Church",
+          "wiki_title": "Rezekne Evangelical Lutheran Church of the Holy Trinity",
+          "lat": 56.5095,
+          "lng": 27.3365,
+          "order_index": 4,
+          "description": "Historic Lutheran church near the old town.",
+          "seo_phrase": "Holy Trinity Church Rezekne",
+          "seo_keywords": ["Rezekne", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/R%C4%93zeknes_pilsdrupas._Rezekne_castle_ruins_-_panoramio.jpg/1280px-R%C4%93zeknes_pilsdrupas._Rezekne_castle_ruins_-_panoramio.jpg",
+          "seo_priority": 80,
+          "search_intent": ["travel_planning"],
+          "type": "landmark",
+          "best_season": ["spring", "summer", "autumn", "winter"],
+          "visit_duration_hours": 0.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Green Synagogue",
+          "wiki_title": "Green Synagogue, Rezekne",
+          "lat": 56.507,
+          "lng": 27.338,
+          "order_index": 5,
+          "description": "Restored wooden synagogue, a rare heritage site in Latvia.",
+          "seo_phrase": "Green Synagogue Rezekne",
+          "seo_keywords": ["Rezekne", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rezekne_-_Latgales_Mara.jpg/1280px-Rezekne_-_Latgales_Mara.jpg",
+          "seo_priority": 84,
+          "search_intent": ["travel_planning"],
+          "type": "historic_site",
+          "best_season": ["spring", "summer", "autumn", "winter"],
+          "visit_duration_hours": 0.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Kovsu Lake Park",
+          "wiki_title": "Kovsu Lake, Rezekne",
+          "lat": 56.512,
+          "lng": 27.34,
+          "order_index": 6,
+          "description": "City lake with walking paths, benches, and seasonal events.",
+          "seo_phrase": "Kovsu Lake Rezekne",
+          "seo_keywords": ["Rezekne", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rezekne_-_Latgales_Mara.jpg/1280px-Rezekne_-_Latgales_Mara.jpg",
+          "seo_priority": 78,
+          "search_intent": ["travel_planning"],
+          "type": "landmark",
+          "best_season": ["spring", "summer", "autumn"],
+          "visit_duration_hours": 1,
+          "nearby_places": []
+        },
+        {
+          "name": "Luznava Manor",
+          "wiki_title": "Luznava Manor",
+          "lat": 56.3603,
+          "lng": 27.2603,
+          "order_index": 7,
+          "description": "Elegant manor house with park, a short drive from Rezekne.",
+          "seo_phrase": "Luznava Manor",
+          "seo_keywords": ["Rezekne", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/L%C5%ABznavas_mui%C5%BEas_atkl%C4%81%C5%A1ana.jpeg",
+          "seo_priority": 83,
+          "search_intent": ["travel_planning"],
+          "type": "historic_site",
+          "best_season": ["spring", "summer", "autumn"],
+          "visit_duration_hours": 1.5,
           "nearby_places": []
         },
         {
           "name": "Adamova Manor",
           "wiki_title": "Adamova Manor",
-          "lat": 56.56127778,
-          "lng": 27.36930556,
-          "order_index": 3,
-          "description": "Adamova Manor — a notable landmark in Rezekne, Latvia.",
-          "seo_phrase": "Adamova Manor",
-          "seo_keywords": [
-            "Rezekne",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Adamovas muiža 2004-08-05.jpg/800px-Adamovas muiža 2004-08-05.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Adamova_m%C3%B5isa_teenijatemaja_2026._aastal.jpg/1280px-Adamova_m%C3%B5isa_teenijatemaja_2026._aastal.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Vārkava Manor",
-          "wiki_title": "Vārkava Manor",
-          "lat": 56.19641667,
-          "lng": 26.51425,
-          "order_index": 4,
-          "description": "Vārkava Manor — a notable landmark in Rezekne, Latvia.",
-          "seo_phrase": "Vārkava Manor",
-          "seo_keywords": [
-            "Rezekne",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Vārkavas muižas pils 2001-04-08.jpg/800px-Vārkavas muižas pils 2001-04-08.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/V%C4%81rkavas_mui%C5%BEas_pils_2001-04-08.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Rikava Manor",
-          "wiki_title": "Rikava Manor",
-          "lat": 56.62155556,
-          "lng": 27.04658333,
-          "order_index": 5,
-          "description": "Rikava Manor — a notable landmark in Rezekne, Latvia.",
-          "seo_phrase": "Rikava Manor",
-          "seo_keywords": [
-            "Rezekne",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Rikavas muižas pils 2000-10-14.jpg/800px-Rikavas muižas pils 2000-10-14.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rikavas_mui%C5%BEa%2C_Rikava%2C_Rikavas_pagasts%2C_R%C4%93zeknes_novads%2C_Latvia_-_panoramio.jpg/1280px-Rikavas_mui%C5%BEa%2C_Rikava%2C_Rikavas_pagasts%2C_R%C4%93zeknes_novads%2C_Latvia_-_panoramio.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Viļāni",
-          "wiki_title": "Viļāni",
-          "lat": 56.55191667,
-          "lng": 26.92716667,
-          "order_index": 6,
-          "description": "Viļāni — a notable landmark in Rezekne, Latvia.",
-          "seo_phrase": "Viļāni",
-          "seo_keywords": [
-            "Rezekne",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Viļāni kosciol(1).jpg/800px-Viļāni kosciol(1).jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Malta%3B_Vi%C4%BC%C4%81nu_HES_%C5%ABdenskr%C4%81tuve%2C_Vi%C4%BC%C4%81ni%2C_Vi%C4%BC%C4%81nu_novads%2C_Latvia.jpg/1280px-Malta%3B_Vi%C4%BC%C4%81nu_HES_%C5%ABdenskr%C4%81tuve%2C_Vi%C4%BC%C4%81ni%2C_Vi%C4%BC%C4%81nu_novads%2C_Latvia.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Pytalovo",
-          "wiki_title": "Pytalovo",
-          "lat": 57.06666667,
-          "lng": 27.91666667,
-          "order_index": 7,
-          "description": "Pytalovo — a notable landmark in Rezekne, Latvia.",
-          "seo_phrase": "Pytalovo",
-          "seo_keywords": [
-            "Rezekne",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Abrene, dzelzceļa stacija - panoramio.jpg/800px-Abrene, dzelzceļa stacija - panoramio.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/%D0%92%D1%8B%D1%88%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%BA.JPG/960px-%D0%92%D1%8B%D1%88%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%BA.JPG",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Art Academy of Latvia",
-          "wiki_title": "Art Academy of Latvia",
-          "lat": 56.9547106,
-          "lng": 24.1109562,
+          "lat": 56.5613,
+          "lng": 27.3693,
           "order_index": 8,
-          "description": "Art Academy of Latvia — a notable landmark in Rezekne, Latvia.",
-          "seo_phrase": "Art Academy of Latvia",
-          "seo_keywords": [
-            "Rezekne",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "2025 Riga Latvian Academy of Arts (2).jpg/800px-2025 Riga Latvian Academy of Arts (2).jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Latvian_Art_Academy_1942.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "culture",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
+          "description": "Historic manor estate near Rezekne with landscaped grounds.",
+          "seo_phrase": "Adamova Manor",
+          "seo_keywords": ["Rezekne", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Adamova_m%C3%B5isa_teenijatemaja_2026._aastal.jpg/1280px-Adamova_m%C3%B5isa_teenijatemaja_2026._aastal.jpg",
+          "seo_priority": 81,
+          "search_intent": ["travel_planning"],
+          "type": "historic_site",
+          "best_season": ["spring", "summer", "autumn"],
           "visit_duration_hours": 1,
           "nearby_places": []
         },
         {
-          "name": "Līvāni",
-          "wiki_title": "Līvāni",
-          "lat": 56.36666667,
-          "lng": 26.18333333,
+          "name": "Rezekne City Park",
+          "wiki_title": "Rezekne City Park",
+          "lat": 56.511,
+          "lng": 27.338,
           "order_index": 9,
-          "description": "Līvāni — a notable landmark in Rezekne, Latvia.",
-          "seo_phrase": "Līvāni",
-          "seo_keywords": [
-            "Rezekne",
-            "Latvia",
-            "travel"
-          ],
-          "commons_file": "Līvāni center - panoramio.jpg/800px-Līvāni center - panoramio.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/L%C4%ABv%C4%81ni_center_-_panoramio.jpg/960px-L%C4%ABv%C4%81ni_center_-_panoramio.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "description": "Central park with fountains and green spaces for relaxation.",
+          "seo_phrase": "Rezekne City Park",
+          "seo_keywords": ["Rezekne", "Latvia", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rezekne_-_Latgales_Mara.jpg/1280px-Rezekne_-_Latgales_Mara.jpg",
+          "seo_priority": 76,
+          "search_intent": ["travel_planning"],
           "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
+          "best_season": ["spring", "summer", "autumn"],
           "visit_duration_hours": 1,
           "nearby_places": []
         }

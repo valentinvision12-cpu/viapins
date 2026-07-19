@@ -57,8 +57,7 @@ export async function CityRelated({ currentCity, locale }: Props) {
   return (
     <section className="container max-w-4xl mx-auto px-6 pt-10 pb-14">
       <div className="flex items-center gap-2.5 mb-6">
-        <span className="text-xl">✈️</span>
-        <h2 className="text-base font-bold text-stone-700">{t("title")}</h2>
+        <h2 className="text-base font-bold text-stone-800 tracking-tight">{t("title")}</h2>
         <div className="flex-1 h-px bg-stone-200" />
       </div>
 
@@ -70,22 +69,25 @@ export async function CityRelated({ currentCity, locale }: Props) {
               key={city.slug}
               href={`/explore/${countrySlug}/${citySlug}`}
               locale={locale}
-              className="group relative overflow-hidden rounded-2xl border border-white/8 hover:border-white/20 transition-all duration-300 hover:scale-[1.02]"
+              className="group relative overflow-hidden rounded-2xl border border-stone-200/80 shadow-sm hover:shadow-md transition-all duration-300 hover:-translate-y-0.5"
             >
-              {/* Gradient bg */}
               <div
-                className={`absolute inset-0 bg-gradient-to-br ${city.gradient} group-hover:opacity-90 transition-opacity`}
+                className={`absolute inset-0 bg-gradient-to-br ${city.gradient}`}
               />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent" />
 
-              {/* Content */}
-              <div className="relative z-10 p-5">
-                <div className="text-3xl mb-3">{city.emoji}</div>
-                <h3 className="text-white font-bold text-lg leading-tight">{city.city}</h3>
-                <div className="flex items-center gap-1 mt-1 mb-4">
-                  <MapPin className="w-3 h-3 text-white/50" />
-                  <span className="text-white/50 text-xs">{city.country}</span>
+              <div className="relative z-10 p-5 min-h-[140px] flex flex-col justify-end">
+                <h3
+                  className="text-white font-bold text-lg leading-tight"
+                  style={{ textShadow: "0 2px 10px rgba(0,0,0,0.55)" }}
+                >
+                  {city.city}
+                </h3>
+                <div className="flex items-center gap-1 mt-1 mb-3">
+                  <MapPin className="w-3 h-3 text-white/80" />
+                  <span className="text-white/85 text-xs font-medium">{city.country}</span>
                 </div>
-                <div className="flex items-center gap-1 text-white/60 text-xs font-semibold group-hover:text-white transition-colors">
+                <div className="flex items-center gap-1 text-white/90 text-xs font-semibold">
                   {t("explore")}
                   <ArrowRight className="w-3 h-3 transition-transform group-hover:translate-x-1" />
                 </div>

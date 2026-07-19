@@ -17,7 +17,9 @@
     "fix:all-countries": "node scripts/fix-all-countries.mjs",
     "resolve:google-places": "node scripts/resolve-google-places.mjs",
     "refresh:images": "npx --yes tsx scripts/refresh-place-images.ts",
-    "verify:images": "npx --yes tsx scripts/verify-place-images.ts"
+    "verify:images": "npx --yes tsx scripts/verify-place-images.ts",
+    "fix:audit-images": "npx --yes tsx scripts/fix-audit-images.ts",
+    "audit:places": "npx --yes tsx scripts/audit-places.ts"
   },
   "dependencies": {
     "@dnd-kit/core": "^6.3.1",

@@ -115,7 +115,7 @@ export function buildCityJsonLd(input: CitySchemaInput) {
             "@type": "ListItem",
             position: 2,
             name: input.country,
-            item: homeUrl,
+            item: `${siteUrl}/${input.locale}/explore/${input.countrySlug}`,
           },
           { "@type": "ListItem", position: 3, name: input.city, item: pageUrl },
         ],
@@ -179,6 +179,14 @@ export function buildHomeJsonLd(locale: string) {
         description:
           "Curated travel guides with GPS-guided routes for top destinations worldwide.",
         inLanguage: ["en", "es", "fr", "de", "it"],
+        potentialAction: {
+          "@type": "SearchAction",
+          target: {
+            "@type": "EntryPoint",
+            urlTemplate: `${homeUrl}/?q={search_term_string}`,
+          },
+          "query-input": "required name=search_term_string",
+        },
       },
       {
         "@type": "Organization",
@@ -197,6 +205,71 @@ export function buildHomeJsonLd(locale: string) {
         name: `${SITE_FULL_NAME} — Travel Guides & GPS Routes`,
         isPartOf: { "@id": `${siteUrl}/#website` },
         publisher: { "@id": `${siteUrl}/#organization` },
+      },
+    ],
+  };
+}
+
+export function buildCountryJsonLd(input: {
+  country: string;
+  locale: string;
+  countrySlug: string;
+  description: string;
+  coverImage?: string;
+  cities: { name: string; slug: string; coverImage?: string; placeCount: number }[];
+}) {
+  const siteUrl = getSiteUrl();
+  const pageUrl = `${siteUrl}/${input.locale}/explore/${input.countrySlug}`;
+  const homeUrl = `${siteUrl}/${input.locale}`;
+
+  return {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": pageUrl,
+        url: pageUrl,
+        name: `Top Cities in ${input.country}`,
+        description: input.description,
+        inLanguage: input.locale,
+        isPartOf: { "@id": `${siteUrl}/#website` },
+        breadcrumb: { "@id": `${pageUrl}#breadcrumb` },
+        primaryImageOfPage: input.coverImage
+          ? { "@type": "ImageObject", url: input.coverImage }
+          : undefined,
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${pageUrl}#breadcrumb`,
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: homeUrl },
+          { "@type": "ListItem", position: 2, name: input.country, item: pageUrl },
+        ],
+      },
+      {
+        "@type": "Country",
+        "@id": `${pageUrl}#country`,
+        name: input.country,
+        url: pageUrl,
+        ...imageBlock(input.coverImage, input.country, `${input.country} travel guide`),
+      },
+      {
+        "@type": "ItemList",
+        "@id": `${pageUrl}#cities`,
+        name: `Top cities in ${input.country}`,
+        numberOfItems: input.cities.length,
+        itemListElement: input.cities.map((city, i) => ({
+          "@type": "ListItem",
+          position: i + 1,
+          name: city.name,
+          url: `${pageUrl}/${city.slug}`,
+          item: {
+            "@type": "TouristDestination",
+            name: `${city.name}, ${input.country}`,
+            url: `${pageUrl}/${city.slug}`,
+            ...(city.coverImage ? { image: city.coverImage } : {}),
+          },
+        })),
       },
     ],
   };

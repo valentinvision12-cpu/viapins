@@ -22,7 +22,7 @@ const securityHeaders = [
       "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
       "font-src 'self' data: https://fonts.gstatic.com",
       "img-src 'self' data: blob: https://*.supabase.co https://upload.wikimedia.org https://commons.wikimedia.org https://flagcdn.com https://picsum.photos https://*.unsplash.com https://images.unsplash.com https://maps.googleapis.com https://maps.gstatic.com",
-      "connect-src 'self' https://*.supabase.co wss://*.supabase.co https://nominatim.openstreetmap.org https://en.wikipedia.org",
+      "connect-src 'self' https://*.supabase.co wss://*.supabase.co https://nominatim.openstreetmap.org https://en.wikipedia.org https://commons.wikimedia.org https://*.wikipedia.org",
       "worker-src blob:",
       "frame-src 'self'",
       "object-src 'none'",

@@ -158,3 +158,27 @@ export function buildCityPageUrl(
 ): string {
   return `${getSiteUrl()}/${locale}/explore/${countrySlug}/${citySlug}`;
 }
+
+export const SEO_LOCALES = ["en", "es", "fr", "de", "it"] as const;
+
+/** Absolute path → hreflang map for all supported locales (+ x-default → en). */
+export function buildLocaleAlternates(path: string): {
+  canonical: string;
+  languages: Record<string, string>;
+} {
+  const siteUrl = getSiteUrl();
+  const normalized = path.startsWith("/") ? path : `/${path}`;
+  const bare = normalized.replace(/^\/(en|es|fr|de|it)(?=\/|$)/, "") || "/";
+  const languages: Record<string, string> = { "x-default": `${siteUrl}/en${bare === "/" ? "" : bare}` };
+  for (const locale of SEO_LOCALES) {
+    languages[locale] = `${siteUrl}/${locale}${bare === "/" ? "" : bare}`;
+  }
+  return {
+    canonical: languages.en,
+    languages,
+  };
+}
+
+export function buildCountryPageUrl(locale: string, countrySlug: string): string {
+  return `${getSiteUrl()}/${locale}/explore/${countrySlug}`;
+}

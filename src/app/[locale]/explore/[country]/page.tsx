@@ -12,16 +12,17 @@ import { NavHeader } from "@/components/public/nav-header";
 import { AdventureLinkBanner } from "@/components/public/adventure-link-banner";
 import { CountryHeroCover } from "@/components/public/country-hero-cover";
 import { ShareDestinationButton } from "@/components/public/share-destination-button";
-import { SITE_NAME } from "@/lib/site-brand";
+import { SITE_LOGO_PATH, SITE_NAME } from "@/lib/site-brand";
 import { ContinentBadge } from "@/components/public/continent-badge";
 import { CountryFlag } from "@/components/public/country-flag";
 import { hasAdventureMode } from "@/lib/adventure-data";
 import { getCountryContinent } from "@/lib/country-continents";
-
-function pageShareUrl(locale: string, path: string) {
-  const base = (process.env.NEXT_PUBLIC_SITE_URL ?? "").replace(/\/$/, "") || "https://travel-magazine-six.vercel.app";
-  return `${base}/${locale}${path.startsWith("/") ? path : `/${path}`}`;
-}
+import {
+  buildCountryPageUrl,
+  buildLocaleAlternates,
+  getSiteUrl,
+} from "@/lib/seo";
+import { buildCountryJsonLd } from "@/lib/seo-schema";
 
 type Props = {
   params: Promise<{ locale: string; country: string }>;
@@ -33,10 +34,50 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!country) return {};
 
   const t = await getTranslations({ locale, namespace: "countryPage" });
+  const title = t("metaTitle", { country: country.country });
+  const description = t("metaDescription", { country: country.country });
+  const pageUrl = buildCountryPageUrl(locale, countrySlug);
+  const alternates = buildLocaleAlternates(`/explore/${countrySlug}`);
+  const ogImage = country.coverImage || `${getSiteUrl()}${SITE_LOGO_PATH}`;
 
   return {
-    title: t("metaTitle", { country: country.country }),
-    description: t("metaDescription", { country: country.country }),
+    title,
+    description,
+    alternates: {
+      canonical: pageUrl,
+      languages: alternates.languages,
+    },
+    openGraph: {
+      title,
+      description,
+      url: pageUrl,
+      siteName: SITE_NAME,
+      type: "website",
+      images: [
+        {
+          url: ogImage,
+          width: 1200,
+          height: 630,
+          alt: `${country.country} travel guide`,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      images: [ogImage],
+    },
+    robots: {
+      index: true,
+      follow: true,
+      googleBot: {
+        index: true,
+        follow: true,
+        "max-image-preview": "large",
+        "max-snippet": -1,
+      },
+    },
   };
 }
 
@@ -54,9 +95,28 @@ export default async function ExploreCountryPage({ params }: Props) {
   if (!country || !data) notFound();
 
   const continent = getCountryContinent(country.country);
+  const description = tCountry("metaDescription", { country: country.country });
+  const jsonLd = buildCountryJsonLd({
+    country: country.country,
+    locale,
+    countrySlug,
+    description,
+    coverImage: country.coverImage,
+    cities: data.cities.map((c) => ({
+      name: c.city,
+      slug: c.slug.city,
+      coverImage: c.coverImage,
+      placeCount: c.placeCount,
+    })),
+  });
 
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+
       <NavHeader />
 
       <main className="bg-[#F8F6F1]">
@@ -68,7 +128,7 @@ export default async function ExploreCountryPage({ params }: Props) {
           />
           <div className="absolute top-24 right-5 sm:right-8 z-20">
             <ShareDestinationButton
-              url={pageShareUrl(locale, `/explore/${countrySlug}`)}
+              url={buildCountryPageUrl(locale, countrySlug)}
               title={`${country.country} Travel Guide`}
               description={`Top ${country.cityCount} cities and landmarks`}
               variant="compact"
@@ -113,8 +173,28 @@ export default async function ExploreCountryPage({ params }: Props) {
         </section>
 
         <section className="container max-w-7xl mx-auto px-5 sm:px-8 py-10 sm:py-14">
+          <div className="mb-7 sm:mb-9">
+            <h2 className="text-3xl sm:text-4xl font-black tracking-[-0.03em] text-stone-950">
+              {tCountry("topCitiesTitle", { count: data.cities.length })}
+            </h2>
+            <p className="text-base text-stone-600 mt-2 font-medium">
+              {tCountry("pickCityDesc")}
+            </p>
+          </div>
+
+          <div className="flex sm:grid sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6 overflow-x-auto sm:overflow-visible snap-x snap-mandatory sm:snap-none -mx-5 px-5 sm:mx-0 sm:px-0 pb-2 sm:pb-0 scrollbar-none">
+            {data.cities.map((city, i) => (
+              <div
+                key={city.id}
+                className="w-[78vw] max-w-[280px] sm:w-auto sm:max-w-none shrink-0 sm:shrink snap-start"
+              >
+                <DestinationCard destination={city} index={i} priority={i < 2} />
+              </div>
+            ))}
+          </div>
+
           {showAdventure && (
-            <div className="mb-10">
+            <div className="mt-12 pt-10 border-t border-stone-200/80">
               <AdventureLinkBanner
                 countrySlug={countrySlug}
                 countryName={country.country}
@@ -122,31 +202,6 @@ export default async function ExploreCountryPage({ params }: Props) {
               />
             </div>
           )}
-
-          <div className="mb-7 sm:mb-9">
-            <h2 className="text-3xl sm:text-4xl font-black tracking-[-0.03em] text-stone-950">
-              {tCountry("topCitiesTitle", { count: data.cities.length })}
-            </h2>
-            <p className="text-base text-stone-600 mt-2 font-medium">
-              Select a city to explore its top landmarks
-            </p>
-          </div>
-
-          {/* Mobile: horizontal swipe scroll */}
-          <div className="sm:hidden swipe-scroll -mx-6 px-6">
-            {data.cities.map((city, i) => (
-              <div key={city.id} className="w-[78vw] max-w-[280px]">
-                <DestinationCard destination={city} index={i} priority={i < 2} />
-              </div>
-            ))}
-          </div>
-
-          {/* Desktop: regular grid */}
-          <div className="hidden sm:grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {data.cities.map((city, i) => (
-              <DestinationCard key={city.id} destination={city} index={i} priority={i < 2} />
-            ))}
-          </div>
         </section>
 
         <footer className="border-t border-stone-200 py-8 text-center bg-[#F8F6F1]">

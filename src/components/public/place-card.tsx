@@ -134,11 +134,11 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
       className={`group relative rounded-2xl border overflow-hidden transition-all duration-200 ${
         inTrip
           ? "border-amber-300/80 bg-amber-50/50 shadow-sm"
-          : "border-stone-100 bg-white shadow-sm hover:shadow-md hover:border-stone-200"
+          : "border-stone-200/80 bg-white shadow-sm hover:shadow-md hover:border-stone-300"
       }`}
     >
       <div className="flex flex-col sm:flex-row gap-0">
-        <div className="relative sm:w-52 flex-shrink-0 h-44 sm:h-auto overflow-hidden sm:rounded-l-2xl">
+        <div className="relative sm:w-56 flex-shrink-0 h-48 sm:min-h-[11.5rem] sm:h-auto overflow-hidden sm:rounded-l-2xl bg-stone-100">
           {imgSrc ? (
             <Image
               src={imgSrc}
@@ -146,7 +146,6 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
               fill
               sizes="(max-width: 640px) 100vw, 208px"
               className="object-cover"
-              unoptimized
               referrerPolicy="no-referrer"
               onError={() => {
                 fetch(`/api/places/${place.id}/image?refresh=1`)
@@ -166,7 +165,6 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
                 fill
                 sizes="(max-width: 640px) 100vw, 208px"
                 className="object-cover opacity-70"
-                unoptimized
               />
             </div>
           )}
@@ -248,7 +246,7 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
           </div>
 
           {description && (
-            <p className="text-stone-500 text-sm leading-relaxed line-clamp-2 mb-2">
+            <p className="text-stone-600 text-sm leading-relaxed line-clamp-3 mb-2">
               {description}
             </p>
           )}

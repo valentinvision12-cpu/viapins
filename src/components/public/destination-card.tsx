@@ -49,7 +49,6 @@ export function DestinationCard({ destination, index, priority = false }: Props)
             fill
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
             className="object-cover transition-transform duration-500 group-hover:scale-105"
-            unoptimized
             priority={priority}
             referrerPolicy="no-referrer"
             onError={() => setImgSrc(fallbackImageUrl(seed))}
@@ -64,35 +63,33 @@ export function DestinationCard({ destination, index, priority = false }: Props)
           </div>
         )}
 
-        {/* Rich gradient overlay */}
-        <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent" />
+        <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/15 to-transparent" />
 
-        {/* Place count badge — glassmorphism pill */}
-        <div className="absolute top-3 right-3 flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-white/15 backdrop-blur-md border border-white/20 text-white text-xs font-semibold shadow-lg">
+        <div className="absolute top-3 right-3 flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-black/35 backdrop-blur-md border border-white/25 text-white text-xs font-semibold shadow-lg">
           <Layers className="w-3 h-3" />
           {destination.placeCount}
         </div>
 
-        {/* City name overlaid on image */}
         <div className="absolute bottom-0 left-0 right-0 p-4">
           <div className="flex items-center gap-1.5 mb-1">
-            <MapPin className="w-3 h-3 text-white/60 flex-shrink-0" />
-            <span className="text-white/60 text-xs truncate">{destination.country}</span>
+            <MapPin className="w-3 h-3 text-white/80 flex-shrink-0" />
+            <span className="text-white/85 text-xs font-medium truncate drop-shadow-sm">
+              {destination.country}
+            </span>
           </div>
           <div className="flex items-end justify-between gap-2">
-            <h3 className="font-bold text-2xl text-white leading-tight drop-shadow-sm">
+            <h3
+              className="font-bold text-2xl text-white leading-tight"
+              style={{ textShadow: "0 2px 12px rgba(0,0,0,0.65)" }}
+            >
               {destination.city}
             </h3>
-            <div className="w-8 h-8 rounded-full bg-white/15 backdrop-blur-md border border-white/20 flex items-center justify-center flex-shrink-0 group-hover:bg-white/25 transition-colors">
+            <div className="w-8 h-8 rounded-full bg-white/20 backdrop-blur-md border border-white/25 flex items-center justify-center flex-shrink-0 group-hover:bg-white/30 transition-colors">
               <ArrowRight className="w-4 h-4 text-white" />
             </div>
           </div>
-          {/* Keep overlay clean — no tag pills */}
         </div>
       </div>
-
-      {/* Subtle bottom strip (hidden — content is now on image) */}
-      <div className="hidden" />
     </div>
   );
 

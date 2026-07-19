@@ -6,20 +6,20 @@ import { MapPin, ArrowLeft, Compass, Tag } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import { getDestinationByCityCountry, type DestinationDetail } from "@/actions/get-destinations";
 import { getDemoDestination, type DemoDestination } from "@/lib/demo-data";
-import { isBadImageUrl } from "@/lib/wiki-image";
 import {
   filterPlacesForDisplay,
   filterPlacesWithPhoto,
   pickCityCoverFromPlaces,
   resolveCityCoverFromDb,
 } from "@/lib/city-cover";
+import { ensurePlacesHaveImages } from "@/lib/ensure-place-images";
 import { ShareDestinationButton } from "@/components/public/share-destination-button";
 import { PlaceCard } from "@/components/public/place-card";
 import { NavHeader } from "@/components/public/nav-header";
 import { CityProgress } from "@/components/public/city-progress";
 import { AdventureLinkBanner } from "@/components/public/adventure-link-banner";
 import { CityRelated } from "@/components/public/city-related";
-import { buildCitySeo, buildCityPageUrl, getSiteUrl } from "@/lib/seo";
+import { buildCitySeo, buildCityPageUrl, buildLocaleAlternates, getSiteUrl } from "@/lib/seo";
 import { buildCityJsonLd } from "@/lib/seo-schema";
 import { SITE_NAME } from "@/lib/site-brand";
 import { hasAdventureMode } from "@/lib/adventure-data";
@@ -51,11 +51,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   const heroImage = destination.places[0]?.image_url ?? "";
   const pageUrl = buildCityPageUrl(locale, country, city);
+  const alternates = buildLocaleAlternates(`/explore/${country}/${city}`);
 
   return {
     title: seo.title,
     description: seo.description,
-    alternates: { canonical: pageUrl },
+    keywords: seo.keywords,
+    alternates: {
+      canonical: pageUrl,
+      languages: alternates.languages,
+    },
     openGraph: {
       title: seo.title,
       description: seo.description,
@@ -78,6 +83,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title: seo.title,
       description: seo.description,
       images: heroImage ? [heroImage] : [],
+    },
+    robots: {
+      index: true,
+      follow: true,
+      googleBot: {
+        index: true,
+        follow: true,
+        "max-image-preview": "large",
+        "max-snippet": -1,
+      },
     },
   };
 }
@@ -114,12 +129,15 @@ export default async function ExploreCityPage({ params }: Props) {
     heroImage = resolvedHero;
   } else {
     const dbDest = rawDestination as DestinationDetail;
-    const countryName = dbDest.country;
-    const resolvedPlaces = filterPlacesForDisplay(dbDest.places);
+    const resolvedPlaces = await ensurePlacesHaveImages(
+      filterPlacesForDisplay(dbDest.places),
+      dbDest.city,
+      dbDest.country
+    );
     destination = { ...dbDest, places: resolvedPlaces };
     heroImage = resolveCityCoverFromDb(
       dbDest.coverImage,
-      filterPlacesWithPhoto(dbDest.places)
+      filterPlacesWithPhoto(resolvedPlaces)
     );
   }
 
@@ -164,7 +182,6 @@ export default async function ExploreCityPage({ params }: Props) {
               priority
               sizes="100vw"
               className="object-cover"
-              unoptimized
             />
           ) : (
             <div
@@ -197,14 +214,22 @@ export default async function ExploreCityPage({ params }: Props) {
             </Link>
 
             <div className="flex items-center gap-2 mb-2">
-              <MapPin className="w-4 h-4 text-[oklch(0.72_0.13_82)]" />
-              <span className="text-white/55 text-sm">{destination.country}</span>
+              <MapPin className="w-4 h-4 text-[oklch(0.78_0.14_75)]" />
+              <span className="text-white/90 text-sm font-medium drop-shadow-sm">
+                {destination.country}
+              </span>
             </div>
 
-            <h1 className="text-5xl md:text-7xl font-bold text-white tracking-tight mb-2">
+            <h1
+              className="text-5xl md:text-7xl font-bold text-white tracking-tight mb-2"
+              style={{ textShadow: "0 3px 18px rgba(0,0,0,0.7)" }}
+            >
               {destination.city}
             </h1>
-            <p className="text-white/70 text-lg md:text-xl mb-5 max-w-2xl">
+            <p
+              className="text-white/95 text-lg md:text-xl mb-5 max-w-2xl font-medium"
+              style={{ textShadow: "0 2px 12px rgba(0,0,0,0.55)" }}
+            >
               {seo.h1Subtitle}
             </p>
 
