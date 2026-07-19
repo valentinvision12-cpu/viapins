@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { useState } from "react";
-import { MapPin, Layers, ArrowRight } from "lucide-react";
+import { Layers, ArrowRight, MapPin } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import { motion } from "framer-motion";
 import type { DestinationCard as DestinationCardType } from "@/actions/get-destinations";
@@ -12,6 +12,8 @@ interface Props {
   destination: DestinationCardType;
   index: number;
   priority?: boolean;
+  /** Show country line under the city (home/search). Hidden on country pages. */
+  showCountry?: boolean;
 }
 
 const GRADIENTS = [
@@ -30,38 +32,31 @@ function gradientForCity(city: string) {
   return GRADIENTS[idx];
 }
 
-export function DestinationCard({ destination, index, priority = false }: Props) {
+export function DestinationCard({
+  destination,
+  index,
+  priority = false,
+  showCountry = false,
+}: Props) {
   const gradient = gradientForCity(destination.city);
   const seed = `${destination.city}-${destination.country}`;
   const [imgSrc, setImgSrc] = useState(
     destination.coverImage || fallbackImageUrl(seed)
   );
-  const hasImage = !!imgSrc;
 
   const cardContent = (
     <div className="rounded-2xl overflow-hidden shadow-md transition-all duration-300 group-hover:shadow-xl group-hover:-translate-y-1 border border-stone-200/60">
-      {/* Cover image — full bleed, taller on mobile */}
       <div className={`relative h-60 sm:h-52 overflow-hidden bg-gradient-to-br ${gradient}`}>
-        {hasImage && (
-          <Image
-            src={imgSrc}
-            alt={`${destination.city}, ${destination.country}`}
-            fill
-            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-            className="object-cover transition-transform duration-500 group-hover:scale-105"
-            priority={priority}
-            referrerPolicy="no-referrer"
-            onError={() => setImgSrc(fallbackImageUrl(seed))}
-          />
-        )}
-
-        {!hasImage && (
-          <div className="absolute inset-0 flex items-center justify-center">
-            <span className="text-7xl font-bold text-white/10 select-none">
-              {destination.city.charAt(0)}
-            </span>
-          </div>
-        )}
+        <Image
+          src={imgSrc}
+          alt={destination.city}
+          fill
+          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+          className="object-cover transition-transform duration-500 group-hover:scale-105"
+          priority={priority}
+          referrerPolicy="no-referrer"
+          onError={() => setImgSrc(fallbackImageUrl(seed))}
+        />
 
         <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/15 to-transparent" />
 
@@ -71,12 +66,14 @@ export function DestinationCard({ destination, index, priority = false }: Props)
         </div>
 
         <div className="absolute bottom-0 left-0 right-0 p-4">
-          <div className="flex items-center gap-1.5 mb-1">
-            <MapPin className="w-3 h-3 text-white/80 flex-shrink-0" />
-            <span className="text-white/85 text-xs font-medium truncate drop-shadow-sm">
-              {destination.country}
-            </span>
-          </div>
+          {showCountry && (
+            <div className="flex items-center gap-1.5 mb-1">
+              <MapPin className="w-3 h-3 text-white/80 flex-shrink-0" />
+              <span className="text-white/85 text-xs font-medium truncate drop-shadow-sm">
+                {destination.country}
+              </span>
+            </div>
+          )}
           <div className="flex items-end justify-between gap-2">
             <h3
               className="font-bold text-2xl text-white leading-tight"

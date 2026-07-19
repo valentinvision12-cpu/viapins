@@ -905,123 +905,71 @@
           ]
         },
         {
-          "name": "Lithuania",
-          "wiki_title": "Lithuania",
-          "lat": 55,
-          "lng": 24,
-          "order_index": 6,
-          "description": "Lithuania — a notable landmark in Klaipėda, Lithuania.",
-          "seo_phrase": "Lithuania",
-          "seo_keywords": [
-            "Klaipėda",
-            "Lithuania",
-            "travel"
-          ],
-          "commons_file": "Flag of Lithuania.svg/800px-Flag of Lithuania.svg.png",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/800px-Flag_of_Lithuania.svg.png",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Klaipėda",
-          "wiki_title": "Klaipėda",
-          "lat": 55.7125,
+          "name": "Klaipeda Old Town",
+          "wiki_title": "Klaipeda Old Town",
+          "lat": 55.706,
           "lng": 21.135,
+          "order_index": 6,
+          "description": "Charming timbered streets and half-timbered houses in Klaipeda's historic centre.",
+          "seo_phrase": "Klaipeda Old Town",
+          "seo_keywords": ["Klaipeda", "Lithuania", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Quite_summer_evening_in_the_port_city_Klaipeda.jpg/1280px-Quite_summer_evening_in_the_port_city_Klaipeda.jpg",
+          "seo_priority": 88,
+          "search_intent": ["travel_planning"],
+          "type": "landmark",
+          "best_season": ["spring", "summer", "autumn", "winter"],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Dange River Promenade",
+          "wiki_title": "Dange River, Klaipeda",
+          "lat": 55.71,
+          "lng": 21.132,
           "order_index": 7,
-          "description": "Klaipėda — a notable landmark in Klaipėda, Lithuania.",
-          "seo_phrase": "Klaipėda",
-          "seo_keywords": [
-            "Klaipėda",
-            "Lithuania",
-            "travel"
-          ],
-          "commons_file": "Quite summer evening in the port city Klaipeda.jpg/800px-Quite summer evening in the port city Klaipeda.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Quite_summer_evening_in_the_port_city_Klaipeda.jpg/800px-Quite_summer_evening_in_the_port_city_Klaipeda.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "description": "Waterfront promenade along the Dane River with cafes and boats.",
+          "seo_phrase": "Dange River Promenade",
+          "seo_keywords": ["Klaipeda", "Lithuania", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Klaipeda_Theater_Square_2019.jpg",
+          "seo_priority": 84,
+          "search_intent": ["travel_planning"],
           "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
+          "best_season": ["spring", "summer", "autumn"],
           "visit_duration_hours": 1,
           "nearby_places": []
         },
         {
-          "name": "Nida",
-          "wiki_title": "Nida, Lithuania",
-          "lat": 55.30333333,
-          "lng": 21.00555556,
+          "name": "Sculpture Park",
+          "wiki_title": "Klaipeda Sculpture Park",
+          "lat": 55.715,
+          "lng": 21.128,
           "order_index": 8,
-          "description": "Nida, Lithuania — a notable landmark in Klaipėda, Lithuania.",
-          "seo_phrase": "Nida",
-          "seo_keywords": [
-            "Klaipėda",
-            "Lithuania",
-            "travel"
-          ],
-          "commons_file": "Nida from bird's-eye view.jpg/800px-Nida from bird's-eye view.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nida_from_bird%27s-eye_view.jpg/800px-Nida_from_bird%27s-eye_view.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "description": "Open-air sculpture park with modern artworks near the city centre.",
+          "seo_phrase": "Klaipeda Sculpture Park",
+          "seo_keywords": ["Klaipeda", "Lithuania", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Juodasis_Vaiduoklis_Klaipeda.jpg",
+          "seo_priority": 82,
+          "search_intent": ["travel_planning"],
           "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
+          "best_season": ["spring", "summer", "autumn"],
           "visit_duration_hours": 1,
           "nearby_places": []
         },
         {
-          "name": "Šilutė",
-          "wiki_title": "Šilutė",
-          "lat": 55.35,
-          "lng": 21.48333333,
+          "name": "Birzos Bridge",
+          "wiki_title": "Birzos Bridge, Klaipeda",
+          "lat": 55.708,
+          "lng": 21.134,
           "order_index": 9,
-          "description": "Šilutė — a notable landmark in Klaipėda, Lithuania.",
-          "seo_phrase": "Šilutė",
-          "seo_keywords": [
-            "Klaipėda",
-            "Lithuania",
-            "travel"
-          ],
-          "commons_file": "Hugo Šojaus dvaro įėjimas su veranda iš kiemo.jpg/800px-Hugo Šojaus dvaro įėjimas su veranda iš kiemo.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hugo_%C5%A0ojaus_dvaro_%C4%AF%C4%97jimas_su_veranda_i%C5%A1_kiemo.jpg/800px-Hugo_%C5%A0ojaus_dvaro_%C4%AF%C4%97jimas_su_veranda_i%C5%A1_kiemo.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "description": "Historic bascule bridge and gateway between the old town and the port.",
+          "seo_phrase": "Birzos Bridge Klaipeda",
+          "seo_keywords": ["Klaipeda", "Lithuania", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Senoji_perkela_Klaipeda.jpg",
+          "seo_priority": 83,
+          "search_intent": ["travel_planning"],
           "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
+          "best_season": ["spring", "summer", "autumn", "winter"],
+          "visit_duration_hours": 0.5,
           "nearby_places": []
         }
       ]
@@ -1840,183 +1788,105 @@
           ]
         },
         {
-          "name": "Kaunas",
-          "wiki_title": "Kaunas",
-          "lat": 54.89722222,
-          "lng": 23.88611111,
+          "name": "Angel of Freedom",
+          "wiki_title": "Angel of Freedom, Alytus",
+          "lat": 54.396,
+          "lng": 24.05,
           "order_index": 3,
-          "description": "Kaunas — a notable landmark in Alytus, Lithuania.",
-          "seo_phrase": "Kaunas",
-          "seo_keywords": [
-            "Alytus",
-            "Lithuania",
-            "travel"
-          ],
-          "commons_file": "Kauno senamiestis by Augustas Didzgalvis.jpg/800px-Kauno senamiestis by Augustas Didzgalvis.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kauno_senamiestis_by_Augustas_Didzgalvis.jpg/800px-Kauno_senamiestis_by_Augustas_Didzgalvis.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "description": "Monument to Lithuanian independence in Alytus City Park.",
+          "seo_phrase": "Angel of Freedom Alytus",
+          "seo_keywords": ["Alytus", "Lithuania", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Alytaus_miesto_sodas.jpg",
+          "seo_priority": 88,
+          "search_intent": ["travel_planning"],
           "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
+          "best_season": ["spring", "summer", "autumn", "winter"],
+          "visit_duration_hours": 0.5,
           "nearby_places": []
         },
         {
-          "name": "Kaziuko mugė",
-          "wiki_title": "Kaziuko mugė",
-          "lat": 54.68527778,
-          "lng": 25.28666667,
+          "name": "St. Louis Church",
+          "wiki_title": "St. Louis Church, Alytus",
+          "lat": 54.401,
+          "lng": 24.048,
           "order_index": 4,
-          "description": "Kaziuko mugė — a notable landmark in Alytus, Lithuania.",
-          "seo_phrase": "Kaziuko mugė",
-          "seo_keywords": [
-            "Alytus",
-            "Lithuania",
-            "travel"
-          ],
-          "commons_file": "Kziuko muge.jpg/800px-Kziuko muge.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Kziuko_muge.jpg/800px-Kziuko_muge.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "description": "Historic church and landmark in the centre of Alytus.",
+          "seo_phrase": "St Louis Church Alytus",
+          "seo_keywords": ["Alytus", "Lithuania", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Baltosios_ro%C5%BE%C4%97s_tiltas_Alytus_2019.jpg",
+          "seo_priority": 84,
+          "search_intent": ["travel_planning"],
           "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
+          "best_season": ["spring", "summer", "autumn", "winter"],
+          "visit_duration_hours": 0.5,
           "nearby_places": []
         },
         {
-          "name": "Suwałki",
-          "wiki_title": "Suwałki",
-          "lat": 54.09888889,
-          "lng": 22.92861111,
+          "name": "Nemunas River Loops",
+          "wiki_title": "Nemunas Loops Regional Park",
+          "lat": 54.39,
+          "lng": 24.09,
           "order_index": 5,
-          "description": "Suwałki — a notable landmark in Alytus, Lithuania.",
-          "seo_phrase": "Suwałki",
-          "seo_keywords": [
-            "Alytus",
-            "Lithuania",
-            "travel"
-          ],
-          "commons_file": "SM Suwałki Kościół św Aleksandra 2020 (2) (cropped)2.jpg/800px-SM Suwałki Kościół św Aleksandra 2020 (2) (cropped)2.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/SM_Suwa%C5%82ki_Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw_Aleksandra_2020_%282%29_%28cropped%292.jpg/800px-SM_Suwa%C5%82ki_Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw_Aleksandra_2020_%282%29_%28cropped%292.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "description": "Scenic river bends and viewpoints near Alytus.",
+          "seo_phrase": "Nemunas Loops Alytus",
+          "seo_keywords": ["Alytus", "Lithuania", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Alytaus_piliakalnis_2019.jpg",
+          "seo_priority": 86,
+          "search_intent": ["travel_planning"],
           "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
+          "best_season": ["spring", "summer", "autumn"],
+          "visit_duration_hours": 2,
           "nearby_places": []
         },
         {
-          "name": "Lithuanian Soviet Socialist Republic",
-          "wiki_title": "Lithuanian Soviet Socialist Republic",
-          "lat": 55.5,
-          "lng": 24,
+          "name": "Alytus Beach",
+          "wiki_title": "Alytus Beach",
+          "lat": 54.385,
+          "lng": 24.075,
           "order_index": 6,
-          "description": "Lithuanian Soviet Socialist Republic — a notable landmark in Alytus, Lithuania.",
-          "seo_phrase": "Lithuanian Soviet Socialist Republic",
-          "seo_keywords": [
-            "Alytus",
-            "Lithuania",
-            "travel"
-          ],
-          "commons_file": "Flag of the Lithuanian Soviet Socialist Republic (1953–1988).svg/800px-Flag of the Lithuanian Soviet Socialist Republic (1953–1988).svg.png",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_the_Lithuanian_Soviet_Socialist_Republic_%281953%E2%80%931988%29.svg/800px-Flag_of_the_Lithuanian_Soviet_Socialist_Republic_%281953%E2%80%931988%29.svg.png",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "description": "Popular summer swimming spot on the Nemunas River.",
+          "seo_phrase": "Alytus Beach",
+          "seo_keywords": ["Alytus", "Lithuania", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Alytaus_miesto_sodas.jpg",
+          "seo_priority": 80,
+          "search_intent": ["travel_planning"],
           "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
+          "best_season": ["summer"],
+          "visit_duration_hours": 1.5,
           "nearby_places": []
         },
         {
-          "name": "Panevėžys",
-          "wiki_title": "Panevėžys",
-          "lat": 55.73333333,
-          "lng": 24.35,
+          "name": "Dzukija National Park Gateway",
+          "wiki_title": "Dzukija National Park",
+          "lat": 54.35,
+          "lng": 24.2,
           "order_index": 7,
-          "description": "Panevėžys — a notable landmark in Alytus, Lithuania.",
-          "seo_phrase": "Panevėžys",
-          "seo_keywords": [
-            "Alytus",
-            "Lithuania",
-            "travel"
-          ],
-          "commons_file": "Recreational area near Senvagė Pond and Nevėžis in Panevėžys.jpg/800px-Recreational area near Senvagė Pond and Nevėžis in Panevėžys.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Recreational_area_near_Senvag%C4%97_Pond_and_Nev%C4%97%C5%BEis_in_Panev%C4%97%C5%BEys.jpg/800px-Recreational_area_near_Senvag%C4%97_Pond_and_Nev%C4%97%C5%BEis_in_Panev%C4%97%C5%BEys.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "description": "Gateway to Lithuania's largest national park of pine forests and villages.",
+          "seo_phrase": "Dzukija National Park",
+          "seo_keywords": ["Alytus", "Lithuania", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Alytaus_piliakalnis_2019.jpg",
+          "seo_priority": 87,
+          "search_intent": ["travel_planning"],
           "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
+          "best_season": ["spring", "summer", "autumn"],
+          "visit_duration_hours": 3,
           "nearby_places": []
         },
         {
-          "name": "Military Ordinariate of Lithuania",
-          "wiki_title": "Military Ordinariate of Lithuania",
-          "lat": 54.68222222,
-          "lng": 25.28277778,
+          "name": "Vidzgiris Forest Reserve",
+          "wiki_title": "Vidzgiris Forest",
+          "lat": 54.38,
+          "lng": 24.05,
           "order_index": 8,
-          "description": "Military Ordinariate of Lithuania — a notable landmark in Alytus, Lithuania.",
-          "seo_phrase": "Military Ordinariate of Lithuania",
-          "seo_keywords": [
-            "Alytus",
-            "Lithuania",
-            "travel"
-          ],
-          "commons_file": "Insignia of Lithuanian Military Ordinariate.png",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Insignia_of_Lithuanian_Military_Ordinariate.png",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
+          "description": "Protected urban forest with walking trails on the edge of Alytus.",
+          "seo_phrase": "Vidzgiris Forest Alytus",
+          "seo_keywords": ["Alytus", "Lithuania", "travel"],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Alytaus_miesto_sodas.jpg",
+          "seo_priority": 81,
+          "search_intent": ["travel_planning"],
           "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
+          "best_season": ["spring", "summer", "autumn"],
+          "visit_duration_hours": 1.5,
           "nearby_places": []
         },
         {

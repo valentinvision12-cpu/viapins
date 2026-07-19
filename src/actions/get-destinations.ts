@@ -405,34 +405,41 @@ export async function getCitiesByCountrySlug(
       };
     }
 
-    const cities = data
-      .filter((d) => slugify(d.country) === countrySlug)
-      .map((dest) => {
-        const places = (dest.places ?? []) as {
-          id: string;
-          name: string;
-          image_url: string;
-          order_index: number;
-        }[];
-        const storedCover =
-          (dest as { cover_image?: string }).cover_image?.trim() ?? "";
-        const coverImage =
-          storedCover && !isBadImageUrl(storedCover)
-            ? storedCover
-            : pickCityCoverFromPlaces(places);
-        return {
-          id: dest.id,
-          city: dest.city,
-          country: dest.country,
-          tags: dest.tags ?? [],
-          coverImage,
-          placeCount: places.length,
-          slug: {
-            country: slugify(dest.country),
-            city: slugify(dest.city),
-          },
-        } satisfies DestinationCard;
-      })
+    const byCitySlug = new Map<string, DestinationCard>();
+    for (const dest of data) {
+      if (slugify(dest.country) !== countrySlug) continue;
+      const citySlug = slugify(dest.city);
+      const places = (dest.places ?? []) as {
+        id: string;
+        name: string;
+        image_url: string;
+        order_index: number;
+      }[];
+      const storedCover =
+        (dest as { cover_image?: string }).cover_image?.trim() ?? "";
+      const coverImage =
+        storedCover && !isBadImageUrl(storedCover)
+          ? storedCover
+          : pickCityCoverFromPlaces(places);
+      const card = {
+        id: dest.id,
+        city: dest.city,
+        country: dest.country,
+        tags: dest.tags ?? [],
+        coverImage,
+        placeCount: places.length,
+        slug: {
+          country: slugify(dest.country),
+          city: citySlug,
+        },
+      } satisfies DestinationCard;
+      const existing = byCitySlug.get(citySlug);
+      if (!existing || card.placeCount > existing.placeCount) {
+        byCitySlug.set(citySlug, card);
+      }
+    }
+
+    const cities = [...byCitySlug.values()]
       .sort((a, b) => b.placeCount - a.placeCount)
       .slice(0, 10);
 

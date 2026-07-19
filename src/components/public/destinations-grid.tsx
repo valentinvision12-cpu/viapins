@@ -66,14 +66,14 @@ export function DestinationsGrid({
             <div className="sm:hidden swipe-scroll -mx-6 px-6">
               {filtered.map((dest, i) => (
                 <div key={dest.id} className="w-[78vw] max-w-[280px]">
-                  <DestinationCard destination={dest} index={i} priority={i < 2} />
+                  <DestinationCard destination={dest} index={i} priority={i < 2} showCountry />
                 </div>
               ))}
             </div>
             {/* Desktop: grid */}
             <div className="hidden sm:grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
               {filtered.map((dest, i) => (
-                <DestinationCard key={dest.id} destination={dest} index={i} priority={i < 2} />
+                <DestinationCard key={dest.id} destination={dest} index={i} priority={i < 2} showCountry />
               ))}
             </div>
           </>
