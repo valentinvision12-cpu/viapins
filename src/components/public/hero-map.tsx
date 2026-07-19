@@ -2,23 +2,18 @@
 
 import Image from "next/image";
 import { useTranslations } from "next-intl";
-import { Search, Compass } from "lucide-react";
-import { Link } from "@/i18n/navigation";
-import type { CountryCard, DestinationCard } from "@/actions/get-destinations";
-import { InspireMeButton } from "@/components/public/inspire-me-modal";
+import { Search } from "lucide-react";
 import { LUXURY, COMPASS } from "@/lib/luxury-palette";
 
 const COMPASS_IMAGE = "/images/hero-luxury-compass.png";
 
 interface HeroMapProps {
-  inspireCities: DestinationCard[];
   searchQuery: string;
   onSearchChange: (q: string) => void;
   onSearchSubmit: () => void;
 }
 
 export function HeroMap({
-  inspireCities,
   searchQuery,
   onSearchChange,
   onSearchSubmit,
@@ -132,16 +127,18 @@ export function HeroMap({
           </form>
         </div>
 
-        <div className="flex flex-wrap items-center justify-center gap-4 mb-2">
-          <InspireMeButton destinations={inspireCities} variant="hero" />
-          <Link
-            href="/adventures"
-            className="inline-flex items-center gap-1.5 text-xs font-medium transition-colors hover:opacity-80"
-            style={{ color: LUXURY.textSecondary }}
-          >
-            <Compass className="w-3.5 h-3.5" />
-            {t("heroAdventuresCta")}
-          </Link>
+        {/* Quick trust stats — Booking.com / Airbnb pattern */}
+        <div className="flex items-center justify-center gap-5 mt-4 flex-wrap">
+          {[
+            { value: "50+", label: "Countries" },
+            { value: "500+", label: "Cities" },
+            { value: "5 000+", label: "Landmarks" },
+          ].map(({ value, label }) => (
+            <div key={label} className="flex items-center gap-1.5">
+              <span className="font-bold text-sm" style={{ color: LUXURY.text }}>{value}</span>
+              <span className="text-xs" style={{ color: LUXURY.textMuted }}>{label}</span>
+            </div>
+          ))}
         </div>
       </div>
 

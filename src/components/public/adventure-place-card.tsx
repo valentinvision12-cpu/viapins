@@ -13,6 +13,7 @@ import { buildPlaceSeo } from "@/lib/seo";
 import { wikipediaUrl } from "@/lib/place-links";
 import { getPlaceContent } from "@/lib/content-locale";
 import { MapsPlaceLink } from "@/components/public/maps-place-link";
+import { fallbackImageUrl } from "@/lib/fallback-image";
 
 interface Props {
   place: AdventurePlace;
@@ -26,7 +27,8 @@ export function AdventurePlaceCard({ place, locale, index, stopNumber }: Props) 
   const tPlace = useTranslations("place");
   const tRoute = useTranslations("route");
   const [wikiOpen, setWikiOpen] = useState(false);
-  const [imgSrc, setImgSrc] = useState(place.image_url || "");
+  const _fallback = fallbackImageUrl(`${place.name}-${place.country}`);
+  const [imgSrc, setImgSrc] = useState(place.image_url || _fallback);
   const { addItem, removeItem, isInCart } = useRouteCart();
 
   const tagLabels: Record<AdventureTag, string> = {
@@ -39,7 +41,8 @@ export function AdventurePlaceCard({ place, locale, index, stopNumber }: Props) 
   };
 
   useEffect(() => {
-    setImgSrc(place.image_url || "");
+    setImgSrc(place.image_url || _fallback);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [place.image_url]);
 
   const inCart = isInCart(place.id);

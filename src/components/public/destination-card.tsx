@@ -87,18 +87,7 @@ export function DestinationCard({ destination, index, priority = false }: Props)
               <ArrowRight className="w-4 h-4 text-white" />
             </div>
           </div>
-          {destination.tags.length > 0 && (
-            <div className="flex flex-wrap gap-1 mt-2">
-              {destination.tags.slice(0, 3).map((tag) => (
-                <span
-                  key={tag}
-                  className="px-2 py-0.5 rounded-full text-[10px] font-semibold bg-white/15 backdrop-blur-sm border border-white/20 text-white/90"
-                >
-                  {tag}
-                </span>
-              ))}
-            </div>
-          )}
+          {/* Keep overlay clean — no tag pills */}
         </div>
       </div>
 

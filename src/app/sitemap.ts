@@ -3,7 +3,7 @@ import { getPublishedDestinations } from "@/actions/get-destinations";
 import { DEMO_DESTINATIONS } from "@/lib/demo-data";
 import { getSiteUrl } from "@/lib/seo";
 
-const LOCALES = ["en", "es", "fr", "de", "it"] as const;
+const LOCALES = ["en"] as const;
 
 function slugify(str: string) {
   return str
@@ -40,45 +40,42 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     }));
   }
 
+  // Country pages
+  const countrySet = new Set(destinations.map((d) => d.slug.country));
+  for (const countrySlug of countrySet) {
+    entries.push({
+      url: `${baseUrl}/en/explore/${countrySlug}`,
+      lastModified: now,
+      changeFrequency: "weekly",
+      priority: 0.9,
+    });
+  }
+
+  // City pages
   for (const dest of destinations) {
-    for (const locale of LOCALES) {
-      entries.push({
-        url: `${baseUrl}/${locale}/explore/${dest.slug.country}/${dest.slug.city}`,
-        lastModified: now,
-        changeFrequency: "weekly",
-        priority: locale === "en" ? 0.85 : 0.75,
-      });
-    }
+    entries.push({
+      url: `${baseUrl}/en/explore/${dest.slug.country}/${dest.slug.city}`,
+      lastModified: now,
+      changeFrequency: "weekly",
+      priority: 0.85,
+    });
   }
 
   const { getAdventureCountrySlugs } = await import("@/lib/adventure-data");
   for (const slug of await getAdventureCountrySlugs()) {
-    for (const locale of LOCALES) {
-      entries.push({
-        url: `${baseUrl}/${locale}/explore/${slug}/adventure`,
-        lastModified: now,
-        changeFrequency: "weekly",
-        priority: locale === "en" ? 0.8 : 0.7,
-      });
-    }
+    entries.push({
+      url: `${baseUrl}/en/explore/${slug}/adventure`,
+      lastModified: now,
+      changeFrequency: "weekly",
+      priority: 0.8,
+    });
   }
 
-  for (const locale of LOCALES) {
-    entries.push(
-      {
-        url: `${baseUrl}/${locale}/terms`,
-        lastModified: now,
-        changeFrequency: "monthly",
-        priority: 0.3,
-      },
-      {
-        url: `${baseUrl}/${locale}/privacy`,
-        lastModified: now,
-        changeFrequency: "monthly",
-        priority: 0.3,
-      }
-    );
-  }
+  entries.push(
+    { url: `${baseUrl}/en/adventures`, lastModified: now, changeFrequency: "weekly", priority: 0.8 },
+    { url: `${baseUrl}/en/terms`,   lastModified: now, changeFrequency: "monthly", priority: 0.2 },
+    { url: `${baseUrl}/en/privacy`, lastModified: now, changeFrequency: "monthly", priority: 0.2 }
+  );
 
   return entries;
 }

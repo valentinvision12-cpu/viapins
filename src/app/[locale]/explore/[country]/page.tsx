@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
-import { ArrowLeft, MapPin, Compass } from "lucide-react";
+import { ArrowLeft, MapPin } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import {
   getCountryBySlug,
@@ -12,7 +12,6 @@ import { NavHeader } from "@/components/public/nav-header";
 import { AdventureLinkBanner } from "@/components/public/adventure-link-banner";
 import { CountryHeroCover } from "@/components/public/country-hero-cover";
 import { ShareDestinationButton } from "@/components/public/share-destination-button";
-import { CountryGuideStrip } from "@/components/public/country-guide-strip";
 import { SITE_NAME } from "@/lib/site-brand";
 import { ContinentBadge } from "@/components/public/continent-badge";
 import { hasAdventureMode } from "@/lib/adventure-data";
@@ -107,8 +106,6 @@ export default async function ExploreCountryPage({ params }: Props) {
         </section>
 
         <section className="container max-w-7xl mx-auto px-6 py-12">
-          <CountryGuideStrip cityCount={data.cities.length} />
-
           {showAdventure && (
             <div className="mb-10">
               <AdventureLinkBanner
@@ -119,11 +116,11 @@ export default async function ExploreCountryPage({ params }: Props) {
             </div>
           )}
 
-          <div className="flex items-center gap-2.5 mb-8">
-            <Compass className="w-4.5 h-4.5" style={{ color: "oklch(0.68 0.16 82)" }} />
-            <h2 className="text-lg font-bold text-stone-900">
+          <div className="mb-8">
+            <h2 className="text-2xl font-bold text-stone-900">
               {tCountry("topCitiesTitle", { count: data.cities.length })}
             </h2>
+            <p className="text-sm text-stone-500 mt-1">Select a city to explore its top landmarks</p>
           </div>
 
           {/* Mobile: horizontal swipe scroll */}

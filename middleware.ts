@@ -6,8 +6,29 @@ import { routing } from "./src/i18n/routing";
 // Locale-aware routing for all public /{locale}/... paths
 const handleI18nRouting = createMiddleware(routing);
 
+const BLOCKED_PATTERNS = [
+  /\.\.(\/|\\)/,                        // path traversal
+  /<script/i,                            // inline script injection
+  /\bselect\b.+\bfrom\b/i,              // SQL injection
+  /\bunion\b.+\bselect\b/i,
+  /\bexec\b\s*\(/i,
+  /(eval|expression)\s*\(/i,
+  /\/wp-(admin|login|content)\//i,       // WordPress probes
+  /\/phpmy(admin)?/i,                    // phpMyAdmin probes
+  /\.(php|asp|aspx|jsp|cgi)$/i,         // non-JS server probes
+  /\/etc\/passwd/i,                      // Unix file traversal
+];
+
 export async function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
+
+  // Block obvious attack patterns
+  const fullUrl = pathname + request.nextUrl.search;
+  for (const pattern of BLOCKED_PATTERNS) {
+    if (pattern.test(fullUrl)) {
+      return new NextResponse("Forbidden", { status: 403 });
+    }
+  }
 
   // ── Admin routes ──────────────────────────────────────────────────────────
   // Auth-only: no i18n, strict admin check

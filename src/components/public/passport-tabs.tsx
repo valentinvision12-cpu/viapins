@@ -14,6 +14,7 @@ import { CountryCollectionCard } from "@/components/public/country-collection-ca
 import { ShareButton } from "@/components/public/share-button";
 import { useFavorites } from "@/lib/context/favorites-context";
 import { groupPlacesByCountry } from "@/lib/collection-export";
+import { fallbackImageUrl } from "@/lib/fallback-image";
 import { SITE_DEFAULT_URL } from "@/lib/site-brand";
 import { slugify } from "@/lib/utils";
 import { Link } from "@/i18n/navigation";
@@ -67,18 +68,14 @@ function FavoritePlaceCard({ place, index }: { place: FavoritePlace; index: numb
       className="group relative rounded-3xl border border-white/10 bg-white/5 backdrop-blur-xl overflow-hidden shadow-2xl hover:bg-white/[0.07] transition-all"
     >
       <div className="relative h-40 overflow-hidden">
-        {place.image_url ? (
-          <Image
-            src={place.image_url}
-            alt={place.name}
-            fill
-            sizes="(max-width: 640px) 50vw, 33vw"
-            className="object-cover transition-transform duration-500 group-hover:scale-[1.04]"
-            unoptimized
-          />
-        ) : (
-          <div className="w-full h-full bg-gradient-to-br from-slate-800/80 to-slate-950" />
-        )}
+        <Image
+          src={place.image_url || fallbackImageUrl(`${place.name}-${place.city}`)}
+          alt={place.name}
+          fill
+          sizes="(max-width: 640px) 50vw, 33vw"
+          className="object-cover transition-transform duration-500 group-hover:scale-[1.04]"
+          unoptimized
+        />
 
         <div className="absolute inset-0 bg-gradient-to-t from-black/55 via-black/0 to-black/0" />
 

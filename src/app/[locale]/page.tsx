@@ -11,7 +11,6 @@ import { LUXURY } from "@/lib/luxury-palette";
 import { getSiteUrl } from "@/lib/seo";
 import { buildHomeJsonLd } from "@/lib/seo-schema";
 import { SITE_NAME } from "@/lib/site-brand";
-import { TOP_COUNTRIES_HOME } from "@/lib/featured-countries";
 
 type Props = { params: Promise<{ locale: string }> };
 
@@ -19,21 +18,34 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "meta" });
   const siteUrl = getSiteUrl();
+  const ogImage = `${siteUrl}/og-image.png`;
   return {
     title: t("defaultTitle"),
     description: t("defaultDescription"),
-    alternates: { canonical: `${siteUrl}/${locale}` },
+    keywords: ["travel guide", "Europe travel", "Asia travel", "landmarks", "route planner", "free travel", "city guide"],
+    alternates: {
+      canonical: `${siteUrl}/en`,
+      languages: { "en": `${siteUrl}/en`, "x-default": `${siteUrl}/en` },
+    },
     openGraph: {
       title: t("defaultTitle"),
       description: t("defaultDescription"),
       url: `${siteUrl}/${locale}`,
       siteName: SITE_NAME,
       type: "website",
+      locale: "en_US",
+      images: [{ url: ogImage, width: 1200, height: 630, alt: SITE_NAME }],
     },
     twitter: {
       card: "summary_large_image",
       title: t("defaultTitle"),
       description: t("defaultDescription"),
+      images: [ogImage],
+    },
+    robots: {
+      index: true,
+      follow: true,
+      googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1 },
     },
   };
 }
@@ -44,7 +56,6 @@ export default async function HomePage({ params }: Props) {
   const { destinations: allCities, countries: allCountries } =
     await getPublishedHomeData();
 
-  const heroCountries = allCountries.slice(0, TOP_COUNTRIES_HOME);
   const searchIndex = buildSearchIndex(allCountries, allCities);
   const jsonLd = buildHomeJsonLd(locale);
 
@@ -60,9 +71,7 @@ export default async function HomePage({ params }: Props) {
       <main>
         <HomeExplore
           countries={allCountries}
-          heroCountries={heroCountries}
           searchIndex={searchIndex}
-          inspireCities={allCities}
         />
 
         <footer

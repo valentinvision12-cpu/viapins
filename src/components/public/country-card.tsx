@@ -77,18 +77,7 @@ export function CountryCard({ country, index }: Props) {
             </div>
           </div>
 
-          {country.tags.length > 0 && (
-            <div className="px-4 py-3 flex flex-wrap gap-1.5">
-              {country.tags.slice(0, 3).map((tag) => (
-                <span
-                  key={tag}
-                  className="px-2 py-0.5 rounded-full text-[10px] font-semibold border bg-stone-50 text-stone-500 border-stone-100"
-                >
-                  {tag}
-                </span>
-              ))}
-            </div>
-          )}
+          {/* Tags removed — keep card minimal and image-first */}
         </div>
       </Link>
     </div>

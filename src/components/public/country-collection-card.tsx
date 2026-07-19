@@ -9,6 +9,7 @@ import { ShareButton } from "@/components/public/share-button";
 import { CountryFlag } from "@/components/public/country-flag";
 import { SITE_DEFAULT_URL } from "@/lib/site-brand";
 import { slugify } from "@/lib/utils";
+import { fallbackImageUrl } from "@/lib/fallback-image";
 
 interface Props {
   country: string;
@@ -53,7 +54,9 @@ export function CountryCollectionCard({ country, places, index, locale = "en" }:
             </div>
           ))
         ) : (
-          <div className="flex-1 bg-gradient-to-br from-stone-200 to-stone-300" />
+          <div className="relative flex-1">
+            <Image src={fallbackImageUrl(country)} alt={country} fill className="object-cover" unoptimized sizes="120px" />
+          </div>
         )}
         <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
         <div className="absolute top-3 left-3">

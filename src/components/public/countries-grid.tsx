@@ -95,15 +95,13 @@ export function CountriesGrid({ countries }: Props) {
   return (
     <section id="destinations" className="py-10 md:py-14 px-6" style={{ background: LUXURY.section }}>
       <div className="container max-w-7xl mx-auto">
-        <div className="flex items-end justify-between gap-4 mb-6">
-          <div>
-            <h2 className="text-xl md:text-2xl font-bold tracking-tight" style={{ color: LUXURY.text }}>
-              {t("countriesTitle")}
-            </h2>
-            <p className="text-sm mt-1" style={{ color: LUXURY.textMuted }}>
-              {countries.length} {t("countriesCount")}
-            </p>
-          </div>
+        <div className="mb-8">
+          <h2 className="text-2xl md:text-3xl font-bold tracking-tight" style={{ color: LUXURY.text }}>
+            {t("countriesTitle")}
+          </h2>
+          <p className="text-sm mt-1.5" style={{ color: LUXURY.textMuted }}>
+            {countries.length} {t("countriesCount")} · Tap a country to explore cities and landmarks
+          </p>
         </div>
 
         {countries.length === 0 ? (
