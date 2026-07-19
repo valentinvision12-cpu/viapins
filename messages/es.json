@@ -83,7 +83,25 @@
     "saveRoutePrompt": "Guarda tu ruta para continuar",
     "saveRouteDescription": "Crea una cuenta gratuita para guardar tu ruta personalizada y acceder desde cualquier dispositivo.",
     "alreadyHaveAccount": "¿Ya tienes una cuenta?",
-    "noAccount": "¿No tienes cuenta?"
+    "noAccount": "¿No tienes cuenta?",
+    "freeNoSpam": "Gratis · Sin spam · Cierra sesión cuando quieras",
+    "passportHeroTitle": "Tu guía de viaje personal",
+    "passportHeroSubtitle": "Guarda lugares, crea rutas y sigue cada viaje — todo en un solo lugar, gratis.",
+    "passportBadge": "Gratis para siempre",
+    "passportPerkSaveTitle": "Guarda lugares favoritos",
+    "passportPerkSaveDesc": "Marca cualquier lugar con un toque",
+    "passportPerkRoutesTitle": "Crea tu ruta",
+    "passportPerkRoutesDesc": "Ordena paradas y descarga GPX",
+    "passportPerkVisitedTitle": "Sigue tus viajes",
+    "passportPerkVisitedDesc": "Marca rutas completadas después de cada viaje",
+    "passportPerkExploreTitle": "Explora a tu manera",
+    "passportPerkExploreDesc": "Más de 2.000 lugares en Europa y Asia",
+    "signingIn": "Iniciando sesión…",
+    "authError": "Algo salió mal. Inténtalo de nuevo.",
+    "saveThisPlace": "Guardar este lugar",
+    "saveYourFavorites": "tus lugares favoritos",
+    "saveFreeGoogle": "Gratis. Listo en segundos con Google.",
+    "freeNoCard": "Gratis · Sin tarjeta · Sin spam"
   },
   "route": {
     "addToRoute": "Añadir a la Ruta",
@@ -182,5 +200,14 @@
     "exploreCity": "Explorar {city}",
     "tryAgain": "Intentar de nuevo",
     "noDestinations": "Aún no hay destinos disponibles."
+  },
+  "myTrip": {
+    "tabSettings": "Ajustes",
+    "settingsLanguage": "Idioma",
+    "settingsTerms": "Términos de servicio",
+    "settingsPrivacy": "Política de privacidad",
+    "signingOut": "Cerrando sesión…",
+    "shareCollection": "Compartir",
+    "downloadAlbum": "Álbum"
   }
 }

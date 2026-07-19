@@ -27,6 +27,10 @@ export function CountryCard({ country, index }: Props) {
     country.coverImage ||
     country.coverImages.find(Boolean) ||
     fallbackImageUrl(`${country.country}-travel`, 1000, 720);
+  const slideshowImages =
+    country.coverImages.filter(Boolean).length > 0
+      ? country.coverImages.filter(Boolean)
+      : [primaryImage];
 
   return (
     <div
@@ -43,10 +47,10 @@ export function CountryCard({ country, index }: Props) {
         >
           <div className={`relative h-60 overflow-hidden bg-gradient-to-br ${gradient}`}>
             <CountryCoverSlideshow
-              images={[primaryImage]}
+              images={slideshowImages}
               alt={`${country.country} travel guide`}
               className="absolute inset-0 transition-transform duration-700 group-hover:scale-[1.04]"
-              intervalMs={0}
+              intervalMs={slideshowImages.length > 1 ? 5200 : 0}
               sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/15 to-black/5 pointer-events-none" />

@@ -63,7 +63,6 @@ export function CountryCoverSlideshow({
             "object-cover brightness-[0.96] contrast-[1.06] saturate-[1.04]",
             imageClassName
           )}
-          unoptimized
         />
       </div>
     );
@@ -93,7 +92,6 @@ export function CountryCoverSlideshow({
             i === current ? "opacity-100" : "opacity-0",
             imageClassName
           )}
-          unoptimized
           onError={() => setFailed((prev) => new Set(prev).add(src))}
         />
       ))}

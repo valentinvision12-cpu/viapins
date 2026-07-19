@@ -135,9 +135,18 @@ export const COUNTRY_COVER_LANDMARKS: Record<string, CountryLandmark[]> = {
     { wikiTitle: "Malbun", commonsFile: "Malbun Liechtenstein Alps.jpg" },
   ],
   Lithuania: [
-    { wikiTitle: "Gediminas Tower", commonsFile: "Gediminas Tower Vilnius.jpg" },
-    { wikiTitle: "Trakai Island Castle", commonsFile: "Trakai Island Castle Lithuania.jpg" },
-    { wikiTitle: "Hill of Crosses", commonsFile: "Hill of Crosses Lithuania.jpg" },
+    {
+      wikiTitle: "Gediminas Tower",
+      commonsFile: "Gedimino_bokštas_rudenį.jpg",
+    },
+    {
+      wikiTitle: "Trakai Island Castle",
+      commonsFile: "Trakai Island Castle.jpg",
+    },
+    {
+      wikiTitle: "Hill of Crosses",
+      commonsFile: "Hill of Crosses near Šiauliai, Lithuania.jpg",
+    },
   ],
   Malta: [
     { wikiTitle: "St John's Co-Cathedral", commonsFile: "St John's Co-Cathedral Valletta.jpg" },

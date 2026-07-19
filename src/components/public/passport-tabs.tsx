@@ -11,13 +11,15 @@ import type { FavoritePlace } from "@/actions/favorites";
 import { mapsPinLinkProps } from "@/components/public/maps-place-link";
 import { PassportRouteCard } from "@/components/public/passport-route-card";
 import { CountryCollectionCard } from "@/components/public/country-collection-card";
-import { ShareButton } from "@/components/public/share-button";
+import { CollectionShareButton } from "@/components/public/share-button";
+import { CollectionDownloadMenu } from "@/components/public/collection-download-menu";
 import { useFavorites } from "@/lib/context/favorites-context";
 import { groupPlacesByCountry } from "@/lib/collection-export";
 import { fallbackImageUrl } from "@/lib/fallback-image";
 import { SITE_DEFAULT_URL } from "@/lib/site-brand";
 import { slugify } from "@/lib/utils";
 import { Link } from "@/i18n/navigation";
+import { PASSPORT } from "@/lib/luxury-palette";
 
 function TripStats({
   allRoutes,
@@ -31,24 +33,36 @@ function TripStats({
   const t = useTranslations("myTrip");
 
   const stats = [
-    { icon: Globe, label: t("statsCountries"), value: uniqueCountries, color: "text-amber-500" },
-    { icon: Heart, label: t("statsPlaces"), value: totalFavorites, color: "text-red-400" },
-    { icon: Map, label: t("statsRoutes"), value: allRoutes.length, color: "text-amber-500" },
+    { icon: Globe, label: t("statsCountries"), value: uniqueCountries, color: PASSPORT.accent },
+    { icon: Heart, label: t("statsPlaces"), value: totalFavorites, color: "#C44B4B" },
+    { icon: Map, label: t("statsRoutes"), value: allRoutes.length, color: PASSPORT.accent },
   ];
 
   return (
-    <div className="grid grid-cols-3 gap-3 mb-6">
+    <div className="mb-6 grid grid-cols-3 gap-3">
       {stats.map((s, i) => (
         <motion.div
           key={s.label}
           initial={{ opacity: 0, y: 16 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: i * 0.07 }}
-          className="flex flex-col items-center gap-1.5 p-4 rounded-3xl border border-white/10 bg-white/5 backdrop-blur-xl shadow-2xl"
+          className="flex flex-col items-center gap-1.5 rounded-2xl border p-4 transition-shadow hover:shadow-md"
+          style={{
+            background: PASSPORT.card,
+            borderColor: PASSPORT.cardBorder,
+            boxShadow: PASSPORT.cardShadow,
+          }}
         >
-          <s.icon className={`w-4 h-4 ${s.color}`} />
-          <span className="text-2xl font-black text-white">{s.value}</span>
-          <span className="text-white/55 text-[10px] text-center leading-tight">{s.label}</span>
+          <s.icon className="h-4 w-4" style={{ color: s.color }} />
+          <span className="text-2xl font-black" style={{ color: PASSPORT.text }}>
+            {s.value}
+          </span>
+          <span
+            className="text-center text-[10px] leading-tight"
+            style={{ color: PASSPORT.textMuted }}
+          >
+            {s.label}
+          </span>
         </motion.div>
       ))}
     </div>
@@ -65,26 +79,37 @@ function FavoritePlaceCard({ place, index }: { place: FavoritePlace; index: numb
       initial={{ opacity: 0, y: 12 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ delay: index * 0.05 }}
-      className="group relative rounded-3xl border border-white/10 bg-white/5 backdrop-blur-xl overflow-hidden shadow-2xl hover:bg-white/[0.07] transition-all"
+      className="group relative overflow-hidden rounded-2xl border transition-all hover:-translate-y-0.5"
+      style={{
+        background: PASSPORT.card,
+        borderColor: PASSPORT.cardBorder,
+        boxShadow: PASSPORT.cardShadow,
+      }}
+      onMouseEnter={(e) => {
+        e.currentTarget.style.boxShadow = PASSPORT.cardShadowHover;
+      }}
+      onMouseLeave={(e) => {
+        e.currentTarget.style.boxShadow = PASSPORT.cardShadow;
+      }}
     >
-      <div className="relative h-40 overflow-hidden">
+      <div className="relative h-44 overflow-hidden">
         <Image
           src={place.image_url || fallbackImageUrl(`${place.name}-${place.city}`)}
           alt={place.name}
           fill
           sizes="(max-width: 640px) 50vw, 33vw"
-          className="object-cover transition-transform duration-500 group-hover:scale-[1.04]"
+          className="object-cover transition-transform duration-500 group-hover:scale-[1.05]"
           unoptimized
         />
 
-        <div className="absolute inset-0 bg-gradient-to-t from-black/55 via-black/0 to-black/0" />
+        <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-black/5 to-transparent" />
 
         <button
           onClick={() => toggleFavorite(place)}
-          className="absolute top-2 right-2 w-8 h-8 rounded-2xl bg-black/35 border border-white/10 backdrop-blur-md flex items-center justify-center shadow hover:bg-black/45 hover:scale-[1.03] transition-all"
+          className="absolute right-2 top-2 flex h-8 w-8 items-center justify-center rounded-full bg-white/90 shadow-sm transition-all hover:scale-105"
           title={t("removeFavorite")}
         >
-          <Heart className="w-4 h-4 fill-red-500 text-red-400" />
+          <Heart className="h-4 w-4 fill-red-500 text-red-500" />
         </button>
 
         {pin && (
@@ -92,20 +117,25 @@ function FavoritePlaceCard({ place, index }: { place: FavoritePlace; index: numb
             href={pin.href}
             target="_blank"
             rel="noopener noreferrer"
-            className="absolute bottom-2 right-2 flex items-center gap-1 px-2.5 py-1.5 rounded-2xl bg-black/35 border border-white/10 backdrop-blur-md text-white/90 text-[10px] font-semibold shadow hover:bg-black/45 transition-colors"
+            className="absolute bottom-2 right-2 flex items-center gap-1 rounded-full bg-white/92 px-2.5 py-1.5 text-[10px] font-semibold text-stone-700 shadow-sm transition-colors hover:bg-white"
             onClick={(e) => e.stopPropagation()}
           >
-            <Navigation className="w-3 h-3 text-cyan-300" />
+            <Navigation className="h-3 w-3" style={{ color: PASSPORT.accent }} />
             {t("navigate")}
           </a>
         )}
       </div>
 
       <div className="p-3">
-        <h3 className="text-white font-semibold text-sm leading-snug truncate">{place.name}</h3>
-        <div className="flex items-center justify-between mt-1">
-          <p className="text-white/55 text-xs truncate flex items-center gap-1">
-            <MapPin className="w-2.5 h-2.5 flex-shrink-0" />
+        <h3 className="truncate text-sm font-semibold leading-snug" style={{ color: PASSPORT.text }}>
+          {place.name}
+        </h3>
+        <div className="mt-1 flex items-center justify-between">
+          <p
+            className="flex items-center gap-1 truncate text-xs"
+            style={{ color: PASSPORT.textMuted }}
+          >
+            <MapPin className="h-2.5 w-2.5 flex-shrink-0" />
             {place.city}, {place.country}
           </p>
           {pin && (
@@ -113,10 +143,10 @@ function FavoritePlaceCard({ place, index }: { place: FavoritePlace; index: numb
               href={pin.href}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-white/35 hover:text-cyan-200 transition-colors flex-shrink-0"
+              className="flex-shrink-0 text-stone-300 transition-colors hover:text-stone-600"
               title={pin.title}
             >
-              <ExternalLink className="w-3 h-3" />
+              <ExternalLink className="h-3 w-3" />
             </a>
           )}
         </div>
@@ -145,25 +175,44 @@ function ShareTopCollectionBanner({
       ? `${window.location.origin}/${locale ?? "en"}/explore/${slugify(topCountry)}`
       : `${SITE_DEFAULT_URL}/explore/${slugify(topCountry)}`;
 
+  const collection = {
+    title: `My ${topCountry} Collection`,
+    subtitle: `${topPlaces.length} saved landmarks`,
+    country: topCountry,
+    places: topPlaces.map((p) => ({
+      name: p.name,
+      city: p.city,
+      country: p.country,
+      lat: p.lat,
+      lng: p.lng,
+      image_url: p.image_url,
+    })),
+  };
+
   return (
     <motion.div
       initial={{ opacity: 0, y: 10 }}
       animate={{ opacity: 1, y: 0 }}
-      className="mb-6 p-4 rounded-3xl border border-white/10 bg-white/5 backdrop-blur-xl shadow-2xl"
+      className="mb-6 rounded-2xl border p-4"
+      style={{
+        background: PASSPORT.card,
+        borderColor: PASSPORT.cardBorder,
+        boxShadow: PASSPORT.cardShadow,
+      }}
     >
-      <div className="flex items-center justify-between gap-4 flex-wrap">
+      <div className="flex flex-wrap items-center justify-between gap-4">
         <div>
-          <p className="text-white text-sm font-semibold">{t("sharePrompt")}</p>
-          <p className="text-white/55 text-xs mt-0.5">
+          <p className="text-sm font-semibold" style={{ color: PASSPORT.text }}>
+            {t("sharePrompt")}
+          </p>
+          <p className="mt-0.5 text-xs" style={{ color: PASSPORT.textMuted }}>
             {t("sharePromptDesc", { count: favorites.length })}
           </p>
         </div>
-        <ShareButton
-          url={shareUrl}
-          title={`Explore ${topCountry} with me`}
-          description={`${topPlaces.length} landmarks saved`}
-          variant="pill"
-        />
+        <div className="flex flex-wrap items-center gap-2">
+          <CollectionDownloadMenu collection={collection} variant="menu" className="w-auto" />
+          <CollectionShareButton collection={collection} exploreUrl={shareUrl} className="w-auto" />
+        </div>
       </div>
     </motion.div>
   );
@@ -180,6 +229,8 @@ type Tab = "saved" | "routes" | "visited";
 type SavedView = "country" | "all";
 
 function SettingsPanel({ locale }: { locale: string }) {
+  const t = useTranslations("myTrip");
+  const tNav = useTranslations("nav");
   const [signingOut, setSigningOut] = useState(false);
 
   async function handleSignOut() {
@@ -204,27 +255,46 @@ function SettingsPanel({ locale }: { locale: string }) {
     <motion.div key="settings" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
       <div className="space-y-4">
         {/* Language */}
-        <div className="rounded-3xl border border-white/10 bg-white/5 backdrop-blur-xl overflow-hidden">
-          <div className="px-5 py-4 border-b border-white/10 flex items-center gap-2">
-            <Languages className="w-4 h-4 text-cyan-300" />
-            <p className="text-white font-semibold text-sm">Language</p>
+        <div
+          className="overflow-hidden rounded-2xl border"
+          style={{ background: PASSPORT.card, borderColor: PASSPORT.cardBorder }}
+        >
+          <div
+            className="flex items-center gap-2 border-b px-5 py-4"
+            style={{ borderColor: PASSPORT.cardBorder }}
+          >
+            <Languages className="h-4 w-4" style={{ color: PASSPORT.accent }} />
+            <p className="text-sm font-semibold" style={{ color: PASSPORT.text }}>
+              {t("settingsLanguage")}
+            </p>
           </div>
-          <div className="divide-y divide-white/10">
+          <div className="divide-y" style={{ borderColor: PASSPORT.cardBorder }}>
             {LANG_OPTIONS.map((lang) => {
               const isCurrent = locale === lang.code;
               return (
                 <a
                   key={lang.code}
                   href={`/${lang.code}/my-passport`}
-                  className={`flex items-center justify-between px-5 py-3.5 transition-colors ${
-                    isCurrent ? "bg-white/10" : "hover:bg-white/5"
-                  }`}
+                  className="flex items-center justify-between px-5 py-3.5 transition-colors"
+                  style={{
+                    background: isCurrent ? PASSPORT.accentSoft : undefined,
+                  }}
                 >
                   <div className="flex items-center gap-3">
                     <span className="text-lg">{lang.flag}</span>
-                    <span className={`text-sm font-medium ${isCurrent ? "text-white" : "text-white/70"}`}>{lang.label}</span>
+                    <span
+                      className="text-sm font-medium"
+                      style={{ color: isCurrent ? PASSPORT.text : PASSPORT.textSecondary }}
+                    >
+                      {lang.label}
+                    </span>
                   </div>
-                  {isCurrent && <div className="w-2 h-2 rounded-full bg-cyan-400" />}
+                  {isCurrent && (
+                    <div
+                      className="h-2 w-2 rounded-full"
+                      style={{ background: PASSPORT.accent }}
+                    />
+                  )}
                 </a>
               );
             })}
@@ -232,18 +302,24 @@ function SettingsPanel({ locale }: { locale: string }) {
         </div>
 
         {/* Legal links */}
-        <div className="rounded-3xl border border-white/10 bg-white/5 backdrop-blur-xl overflow-hidden">
+        <div
+          className="overflow-hidden rounded-2xl border"
+          style={{ background: PASSPORT.card, borderColor: PASSPORT.cardBorder }}
+        >
           {[
-            { label: "Terms of Service", href: `/${locale}/terms` },
-            { label: "Privacy Policy", href: `/${locale}/privacy` },
+            { label: t("settingsTerms"), href: `/${locale}/terms` },
+            { label: t("settingsPrivacy"), href: `/${locale}/privacy` },
           ].map((item) => (
             <a
               key={item.href}
               href={item.href}
-              className="flex items-center justify-between px-5 py-3.5 hover:bg-white/5 transition-colors border-b border-white/10 last:border-0"
+              className="flex items-center justify-between border-b px-5 py-3.5 transition-colors last:border-0 hover:bg-stone-50"
+              style={{ borderColor: PASSPORT.cardBorder }}
             >
-              <span className="text-white/70 text-sm">{item.label}</span>
-              <ChevronRight className="w-4 h-4 text-white/35" />
+              <span className="text-sm" style={{ color: PASSPORT.textSecondary }}>
+                {item.label}
+              </span>
+              <ChevronRight className="h-4 w-4 text-stone-300" />
             </a>
           ))}
         </div>
@@ -255,7 +331,7 @@ function SettingsPanel({ locale }: { locale: string }) {
           className="w-full flex items-center justify-center gap-2 py-3.5 rounded-2xl border border-red-500/30 bg-red-500/10 text-red-400 font-semibold text-sm hover:bg-red-500/20 transition-colors disabled:opacity-50"
         >
           <LogOut className="w-4 h-4" />
-          {signingOut ? "Signing out…" : "Sign Out"}
+          {signingOut ? t("signingOut") : tNav("signOut")}
         </button>
       </div>
     </motion.div>
@@ -284,7 +360,7 @@ export function PassportTabs({ savedRoutes, visitedRoutes, initialFavorites, loc
     { key: "saved", label: t("tabSaved"), icon: Heart, count: totalFavorites || favorites.length },
     { key: "routes", label: t("tabRoutes"), icon: BookMarked, count: savedRoutes.length },
     { key: "visited", label: t("tabVisited"), icon: Stamp, count: visitedRoutes.length },
-    { key: "settings", label: "Settings", icon: Settings },
+    { key: "settings", label: t("tabSettings"), icon: Settings },
   ];
 
 
@@ -317,28 +393,48 @@ export function PassportTabs({ savedRoutes, visitedRoutes, initialFavorites, loc
         uniqueCountries={uniqueCountries}
       />
 
-      <div className="hidden md:flex gap-1 p-1 rounded-3xl w-full max-w-full overflow-x-auto mb-6 border border-white/10 bg-white/5 backdrop-blur-xl shadow-2xl">
+      <div
+        className="mb-6 hidden w-full max-w-full gap-1 overflow-x-auto rounded-2xl border p-1.5 md:flex"
+        style={{
+          background: PASSPORT.card,
+          borderColor: PASSPORT.cardBorder,
+          boxShadow: PASSPORT.cardShadow,
+        }}
+      >
         {tabs.map((item) => (
           <button
             key={item.key}
             onClick={() => setTab(item.key)}
-            className={`flex items-center gap-1.5 px-3 py-2 rounded-xl text-sm font-medium transition-all whitespace-nowrap flex-shrink-0 ${
+            className="flex flex-shrink-0 items-center gap-1.5 whitespace-nowrap rounded-xl px-3 py-2 text-sm font-medium transition-all"
+            style={
               tab === item.key
-                ? "bg-white/15 text-white shadow-sm"
-                : "text-white/55 hover:text-white"
-            }`}
+                ? {
+                    background: PASSPORT.accentSoft,
+                    color: PASSPORT.text,
+                    boxShadow: "0 1px 2px rgba(28, 20, 9, 0.06)",
+                  }
+                : { color: PASSPORT.textMuted }
+            }
           >
             <item.icon
-              className={`w-3.5 h-3.5 ${
+              className={`h-3.5 w-3.5 ${
                 tab === item.key && item.key === "saved" ? "fill-red-500 text-red-500" : ""
               }`}
+              style={
+                tab === item.key && item.key !== "saved"
+                  ? { color: PASSPORT.accent }
+                  : undefined
+              }
             />
             {item.label}
             {typeof item.count === "number" && (
               <span
-                className={`text-xs px-1.5 py-0.5 rounded-full ${
-                  tab === item.key ? "bg-cyan-500/15 text-cyan-200" : "bg-white/10 text-white/55"
-                }`}
+                className="rounded-full px-1.5 py-0.5 text-xs"
+                style={
+                  tab === item.key
+                    ? { background: "rgba(139, 101, 48, 0.15)", color: PASSPORT.accent }
+                    : { background: "#F0EAE0", color: PASSPORT.textMuted }
+                }
               >
                 {item.count}
               </span>
@@ -351,45 +447,61 @@ export function PassportTabs({ savedRoutes, visitedRoutes, initialFavorites, loc
         {tab === "saved" && (
           <motion.div key="saved" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
             {favorites.length === 0 ? (
-              <div className="text-center py-16 rounded-3xl border border-white/10 bg-white/5 backdrop-blur-xl shadow-2xl">
-                <Heart className="w-10 h-10 text-white/15 mx-auto mb-3" />
-                <p className="text-white font-medium">{t("emptySavedTitle")}</p>
-                <p className="text-white/55 text-sm mt-1 max-w-sm mx-auto">{t("emptySavedDesc")}</p>
+              <div
+                className="rounded-2xl border py-16 text-center"
+                style={{
+                  background: PASSPORT.card,
+                  borderColor: PASSPORT.cardBorder,
+                  boxShadow: PASSPORT.cardShadow,
+                }}
+              >
+                <Heart className="mx-auto mb-3 h-10 w-10 text-stone-200" />
+                <p className="font-medium" style={{ color: PASSPORT.text }}>
+                  {t("emptySavedTitle")}
+                </p>
+                <p className="mx-auto mt-1 max-w-sm text-sm" style={{ color: PASSPORT.textMuted }}>
+                  {t("emptySavedDesc")}
+                </p>
               </div>
             ) : (
               <>
                 <ShareTopCollectionBanner favorites={favorites} locale={locale} />
 
-                <div className="flex gap-1 p-1 rounded-2xl w-fit mb-4 border border-white/10 bg-white/5 backdrop-blur-xl shadow-2xl">
+                <div
+                  className="mb-4 flex w-fit gap-1 rounded-xl border p-1"
+                  style={{ background: PASSPORT.card, borderColor: PASSPORT.cardBorder }}
+                >
                   <button
                     type="button"
                     onClick={() => setSavedView("country")}
-                    className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium transition-all ${
+                    className="flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-xs font-medium transition-all"
+                    style={
                       savedView === "country"
-                        ? "bg-white/15 text-white shadow-sm"
-                        : "text-white/55 hover:text-white"
-                    }`}
+                        ? { background: PASSPORT.accentSoft, color: PASSPORT.text }
+                        : { color: PASSPORT.textMuted }
+                    }
                   >
-                    <LayoutGrid className="w-3.5 h-3.5" />
+                    <LayoutGrid className="h-3.5 w-3.5" />
                     {t("viewByCountry")}
-                    <span className="text-white/35">({collectionCount})</span>
+                    <span style={{ color: PASSPORT.textMuted }}>({collectionCount})</span>
                   </button>
                   <button
                     type="button"
                     onClick={() => setSavedView("all")}
-                    className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium transition-all ${
+                    className="flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-xs font-medium transition-all"
+                    style={
                       savedView === "all"
-                        ? "bg-white/15 text-white shadow-sm"
-                        : "text-white/55 hover:text-white"
-                    }`}
+                        ? { background: PASSPORT.accentSoft, color: PASSPORT.text }
+                        : { color: PASSPORT.textMuted }
+                    }
                   >
-                    <List className="w-3.5 h-3.5" />
+                    <List className="h-3.5 w-3.5" />
                     {t("viewAllPlaces")}
                   </button>
                 </div>
 
                 {savedView === "country" ? (
-                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                  <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
                     {[...countryCollections.entries()].map(([country, places], i) => (
                       <CountryCollectionCard
                         key={country}
@@ -401,7 +513,7 @@ export function PassportTabs({ savedRoutes, visitedRoutes, initialFavorites, loc
                     ))}
                   </div>
                 ) : (
-                  <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
+                  <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
                     {favorites.map((place, i) => (
                       <FavoritePlaceCard key={place.place_id} place={place} index={i} />
                     ))}
@@ -415,23 +527,38 @@ export function PassportTabs({ savedRoutes, visitedRoutes, initialFavorites, loc
         {(tab === "routes" || tab === "visited") && (
           <motion.div key={tab} initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
             {routes.length === 0 ? (
-              <div className="text-center py-16 rounded-3xl border border-white/10 bg-white/5 backdrop-blur-xl shadow-2xl">
+              <div
+                className="rounded-2xl border py-16 text-center"
+                style={{
+                  background: PASSPORT.card,
+                  borderColor: PASSPORT.cardBorder,
+                  boxShadow: PASSPORT.cardShadow,
+                }}
+              >
                 {tab === "routes" ? (
                   <>
-                    <BookMarked className="w-10 h-10 text-white/15 mx-auto mb-3" />
-                    <p className="text-white font-medium">{t("emptyRoutesTitle")}</p>
-                    <p className="text-white/55 text-sm mt-1 max-w-sm mx-auto">{t("emptyRoutesDesc")}</p>
+                    <BookMarked className="mx-auto mb-3 h-10 w-10 text-stone-200" />
+                    <p className="font-medium" style={{ color: PASSPORT.text }}>
+                      {t("emptyRoutesTitle")}
+                    </p>
+                    <p className="mx-auto mt-1 max-w-sm text-sm" style={{ color: PASSPORT.textMuted }}>
+                      {t("emptyRoutesDesc")}
+                    </p>
                   </>
                 ) : (
                   <>
-                    <Stamp className="w-10 h-10 text-white/15 mx-auto mb-3" />
-                    <p className="text-white font-medium">{t("emptyVisitedTitle")}</p>
-                    <p className="text-white/55 text-sm mt-1 max-w-sm mx-auto">{t("emptyVisitedDesc")}</p>
+                    <Stamp className="mx-auto mb-3 h-10 w-10 text-stone-200" />
+                    <p className="font-medium" style={{ color: PASSPORT.text }}>
+                      {t("emptyVisitedTitle")}
+                    </p>
+                    <p className="mx-auto mt-1 max-w-sm text-sm" style={{ color: PASSPORT.textMuted }}>
+                      {t("emptyVisitedDesc")}
+                    </p>
                   </>
                 )}
               </div>
             ) : (
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+              <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
                 {routes.map((route, i) => (
                   <motion.div
                     key={route.id}
@@ -453,14 +580,21 @@ export function PassportTabs({ savedRoutes, visitedRoutes, initialFavorites, loc
       </AnimatePresence>
 
       {/* Mobile bottom navigation (Passport only) */}
-      <nav className="fixed inset-x-0 bottom-0 z-40 md:hidden border-t border-white/10 bg-slate-950/70 backdrop-blur-2xl">
-        <div className="container max-w-4xl mx-auto px-4 py-3 pb-safe">
+      <nav
+        className="fixed inset-x-0 bottom-0 z-40 border-t md:hidden"
+        style={{
+          background: "rgba(253, 251, 247, 0.92)",
+          borderColor: PASSPORT.cardBorder,
+          backdropFilter: "blur(20px)",
+        }}
+      >
+        <div className="container mx-auto max-w-4xl px-4 py-3 pb-safe">
           <div className="grid grid-cols-4 gap-1">
             {[
               { key: "saved", icon: Heart, label: t("tabSaved") },
               { key: "routes", icon: BookMarked, label: t("tabRoutes") },
               { key: "visited", icon: Stamp, label: t("tabVisited") },
-              { key: "settings", icon: Settings, label: "Settings" },
+              { key: "settings", icon: Settings, label: t("tabSettings") },
             ].map((item) => {
               const active = tab === item.key;
               return (
@@ -468,12 +602,20 @@ export function PassportTabs({ savedRoutes, visitedRoutes, initialFavorites, loc
                   key={item.key}
                   type="button"
                   onClick={() => setTab(item.key as (Tab | "settings"))}
-                  className={`flex flex-col items-center justify-center gap-1 rounded-2xl px-1 py-2.5 transition-all ${
-                    active ? "bg-white/15 text-white shadow-sm" : "text-white/55 hover:text-white"
-                  }`}
+                  className="flex flex-col items-center justify-center gap-1 rounded-xl px-1 py-2.5 transition-all"
+                  style={
+                    active
+                      ? { background: PASSPORT.accentSoft, color: PASSPORT.text }
+                      : { color: PASSPORT.textMuted }
+                  }
                 >
-                  <item.icon className={`w-5 h-5 ${active && item.key === "saved" ? "fill-red-500 text-red-500" : ""}`} />
-                  <span className="text-[10px] font-semibold leading-none text-center line-clamp-1">
+                  <item.icon
+                    className={`h-5 w-5 ${active && item.key === "saved" ? "fill-red-500 text-red-500" : ""}`}
+                    style={
+                      active && item.key !== "saved" ? { color: PASSPORT.accent } : undefined
+                    }
+                  />
+                  <span className="line-clamp-1 text-center text-[10px] font-semibold leading-none">
                     {item.label}
                   </span>
                 </button>

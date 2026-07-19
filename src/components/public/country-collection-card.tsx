@@ -5,7 +5,7 @@ import { MapPin, Layers } from "lucide-react";
 import { motion } from "framer-motion";
 import type { FavoritePlace } from "@/actions/favorites";
 import { CollectionDownloadMenu } from "@/components/public/collection-download-menu";
-import { ShareButton } from "@/components/public/share-button";
+import { CollectionShareButton } from "@/components/public/share-button";
 import { CountryFlag } from "@/components/public/country-flag";
 import { SITE_DEFAULT_URL } from "@/lib/site-brand";
 import { slugify } from "@/lib/utils";
@@ -86,11 +86,10 @@ export function CountryCollectionCard({ country, places, index, locale = "en" }:
 
       <div className="flex items-center gap-2 p-3">
         <CollectionDownloadMenu collection={collection} variant="menu" className="flex-1" />
-        <ShareButton
-          url={shareUrl}
-          title={`My ${country} travel collection`}
-          description={`${places.length} landmarks I want to visit`}
-          variant="pill"
+        <CollectionShareButton
+          collection={collection}
+          exploreUrl={shareUrl}
+          className="flex-1"
         />
       </div>
     </motion.div>

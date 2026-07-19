@@ -17,6 +17,8 @@ import { ContinentBadge } from "@/components/public/continent-badge";
 import { CountryFlag } from "@/components/public/country-flag";
 import { hasAdventureMode } from "@/lib/adventure-data";
 import { getCountryContinent } from "@/lib/country-continents";
+import { resolveCountryCoverImages } from "@/lib/country-covers";
+import { isBadImageUrl } from "@/lib/wiki-image";
 import {
   buildCountryPageUrl,
   buildLocaleAlternates,
@@ -96,12 +98,27 @@ export default async function ExploreCountryPage({ params }: Props) {
 
   const continent = getCountryContinent(country.country);
   const description = tCountry("metaDescription", { country: country.country });
+
+  // Guaranteed hero: city covers first, then curated country landmarks
+  let coverImages = (country.coverImages ?? []).filter(
+    (u) => u?.trim() && !isBadImageUrl(u)
+  );
+  let coverImage =
+    (country.coverImage?.trim() && !isBadImageUrl(country.coverImage)
+      ? country.coverImage
+      : "") || coverImages[0] || "";
+  if (!coverImage) {
+    const curated = await resolveCountryCoverImages(country.country, 1600);
+    coverImages = curated;
+    coverImage = curated[0] ?? "";
+  }
+
   const jsonLd = buildCountryJsonLd({
     country: country.country,
     locale,
     countrySlug,
     description,
-    coverImage: country.coverImage,
+    coverImage,
     cities: data.cities.map((c) => ({
       name: c.city,
       slug: c.slug.city,
@@ -123,8 +140,8 @@ export default async function ExploreCountryPage({ params }: Props) {
         <section className="relative h-[52vh] min-h-[390px] max-h-[620px] flex items-end overflow-hidden">
           <CountryHeroCover
             country={country.country}
-            coverImages={country.coverImages}
-            coverImage={country.coverImage}
+            coverImages={coverImages}
+            coverImage={coverImage}
           />
           <div className="absolute top-24 right-5 sm:right-8 z-20">
             <ShareDestinationButton
@@ -173,23 +190,14 @@ export default async function ExploreCountryPage({ params }: Props) {
         </section>
 
         <section className="container max-w-7xl mx-auto px-5 sm:px-8 py-10 sm:py-14">
-          <div className="mb-7 sm:mb-9">
-            <h2 className="text-3xl sm:text-4xl font-black tracking-[-0.03em] text-stone-950">
-              {tCountry("topCitiesTitle", { count: data.cities.length })}
-            </h2>
-            <p className="text-base text-stone-600 mt-2 font-medium">
-              {tCountry("pickCityDesc")}
-            </p>
-          </div>
-
-          <div className="flex sm:grid sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6 overflow-x-auto sm:overflow-visible snap-x snap-mandatory sm:snap-none -mx-5 px-5 sm:mx-0 sm:px-0 pb-2 sm:pb-0 scrollbar-none">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 sm:gap-6">
             {data.cities.map((city, i) => (
-              <div
+              <DestinationCard
                 key={city.id}
-                className="w-[78vw] max-w-[280px] sm:w-auto sm:max-w-none shrink-0 sm:shrink snap-start"
-              >
-                <DestinationCard destination={city} index={i} priority={i < 2} />
-              </div>
+                destination={city}
+                index={i}
+                priority={i < 3}
+              />
             ))}
           </div>
 

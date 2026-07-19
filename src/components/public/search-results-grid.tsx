@@ -74,7 +74,6 @@ export function SearchResultsGrid({ items, query }: Props) {
                         alt={item.name}
                         fill
                         className="object-cover"
-                        unoptimized
                       />
                     )}
                   </div>

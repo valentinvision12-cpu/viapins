@@ -1,8 +1,16 @@
 "use client";
 
 import { useState } from "react";
-import { Share2, Facebook, Link2, Check } from "lucide-react";
+import { Share2, Facebook, Link2, Check, Map, MessageCircle, Smartphone } from "lucide-react";
+import { useTranslations } from "next-intl";
 import { SITE_DEFAULT_URL } from "@/lib/site-brand";
+import type { TravelCollection } from "@/lib/collection-export";
+import { googleMapsRouteUrl } from "@/lib/collection-export";
+import {
+  copyCollectionShareText,
+  shareCollectionNative,
+  whatsAppShareUrl,
+} from "@/lib/collection-export";
 
 interface ShareButtonProps {
   url: string;
@@ -181,4 +189,120 @@ export function sharePageUrl(path: string): string {
     process.env.NEXT_PUBLIC_APP_URL?.replace(/\/$/, "") ??
     (typeof window !== "undefined" ? window.location.origin : SITE_DEFAULT_URL);
   return `${base}${path.startsWith("/") ? path : `/${path}`}`;
+}
+
+interface CollectionShareProps {
+  collection: TravelCollection;
+  exploreUrl: string;
+  className?: string;
+}
+
+export function CollectionShareButton({ collection, exploreUrl, className = "" }: CollectionShareProps) {
+  const t = useTranslations("myTrip");
+  const [open, setOpen] = useState(false);
+  const [copied, setCopied] = useState<"list" | "link" | null>(null);
+  const fullWidth = !className.includes("w-auto");
+
+  async function handleNativeShare() {
+    const result = await shareCollectionNative(collection, exploreUrl);
+    if (result === "shared" || result === "cancelled") {
+      setOpen(false);
+      return;
+    }
+    setOpen(true);
+  }
+
+  async function copyList() {
+    const ok = await copyCollectionShareText(collection);
+    if (ok) {
+      setCopied("list");
+      setTimeout(() => setCopied(null), 2000);
+    }
+  }
+
+  async function copyLink() {
+    try {
+      await navigator.clipboard.writeText(exploreUrl);
+      setCopied("link");
+      setTimeout(() => setCopied(null), 2000);
+    } catch {
+      /* ignore */
+    }
+  }
+
+  return (
+    <div className={`relative ${className}`}>
+      <button
+        type="button"
+        onClick={() => {
+          if (typeof navigator !== "undefined" && "share" in navigator) {
+            void handleNativeShare();
+          } else {
+            setOpen((v) => !v);
+          }
+        }}
+        className={`inline-flex items-center justify-center gap-2 rounded-xl border border-stone-200 bg-white px-4 py-2.5 text-sm font-semibold text-stone-700 shadow-sm transition-colors hover:border-stone-300 hover:bg-stone-50 ${fullWidth ? "w-full" : ""}`}
+      >
+        <Share2 className="h-4 w-4" />
+        {t("shareCollection")}
+      </button>
+
+      {open && (
+        <>
+          <div className="fixed inset-0 z-40" onClick={() => setOpen(false)} />
+          <div className="absolute right-0 top-full z-50 mt-2 w-64 overflow-hidden rounded-2xl border border-stone-200 bg-white shadow-xl">
+            <div className="border-b border-stone-100 bg-stone-50 px-4 py-2.5">
+              <p className="text-[11px] font-semibold text-stone-600">{t("shareCollectionHint")}</p>
+            </div>
+            <a
+              href={whatsAppShareUrl(collection)}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex w-full items-center gap-2.5 px-4 py-3 text-left text-sm text-stone-700 hover:bg-stone-50"
+              onClick={() => setOpen(false)}
+            >
+              <MessageCircle className="h-4 w-4 text-emerald-600" />
+              WhatsApp
+            </a>
+            <a
+              href={googleMapsRouteUrl(collection.places)}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex w-full items-center gap-2.5 px-4 py-3 text-left text-sm text-stone-700 hover:bg-stone-50"
+              onClick={() => setOpen(false)}
+            >
+              <Map className="h-4 w-4 text-amber-700" />
+              {t("shareOpenRoute")}
+            </a>
+            <button
+              type="button"
+              onClick={() => void copyList()}
+              className="flex w-full items-center gap-2.5 px-4 py-3 text-left text-sm text-stone-700 hover:bg-stone-50"
+            >
+              {copied === "list" ? <Check className="h-4 w-4 text-emerald-500" /> : <Share2 className="h-4 w-4" />}
+              {copied === "list" ? t("shareCopied") : t("shareCopyList")}
+            </button>
+            <button
+              type="button"
+              onClick={() => void copyLink()}
+              className="flex w-full items-center gap-2.5 px-4 py-3 text-left text-sm text-stone-700 hover:bg-stone-50"
+            >
+              {copied === "link" ? <Check className="h-4 w-4 text-emerald-500" /> : <Link2 className="h-4 w-4" />}
+              {copied === "link" ? t("shareCopied") : t("shareCopyLink")}
+            </button>
+            {"share" in navigator && (
+              <button
+                type="button"
+                onClick={() => void handleNativeShare()}
+                className="flex w-full items-center gap-2.5 border-t border-stone-100 px-4 py-3 text-left text-sm text-stone-700 hover:bg-stone-50"
+              >
+                <Smartphone className="h-4 w-4" />
+                {t("shareNative")}
+              </button>
+            )}
+          </div>
+        </>
+      )}
+    </div>
+  );
 }

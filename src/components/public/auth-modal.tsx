@@ -3,10 +3,11 @@
 import { useState } from "react";
 import { createBrowserClient } from "@supabase/ssr";
 import { motion, AnimatePresence } from "framer-motion";
-import { useTranslations } from "next-intl";
+import { useTranslations, useLocale } from "next-intl";
 import { X, Globe, Mail, CheckCircle2, AlertCircle, Loader2 } from "lucide-react";
 import type { RouteCartItem } from "@/lib/context/route-cart-context";
 import { useAdBlock } from "@/components/public/adblock-detector";
+import { buildOAuthRedirectTo, OAUTH_PERSIST_QUERY } from "@/i18n/routing";
 
 interface Props {
   isOpen: boolean;
@@ -33,6 +34,7 @@ const GoogleIcon = () => (
 
 export function AuthModal({ isOpen, onClose, pendingItems, routeTitle, onAuthSuccess }: Props) {
   const t = useTranslations("auth");
+  const locale = useLocale();
   const { adBlockDetected } = useAdBlock();
   const [email, setEmail] = useState("");
   const [step, setStep] = useState<Step>("idle");
@@ -55,10 +57,7 @@ export function AuthModal({ isOpen, onClose, pendingItems, routeTitle, onAuthSuc
     );
   }
 
-  const redirectTo =
-    typeof window !== "undefined"
-      ? `${window.location.origin}/api/auth/callback?next=/en/my-passport`
-      : "/api/auth/callback?next=/en/my-passport";
+  const redirectTo = buildOAuthRedirectTo("/my-passport", locale);
 
   async function handleOAuth(provider: "google" | "facebook" | "apple") {
     if (!isConfigured) return;
@@ -66,7 +65,10 @@ export function AuthModal({ isOpen, onClose, pendingItems, routeTitle, onAuthSuc
     const supabase = getSupabase();
     await supabase.auth.signInWithOAuth({
       provider,
-      options: { redirectTo },
+      options: {
+        redirectTo,
+        queryParams: provider === "google" ? OAUTH_PERSIST_QUERY : undefined,
+      },
     });
   }
 

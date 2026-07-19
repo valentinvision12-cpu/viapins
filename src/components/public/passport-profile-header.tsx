@@ -8,6 +8,7 @@ import {
   uploadProfileAvatar,
   type AvatarUploadErrorCode,
 } from "@/lib/upload-profile-avatar";
+import { LUXURY, PASSPORT } from "@/lib/luxury-palette";
 
 interface Props {
   email: string;
@@ -65,14 +66,28 @@ export function PassportProfileHeader({
 
   return (
     <div
-      className="relative mb-8 p-6 rounded-[34px] overflow-hidden border border-white/10 bg-white/5 backdrop-blur-2xl shadow-2xl"
+      className="relative mb-8 overflow-hidden rounded-[28px] border p-6 sm:p-8"
+      style={{
+        background: PASSPORT.heroGradient,
+        borderColor: PASSPORT.cardBorder,
+        boxShadow: PASSPORT.cardShadow,
+      }}
     >
-      <div className="flex items-center gap-5">
+      {/* Subtle decorative wash */}
+      <div
+        className="pointer-events-none absolute -right-16 -top-16 h-48 w-48 rounded-full opacity-60 blur-3xl"
+        style={{ background: "rgba(139, 101, 48, 0.14)" }}
+      />
+
+      <div className="relative flex flex-col items-center gap-5 sm:flex-row sm:items-start">
         <button
           type="button"
           onClick={() => inputRef.current?.click()}
           disabled={uploading}
-          className="relative w-20 h-20 rounded-2xl overflow-hidden flex-shrink-0 ring-2 ring-white/20 shadow-md group disabled:opacity-70"
+          className="group relative h-24 w-24 flex-shrink-0 overflow-hidden rounded-full shadow-md transition-transform hover:scale-[1.02] disabled:opacity-70 sm:h-28 sm:w-28"
+          style={{
+            boxShadow: `0 0 0 3px ${LUXURY.creamCard}, 0 0 0 5px ${LUXURY.bronzeBorderStrong}`,
+          }}
           title={t("avatarChange")}
           aria-label={t("avatarChange")}
         >
@@ -80,17 +95,17 @@ export function PassportProfileHeader({
             <Image src={avatar} alt={displayName} fill className="object-cover" unoptimized />
           ) : (
             <div
-              className="w-full h-full flex items-center justify-center"
-              style={{ background: "oklch(0.68 0.16 82)" }}
+              className="flex h-full w-full items-center justify-center"
+              style={{ background: `linear-gradient(145deg, ${LUXURY.bronze} 0%, ${LUXURY.bronzeHover} 100%)` }}
             >
-              <User className="w-9 h-9 text-white/90" />
+              <User className="h-10 w-10 text-white/90" />
             </div>
           )}
-          <div className="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
+          <div className="absolute inset-0 flex items-center justify-center bg-black/35 opacity-0 transition-opacity group-hover:opacity-100">
             {uploading ? (
-              <Loader2 className="w-6 h-6 text-white animate-spin" />
+              <Loader2 className="h-6 w-6 animate-spin text-white" />
             ) : (
-              <Camera className="w-6 h-6 text-white" />
+              <Camera className="h-6 w-6 text-white" />
             )}
           </div>
         </button>
@@ -105,31 +120,50 @@ export function PassportProfileHeader({
           }}
         />
 
-        <div className="min-w-0 flex-1">
-          <div className="flex items-center gap-2 flex-wrap mb-1">
-            <span className="text-lg">{level.emoji}</span>
-            <span className="text-xs font-bold uppercase tracking-wider text-cyan-200/80">
+        <div className="min-w-0 flex-1 text-center sm:text-left">
+          <div className="mb-2 flex items-center justify-center gap-2 sm:justify-start">
+            <span
+              className="inline-flex items-center gap-1.5 rounded-full px-3 py-1 text-[11px] font-bold uppercase tracking-wider"
+              style={{
+                background: PASSPORT.accentSoft,
+                color: PASSPORT.accent,
+                border: `1px solid ${PASSPORT.accentBorder}`,
+              }}
+            >
+              <span>{level.emoji}</span>
               {level.label}
             </span>
           </div>
-          <h1 className="text-2xl font-black tracking-tight text-white truncate">
+
+          <h1
+            className="truncate text-2xl font-black tracking-tight sm:text-3xl"
+            style={{ color: PASSPORT.text }}
+          >
             {t("profileWelcome", { name: displayName })}
           </h1>
-          <p className="text-white/70 text-sm mt-1">{statsLine}</p>
-          <p className="text-white/45 text-xs mt-1">{t("avatarPhotoHint")}</p>
+
+          <p className="mt-1.5 text-sm font-medium" style={{ color: PASSPORT.textSecondary }}>
+            {statsLine}
+          </p>
+
           {level.next && (
-            <p className="text-white/45 text-xs mt-1.5">
+            <p className="mt-2 text-xs" style={{ color: PASSPORT.textMuted }}>
               {t("profileNextLevel", { level: level.next })}
             </p>
           )}
+
+          <p className="mt-1 text-[11px]" style={{ color: PASSPORT.textMuted }}>
+            {t("avatarPhotoHint")}
+          </p>
+
           {message && (
             <p
-              className={`text-xs mt-2 flex items-center gap-1 ${
-                message.type === "ok" ? "text-emerald-300" : "text-red-300"
+              className={`mt-2 flex items-center justify-center gap-1 text-xs sm:justify-start ${
+                message.type === "ok" ? "text-emerald-600" : "text-red-500"
               }`}
               role="status"
             >
-              {message.type === "ok" && <Check className="w-3.5 h-3.5 flex-shrink-0" />}
+              {message.type === "ok" && <Check className="h-3.5 w-3.5 flex-shrink-0" />}
               {message.text}
             </p>
           )}

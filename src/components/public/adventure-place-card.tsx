@@ -102,7 +102,6 @@ export function AdventurePlaceCard({ place, locale, index, stopNumber }: Props) 
               fill
               sizes="(max-width: 640px) 100vw, 224px"
               className="object-cover transition-transform duration-500 group-hover:scale-[1.03]"
-              unoptimized
               referrerPolicy="no-referrer"
               onError={() => {
                 fetch(`/api/places/${place.id}/image?refresh=1`)

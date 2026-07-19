@@ -9,6 +9,7 @@ import { PassportLogin } from "@/components/public/passport-login";
 import { PassportProfileHeader } from "@/components/public/passport-profile-header";
 import { travelerLevel } from "@/lib/collection-export";
 import { SITE_NAME } from "@/lib/site-brand";
+import { PASSPORT } from "@/lib/luxury-palette";
 
 type Props = { params: Promise<{ locale: string }> };
 
@@ -47,8 +48,11 @@ export default async function MyPassportPage({ params }: Props) {
   return (
     <>
       <NavHeader />
-      <main className="min-h-screen pt-20 text-white" style={{ background: "linear-gradient(145deg, #1C1409 0%, #2C1E0E 40%, #1A1510 100%)" }}>
-        <div className="container max-w-4xl mx-auto px-6 py-12">
+      <main
+        className="min-h-screen pt-20"
+        style={{ background: PASSPORT.bgGradient, color: PASSPORT.text }}
+      >
+        <div className="container mx-auto max-w-4xl px-6 py-10 sm:py-12">
           {user && isConfigured && (
             <PassportProfileHeader
               email={user.email}
@@ -64,25 +68,43 @@ export default async function MyPassportPage({ params }: Props) {
           )}
 
           {!user && (
-            <div className="flex items-center gap-4 mb-10">
+            <div className="mb-10 flex items-center gap-4">
               <div
-                className="w-14 h-14 rounded-2xl flex items-center justify-center shadow-sm flex-shrink-0"
-                style={{ background: "rgba(154,123,79,0.25)", border: "1px solid rgba(154,123,79,0.3)" }}
+                className="flex h-14 w-14 flex-shrink-0 items-center justify-center rounded-2xl shadow-sm"
+                style={{
+                  background: PASSPORT.accentSoft,
+                  border: `1px solid ${PASSPORT.accentBorder}`,
+                }}
               >
-                <Briefcase className="w-7 h-7" style={{ color: "#E8C99B" }} />
+                <Briefcase className="h-7 w-7" style={{ color: PASSPORT.accent }} />
               </div>
               <div>
-                <h1 className="text-2xl font-bold text-white">{t("title")}</h1>
-                <p className="text-white/60 text-sm mt-0.5">{t("subtitle")}</p>
+                <h1 className="text-2xl font-bold" style={{ color: PASSPORT.text }}>
+                  {t("title")}
+                </h1>
+                <p className="mt-0.5 text-sm" style={{ color: PASSPORT.textMuted }}>
+                  {t("subtitle")}
+                </p>
               </div>
             </div>
           )}
 
           {!isConfigured ? (
-            <div className="text-center py-20 border border-white/10 rounded-3xl bg-white/5 backdrop-blur-xl shadow-2xl">
-              <Briefcase className="w-12 h-12 text-white/20 mx-auto mb-4" />
-              <p className="text-white/80 font-medium mb-2">{t("supabaseMissing")}</p>
-              <p className="text-white/55 text-sm max-w-xs mx-auto">{t("supabaseMissingDesc")}</p>
+            <div
+              className="rounded-2xl border py-20 text-center"
+              style={{
+                background: PASSPORT.card,
+                borderColor: PASSPORT.cardBorder,
+                boxShadow: PASSPORT.cardShadow,
+              }}
+            >
+              <Briefcase className="mx-auto mb-4 h-12 w-12 text-stone-200" />
+              <p className="mb-2 font-medium" style={{ color: PASSPORT.text }}>
+                {t("supabaseMissing")}
+              </p>
+              <p className="mx-auto max-w-xs text-sm" style={{ color: PASSPORT.textMuted }}>
+                {t("supabaseMissingDesc")}
+              </p>
             </div>
           ) : !user ? (
             <PassportLogin />
@@ -96,7 +118,10 @@ export default async function MyPassportPage({ params }: Props) {
           )}
         </div>
 
-        <footer className="border-t border-white/10 py-8 text-center text-white/35 text-xs mt-10">
+        <footer
+          className="mt-10 border-t py-8 text-center text-xs"
+          style={{ borderColor: PASSPORT.cardBorder, color: PASSPORT.textMuted }}
+        >
           © {new Date().getFullYear()} {SITE_NAME}
         </footer>
       </main>

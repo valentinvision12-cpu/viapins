@@ -7,10 +7,12 @@ import {
 import { createBrowserClient } from "@supabase/ssr";
 import { motion, AnimatePresence } from "framer-motion";
 import { Heart, X, LogIn } from "lucide-react";
-import { useTranslations } from "next-intl";
-import { Link } from "@/i18n/navigation";
+import { useTranslations, useLocale } from "next-intl";
+import { Link, usePathname } from "@/i18n/navigation";
 import { addFavoriteAction, removeFavoriteAction, getFavoritesAction, type FavoritePlace } from "@/actions/favorites";
 import { useAdBlock } from "@/components/public/adblock-detector";
+import { buildOAuthRedirectTo, getLocaleFromPath, OAUTH_PERSIST_QUERY } from "@/i18n/routing";
+import { PASSPORT } from "@/lib/luxury-palette";
 
 // ── Context type ─────────────────────────────────────────────────────────────
 
@@ -225,6 +227,9 @@ function FavoritesAuthModal({ onClose, pendingPlace }: {
   onClose: () => void;
   pendingPlace: FavoritePlace | null;
 }) {
+  const t = useTranslations("auth");
+  const locale = useLocale();
+  const pathname = usePathname();
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
 
@@ -239,16 +244,16 @@ function FavoritesAuthModal({ onClose, pendingPlace }: {
     if (pendingPlace) {
       localStorage.setItem("pending_favorite", JSON.stringify(pendingPlace));
     }
-    const origin = typeof window !== "undefined" ? window.location.origin : "";
+    const activeLocale = locale || getLocaleFromPath(pathname);
     const { error: err } = await supabase.auth.signInWithOAuth({
       provider: "google",
       options: {
-        redirectTo: `${origin}/api/auth/callback?next=/en/my-passport`,
-        queryParams: { access_type: "offline", prompt: "select_account" },
+        redirectTo: buildOAuthRedirectTo("/my-passport", activeLocale),
+        queryParams: OAUTH_PERSIST_QUERY,
       },
     });
     if (err) {
-      setError("Нещо се обърка. Опитай отново.");
+      setError(t("authError"));
       setLoading(false);
     }
   }
@@ -259,7 +264,7 @@ function FavoritesAuthModal({ onClose, pendingPlace }: {
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         exit={{ opacity: 0 }}
-        className="fixed inset-0 bg-black/60 backdrop-blur-sm z-50 flex items-end sm:items-center justify-center p-4"
+        className="fixed inset-0 z-50 flex items-end justify-center bg-[#1C1409]/20 p-4 backdrop-blur-md sm:items-center"
         onClick={onClose}
       >
         <motion.div
@@ -267,65 +272,82 @@ function FavoritesAuthModal({ onClose, pendingPlace }: {
           animate={{ y: 0, opacity: 1 }}
           exit={{ y: 40, opacity: 0 }}
           transition={{ type: "spring", stiffness: 400, damping: 32 }}
-          className="bg-white rounded-3xl p-6 w-full max-w-sm shadow-2xl"
+          className="relative w-full max-w-sm overflow-hidden rounded-[28px] border p-6 shadow-2xl"
+          style={{
+            background: PASSPORT.card,
+            borderColor: PASSPORT.cardBorder,
+          }}
           onClick={(e) => e.stopPropagation()}
         >
-          {/* Close */}
-          <button onClick={onClose} className="absolute top-4 right-4 p-1.5 text-stone-300 hover:text-stone-600 transition-colors">
-            <X className="w-4 h-4" />
+          <div
+            className="absolute left-0 right-0 top-0 h-1"
+            style={{
+              background: `linear-gradient(90deg, transparent, ${PASSPORT.accent}, transparent)`,
+            }}
+          />
+
+          <button
+            onClick={onClose}
+            className="absolute right-4 top-4 p-1.5 text-stone-300 transition-colors hover:text-stone-600"
+          >
+            <X className="h-4 w-4" />
           </button>
 
-          {/* Pending place preview */}
           {pendingPlace && (
-            <div className="flex items-center gap-3 mb-5 p-3 rounded-2xl bg-stone-50 border border-stone-100">
+            <div
+              className="mb-5 flex items-center gap-3 rounded-2xl border p-3"
+              style={{ background: PASSPORT.accentSoft, borderColor: PASSPORT.cardBorder }}
+            >
               {pendingPlace.image_url && (
                 // eslint-disable-next-line @next/next/no-img-element
                 <img
                   src={pendingPlace.image_url}
                   alt={pendingPlace.name}
-                  className="w-14 h-14 rounded-xl object-cover flex-shrink-0"
+                  className="h-14 w-14 flex-shrink-0 rounded-xl object-cover"
                 />
               )}
               <div className="min-w-0 flex-1">
-                <p className="text-stone-900 text-sm font-bold truncate">{pendingPlace.name}</p>
-                <p className="text-stone-400 text-xs mt-0.5">{pendingPlace.city}, {pendingPlace.country}</p>
+                <p className="truncate text-sm font-bold" style={{ color: PASSPORT.text }}>
+                  {pendingPlace.name}
+                </p>
+                <p className="mt-0.5 text-xs" style={{ color: PASSPORT.textMuted }}>
+                  {pendingPlace.city}, {pendingPlace.country}
+                </p>
               </div>
-              <Heart className="w-5 h-5 fill-red-500 text-red-500 flex-shrink-0" />
+              <Heart className="h-5 w-5 flex-shrink-0 fill-red-500 text-red-500" />
             </div>
           )}
 
-          {/* Headline */}
-          <div className="text-center mb-6">
-            <h3 className="text-stone-900 font-extrabold text-xl leading-tight mb-2">
-              Запази {pendingPlace ? "това място" : "любимите си места"}
+          <div className="mb-6 text-center">
+            <h3 className="mb-2 text-xl font-extrabold leading-tight" style={{ color: PASSPORT.text }}>
+              {pendingPlace ? t("saveThisPlace") : t("saveYourFavorites")}
             </h3>
-            <p className="text-stone-400 text-sm">
-              Безплатно. Готово за секунди с Google.
+            <p className="text-sm" style={{ color: PASSPORT.textMuted }}>
+              {t("saveFreeGoogle")}
             </p>
           </div>
 
-          {/* Google CTA */}
           <motion.button
             onClick={handleGoogle}
             disabled={loading}
             whileTap={{ scale: 0.97 }}
-            className="w-full flex items-center justify-center gap-3 px-5 py-4 rounded-2xl bg-white border-2 border-stone-200 hover:border-stone-400 hover:shadow-md text-stone-800 font-bold text-base transition-all disabled:opacity-60 shadow-sm"
+            className="flex w-full items-center justify-center gap-3 rounded-2xl border-2 border-stone-200 bg-white px-5 py-4 text-base font-bold text-stone-800 shadow-sm transition-all hover:border-stone-400 hover:shadow-md disabled:opacity-60"
           >
             {loading ? (
-              <svg className="w-5 h-5 animate-spin text-stone-400" fill="none" viewBox="0 0 24 24">
-                <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"/>
-                <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8z"/>
+              <svg className="h-5 w-5 animate-spin text-stone-400" fill="none" viewBox="0 0 24 24">
+                <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
+                <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8z" />
               </svg>
             ) : (
               <GoogleIcon />
             )}
-            {loading ? "Влизане..." : "Продължи с Google"}
+            {loading ? t("signingIn") : t("continueWithGoogle")}
           </motion.button>
 
-          {error && <p className="text-red-500 text-sm text-center mt-3">{error}</p>}
+          {error && <p className="mt-3 text-center text-sm text-red-500">{error}</p>}
 
-          <p className="text-stone-300 text-[11px] text-center mt-3">
-            Безплатно · Без карта · Без спам
+          <p className="mt-3 text-center text-[11px]" style={{ color: PASSPORT.textMuted }}>
+            {t("freeNoCard")}
           </p>
         </motion.div>
       </motion.div>

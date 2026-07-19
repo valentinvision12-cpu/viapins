@@ -15,6 +15,24 @@ export const LUXURY = {
   bronzeBorderStrong: "rgba(139, 101, 48, 0.32)",
 } as const;
 
+/** My Passport — editorial profile surface (warm ivory, bronze accents) */
+export const PASSPORT = {
+  bg: LUXURY.cream,
+  bgGradient: `linear-gradient(168deg, ${LUXURY.creamCard} 0%, ${LUXURY.section} 48%, ${LUXURY.creamDeep} 100%)`,
+  card: LUXURY.creamCard,
+  cardHover: "#FFFFFF",
+  cardBorder: LUXURY.bronzeBorder,
+  cardShadow: "0 1px 3px rgba(28, 20, 9, 0.06), 0 8px 24px rgba(28, 20, 9, 0.04)",
+  cardShadowHover: "0 4px 16px rgba(28, 20, 9, 0.08), 0 12px 32px rgba(28, 20, 9, 0.06)",
+  text: LUXURY.text,
+  textSecondary: LUXURY.textSecondary,
+  textMuted: LUXURY.textMuted,
+  accent: LUXURY.bronze,
+  accentSoft: LUXURY.bronzeLight,
+  accentBorder: LUXURY.bronzeBorderStrong,
+  heroGradient: `linear-gradient(135deg, rgba(139, 101, 48, 0.12) 0%, rgba(247, 243, 235, 0.6) 55%, ${LUXURY.creamCard} 100%)`,
+} as const;
+
 /** Palette extracted from the compass artwork — pale blue-teal wash */
 export const COMPASS = {
   mist: "#E6F0F4",

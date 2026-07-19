@@ -10,19 +10,26 @@ interface Props {
 }
 
 export function CountryHeroCover({ country, coverImages, coverImage }: Props) {
-  const primaryImage =
-    coverImage || coverImages.find(Boolean) || fallbackImageUrl(`${country}-travel`, 1600, 900);
+  const images = [
+    ...new Set(
+      [coverImage, ...coverImages]
+        .map((u) => u?.trim())
+        .filter((u): u is string => !!u)
+    ),
+  ];
+  const slides =
+    images.length > 0
+      ? images.slice(0, 3)
+      : [fallbackImageUrl(`${country}-travel`, 1600, 900)];
 
   return (
-    <>
-      <CountryCoverSlideshow
-        images={[primaryImage]}
-        alt={`${country} travel guide`}
-        className="absolute inset-0"
-        intervalMs={0}
-        sizes="100vw"
-        priority
-      />
-    </>
+    <CountryCoverSlideshow
+      images={slides}
+      alt={`${country} travel guide`}
+      className="absolute inset-0"
+      intervalMs={slides.length > 1 ? 6000 : 0}
+      sizes="100vw"
+      priority
+    />
   );
 }
