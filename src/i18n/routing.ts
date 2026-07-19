@@ -1,14 +1,15 @@
 import { defineRouting } from "next-intl/routing";
 
-export const CORE_LOCALES = ["en", "es", "fr", "de", "it"] as const;
+export const CORE_LOCALES = ["en", "bg", "es", "fr", "de", "it"] as const;
 export type CoreLocale = (typeof CORE_LOCALES)[number];
 
 export const LOCALE_LABELS: Record<CoreLocale, { label: string; flag: string; nativeLabel: string }> = {
-  en: { label: "English",  flag: "🇬🇧", nativeLabel: "English"   },
-  es: { label: "Spanish",  flag: "🇪🇸", nativeLabel: "Español"   },
-  fr: { label: "French",   flag: "🇫🇷", nativeLabel: "Français"  },
-  de: { label: "German",   flag: "🇩🇪", nativeLabel: "Deutsch"   },
-  it: { label: "Italian",  flag: "🇮🇹", nativeLabel: "Italiano"  },
+  en: { label: "English",   flag: "🇬🇧", nativeLabel: "English"    },
+  bg: { label: "Bulgarian", flag: "🇧🇬", nativeLabel: "Български" },
+  es: { label: "Spanish",   flag: "🇪🇸", nativeLabel: "Español"    },
+  fr: { label: "French",    flag: "🇫🇷", nativeLabel: "Français"   },
+  de: { label: "German",    flag: "🇩🇪", nativeLabel: "Deutsch"    },
+  it: { label: "Italian",   flag: "🇮🇹", nativeLabel: "Italiano"   },
 };
 
 export const routing = defineRouting({

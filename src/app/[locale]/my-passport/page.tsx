@@ -1,13 +1,10 @@
 import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
 import { Briefcase } from "lucide-react";
-import { getMyRoutes } from "@/actions/get-my-routes";
-import { getFavoritesAction } from "@/actions/favorites";
+import { getPassportProfile } from "@/actions/get-passport-profile";
 import { NavHeader } from "@/components/public/nav-header";
-import { PassportTabs } from "@/components/public/passport-tabs";
 import { PassportLogin } from "@/components/public/passport-login";
-import { PassportProfileHeader } from "@/components/public/passport-profile-header";
-import { travelerLevel } from "@/lib/collection-export";
+import { PassportDashboard } from "@/components/public/passport-dashboard";
 import { SITE_NAME } from "@/lib/site-brand";
 import { PASSPORT } from "@/lib/luxury-palette";
 
@@ -23,27 +20,50 @@ export default async function MyPassportPage({ params }: Props) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "myTrip" });
 
-  const [{ saved, visited, user }, favorites] = await Promise.all([
-    getMyRoutes(),
-    getFavoritesAction(),
-  ]);
+  const passport = await getPassportProfile();
+  const { user, stats } = passport;
 
   const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL ?? "";
   const isConfigured = !!supabaseUrl && !supabaseUrl.includes("placeholder");
 
-  const allRoutes = [...saved, ...visited];
-  const uniqueCountries = new Set([
-    ...favorites.map((f) => f.country),
-    ...allRoutes.flatMap((r) => r.route_places.map((p) => p.country)),
-  ]).size;
-  const totalPlaces =
-    favorites.length +
-    allRoutes.reduce((n, r) => n + r.route_places.length, 0);
-  const level = travelerLevel({
-    countries: uniqueCountries,
-    places: totalPlaces,
-    routes: allRoutes.length,
-  });
+  const passportStats = [
+    {
+      id: "countries",
+      label: t("passportStatCountries"),
+      value: stats.countries,
+      hint: t("passportStatCountriesHint", { total: 195 }),
+    },
+    {
+      id: "cities",
+      label: t("passportStatCities"),
+      value: stats.cities,
+    },
+    {
+      id: "places",
+      label: t("passportStatPlaces"),
+      value: stats.places,
+    },
+    {
+      id: "photos",
+      label: t("passportStatPhotos"),
+      value: stats.photos,
+    },
+    {
+      id: "reviews",
+      label: t("passportStatReviews"),
+      value: stats.reviews,
+    },
+    {
+      id: "followers",
+      label: t("followFollowers"),
+      value: stats.followers,
+    },
+    {
+      id: "following",
+      label: t("followFollowingCount"),
+      value: stats.following,
+    },
+  ];
 
   return (
     <>
@@ -53,20 +73,6 @@ export default async function MyPassportPage({ params }: Props) {
         style={{ background: PASSPORT.bgGradient, color: PASSPORT.text }}
       >
         <div className="container mx-auto max-w-4xl px-6 py-10 sm:py-12">
-          {user && isConfigured && (
-            <PassportProfileHeader
-              email={user.email}
-              fullName={user.full_name}
-              avatarUrl={user.avatar_url}
-              level={level}
-              statsLine={t("profileStats", {
-                countries: uniqueCountries,
-                places: totalPlaces,
-                routes: allRoutes.length,
-              })}
-            />
-          )}
-
           {!user && (
             <div className="mb-10 flex items-center gap-4">
               <div
@@ -109,11 +115,10 @@ export default async function MyPassportPage({ params }: Props) {
           ) : !user ? (
             <PassportLogin />
           ) : (
-            <PassportTabs
-              savedRoutes={saved}
-              visitedRoutes={visited}
-              initialFavorites={favorites}
+            <PassportDashboard
+              profile={passport}
               locale={locale}
+              statsItems={passportStats}
             />
           )}
         </div>

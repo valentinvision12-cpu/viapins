@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import { IMAGE_UNOPTIMIZED } from "@/lib/image-runtime";
 import { useTranslations } from "next-intl";
 import { Search, Compass } from "lucide-react";
 import { Link } from "@/i18n/navigation";
@@ -177,7 +178,7 @@ function HeroLuxuryCompass() {
           fill
           sizes="(max-width: 768px) 92vw, 640px"
           className="object-cover object-center"
-          unoptimized
+          unoptimized={IMAGE_UNOPTIMIZED}
           priority
         />
       </div>
@@ -202,7 +203,7 @@ function HeroLuxuryCompass() {
               width={800}
               height={800}
               className="w-full h-full object-cover object-center scale-[2.8]"
-              unoptimized
+              unoptimized={IMAGE_UNOPTIMIZED}
             />
           </div>
         </div>

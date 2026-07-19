@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import Image from "next/image";
+import { IMAGE_UNOPTIMIZED } from "@/lib/image-runtime";
 import { useTranslations } from "next-intl";
 import { BookMarked, Stamp, Globe, MapPin, Map, Heart, ExternalLink, Navigation, LayoutGrid, List, Settings, LogOut, ChevronRight, Languages } from "lucide-react";
 import { createBrowserClient } from "@supabase/ssr";
@@ -99,7 +100,7 @@ function FavoritePlaceCard({ place, index }: { place: FavoritePlace; index: numb
           fill
           sizes="(max-width: 640px) 50vw, 33vw"
           className="object-cover transition-transform duration-500 group-hover:scale-[1.05]"
-          unoptimized
+          unoptimized={IMAGE_UNOPTIMIZED}
         />
 
         <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-black/5 to-transparent" />
@@ -245,6 +246,7 @@ function SettingsPanel({ locale }: { locale: string }) {
 
   const LANG_OPTIONS = [
     { code: "en", label: "English", flag: "🇬🇧" },
+    { code: "bg", label: "Български", flag: "🇧🇬" },
     { code: "es", label: "Español", flag: "🇪🇸" },
     { code: "fr", label: "Français", flag: "🇫🇷" },
     { code: "de", label: "Deutsch", flag: "🇩🇪" },
@@ -275,6 +277,11 @@ function SettingsPanel({ locale }: { locale: string }) {
                 <a
                   key={lang.code}
                   href={`/${lang.code}/my-passport`}
+                  onClick={(e) => {
+                    e.preventDefault();
+                    document.cookie = `NEXT_LOCALE=${lang.code};path=/;max-age=31536000;samesite=lax`;
+                    window.location.assign(`/${lang.code}/my-passport`);
+                  }}
                   className="flex items-center justify-between px-5 py-3.5 transition-colors"
                   style={{
                     background: isCurrent ? PASSPORT.accentSoft : undefined,

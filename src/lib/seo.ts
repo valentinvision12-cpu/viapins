@@ -3,7 +3,7 @@
  * Auto-generates defaults; seed files can override per city/place.
  */
 
-export type Locale = "en" | "es" | "fr" | "de" | "it";
+export type Locale = "en" | "bg" | "es" | "fr" | "de" | "it";
 
 export interface PlaceTranslation {
   description: string;
@@ -159,7 +159,7 @@ export function buildCityPageUrl(
   return `${getSiteUrl()}/${locale}/explore/${countrySlug}/${citySlug}`;
 }
 
-export const SEO_LOCALES = ["en", "es", "fr", "de", "it"] as const;
+export const SEO_LOCALES = ["en", "bg", "es", "fr", "de", "it"] as const;
 
 /** Absolute path → hreflang map for all supported locales (+ x-default → en). */
 export function buildLocaleAlternates(path: string): {

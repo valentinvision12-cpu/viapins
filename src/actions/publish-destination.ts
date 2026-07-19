@@ -1,7 +1,8 @@
 "use server";
 
 import { createClient } from "@/lib/supabase/server";
-import { revalidatePath } from "next/cache";
+import { revalidatePath, revalidateTag } from "next/cache";
+import { slugify } from "@/lib/utils";
 import type { GenerationResult } from "./generate-destination";
 
 export type PublishResult =
@@ -33,33 +34,86 @@ export async function publishDestinationAction(
 
     let destinationId: string;
 
+    const countrySlug = slugify(data.destination.country);
+    const citySlug = slugify(data.destination.city);
+    const coverImage =
+      data.places.find((p) => p.image_url?.trim())?.image_url?.trim() ?? "";
+
+    const slugFields = {
+      country_slug: countrySlug,
+      city_slug: citySlug,
+      cover_image: coverImage || null,
+      place_count: data.places.length,
+    };
+
     if (existing) {
-      // Update existing destination
-      const { error } = await supabase
+      let { error } = await supabase
         .from("destinations")
-        .update({ tags: data.destination.tags, published: true, updated_at: new Date().toISOString() })
+        .update({
+          tags: data.destination.tags,
+          published: true,
+          ...slugFields,
+          updated_at: new Date().toISOString(),
+        })
         .eq("id", existing.id);
+
+      // Pre-migration schemas may lack slug/cover columns
+      if (
+        error &&
+        (error.message.includes("country_slug") ||
+          error.message.includes("cover_image") ||
+          error.message.includes("place_count"))
+      ) {
+        const retry = await supabase
+          .from("destinations")
+          .update({
+            tags: data.destination.tags,
+            published: true,
+            updated_at: new Date().toISOString(),
+          })
+          .eq("id", existing.id);
+        error = retry.error;
+      }
 
       if (error) throw error;
       destinationId = existing.id;
 
-      // Delete old places and re-insert fresh ones
       await supabase.from("places").delete().eq("destination_id", existing.id);
     } else {
-      // Insert new destination
-      const { data: newDest, error } = await supabase
+      let { data: newDest, error } = await supabase
         .from("destinations")
         .insert({
           country: data.destination.country,
           city: data.destination.city,
           tags: data.destination.tags,
           published: true,
+          ...slugFields,
         })
         .select("id")
         .single();
 
+      if (
+        error &&
+        (error.message.includes("country_slug") ||
+          error.message.includes("cover_image") ||
+          error.message.includes("place_count"))
+      ) {
+        const retry = await supabase
+          .from("destinations")
+          .insert({
+            country: data.destination.country,
+            city: data.destination.city,
+            tags: data.destination.tags,
+            published: true,
+          })
+          .select("id")
+          .single();
+        newDest = retry.data;
+        error = retry.error;
+      }
+
       if (error) throw error;
-      destinationId = newDest.id;
+      destinationId = newDest!.id;
     }
 
     // ── Insert all places ─────────────────────────────────────────────────────
@@ -79,6 +133,11 @@ export async function publishDestinationAction(
 
     revalidatePath("/admin/destinations");
     revalidatePath("/admin");
+    try {
+      revalidateTag("destinations");
+    } catch {
+      /* ignore — cache invalidation must not fail publish */
+    }
 
     return { success: true, destinationId };
   } catch (err) {

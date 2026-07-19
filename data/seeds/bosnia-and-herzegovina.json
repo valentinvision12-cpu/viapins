@@ -1596,18 +1596,17 @@
           "visit_duration_hours": 3
         },
         {
-          "name": "Ključ Fortress",
-          "wiki_title": "Ključ Fortress",
-          "lat": 44.532,
-          "lng": 16.77,
+          "name": "Ostrovica Castle",
+          "wiki_title": "Ostrovica Castle",
+          "lat": 44.558,
+          "lng": 16.081,
           "order_index": 4,
-          "seo_phrase": "Ključ Fortress — Bihać, Bosnia and Herzegovina",
+          "seo_phrase": "Ostrovica Castle in Bihać",
           "seo_keywords": [
-            "Ključ Fortress",
+            "Ostrovica Castle",
             "Bihać",
             "Bosnia and Herzegovina",
-            "travel",
-            "landmarks"
+            "travel"
           ],
           "seo_priority": 91,
           "search_intent": [
@@ -1620,7 +1619,10 @@
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1.5
+          "visit_duration_hours": 1.5,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kulen_Vakuf_Ostrovica_2.JPG/960px-Kulen_Vakuf_Ostrovica_2.JPG",
+          "description": "Ostrovica Castle is a visitor landmark in Bihać, Bosnia and Herzegovina.",
+          "maps_query": "Ostrovica Castle, Bihać, Bosnia and Herzegovina"
         },
         {
           "name": "Ostrožac Castle",
@@ -1650,18 +1652,17 @@
           "visit_duration_hours": 1.5
         },
         {
-          "name": "Una National Park",
-          "wiki_title": "Una National Park",
-          "lat": 44.5,
-          "lng": 16.2,
+          "name": "Sokolac (fortress near Bihać)",
+          "wiki_title": "Sokolac (fortress near Bihać)",
+          "lat": 44.786,
+          "lng": 15.895,
           "order_index": 6,
-          "seo_phrase": "Una National Park — Bihać, Bosnia and Herzegovina",
+          "seo_phrase": "Sokolac (fortress near Bihać) in Bihać",
           "seo_keywords": [
-            "Una National Park",
+            "Sokolac (fortress near Bihać)",
             "Bihać",
             "Bosnia and Herzegovina",
-            "travel",
-            "landmarks"
+            "travel"
           ],
           "seo_priority": 89,
           "search_intent": [
@@ -1674,7 +1675,10 @@
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 3
+          "visit_duration_hours": 3,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sokola%C4%8Dka_kula.jpg/960px-Sokola%C4%8Dka_kula.jpg",
+          "description": "Sokolac (fortress near Bihać) is a visitor landmark in Bihać, Bosnia and Herzegovina.",
+          "maps_query": "Sokolac (fortress near Bihać), Bihać, Bosnia and Herzegovina"
         },
         {
           "name": "Strbacki Buk",
@@ -1704,18 +1708,17 @@
           "visit_duration_hours": 1
         },
         {
-          "name": "Martin Brod",
-          "wiki_title": "Martin Brod",
-          "lat": 44.485,
-          "lng": 16.145,
+          "name": "Fethija Mosque (Bihać)",
+          "wiki_title": "Fethija Mosque (Bihać)",
+          "lat": 44.8134,
+          "lng": 15.8699,
           "order_index": 8,
-          "seo_phrase": "Martin Brod — Bihać, Bosnia and Herzegovina",
+          "seo_phrase": "Fethija Mosque (Bihać) in Bihać",
           "seo_keywords": [
-            "Martin Brod",
+            "Fethija Mosque (Bihać)",
             "Bihać",
             "Bosnia and Herzegovina",
-            "travel",
-            "landmarks"
+            "travel"
           ],
           "seo_priority": 87,
           "search_intent": [
@@ -1728,7 +1731,10 @@
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1
+          "visit_duration_hours": 1,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Biha%C4%87_%E2%80%93_Fethija_d%C5%BEamija_1.jpg/960px-Biha%C4%87_%E2%80%93_Fethija_d%C5%BEamija_1.jpg",
+          "description": "Fethija Mosque (Bihać) is a visitor landmark in Bihać, Bosnia and Herzegovina.",
+          "maps_query": "Fethija Mosque (Bihać), Bihać, Bosnia and Herzegovina"
         },
         {
           "name": "Kamengrad Fortress",
@@ -2024,18 +2030,17 @@
           "visit_duration_hours": 3
         },
         {
-          "name": "Počitelj",
-          "wiki_title": "Počitelj",
-          "lat": 43.081,
-          "lng": 17.77,
+          "name": "Cathedral of the Birth of Mary",
+          "wiki_title": "Cathedral of the Birth of Mary, Trebinje",
+          "lat": 42.71111111,
+          "lng": 18.34416667,
           "order_index": 9,
-          "seo_phrase": "Počitelj — Trebinje, Bosnia and Herzegovina",
+          "seo_phrase": "Cathedral of the Birth of Mary in Trebinje",
           "seo_keywords": [
-            "Počitelj",
+            "Cathedral of the Birth of Mary",
             "Trebinje",
             "Bosnia and Herzegovina",
-            "travel",
-            "landmarks"
+            "travel"
           ],
           "seo_priority": 86,
           "search_intent": [
@@ -2048,7 +2053,10 @@
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1
+          "visit_duration_hours": 1,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Trebinje%2C_katolicky_kostel_z_18._stol%2C_vez_znicena_1992.jpg",
+          "description": "Cathedral of the Birth of Mary is a visitor landmark in Trebinje, Bosnia and Herzegovina.",
+          "maps_query": "Cathedral of the Birth of Mary, Trebinje, Bosnia and Herzegovina"
         }
       ]
     },
@@ -2390,7 +2398,8 @@
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1
+          "visit_duration_hours": 1,
+          "maps_query": "Neum Beach, Neum, Bosnia and Herzegovina"
         },
         {
           "name": "Adriatic Coast Neum",

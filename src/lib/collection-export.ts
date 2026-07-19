@@ -175,6 +175,28 @@ export function groupPlacesByCountry<T extends CollectionPlace>(places: T[]): Ma
   return map;
 }
 
+/** Mega-prompt Collections: country groups, private by default */
+export function buildCountryCollections<T extends CollectionPlace>(
+  places: T[]
+): Array<{
+  id: string;
+  title: string;
+  country: string;
+  visibility: "private" | "public" | "shared";
+  places: T[];
+}> {
+  const byCountry = groupPlacesByCountry(places);
+  return [...byCountry.entries()]
+    .sort((a, b) => b[1].length - a[1].length)
+    .map(([country, list]) => ({
+      id: `collection-${country.toLowerCase().replace(/\s+/g, "-")}`,
+      title: `My ${country}`,
+      country,
+      visibility: "private" as const,
+      places: list,
+    }));
+}
+
 export function travelerLevel(stats: {
   countries: number;
   places: number;

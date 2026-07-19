@@ -2,6 +2,7 @@
 
 import { useState, useTransition, useEffect } from "react";
 import Image from "next/image";
+import { IMAGE_UNOPTIMIZED } from "@/lib/image-runtime";
 import { createBrowserClient } from "@supabase/ssr";
 import { motion, AnimatePresence } from "framer-motion";
 import {
@@ -265,7 +266,7 @@ export function RouteCart() {
                           fill
                           sizes="36px"
                           className="object-cover"
-                          unoptimized
+                          unoptimized={IMAGE_UNOPTIMIZED}
                           referrerPolicy="no-referrer"
                         />
                       </div>

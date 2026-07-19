@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { getPublishedDestinations } from "@/actions/get-destinations";
+import { getCachedHomeDestinations } from "@/actions/get-destinations";
 import { DEMO_DESTINATIONS } from "@/lib/demo-data";
 import { getSiteUrl, SEO_LOCALES } from "@/lib/seo";
 
@@ -54,7 +54,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 1.0,
   });
 
-  let destinations = await getPublishedDestinations();
+  let destinations = await getCachedHomeDestinations();
   if (destinations.length === 0) {
     destinations = DEMO_DESTINATIONS.map((d) => ({
       id: d.id,

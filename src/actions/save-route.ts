@@ -1,7 +1,7 @@
 "use server";
 
 import { createClient } from "@/lib/supabase/server";
-import { revalidatePath } from "next/cache";
+import { revalidatePassport } from "@/lib/revalidate-passport";
 import type { RouteCartItem } from "@/lib/context/route-cart-context";
 import { getCartScope, validateSingleCityRoute, validateAdventureRoute, getItemMode } from "@/lib/route-scope";
 import { sortByRecommendedOrder } from "@/lib/adventure-itinerary";
@@ -76,7 +76,72 @@ export async function saveRouteAction(
     return { success: false, error: error?.message ?? "Грешка при запазване." };
   }
 
-  revalidatePath("/my-passport");
+  revalidatePassport(user.id);
+  return { success: true, routeId: data.id };
+}
+
+/**
+ * Mega-prompt: "Use this trip as inspiration" — clone a route into a new draft,
+ * crediting the original title.
+ */
+export async function cloneRouteAsInspirationAction(
+  routeId: string
+): Promise<SaveRouteResult> {
+  const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL ?? "";
+  if (!supabaseUrl || supabaseUrl.includes("placeholder")) {
+    return { success: false, error: "Supabase не е конфигуриран." };
+  }
+
+  const supabase = await createClient();
+  const {
+    data: { user },
+    error: authError,
+  } = await supabase.auth.getUser();
+  if (authError || !user) {
+    return { success: false, error: "Не си влязъл в акаунта си." };
+  }
+
+  const { data: source, error: fetchError } = await supabase
+    .from("user_routes")
+    .select("id, title, city, country, route_type, route_places, user_id")
+    .eq("id", routeId)
+    .maybeSingle();
+
+  if (fetchError || !source) {
+    return { success: false, error: "Trip not found." };
+  }
+
+  // Own routes always ok; public clone of others can expand later
+  if (source.user_id !== user.id) {
+    return { success: false, error: "You can only clone your own trips for now." };
+  }
+
+  const places = Array.isArray(source.route_places) ? source.route_places : [];
+  const inspiredTitle = `${source.title} (inspired)`.slice(0, 120);
+
+  const { data, error } = await supabase
+    .from("user_routes")
+    .insert({
+      user_id: user.id,
+      title: inspiredTitle,
+      city: source.city,
+      country: source.country,
+      route_type: source.route_type ?? "city",
+      route_places: places.map((p: Record<string, unknown>, idx: number) => ({
+        ...p,
+        order: typeof p.order === "number" ? p.order : idx,
+        visited: false,
+      })),
+      status: "saved",
+    })
+    .select("id")
+    .single();
+
+  if (error || !data) {
+    return { success: false, error: error?.message ?? "Could not clone trip." };
+  }
+
+  revalidatePassport(user.id);
   return { success: true, routeId: data.id };
 }
 
@@ -108,7 +173,7 @@ export async function markRouteVisitedAction(routeId: string): Promise<{ success
     .eq("id", routeId)
     .eq("user_id", user.id);
 
-  if (!error) revalidatePath("/my-passport");
+  if (!error) revalidatePassport(user.id);
   return { success: !error };
 }
 
@@ -150,7 +215,7 @@ export async function togglePlaceVisitedAction(
     .eq("id", routeId)
     .eq("user_id", user.id);
 
-  if (!error) revalidatePath("/my-passport");
+  if (!error) revalidatePassport(user.id);
   return { success: !error };
 }
 
@@ -168,6 +233,6 @@ export async function deleteRouteAction(routeId: string): Promise<{ success: boo
     .eq("id", routeId)
     .eq("user_id", user.id);
 
-  if (!error) revalidatePath("/my-passport");
+  if (!error) revalidatePassport(user.id);
   return { success: !error };
 }
