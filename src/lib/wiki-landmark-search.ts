@@ -73,7 +73,7 @@ async function geosearchHits(
   const coords = cityCoords ?? (await getCityCoords(city, country));
   if (!coords) return [];
 
-  const radius = country === "Malta" || country === "Monaco" ? "12000" : "18000";
+  const radius = country === "Malta" || country === "Monaco" ? "12000" : (process.env.GEOSEARCH_RADIUS_M || "35000");
   const geo = await wikiApi({
     action: "query",
     list: "geosearch",

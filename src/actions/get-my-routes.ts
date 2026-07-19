@@ -11,6 +11,13 @@ export interface SavedRoute {
   status: "saved" | "visited";
   travel_date: string | null;
   created_at: string;
+  days?: number;
+  memories?: string;
+  tips?: string;
+  budget?: string;
+  visibility?: "private" | "public" | "shared";
+  /** True when this trip is shared with me (not owned). */
+  shared?: boolean;
   route_places: {
     place_id: string;
     name: string;
@@ -23,6 +30,12 @@ export interface SavedRoute {
     visited?: boolean;
   }[];
 }
+
+export const ROUTE_SELECT_FULL =
+  "id, title, city, country, route_type, status, travel_date, created_at, route_places, days, memories, tips, budget, visibility";
+
+export const ROUTE_SELECT_LEGACY =
+  "id, title, city, country, route_type, status, travel_date, created_at, route_places";
 
 export async function getMyRoutes(): Promise<{
   saved: SavedRoute[];
@@ -37,22 +50,39 @@ export async function getMyRoutes(): Promise<{
   const { data: { user }, error: authError } = await supabase.auth.getUser();
   if (authError || !user) return empty;
 
-  const [routesRes, profileRes] = await Promise.all([
-    supabase
+  let routesRes = await supabase
+    .from("user_routes")
+    .select(ROUTE_SELECT_FULL)
+    .eq("user_id", user.id)
+    .order("created_at", { ascending: false });
+
+  if (
+    routesRes.error &&
+    (routesRes.error.message.includes("days") ||
+      routesRes.error.message.includes("memories") ||
+      routesRes.error.message.includes("visibility"))
+  ) {
+    routesRes = (await supabase
       .from("user_routes")
-      .select("id, title, city, country, route_type, status, travel_date, created_at, route_places")
+      .select(ROUTE_SELECT_LEGACY)
       .eq("user_id", user.id)
-      .order("created_at", { ascending: false }),
-    supabase
-      .from("profiles")
-      .select("email, full_name, avatar_url")
-      .eq("id", user.id)
-      .single(),
-  ]);
+      .order("created_at", { ascending: false })) as typeof routesRes;
+  }
+
+  const profileRes = await supabase
+    .from("profiles")
+    .select("email, full_name, avatar_url")
+    .eq("id", user.id)
+    .single();
 
   const routes = ((routesRes.data ?? []) as SavedRoute[]).map((r) => ({
     ...r,
     route_type: r.route_type ?? "city",
+    days: r.days ?? 0,
+    memories: r.memories ?? "",
+    tips: r.tips ?? "",
+    budget: r.budget ?? "",
+    visibility: r.visibility ?? "private",
   }));
   return {
     saved: routes.filter((r) => r.status === "saved"),

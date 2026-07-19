@@ -5,7 +5,6 @@ import { Link, usePathname } from "@/i18n/navigation";
 import { Compass, Briefcase } from "lucide-react";
 import { SiteLogo } from "@/components/public/site-logo";
 import { LanguageSwitcher } from "@/components/language-switcher";
-import { CORE_LOCALES } from "@/i18n/routing";
 import { UserNav } from "@/components/public/user-nav";
 import { NavTripBadge } from "@/components/public/nav-trip-badge";
 import { cn } from "@/lib/utils";
@@ -50,10 +49,14 @@ export function NavHeader() {
           : undefined
       }
     >
-      <div className="container max-w-7xl mx-auto px-4 sm:px-6 flex items-center justify-between">
-        <Link href="/" className="flex items-center group shrink-0">
-          <SiteLogo dark={dark} />
-        </Link>
+      <div className="container max-w-7xl mx-auto px-4 sm:px-6 flex items-center justify-between gap-3">
+        <div className="flex items-center gap-2 sm:gap-3 min-w-0">
+          <Link href="/" className="flex items-center group shrink-0">
+            <SiteLogo dark={dark} />
+          </Link>
+          {/* Language first — always visible, switches entire UI immediately */}
+          <LanguageSwitcher variant={dark ? "default" : "minimal"} />
+        </div>
 
         <nav className="hidden md:flex items-center gap-7">
           <Link
@@ -89,6 +92,25 @@ export function NavHeader() {
             <NavTripBadge dark={dark} />
           </Link>
           <Link
+            href="/discover"
+            className={cn(
+              "inline-flex items-center gap-1.5 text-[15px] font-semibold transition-colors duration-300",
+              pathname.includes("/discover")
+                ? "font-semibold"
+                : "",
+              dark
+                ? "text-white/70 hover:text-white"
+                : "text-stone-600 hover:text-stone-900"
+            )}
+            style={
+              !dark && pathname.includes("/discover")
+                ? { color: LUXURY.bronze }
+                : undefined
+            }
+          >
+            {t("discover")}
+          </Link>
+          <Link
             href="/adventures"
             className={cn(
               "inline-flex items-center gap-1.5 text-[15px] font-semibold transition-colors duration-300",
@@ -110,7 +132,7 @@ export function NavHeader() {
           </Link>
         </nav>
 
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-2 shrink-0">
           <Link
             href="/my-passport"
             className={cn(
@@ -123,9 +145,6 @@ export function NavHeader() {
             <Briefcase className="w-3.5 h-3.5" />
             <NavTripBadge dark={dark} />
           </Link>
-          {false && CORE_LOCALES.length > 1 && (
-            <LanguageSwitcher variant={dark ? "default" : "minimal"} />
-          )}
           <UserNav dark={dark} />
         </div>
       </div>

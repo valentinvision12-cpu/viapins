@@ -1,5 +1,7 @@
 "use server";
 
+import { unstable_cache } from "next/cache";
+import { createClient as createSupabaseJs } from "@supabase/supabase-js";
 import { createClient } from "@/lib/supabase/server";
 import { createServiceClient } from "@/lib/supabase/service";
 import { slugify } from "@/lib/utils";
@@ -17,13 +19,23 @@ import { pickCityCoverFromPlaces, pickCountryCoversFromCities } from "@/lib/city
 import { isBadImageUrl } from "@/lib/wiki-image";
 import type { DestinationSeo } from "@/lib/seo";
 
+/**
+ * Cookie-free client for public destination reads.
+ * Required inside unstable_cache (cookies() is not allowed there).
+ */
+function createPublicReadClient() {
+  const service = createServiceClient();
+  if (service) return service;
+  const url = process.env.NEXT_PUBLIC_SUPABASE_URL ?? "";
+  const key = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY ?? "";
+  if (!url || !key || url.includes("placeholder")) return null;
+  return createSupabaseJs(url, key);
+}
+
 export interface CountryCard {
-  /** Full display name (no abbreviations) */
   country: string;
   slug: string;
-  /** Primary cover (first landmark) */
   coverImage: string;
-  /** Up to 3 rotating landmark covers */
   coverImages: string[];
   flag: string;
   flagUrl?: string;
@@ -50,7 +62,6 @@ export interface DestinationCard {
   tags: string[];
   coverImage: string;
   placeCount: number;
-  /** SEO slug for the /explore/[country]/[city] route */
   slug: { country: string; city: string };
 }
 
@@ -83,28 +94,42 @@ export interface DestinationDetail {
   }[];
 }
 
-const DESTINATION_LIST_SELECT = `
+/** Light list: no nested places — uses cover_image + place_count when available. */
+const DESTINATION_LIST_LIGHT = `
+  id, city, country, tags, cover_image, place_count, country_slug, city_slug
+`;
+
+const DESTINATION_LIST_LIGHT_NO_SLUG = `
+  id, city, country, tags, cover_image, place_count
+`;
+
+const DESTINATION_LIST_LEGACY_NESTED = `
   id, city, country, tags, cover_image,
   places(id, name, image_url, order_index)
 `;
 
-const DESTINATION_LIST_SELECT_LEGACY = `
+const DESTINATION_LIST_LEGACY_MIN = `
   id, city, country, tags,
   places(id, name, image_url, order_index)
 `;
 
 const DESTINATION_DETAIL_SELECT = `
+  id, city, country, tags, cover_image, seo, country_slug, city_slug,
+  places(id, name, image_url, lat, lng, order_index, translations)
+`;
+
+const DESTINATION_DETAIL_NO_SLUG = `
+  id, city, country, tags, cover_image, seo,
+  places(id, name, image_url, lat, lng, order_index, translations)
+`;
+
+const DESTINATION_DETAIL_LEGACY = `
   id, city, country, tags, cover_image,
   places(id, name, image_url, lat, lng, order_index, translations)
 `;
 
-const DESTINATION_DETAIL_SELECT_LEGACY = `
-  id, city, country, tags,
-  places(id, name, image_url, lat, lng, order_index, translations)
-`;
-
-function missingCoverColumn(error: { message?: string } | null): boolean {
-  return !!error?.message?.includes("cover_image");
+function missingColumn(error: { message?: string } | null, col: string): boolean {
+  return !!error?.message?.includes(col);
 }
 
 function supabaseConfigured(): boolean {
@@ -112,62 +137,140 @@ function supabaseConfigured(): boolean {
   return !!url && !url.includes("placeholder");
 }
 
-/** Fetch all published destinations with their cover image (first place). */
+type DestRow = {
+  id: string;
+  city: string;
+  country: string;
+  tags?: string[] | null;
+  cover_image?: string | null;
+  place_count?: number | null;
+  country_slug?: string | null;
+  city_slug?: string | null;
+  seo?: Record<string, DestinationSeo> | DestinationSeo | null;
+  places?: {
+    id: string;
+    name: string;
+    image_url: string;
+    order_index: number;
+    lat?: number;
+    lng?: number;
+    translations?: DestinationDetail["places"][0]["translations"];
+  }[];
+};
+
+function toDestinationCard(dest: DestRow): DestinationCard {
+  const places = dest.places ?? [];
+  const storedCover = dest.cover_image?.trim() ?? "";
+  const coverImage =
+    storedCover && !isBadImageUrl(storedCover)
+      ? storedCover
+      : pickCityCoverFromPlaces(places);
+  const placeCount =
+    typeof dest.place_count === "number" && dest.place_count > 0
+      ? dest.place_count
+      : places.length;
+
+  return {
+    id: dest.id,
+    city: dest.city,
+    country: dest.country,
+    tags: dest.tags ?? [],
+    coverImage,
+    placeCount,
+    slug: {
+      country: dest.country_slug?.trim() || slugify(dest.country),
+      city: dest.city_slug?.trim() || slugify(dest.city),
+    },
+  };
+}
+
+function toDestinationDetail(dest: DestRow): DestinationDetail {
+  const places = (dest.places ?? []) as DestinationDetail["places"];
+  const storedCover = dest.cover_image?.trim() ?? "";
+  return {
+    id: dest.id,
+    city: dest.city,
+    country: dest.country,
+    tags: dest.tags ?? [],
+    coverImage: storedCover && !isBadImageUrl(storedCover) ? storedCover : "",
+    seo: dest.seo ?? {},
+    places: [...places].sort((a, b) => a.order_index - b.order_index),
+  };
+}
+
+async function fetchPublishedDestinationRows(): Promise<DestRow[]> {
+  const supabase = createPublicReadClient();
+  if (!supabase) return [];
+
+  // Prefer light select (no nested places) — requires migration 007 + 010
+  let { data, error } = await supabase
+    .from("destinations")
+    .select(DESTINATION_LIST_LIGHT)
+    .eq("published", true)
+    .order("country")
+    .order("city");
+
+  if (missingColumn(error, "country_slug") || missingColumn(error, "city_slug")) {
+    const mid = await supabase
+      .from("destinations")
+      .select(DESTINATION_LIST_LIGHT_NO_SLUG)
+      .eq("published", true)
+      .order("country")
+      .order("city");
+    data = mid.data as typeof data;
+    error = mid.error;
+  }
+
+  if (missingColumn(error, "place_count") || missingColumn(error, "cover_image")) {
+    const nested = await supabase
+      .from("destinations")
+      .select(
+        missingColumn(error, "cover_image")
+          ? DESTINATION_LIST_LEGACY_MIN
+          : DESTINATION_LIST_LEGACY_NESTED
+      )
+      .eq("published", true)
+      .order("country")
+      .order("city");
+    data = nested.data as typeof data;
+    error = nested.error;
+  }
+
+  if (error || !data) {
+    if (error) console.error("[fetchPublishedDestinationRows]", error.message);
+    return [];
+  }
+  return data as DestRow[];
+}
+
+/** Fetch all published destinations (light cards — for home / sitemap). */
 export async function getPublishedDestinations(): Promise<DestinationCard[]> {
   if (!supabaseConfigured()) return [];
-
   try {
-    const supabase = await createClient();
-    let { data, error } = await supabase
-      .from("destinations")
-      .select(DESTINATION_LIST_SELECT)
-      .eq("published", true)
-      .order("created_at", { ascending: false });
-
-    if (missingCoverColumn(error)) {
-      const legacy = await supabase
-        .from("destinations")
-        .select(DESTINATION_LIST_SELECT_LEGACY)
-        .eq("published", true)
-        .order("created_at", { ascending: false });
-      data = legacy.data as typeof data;
-      error = legacy.error;
-    }
-
-    if (error || !data) return [];
-
-    return data.map((dest) => {
-      const places = (dest.places ?? []) as {
-        id: string;
-        name: string;
-        image_url: string;
-        order_index: number;
-      }[];
-      const storedCover = (dest as { cover_image?: string }).cover_image?.trim() ?? "";
-      const coverImage =
-        storedCover && !isBadImageUrl(storedCover)
-          ? storedCover
-          : pickCityCoverFromPlaces(places);
-
-      return {
-        id: dest.id,
-        city: dest.city,
-        country: dest.country,
-        tags: dest.tags ?? [],
-        coverImage,
-        placeCount: places.length,
-        slug: {
-          country: slugify(dest.country),
-          city: slugify(dest.city),
-        },
-      };
-    });
+    const rows = await fetchPublishedDestinationRows();
+    return rows.map(toDestinationCard);
   } catch {
     return [];
   }
 }
 
-/** Fetch a destination by SEO slugs (country-slug / city-slug). */
+const getCachedPublishedDestinations = unstable_cache(
+  async () => getPublishedDestinations(),
+  ["published-destinations-v2"],
+  { revalidate: 300, tags: ["destinations"] }
+);
+
+/** Cached home catalog (5 min). Invalidate via revalidateTag("destinations") on publish. */
+export async function getCachedHomeDestinations(): Promise<DestinationCard[]> {
+  if (!supabaseConfigured()) return [];
+  try {
+    return await getCachedPublishedDestinations();
+  } catch {
+    return getPublishedDestinations();
+  }
+}
+
+/** Fetch a destination by SEO slugs — one city only, never the whole world. */
 export async function getDestinationByCityCountry(
   countrySlug: string,
   citySlug: string
@@ -175,22 +278,62 @@ export async function getDestinationByCityCountry(
   if (!supabaseConfigured()) return null;
 
   try {
-    const supabase = await createClient();
-    // Narrow by city first (indexed-friendly), then match slugs in memory.
-    const cityHint = citySlug.replace(/-/g, " ");
-    let { data: candidates, error } = await supabase
+    return await getCachedDestinationBySlugs(countrySlug, citySlug);
+  } catch {
+    return fetchDestinationByCityCountry(countrySlug, citySlug);
+  }
+}
+
+const getCachedDestinationBySlugs = unstable_cache(
+  async (countrySlug: string, citySlug: string) =>
+    fetchDestinationByCityCountry(countrySlug, citySlug),
+  ["destination-by-slugs-v1"],
+  { revalidate: 300, tags: ["destinations"] }
+);
+
+async function fetchDestinationByCityCountry(
+  countrySlug: string,
+  citySlug: string
+): Promise<DestinationDetail | null> {
+  try {
+    const supabase = createPublicReadClient();
+    if (!supabase) return null;
+
+    // Fast path: slug columns (migration 010)
+    const { data: bySlug, error: slugErr } = await supabase
       .from("destinations")
       .select(DESTINATION_DETAIL_SELECT)
       .eq("published", true)
-      .ilike("city", `%${cityHint.split(" ")[0]}%`)
+      .eq("country_slug", countrySlug)
+      .eq("city_slug", citySlug)
+      .maybeSingle();
+
+    if (!slugErr && bySlug) {
+      return toDestinationDetail(bySlug as DestRow);
+    }
+
+    // Missing columns OR empty/unbackfilled slugs → city hint (never full table)
+    const cityHint = citySlug.replace(/-/g, " ").split(" ")[0] || citySlug;
+    const detailSelect =
+      missingColumn(slugErr, "seo") || missingColumn(slugErr, "cover_image")
+        ? DESTINATION_DETAIL_LEGACY
+        : missingColumn(slugErr, "country_slug")
+          ? DESTINATION_DETAIL_NO_SLUG
+          : DESTINATION_DETAIL_NO_SLUG;
+
+    let { data: candidates, error } = await supabase
+      .from("destinations")
+      .select(detailSelect)
+      .eq("published", true)
+      .ilike("city", `%${cityHint}%`)
       .limit(40);
 
-    if (missingCoverColumn(error)) {
+    if (missingColumn(error, "seo") || missingColumn(error, "cover_image")) {
       const legacy = await supabase
         .from("destinations")
-        .select(DESTINATION_DETAIL_SELECT_LEGACY)
+        .select(DESTINATION_DETAIL_LEGACY)
         .eq("published", true)
-        .ilike("city", `%${cityHint.split(" ")[0]}%`)
+        .ilike("city", `%${cityHint}%`)
         .limit(40);
       candidates = legacy.data as typeof candidates;
       error = legacy.error;
@@ -201,45 +344,11 @@ export async function getDestinationByCityCountry(
       return null;
     }
 
-    let match = (candidates ?? []).find(
+    const match = (candidates as DestRow[] | null)?.find(
       (d) =>
         slugify(d.country) === countrySlug && slugify(d.city) === citySlug
     );
-
-    // Fallback if city hint missed (diacritics / unusual names)
-    if (!match) {
-      let { data: all, error: allErr } = await supabase
-        .from("destinations")
-        .select(DESTINATION_DETAIL_SELECT)
-        .eq("published", true);
-      if (missingCoverColumn(allErr)) {
-        const legacy = await supabase
-          .from("destinations")
-          .select(DESTINATION_DETAIL_SELECT_LEGACY)
-          .eq("published", true);
-        all = legacy.data as typeof all;
-        allErr = legacy.error;
-      }
-      if (allErr || !all) return null;
-      match = all.find(
-        (d) =>
-          slugify(d.country) === countrySlug && slugify(d.city) === citySlug
-      );
-    }
-
-    if (!match) return null;
-
-    const places = (match.places ?? []) as DestinationDetail["places"];
-    const storedCover = (match as { cover_image?: string }).cover_image?.trim() ?? "";
-    return {
-      id: match.id,
-      city: match.city,
-      country: match.country,
-      tags: match.tags ?? [],
-      coverImage: storedCover && !isBadImageUrl(storedCover) ? storedCover : "",
-      seo: {},
-      places: [...places].sort((a, b) => a.order_index - b.order_index),
-    };
+    return match ? toDestinationDetail(match) : null;
   } catch (err) {
     console.error("[getDestinationByCityCountry]", err);
     return null;
@@ -253,18 +362,19 @@ export async function getDestinationById(
   if (!supabaseConfigured()) return null;
 
   try {
-    const supabase = await createClient();
+    const supabase = createPublicReadClient();
+    if (!supabase) return null;
     let { data, error } = await supabase
       .from("destinations")
-      .select(DESTINATION_DETAIL_SELECT)
+      .select(DESTINATION_DETAIL_NO_SLUG)
       .eq("id", id)
       .eq("published", true)
       .single();
 
-    if (missingCoverColumn(error)) {
+    if (missingColumn(error, "seo") || missingColumn(error, "cover_image")) {
       const legacy = await supabase
         .from("destinations")
-        .select(DESTINATION_DETAIL_SELECT_LEGACY)
+        .select(DESTINATION_DETAIL_LEGACY)
         .eq("id", id)
         .eq("published", true)
         .single();
@@ -273,18 +383,7 @@ export async function getDestinationById(
     }
 
     if (error || !data) return null;
-
-    const places = (data.places ?? []) as DestinationDetail["places"];
-    const storedCover = (data as { cover_image?: string }).cover_image?.trim() ?? "";
-    return {
-      id: data.id,
-      city: data.city,
-      country: data.country,
-      tags: data.tags ?? [],
-      coverImage: storedCover && !isBadImageUrl(storedCover) ? storedCover : "",
-      seo: {},
-      places: [...places].sort((a, b) => a.order_index - b.order_index),
-    };
+    return toDestinationDetail(data as DestRow);
   } catch {
     return null;
   }
@@ -319,7 +418,9 @@ function sortCountriesFeatured(cards: CountryCard[]): CountryCard[] {
   });
 }
 
-function buildCountryCardsFromDestinations(destinations: DestinationCard[]): CountryCard[] {
+function buildCountryCardsFromDestinations(
+  destinations: DestinationCard[]
+): CountryCard[] {
   const byCountry = groupDestinationsByCountry(destinations);
   const cards: CountryCard[] = [];
 
@@ -344,25 +445,22 @@ function buildCountryCardsFromDestinations(destinations: DestinationCard[]): Cou
   return sortCountriesFeatured(cards);
 }
 
-/** Aggregate published cities into country cards with cover images. */
 export async function getPublishedCountries(): Promise<CountryCard[]> {
-  const destinations = await getPublishedDestinations();
+  const destinations = await getCachedHomeDestinations();
   return buildCountryCardsFromDestinations(destinations);
 }
 
-/** Single DB round-trip for the home page (destinations + country cards). */
 export async function getPublishedHomeData(): Promise<{
   destinations: DestinationCard[];
   countries: CountryCard[];
 }> {
-  const destinations = await getPublishedDestinations();
+  const destinations = await getCachedHomeDestinations();
   return {
     destinations,
     countries: buildCountryCardsFromDestinations(destinations),
   };
 }
 
-/** First N countries for hero quick-picks. */
 export async function getFeaturedCountries(
   limit = TOP_COUNTRIES_HOME
 ): Promise<CountryCard[]> {
@@ -370,79 +468,66 @@ export async function getFeaturedCountries(
   return all.slice(0, limit);
 }
 
-/** Cities in a country (up to 10), for /explore/[country]. */
+/**
+ * Cities in a country for /explore/[country].
+ * No hard cap of 10 — global-ready; UI can paginate later.
+ */
 export async function getCitiesByCountrySlug(
   countrySlug: string
 ): Promise<{ country: string; cities: DestinationCard[] } | null> {
   if (!supabaseConfigured()) return null;
 
   try {
-    const supabase = await createClient();
-    const countryHint = countrySlug.replace(/-/g, " ");
+    const supabase = createPublicReadClient();
+    if (!supabase) return null;
+
+    // Fast path: country_slug equality
     let { data, error } = await supabase
       .from("destinations")
-      .select(DESTINATION_LIST_SELECT)
+      .select(DESTINATION_LIST_LIGHT)
       .eq("published", true)
-      .ilike("country", `%${countryHint.split(" ")[0]}%`);
+      .eq("country_slug", countrySlug)
+      .order("place_count", { ascending: false });
 
-    if (missingCoverColumn(error)) {
-      const legacy = await supabase
+    // Missing columns, query error, OR empty slugs (pre-backfill) → hint fallback
+    const needFallback =
+      missingColumn(error, "country_slug") ||
+      missingColumn(error, "place_count") ||
+      missingColumn(error, "cover_image") ||
+      !!error ||
+      !data?.length;
+
+    if (needFallback) {
+      const countryHint =
+        countrySlug.replace(/-/g, " ").split(" ")[0] || countrySlug;
+      const fallbackSelect =
+        missingColumn(error, "cover_image") || missingColumn(error, "place_count")
+          ? DESTINATION_LIST_LEGACY_MIN
+          : DESTINATION_LIST_LEGACY_NESTED;
+      const fallback = await supabase
         .from("destinations")
-        .select(DESTINATION_LIST_SELECT_LEGACY)
+        .select(fallbackSelect)
         .eq("published", true)
-        .ilike("country", `%${countryHint.split(" ")[0]}%`);
-      data = legacy.data as typeof data;
-      error = legacy.error;
+        .ilike("country", `%${countryHint}%`);
+      data = fallback.data as typeof data;
+      error = fallback.error;
     }
 
-    if (error || !data?.length) {
-      const destinations = await getPublishedDestinations();
-      const cities = destinations.filter((d) => d.slug.country === countrySlug);
-      if (cities.length === 0) return null;
-      return {
-        country: getCountryDisplayName(cities[0].country),
-        cities: cities.slice(0, 10),
-      };
-    }
+    if (error || !data?.length) return null;
 
     const byCitySlug = new Map<string, DestinationCard>();
-    for (const dest of data) {
-      if (slugify(dest.country) !== countrySlug) continue;
-      const citySlug = slugify(dest.city);
-      const places = (dest.places ?? []) as {
-        id: string;
-        name: string;
-        image_url: string;
-        order_index: number;
-      }[];
-      const storedCover =
-        (dest as { cover_image?: string }).cover_image?.trim() ?? "";
-      const coverImage =
-        storedCover && !isBadImageUrl(storedCover)
-          ? storedCover
-          : pickCityCoverFromPlaces(places);
-      const card = {
-        id: dest.id,
-        city: dest.city,
-        country: dest.country,
-        tags: dest.tags ?? [],
-        coverImage,
-        placeCount: places.length,
-        slug: {
-          country: slugify(dest.country),
-          city: citySlug,
-        },
-      } satisfies DestinationCard;
-      const existing = byCitySlug.get(citySlug);
+    for (const dest of data as DestRow[]) {
+      const card = toDestinationCard(dest);
+      if (card.slug.country !== countrySlug) continue;
+      const existing = byCitySlug.get(card.slug.city);
       if (!existing || card.placeCount > existing.placeCount) {
-        byCitySlug.set(citySlug, card);
+        byCitySlug.set(card.slug.city, card);
       }
     }
 
-    const cities = [...byCitySlug.values()]
-      .sort((a, b) => b.placeCount - a.placeCount)
-      .slice(0, 10);
-
+    const cities = [...byCitySlug.values()].sort(
+      (a, b) => b.placeCount - a.placeCount
+    );
     if (cities.length === 0) return null;
     return {
       country: getCountryDisplayName(cities[0].country),
@@ -453,7 +538,6 @@ export async function getCitiesByCountrySlug(
   }
 }
 
-/** Country card by slug (for country page hero). */
 export async function getCountryBySlug(
   countrySlug: string
 ): Promise<CountryCard | null> {
@@ -463,7 +547,6 @@ export async function getCountryBySlug(
   return cards.find((c) => c.slug === countrySlug) ?? cards[0] ?? null;
 }
 
-/** Admin: all destinations with place counts (service role when available). */
 export async function getAllDestinationsForAdmin(): Promise<
   Array<{
     id: string;
@@ -488,14 +571,24 @@ export async function getAllDestinationsForAdmin(): Promise<
       tags,
       published,
       created_at,
+      place_count,
       places(count)
     `)
     .order("country")
     .order("city");
 
   return (data ?? []).map((d) => ({
-    ...d,
+    id: d.id,
+    city: d.city,
+    country: d.country,
+    tags: d.tags ?? [],
+    published: d.published,
+    created_at: d.created_at,
     places_count:
-      (d.places as unknown as { count: number }[])?.[0]?.count ?? 0,
+      (typeof d.place_count === "number" && d.place_count > 0
+        ? d.place_count
+        : null) ??
+      (d.places as unknown as { count: number }[])?.[0]?.count ??
+      0,
   }));
 }

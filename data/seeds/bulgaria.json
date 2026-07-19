@@ -415,17 +415,20 @@
           ]
         },
         {
-          "name": "Cape Kaliakra",
-          "wiki_title": "Cape Kaliakra",
-          "lat": 43.3628,
-          "lng": 28.4661,
-          "seo_phrase": "Cape Kaliakra — dramatic cliff peninsula with fortress ruins on the Black Sea",
+          "name": "Dormition of the Mother of God Cathedral",
+          "wiki_title": "Dormition of the Mother of God Cathedral, Varna",
+          "lat": 43.20527778,
+          "lng": 27.91,
+          "seo_phrase": "Dormition of the Mother of God Cathedral in Varna",
           "seo_keywords": [
-            "Cape Kaliakra",
-            "Kaliakra fortress",
-            "Black Sea cliffs Bulgaria"
+            "Dormition of the Mother of God Cathedral",
+            "Varna",
+            "Bulgaria",
+            "travel"
           ],
-          "commons_file": "Cape Kaliakra Bulgaria.jpg"
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Varna_Cathedral_-_2.jpg/960px-Varna_Cathedral_-_2.jpg",
+          "description": "Dormition of the Mother of God Cathedral is a visitor landmark in Varna, Bulgaria.",
+          "maps_query": "Dormition of the Mother of God Cathedral, Varna, Bulgaria"
         },
         {
           "name": "Naval Museum Varna",
@@ -663,17 +666,19 @@
           "commons_file": "Rila Monastery courtyard.jpg"
         },
         {
-          "name": "Seven Rila Lakes",
-          "wiki_title": "Seven Rila Lakes",
-          "lat": 42.1997,
-          "lng": 23.3264,
-          "seo_phrase": "Seven Rila Lakes — glacial cirque lakes linked by a classic Pirin hike",
+          "name": "Постоянна иконна изложба – гр. Банско",
+          "wiki_title": "Постоянна иконна изложба – гр. Банско",
+          "lat": 41.8361455,
+          "lng": 23.4881748,
+          "seo_phrase": "Постоянна иконна изложба – гр. Банско in Bansko",
           "seo_keywords": [
-            "Seven Rila Lakes",
-            "Rila Lakes hike",
-            "Bulgaria mountain lakes"
+            "Постоянна иконна изложба – гр. Банско",
+            "Bansko",
+            "Bulgaria",
+            "travel"
           ],
-          "commons_file": "Seven Rila Lakes Bulgaria.jpg"
+          "description": "Постоянна иконна изложба – гр. Банско is a visitor landmark in Bansko, Bulgaria.",
+          "maps_query": "Постоянна иконна изложба – гр. Банско, Bansko, Bulgaria"
         },
         {
           "name": "Pirin National Park",
@@ -1231,125 +1236,263 @@
       },
       "places": [
         {
-          "name": "Melnik",
-          "wiki_title": "Melnik, Bulgaria",
-          "lat": 42.5228,
-          "lng": 23.3928,
-          "seo_phrase": "Melnik — Bulgaria's smallest town among towering sand pyramids",
-          "seo_keywords": [
-            "Melnik Bulgaria",
-            "Melnik town",
-            "smallest town Bulgaria"
-          ],
-          "commons_file": "Melnik 2011.jpg"
-        },
-        {
-          "name": "Melnik Sand Pyramids",
-          "wiki_title": "Melnik Pyramids",
-          "lat": 42.5236,
-          "lng": 23.395,
-          "seo_phrase": "Melnik Sand Pyramids — natural rock formations framing the wine town",
-          "seo_keywords": [
-            "Melnik Pyramids",
-            "sand pyramids Bulgaria",
-            "Melnik geology"
-          ]
-        },
-        {
           "name": "Kordopulov House",
           "wiki_title": "Kordopulov House",
-          "lat": 42.5231,
-          "lng": 23.3936,
-          "seo_phrase": "Kordopulov House — largest Revival house in Bulgaria with a historic wine cellar",
+          "lat": 41.5245,
+          "lng": 23.3948,
+          "order_index": 0,
+          "description": "Famous Revival-era merchant house with a large wine cellar in Melnik.",
+          "seo_phrase": "Kordopulov House Melnik",
           "seo_keywords": [
-            "Kordopulov House Melnik",
-            "Melnik wine cellar",
-            "Bulgarian Revival mansion"
-          ]
+            "Kordopulov House",
+            "Melnik",
+            "Bulgaria"
+          ],
+          "type": "museum",
+          "maps_query": "Kordopulov House, Melnik, Bulgaria",
+          "seo_priority": 90,
+          "search_intent": [
+            "travel_planning"
+          ],
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Melnik Earth Pyramids",
+          "wiki_title": "Melnik Earth Pyramids",
+          "lat": 41.528,
+          "lng": 23.405,
+          "order_index": 1,
+          "description": "Dramatic sand and clay pyramids overlooking the town of Melnik.",
+          "seo_phrase": "Melnik Earth Pyramids",
+          "seo_keywords": [
+            "Melnik pyramids",
+            "Bulgaria"
+          ],
+          "type": "viewpoint",
+          "maps_query": "Melnik Earth Pyramids, Bulgaria",
+          "seo_priority": 92,
+          "search_intent": [
+            "travel_planning"
+          ],
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
         },
         {
           "name": "Rozhen Monastery",
           "wiki_title": "Rozhen Monastery",
-          "lat": 42.5339,
-          "lng": 23.4083,
-          "seo_phrase": "Rozhen Monastery — medieval monastery with views over the Melnik pyramids",
+          "lat": 41.5308,
+          "lng": 23.4256,
+          "order_index": 2,
+          "description": "Medieval Orthodox monastery a short drive northeast of Melnik.",
+          "seo_phrase": "Rozhen Monastery near Melnik",
           "seo_keywords": [
             "Rozhen Monastery",
-            "Melnik day trip",
-            "Bulgarian monastery"
-          ]
+            "Melnik"
+          ],
+          "type": "church",
+          "maps_query": "Rozhen Monastery, Bulgaria",
+          "seo_priority": 88,
+          "search_intent": [
+            "travel_planning"
+          ],
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
         },
         {
-          "name": "Melnik Fortress",
-          "wiki_title": "Melnik Fortress",
-          "lat": 42.5222,
-          "lng": 23.3917,
-          "seo_phrase": "Melnik Fortress — ruined hilltop citadel above the wine town",
+          "name": "Melnik Historical Museum",
+          "wiki_title": "Melnik, Bulgaria",
+          "lat": 41.5238,
+          "lng": 23.3939,
+          "order_index": 3,
+          "description": "Town history museum in a Revival house in central Melnik.",
+          "seo_phrase": "Melnik Historical Museum",
           "seo_keywords": [
-            "Melnik Fortress",
-            "Slav fortress Melnik",
-            "Melnik history"
-          ]
+            "Melnik museum"
+          ],
+          "type": "museum",
+          "maps_query": "Historical Museum, Melnik, Bulgaria",
+          "seo_priority": 85,
+          "search_intent": [
+            "travel_planning"
+          ],
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
         },
         {
-          "name": "St. Nicholas Church",
-          "wiki_title": "Church of St Nicholas, Melnik",
-          "lat": 42.5225,
+          "name": "Church of St Nicholas",
+          "wiki_title": "Melnik, Bulgaria",
+          "lat": 41.5252,
           "lng": 23.3925,
-          "seo_phrase": "St. Nicholas Church — historic church in the heart of old Melnik",
+          "order_index": 4,
+          "description": "Historic church remains above the old town of Melnik.",
+          "seo_phrase": "St Nicholas Church Melnik",
           "seo_keywords": [
-            "St Nicholas Church Melnik",
-            "Melnik church",
-            "Bulgarian Orthodox Melnik"
-          ]
+            "St Nicholas Melnik"
+          ],
+          "type": "church",
+          "maps_query": "Church of St Nicholas, Melnik, Bulgaria",
+          "seo_priority": 84,
+          "search_intent": [
+            "travel_planning"
+          ],
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
         },
         {
-          "name": "Melnik Wine Cellars",
-          "wiki_title": "Melnik wine",
-          "lat": 42.5233,
-          "lng": 23.3933,
-          "seo_phrase": "Melnik Wine Cellars — taste indigenous Broad-leaved Melnik wine underground",
+          "name": "Byzantine House",
+          "wiki_title": "Melnik, Bulgaria",
+          "lat": 41.5249,
+          "lng": 23.3918,
+          "order_index": 5,
+          "description": "One of the oldest civilian buildings in the Balkans, in Melnik old town.",
+          "seo_phrase": "Byzantine House Melnik",
           "seo_keywords": [
-            "Melnik wine",
-            "Broad-leaved Melnik wine",
-            "Bulgarian wine tasting"
-          ]
+            "Byzantine House",
+            "Melnik"
+          ],
+          "type": "historic_site",
+          "maps_query": "Byzantine House, Melnik, Bulgaria",
+          "seo_priority": 86,
+          "search_intent": [
+            "travel_planning"
+          ],
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
         },
         {
-          "name": "Melnik History Museum",
-          "wiki_title": "Melnik History Museum",
-          "lat": 42.5228,
-          "lng": 23.3931,
-          "seo_phrase": "Melnik History Museum — local history from Thracian times to wine fame",
+          "name": "Roman Bridge",
+          "wiki_title": "Melnik, Bulgaria",
+          "lat": 41.5225,
+          "lng": 23.3928,
+          "order_index": 6,
+          "description": "Preserved Roman bridge on the approach into Melnik.",
+          "seo_phrase": "Roman Bridge Melnik",
           "seo_keywords": [
-            "Melnik museum",
-            "Melnik history",
-            "Pirin foothills culture"
-          ]
+            "Roman Bridge",
+            "Melnik"
+          ],
+          "type": "bridge",
+          "maps_query": "Roman Bridge, Melnik, Bulgaria",
+          "seo_priority": 83,
+          "search_intent": [
+            "travel_planning"
+          ],
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": []
         },
         {
-          "name": "Despot Slav's Fortress",
-          "wiki_title": "Despot Slav",
-          "lat": 42.5217,
-          "lng": 23.3911,
-          "seo_phrase": "Despot Slav's Fortress — medieval ruins linked to a local Bulgarian ruler",
+          "name": "Despot Slav Fortress",
+          "wiki_title": "Melnik, Bulgaria",
+          "lat": 41.5275,
+          "lng": 23.3905,
+          "order_index": 7,
+          "description": "Ruins of the medieval fortress of Despot Alexius Slav above Melnik.",
+          "seo_phrase": "Despot Slav Fortress Melnik",
           "seo_keywords": [
-            "Despot Slav fortress",
-            "Melnik medieval ruins",
-            "Bulgarian fortress"
-          ]
+            "Despot Slav",
+            "Melnik fortress"
+          ],
+          "type": "historic_site",
+          "maps_query": "Despot Slav Fortress, Melnik, Bulgaria",
+          "seo_priority": 84,
+          "search_intent": [
+            "travel_planning"
+          ],
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": []
         },
         {
-          "name": "Melnik Viewpoint",
-          "wiki_title": "Melnik Pyramids",
-          "lat": 42.525,
-          "lng": 23.3967,
-          "seo_phrase": "Melnik Viewpoint — panoramic lookout over sand pyramids and vineyards",
+          "name": "SS Peter and Paul Church",
+          "wiki_title": "Melnik, Bulgaria",
+          "lat": 41.5232,
+          "lng": 23.3945,
+          "order_index": 8,
+          "description": "19th-century Orthodox church in the heart of Melnik.",
+          "seo_phrase": "SS Peter and Paul Church Melnik",
           "seo_keywords": [
-            "Melnik viewpoint",
-            "Melnik photo spot",
-            "Pirin wine region"
-          ]
+            "Peter and Paul Church",
+            "Melnik"
+          ],
+          "type": "church",
+          "maps_query": "Church of Saints Peter and Paul, Melnik, Bulgaria",
+          "seo_priority": 82,
+          "search_intent": [
+            "travel_planning"
+          ],
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 0.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Villa Melnik Winery",
+          "wiki_title": "Melnik, Bulgaria",
+          "lat": 41.512,
+          "lng": 23.385,
+          "order_index": 9,
+          "description": "Working winery producing Broad Leaf Melnik wines just outside town.",
+          "seo_phrase": "Villa Melnik Winery",
+          "seo_keywords": [
+            "Villa Melnik",
+            "wine"
+          ],
+          "type": "landmark",
+          "maps_query": "Villa Melnik Winery, Bulgaria",
+          "seo_priority": 80,
+          "search_intent": [
+            "travel_planning"
+          ],
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
         }
       ]
     },

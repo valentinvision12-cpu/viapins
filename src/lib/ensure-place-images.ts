@@ -11,17 +11,15 @@ type PlaceLike = {
 };
 
 /**
- * Best-effort: fill missing/bad landmark images before render (max ~2.5s).
- * Persists successful URLs so later visits stay fast.
+ * Best-effort: fill ONLY empty image_urls before render (max ~1.2s).
+ * Bad URLs are left to PlaceCard client fallback so TTFB stays fast.
  */
 export async function ensurePlacesHaveImages<T extends PlaceLike>(
   places: T[],
   city: string,
   country: string
 ): Promise<T[]> {
-  const needs = places.filter(
-    (p) => !p.image_url?.trim() || isBadImageUrl(p.image_url)
-  );
+  const needs = places.filter((p) => !p.image_url?.trim());
   if (needs.length === 0) return places;
 
   const supabase = createServiceClient();
@@ -33,7 +31,7 @@ export async function ensurePlacesHaveImages<T extends PlaceLike>(
 
   const updates = new Map<string, string>();
 
-  const work = needs.slice(0, 6).map(async (place) => {
+  const work = needs.slice(0, 3).map(async (place) => {
     const en = place.translations?.en;
     try {
       const url = await resolvePlaceImage(
@@ -66,7 +64,7 @@ export async function ensurePlacesHaveImages<T extends PlaceLike>(
 
   await Promise.race([
     Promise.all(work),
-    new Promise((r) => setTimeout(r, 2500)),
+    new Promise((r) => setTimeout(r, 1200)),
   ]);
 
   if (updates.size === 0) return places;

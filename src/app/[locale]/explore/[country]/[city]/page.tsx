@@ -49,7 +49,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     topPlaceNames: destination.places.map((p) => p.name),
   });
 
-  const heroImage = destination.places[0]?.image_url ?? "";
+  const heroImage =
+    ("coverImage" in destination && destination.coverImage) ||
+    destination.places[0]?.image_url ||
+    "";
   const pageUrl = buildCityPageUrl(locale, country, city);
   const alternates = buildLocaleAlternates(`/explore/${country}/${city}`);
 
@@ -266,6 +269,24 @@ export default async function ExploreCityPage({ params }: Props) {
           <p className="text-stone-600 text-base leading-relaxed mb-8 max-w-3xl">
             {seo.intro}
           </p>
+
+          <div className="mb-8 flex flex-wrap gap-2">
+            {(
+              [
+                ["things-to-do", "Things to do"],
+                ["3-day-itinerary", "3-day itinerary"],
+                ["hidden-gems", "Hidden gems"],
+              ] as const
+            ).map(([slug, label]) => (
+              <Link
+                key={slug}
+                href={`/explore/${country}/${city}/guide/${slug}`}
+                className="rounded-full border border-stone-200 bg-white px-3.5 py-1.5 text-xs font-semibold text-stone-700 transition-colors hover:border-amber-300 hover:text-amber-800"
+              >
+                {label}
+              </Link>
+            ))}
+          </div>
 
           <div className="flex items-center gap-2.5 mb-6">
             <Compass

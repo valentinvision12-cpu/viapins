@@ -1568,20 +1568,20 @@
           ]
         },
         {
-          "name": "Montenegro",
-          "wiki_title": "Montenegro",
-          "lat": 42.5,
-          "lng": 19.3,
+          "name": "Sveti Marko Island",
+          "wiki_title": "Sveti Marko Island",
+          "lat": 42.4111,
+          "lng": 18.6917,
           "order_index": 3,
-          "description": "Montenegro — a notable landmark in Tivat, Montenegro.",
-          "seo_phrase": "Montenegro",
+          "description": "Sveti Marko Island is a visitor landmark in Tivat, Montenegro.",
+          "seo_phrase": "Sveti Marko Island in Tivat",
           "seo_keywords": [
+            "Sveti Marko Island",
             "Tivat",
             "Montenegro",
             "travel"
           ],
-          "commons_file": "Flag of Montenegro.svg/800px-Flag of Montenegro.svg.png",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/800px-Flag_of_Montenegro.svg.png",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Tivat_Sv._Marko_Gospa_od_Milosti.jpg/960px-Tivat_Sv._Marko_Gospa_od_Milosti.jpg",
           "seo_priority": 85,
           "search_intent": [
             "travel_planning",
@@ -1595,7 +1595,8 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "maps_query": "Sveti Marko Island, Tivat, Montenegro"
         },
         {
           "name": "Kotor",
@@ -3253,304 +3254,249 @@
       },
       "places": [
         {
-          "name": "Žabljak Town Square",
-          "wiki_title": "Žabljak",
-          "lat": 43.1554,
-          "lng": 19.1221,
+          "name": "Black Lake",
+          "wiki_title": "Black Lake (Montenegro)",
+          "lat": 43.1436,
+          "lng": 19.0947,
           "order_index": 0,
-          "description": "A charming alpine town center square surrounded by mountain-style architecture.",
-          "seo_phrase": "Žabljak Town Square: Gateway to Durmitor National Park",
+          "description": "Glacial lake at the foot of Durmitor, the most famous walk from Žabljak.",
+          "seo_phrase": "Black Lake Durmitor Žabljak",
           "seo_keywords": [
-            "zabljak town square",
-            "durmitor gateway",
-            "highest town montenegro",
-            "alpine town plazas"
+            "Black Lake",
+            "Crno jezero",
+            "Durmitor"
           ],
-          "commons_file": "Zabljak Town Square.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Zabljak_Town_Square.jpg",
-          "seo_priority": 85,
+          "type": "nature",
+          "maps_query": "Black Lake, Žabljak, Montenegro",
+          "seo_priority": 95,
           "search_intent": [
-            "navigational",
             "travel_planning"
           ],
-          "type": "landmark",
           "best_season": [
             "spring",
             "summer",
-            "autumn",
-            "winter"
+            "autumn"
           ],
-          "visit_duration_hours": 1,
-          "nearby_places": [
-            "Black Lake (Crno Jezero)"
-          ]
+          "visit_duration_hours": 2,
+          "nearby_places": []
         },
         {
-          "name": "Nikšić",
-          "wiki_title": "Nikšić",
-          "lat": 42.77777778,
-          "lng": 18.95,
+          "name": "Durmitor National Park",
+          "wiki_title": "Durmitor",
+          "lat": 43.15,
+          "lng": 19.05,
           "order_index": 1,
-          "description": "Nikšić — a notable landmark in Žabljak, Montenegro.",
-          "seo_phrase": "Nikšić",
+          "description": "UNESCO national park of peaks, canyons and glacial lakes around Žabljak.",
+          "seo_phrase": "Durmitor National Park",
           "seo_keywords": [
-            "Žabljak",
-            "Montenegro",
-            "travel"
+            "Durmitor",
+            "UNESCO",
+            "Žabljak"
           ],
-          "commons_file": "Nikšić.jpg/800px-Nikšić.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Nik%C5%A1i%C4%87.jpg/800px-Nik%C5%A1i%C4%87.jpg",
-          "seo_priority": 85,
+          "type": "nature",
+          "maps_query": "Durmitor National Park, Montenegro",
+          "seo_priority": 94,
           "search_intent": [
-            "travel_planning",
             "travel_planning"
           ],
-          "type": "landmark",
           "best_season": [
-            "spring",
             "summer",
-            "autumn",
-            "winter"
+            "autumn"
           ],
-          "visit_duration_hours": 1,
+          "visit_duration_hours": 4,
           "nearby_places": []
         },
         {
-          "name": "Golubovci",
-          "wiki_title": "Golubovci",
-          "lat": 42.33444444,
-          "lng": 19.22527778,
+          "name": "Tara Canyon",
+          "wiki_title": "Tara River Canyon",
+          "lat": 43.2,
+          "lng": 19.15,
           "order_index": 2,
-          "description": "Golubovci — a notable landmark in Žabljak, Montenegro.",
-          "seo_phrase": "Golubovci",
+          "description": "One of Europe's deepest river canyons, near Žabljak and Durmitor.",
+          "seo_phrase": "Tara Canyon Montenegro",
           "seo_keywords": [
-            "Žabljak",
-            "Montenegro",
-            "travel"
+            "Tara Canyon",
+            "rafting"
           ],
-          "commons_file": "Podgorica airport.jpg/800px-Podgorica airport.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Podgorica_airport.jpg/800px-Podgorica_airport.jpg",
-          "seo_priority": 85,
+          "type": "viewpoint",
+          "maps_query": "Tara Canyon, Montenegro",
+          "seo_priority": 90,
           "search_intent": [
-            "travel_planning",
             "travel_planning"
           ],
-          "type": "landmark",
           "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
+            "summer"
           ],
-          "visit_duration_hours": 1,
+          "visit_duration_hours": 3,
           "nearby_places": []
         },
         {
-          "name": "Žabljak Crnojevića",
-          "wiki_title": "Žabljak Crnojevića",
-          "lat": 42.317,
-          "lng": 19.158,
+          "name": "Đurđevića Tara Bridge",
+          "wiki_title": "Đurđevića Tara Bridge",
+          "lat": 43.1506,
+          "lng": 19.2947,
           "order_index": 3,
-          "description": "Žabljak Crnojevića — a notable landmark in Žabljak, Montenegro.",
-          "seo_phrase": "Žabljak Crnojevića",
+          "description": "Dramatic concrete arch bridge over the Tara Canyon.",
+          "seo_phrase": "Djurdjevica Tara Bridge",
           "seo_keywords": [
-            "Žabljak",
-            "Montenegro",
-            "travel"
+            "Tara Bridge",
+            "Montenegro"
           ],
-          "commons_file": "Zabljak 1860 c.jpg/800px-Zabljak 1860 c.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Zabljak_1860_c.jpg/800px-Zabljak_1860_c.jpg",
-          "seo_priority": 85,
+          "type": "bridge",
+          "maps_query": "Đurđevića Tara Bridge, Montenegro",
+          "seo_priority": 88,
           "search_intent": [
-            "travel_planning",
             "travel_planning"
           ],
-          "type": "landmark",
           "best_season": [
             "spring",
             "summer",
-            "autumn",
-            "winter"
+            "autumn"
           ],
           "visit_duration_hours": 1,
           "nearby_places": []
         },
         {
-          "name": "Siege of Shkodra",
-          "wiki_title": "Siege of Shkodra",
-          "lat": 42.0465,
-          "lng": 19.4935,
+          "name": "Savin Kuk",
+          "wiki_title": "Durmitor",
+          "lat": 43.122,
+          "lng": 19.1,
           "order_index": 4,
-          "description": "Siege of Shkodra — a notable landmark in Žabljak, Montenegro.",
-          "seo_phrase": "Siege of Shkodra",
+          "description": "Popular Durmitor peak and ski area above Žabljak.",
+          "seo_phrase": "Savin Kuk Žabljak",
           "seo_keywords": [
-            "Žabljak",
-            "Montenegro",
-            "travel"
+            "Savin Kuk",
+            "ski"
           ],
-          "commons_file": "\"I Turchi respinti da Scutari\" Gatteri's Etching of the Siege of Shkodra.jpg/800px-\"I Turchi respinti da Scutari\" Gatteri's Etching of the Siege of Shkodra.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/%22I_Turchi_respinti_da_Scutari%22_Gatteri%27s_Etching_of_the_Siege_of_Shkodra.jpg/800px-%22I_Turchi_respinti_da_Scutari%22_Gatteri%27s_Etching_of_the_Siege_of_Shkodra.jpg",
-          "seo_priority": 85,
+          "type": "viewpoint",
+          "maps_query": "Savin Kuk, Žabljak, Montenegro",
+          "seo_priority": 86,
           "search_intent": [
-            "travel_planning",
             "travel_planning"
           ],
-          "type": "landmark",
           "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
+            "winter",
+            "summer"
           ],
-          "visit_duration_hours": 1,
+          "visit_duration_hours": 3,
           "nearby_places": []
         },
         {
-          "name": "Shkodër",
-          "wiki_title": "Shkodër",
-          "lat": 42.06805556,
-          "lng": 19.51194444,
-          "order_index": 5,
-          "description": "Shkodër — a notable landmark in Žabljak, Montenegro.",
-          "seo_phrase": "Shkodër",
-          "seo_keywords": [
-            "Žabljak",
-            "Montenegro",
-            "travel"
-          ],
-          "commons_file": "The City and the Prokletije from the castle.jpg/800px-The City and the Prokletije from the castle.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/The_City_and_the_Prokletije_from_the_castle.jpg/800px-The_City_and_the_Prokletije_from_the_castle.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Pljevlja",
-          "wiki_title": "Pljevlja",
-          "lat": 43.35666667,
-          "lng": 19.35833333,
-          "order_index": 6,
-          "description": "Pljevlja — a notable landmark in Žabljak, Montenegro.",
-          "seo_phrase": "Pljevlja",
-          "seo_keywords": [
-            "Žabljak",
-            "Montenegro",
-            "travel"
-          ],
-          "commons_file": "Pljevlja Crkva.jpg/800px-Pljevlja Crkva.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pljevlja_Crkva.jpg/800px-Pljevlja_Crkva.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Lesendro",
-          "wiki_title": "Lesendro",
-          "lat": 42.2716,
-          "lng": 19.1197,
-          "order_index": 7,
-          "description": "Lesendro — a notable landmark in Žabljak, Montenegro.",
-          "seo_phrase": "Lesendro",
-          "seo_keywords": [
-            "Žabljak",
-            "Montenegro",
-            "travel"
-          ],
-          "commons_file": "Belgrad-BarLineCrossingSkutariLake.jpg/800px-Belgrad-BarLineCrossingSkutariLake.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Belgrad-BarLineCrossingSkutariLake.jpg/800px-Belgrad-BarLineCrossingSkutariLake.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "landmark",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Žabljak",
+          "name": "Church of the Holy Transfiguration",
           "wiki_title": "Žabljak",
-          "lat": 43.155011,
-          "lng": 19.120846,
-          "order_index": 8,
-          "description": "Žabljak — a notable landmark in Žabljak, Montenegro.",
-          "seo_phrase": "Žabljak",
+          "lat": 43.1545,
+          "lng": 19.123,
+          "order_index": 5,
+          "description": "Orthodox church in the centre of Žabljak town.",
+          "seo_phrase": "Church Žabljak",
           "seo_keywords": [
-            "Žabljak",
-            "Montenegro",
-            "travel"
+            "Žabljak church"
           ],
-          "commons_file": "Žabljak, Montenegro - main square.jpg/800px-Žabljak, Montenegro - main square.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%C5%BDabljak%2C_Montenegro_-_main_square.jpg/800px-%C5%BDabljak%2C_Montenegro_-_main_square.jpg",
-          "seo_priority": 85,
+          "type": "church",
+          "maps_query": "Church of the Holy Transfiguration, Žabljak, Montenegro",
+          "seo_priority": 80,
           "search_intent": [
-            "travel_planning",
             "travel_planning"
           ],
-          "type": "landmark",
           "best_season": [
             "spring",
             "summer",
-            "autumn",
-            "winter"
+            "autumn"
           ],
-          "visit_duration_hours": 1,
+          "visit_duration_hours": 0.5,
           "nearby_places": []
         },
         {
-          "name": "Rijeka Crnojevića",
-          "wiki_title": "Rijeka Crnojevića",
-          "lat": 42.35,
-          "lng": 19.03333333,
-          "order_index": 9,
-          "description": "Rijeka Crnojevića — a notable landmark in Žabljak, Montenegro.",
-          "seo_phrase": "Rijeka Crnojevića",
+          "name": "Barno Lake",
+          "wiki_title": "Durmitor",
+          "lat": 43.155,
+          "lng": 19.08,
+          "order_index": 6,
+          "description": "Quiet Durmitor lake near Žabljak, popular for walks and photos.",
+          "seo_phrase": "Barno Lake Durmitor",
           "seo_keywords": [
-            "Žabljak",
-            "Montenegro",
-            "travel"
+            "Barno Lake",
+            "Durmitor"
           ],
-          "commons_file": "Environment in and around Rijeka Crnojevića 06.jpg/800px-Environment in and around Rijeka Crnojevića 06.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Environment_in_and_around_Rijeka_Crnojevi%C4%87a_06.jpg/800px-Environment_in_and_around_Rijeka_Crnojevi%C4%87a_06.jpg",
-          "seo_priority": 85,
+          "type": "nature",
+          "maps_query": "Barno Lake, Žabljak, Montenegro",
+          "seo_priority": 82,
           "search_intent": [
-            "travel_planning",
             "travel_planning"
           ],
-          "type": "landmark",
           "best_season": [
-            "spring",
             "summer",
-            "autumn",
-            "winter"
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Zminje Lake",
+          "wiki_title": "Durmitor",
+          "lat": 43.16,
+          "lng": 19.07,
+          "order_index": 7,
+          "description": "Forest lake on a scenic hiking trail from Žabljak.",
+          "seo_phrase": "Zminje Lake Durmitor",
+          "seo_keywords": [
+            "Zminje Lake"
+          ],
+          "type": "nature",
+          "maps_query": "Zminje Lake, Žabljak, Montenegro",
+          "seo_priority": 81,
+          "search_intent": [
+            "travel_planning"
+          ],
+          "best_season": [
+            "summer"
+          ],
+          "visit_duration_hours": 2,
+          "nearby_places": []
+        },
+        {
+          "name": "Jablan Lake",
+          "wiki_title": "Durmitor",
+          "lat": 43.14,
+          "lng": 19.06,
+          "order_index": 8,
+          "description": "Alpine lake on Durmitor trails southwest of Žabljak.",
+          "seo_phrase": "Jablan Lake Durmitor",
+          "seo_keywords": [
+            "Jablan Lake"
+          ],
+          "type": "nature",
+          "maps_query": "Jablan Lake, Durmitor, Montenegro",
+          "seo_priority": 80,
+          "search_intent": [
+            "travel_planning"
+          ],
+          "best_season": [
+            "summer"
+          ],
+          "visit_duration_hours": 2.5,
+          "nearby_places": []
+        },
+        {
+          "name": "Momčilov Grad viewpoint",
+          "wiki_title": "Žabljak",
+          "lat": 43.15,
+          "lng": 19.13,
+          "order_index": 9,
+          "description": "Local viewpoint over Žabljak and the Durmitor massif.",
+          "seo_phrase": "Momčilov Grad Žabljak",
+          "seo_keywords": [
+            "viewpoint Žabljak"
+          ],
+          "type": "viewpoint",
+          "maps_query": "Momčilov Grad, Žabljak, Montenegro",
+          "seo_priority": 78,
+          "search_intent": [
+            "travel_planning"
+          ],
+          "best_season": [
+            "summer",
+            "autumn"
           ],
           "visit_duration_hours": 1,
           "nearby_places": []

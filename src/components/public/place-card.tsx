@@ -3,17 +3,20 @@
 import { useState, useEffect } from "react";
 import Image from "next/image";
 import { motion, AnimatePresence } from "framer-motion";
-import { BookOpen, ChevronDown, Plus, Check, ExternalLink, Heart } from "lucide-react";
+import { BookOpen, ChevronDown, Plus, Check, ExternalLink, Heart, Star } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { useRouteCart } from "@/lib/context/route-cart-context";
 import { useFavorites } from "@/lib/context/favorites-context";
 import { isBadImageUrl } from "@/lib/wiki-image";
-import { verifyPlaceImage } from "@/lib/place-image-verify";
 import { fallbackImageUrl } from "@/lib/fallback-image";
 import { buildPlaceSeo } from "@/lib/seo";
 import { wikipediaUrl } from "@/lib/place-links";
 import { MapsPlaceLink } from "@/components/public/maps-place-link";
+import { PassportPostComposer } from "@/components/public/passport-post-composer";
+import { Link } from "@/i18n/navigation";
 import { getPlaceContent } from "@/lib/content-locale";
+import { placeSlug } from "@/lib/place-slug";
+import { slugify } from "@/lib/utils";
 
 interface PlaceData {
   id: string;
@@ -47,25 +50,24 @@ interface Props {
 export function PlaceCard({ place, locale, city, country, index }: Props) {
   const t = useTranslations("route");
   const tPlace = useTranslations("place");
+  const tTrip = useTranslations("myTrip");
   const [wikiOpen, setWikiOpen] = useState(false);
+  const [reviewOpen, setReviewOpen] = useState(false);
   const fallback = fallbackImageUrl(`${place.name}-${city}`);
   const [imgSrc, setImgSrc] = useState(place.image_url || fallback);
   const { addItem, removeItem, isInCart } = useRouteCart();
-  const { isFavorite, toggleFavorite, isLoggedIn } = useFavorites();
+  const { isFavorite, toggleFavorite, isLoggedIn, favorites } = useFavorites();
 
   useEffect(() => {
     setImgSrc(place.image_url || fallback);
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [place.image_url]);
 
+  // Only fetch when image is missing/bad — skip geo-verify on the hot path
+  // (false positives from Wikimedia filenames caused N API calls per city).
   useEffect(() => {
     const url = place.image_url?.trim() ?? "";
-    const ctx = { placeName: place.name, city, country };
-    const needsFix =
-      !url ||
-      isBadImageUrl(url) ||
-      !verifyPlaceImage(ctx, url).ok;
-    if (!needsFix) return;
+    if (url && !isBadImageUrl(url)) return;
     let cancelled = false;
     fetch(`/api/places/${place.id}/image`)
       .then((r) => r.json())
@@ -76,7 +78,7 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
     return () => {
       cancelled = true;
     };
-  }, [place.id, place.image_url, place.name, city, country]);
+  }, [place.id, place.image_url]);
 
   const inTrip = isInCart(place.id);
   const { description, wiki_text, wiki_title, maps_query, maps_url } = getPlaceContent(place.translations, locale);
@@ -84,7 +86,7 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
     name: place.name,
     city,
     country,
-    locale: "en",
+    locale,
     translations: place.translations,
   });
 
@@ -183,7 +185,12 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
           <div className="flex items-start justify-between gap-3 mb-2">
             <div className="flex-1 min-w-0">
               <h3 className="text-stone-900 font-bold text-base sm:text-lg leading-tight">
-                {place.name}
+                <Link
+                  href={`/explore/${slugify(country)}/${slugify(city)}/${placeSlug(place.name, place.id)}`}
+                  className="hover:underline"
+                >
+                  {place.name}
+                </Link>
               </h3>
               <MapsPlaceLink
                 lat={place.lat}
@@ -216,6 +223,19 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
                 <Heart
                   className={`w-4 h-4 ${isFav ? "fill-red-500 text-red-500" : "text-stone-400"}`}
                 />
+              </motion.button>
+
+              <motion.button
+                type="button"
+                onClick={() => setReviewOpen(true)}
+                whileTap={{ scale: 0.96 }}
+                title={tTrip("passportPostReviewPlace")}
+                className={`w-11 h-11 rounded-xl border flex items-center justify-center transition-all border-stone-200 bg-white hover:border-amber-300 ${
+                  !isLoggedIn ? "opacity-40 cursor-not-allowed" : ""
+                }`}
+                disabled={!isLoggedIn}
+              >
+                <Star className="w-4 h-4 text-amber-500" />
               </motion.button>
 
               <motion.button
@@ -293,6 +313,19 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
           )}
         </div>
       </div>
+
+      <PassportPostComposer
+        favorites={favorites}
+        open={reviewOpen}
+        onClose={() => setReviewOpen(false)}
+        initialPlace={{
+          place_id: place.id,
+          name: place.name,
+          city,
+          country,
+          image_url: place.image_url || imgSrc,
+        }}
+      />
     </motion.article>
   );
 }

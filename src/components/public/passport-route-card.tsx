@@ -2,6 +2,7 @@
 
 import { useState, useTransition, useCallback, useMemo, useEffect } from "react";
 import Image from "next/image";
+import { IMAGE_UNOPTIMIZED } from "@/lib/image-runtime";
 import { useRouter } from "next/navigation";
 import { useTranslations } from "next-intl";
 import { motion, AnimatePresence } from "framer-motion";
@@ -25,11 +26,17 @@ import { CSS } from "@dnd-kit/utilities";
 import {
   GripVertical, Stamp, Trash2,
   Check, Loader2, X, Code2, Copy, Map, ListOrdered, AlertTriangle,
-  ChevronDown, Circle, Car, Compass, MapPin, Download,
+  ChevronDown, Circle, Car, Compass, MapPin, Download, Sparkles, NotebookPen,
 } from "lucide-react";
-import { markRouteVisitedAction, deleteRouteAction, togglePlaceVisitedAction } from "@/actions/save-route";
+import {
+  markRouteVisitedAction,
+  deleteRouteAction,
+  togglePlaceVisitedAction,
+  cloneRouteAsInspirationAction,
+} from "@/actions/save-route";
 import { reorderRouteAction } from "@/actions/reorder-route";
 import { mapsPinLinkProps } from "@/components/public/maps-place-link";
+import { TripDetailsEditor } from "@/components/public/trip-details-editor";
 import {
   buildRouteGpxStops,
   cartMatchesSavedRoute,
@@ -128,7 +135,7 @@ function SortablePlaceItem({ place, index }: { place: RoutePlaceItem; index: num
           fill
           sizes="36px"
           className="object-cover"
-          unoptimized
+          unoptimized={IMAGE_UNOPTIMIZED}
         />
       </div>
 
@@ -148,8 +155,10 @@ interface Props {
 export function PassportRouteCard({ route: initialRoute }: Props) {
   const router = useRouter();
   const t = useTranslations("route");
+  const tTrip = useTranslations("myTrip");
   const { items: cartItems, scope } = useRouteCart();
   const [isPending, startTransition] = useTransition();
+  const [detailsOpen, setDetailsOpen] = useState(false);
 
   const sortedPlaces = [...initialRoute.route_places].sort((a, b) => a.order - b.order);
   const visitedCount = sortedPlaces.filter((p) => p.visited).length;
@@ -409,12 +418,31 @@ export function PassportRouteCard({ route: initialRoute }: Props) {
               </span>
             )}
           </div>
-          <h3 className="text-stone-900 font-semibold text-base mb-0.5 truncate">{initialRoute.title}</h3>
+          <h3 className="text-stone-900 font-semibold text-base mb-0.5 truncate">
+            {initialRoute.title}
+            {initialRoute.shared ? (
+              <span className="ml-2 inline-flex rounded-full bg-violet-100 px-2 py-0.5 text-[10px] font-bold text-violet-700">
+                {tTrip("passportTripsShared")}
+              </span>
+            ) : null}
+          </h3>
           {cityLabel && (
             <p className="text-stone-400 text-xs mb-2 truncate">
               {cityLabel}{countryLabel ? `, ${countryLabel}` : ""}
             </p>
           )}
+
+          {(initialRoute.days || initialRoute.budget || initialRoute.tips) ? (
+            <div className="mb-2 flex flex-wrap gap-x-3 gap-y-1 text-[11px] text-stone-500">
+              {initialRoute.days ? (
+                <span>{tTrip("tripDaysBadge", { days: initialRoute.days })}</span>
+              ) : null}
+              {initialRoute.budget ? <span>{initialRoute.budget}</span> : null}
+              {initialRoute.tips ? (
+                <span className="line-clamp-1 w-full text-stone-400">{initialRoute.tips}</span>
+              ) : null}
+            </div>
+          ) : null}
 
           {/* Visit progress */}
           {sortedPlaces.length > 0 && (
@@ -468,6 +496,33 @@ export function PassportRouteCard({ route: initialRoute }: Props) {
               <ListOrdered className="w-3 h-3" />
               Edit Order
             </button>
+
+            <button
+              type="button"
+              onClick={() => setDetailsOpen(true)}
+              className="flex items-center gap-1 px-2.5 py-1.5 rounded-xl bg-stone-50 border border-stone-200 text-stone-500 hover:text-stone-700 hover:border-stone-300 text-xs transition-all"
+            >
+              <NotebookPen className="w-3 h-3" />
+              {tTrip("tripDetailsShort")}
+            </button>
+
+            {!initialRoute.shared ? (
+            <button
+              type="button"
+              disabled={isPending}
+              onClick={() => {
+                startTransition(async () => {
+                  const result = await cloneRouteAsInspirationAction(initialRoute.id);
+                  if (result.success) router.refresh();
+                });
+              }}
+              className="flex items-center gap-1 px-2.5 py-1.5 rounded-xl bg-amber-50 border border-amber-200/80 text-amber-800 hover:bg-amber-100 text-xs font-medium transition-all disabled:opacity-40"
+              title={tTrip("passportTripCloneHint")}
+            >
+              <Sparkles className="w-3 h-3" />
+              {tTrip("passportTripClone")}
+            </button>
+            ) : null}
 
             {/* Mark Visited */}
             {!stampDone && (
@@ -773,6 +828,13 @@ export function PassportRouteCard({ route: initialRoute }: Props) {
           </>
         )}
       </AnimatePresence>
+
+      <TripDetailsEditor
+        route={initialRoute}
+        open={detailsOpen}
+        onClose={() => setDetailsOpen(false)}
+        isOwner={!initialRoute.shared}
+      />
     </>
   );
 }

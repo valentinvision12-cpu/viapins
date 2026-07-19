@@ -2795,18 +2795,17 @@
       },
       "places": [
         {
-          "name": "Suur Munamägi",
-          "wiki_title": "Suur Munamägi",
-          "lat": 57.713,
-          "lng": 27.058,
+          "name": "Otepää Castle",
+          "wiki_title": "Otepää Castle",
+          "lat": 58.0573,
+          "lng": 26.5041,
           "order_index": 0,
-          "seo_phrase": "Suur Munamägi — Otepää, Estonia",
+          "seo_phrase": "Otepää Castle in Otepää",
           "seo_keywords": [
-            "Suur Munamägi",
+            "Otepää Castle",
             "Otepää",
             "Estonia",
-            "travel",
-            "landmarks"
+            "travel"
           ],
           "seo_priority": 95,
           "search_intent": [
@@ -2819,7 +2818,10 @@
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1
+          "visit_duration_hours": 1,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Otep%C3%A4%C3%A4_Piiskopilinnuse_varemed.JPG",
+          "description": "Otepää Castle is a visitor landmark in Otepää, Estonia.",
+          "maps_query": "Otepää Castle, Otepää, Estonia"
         },
         {
           "name": "Lake Pühajärv",
@@ -2931,18 +2933,17 @@
           "maps_query": "Otepää Church Hill, Estonia"
         },
         {
-          "name": "Otepää Observation Tower",
-          "wiki_title": "Suur Munamägi",
-          "lat": 57.7132,
-          "lng": 27.0582,
+          "name": "Otepää Talispordimuuseum",
+          "wiki_title": "Otepää Talispordimuuseum",
+          "lat": 58.0533251,
+          "lng": 26.5018568,
           "order_index": 5,
-          "seo_phrase": "Otepää Observation Tower — Otepää, Estonia",
+          "seo_phrase": "Otepää Talispordimuuseum in Otepää",
           "seo_keywords": [
-            "Otepää Observation Tower",
+            "Otepää Talispordimuuseum",
             "Otepää",
             "Estonia",
-            "travel",
-            "landmarks"
+            "travel"
           ],
           "seo_priority": 90,
           "search_intent": [
@@ -2955,7 +2956,9 @@
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1.5
+          "visit_duration_hours": 1.5,
+          "description": "Otepää Talispordimuuseum is a visitor landmark in Otepää, Estonia.",
+          "maps_query": "Otepää Talispordimuuseum, Otepää, Estonia"
         },
         {
           "name": "Otepää Lake",
