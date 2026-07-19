@@ -670,7 +670,8 @@
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1.5
+          "visit_duration_hours": 1.5,
+          "maps_query": "Tartu Raatuse Bridge, Tartu, Estonia"
         }
       ]
     },
@@ -721,7 +722,8 @@
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1
+          "visit_duration_hours": 1,
+          "maps_query": "Pärnu Beach, Pärnu, Estonia"
         },
         {
           "name": "Pärnu Museum",
@@ -884,7 +886,8 @@
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1
+          "visit_duration_hours": 1,
+          "maps_query": "Pärnu Vallikäär, Pärnu, Estonia"
         },
         {
           "name": "St. Elizabeth's Church, Pärnu",
@@ -1129,7 +1132,8 @@
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 2
+          "visit_duration_hours": 2,
+          "maps_query": "Narva Art Gallery, Narva, Estonia"
         },
         {
           "name": "Victory Monument, Narva",
@@ -1537,7 +1541,8 @@
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 2
+          "visit_duration_hours": 2,
+          "maps_query": "Museum of the Coastal Swedes, Haapsalu, Estonia"
         },
         {
           "name": "Haapsalu Maria-Magdalena Church",
@@ -1724,7 +1729,8 @@
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 2
+          "visit_duration_hours": 2,
+          "maps_query": "Viljandi Museum, Viljandi, Estonia"
         },
         {
           "name": "Viljandi Suspension Bridge",
@@ -1806,7 +1812,8 @@
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1.5
+          "visit_duration_hours": 1.5,
+          "maps_query": "Viljandi Water Tower, Viljandi, Estonia"
         },
         {
           "name": "Viljandi Old Town",
@@ -2732,8 +2739,7 @@
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1,
-          "maps_query": "Paide Town Hall, Estonia"
+          "visit_duration_hours": 1
         },
         {
           "name": "Eivere Manor",

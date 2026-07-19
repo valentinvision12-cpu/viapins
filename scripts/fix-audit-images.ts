@@ -170,7 +170,7 @@ async function main() {
       console.log("FAIL", row.country, row.city, row.name);
       failed++;
       log.push({ id: row.id, name: row.name, ok: false });
-      await sleep(1200);
+      await sleep(5000);
       continue;
     }
 
@@ -190,7 +190,7 @@ async function main() {
     fixed++;
     log.push({ id: row.id, name: row.name, ok: true, url });
     console.log("OK", row.country, "/", row.city, "/", row.name);
-    await sleep(900);
+    await sleep(2500);
   }
 
   const out = join(process.cwd(), "data", "fix-audit-images-log.json");
