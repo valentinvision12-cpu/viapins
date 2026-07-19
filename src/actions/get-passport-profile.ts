@@ -1,5 +1,3 @@
-"use server";
-
 import { cache } from "react";
 import { unstable_cache } from "next/cache";
 import { createClient } from "@/lib/supabase/server";
@@ -32,7 +30,7 @@ export type PassportCollection = {
   places: FavoritePlace[];
 };
 
-export function buildPassportCollections(
+function buildPassportCollections(
   favorites: FavoritePlace[],
   meta: Record<string, { visibility: "private" | "public" | "shared"; title: string }> = {}
 ): PassportCollection[] {
@@ -140,7 +138,7 @@ function placeKey(place: {
 }
 
 /** Aggregate identity stats from favorites + routes (unique, not sums). */
-export function aggregatePassportStats(
+function aggregatePassportStats(
   favorites: FavoritePlace[],
   routes: SavedRoute[],
   reviews = 0,
