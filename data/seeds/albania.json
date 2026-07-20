@@ -13,7 +13,7 @@
       "wiki_title": "Tirana",
       "seo": {
         "title": "Top 10 Things to Do in Tirana, Albania | Free GPS Travel Guide",
-        "description": "Discover 10 must-see landmarks in Tirana, Albania — Skanderbeg Square, Bunk'Art, and Et'hem Bey Mosque. Free GPS routes, photos, and history.",
+        "description": "Discover 10 must-see landmarks in Tirana, Albania — Skanderbeg Square, Bunk'Art. Free GPS routes, photos, and history.",
         "intro": "Planning a trip to Tirana? This free guide covers the 10 best places to visit in Tirana, Albania — save your favorites and build a GPS route in Google Maps in minutes.",
         "keywords": [
           "things to do in Tirana",
@@ -982,7 +982,7 @@
       "wiki_title": "Vlorë",
       "seo": {
         "title": "Top 10 Things to Do in Vlorë, Albania | Free GPS Travel Guide",
-        "description": "Discover 10 must-see landmarks in Vlorë, Albania — Independence Monument, Muradie Mosque, and Albanian Riviera gateway. Free GPS routes, photos, and history.",
+        "description": "Discover 10 must-see landmarks in Vlorë, Albania — Independence Monument, and Albanian Riviera gateway. Free GPS routes, photos, and history.",
         "intro": "Planning a trip to Vlorë? This free guide covers the 10 best places to visit in Vlorë, Albania — save your favorites and build a GPS route in Google Maps in minutes.",
         "keywords": [
           "things to do in Vlorë",
@@ -1034,15 +1034,28 @@
           "nearby_places": []
         },
         {
-          "name": "Kuzum Baba",
-          "wiki_title": "Kuzum Baba",
-          "lat": 40.4556,
-          "lng": 19.475,
-          "seo_phrase": "Kuzum Baba — hilltop Bektashi tekke with panoramic views over Vlorë Bay",
+          "name": "Flag Square Vlorë",
+          "wiki_title": "Vlorë",
+          "lat": 40.4667,
+          "lng": 19.4897,
+          "description": "Central civic square in Vlorë near the Independence Monument, a popular gathering place with sea breezes and city views.",
+          "seo_phrase": "Flag Square Vlorë: Independence City Plaza Guide",
           "seo_keywords": [
-            "Kuzum Baba Vlorë",
-            "Vlorë viewpoint",
-            "Bektashi tekke Albania"
+            "flag square vlore",
+            "vlore city center",
+            "independence monument vlore",
+            "vlore plaza"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
+            "Independence Monument"
           ]
         },
         {
@@ -1292,15 +1305,28 @@
           ]
         },
         {
-          "name": "Cave of Sari Salltik",
-          "wiki_title": "Sarı Saltık",
-          "lat": 41.5114,
-          "lng": 19.7956,
-          "seo_phrase": "Cave of Sari Salltik — pilgrimage cave associated with the Bektashi order",
+          "name": "Krujë Old Bazaar",
+          "wiki_title": "Krujë",
+          "lat": 41.5092,
+          "lng": 19.7925,
+          "description": "A historic Ottoman-era bazaar street below Krujë Castle filled with craft stalls, antiques, and mountain views.",
+          "seo_phrase": "Krujë Old Bazaar: Historic Craft Market Guide",
           "seo_keywords": [
-            "Cave of Sari Salltik",
-            "Krujë cave",
-            "Bektashi pilgrimage"
+            "kruje bazaar",
+            "kruje market",
+            "albania crafts",
+            "kruje castle town"
+          ],
+          "type": "landmark",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Krujë Castle",
+            "Skanderbeg Museum"
           ]
         }
       ]
@@ -1802,11 +1828,11 @@
           "nature",
           "viewpoint"
         ],
-        "seo_phrase": "Tomorr Mountain — sacred mountain with Bektashi shrine and wild landscapes",
+        "seo_phrase": "Tomorr Mountain — wild high peak landscapes and panoramic ridge walks in Berat County",
         "seo_keywords": [
           "Tomorr Mountain",
           "Mount Tomorr Albania",
-          "Bektashi shrine Tomorr"
+          "Berat hiking"
         ]
       },
       {
