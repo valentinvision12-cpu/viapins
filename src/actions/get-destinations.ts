@@ -176,10 +176,10 @@ function toDestinationCard(dest: DestRow): DestinationCard {
   const places = dest.places ?? [];
   const storedCover = dest.cover_image?.trim() ?? "";
   const fromPlaces = pickCityCoverFromPlaces(places);
+  // Prefer a real landmark photo over destination.cover_image (often stale/404).
   const coverImage =
-    storedCover && !isWeakCoverUrl(storedCover)
-      ? storedCover
-      : fromPlaces || "";
+    fromPlaces ||
+    (storedCover && !isWeakCoverUrl(storedCover) ? storedCover : "");
   const placeCount =
     typeof dest.place_count === "number" && dest.place_count > 0
       ? dest.place_count
@@ -204,9 +204,8 @@ function toDestinationDetail(dest: DestRow): DestinationDetail {
   const storedCover = dest.cover_image?.trim() ?? "";
   const fromPlaces = pickCityCoverFromPlaces(places);
   const coverImage =
-    storedCover && !isWeakCoverUrl(storedCover)
-      ? storedCover
-      : fromPlaces || "";
+    fromPlaces ||
+    (storedCover && !isWeakCoverUrl(storedCover) ? storedCover : "");
   return {
     id: dest.id,
     city: dest.city,
@@ -276,7 +275,7 @@ export async function getPublishedDestinations(): Promise<DestinationCard[]> {
 
 const getCachedPublishedDestinations = unstable_cache(
   async () => getPublishedDestinations(),
-  ["published-destinations-v2"],
+  ["published-destinations-v3"],
   { revalidate: 300, tags: ["destinations"] }
 );
 

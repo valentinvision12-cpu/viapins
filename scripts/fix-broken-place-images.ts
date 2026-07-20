@@ -32,25 +32,23 @@ async function urlAlive(url: string): Promise<boolean> {
   if (url.includes("commons.wikimedia.org/wiki/Special:FilePath")) return false;
   try {
     const ctrl = new AbortController();
-    const t = setTimeout(() => ctrl.abort(), 12000);
+    const t = setTimeout(() => ctrl.abort(), 15000);
+    // Prefer GET+Range: Wikimedia HEAD is unreliable and 404 HTML can confuse caches.
     const res = await fetch(url, {
-      method: "HEAD",
+      method: "GET",
       redirect: "follow",
       signal: ctrl.signal,
-      headers: { "User-Agent": "ViaPins/1.0 (https://viapins.com)" },
+      headers: {
+        "User-Agent": "ViaPins/1.0 (https://viapins.com)",
+        Range: "bytes=0-2047",
+        Accept: "image/*,*/*",
+      },
     });
     clearTimeout(t);
-    if (res.status === 405 || res.status === 403) {
-      const getRes = await fetch(url, {
-        method: "GET",
-        headers: {
-          "User-Agent": "ViaPins/1.0 (https://viapins.com)",
-          Range: "bytes=0-0",
-        },
-      });
-      return getRes.ok || getRes.status === 206;
-    }
-    return res.ok;
+    const ct = (res.headers.get("content-type") || "").toLowerCase();
+    if (!(res.ok || res.status === 206)) return false;
+    if (!ct.startsWith("image/")) return false;
+    return true;
   } catch {
     return false;
   }

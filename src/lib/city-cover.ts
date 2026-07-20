@@ -7,13 +7,15 @@ export type PlaceCoverSource = {
   order_index: number;
 };
 
-/** Best cover from existing places — skips maps / empty URLs. */
+/** Best cover from existing places — prefers Wikimedia thumbs, skips maps / empty URLs. */
 export function pickCityCoverFromPlaces(places: PlaceCoverSource[]): string {
   const sorted = [...places].sort((a, b) => a.order_index - b.order_index);
-  for (const p of sorted) {
-    if (p.image_url?.trim() && !isBadImageUrl(p.image_url)) return p.image_url;
-  }
-  return "";
+  const usable = sorted.filter(
+    (p) => p.image_url?.trim() && !isBadImageUrl(p.image_url)
+  );
+  const thumb = usable.find((p) => /\/thumb\//i.test(p.image_url));
+  if (thumb) return thumb.image_url;
+  return usable[0]?.image_url ?? "";
 }
 
 /** Hero/cover from DB only — no live Wikipedia. */

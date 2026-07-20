@@ -9,7 +9,6 @@ import { useTranslations } from "next-intl";
 import { useRouteCart } from "@/lib/context/route-cart-context";
 import { useFavorites } from "@/lib/context/favorites-context";
 import { isBadImageUrl } from "@/lib/wiki-image";
-import { fallbackImageUrl } from "@/lib/fallback-image";
 import { buildPlaceSeo } from "@/lib/seo";
 import { wikipediaUrl } from "@/lib/place-links";
 import { MapsPlaceLink } from "@/components/public/maps-place-link";
@@ -54,13 +53,12 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
   const tTrip = useTranslations("myTrip");
   const [wikiOpen, setWikiOpen] = useState(false);
   const [reviewOpen, setReviewOpen] = useState(false);
-  const fallback = fallbackImageUrl(`${place.name}-${city}`);
-  const [imgSrc, setImgSrc] = useState(place.image_url || fallback);
+  const [imgSrc, setImgSrc] = useState(place.image_url || "");
   const { addItem, removeItem, isInCart } = useRouteCart();
   const { isFavorite, toggleFavorite, isLoggedIn, favorites } = useFavorites();
 
   useEffect(() => {
-    setImgSrc(place.image_url || fallback);
+    setImgSrc(place.image_url || "");
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [place.image_url]);
 
@@ -154,23 +152,14 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
                 fetch(`/api/places/${place.id}/image?refresh=1`)
                   .then((r) => r.json())
                   .then((data: { url?: string }) => {
-                    if (data.url) setImgSrc(data.url);
-                    else setImgSrc(fallbackImageUrl(`${place.name}-${city}`));
+                    if (data.url && data.url !== imgSrc) setImgSrc(data.url);
+                    else setImgSrc("");
                   })
-                  .catch(() => setImgSrc(fallbackImageUrl(`${place.name}-${city}`)));
+                  .catch(() => setImgSrc(""));
               }}
               unoptimized={IMAGE_UNOPTIMIZED} />
           ) : (
-            <div className="relative w-full h-full bg-gradient-to-br from-stone-200 to-stone-300">
-              <Image
-                src={fallbackImageUrl(`${place.name}-${city}`)}
-                alt={place.name}
-                fill
-                sizes="(max-width: 640px) 100vw, 208px"
-                className="object-cover opacity-70"
-              unoptimized={IMAGE_UNOPTIMIZED}
-              referrerPolicy={IMAGE_REFERRER_POLICY} />
-            </div>
+            <div className="relative w-full h-full bg-gradient-to-br from-stone-200 to-stone-300" aria-hidden />
           )}
 
           <div
