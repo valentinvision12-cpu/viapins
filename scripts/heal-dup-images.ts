@@ -1,7 +1,9 @@
 /**
- * Re-resolve place images whose URLs return non-200 (404/400/etc).
- * Also re-resolves duplicate image_urls within a city (unique per place).
- * Usage: npx tsx scripts/fix-broken-place-images.ts latvia [--dry-run] [--write-seed]
+ * Deduplicate place images within each city for selected country seeds.
+ * Re-resolves shared/empty/bad image_url via resolvePlaceImage with avoidUrls.
+ *
+ * Usage: npx tsx scripts/heal-dup-images.ts [--write-seed] [slug...]
+ * Default slugs: luxembourg sweden slovakia montenegro denmark
  */
 import { readFileSync, writeFileSync, existsSync } from "fs";
 import { join } from "path";
@@ -34,7 +36,6 @@ async function urlAlive(url: string): Promise<boolean> {
   try {
     const ctrl = new AbortController();
     const t = setTimeout(() => ctrl.abort(), 15000);
-    // Prefer GET+Range: Wikimedia HEAD is unreliable and 404 HTML can confuse caches.
     const res = await fetch(url, {
       method: "GET",
       redirect: "follow",
@@ -59,26 +60,22 @@ function sleep(ms: number) {
   return new Promise((r) => setTimeout(r, ms));
 }
 
-async function main() {
-  loadEnvLocal();
-  process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
-  process.env.SEQUENTIAL_WIKI = "1";
-  process.env.WIKI_DELAY_MS = process.env.WIKI_DELAY_MS || "400";
+function preferThumb(url: string): string {
+  // Prefer Wikimedia thumb URLs when possible (already sized by resolvePlaceImage).
+  return url?.trim() ?? "";
+}
 
-  const slug = process.argv[2]?.toLowerCase().replace(/\.json$/, "");
-  const dryRun = process.argv.includes("--dry-run");
-  const writeSeed = process.argv.includes("--write-seed");
-  if (!slug) {
-    console.error("Usage: npx tsx scripts/fix-broken-place-images.ts latvia [--dry-run] [--write-seed]");
-    process.exit(1);
-  }
+type Report = {
+  country: string;
+  checked: number;
+  dupsFixed: number;
+  failed: number;
+  remaining: string[];
+};
 
+async function healSlug(slug: string, dryRun: boolean, writeSeed: boolean): Promise<Report> {
   const seedPath = join(process.cwd(), "data", "seeds", `${slug}.json`);
-  if (!existsSync(seedPath)) {
-    console.error(`Missing seed: ${seedPath}`);
-    process.exit(1);
-  }
-
+  if (!existsSync(seedPath)) throw new Error(`Missing seed ${seedPath}`);
   const seed = JSON.parse(readFileSync(seedPath, "utf8"));
   const country = seed.country as string;
   const supabase = createClient(
@@ -86,13 +83,15 @@ async function main() {
     process.env.SUPABASE_SERVICE_ROLE_KEY!
   );
 
-  let checked = 0;
-  let broken = 0;
-  let fixed = 0;
-  let failed = 0;
-  let duplicates = 0;
+  const report: Report = {
+    country,
+    checked: 0,
+    dupsFixed: 0,
+    failed: 0,
+    remaining: [],
+  };
 
-  console.log(`\n=== Fix broken images: ${country} ===\n`);
+  console.log(`\n=== Dedup images: ${country} ===`);
 
   for (const citySeed of seed.cities ?? []) {
     const city = citySeed.city as string;
@@ -119,36 +118,35 @@ async function main() {
 
     console.log(`\n-- ${city} --`);
 
-    // First pass: collect alive unique URLs; mark duplicates for re-resolve
     const usedUrls = new Set<string>();
     const needsFix = new Map<string, string>(); // id -> reason
+
     for (const p of places ?? []) {
-      const current = p.image_url?.trim() ?? "";
-      if (!current) {
-        needsFix.set(p.id, "empty");
+      report.checked++;
+      const current = preferThumb(p.image_url ?? "");
+      if (!current || isBadImageUrl(current)) {
+        needsFix.set(p.id, "empty/bad");
         continue;
       }
       const alive = await urlAlive(current);
       if (!alive) {
-        needsFix.set(p.id, "broken");
+        needsFix.set(p.id, "dead");
         continue;
       }
       if (usedUrls.has(current)) {
         needsFix.set(p.id, "duplicate");
-        duplicates++;
         continue;
       }
       usedUrls.add(current);
     }
 
     for (const p of places ?? []) {
-      checked++;
       const reason = needsFix.get(p.id);
       if (!reason) {
         process.stdout.write(".");
         continue;
       }
-      broken++;
+
       const current = p.image_url?.trim() ?? "";
       console.log(`\n  [${reason}] ${p.name}`);
       console.log(`    was: ${current.slice(0, 100) || "(empty)"}`);
@@ -158,7 +156,11 @@ async function main() {
         | undefined;
       const en = (p.translations as Record<string, { wiki_title?: string; maps_query?: string }>)?.en;
 
-      if (dryRun) continue;
+      if (dryRun) {
+        report.failed++;
+        report.remaining.push(`${city}/${p.name}`);
+        continue;
+      }
 
       await sleep(350);
       const newUrl = await resolvePlaceImage(
@@ -177,9 +179,9 @@ async function main() {
         960
       );
 
-      if (!newUrl || usedUrls.has(newUrl) || !(await urlAlive(newUrl))) {
-        // Leave empty rather than stealing another place's photo
-        if (current && reason === "duplicate") {
+      const candidate = preferThumb(newUrl ?? "");
+      if (!candidate || usedUrls.has(candidate) || !(await urlAlive(candidate))) {
+        if (reason === "duplicate" && current) {
           const { error } = await supabase
             .from("places")
             .update({ image_url: "", updated_at: new Date().toISOString() })
@@ -191,38 +193,66 @@ async function main() {
             console.log(`    -> DB error: ${error.message}`);
           }
         } else {
-          console.log(`    -> no working replacement`);
+          console.log(`    -> no working unique replacement`);
         }
-        failed++;
+        report.failed++;
+        report.remaining.push(`${city}/${p.name}`);
         continue;
       }
 
       const { error } = await supabase
         .from("places")
-        .update({ image_url: newUrl, updated_at: new Date().toISOString() })
+        .update({ image_url: candidate, updated_at: new Date().toISOString() })
         .eq("id", p.id);
       if (error) {
         console.log(`    -> DB error: ${error.message}`);
-        failed++;
+        report.failed++;
+        report.remaining.push(`${city}/${p.name}`);
         continue;
       }
 
-      if (seedPlace) seedPlace.image_url = newUrl;
-      usedUrls.add(newUrl);
-      console.log(`    -> fixed: ${newUrl.slice(0, 100)}`);
-      fixed++;
+      if (seedPlace) seedPlace.image_url = candidate;
+      usedUrls.add(candidate);
+      console.log(`    -> fixed: ${candidate.slice(0, 100)}`);
+      report.dupsFixed++;
     }
     console.log("");
   }
 
   if (writeSeed && !dryRun) {
     writeFileSync(seedPath, JSON.stringify(seed, null, 2) + "\n", "utf8");
-    console.log(`\nWrote updated seed: ${seedPath}`);
+    console.log(`Wrote seed: ${seedPath}`);
   }
 
   console.log(
-    `\nChecked: ${checked}, broken/dup: ${broken}, duplicates flagged: ${duplicates}, fixed: ${fixed}, failed: ${failed}${dryRun ? " (dry-run)" : ""}`
+    `\n${country}: checked ${report.checked}, dupsFixed ${report.dupsFixed}, failed ${report.failed}`
   );
+  return report;
+}
+
+async function main() {
+  loadEnvLocal();
+  process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
+  process.env.SEQUENTIAL_WIKI = "1";
+  process.env.WIKI_DELAY_MS = process.env.WIKI_DELAY_MS || "400";
+
+  const argv = process.argv.slice(2);
+  const dryRun = argv.includes("--dry-run");
+  const writeSeed = argv.includes("--write-seed");
+  const slugs = argv.filter((a) => !a.startsWith("--"));
+  const targets =
+    slugs.length > 0
+      ? slugs
+      : ["luxembourg", "sweden", "slovakia", "montenegro", "denmark"];
+
+  const reports: Report[] = [];
+  for (const slug of targets) {
+    reports.push(await healSlug(slug, dryRun, writeSeed));
+  }
+
+  const out = join(process.cwd(), "data", "heal-dup-images-report.json");
+  writeFileSync(out, JSON.stringify(reports, null, 2) + "\n", "utf8");
+  console.log(`\nReport: ${out}`);
 }
 
 main().catch((e) => {
