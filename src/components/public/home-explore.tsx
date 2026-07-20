@@ -25,13 +25,13 @@ export function HomeExplore({ countries, searchIndex, cities }: Props) {
 
   const isSearching = searchQuery.trim().length > 0;
 
-  const cityTagsByKey = useMemo(
-    () =>
-      new Map(
-        cities.map((c) => [`${c.slug.country}/${c.slug.city}`, c.tags] as const)
-      ),
-    [cities]
-  );
+  const cityTagsByKey = useMemo(() => {
+    const map = new Map<string, string[]>();
+    for (const c of cities) {
+      map.set(`${c.slug.country}/${c.slug.city}`, c.tags);
+    }
+    return map;
+  }, [cities]);
 
   const availableThemes = useMemo(
     () => getAvailableThemes(cities.map((c) => c.tags)),
@@ -93,3 +93,4 @@ export function HomeExplore({ countries, searchIndex, cities }: Props) {
     </>
   );
 }
+
