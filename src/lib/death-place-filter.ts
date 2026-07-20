@@ -217,7 +217,7 @@ export const DEATH_PLACE_REPLACEMENTS: DeathPlaceReplacement[] = [
       lng: 17.6661,
       type: "historic_site",
       description:
-        "The Ottoman clock tower in Travnik’s old core is a landmark of the city’s vizier-era past, set among mosques and stone lanes.",
+        "The Ottoman clock tower in Travnik’s old core is a landmark of the city’s vizier-era past, set among stone lanes and historic houses.",
       seo_phrase: "Turkish Clock Tower in Travnik",
     },
   },

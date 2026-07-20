@@ -2239,8 +2239,7 @@
           ],
           "visit_duration_hours": 1,
           "nearby_places": [
-            "History Museum",
-            "Mosque"
+            "History Museum"
           ]
         },
         {
@@ -2272,8 +2271,7 @@
           ],
           "visit_duration_hours": 2,
           "nearby_places": [
-            "Ovid Square",
-            "Mosque"
+            "Ovid Square"
           ]
         },
         {
@@ -2310,26 +2308,24 @@
           ]
         },
         {
-          "name": "Grand Mosque of Constanta",
-          "wiki_title": "Grand Mosque of Constanța",
-          "lat": 44.1725,
-          "lng": 28.6558,
+          "name": "Constanța Seafront Casino Walk",
+          "wiki_title": "Constanța Casino",
+          "lat": 44.1705,
+          "lng": 28.6585,
           "order_index": 4,
-          "description": "A beautiful mosque with a high minaret accessible to visitors.",
-          "seo_phrase": "Grand Mosque Constanta | Cultural Landmark",
+          "description": "Iconic Art Nouveau casino and Black Sea promenade of Constanța.",
+          "seo_phrase": "Constanța Seafront Casino Walk",
           "seo_keywords": [
-            "Grand Mosque",
-            "Constanta",
-            "minaret"
+            "Constanța Seafront Casino Walk",
+            "travel",
+            "landmarks"
           ],
-          "commons_file": "Moscheea Carol I Constanta.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Moscheea_Carol_I_Constanta.jpg",
           "seo_priority": 84,
           "search_intent": [
             "travel_planning",
             "travel_planning"
           ],
-          "type": "church",
+          "type": "landmark",
           "best_season": [
             "spring",
             "summer",
@@ -3443,54 +3439,19 @@
           ]
         },
         {
-          "name": "Neolog Synagogue",
-          "wiki_title": "Neolog Synagogue in Oradea",
-          "lat": 47.0569,
-          "lng": 21.9333,
+          "name": "Oradea Republicii Street",
+          "wiki_title": "Oradea",
+          "lat": 47.0555,
+          "lng": 21.9285,
           "order_index": 6,
-          "description": "A stunningly restored synagogue known for its Moorish-style architecture.",
-          "seo_phrase": "Neolog Synagogue Oradea | Historic Site",
+          "description": "Elegant pedestrian street of Oradea with Secession architecture.",
+          "seo_phrase": "Oradea Republicii Street",
           "seo_keywords": [
-            "Neolog Synagogue",
-            "Oradea",
-            "Jewish history"
+            "Oradea Republicii Street",
+            "travel",
+            "landmarks"
           ],
-          "commons_file": "Sinagoga Neologa Oradea.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Sinagoga_Neologa_Oradea.jpg",
           "seo_priority": 82,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "church",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": [
-            "Moon Church",
-            "Black Eagle Palace"
-          ]
-        },
-        {
-          "name": "Zion Temple",
-          "wiki_title": "Zion Synagogue, Oradea",
-          "lat": 47.0564,
-          "lng": 21.9339,
-          "order_index": 7,
-          "description": "A massive, beautifully decorated synagogue in the center of Oradea.",
-          "seo_phrase": "Zion Temple Oradea | Historic Landmark",
-          "seo_keywords": [
-            "Zion Temple",
-            "Oradea",
-            "synagogue"
-          ],
-          "commons_file": "Sinagoga Zion Oradea.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Sinagoga_Zion_Oradea.jpg",
-          "seo_priority": 81,
           "search_intent": [
             "travel_planning",
             "travel_planning"
@@ -3504,7 +3465,36 @@
           ],
           "visit_duration_hours": 1,
           "nearby_places": [
-            "Neolog Synagogue",
+            "Moon Church",
+            "Black Eagle Palace"
+          ]
+        },
+        {
+          "name": "Crișul Repede Embankment",
+          "wiki_title": "Oradea",
+          "lat": 47.0545,
+          "lng": 21.9255,
+          "order_index": 7,
+          "description": "River embankment walks through the centre of Oradea.",
+          "seo_phrase": "Crișul Repede Embankment",
+          "seo_keywords": [
+            "Crișul Repede Embankment",
+            "travel",
+            "landmarks"
+          ],
+          "seo_priority": 81,
+          "search_intent": [
+            "travel_planning",
+            "travel_planning"
+          ],
+          "type": "nature",
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1,
+          "nearby_places": [
             "Moon Church"
           ]
         },

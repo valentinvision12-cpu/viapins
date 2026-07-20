@@ -79,16 +79,14 @@
           "visit_duration_hours": 1
         },
         {
-          "name": "Gazi Husrev-beg Mosque",
-          "wiki_title": "Gazi Husrev-beg Mosque",
-          "lat": 43.8594,
-          "lng": 18.4292,
+          "name": "Sarajevo Clock Tower",
+          "wiki_title": "Sarajevo Clock Tower",
+          "lat": 43.8597,
+          "lng": 18.4312,
           "order_index": 2,
-          "seo_phrase": "Gazi Husrev-beg Mosque — Sarajevo, Bosnia and Herzegovina",
+          "seo_phrase": "Sarajevo Clock Tower",
           "seo_keywords": [
-            "Gazi Husrev-beg Mosque",
-            "Sarajevo",
-            "Bosnia and Herzegovina",
+            "Sarajevo Clock Tower",
             "travel",
             "landmarks"
           ],
@@ -97,13 +95,15 @@
             "informational",
             "travel_planning"
           ],
-          "type": "church",
+          "type": "historic_site",
           "best_season": [
             "spring",
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1
+          "visit_duration_hours": 1,
+          "description": "Ottoman-era stone clock tower rising above Baščaršija, a classic orientation point in central Sarajevo.",
+          "nearby_places": []
         },
         {
           "name": "Sarajevo City Hall",
@@ -372,16 +372,14 @@
           "visit_duration_hours": 2
         },
         {
-          "name": "Koski Mehmed Pasha Mosque",
-          "wiki_title": "Koski Mehmed Pasha Mosque",
-          "lat": 43.3389,
-          "lng": 17.8158,
+          "name": "Crooked Bridge",
+          "wiki_title": "Kriva Ćuprija",
+          "lat": 43.3365,
+          "lng": 17.8125,
           "order_index": 2,
-          "seo_phrase": "Koski Mehmed Pasha Mosque — Mostar, Bosnia and Herzegovina",
+          "seo_phrase": "Crooked Bridge",
           "seo_keywords": [
-            "Koski Mehmed Pasha Mosque",
-            "Mostar",
-            "Bosnia and Herzegovina",
+            "Crooked Bridge",
             "travel",
             "landmarks"
           ],
@@ -390,12 +388,14 @@
             "informational",
             "travel_planning"
           ],
-          "type": "church",
+          "type": "historic_site",
           "best_season": [
             "winter",
             "spring"
           ],
-          "visit_duration_hours": 1
+          "visit_duration_hours": 1,
+          "description": "Small stone precursor bridge near Stari Most, a quiet photo stop in old Mostar.",
+          "nearby_places": []
         },
         {
           "name": "Muslibegović House",
@@ -690,16 +690,14 @@
           "visit_duration_hours": 1
         },
         {
-          "name": "Ferhadija Mosque",
-          "wiki_title": "Ferhadija Mosque",
-          "lat": 44.7725,
-          "lng": 17.1917,
+          "name": "Vrbas River Promenade",
+          "wiki_title": "Banja Luka",
+          "lat": 44.772,
+          "lng": 17.191,
           "order_index": 3,
-          "seo_phrase": "Ferhadija Mosque — Banja Luka, Bosnia and Herzegovina",
+          "seo_phrase": "Vrbas River Promenade",
           "seo_keywords": [
-            "Ferhadija Mosque",
-            "Banja Luka",
-            "Bosnia and Herzegovina",
+            "Vrbas River Promenade",
             "travel",
             "landmarks"
           ],
@@ -708,13 +706,15 @@
             "informational",
             "travel_planning"
           ],
-          "type": "church",
+          "type": "nature",
           "best_season": [
             "spring",
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1
+          "visit_duration_hours": 1,
+          "description": "Leafy riverside walks along the Vrbas through the heart of Banja Luka.",
+          "nearby_places": []
         },
         {
           "name": "Trappist Monastery Marija Zvijezda",
@@ -1010,16 +1010,14 @@
           "visit_duration_hours": 1
         },
         {
-          "name": "Atik Mosque",
-          "wiki_title": "Atik Mosque (Tuzla)",
-          "lat": 44.5385,
-          "lng": 18.6772,
+          "name": "Tuzla City Park",
+          "wiki_title": "Tuzla",
+          "lat": 44.538,
+          "lng": 18.673,
           "order_index": 4,
-          "seo_phrase": "Atik Mosque — Tuzla, Bosnia and Herzegovina",
+          "seo_phrase": "Tuzla City Park",
           "seo_keywords": [
-            "Atik Mosque",
-            "Tuzla",
-            "Bosnia and Herzegovina",
+            "Tuzla City Park",
             "travel",
             "landmarks"
           ],
@@ -1028,13 +1026,15 @@
             "informational",
             "travel_planning"
           ],
-          "type": "church",
+          "type": "nature",
           "best_season": [
             "spring",
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1
+          "visit_duration_hours": 1,
+          "description": "Central green space and gathering spot beside Tuzla's lakes and downtown streets.",
+          "nearby_places": []
         },
         {
           "name": "Eastern Bosnia Museum",
@@ -1248,16 +1248,14 @@
           "visit_duration_hours": 1.5
         },
         {
-          "name": "Zenica Synagogue",
-          "wiki_title": "Zenica Synagogue",
-          "lat": 44.2038,
-          "lng": 17.907,
+          "name": "Kamberovića Polje",
+          "wiki_title": "Zenica",
+          "lat": 44.2015,
+          "lng": 17.9078,
           "order_index": 2,
-          "seo_phrase": "Zenica Synagogue — Zenica, Bosnia and Herzegovina",
+          "seo_phrase": "Kamberovića Polje",
           "seo_keywords": [
-            "Zenica Synagogue",
-            "Zenica",
-            "Bosnia and Herzegovina",
+            "Kamberovića Polje",
             "travel",
             "landmarks"
           ],
@@ -1266,13 +1264,15 @@
             "informational",
             "travel_planning"
           ],
-          "type": "church",
+          "type": "landmark",
           "best_season": [
             "spring",
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1
+          "visit_duration_hours": 1,
+          "description": "Open riverside recreation grounds popular with locals for walks and city events.",
+          "nearby_places": []
         },
         {
           "name": "Bosna River Zenica",
@@ -1330,16 +1330,14 @@
           "maps_query": "City Museum Zenica, Bosnia and Herzegovina"
         },
         {
-          "name": "Sultan Ahmed Mosque Zenica",
-          "wiki_title": "Sultan Ahmed's Mosque, Zenica",
-          "lat": 44.2035,
-          "lng": 17.9085,
+          "name": "Zenica Metal Museum Area",
+          "wiki_title": "Zenica",
+          "lat": 44.203,
+          "lng": 17.907,
           "order_index": 5,
-          "seo_phrase": "Sultan Ahmed Mosque Zenica — Zenica, Bosnia and Herzegovina",
+          "seo_phrase": "Zenica Metal Museum Area",
           "seo_keywords": [
-            "Sultan Ahmed Mosque Zenica",
-            "Zenica",
-            "Bosnia and Herzegovina",
+            "Zenica Metal Museum Area",
             "travel",
             "landmarks"
           ],
@@ -1348,13 +1346,15 @@
             "informational",
             "travel_planning"
           ],
-          "type": "church",
+          "type": "landmark",
           "best_season": [
             "spring",
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1
+          "visit_duration_hours": 1,
+          "description": "Industrial-heritage surroundings reflecting Zenica's steel-town identity.",
+          "nearby_places": []
         },
         {
           "name": "Bilino Polje Stadium",
@@ -1487,16 +1487,14 @@
       },
       "places": [
         {
-          "name": "Fethija Mosque",
-          "wiki_title": "Fethija Mosque",
-          "lat": 44.8169,
-          "lng": 15.8708,
+          "name": "Bihać Town Square",
+          "wiki_title": "Bihać",
+          "lat": 44.817,
+          "lng": 15.8705,
           "order_index": 0,
-          "seo_phrase": "Fethija Mosque — Bihać, Bosnia and Herzegovina",
+          "seo_phrase": "Bihać Town Square",
           "seo_keywords": [
-            "Fethija Mosque",
-            "Bihać",
-            "Bosnia and Herzegovina",
+            "Bihać Town Square",
             "travel",
             "landmarks"
           ],
@@ -1505,13 +1503,15 @@
             "informational",
             "travel_planning"
           ],
-          "type": "church",
+          "type": "landmark",
           "best_season": [
             "spring",
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1
+          "visit_duration_hours": 1,
+          "description": "Central civic square of Bihać near the Una, framed by cafés and historic streets.",
+          "nearby_places": []
         },
         {
           "name": "Captain's Tower Bihać",
@@ -1708,33 +1708,32 @@
           "visit_duration_hours": 1
         },
         {
-          "name": "Fethija Mosque (Bihać)",
-          "wiki_title": "Fethija Mosque (Bihać)",
-          "lat": 44.8134,
-          "lng": 15.8699,
+          "name": "Una Riverside Walk Bihać",
+          "wiki_title": "Una",
+          "lat": 44.8155,
+          "lng": 15.872,
           "order_index": 8,
-          "seo_phrase": "Fethija Mosque (Bihać) in Bihać",
+          "seo_phrase": "Una Riverside Walk Bihać",
           "seo_keywords": [
-            "Fethija Mosque (Bihać)",
-            "Bihać",
-            "Bosnia and Herzegovina",
-            "travel"
+            "Una Riverside Walk Bihać",
+            "travel",
+            "landmarks"
           ],
           "seo_priority": 87,
           "search_intent": [
             "informational",
             "travel_planning"
           ],
-          "type": "landmark",
+          "type": "nature",
           "best_season": [
             "spring",
             "summer",
             "autumn"
           ],
           "visit_duration_hours": 1,
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Biha%C4%87_%E2%80%93_Fethija_d%C5%BEamija_1.jpg/960px-Biha%C4%87_%E2%80%93_Fethija_d%C5%BEamija_1.jpg",
-          "description": "Fethija Mosque (Bihać) is a visitor landmark in Bihać, Bosnia and Herzegovina.",
-          "maps_query": "Fethija Mosque (Bihać), Bihać, Bosnia and Herzegovina"
+          "description": "Scenic path along the emerald Una River through Bihać's historic core.",
+          "maps_query": "Fethija Mosque (Bihać), Bihać, Bosnia and Herzegovina",
+          "nearby_places": []
         },
         {
           "name": "Kamengrad Fortress",
@@ -1949,16 +1948,14 @@
           "visit_duration_hours": 1
         },
         {
-          "name": "Osman Pasha Mosque Trebinje",
-          "wiki_title": "Osman Pasha Mosque (Trebinje)",
-          "lat": 42.712,
-          "lng": 18.3455,
+          "name": "Trg Slobode Trebinje",
+          "wiki_title": "Trebinje",
+          "lat": 42.7115,
+          "lng": 18.344,
           "order_index": 6,
-          "seo_phrase": "Osman Pasha Mosque Trebinje — Trebinje, Bosnia and Herzegovina",
+          "seo_phrase": "Trg Slobode Trebinje",
           "seo_keywords": [
-            "Osman Pasha Mosque Trebinje",
-            "Trebinje",
-            "Bosnia and Herzegovina",
+            "Trg Slobode Trebinje",
             "travel",
             "landmarks"
           ],
@@ -1967,13 +1964,15 @@
             "informational",
             "travel_planning"
           ],
-          "type": "church",
+          "type": "landmark",
           "best_season": [
             "spring",
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1
+          "visit_duration_hours": 1,
+          "description": "Main town square of Trebinje with plane trees, cafés, and old-town atmosphere.",
+          "nearby_places": []
         },
         {
           "name": "Tvrdoš Monastery",
@@ -2135,16 +2134,14 @@
           "visit_duration_hours": 1.5
         },
         {
-          "name": "Temple of Mithras Jajce",
-          "wiki_title": "Temple of Mithras (Jajce)",
-          "lat": 44.3428,
-          "lng": 17.269,
+          "name": "Jajce Town Gate",
+          "wiki_title": "Jajce",
+          "lat": 44.3415,
+          "lng": 17.2705,
           "order_index": 2,
-          "seo_phrase": "Temple of Mithras Jajce — Jajce, Bosnia and Herzegovina",
+          "seo_phrase": "Jajce Town Gate",
           "seo_keywords": [
-            "Temple of Mithras Jajce",
-            "Jajce",
-            "Bosnia and Herzegovina",
+            "Jajce Town Gate",
             "travel",
             "landmarks"
           ],
@@ -2153,13 +2150,15 @@
             "informational",
             "travel_planning"
           ],
-          "type": "landmark",
+          "type": "historic_site",
           "best_season": [
             "spring",
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1
+          "visit_duration_hours": 1,
+          "description": "Historic gateway into Jajce's fortified old town above the Pliva waterfall.",
+          "nearby_places": []
         },
         {
           "name": "Pliva Watermills",
@@ -2696,16 +2695,14 @@
           "visit_duration_hours": 1.5
         },
         {
-          "name": "Sulejmanija Mosque",
-          "wiki_title": "Sulejmanija Mosque (Travnik)",
-          "lat": 44.226,
-          "lng": 17.666,
+          "name": "Travnik Vizier Residences Area",
+          "wiki_title": "Travnik",
+          "lat": 44.2265,
+          "lng": 17.6655,
           "order_index": 1,
-          "seo_phrase": "Sulejmanija Mosque — Travnik, Bosnia and Herzegovina",
+          "seo_phrase": "Travnik Vizier Residences Area",
           "seo_keywords": [
-            "Sulejmanija Mosque",
-            "Travnik",
-            "Bosnia and Herzegovina",
+            "Travnik Vizier Residences Area",
             "travel",
             "landmarks"
           ],
@@ -2714,13 +2711,15 @@
             "informational",
             "travel_planning"
           ],
-          "type": "church",
+          "type": "historic_site",
           "best_season": [
             "spring",
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1
+          "visit_duration_hours": 1,
+          "description": "Historic quarter of Travnik recalling the town's centuries as a Bosnian vizier seat.",
+          "nearby_places": []
         },
         {
           "name": "Ivo Andrić Museum",
@@ -2805,16 +2804,14 @@
           "maps_query": "Travnik Old Town bazaar, Bosnia and Herzegovina"
         },
         {
-          "name": "Vezir's Mosque",
-          "wiki_title": "Vezir's Mosque",
-          "lat": 44.2262,
-          "lng": 17.6659,
+          "name": "Šumeće Picnic Area",
+          "wiki_title": "Travnik",
+          "lat": 44.228,
+          "lng": 17.67,
           "order_index": 5,
-          "seo_phrase": "Vezir's Mosque — Travnik, Bosnia and Herzegovina",
+          "seo_phrase": "Šumeće Picnic Area",
           "seo_keywords": [
-            "Vezir's Mosque",
-            "Travnik",
-            "Bosnia and Herzegovina",
+            "Šumeće Picnic Area",
             "travel",
             "landmarks"
           ],
@@ -2823,13 +2820,15 @@
             "informational",
             "travel_planning"
           ],
-          "type": "church",
+          "type": "nature",
           "best_season": [
             "spring",
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1
+          "visit_duration_hours": 1,
+          "description": "Wooded picnic and walking area on the edge of Travnik with easy local access.",
+          "nearby_places": []
         },
         {
           "name": "Turkish Clock Tower Travnik",
@@ -3184,11 +3183,11 @@
         "type": "nature"
       },
       {
-        "name": "Blagaj Tekke",
-        "wiki_title": "Blagaj",
+        "name": "Buna Spring",
+        "wiki_title": "Buna (Neretva)",
         "region": "Mostar",
-        "lat": 43.258,
-        "lng": 17.903,
+        "lat": 43.257,
+        "lng": 17.888,
         "day": 8,
         "order_index": 7,
         "requires_car": true,
@@ -3205,15 +3204,21 @@
           "summer",
           "autumn"
         ],
-        "seo_phrase": "Blagaj Tekke — Bosnia and Herzegovina road trip",
+        "seo_phrase": "Buna Spring",
         "seo_keywords": [
-          "Blagaj Tekke",
-          "Bosnia and Herzegovina road trip",
-          "Bosnia and Herzegovina nature"
+          "Buna Spring",
+          "travel",
+          "landmarks"
         ],
         "seo_priority": 83,
         "visit_duration_hours": 4,
-        "type": "nature"
+        "type": "nature",
+        "description": "Powerful karst spring of the Buna River below Blagaj cliff — a dramatic nature stop.",
+        "search_intent": [
+          "informational",
+          "travel_planning"
+        ],
+        "nearby_places": []
       },
       {
         "name": "Prenj Mountain",

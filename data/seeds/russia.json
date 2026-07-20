@@ -795,32 +795,29 @@
           ],
           "visit_duration_hours": 1,
           "nearby_places": [
-            "Kul Sharif Mosque",
             "Tower of Söyembikä",
             "Bauman Street"
           ]
         },
         {
-          "name": "Kul Sharif Mosque",
-          "wiki_title": "Kul Sharif Mosque",
-          "lat": 55.8005,
-          "lng": 49.1051,
+          "name": "Kazan Kremlin Walls Walk",
+          "wiki_title": "Kazan Kremlin",
+          "lat": 55.7985,
+          "lng": 49.1065,
           "order_index": 1,
-          "description": "One of the largest and most breathtaking Islamic structures in Europe, located inside a Kremlin.",
-          "seo_phrase": "Kul Sharif Mosque Kazan: Architecture & Visitor Guide",
+          "description": "Walk the white Kremlin walls and towers overlooking the Kazanka and Volga.",
+          "seo_phrase": "Kazan Kremlin Walls Walk",
           "seo_keywords": [
-            "Kul Sharif Mosque",
-            "Kazan Islamic sites",
-            "blue dome mosque",
-            "Kremlin mosque Tatarstan"
+            "Kazan Kremlin Walls Walk",
+            "travel",
+            "landmarks"
           ],
-          "image_url": "",
           "seo_priority": 96,
           "search_intent": [
             "travel_planning",
             "travel_planning"
           ],
-          "type": "church",
+          "type": "historic_site",
           "best_season": [
             "spring",
             "summer",
@@ -835,32 +832,28 @@
           ]
         },
         {
-          "name": "Temple of All Religions",
-          "wiki_title": "Temple of All Religions",
-          "lat": 55.8005,
-          "lng": 48.9747,
+          "name": "Kaban Lake Embankment",
+          "wiki_title": "Lake Kaban",
+          "lat": 55.7775,
+          "lng": 49.135,
           "order_index": 2,
-          "description": "A unique, kaleidoscopic architectural complex blending motifs from major world faiths.",
-          "seo_phrase": "Temple of All Religions Kazan: Eclectic Architecture Guide",
+          "description": "Urban lake embankment popular for evening walks in Kazan.",
+          "seo_phrase": "Kaban Lake Embankment",
           "seo_keywords": [
-            "Temple of All Religions",
-            "Ildar Khanov Kazan",
-            "eclectic architecture",
-            "interfaith monument"
+            "Kaban Lake Embankment",
+            "travel",
+            "landmarks"
           ],
-          "commons_file": "Temple of All Religions Kazan.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Temple_of_All_Religions_Kazan.jpg",
           "seo_priority": 94,
           "search_intent": [
             "travel_planning",
             "travel_planning"
           ],
-          "type": "landmark",
+          "type": "nature",
           "best_season": [
             "spring",
             "summer",
-            "autumn",
-            "winter"
+            "autumn"
           ],
           "visit_duration_hours": 1,
           "nearby_places": [
@@ -898,7 +891,6 @@
           "visit_duration_hours": 1.5,
           "nearby_places": [
             "Kazan Kremlin",
-            "Kul Sharif Mosque",
             "Governor's Palace"
           ]
         },
@@ -1073,8 +1065,7 @@
           "visit_duration_hours": 1,
           "nearby_places": [
             "Kazan Kremlin",
-            "Annunciation Cathedral",
-            "Kul Sharif Mosque"
+            "Annunciation Cathedral"
           ]
         },
         {
@@ -1554,20 +1545,18 @@
           "maps_query": "Boldino Museum, Nizhny Novgorod, Russia"
         },
         {
-          "name": "Nizhny Novgorod Synagogue",
-          "wiki_title": "Nizhny Novgorod Synagogue",
-          "lat": 56.32032017,
-          "lng": 43.99445836,
+          "name": "Chkalov Stairs",
+          "wiki_title": "Chkalov Stairs",
+          "lat": 56.3285,
+          "lng": 44.0095,
           "order_index": 2,
-          "description": "Nizhny Novgorod Synagogue is a visitor landmark in Nizhny Novgorod, Russia.",
-          "seo_phrase": "Nizhny Novgorod Synagogue in Nizhny Novgorod",
+          "description": "Monumental Volga-side staircase and viewpoint in Nizhny Novgorod.",
+          "seo_phrase": "Chkalov Stairs",
           "seo_keywords": [
-            "Nizhny Novgorod Synagogue",
-            "Nizhny Novgorod",
-            "Russia",
-            "travel"
+            "Chkalov Stairs",
+            "travel",
+            "landmarks"
           ],
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%A1%D0%B8%D0%BD%D0%B0%D0%B3%D0%BE%D0%B3%D0%B0%2C_2013.jpg/960px-%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%A1%D0%B8%D0%BD%D0%B0%D0%B3%D0%BE%D0%B3%D0%B0%2C_2013.jpg",
           "seo_priority": 85,
           "search_intent": [
             "travel_planning",
@@ -3029,26 +3018,24 @@
           "maps_query": "Владивостокская крепость, Vladivostok, Russia"
         },
         {
-          "name": "Vladivostok Synagogue",
-          "wiki_title": "Vladivostok Synagogue",
-          "lat": 43.12266429,
-          "lng": 131.8857078,
+          "name": "Eagle's Nest Hill",
+          "wiki_title": "Eagle's Nest (Vladivostok)",
+          "lat": 43.1185,
+          "lng": 131.8825,
           "order_index": 7,
-          "description": "Vladivostok Synagogue is a visitor landmark in Vladivostok, Russia.",
-          "seo_phrase": "Vladivostok Synagogue in Vladivostok",
+          "description": "Classic panorama point over Vladivostok's golden horn harbour.",
+          "seo_phrase": "Eagle's Nest Hill",
           "seo_keywords": [
-            "Vladivostok Synagogue",
-            "Vladivostok",
-            "Russia",
-            "travel"
+            "Eagle's Nest Hill",
+            "travel",
+            "landmarks"
           ],
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Synagogue%2C_Vladivostok.jpg/960px-Synagogue%2C_Vladivostok.jpg",
           "seo_priority": 85,
           "search_intent": [
             "travel_planning",
             "travel_planning"
           ],
-          "type": "landmark",
+          "type": "viewpoint",
           "best_season": [
             "spring",
             "summer",

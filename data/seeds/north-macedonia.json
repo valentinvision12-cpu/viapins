@@ -788,20 +788,18 @@
           "maps_query": "Clock Tower (Bitola), Bitola, North Macedonia"
         },
         {
-          "name": "New Mosque",
-          "wiki_title": "New Mosque, Bitola",
-          "lat": 41.03083333,
-          "lng": 21.335,
+          "name": "Širok Sokak",
+          "wiki_title": "Bitola",
+          "lat": 41.0315,
+          "lng": 21.3345,
           "order_index": 1,
-          "description": "New Mosque is a visitor landmark in Bitola, North Macedonia.",
-          "seo_phrase": "New Mosque in Bitola",
+          "description": "Bitola's famous pedestrian boulevard lined with neoclassical facades and cafés.",
+          "seo_phrase": "Širok Sokak",
           "seo_keywords": [
-            "New Mosque",
-            "Bitola",
-            "North Macedonia",
-            "travel"
+            "Širok Sokak",
+            "travel",
+            "landmarks"
           ],
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2011_Bitola%2C_Meczet_Jeni_01.JPG/960px-2011_Bitola%2C_Meczet_Jeni_01.JPG",
           "seo_priority": 85,
           "search_intent": [
             "informational",
@@ -2066,31 +2064,28 @@
       },
       "places": [
         {
-          "name": "Šarena Mosque",
-          "wiki_title": "Šarena Mosque",
-          "lat": 42.00583333,
-          "lng": 20.96666667,
+          "name": "Tetovo City Park",
+          "wiki_title": "Tetovo",
+          "lat": 42.0085,
+          "lng": 20.9715,
           "order_index": 0,
-          "description": "Šarena Mosque is a visitor landmark in Tetovo, North Macedonia.",
-          "seo_phrase": "Šarena Mosque in Tetovo",
+          "description": "Central park and promenade space in Tetovo beneath the surrounding mountains.",
+          "seo_phrase": "Tetovo City Park",
           "seo_keywords": [
-            "Šarena Mosque",
-            "Tetovo",
-            "North Macedonia",
-            "travel"
+            "Tetovo City Park",
+            "travel",
+            "landmarks"
           ],
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Kalkandelen_-_Alaca_Cami_R01.JPG/960px-Kalkandelen_-_Alaca_Cami_R01.JPG",
           "seo_priority": 85,
           "search_intent": [
             "informational",
             "travel_planning"
           ],
-          "type": "landmark",
+          "type": "nature",
           "best_season": [
             "spring",
             "summer",
-            "autumn",
-            "winter"
+            "autumn"
           ],
           "visit_duration_hours": 1,
           "nearby_places": [],
@@ -2314,56 +2309,51 @@
           ]
         },
         {
-          "name": "Painted Mosque",
-          "wiki_title": "Painted Mosque, Tetovo",
-          "lat": 42.0103,
-          "lng": 20.9714,
+          "name": "Pena River Walk Tetovo",
+          "wiki_title": "Tetovo",
+          "lat": 42.0095,
+          "lng": 20.971,
           "order_index": 8,
-          "description": "Painted Mosque — Tetovo, North Macedonia.",
-          "seo_phrase": "Painted Mosque",
+          "description": "Riverside walk through Tetovo with mountain backdrop.",
+          "seo_phrase": "Pena River Walk Tetovo",
           "seo_keywords": [
-            "Painted Mosque",
-            "Tetovo",
-            "North Macedonia"
+            "Pena River Walk Tetovo",
+            "travel",
+            "landmarks"
           ],
-          "commons_file": "Šarena Džamija, Tetovo.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Šarena_Džamija%2C_Tetovo.jpg",
           "seo_priority": 88,
           "search_intent": [
             "informational",
             "travel_planning"
           ],
-          "type": "church",
+          "type": "nature",
           "best_season": [
             "spring",
             "summer",
-            "autumn",
-            "winter"
+            "autumn"
           ],
           "visit_duration_hours": 1,
           "nearby_places": []
         },
         {
-          "name": "Arabati Baba Tekke",
-          "wiki_title": "Arabati Baba Tek’e",
-          "lat": 42.0156,
-          "lng": 20.9639,
+          "name": "Tetovo Kale Approach",
+          "wiki_title": "Tetovo Fortress",
+          "lat": 42.0145,
+          "lng": 20.978,
           "order_index": 9,
-          "description": "Arabati Baba Tekke — Tetovo, North Macedonia.",
-          "seo_phrase": "Arabati Baba Tekke",
+          "description": "Hill approach toward Tetovo's fortress ruins with valley views.",
+          "seo_phrase": "Tetovo Kale Approach",
           "seo_keywords": [
-            "Arabati Baba Tekke",
-            "Tetovo",
-            "North Macedonia"
+            "Tetovo Kale Approach",
+            "travel",
+            "landmarks"
           ],
-          "commons_file": "Arabati Baba Tekke.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Arabati_Baba_Tekke.jpg",
           "seo_priority": 88,
           "search_intent": [
             "informational",
             "travel_planning"
           ],
-          "type": "landmark",
+          "type": "historic_site",
           "best_season": [
             "spring",
             "summer",

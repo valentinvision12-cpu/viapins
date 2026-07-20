@@ -64,7 +64,7 @@ export function HomeExplore({ countries, searchIndex, cities }: Props) {
         return themedCountries.some((c) => c.slug === item.slug.country);
       }
       if (!item.slug.city) return false;
-      const key = `${item.slug.country}/${item.slug.city}`;
+      const key = `${item.slug.country}/${item.slug.city}` as `${string}/${string}`;
       return matchesTheme(cityTagsByKey.get(key), theme);
     });
   }, [searchIndex, theme, themedCountries, cityTagsByKey]);

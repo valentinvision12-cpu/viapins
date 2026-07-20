@@ -52,7 +52,7 @@ export const COUNTRY_COVER_LANDMARKS: Record<string, CountryLandmark[]> = {
   "Bosnia and Herzegovina": [
     { wikiTitle: "Stari Most", commonsFile: "Mostar Old Bridge 2.jpg" },
     { wikiTitle: "Sarajevo City Hall", commonsFile: "Vijećnica Sarajevo.jpg" },
-    { wikiTitle: "Gazi Husrev-beg Mosque", commonsFile: "Gazi Husrev-beg Mosque Sarajevo.jpg" },
+    { wikiTitle: "Latin Bridge" },
   ],
   Portugal: [
     { wikiTitle: "Belém Tower", commonsFile: "Torre de Belém April 2009-4.jpg" },

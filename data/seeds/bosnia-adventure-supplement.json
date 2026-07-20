@@ -1,14 +1,67 @@
 {
   "adventures": [
-    { "name": "Una National Park", "wiki_title": "Una National Park", "lat": 44.5, "lng": 16.2, "region": "Bihać" },
-    { "name": "Sutjeska National Park", "wiki_title": "Sutjeska National Park", "lat": 43.35, "lng": 18.68, "region": "Foča" },
-    { "name": "Kozara National Park", "wiki_title": "Kozara National Park", "lat": 45.0, "lng": 16.9, "region": "Prijedor" },
-    { "name": "Blidinje Nature Park", "wiki_title": "Blidinje", "lat": 43.65, "lng": 17.55, "region": "Jablanica" },
-    { "name": "Lukomir Village", "wiki_title": "Lukomir", "lat": 43.305, "lng": 18.175, "region": "Sarajevo" },
-    { "name": "Rakitnica Canyon", "wiki_title": "Rakitnica (river)", "lat": 43.45, "lng": 18.55, "region": "Konjic" },
-    { "name": "Kravica Waterfall", "wiki_title": "Kravica waterfall", "lat": 43.155, "lng": 17.608, "region": "Ljubuški" },
-    { "name": "Blagaj Tekke", "wiki_title": "Blagaj", "lat": 43.258, "lng": 17.903, "region": "Mostar" },
-    { "name": "Prenj Mountain", "wiki_title": "Prenj", "lat": 43.35, "lng": 17.85, "region": "Konjic" },
-    { "name": "Drina River Canyon", "wiki_title": "Drina", "lat": 43.95, "lng": 19.35, "region": "Višegrad" }
+    {
+      "name": "Una National Park",
+      "wiki_title": "Una National Park",
+      "lat": 44.5,
+      "lng": 16.2,
+      "region": "Bihać"
+    },
+    {
+      "name": "Sutjeska National Park",
+      "wiki_title": "Sutjeska National Park",
+      "lat": 43.35,
+      "lng": 18.68,
+      "region": "Foča"
+    },
+    {
+      "name": "Kozara National Park",
+      "wiki_title": "Kozara National Park",
+      "lat": 45,
+      "lng": 16.9,
+      "region": "Prijedor"
+    },
+    {
+      "name": "Blidinje Nature Park",
+      "wiki_title": "Blidinje",
+      "lat": 43.65,
+      "lng": 17.55,
+      "region": "Jablanica"
+    },
+    {
+      "name": "Lukomir Village",
+      "wiki_title": "Lukomir",
+      "lat": 43.305,
+      "lng": 18.175,
+      "region": "Sarajevo"
+    },
+    {
+      "name": "Rakitnica Canyon",
+      "wiki_title": "Rakitnica (river)",
+      "lat": 43.45,
+      "lng": 18.55,
+      "region": "Konjic"
+    },
+    {
+      "name": "Kravica Waterfall",
+      "wiki_title": "Kravica waterfall",
+      "lat": 43.155,
+      "lng": 17.608,
+      "region": "Ljubuški"
+    },
+    {
+      "name": "Prenj Mountain",
+      "wiki_title": "Prenj",
+      "lat": 43.35,
+      "lng": 17.85,
+      "region": "Konjic"
+    },
+    {
+      "name": "Drina River Canyon",
+      "wiki_title": "Drina",
+      "lat": 43.95,
+      "lng": 19.35,
+      "region": "Višegrad"
+    }
   ]
 }
