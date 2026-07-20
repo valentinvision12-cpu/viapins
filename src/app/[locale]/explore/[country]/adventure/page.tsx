@@ -73,7 +73,7 @@ export default async function AdventurePage({ params }: Props) {
 
       <main className="min-h-screen bg-[#F8F6F1]">
         {/* Hero */}
-        <section className="relative h-[42vh] min-h-[280px] max-h-[420px] overflow-hidden">
+        <section className="relative min-h-[40vh] sm:min-h-[400px] h-[48vh] max-h-[560px] overflow-hidden">
           <CountryHeroCover
             country={collection.country}
             coverImages={coverImages}
@@ -81,9 +81,9 @@ export default async function AdventurePage({ params }: Props) {
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/35 to-black/20 pointer-events-none" />
 
-          <div className="relative z-10 h-full container max-w-4xl mx-auto px-6 flex flex-col justify-end pb-8">
+          <div className="relative z-10 h-full container max-w-6xl mx-auto px-6 flex flex-col justify-end pb-10">
             <Link
-              href="/"
+              href={`/explore/${country}`}
               className="inline-flex items-center gap-1.5 text-white/55 hover:text-white text-sm mb-4 transition-colors w-fit"
             >
               <ArrowLeft className="w-4 h-4" />
@@ -93,7 +93,7 @@ export default async function AdventurePage({ params }: Props) {
             <div className="flex items-center gap-2 mb-2">
               <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-orange-500/25 border border-orange-400/30 text-orange-100 text-xs font-semibold">
                 <Compass className="w-3.5 h-3.5" />
-                Adventure
+                Adventure Mode
               </span>
               <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-white/10 border border-white/15 text-white/80 text-xs">
                 <Car className="w-3.5 h-3.5" />
@@ -101,10 +101,10 @@ export default async function AdventurePage({ params }: Props) {
               </span>
             </div>
 
-            <h1 className="text-white font-black text-3xl sm:text-4xl tracking-tight mb-1">
+            <h1 className="text-white font-black text-3xl sm:text-4xl md:text-5xl tracking-tight mb-1">
               {collection.country}
             </h1>
-            <p className="text-white/65 text-sm sm:text-base max-w-xl leading-relaxed">
+            <p className="text-white/65 text-sm sm:text-base max-w-2xl leading-relaxed">
               {t("heroSubtitle")}
             </p>
 
@@ -119,8 +119,8 @@ export default async function AdventurePage({ params }: Props) {
 
         {/* Info strip */}
         <section className="border-b border-orange-100 bg-orange-50/50">
-          <div className="container max-w-4xl mx-auto px-6 py-4">
-            <p className="text-stone-600 text-sm leading-relaxed">
+          <div className="container max-w-6xl mx-auto px-6 py-4">
+            <p className="text-stone-600 text-sm leading-relaxed max-w-3xl">
               {collection.seo?.intro ?? t("infoStrip")}
             </p>
           </div>
@@ -135,7 +135,7 @@ export default async function AdventurePage({ params }: Props) {
         />
 
         {/* Places detail list */}
-        <section className="container max-w-4xl mx-auto px-6 py-6">
+        <section className="container max-w-6xl mx-auto px-6 py-6">
           <h2 className="text-stone-800 font-bold text-lg mb-2 flex items-center gap-2">
             <Compass className="w-5 h-5 text-orange-500" />
             {t("allStopsDetail")}

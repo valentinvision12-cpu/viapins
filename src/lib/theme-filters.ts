@@ -35,3 +35,12 @@ export function matchesTheme(
   const normalized = (tags ?? []).map((t) => t.toLowerCase());
   return aliases.some((a) => normalized.some((t) => t.includes(a)));
 }
+
+/** Themes that match at least one destination — hide empty filter chips. */
+export function getAvailableThemes(
+  tagLists: (string[] | undefined | null)[]
+): ThemeFilter[] {
+  return THEME_FILTERS.filter((theme) =>
+    tagLists.some((tags) => matchesTheme(tags, theme))
+  );
+}

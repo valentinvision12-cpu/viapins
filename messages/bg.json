@@ -23,7 +23,8 @@
     "signOut": "Изход",
     "home": "Разгледай",
     "adventures": "Маршрути",
-    "discover": "Открий"
+    "discover": "Открий",
+    "community": "Общност"
   },
   "home": {
     "heroEyebrow": "Безплатни туристически гидове",
@@ -41,6 +42,7 @@
     "heroStep3Desc": "→ Google Maps",
     "heroRouteCaption": "Реални градове · Реални места · Твоят маршрут",
     "searchPlaceholder": "Накъде?",
+    "themesLookingFor": "Какво търсиш?",
     "inspireMe": "Вдъхнови ме",
     "destinationsTitle": "Градове за разглеждане",
     "destinationsCount": "града",
@@ -156,6 +158,8 @@
     "heroSubtitle": "Отвори който и да е град по-долу за 10 задължителни места — снимки, история и GPS маршрути.",
     "topCitiesTitle": "Топ {count} града",
     "citiesLabel": "{count} града",
+    "epicRoadTrips": "Епични пътувания",
+    "epicRoadTripsDesc": "Остави градските гидове — живописни пътища, скрити спирки и маршрут ден по ден.",
     "metaTitle": "Топ градове в {country} | Туристически гид",
     "metaDescription": "Разгледай топ градовете в {country}. Избери град за 10 задължителни забележителности с GPS маршрути."
   },
@@ -404,7 +408,10 @@
   "adventureBanner": {
     "title": "{country} — пътуване с кола",
     "subtitle": "Живописни пътища извън градските гидове · отвори в Maps",
-    "badge": "ПРИКЛЮЧЕНИЕ"
+    "badge": "ПРИКЛЮЧЕНИЕ",
+    "modeBadge": "Adventure Mode",
+    "days": "{count, plural, one {# ден} other {# дни}}",
+    "stops": "{count, plural, one {# спирка} other {# спирки}}"
   },
   "favorites": {
     "nudgeTitle": "Запази {name}?",

@@ -3,23 +3,18 @@
 import Image from "next/image";
 import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
 import { useTranslations } from "next-intl";
-import { Search, Compass } from "lucide-react";
-import { Link } from "@/i18n/navigation";
-import type { DestinationCard } from "@/actions/get-destinations";
-import { InspireMeButton } from "@/components/public/inspire-me-modal";
+import { Search } from "lucide-react";
 import { LUXURY, COMPASS } from "@/lib/luxury-palette";
 
 const COMPASS_IMAGE = "/images/hero-luxury-compass.png";
 
 interface HeroMapProps {
-  inspireCities: DestinationCard[];
   searchQuery: string;
   onSearchChange: (q: string) => void;
   onSearchSubmit: () => void;
 }
 
 export function HeroMap({
-  inspireCities,
   searchQuery,
   onSearchChange,
   onSearchSubmit,
@@ -129,22 +124,6 @@ export function HeroMap({
             </button>
           </form>
         </div>
-
-        <div className="flex flex-wrap items-center justify-center gap-4 mb-2">
-          <InspireMeButton destinations={inspireCities} variant="hero" />
-          <Link
-            href="/adventures"
-            className="inline-flex items-center justify-center gap-2 px-6 py-3.5 min-h-[48px] rounded-full text-sm font-bold border bg-white/65 transition-all hover:-translate-y-0.5 hover:bg-white hover:shadow-md active:scale-[0.98] w-full sm:w-auto"
-            style={{
-              color: LUXURY.text,
-              borderColor: LUXURY.bronzeBorderStrong,
-            }}
-          >
-            <Compass className="w-4 h-4 text-[#D9472C]" />
-            {t("heroAdventuresCta")}
-          </Link>
-        </div>
-
       </div>
 
       <div

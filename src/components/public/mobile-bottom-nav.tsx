@@ -2,28 +2,30 @@
 
 import { usePathname } from "@/i18n/navigation";
 import { Link } from "@/i18n/navigation";
-import { Globe, Heart, Map } from "lucide-react";
+import { Globe, Heart, Users } from "lucide-react";
 import { useFavorites } from "@/lib/context/favorites-context";
+import { useTranslations } from "next-intl";
 import { motion } from "framer-motion";
 
 const NAV_ITEMS = [
-  { key: "home",       href: "/",            icon: "Globe", label: "Destinations" },
-  { key: "adventures", href: "/adventures",  icon: "Map",   label: "Routes"       },
-  { key: "saved",      href: "/my-passport", icon: "Heart", label: "Saved"        },
+  { key: "explore", href: "/", icon: "Globe", labelKey: "home" },
+  { key: "saved", href: "/my-passport", icon: "Heart", labelKey: "myPassport" },
+  { key: "community", href: "/discover", icon: "Users", labelKey: "community" },
 ] as const;
 
 function matchKey(pathname: string, key: string): boolean {
-  if (key === "home")       return pathname === "/" || pathname === "";
-  if (key === "adventures") return pathname.includes("/adventures");
-  if (key === "saved")      return pathname.includes("/my-passport");
+  if (key === "explore") return pathname === "/" || pathname === "";
+  if (key === "saved") return pathname.includes("/my-passport");
+  if (key === "community") return pathname.includes("/discover");
   return false;
 }
 
-const ICON_MAP: Record<string, React.ElementType> = { Globe, Map, Heart };
+const ICON_MAP: Record<string, React.ElementType> = { Globe, Heart, Users };
 
 export function MobileBottomNav() {
   const pathname = usePathname();
   const { totalFavorites } = useFavorites();
+  const t = useTranslations("nav");
 
   if (pathname.includes("/my-passport")) return null;
 
@@ -61,7 +63,7 @@ export function MobileBottomNav() {
                   )}
                 </div>
                 <span className={`text-[10px] font-medium relative z-10 leading-none ${active ? "font-semibold" : ""}`}>
-                  {item.label}
+                  {t(item.labelKey)}
                 </span>
               </Link>
             );

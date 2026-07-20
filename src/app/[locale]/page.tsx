@@ -62,12 +62,6 @@ export default async function HomePage({ params }: Props) {
     // Keep covers only for countries (grid); city search can use initials until typed
     coverImage: item.type === "country" ? item.coverImage : "",
   }));
-  // Small sample for inspire modal — prefer cities with covers
-  const withCovers = allCities.filter((c) => c.coverImage);
-  const inspireCities = (withCovers.length > 0 ? withCovers : allCities).slice(
-    0,
-    48
-  );
   const jsonLd = buildHomeJsonLd(locale);
 
   return (
@@ -83,7 +77,7 @@ export default async function HomePage({ params }: Props) {
         <HomeExplore
           countries={allCountries}
           searchIndex={searchIndex}
-          inspireCities={inspireCities}
+          cities={allCities}
         />
 
         <footer

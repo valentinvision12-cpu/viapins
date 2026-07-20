@@ -58,7 +58,7 @@ export function AdventureRoutePlanner({ places, country, totalDays, locale = "en
   }
 
   return (
-    <section className="container max-w-4xl mx-auto px-6 -mt-6 relative z-10 pb-6">
+    <section className="container max-w-6xl mx-auto px-6 -mt-6 relative z-10 pb-6">
       <motion.div
         initial={{ opacity: 0, y: 16 }}
         animate={{ opacity: 1, y: 0 }}

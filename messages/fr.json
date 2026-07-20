@@ -17,10 +17,11 @@
   },
   "nav": {
     "explore": "Explorer",
-    "myPassport": "Mon Passeport",
+    "myPassport": "Mes Lieux",
     "signIn": "Se Connecter",
     "signOut": "Se Déconnecter",
-    "home": "Accueil"
+    "home": "Explorer",
+    "community": "Communauté"
   },
   "home": {
     "heroEyebrow": "Gratuit · Sans app · 2 min",
@@ -37,6 +38,7 @@
     "heroStep3Desc": "→ Google Maps",
     "heroRouteCaption": "Vraies villes · Vrais monuments · Votre parcours sur mesure",
     "searchPlaceholder": "Où aller ?",
+    "themesLookingFor": "Que recherchez-vous ?",
     "inspireMe": "Inspirez-Moi",
     "destinationsTitle": "Villes à explorer",
     "destinationsCount": "villes",

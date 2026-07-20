@@ -9,16 +9,17 @@ import {
 } from "@/actions/get-destinations";
 import { DestinationCard } from "@/components/public/destination-card";
 import { NavHeader } from "@/components/public/nav-header";
-import { AdventureLinkBanner } from "@/components/public/adventure-link-banner";
+import { AdventureRouteCard } from "@/components/public/adventure-route-card";
 import { CountryHeroCover } from "@/components/public/country-hero-cover";
 import { ShareDestinationButton } from "@/components/public/share-destination-button";
 import { SITE_LOGO_PATH, SITE_NAME } from "@/lib/site-brand";
 import { ContinentBadge } from "@/components/public/continent-badge";
 import { CountryFlag } from "@/components/public/country-flag";
-import { hasAdventureMode } from "@/lib/adventure-data";
+import { getAdventureCollection } from "@/lib/adventure-data";
 import { getCountryContinent } from "@/lib/country-continents";
 import { resolveCountryCoverImages } from "@/lib/country-covers";
 import { isBadImageUrl } from "@/lib/wiki-image";
+import { filterPlacesForDisplay, pickCityCoverFromPlaces } from "@/lib/city-cover";
 import {
   buildCountryPageUrl,
   buildLocaleAlternates,
@@ -88,13 +89,24 @@ export default async function ExploreCountryPage({ params }: Props) {
   const t = await getTranslations({ locale, namespace: "common" });
   const tCountry = await getTranslations({ locale, namespace: "countryPage" });
 
-  const [country, data, showAdventure] = await Promise.all([
+  const [country, data, adventure] = await Promise.all([
     getCountryBySlug(countrySlug),
     getCitiesByCountrySlug(countrySlug),
-    hasAdventureMode(countrySlug),
+    getAdventureCollection(countrySlug),
   ]);
 
   if (!country || !data) notFound();
+
+  const adventurePlaces = adventure
+    ? filterPlacesForDisplay(adventure.places)
+    : [];
+  const showAdventure = adventurePlaces.length > 0;
+  const adventureCover =
+    (adventure?.heroImage?.trim() && !isBadImageUrl(adventure.heroImage)
+      ? adventure.heroImage
+      : "") ||
+    pickCityCoverFromPlaces(adventurePlaces) ||
+    "";
 
   const continent = getCountryContinent(country.country);
   const description = tCountry("metaDescription", { country: country.country });
@@ -201,13 +213,24 @@ export default async function ExploreCountryPage({ params }: Props) {
             ))}
           </div>
 
-          {showAdventure && (
-            <div className="mt-12 pt-10 border-t border-stone-200/80">
-              <AdventureLinkBanner
-                countrySlug={countrySlug}
-                countryName={country.country}
-                show
-              />
+          {showAdventure && adventure && (
+            <div className="mt-14 pt-10 border-t border-stone-200/80">
+              <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 tracking-tight mb-2">
+                {tCountry("epicRoadTrips")}
+              </h2>
+              <p className="text-stone-500 text-sm sm:text-base mb-6 max-w-2xl">
+                {tCountry("epicRoadTripsDesc")}
+              </p>
+              <div className="max-w-3xl">
+                <AdventureRouteCard
+                  countrySlug={countrySlug}
+                  countryName={country.country}
+                  coverImage={adventureCover}
+                  totalDays={adventure.totalDays}
+                  stopCount={adventurePlaces.length}
+                  subtitle={adventure.subtitle}
+                />
+              </div>
             </div>
           )}
         </section>

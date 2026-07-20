@@ -23,7 +23,8 @@
     "signOut": "Sign Out",
     "home": "Explore",
     "adventures": "Routes",
-    "discover": "Discover"
+    "discover": "Discover",
+    "community": "Community"
   },
   "home": {
     "heroEyebrow": "Free travel guides",
@@ -41,6 +42,7 @@
     "heroStep3Desc": "→ Google Maps",
     "heroRouteCaption": "Real cities · Real landmarks · Your custom route",
     "searchPlaceholder": "Where to?",
+    "themesLookingFor": "What are you looking for?",
     "inspireMe": "Inspire Me",
     "destinationsTitle": "Cities to explore",
     "destinationsCount": "cities",
@@ -631,6 +633,8 @@
     "heroSubtitle": "Open any city below for 10 must-see landmarks — photos, history, and GPS routes.",
     "topCitiesTitle": "Top {count} cities",
     "citiesLabel": "{count} cities",
+    "epicRoadTrips": "Epic Road Trips",
+    "epicRoadTripsDesc": "Leave the city guides behind — scenic drives, hidden stops, and a day-by-day route.",
     "metaTitle": "Top Cities in {country} | Travel Guide",
     "metaDescription": "Explore the top cities in {country}. Pick a city to see 10 must-see landmarks with GPS routes."
   },
@@ -661,7 +665,10 @@
   "adventureBanner": {
     "title": "{country} Road Trip",
     "subtitle": "Scenic drives beyond the city guides · open in Maps",
-    "badge": "ADVENTURE"
+    "badge": "ADVENTURE",
+    "modeBadge": "Adventure Mode",
+    "days": "{count, plural, one {# day} other {# days}}",
+    "stops": "{count, plural, one {# stop} other {# stops}}"
   },
   "themes": {
     "beach": "Beach",

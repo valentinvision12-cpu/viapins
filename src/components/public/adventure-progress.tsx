@@ -30,7 +30,7 @@ export function AdventureProgress({ country, totalPlaces }: Props) {
         exit={{ opacity: 0, y: -8 }}
         className="sticky top-[64px] z-20 backdrop-blur-md border-b border-orange-100 bg-orange-50/90"
       >
-        <div className="container max-w-4xl mx-auto px-6 py-2.5 flex items-center gap-3">
+        <div className="container max-w-6xl mx-auto px-6 py-2.5 flex items-center gap-3">
           <Car className="w-4 h-4 text-orange-600 flex-shrink-0" />
           <div className="flex-1 h-1 bg-orange-100 rounded-full overflow-hidden">
             <motion.div

@@ -2,7 +2,7 @@
 
 import { useTranslations } from "next-intl";
 import { Link, usePathname } from "@/i18n/navigation";
-import { Compass, Briefcase } from "lucide-react";
+import { Briefcase } from "lucide-react";
 import { SiteLogo } from "@/components/public/site-logo";
 import { LanguageSwitcher } from "@/components/language-switcher";
 import { UserNav } from "@/components/public/user-nav";
@@ -18,6 +18,8 @@ export function NavHeader() {
 
   const isDarkHeroPage = pathname.includes("/explore/");
   const isMyTrip = pathname.includes("/my-passport");
+  const isCommunity = pathname.includes("/discover");
+  const isExplore = pathname === "/" || pathname === "";
 
   useEffect(() => {
     const handler = () => setScrolled(window.scrollY > 60);
@@ -28,14 +30,33 @@ export function NavHeader() {
 
   const dark = !scrolled && isDarkHeroPage;
 
+  function linkClass(active: boolean) {
+    return cn(
+      "text-[15px] font-medium tracking-wide transition-colors duration-300",
+      active ? "font-semibold" : "",
+      dark
+        ? active
+          ? "text-white"
+          : "text-white/65 hover:text-white"
+        : active
+        ? ""
+        : "hover:opacity-80"
+    );
+  }
+
+  function linkStyle(active: boolean) {
+    if (dark) return undefined;
+    return { color: active ? LUXURY.bronze : LUXURY.textSecondary };
+  }
+
   return (
     <header
       className={cn(
         "fixed top-0 left-0 right-0 z-50 transition-all duration-300",
         scrolled
-          ? "bg-[#FDFBF7]/97 backdrop-blur-md border-b py-3"
+          ? "bg-[#FDFBF7]/97 backdrop-blur-md border-b py-3.5"
           : isDarkHeroPage
-          ? "bg-black/25 backdrop-blur-md border-b border-white/10 py-3.5"
+          ? "bg-black/25 backdrop-blur-md border-b border-white/10 py-4"
           : "backdrop-blur-sm py-4 md:py-5"
       )}
       style={
@@ -49,86 +70,39 @@ export function NavHeader() {
           : undefined
       }
     >
-      <div className="container max-w-7xl mx-auto px-4 sm:px-6 flex items-center justify-between gap-3">
+      <div className="container max-w-7xl mx-auto px-4 sm:px-6 flex items-center justify-between gap-4">
         <div className="flex items-center gap-2 sm:gap-3 min-w-0">
           <Link href="/" className="flex items-center group shrink-0">
             <SiteLogo dark={dark} />
           </Link>
-          {/* Language first — always visible, switches entire UI immediately */}
           <LanguageSwitcher variant={dark ? "default" : "minimal"} />
         </div>
 
-        <nav className="hidden md:flex items-center gap-7">
+        <nav className="hidden md:flex items-center gap-10 lg:gap-12">
           <Link
             href="/"
-            className={cn(
-              "text-[15px] font-semibold transition-colors duration-300",
-              pathname === "/" || pathname === ""
-                ? "font-semibold"
-                : "",
-              dark
-                ? "text-white/70 hover:text-white"
-                : "hover:opacity-80"
-            )}
-            style={dark ? undefined : { color: pathname === "/" ? LUXURY.bronze : LUXURY.textSecondary }}
+            className={linkClass(isExplore)}
+            style={linkStyle(isExplore)}
           >
             {t("home")}
           </Link>
           <Link
             href="/my-passport"
             className={cn(
-              "inline-flex items-center gap-1.5 text-[15px] font-semibold transition-colors duration-300",
-              isMyTrip
-                ? dark
-                  ? "text-white"
-                  : "text-stone-900"
-                : dark
-                ? "text-white/70 hover:text-white"
-                : "text-stone-600 hover:text-stone-900"
+              "inline-flex items-center gap-2",
+              linkClass(isMyTrip)
             )}
+            style={linkStyle(isMyTrip)}
           >
-            <Briefcase className="w-3.5 h-3.5" />
             {t("myPassport")}
             <NavTripBadge dark={dark} />
           </Link>
           <Link
             href="/discover"
-            className={cn(
-              "inline-flex items-center gap-1.5 text-[15px] font-semibold transition-colors duration-300",
-              pathname.includes("/discover")
-                ? "font-semibold"
-                : "",
-              dark
-                ? "text-white/70 hover:text-white"
-                : "text-stone-600 hover:text-stone-900"
-            )}
-            style={
-              !dark && pathname.includes("/discover")
-                ? { color: LUXURY.bronze }
-                : undefined
-            }
+            className={linkClass(isCommunity)}
+            style={linkStyle(isCommunity)}
           >
-            {t("discover")}
-          </Link>
-          <Link
-            href="/adventures"
-            className={cn(
-              "inline-flex items-center gap-1.5 text-[15px] font-semibold transition-colors duration-300",
-              pathname.includes("/adventures")
-                ? "font-semibold"
-                : "",
-              dark
-                ? "text-white/70 hover:text-white"
-                : "text-stone-600 hover:text-stone-900"
-            )}
-            style={
-              !dark && pathname.includes("/adventures")
-                ? { color: LUXURY.bronze }
-                : undefined
-            }
-          >
-            <Compass className="w-3.5 h-3.5" />
-            {t("adventures")}
+            {t("community")}
           </Link>
         </nav>
 

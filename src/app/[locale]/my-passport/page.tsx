@@ -72,7 +72,7 @@ export default async function MyPassportPage({ params }: Props) {
         className="min-h-screen pt-20"
         style={{ background: PASSPORT.bgGradient, color: PASSPORT.text }}
       >
-        <div className="container mx-auto max-w-4xl px-6 py-10 sm:py-12">
+        <div className="container mx-auto max-w-6xl px-6 py-10 sm:py-12">
           {!user && (
             <div className="mb-10 flex items-center gap-4">
               <div
