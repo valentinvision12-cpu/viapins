@@ -3,7 +3,7 @@
 import { useState, useCallback, useEffect } from "react";
 import { createPortal } from "react-dom";
 import Image from "next/image";
-import { IMAGE_UNOPTIMIZED } from "@/lib/image-runtime";
+import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
 import { motion, AnimatePresence } from "framer-motion";
 import { useTranslations } from "next-intl";
 import {
@@ -361,7 +361,7 @@ export function InspireMeModal({ destinations, open, onClose }: Props) {
                     fill
                     className="object-cover"
                     unoptimized={IMAGE_UNOPTIMIZED}
-                  />
+              referrerPolicy={IMAGE_REFERRER_POLICY} />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
                   <div className="absolute bottom-4 left-4 text-left">
                     <p className="text-white/70 text-xs">{result.destination.country}</p>

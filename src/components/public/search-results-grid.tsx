@@ -2,6 +2,7 @@
 
 import { useMemo } from "react";
 import Image from "next/image";
+import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
 import { useTranslations } from "next-intl";
 import { Search, Globe } from "lucide-react";
 import { Link } from "@/i18n/navigation";
@@ -74,7 +75,8 @@ export function SearchResultsGrid({ items, query }: Props) {
                         alt={item.name}
                         fill
                         className="object-cover"
-                      />
+              unoptimized={IMAGE_UNOPTIMIZED}
+              referrerPolicy={IMAGE_REFERRER_POLICY} />
                     )}
                   </div>
                   <div className="min-w-0">

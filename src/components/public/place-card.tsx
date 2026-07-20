@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react";
 import Image from "next/image";
+import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
 import { motion, AnimatePresence } from "framer-motion";
 import { BookOpen, ChevronDown, Plus, Check, ExternalLink, Heart, Star } from "lucide-react";
 import { useTranslations } from "next-intl";
@@ -148,7 +149,7 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
               fill
               sizes="(max-width: 640px) 100vw, 208px"
               className="object-cover"
-              referrerPolicy="no-referrer"
+              referrerPolicy={IMAGE_REFERRER_POLICY}
               onError={() => {
                 fetch(`/api/places/${place.id}/image?refresh=1`)
                   .then((r) => r.json())
@@ -158,7 +159,7 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
                   })
                   .catch(() => setImgSrc(fallbackImageUrl(`${place.name}-${city}`)));
               }}
-            />
+              unoptimized={IMAGE_UNOPTIMIZED} />
           ) : (
             <div className="relative w-full h-full bg-gradient-to-br from-stone-200 to-stone-300">
               <Image
@@ -167,7 +168,8 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
                 fill
                 sizes="(max-width: 640px) 100vw, 208px"
                 className="object-cover opacity-70"
-              />
+              unoptimized={IMAGE_UNOPTIMIZED}
+              referrerPolicy={IMAGE_REFERRER_POLICY} />
             </div>
           )}
 

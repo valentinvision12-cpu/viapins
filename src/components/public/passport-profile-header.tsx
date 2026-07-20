@@ -2,7 +2,7 @@
 
 import { useState, useRef } from "react";
 import Image from "next/image";
-import { IMAGE_UNOPTIMIZED } from "@/lib/image-runtime";
+import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
 import { Camera, Check, Loader2, MapPin, Pencil, User } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
@@ -109,7 +109,8 @@ export function PassportProfileHeader({
               priority
               className="object-cover"
               sizes="(max-width: 896px) 100vw, 896px"
-            />
+              unoptimized={IMAGE_UNOPTIMIZED}
+              referrerPolicy={IMAGE_REFERRER_POLICY} />
           ) : (
             <div
               className="absolute inset-0"
@@ -206,7 +207,7 @@ export function PassportProfileHeader({
                   fill
                   className="object-cover"
                   unoptimized={IMAGE_UNOPTIMIZED}
-                />
+              referrerPolicy={IMAGE_REFERRER_POLICY} />
               ) : (
                 <div
                   className="flex h-full w-full items-center justify-center"

@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { IMAGE_UNOPTIMIZED } from "@/lib/image-runtime";
+import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
 import { FolderOpen, MapPin, Star, User } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
@@ -44,7 +44,7 @@ export function TravelerPublicProfile({ traveler }: Props) {
               fill
               className="object-cover"
               unoptimized={IMAGE_UNOPTIMIZED}
-            />
+              referrerPolicy={IMAGE_REFERRER_POLICY} />
           ) : null}
         </div>
         <div className="relative px-5 pb-6 sm:px-7">
@@ -63,7 +63,7 @@ export function TravelerPublicProfile({ traveler }: Props) {
                     fill
                     className="object-cover"
                     unoptimized={IMAGE_UNOPTIMIZED}
-                  />
+              referrerPolicy={IMAGE_REFERRER_POLICY} />
                 ) : (
                   <div
                     className="flex h-full w-full items-center justify-center"

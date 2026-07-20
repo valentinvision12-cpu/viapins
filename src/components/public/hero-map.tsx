@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { IMAGE_UNOPTIMIZED } from "@/lib/image-runtime";
+import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
 import { useTranslations } from "next-intl";
 import { Search, Compass } from "lucide-react";
 import { Link } from "@/i18n/navigation";
@@ -180,7 +180,7 @@ function HeroLuxuryCompass() {
           className="object-cover object-center"
           unoptimized={IMAGE_UNOPTIMIZED}
           priority
-        />
+              referrerPolicy={IMAGE_REFERRER_POLICY} />
       </div>
 
       {/* Rotating dial — hidden on small phones to keep hero clean */}
@@ -204,7 +204,7 @@ function HeroLuxuryCompass() {
               height={800}
               className="w-full h-full object-cover object-center scale-[2.8]"
               unoptimized={IMAGE_UNOPTIMIZED}
-            />
+              referrerPolicy={IMAGE_REFERRER_POLICY} />
           </div>
         </div>
         <div

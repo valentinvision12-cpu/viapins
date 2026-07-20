@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react";
 import Image from "next/image";
+import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
 import { motion, AnimatePresence } from "framer-motion";
 import {
   MapPin, BookOpen, ChevronDown, Plus, Check, ExternalLink, Compass,
@@ -102,7 +103,7 @@ export function AdventurePlaceCard({ place, locale, index, stopNumber }: Props) 
               fill
               sizes="(max-width: 640px) 100vw, 224px"
               className="object-cover transition-transform duration-500 group-hover:scale-[1.03]"
-              referrerPolicy="no-referrer"
+              referrerPolicy={IMAGE_REFERRER_POLICY}
               onError={() => {
                 fetch(`/api/places/${place.id}/image?refresh=1`)
                   .then((r) => r.json())
@@ -116,7 +117,7 @@ export function AdventurePlaceCard({ place, locale, index, stopNumber }: Props) 
                     else setImgSrc("");
                   });
               }}
-            />
+              unoptimized={IMAGE_UNOPTIMIZED} />
           ) : (
             <div className="w-full h-full bg-gradient-to-br from-orange-100 to-amber-200 flex items-center justify-center">
               <Compass className="w-10 h-10 text-orange-300/80" />

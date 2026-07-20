@@ -2,7 +2,7 @@
 
 import { useState, useTransition, useCallback, useMemo, useEffect } from "react";
 import Image from "next/image";
-import { IMAGE_UNOPTIMIZED } from "@/lib/image-runtime";
+import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
 import { useRouter } from "next/navigation";
 import { useTranslations } from "next-intl";
 import { motion, AnimatePresence } from "framer-motion";
@@ -136,7 +136,7 @@ function SortablePlaceItem({ place, index }: { place: RoutePlaceItem; index: num
           sizes="36px"
           className="object-cover"
           unoptimized={IMAGE_UNOPTIMIZED}
-        />
+              referrerPolicy={IMAGE_REFERRER_POLICY} />
       </div>
 
       {/* Name */}
@@ -380,7 +380,8 @@ export function PassportRouteCard({ route: initialRoute }: Props) {
                   fill
                   sizes="200px"
                   className="object-cover"
-                />
+              unoptimized={IMAGE_UNOPTIMIZED}
+              referrerPolicy={IMAGE_REFERRER_POLICY} />
                 {i < thumbs.length - 1 && (
                   <div className="absolute right-0 inset-y-0 w-px bg-black/30" />
                 )}

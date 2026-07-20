@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import Image from "next/image";
-import { IMAGE_UNOPTIMIZED } from "@/lib/image-runtime";
+import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
 import { getTranslations } from "next-intl/server";
 import { ArrowLeft, MapPin, Star } from "lucide-react";
 import { Link } from "@/i18n/navigation";
@@ -112,7 +112,7 @@ export default async function PlacePage({ params }: Props) {
               className="object-cover"
               priority
               unoptimized={IMAGE_UNOPTIMIZED}
-            />
+              referrerPolicy={IMAGE_REFERRER_POLICY} />
           ) : (
             <div className="h-full w-full bg-stone-200" />
           )}

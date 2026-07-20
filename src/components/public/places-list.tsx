@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Image from "next/image";
+import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
 import { motion, AnimatePresence } from "framer-motion";
 import { MapPin, BookOpen, ChevronDown, Plus } from "lucide-react";
 import { getPlaceContent } from "@/lib/content-locale";
@@ -48,7 +49,8 @@ function PlaceCard({ place, locale, index }: { place: Place; locale: string; ind
           fill
           sizes="(max-width: 640px) 100vw, 192px"
           className="object-cover transition-transform duration-500 group-hover:scale-105"
-        />
+              unoptimized={IMAGE_UNOPTIMIZED}
+              referrerPolicy={IMAGE_REFERRER_POLICY} />
         {/* Order badge */}
         <div className="absolute top-2 left-2 w-7 h-7 rounded-full bg-[oklch(0.72_0.13_82)] flex items-center justify-center text-white text-xs font-bold shadow-lg">
           {index + 1}

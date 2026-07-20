@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import Image from "next/image";
-import { IMAGE_UNOPTIMIZED } from "@/lib/image-runtime";
+import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
 import { useTranslations } from "next-intl";
 import { BookMarked, Stamp, Globe, MapPin, Map, Heart, ExternalLink, Navigation, LayoutGrid, List, Settings, LogOut, ChevronRight, Languages } from "lucide-react";
 import { createBrowserClient } from "@supabase/ssr";
@@ -101,7 +101,7 @@ function FavoritePlaceCard({ place, index }: { place: FavoritePlace; index: numb
           sizes="(max-width: 640px) 50vw, 33vw"
           className="object-cover transition-transform duration-500 group-hover:scale-[1.05]"
           unoptimized={IMAGE_UNOPTIMIZED}
-        />
+              referrerPolicy={IMAGE_REFERRER_POLICY} />
 
         <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-black/5 to-transparent" />
 

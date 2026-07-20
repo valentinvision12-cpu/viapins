@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import Image from "next/image";
-import { IMAGE_UNOPTIMIZED } from "@/lib/image-runtime";
+import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
 import { useTranslations } from "next-intl";
 import { motion, AnimatePresence } from "framer-motion";
 import {
@@ -102,7 +102,7 @@ function PlaceGridCard({ place, index }: { place: FavoritePlace; index: number }
           sizes="(max-width: 640px) 50vw, 33vw"
           className="object-cover transition-transform duration-500 group-hover:scale-[1.04]"
           unoptimized={IMAGE_UNOPTIMIZED}
-        />
+              referrerPolicy={IMAGE_REFERRER_POLICY} />
         <div className="absolute inset-0 bg-gradient-to-t from-black/45 via-transparent to-transparent" />
         <button
           type="button"
@@ -174,7 +174,7 @@ function PlaceListRow({ place, index }: { place: FavoritePlace; index: number })
           sizes="64px"
           className="object-cover"
           unoptimized={IMAGE_UNOPTIMIZED}
-        />
+              referrerPolicy={IMAGE_REFERRER_POLICY} />
       </div>
       <div className="min-w-0 flex-1">
         <h3 className="truncate text-sm font-semibold" style={{ color: PASSPORT.text }}>

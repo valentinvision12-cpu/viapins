@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
 import { useState } from "react";
 import { Layers, ArrowRight, MapPin } from "lucide-react";
 import { Link } from "@/i18n/navigation";
@@ -54,9 +55,9 @@ export function DestinationCard({
           sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
           className="object-cover transition-transform duration-500 group-hover:scale-105"
           priority={priority}
-          referrerPolicy="no-referrer"
+          referrerPolicy={IMAGE_REFERRER_POLICY}
           onError={() => setImgSrc(fallbackImageUrl(seed))}
-        />
+              unoptimized={IMAGE_UNOPTIMIZED} />
 
         <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/15 to-transparent" />
 

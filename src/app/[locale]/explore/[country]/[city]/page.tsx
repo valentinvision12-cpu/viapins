@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import Image from "next/image";
+import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
 import { getTranslations } from "next-intl/server";
 import { MapPin, ArrowLeft, Compass, Tag } from "lucide-react";
 import { Link } from "@/i18n/navigation";
@@ -13,6 +14,7 @@ import {
   resolveCityCoverFromDb,
 } from "@/lib/city-cover";
 import { ensurePlacesHaveImages } from "@/lib/ensure-place-images";
+import { fallbackImageUrl } from "@/lib/fallback-image";
 import { ShareDestinationButton } from "@/components/public/share-destination-button";
 import { PlaceCard } from "@/components/public/place-card";
 import { NavHeader } from "@/components/public/nav-header";
@@ -177,24 +179,19 @@ export default async function ExploreCityPage({ params }: Props) {
 
       <main className="bg-[#F8F6F1]">
         <section className="relative h-[48vh] min-h-[360px] flex items-end">
-          {heroImage ? (
-            <Image
-              src={heroImage}
-              alt={`${destination.city}, ${destination.country} — ${seo.h1Subtitle}`}
-              fill
-              priority
-              sizes="100vw"
-              className="object-cover"
-            />
-          ) : (
-            <div
-              className="absolute inset-0"
-              style={{
-                background:
-                  "linear-gradient(135deg, oklch(0.12 0.10 260) 0%, oklch(0.20 0.12 275) 100%)",
-              }}
-            />
-          )}
+          <Image
+            src={
+              heroImage ||
+              fallbackImageUrl(`${destination.city}-${destination.country}`)
+            }
+            alt={`${destination.city}, ${destination.country} - ${seo.h1Subtitle}`}
+            fill
+            priority
+            sizes="100vw"
+            className="object-cover"
+            unoptimized={IMAGE_UNOPTIMIZED}
+            referrerPolicy={IMAGE_REFERRER_POLICY}
+          />
 
           <div className="absolute inset-0 bg-gradient-to-t from-[oklch(0.10_0.06_252)] via-[oklch(0.10_0.06_252)]/50 to-transparent" />
 

@@ -50,8 +50,7 @@ const nextConfig: NextConfig = {
     ];
   },
   images: {
-    // Only bypass optimization in development (corporate proxy SSL workaround)
-    unoptimized: process.env.NODE_ENV !== "production",
+    unoptimized: true,
     remotePatterns: [
       { protocol: "https", hostname: "picsum.photos" },
       { protocol: "https", hostname: "**.supabase.co" },

@@ -2,7 +2,7 @@
 
 import { useState, useTransition } from "react";
 import Image from "next/image";
-import { IMAGE_UNOPTIMIZED } from "@/lib/image-runtime";
+import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
 import { useRouter } from "next/navigation";
 import { MapPin, Layers, Lock, Globe2, Users, Loader2 } from "lucide-react";
 import { useTranslations } from "next-intl";
@@ -101,7 +101,8 @@ export function CountryCollectionCard({
         {coverImages.length > 0 ? (
           coverImages.map((src, i) => (
             <div key={i} className="relative min-w-0 flex-1">
-              <Image src={src} alt="" fill className="object-cover" unoptimized={IMAGE_UNOPTIMIZED} sizes="120px" />
+              <Image src={src} alt="" fill className="object-cover" unoptimized={IMAGE_UNOPTIMIZED} sizes="120px"
+              referrerPolicy={IMAGE_REFERRER_POLICY} />
             </div>
           ))
         ) : (
@@ -113,7 +114,7 @@ export function CountryCollectionCard({
               className="object-cover"
               unoptimized={IMAGE_UNOPTIMIZED}
               sizes="240px"
-            />
+              referrerPolicy={IMAGE_REFERRER_POLICY} />
           </div>
         )}
         <div className="absolute inset-0 bg-gradient-to-t from-black/55 to-transparent" />

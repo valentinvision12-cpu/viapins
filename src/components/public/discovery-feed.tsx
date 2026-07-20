@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { IMAGE_UNOPTIMIZED } from "@/lib/image-runtime";
+import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
 import { Star, User } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
@@ -66,7 +66,7 @@ export function DiscoveryFeed({ items }: Props) {
                     fill
                     className="object-cover"
                     unoptimized={IMAGE_UNOPTIMIZED}
-                  />
+              referrerPolicy={IMAGE_REFERRER_POLICY} />
                 ) : (
                   <div className="flex h-full w-full items-center justify-center">
                     <User className="h-4 w-4" style={{ color: PASSPORT.accent }} />
@@ -102,7 +102,7 @@ export function DiscoveryFeed({ items }: Props) {
                     fill
                     className="object-cover"
                     unoptimized={IMAGE_UNOPTIMIZED}
-                  />
+              referrerPolicy={IMAGE_REFERRER_POLICY} />
                 </div>
               ) : null}
               <div className="min-w-0 flex-1">

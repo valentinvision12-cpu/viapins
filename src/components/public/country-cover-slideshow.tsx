@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import Image from "next/image";
+import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
 import { cn } from "@/lib/utils";
 import { fallbackImageUrl } from "@/lib/fallback-image";
 
@@ -63,7 +64,8 @@ export function CountryCoverSlideshow({
             "object-cover brightness-[0.96] contrast-[1.06] saturate-[1.04]",
             imageClassName
           )}
-        />
+              unoptimized={IMAGE_UNOPTIMIZED}
+              referrerPolicy={IMAGE_REFERRER_POLICY} />
       </div>
     );
   }
@@ -93,7 +95,8 @@ export function CountryCoverSlideshow({
             imageClassName
           )}
           onError={() => setFailed((prev) => new Set(prev).add(src))}
-        />
+              unoptimized={IMAGE_UNOPTIMIZED}
+              referrerPolicy={IMAGE_REFERRER_POLICY} />
       ))}
 
       {visible.length > 1 && (
