@@ -164,11 +164,19 @@ export default async function PlacePage({ params }: Props) {
               {description}
             </p>
           ) : null}
-          {wiki_text ? (
-            <p className="mt-4 max-w-2xl text-sm leading-relaxed text-stone-500">
-              {wiki_text}
-            </p>
-          ) : null}
+          {(() => {
+            const desc = description?.trim() ?? "";
+            const wiki = wiki_text?.trim() ?? "";
+            if (!wiki) return null;
+            if (desc && (wiki === desc || desc.startsWith(wiki) || wiki.startsWith(desc))) {
+              return null;
+            }
+            return (
+              <p className="mt-4 max-w-2xl text-sm leading-relaxed text-stone-500">
+                {wiki_text}
+              </p>
+            );
+          })()}
 
           <section className="mt-10">
             <h2 className="text-lg font-bold text-stone-900">{t("reviewsTitle")}</h2>

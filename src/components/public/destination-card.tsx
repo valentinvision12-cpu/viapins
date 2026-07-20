@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Layers, ArrowRight, MapPin } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import { motion } from "framer-motion";
@@ -45,6 +45,10 @@ export function DestinationCard({
     destination.coverImage || fallbackImageUrl(seed)
   );
 
+  useEffect(() => {
+    setImgSrc(destination.coverImage || fallbackImageUrl(seed));
+  }, [destination.coverImage, seed]);
+
   const cardContent = (
     <div className="rounded-2xl overflow-hidden shadow-md transition-all duration-300 group-hover:shadow-xl group-hover:-translate-y-1 border border-stone-200/60">
       <div className={`relative h-60 sm:h-52 overflow-hidden bg-gradient-to-br ${gradient}`}>
@@ -57,7 +61,8 @@ export function DestinationCard({
           priority={priority}
           referrerPolicy={IMAGE_REFERRER_POLICY}
           onError={() => setImgSrc(fallbackImageUrl(seed))}
-              unoptimized={IMAGE_UNOPTIMIZED} />
+          unoptimized={IMAGE_UNOPTIMIZED}
+        />
 
         <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/15 to-transparent" />
 

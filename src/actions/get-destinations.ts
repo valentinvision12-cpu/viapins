@@ -99,6 +99,11 @@ const DESTINATION_LIST_LIGHT = `
   id, city, country, tags, cover_image, place_count, country_slug, city_slug
 `;
 
+const DESTINATION_LIST_WITH_COVERS = `
+  id, city, country, tags, cover_image, place_count, country_slug, city_slug,
+  places(image_url, order_index)
+`;
+
 const DESTINATION_LIST_LIGHT_NO_SLUG = `
   id, city, country, tags, cover_image, place_count
 `;
@@ -158,13 +163,23 @@ type DestRow = {
   }[];
 };
 
+function isWeakCoverUrl(url: string): boolean {
+  if (!url?.trim() || isBadImageUrl(url)) return true;
+  const u = url.toLowerCase();
+  // Stock Unsplash/picsum used as "covers" look wrong for named cities
+  if (u.includes("images.unsplash.com")) return true;
+  if (u.includes("picsum.photos")) return true;
+  return false;
+}
+
 function toDestinationCard(dest: DestRow): DestinationCard {
   const places = dest.places ?? [];
   const storedCover = dest.cover_image?.trim() ?? "";
+  const fromPlaces = pickCityCoverFromPlaces(places);
   const coverImage =
-    storedCover && !isBadImageUrl(storedCover)
+    storedCover && !isWeakCoverUrl(storedCover)
       ? storedCover
-      : pickCityCoverFromPlaces(places);
+      : fromPlaces || "";
   const placeCount =
     typeof dest.place_count === "number" && dest.place_count > 0
       ? dest.place_count
@@ -187,12 +202,17 @@ function toDestinationCard(dest: DestRow): DestinationCard {
 function toDestinationDetail(dest: DestRow): DestinationDetail {
   const places = (dest.places ?? []) as DestinationDetail["places"];
   const storedCover = dest.cover_image?.trim() ?? "";
+  const fromPlaces = pickCityCoverFromPlaces(places);
+  const coverImage =
+    storedCover && !isWeakCoverUrl(storedCover)
+      ? storedCover
+      : fromPlaces || "";
   return {
     id: dest.id,
     city: dest.city,
     country: dest.country,
     tags: dest.tags ?? [],
-    coverImage: storedCover && !isBadImageUrl(storedCover) ? storedCover : "",
+    coverImage,
     seo: dest.seo ?? {},
     places: [...places].sort((a, b) => a.order_index - b.order_index),
   };
@@ -205,7 +225,7 @@ async function fetchPublishedDestinationRows(): Promise<DestRow[]> {
   // Prefer light select (no nested places) — requires migration 007 + 010
   let { data, error } = await supabase
     .from("destinations")
-    .select(DESTINATION_LIST_LIGHT)
+    .select(DESTINATION_LIST_WITH_COVERS)
     .eq("published", true)
     .order("country")
     .order("city");
@@ -484,7 +504,7 @@ export async function getCitiesByCountrySlug(
     // Fast path: country_slug equality
     let { data, error } = await supabase
       .from("destinations")
-      .select(DESTINATION_LIST_LIGHT)
+      .select(DESTINATION_LIST_WITH_COVERS)
       .eq("published", true)
       .eq("country_slug", countrySlug)
       .order("place_count", { ascending: false });
