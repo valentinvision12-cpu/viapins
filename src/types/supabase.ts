@@ -260,6 +260,7 @@ export type Database = {
           hero_titles: Json;
           social_links: Json;
           ad_scripts: Json;
+          affiliate_config: Json;
           updated_at: string;
         };
         Insert: {
@@ -267,12 +268,14 @@ export type Database = {
           hero_titles?: Json;
           social_links?: Json;
           ad_scripts?: Json;
+          affiliate_config?: Json;
           updated_at?: string;
         };
         Update: {
           hero_titles?: Json;
           social_links?: Json;
           ad_scripts?: Json;
+          affiliate_config?: Json;
           updated_at?: string;
         };
         Relationships: [];

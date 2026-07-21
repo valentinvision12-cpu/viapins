@@ -48,6 +48,8 @@ interface Props {
   locale?: string;
   username?: string | null;
   defaultTab?: PassportSectionTab;
+  /** When true, only Trips + Places tabs (no collections/posts). */
+  simplified?: boolean;
 }
 
 type TripFilter = "all" | "saved" | "visited" | "shared";
@@ -294,8 +296,10 @@ export function PassportSections({
   locale = "en",
   username = null,
   defaultTab = "trips",
+  simplified = false,
 }: Props) {
   const t = useTranslations("myTrip");
+  const visibleTabs = simplified ? TABS.filter((t) => t.id === "trips" || t.id === "places") : TABS;
   const { favorites: liveFavorites } = useFavorites();
   const [tab, setTab] = useState<PassportSectionTab>(defaultTab);
   const [tripFilter, setTripFilter] = useState<TripFilter>("all");
@@ -307,7 +311,7 @@ export function PassportSections({
     setClientReady(true);
     try {
       const stored = localStorage.getItem(TAB_STORAGE_KEY) as PassportSectionTab | null;
-      if (stored && TABS.some((x) => x.id === stored)) setTab(stored);
+      if (stored && visibleTabs.some((x) => x.id === stored)) setTab(stored);
       const view = localStorage.getItem(PLACES_VIEW_KEY) as PlacesView | null;
       if (view === "grid" || view === "list") setPlacesView(view);
     } catch {
@@ -377,7 +381,7 @@ export function PassportSections({
             boxShadow: PASSPORT.cardShadow,
           }}
         >
-          {TABS.map(({ id, icon: Icon, labelKey }) => {
+          {visibleTabs.map(({ id, icon: Icon, labelKey }) => {
             const active = tab === id;
             const count = counts[id];
             return (

@@ -10,7 +10,6 @@ import { Heart, X, LogIn } from "lucide-react";
 import { useTranslations, useLocale } from "next-intl";
 import { Link, usePathname } from "@/i18n/navigation";
 import { addFavoriteAction, removeFavoriteAction, getFavoritesAction, type FavoritePlace } from "@/actions/favorites";
-import { useAdBlock } from "@/components/public/adblock-detector";
 import { buildOAuthRedirectTo, getLocaleFromPath, OAUTH_PERSIST_QUERY } from "@/i18n/routing";
 import { PASSPORT } from "@/lib/luxury-palette";
 
@@ -96,7 +95,6 @@ export function FavoritesProvider({ children }: { children: ReactNode }) {
   const [nudgeOpen, setNudgeOpen] = useState(false);
   const [pendingLoginPlace, setPendingLoginPlace] = useState<FavoritePlace | null>(null);
   const [authOpen, setAuthOpen] = useState(false);
-  const { adBlockDetected } = useAdBlock();
 
   const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL ?? "";
   const isConfigured = !!supabaseUrl && !supabaseUrl.includes("placeholder");
@@ -153,8 +151,6 @@ export function FavoritesProvider({ children }: { children: ReactNode }) {
   const isFavorite = useCallback((placeId: string) => favoriteIds.has(placeId), [favoriteIds]);
 
   const toggleFavorite = useCallback((place: FavoritePlace) => {
-    if (adBlockDetected) return;
-
     if (!isLoggedIn) {
       // Show nudge banner
       setNudgePlace(place);
@@ -174,7 +170,7 @@ export function FavoritesProvider({ children }: { children: ReactNode }) {
       setFavorites((prev) => [place, ...prev]);
       addFavoriteAction(place);
     }
-  }, [isLoggedIn, favoriteIds, adBlockDetected]);
+  }, [isLoggedIn, favoriteIds]);
 
   function handleNudgeLogin() {
     setNudgeOpen(false);

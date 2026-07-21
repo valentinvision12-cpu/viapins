@@ -57,6 +57,9 @@ interface RouteCartContextType {
   blockNotice: RouteBlockNotice | null;
   dismissBlock: () => void;
   startNewRouteForBlocked: () => void;
+  panelOpen: boolean;
+  setPanelOpen: (open: boolean) => void;
+  openPanel: () => void;
 }
 
 const RouteCartContext = createContext<RouteCartContextType | null>(null);
@@ -67,6 +70,7 @@ export function RouteCartProvider({ children }: { children: ReactNode }) {
   const [items, setItems] = useState<RouteCartItem[]>([]);
   const [hydrated, setHydrated] = useState(false);
   const [blockNotice, setBlockNotice] = useState<RouteBlockNotice | null>(null);
+  const [panelOpen, setPanelOpen] = useState(false);
 
   useEffect(() => {
     try {
@@ -195,6 +199,8 @@ export function RouteCartProvider({ children }: { children: ReactNode }) {
   const scope = getCartScope(items);
   const cartMode = scope?.mode ?? null;
 
+  const openPanel = useCallback(() => setPanelOpen(true), []);
+
   return (
     <RouteCartContext.Provider
       value={{
@@ -211,6 +217,9 @@ export function RouteCartProvider({ children }: { children: ReactNode }) {
         blockNotice,
         dismissBlock,
         startNewRouteForBlocked,
+        panelOpen,
+        setPanelOpen,
+        openPanel,
       }}
     >
       {children}

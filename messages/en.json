@@ -17,8 +17,10 @@
   },
   "nav": {
     "explore": "Explore",
-    "myPassport": "My Places",
-    "myTrip": "My Places",
+    "myPassport": "My Trips",
+    "myTrip": "My Trips",
+    "myTrips": "Saved",
+    "myRoute": "Route",
     "signIn": "Sign In",
     "signOut": "Sign Out",
     "home": "Explore",
@@ -177,7 +179,18 @@
     "cartSignInSave": "Sign in & Save",
     "cartSavedToTrip": "Saved to My Passport!",
     "cartClear": "Clear route",
-    "cartOpenMyTrip": "Open My Passport →",
+    "cartOpenMyTrip": "Open My Trips →",
+    "cartDayTitle": "Your day in {city}",
+    "openInMaps": "Open in Google Maps",
+    "cartOptimize": "Optimise route",
+    "cartOptimized": "Optimised!",
+    "cartSavePassport": "Save to My Trips",
+    "cartWalkMin": " min walk",
+    "shareTitle": "Share route",
+    "shareMessage": "Our travel route:",
+    "shareCopy": "Copy link",
+    "shareCopied": "Copied!",
+    "readMore": "Read more",
     "progressComplete": "Full tour! ({count}/{total})",
     "progressCount": "{count}/{total} in route",
     "addShort": "Add",
@@ -199,6 +212,9 @@
     "embedCopied": "Code copied!",
     "copyEmbedCode": "Copy code",
     "embedPreview": "The widget shows {count} landmarks with {maps} navigation and {siteName} branding."
+  },
+  "affiliates": {
+    "sectionTitle": "Plan your trip"
   },
   "adventuresHub": {
     "metaTitle": "Road Trip Adventures by Country",
@@ -572,6 +588,8 @@
     "collabFromTraveler": "From a traveler",
     "collabAccept": "Accept",
     "collabDecline": "Decline",
+    "passportMore": "More",
+    "passportMoreHint": "Collections, posts, and advanced options — coming soon in this section.",
     "collectionPublicLink": "Public page"
   },
   "onboarding": {

@@ -17,8 +17,10 @@
   },
   "nav": {
     "explore": "Разгледай",
-    "myPassport": "Моите места",
-    "myTrip": "Моите места",
+    "myPassport": "Моите пътувания",
+    "myTrip": "Моите пътувания",
+    "myTrips": "Запазено",
+    "myRoute": "Маршрут",
     "signIn": "Вход",
     "signOut": "Изход",
     "home": "Разгледай",
@@ -386,6 +388,8 @@
     "collabFromTraveler": "От пътешественик",
     "collabAccept": "Приеми",
     "collabDecline": "Откажи",
+    "passportMore": "Още",
+    "passportMoreHint": "Колекции, постове и разширени опции — скоро тук.",
     "collectionPublicLink": "Публична страница"
   },
   "route": {
@@ -399,11 +403,25 @@
     "cartSignInSave": "Влез и запази",
     "cartSavedToTrip": "Запазено в Моите места!",
     "cartClear": "Изчисти маршрута",
-    "cartOpenMyTrip": "Отвори Моите места →",
+    "cartOpenMyTrip": "Отвори Моите пътувания →",
+    "cartDayTitle": "Твоят ден в {city}",
+    "openInMaps": "Отвори в Google Maps",
+    "cartOptimize": "Оптимизирай маршрута",
+    "cartOptimized": "Оптимизиран!",
+    "cartSavePassport": "Запази в пътуванията",
+    "cartWalkMin": " мин пеша",
+    "shareTitle": "Сподели маршрута",
+    "shareMessage": "Нашият маршрут:",
+    "shareCopy": "Копирай линк",
+    "shareCopied": "Копирано!",
+    "readMore": "Прочети повече",
     "cartView": "Виж",
     "cartClose": "Затвори",
     "cartTitleList": "Моят маршрут",
     "navigateInMaps": "Навигация в Google Maps"
+  },
+  "affiliates": {
+    "sectionTitle": "Планирай пътуването"
   },
   "adventureBanner": {
     "title": "{country} — пътуване с кола",

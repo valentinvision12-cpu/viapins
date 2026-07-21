@@ -18,7 +18,7 @@ interface Props {
   email: string;
   fullName: string | null;
   avatarUrl: string | null;
-  level: { label: string; emoji: string; next?: string };
+  level?: { label: string; emoji: string; next?: string };
   username?: string | null;
   bio?: string | null;
   homeCountry?: string | null;
@@ -170,15 +170,17 @@ export function PassportProfileHeader({
                 {t("passportIdentityEditShort")}
               </button>
             ) : null}
-            <span
-              className="inline-flex items-center rounded-full px-3 py-1 text-[10px] font-bold uppercase tracking-[0.14em] text-white backdrop-blur-md"
-              style={{
-                background: "rgba(253, 251, 247, 0.16)",
-                border: "1px solid rgba(253, 251, 247, 0.28)",
-              }}
-            >
-              {level.label}
-            </span>
+            {level ? (
+              <span
+                className="inline-flex items-center rounded-full px-3 py-1 text-[10px] font-bold uppercase tracking-[0.14em] text-white backdrop-blur-md"
+                style={{
+                  background: "rgba(253, 251, 247, 0.16)",
+                  border: "1px solid rgba(253, 251, 247, 0.28)",
+                }}
+              >
+                {level.label}
+              </span>
+            ) : null}
           </div>
         </div>
 
@@ -313,7 +315,7 @@ export function PassportProfileHeader({
                 ))}
               </div>
 
-              {level.next ? (
+              {level?.next ? (
                 <p className="mt-3 text-xs" style={{ color: PASSPORT.textMuted }}>
                   {t("profileNextLevel", { level: level.next })}
                 </p>
