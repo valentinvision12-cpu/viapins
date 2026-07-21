@@ -1827,24 +1827,25 @@
       },
       "places": [
         {
-          "name": "Córdoba",
-          "wiki_title": "Córdoba, Spain",
-          "lat": 37.89,
-          "lng": -4.78,
+          "name": "Puerta del Puente",
+          "wiki_title": "Puerta del Puente",
+          "lat": 37.8778,
+          "lng": -4.7794,
           "order_index": 0,
-          "description": "Córdoba, Spain — a notable landmark in Cordoba, Spain.",
-          "seo_phrase": "Córdoba",
+          "description": "Renaissance city gate at the northern end of the Roman Bridge, facing the old town.",
+          "seo_phrase": "Puerta del Puente Córdoba Gate Guide",
           "seo_keywords": [
+            "Puerta del Puente",
             "Cordoba",
             "Spain",
             "travel"
           ],
-          "commons_file": "Córdoba aerial 2.jpg/800px-Córdoba aerial 2.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/C%C3%B3rdoba_Spain_View-of-the-Mosque-of-Cordoba-01.jpg/1280px-C%C3%B3rdoba_Spain_View-of-the-Mosque-of-Cordoba-01.jpg",
-          "seo_priority": 85,
+          "commons_file": "Triunfo de San Rafael & Puerta del Puente - Córdoba.JPG",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Triunfo_de_San_Rafael_%26_Puerta_del_Puente_-_C%C3%B3rdoba.JPG/1280px-Triunfo_de_San_Rafael_%26_Puerta_del_Puente_-_C%C3%B3rdoba.JPG",
+          "seo_priority": 90,
           "search_intent": [
             "travel_planning",
-            "travel_planning"
+            "informational"
           ],
           "type": "landmark",
           "best_season": [
@@ -1854,7 +1855,10 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [
+            "Roman Bridge of Córdoba"
+          ],
+          "maps_query": "Puerta del Puente, Cordoba, Spain"
         },
         {
           "name": "Roman Bridge of Córdoba",
@@ -1947,24 +1951,25 @@
           "maps_query": "Museo Taurino de Córdoba, Cordoba, Spain"
         },
         {
-          "name": "Madinat al-Zahra",
-          "wiki_title": "Madinat al-Zahra",
-          "lat": 37.888,
-          "lng": -4.867,
+          "name": "Caballerizas Reales",
+          "wiki_title": "Caballerizas Reales",
+          "lat": 37.8769,
+          "lng": -4.7828,
           "order_index": 4,
-          "description": "Madinat al-Zahra — a notable landmark in Cordoba, Spain.",
-          "seo_phrase": "Madinat al-Zahra",
+          "description": "Royal Stables of Córdoba, historic riding school beside the Alcázar gardens.",
+          "seo_phrase": "Caballerizas Reales Córdoba Stables Guide",
           "seo_keywords": [
+            "Caballerizas Reales",
             "Cordoba",
             "Spain",
             "travel"
           ],
-          "commons_file": "Salon Rico 1.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Salon_Rico_1.jpg",
-          "seo_priority": 85,
+          "commons_file": "Caballerizas Reales de Córdoba.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Caballerizas_Reales_de_C%C3%B3rdoba.jpg/1280px-Caballerizas_Reales_de_C%C3%B3rdoba.jpg",
+          "seo_priority": 88,
           "search_intent": [
             "travel_planning",
-            "travel_planning"
+            "informational"
           ],
           "type": "landmark",
           "best_season": [
@@ -1973,8 +1978,11 @@
             "autumn",
             "winter"
           ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Alcázar de los Reyes Cristianos"
+          ],
+          "maps_query": "Caballerizas Reales, Cordoba, Spain"
         },
         {
           "name": "Alcázar de los Reyes Cristianos",
@@ -1989,22 +1997,26 @@
             "Spain",
             "travel"
           ],
-          "commons_file": "Cordoba-6 (48026780817).jpg/800px-Cordoba-6 (48026780817).jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/View_to_the_Great_Mosque_from_the_Lions_Tower_of_the_Alc%C3%A1zar_de_los_Reyes_Cristianos._Cordoba%2C_Spain.jpg/1280px-View_to_the_Great_Mosque_from_the_Lions_Tower_of_the_Alc%C3%A1zar_de_los_Reyes_Cristianos._Cordoba%2C_Spain.jpg",
-          "seo_priority": 85,
+          "commons_file": "Jardines del Alcázar de los Reyes Cristianos (Córdoba).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Jardines_del_Alc%C3%A1zar_de_los_Reyes_Cristianos_%28C%C3%B3rdoba%29.jpg/1280px-Jardines_del_Alc%C3%A1zar_de_los_Reyes_Cristianos_%28C%C3%B3rdoba%29.jpg",
+          "seo_priority": 92,
           "search_intent": [
             "travel_planning",
-            "travel_planning"
+            "informational"
           ],
-          "type": "landmark",
+          "type": "historic_site",
           "best_season": [
             "spring",
             "summer",
             "autumn",
             "winter"
           ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
+          "visit_duration_hours": 2,
+          "nearby_places": [
+            "Roman Bridge of Córdoba",
+            "Caballerizas Reales"
+          ],
+          "maps_query": "Alcázar de los Reyes Cristianos, Cordoba, Spain"
         },
         {
           "name": "Calleja de las Flores",
@@ -2013,16 +2025,18 @@
           "lng": -4.7798,
           "order_index": 6,
           "description": "Tiny flower-draped alley in Córdoba's old quarter, iconic for photos.",
-          "seo_phrase": "Calleja de las Flores",
+          "seo_phrase": "Calleja de las Flores Córdoba Alley Guide",
           "seo_keywords": [
             "Calleja de las Flores",
-            "travel",
-            "landmarks"
+            "Cordoba",
+            "Spain",
+            "travel"
           ],
-          "seo_priority": 85,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Spain_Andalusia_Cordoba_BW_2015-10-27_13-10-43.jpg/1280px-Spain_Andalusia_Cordoba_BW_2015-10-27_13-10-43.jpg",
+          "seo_priority": 90,
           "search_intent": [
             "travel_planning",
-            "travel_planning"
+            "informational"
           ],
           "type": "landmark",
           "best_season": [
@@ -2031,9 +2045,11 @@
             "autumn",
             "winter"
           ],
-          "visit_duration_hours": 1,
-          "nearby_places": [],
-          "maps_query": "Mezquita-Catedral de Córdoba, Cordoba, Spain"
+          "visit_duration_hours": 0.5,
+          "nearby_places": [
+            "Plaza del Potro"
+          ],
+          "maps_query": "Calleja de las Flores, Cordoba, Spain"
         },
         {
           "name": "Plaza del Potro",
@@ -2064,34 +2080,39 @@
           "nearby_places": []
         },
         {
-          "name": "Umayyad state of Córdoba",
-          "wiki_title": "Umayyad state of Córdoba",
-          "lat": 37.88,
-          "lng": -4.78,
+          "name": "Torre de la Calahorra",
+          "wiki_title": "Calahorra Tower",
+          "lat": 37.8767,
+          "lng": -4.7769,
           "order_index": 8,
-          "description": "Umayyad state of Córdoba — a notable landmark in Cordoba, Spain.",
-          "seo_phrase": "Umayyad state of Córdoba",
+          "description": "Medieval tower guarding the Roman Bridge, with museum galleries and city views.",
+          "seo_phrase": "Torre de la Calahorra Córdoba Tower Guide",
           "seo_keywords": [
+            "Torre de la Calahorra",
             "Cordoba",
             "Spain",
             "travel"
           ],
-          "commons_file": "Caliphate of Córdoba under Almanzor - 1000 CE.png/800px-Caliphate of Córdoba under Almanzor - 1000 CE.png",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Caliphate_Of_Cordoba_At_its_peak.jpg/1280px-Caliphate_Of_Cordoba_At_its_peak.jpg",
-          "seo_priority": 85,
+          "commons_file": "Torre de la Calahorra (Córdoba, España).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Torre_de_la_Calahorra_%28C%C3%B3rdoba%2C_Espa%C3%B1a%29.jpg/1280px-Torre_de_la_Calahorra_%28C%C3%B3rdoba%2C_Espa%C3%B1a%29.jpg",
+          "seo_priority": 91,
           "search_intent": [
             "travel_planning",
-            "travel_planning"
+            "informational"
           ],
-          "type": "landmark",
+          "type": "historic_site",
           "best_season": [
             "spring",
             "summer",
             "autumn",
             "winter"
           ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Roman Bridge of Córdoba",
+            "Puerta del Puente"
+          ],
+          "maps_query": "Torre de la Calahorra, Cordoba, Spain"
         },
         {
           "name": "Palacio de la Merced",
