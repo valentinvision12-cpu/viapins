@@ -177,6 +177,26 @@ export default async function AdminDashboardPage() {
         </p>
       </div>
 
+      {/* Affiliate quick link */}
+      <div className="mb-8 p-5 rounded-2xl border border-amber-200 bg-amber-50/80">
+        <div className="flex items-start justify-between gap-4">
+          <div>
+            <h2 className="text-sm font-bold text-amber-900 mb-1">Affiliate партньори</h2>
+            <p className="text-sm text-amber-900/75 leading-relaxed">
+              Hotels, flights, eSIM и др. — попълва се в{" "}
+              <strong>Монетизация → Trip Extras</strong>. Показва се в route cart след 2+ места.
+            </p>
+          </div>
+          <Link
+            href="/admin/monetization"
+            className="shrink-0 inline-flex items-center gap-1 rounded-xl bg-amber-600 px-4 py-2 text-sm font-semibold text-white hover:bg-amber-700"
+          >
+            Отвори
+            <ArrowRight className="w-4 h-4" />
+          </Link>
+        </div>
+      </div>
+
       {/* Stats grid */}
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-10">
         <StatCard

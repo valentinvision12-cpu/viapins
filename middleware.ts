@@ -2,6 +2,7 @@ import createMiddleware from "next-intl/middleware";
 import { type NextRequest, NextResponse } from "next/server";
 import { createServerClient, type CookieOptions } from "@supabase/ssr";
 import { routing } from "./src/i18n/routing";
+import { adminAuthBypassEnabled } from "./src/lib/site-brand";
 
 // Locale-aware routing for all public /{locale}/... paths
 const handleI18nRouting = createMiddleware(routing);
@@ -51,9 +52,41 @@ export async function middleware(request: NextRequest) {
 
 // ---------------------------------------------------------------------------
 
+// ---------------------------------------------------------------------------
+
+function checkAdminBasicAuth(request: NextRequest): NextResponse | null {
+  const password = process.env.ADMIN_BASIC_AUTH_PASSWORD?.trim();
+  if (!password) return null;
+
+  const expectedUser = process.env.ADMIN_BASIC_AUTH_USER?.trim() || "admin";
+  const authHeader = request.headers.get("authorization");
+
+  if (authHeader?.startsWith("Basic ")) {
+    try {
+      const decoded = atob(authHeader.slice(6));
+      const separator = decoded.indexOf(":");
+      const user = separator >= 0 ? decoded.slice(0, separator) : decoded;
+      const pass = separator >= 0 ? decoded.slice(separator + 1) : "";
+      if (user === expectedUser && pass === password) return null;
+    } catch {
+      // fall through to 401
+    }
+  }
+
+  return new NextResponse("Authentication required", {
+    status: 401,
+    headers: {
+      "WWW-Authenticate": 'Basic realm="ViaPins Admin", charset="UTF-8"',
+    },
+  });
+}
+
 async function handleAdminRoute(request: NextRequest): Promise<NextResponse> {
-  // DEV bypass — пропуска auth проверката когато SKIP_ADMIN_AUTH=true
-  if (process.env.SKIP_ADMIN_AUTH === "true") {
+  const basicAuthResponse = checkAdminBasicAuth(request);
+  if (basicAuthResponse) return basicAuthResponse;
+
+  // DEV bypass — only in local development
+  if (adminAuthBypassEnabled()) {
     return NextResponse.next({ request });
   }
 

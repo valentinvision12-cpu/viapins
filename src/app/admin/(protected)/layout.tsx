@@ -1,6 +1,7 @@
 import { redirect } from "next/navigation";
 import { createClient } from "@/lib/supabase/server";
 import { AdminSidebar } from "@/components/admin/sidebar";
+import { adminAuthBypassEnabled } from "@/lib/site-brand";
 
 export const metadata = {
   title: {
@@ -19,8 +20,8 @@ export default async function ProtectedAdminLayout({
 }: {
   children: React.ReactNode;
 }) {
-  // DEV bypass — позволява преглед без реален Supabase акаунт
-  const devBypass = process.env.SKIP_ADMIN_AUTH === "true";
+  // DEV bypass — local development only (never in production)
+  const devBypass = adminAuthBypassEnabled();
 
   if (!devBypass) {
     const supabase = await createClient();

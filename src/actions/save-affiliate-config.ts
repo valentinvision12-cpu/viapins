@@ -3,6 +3,7 @@
 import fs from "fs";
 import path from "path";
 import { revalidateTag } from "next/cache";
+import { createClient } from "@/lib/supabase/server";
 import type { AffiliateConfig } from "@/lib/affiliates";
 
 const CONFIG_PATH = path.join(process.cwd(), "affiliate-config.json");
@@ -16,27 +17,35 @@ export async function saveAffiliateConfig(
     partners: [...config.partners].sort((a, b) => a.sort_order - b.sort_order),
   };
 
-  try {
-    fs.writeFileSync(CONFIG_PATH, JSON.stringify(normalized, null, 2), "utf-8");
-  } catch (e) {
-    console.warn("Could not write affiliate-config.json:", e);
-  }
-
   const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL ?? "";
-  if (supabaseUrl && !supabaseUrl.includes("placeholder")) {
-    try {
-      const { createClient } = await import("@/lib/supabase/server");
-      const supabase = await createClient();
-      await supabase.from("site_settings").upsert({
-        id: 1,
-        affiliate_config: normalized,
-      });
-    } catch {
-      // file save is enough for dev
+  const canUseDb = supabaseUrl && !supabaseUrl.includes("placeholder");
+
+  if (canUseDb) {
+    const supabase = await createClient();
+    const { error } = await supabase.from("site_settings").upsert({
+      id: 1,
+      affiliate_config: normalized,
+    });
+
+    if (error) {
+      return {
+        success: false,
+        error: error.message.includes("affiliate_config")
+          ? "Липсва колона affiliate_config в Supabase. Пусни migration 016_affiliate_config.sql."
+          : error.message,
+      };
     }
+  } else if (process.env.NODE_ENV === "development") {
+    try {
+      fs.writeFileSync(CONFIG_PATH, JSON.stringify(normalized, null, 2), "utf-8");
+    } catch (e) {
+      const message = e instanceof Error ? e.message : "Could not write affiliate-config.json";
+      return { success: false, error: message };
+    }
+  } else {
+    return { success: false, error: "Supabase не е конфигуриран за production." };
   }
 
   revalidateTag("affiliate-config");
-
   return { success: true };
 }
