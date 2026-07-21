@@ -2185,7 +2185,6 @@
           "visit_duration_hours": 1,
           "nearby_places": [
             "St. Bartholomew's Cathedral",
-            "Great Synagogue, Plzeň",
             "Republic Square, Plzeň"
           ]
         },
@@ -2218,31 +2217,27 @@
           "visit_duration_hours": 1,
           "nearby_places": [
             "Republic Square",
-            "Great Synagogue, Plzeň",
             "Pilsner Urquell Brewery"
           ]
         },
         {
-          "name": "Great Synagogue, Plzeň",
-          "wiki_title": "Great Synagogue, Plzeň",
-          "lat": 49.7412,
-          "lng": 13.3791,
+          "name": "Plzeň Smetanovy Sady",
+          "wiki_title": "Plzeň",
+          "lat": 49.7465,
+          "lng": 13.3755,
           "order_index": 2,
-          "seo_phrase": "Great Synagogue, Plzeň in Plzeň | striking Moorish Revival exterior",
+          "seo_phrase": "Plzeň Smetanovy Sady",
           "seo_keywords": [
-            "Great Synagogue, Plzeň",
-            "Plzeň",
-            "Czech Republic",
-            "church",
-            "tourist attraction",
-            "Plzeň Region"
+            "Plzeň Smetanovy Sady",
+            "travel",
+            "landmarks"
           ],
           "seo_priority": 95,
           "search_intent": [
             "informational",
             "travel_planning"
           ],
-          "type": "landmark",
+          "type": "nature",
           "best_season": [
             "spring",
             "summer",
@@ -2253,7 +2248,8 @@
             "St. Bartholomew's Cathedral",
             "Republic Square, Plzeň",
             "Pilsner Urquell Brewery"
-          ]
+          ],
+          "description": "Central parkland near Plzeň's theatres and river walks."
         },
         {
           "name": "Republic Square, Plzeň",
@@ -2284,7 +2280,6 @@
           "visit_duration_hours": 1,
           "nearby_places": [
             "St. Bartholomew's Cathedral",
-            "Great Synagogue, Plzeň",
             "Bishop's residence, Plzeň"
           ]
         },
@@ -2482,8 +2477,7 @@
           "visit_duration_hours": 1,
           "nearby_places": [
             "St. Bartholomew's Cathedral",
-            "Republic Square, Plzeň",
-            "Great Synagogue, Plzeň"
+            "Republic Square, Plzeň"
           ]
         }
       ]
@@ -3129,37 +3123,35 @@
           ]
         },
         {
-          "name": "Synagogue Hradec Králové",
-          "wiki_title": "Synagogue (Hradec Králové)",
-          "lat": 50.2072,
-          "lng": 15.8306,
+          "name": "Orlice River Embankment HK",
+          "wiki_title": "Hradec Králové",
+          "lat": 50.2095,
+          "lng": 15.8335,
           "order_index": 8,
-          "seo_phrase": "Synagogue in Hradec Králové | restored Moorish architecture",
+          "seo_phrase": "Orlice River Embankment HK",
           "seo_keywords": [
-            "Synagogue Hradec Králové",
-            "Hradec Králové",
-            "Czech Republic",
-            "historic site",
-            "tourist attraction",
-            "Hradec Králové Region"
+            "Orlice River Embankment HK",
+            "travel",
+            "landmarks"
           ],
           "seo_priority": 95,
           "search_intent": [
             "informational",
             "travel_planning"
           ],
-          "type": "historic_site",
+          "type": "nature",
           "best_season": [
             "spring",
-            "autumn",
-            "winter"
+            "summer",
+            "autumn"
           ],
           "visit_duration_hours": 1,
           "nearby_places": [
             "Jirásek Gardens",
             "White Tower",
             "Great Square, Hradec Králové"
-          ]
+          ],
+          "description": "River embankment walks in Hradec Králové's modern-historic centre."
         },
         {
           "name": "Park 360",

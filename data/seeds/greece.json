@@ -64,16 +64,31 @@
           ]
         },
         {
-          "name": "Temple of Olympian Zeus",
-          "wiki_title": "Temple of Olympian Zeus, Athens",
-          "lat": 37.969,
-          "lng": 23.7331,
-          "seo_phrase": "Temple of Olympian Zeus — colossal ruins of the largest temple in Greece",
+          "name": "Panathenaic Stadium Approach",
+          "wiki_title": "Panathenaic Stadium",
+          "lat": 37.9685,
+          "lng": 23.7405,
+          "seo_phrase": "Panathenaic Stadium Approach",
           "seo_keywords": [
-            "Temple of Olympian Zeus",
-            "Olympieion Athens",
-            "Hadrian's Gate Athens"
-          ]
+            "Panathenaic Stadium Approach",
+            "travel",
+            "landmarks"
+          ],
+          "description": "Marble stadium of the first modern Olympics and surrounding park walks.",
+          "type": "landmark",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
         },
         {
           "name": "Plaka",
@@ -1195,16 +1210,31 @@
       },
       "places": [
         {
-          "name": "Temple of Apollo",
-          "wiki_title": "Temple of Apollo (Delphi)",
-          "lat": 38.4822,
-          "lng": 22.5006,
-          "seo_phrase": "Temple of Apollo — sanctuary of the famous Oracle of Delphi",
+          "name": "Delphi Ancient Gymnasium",
+          "wiki_title": "Delphi",
+          "lat": 38.4815,
+          "lng": 22.5005,
+          "seo_phrase": "Delphi Ancient Gymnasium",
           "seo_keywords": [
-            "Temple of Apollo Delphi",
-            "Oracle of Delphi",
-            "Delphi sanctuary"
-          ]
+            "Delphi Ancient Gymnasium",
+            "travel",
+            "landmarks"
+          ],
+          "description": "Terraced gymnasium ruins on the sacred way below Delphi's theatre.",
+          "type": "historic_site",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
         },
         {
           "name": "Delphi Archaeological Museum",

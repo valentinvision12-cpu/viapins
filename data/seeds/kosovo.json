@@ -93,26 +93,12 @@
           ]
         },
         {
-          "name": "Imperial Mosque",
-          "wiki_title": "Imperial Mosque (Pristina",
-          "lat": 42.6664,
-          "lng": 21.1673,
           "order_index": 2,
-          "description": "A beautifully intact historical structure ordered by Sultan Mehmed the Conqueror.",
-          "seo_phrase": "Imperial Mosque Pristina | Fatih Ottoman Heritage Site",
-          "seo_keywords": [
-            "Mosque",
-            "Ottoman",
-            "Old Town"
-          ],
-          "commons_file": "Xhamia e Mbretit Prishtinë.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Xhamia_e_Mbretit_Prishtin%C3%AB.jpg",
           "seo_priority": 90,
           "search_intent": [
             "local",
             "travel_planning"
           ],
-          "type": "church",
           "best_season": [
             "spring",
             "summer",
@@ -123,7 +109,20 @@
           "nearby_places": [
             "Clock Tower Sahat Kulla",
             "Ethnological Museum Emin Gjiku"
-          ]
+          ],
+          "name": "Heroinat Memorial",
+          "wiki_title": "Heroinat Memorial",
+          "lat": 42.6632,
+          "lng": 21.1621,
+          "description": "A striking public memorial in central Pristina honoring the contribution of Kosovo women, formed from thousands of metal medallions.",
+          "seo_phrase": "Heroinat Memorial Pristina: Landmark of Remembrance",
+          "seo_keywords": [
+            "heroinat memorial",
+            "pristina monuments",
+            "kosovo memorials",
+            "women memorial pristina"
+          ],
+          "type": "landmark"
         },
         {
           "name": "Ethnological Museum Emin Gjiku",
@@ -154,7 +153,6 @@
           ],
           "visit_duration_hours": 2,
           "nearby_places": [
-            "Imperial Mosque",
             "Clock Tower Sahat Kulla"
           ]
         },
@@ -256,26 +254,12 @@
           ]
         },
         {
-          "name": "Carshia Mosque",
-          "wiki_title": "Bazaar Mosque, Pristina",
-          "lat": 42.6661,
-          "lng": 21.1654,
           "order_index": 7,
-          "description": "The foundational dynamic monument marking the start of Pristina's old bazaar zone.",
-          "seo_phrase": "Bazaar Carshia Mosque Pristina History",
-          "seo_keywords": [
-            "Bazaar",
-            "Minaret",
-            "Ancient"
-          ],
-          "commons_file": "Xhamia e Çarshisë në Prishtinë.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Xhamia_e_%C3%87arshis%C3%AB_n%C3%AB_Prishtin%C3%AB.jpg",
           "seo_priority": 89,
           "search_intent": [
             "informational",
             "travel_planning"
           ],
-          "type": "church",
           "best_season": [
             "spring",
             "summer",
@@ -284,9 +268,21 @@
           ],
           "visit_duration_hours": 1,
           "nearby_places": [
-            "Kosovo Museum",
-            "Imperial Mosque"
-          ]
+            "Kosovo Museum"
+          ],
+          "name": "Great Hammam of Pristina",
+          "wiki_title": "Great Hamam of Pristina",
+          "lat": 42.6668,
+          "lng": 21.1645,
+          "description": "A restored Ottoman-era bathhouse beside the old bazaar, now a cultural venue with massive stone vaults.",
+          "seo_phrase": "Great Hammam Pristina: Historic Bathhouse Guide",
+          "seo_keywords": [
+            "great hammam pristina",
+            "pristina hammam",
+            "ottoman baths kosovo",
+            "old bazaar pristina"
+          ],
+          "type": "historic_site"
         },
         {
           "name": "Kosovo Museum",
@@ -317,7 +313,6 @@
           ],
           "visit_duration_hours": 2,
           "nearby_places": [
-            "Carshia Mosque",
             "Clock Tower Sahat Kulla"
           ]
         },
@@ -350,7 +345,6 @@
           ],
           "visit_duration_hours": 1.5,
           "nearby_places": [
-            "Imperial Mosque",
             "Ethnological Museum Emin Gjiku"
           ]
         }
@@ -407,31 +401,16 @@
           ],
           "visit_duration_hours": 1.5,
           "nearby_places": [
-            "Church of the Holy Saviour",
-            "Sinan Pasha Mosque"
+            "Church of the Holy Saviour"
           ]
         },
         {
-          "name": "Sinan Pasha Mosque",
-          "wiki_title": "Sinan Pasha Mosque (Prizren",
-          "lat": 42.2078,
-          "lng": 20.7423,
           "order_index": 1,
-          "description": "A dominant, beautifully preserved mosque anchoring Prizren's vibrant historic core.",
-          "seo_phrase": "Sinan Pasha Mosque Prizren | Iconic Landmark Architecture",
-          "seo_keywords": [
-            "Mosque",
-            "Frescoes",
-            "Fountain"
-          ],
-          "commons_file": "Sinan Pasha Mosque Prizren 2016.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Sinan_Pasha_Mosque_Prizren_2016.jpg",
           "seo_priority": 99,
           "search_intent": [
             "local",
             "travel_planning"
           ],
-          "type": "church",
           "best_season": [
             "spring",
             "summer",
@@ -442,7 +421,20 @@
           "nearby_places": [
             "Stone Bridge",
             "Shadervan Square"
-          ]
+          ],
+          "name": "Cathedral of Saint George",
+          "wiki_title": "Cathedral of Saint George, Prizren",
+          "lat": 42.2089,
+          "lng": 20.7402,
+          "description": "A landmark Orthodox cathedral in Prizren with distinctive architecture rising above the old town streets.",
+          "seo_phrase": "Cathedral of Saint George Prizren: Old Town Landmark",
+          "seo_keywords": [
+            "saint george cathedral prizren",
+            "prizren orthodox cathedral",
+            "prizren churches",
+            "prizren landmarks"
+          ],
+          "type": "church"
         },
         {
           "name": "Our Lady of Ljeviš",
@@ -506,8 +498,7 @@
           ],
           "visit_duration_hours": 1.5,
           "nearby_places": [
-            "Shadervan Square",
-            "Sinan Pasha Mosque"
+            "Shadervan Square"
           ]
         },
         {
@@ -538,8 +529,7 @@
           ],
           "visit_duration_hours": 1,
           "nearby_places": [
-            "Old Stone Bridge",
-            "Sinan Pasha Mosque"
+            "Old Stone Bridge"
           ]
         },
         {
@@ -603,8 +593,7 @@
           ],
           "visit_duration_hours": 1,
           "nearby_places": [
-            "Prizren Fortress",
-            "Sinan Pasha Mosque"
+            "Prizren Fortress"
           ]
         },
         {
@@ -641,26 +630,12 @@
           ]
         },
         {
-          "name": "Emin Pasha Mosque",
-          "wiki_title": "Emin Pasha Mosque",
-          "lat": 42.2111,
-          "lng": 20.7412,
           "order_index": 8,
-          "description": "A gorgeous old town mosque featuring classic design layouts and fine carvings.",
-          "seo_phrase": "Emin Pasha Mosque Prizren Historic Islamic Art",
-          "seo_keywords": [
-            "Emin-Pasha",
-            "Mosque",
-            "Baroque"
-          ],
-          "commons_file": "Xhamia e Emin Pashës 2.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Xhamia_e_Emin_Pash%C3%ABs_2.jpg",
           "seo_priority": 86,
           "search_intent": [
             "local",
             "travel_planning"
           ],
-          "type": "church",
           "best_season": [
             "spring",
             "summer",
@@ -671,7 +646,20 @@
           "nearby_places": [
             "Our Lady of Ljeviš",
             "Gazi Mehmet Pasha Hammam"
-          ]
+          ],
+          "name": "Lumbardhi Cinema",
+          "wiki_title": "Prizren",
+          "lat": 42.2105,
+          "lng": 20.7398,
+          "description": "A revived historic cinema on the riverfront, a cultural hub of Prizren festivals and film screenings.",
+          "seo_phrase": "Lumbardhi Cinema Prizren: Riverfront Culture Spot",
+          "seo_keywords": [
+            "lumbardhi cinema",
+            "prizren cinema",
+            "dokufest prizren",
+            "prizren culture"
+          ],
+          "type": "landmark"
         },
         {
           "name": "Marash Plane Tree",
@@ -792,42 +780,39 @@
           ],
           "visit_duration_hours": 1.5,
           "nearby_places": [
-            "Bajrakli Mosque",
             "Haxhi Bey Hammam"
           ]
         },
         {
-          "name": "Bajrakli Mosque",
-          "wiki_title": "Bajrakli Mosque, Peja",
-          "lat": 42.6596,
-          "lng": 20.2927,
           "order_index": 2,
-          "description": "The primary historic mosque of Peja, showcasing magnificent classical architecture.",
-          "seo_phrase": "Bajrakli Mosque Peja | Classical Islamic Architecture",
-          "seo_keywords": [
-            "Mosque",
-            "Calligraphy",
-            "Dome"
-          ],
-          "commons_file": "Xhamia e Bajrakliut në Pejë.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Xhamia_e_Bajrakliut_n%C3%AB_Pej%C3%AB.jpg",
           "seo_priority": 92,
           "search_intent": [
             "local",
             "travel_planning"
           ],
-          "type": "church",
           "best_season": [
             "spring",
             "summer",
-            "autumn",
-            "winter"
+            "autumn"
           ],
           "visit_duration_hours": 1,
           "nearby_places": [
             "Old Bazaar of Peja",
             "Haxhi Bey Hammam"
-          ]
+          ],
+          "name": "Rugova Canyon Viewpoint",
+          "wiki_title": "Rugova Canyon",
+          "lat": 42.666,
+          "lng": 20.266,
+          "description": "Dramatic limestone gorge west of Peja with cliff roads, hiking trails, and panoramic viewpoints.",
+          "seo_phrase": "Rugova Canyon Peja: Gorge Viewpoint Guide",
+          "seo_keywords": [
+            "rugova canyon",
+            "peja canyon",
+            "kosovo hiking",
+            "rugova gorge"
+          ],
+          "type": "nature"
         },
         {
           "name": "Ethnological Museum of Peja",
@@ -1113,31 +1098,16 @@
           ],
           "visit_duration_hours": 1.5,
           "nearby_places": [
-            "Hadum Mosque",
             "Haraçia Han"
           ]
         },
         {
-          "name": "Hadum Mosque",
-          "wiki_title": "Hadum Mosque",
-          "lat": 42.3822,
-          "lng": 20.4278,
           "order_index": 1,
-          "description": "The core historical mosque that spurred the development of Gjakova's great trade bazaar.",
-          "seo_phrase": "Hadum Mosque Gjakova | Masterpiece Architectural Site",
-          "seo_keywords": [
-            "Hadum",
-            "Mosque",
-            "Arabesque"
-          ],
-          "commons_file": "Xhamia e Hadumit Gjakove.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Xhamia_e_Hadumit_Gjakove.jpg",
           "seo_priority": 97,
           "search_intent": [
             "local",
             "travel_planning"
           ],
-          "type": "church",
           "best_season": [
             "spring",
             "summer",
@@ -1148,29 +1118,28 @@
           "nearby_places": [
             "Grand Bazaar of Gjakova",
             "Clock Tower of Gjakova"
-          ]
+          ],
+          "name": "Asim Vokshi Monument",
+          "wiki_title": "Gjakova",
+          "lat": 42.3804,
+          "lng": 20.4308,
+          "description": "A central civic monument in Gjakova marking the historic core near the old bazaar streets.",
+          "seo_phrase": "Asim Vokshi Monument Gjakova: City Center Landmark",
+          "seo_keywords": [
+            "asim vokshi",
+            "gjakova monument",
+            "gjakova landmarks",
+            "gjakova center"
+          ],
+          "type": "landmark"
         },
         {
-          "name": "Sheikh Emin's Tekke",
-          "wiki_title": "Gjakova",
-          "lat": 42.3806,
-          "lng": 20.4294,
           "order_index": 2,
-          "description": "A beautifully maintained traditional sanctuary featuring intricate wooden ceiling carvings.",
-          "seo_phrase": "Sheikh Emin's Tekke Gjakova | Sufi Heritage Site",
-          "seo_keywords": [
-            "Tekke",
-            "Sufi",
-            "Carvings"
-          ],
-          "commons_file": "Teqja e Sheh Eminit Gjakovë.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Teqja_e_Sheh_Eminit_Gjakov%C3%AB.jpg",
           "seo_priority": 91,
           "search_intent": [
             "informational",
             "travel_planning"
           ],
-          "type": "landmark",
           "best_season": [
             "spring",
             "summer",
@@ -1181,7 +1150,20 @@
           "nearby_places": [
             "Grand Bazaar of Gjakova",
             "Taliqi Bridge"
-          ]
+          ],
+          "name": "Gjakova Cathedral",
+          "wiki_title": "Gjakova",
+          "lat": 42.3815,
+          "lng": 20.4285,
+          "description": "The main Catholic cathedral of Gjakova, a prominent twin-tower landmark of the city skyline.",
+          "seo_phrase": "Gjakova Cathedral: Twin-Tower City Landmark",
+          "seo_keywords": [
+            "gjakova cathedral",
+            "catholic cathedral gjakova",
+            "gjakova churches",
+            "gjakova skyline"
+          ],
+          "type": "church"
         },
         {
           "name": "Clock Tower of Gjakova",
@@ -1212,7 +1194,6 @@
           ],
           "visit_duration_hours": 1.5,
           "nearby_places": [
-            "Hadum Mosque",
             "Grand Bazaar of Gjakova"
           ]
         },
@@ -1245,7 +1226,6 @@
           ],
           "visit_duration_hours": 1.5,
           "nearby_places": [
-            "Sheikh Emin's Tekke",
             "Grand Bazaar of Gjakova"
           ]
         },
@@ -1343,8 +1323,7 @@
           ],
           "visit_duration_hours": 2,
           "nearby_places": [
-            "Clock Tower of Gjakova",
-            "Hadum Mosque"
+            "Clock Tower of Gjakova"
           ]
         },
         {
@@ -1376,8 +1355,7 @@
           ],
           "visit_duration_hours": 1,
           "nearby_places": [
-            "Grand Bazaar of Gjakova",
-            "Hadum Mosque"
+            "Grand Bazaar of Gjakova"
           ]
         },
         {
@@ -1409,8 +1387,7 @@
           ],
           "visit_duration_hours": 1,
           "nearby_places": [
-            "Grand Bazaar of Gjakova",
-            "Hadum Mosque"
+            "Grand Bazaar of Gjakova"
           ]
         }
       ]
@@ -1467,31 +1444,16 @@
           ],
           "visit_duration_hours": 1.5,
           "nearby_places": [
-            "Isa Beg Mosque",
             "Xhafer Deva House"
           ]
         },
         {
-          "name": "Isa Beg Mosque",
-          "wiki_title": "Isa Beg Mosque, Mitrovica",
-          "lat": 42.8876,
-          "lng": 20.8692,
           "order_index": 1,
-          "description": "A historic spiritual sanctuary displaying impressive monumental scale and twin minarets.",
-          "seo_phrase": "Isa Beg Mosque Mitrovica | Grand Ottoman Sanctuary",
-          "seo_keywords": [
-            "Mosque",
-            "Minarets",
-            "Sanctuary"
-          ],
-          "commons_file": "Xhamia e Isa Beut në Mitrovicë.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Xhamia_e_Isa_Beut_n%C3%AB_Mitrovic%C3%AB.jpg",
           "seo_priority": 90,
           "search_intent": [
             "local",
             "travel_planning"
           ],
-          "type": "church",
           "best_season": [
             "spring",
             "summer",
@@ -1502,7 +1464,20 @@
           "nearby_places": [
             "Hamam of Mitrovica",
             "Ibar River Bridge"
-          ]
+          ],
+          "name": "Miners Monument Mitrovica",
+          "wiki_title": "Mitrovica",
+          "lat": 42.8914,
+          "lng": 20.866,
+          "description": "An iconic hilltop monument overlooking Mitrovica, dedicated to the region's mining heritage.",
+          "seo_phrase": "Miners Monument Mitrovica: Hilltop City Viewpoint",
+          "seo_keywords": [
+            "miners monument mitrovica",
+            "mitrovica viewpoint",
+            "kosovo miners",
+            "mitrovica landmarks"
+          ],
+          "type": "landmark"
         },
         {
           "name": "Zvečan Fortress",
@@ -1660,8 +1635,7 @@
           ],
           "visit_duration_hours": 1.5,
           "nearby_places": [
-            "Hamam of Mitrovica",
-            "Isa Beg Mosque"
+            "Hamam of Mitrovica"
           ]
         },
         {
@@ -1693,8 +1667,7 @@
           ],
           "visit_duration_hours": 1,
           "nearby_places": [
-            "Clock Tower of Mitrovica",
-            "Isa Beg Mosque"
+            "Clock Tower of Mitrovica"
           ]
         },
         {
@@ -1787,26 +1760,12 @@
       },
       "places": [
         {
-          "name": "Atik Mosque",
-          "wiki_title": "Gjilan",
-          "lat": 42.4636,
-          "lng": 21.4683,
           "order_index": 0,
-          "description": "An elegant old town mosque featuring classic stone masonry foundations.",
-          "seo_phrase": "Atik Mosque Gjilan | Historic Ottoman Center",
-          "seo_keywords": [
-            "Mosque",
-            "Atik",
-            "Gjilan"
-          ],
-          "commons_file": "Xhamia Atik Gjilan.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Xhamia_Atik_Gjilan.jpg",
           "seo_priority": 92,
           "search_intent": [
             "local",
             "travel_planning"
           ],
-          "type": "church",
           "best_season": [
             "spring",
             "summer",
@@ -1817,7 +1776,20 @@
           "nearby_places": [
             "Clock Tower of Gjilan",
             "Lasgush Poradeci Library Square"
-          ]
+          ],
+          "name": "Gjilan City Theatre",
+          "wiki_title": "Gjilan",
+          "lat": 42.4635,
+          "lng": 21.4694,
+          "description": "The main city theatre and cultural venue anchoring Gjilan's public square life.",
+          "seo_phrase": "Gjilan City Theatre: Cultural Landmark Guide",
+          "seo_keywords": [
+            "gjilan theatre",
+            "gjilan culture",
+            "gjilan landmarks",
+            "kosovo theatres"
+          ],
+          "type": "landmark"
         },
         {
           "name": "Clock Tower of Gjilan",
@@ -1848,7 +1820,6 @@
           ],
           "visit_duration_hours": 1.5,
           "nearby_places": [
-            "Atik Mosque",
             "City Park of Gjilan"
           ]
         },
@@ -2073,26 +2044,12 @@
           "commons_file": "Parku i Qytetit Gjilan.jpg"
         },
         {
-          "name": "Sultan Bayezid Mosque",
-          "wiki_title": "Gjilan",
-          "lat": 42.4648,
-          "lng": 21.4701,
           "order_index": 9,
-          "description": "Sultan Bayezid Mosque in Gjilan, Kosovo.",
-          "seo_phrase": "Sultan Bayezid Mosque — Gjilan, Kosovo",
-          "seo_keywords": [
-            "Sultan Bayezid Mosque",
-            "Gjilan",
-            "Kosovo",
-            "travel",
-            "landmarks"
-          ],
           "seo_priority": 86,
           "search_intent": [
             "informational",
             "travel_planning"
           ],
-          "type": "church",
           "best_season": [
             "spring",
             "summer",
@@ -2100,8 +2057,20 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Kisha_e_Sh%C3%ABn_Nikoll%C3%ABs_Gjilan.jpg",
-          "commons_file": "Kisha e Shën Nikollës Gjilan.jpg"
+          "nearby_places": [],
+          "name": "Regional Museum of Gjilan",
+          "wiki_title": "Gjilan",
+          "lat": 42.4628,
+          "lng": 21.4682,
+          "description": "A local history museum presenting archaeology and heritage collections from the Gjilan region.",
+          "seo_phrase": "Regional Museum Gjilan: Local Heritage Collection",
+          "seo_keywords": [
+            "gjilan museum",
+            "regional museum gjilan",
+            "gjilan heritage",
+            "kosovo museums"
+          ],
+          "type": "museum"
         }
       ]
     },
@@ -2186,9 +2155,7 @@
             "autumn",
             "winter"
           ],
-          "visit_duration_hours": 1,
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Ferizaj_Church_and_Mosque.JPG",
-          "commons_file": "Ferizaj Church and Mosque.JPG"
+          "visit_duration_hours": 1
         },
         {
           "name": "Ulpiana",
@@ -2588,26 +2555,12 @@
           "commons_file": "The Kosovo Museum in Prishtina.jpg"
         },
         {
-          "name": "Shejh Zahid Mosque",
-          "wiki_title": "Vushtrri",
-          "lat": 42.8222,
-          "lng": 20.9702,
           "order_index": 4,
-          "description": "Shejh Zahid Mosque in Vushtrri, Kosovo.",
-          "seo_phrase": "Shejh Zahid Mosque — Vushtrri, Kosovo",
-          "seo_keywords": [
-            "Shejh Zahid Mosque",
-            "Vushtrri",
-            "Kosovo",
-            "travel",
-            "landmarks"
-          ],
           "seo_priority": 91,
           "search_intent": [
             "informational",
             "travel_planning"
           ],
-          "type": "church",
           "best_season": [
             "spring",
             "summer",
@@ -2615,8 +2568,20 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Xhamia_e_Mbretit_Prishtin%C3%AB.jpg",
-          "commons_file": "Xhamia e Mbretit Prishtinë.jpg"
+          "nearby_places": [],
+          "name": "Vojinovic Tower",
+          "wiki_title": "Vushtrri Castle",
+          "lat": 42.8235,
+          "lng": 20.9678,
+          "description": "A medieval stone tower linked to Vushtrri Castle, one of the town's oldest standing landmarks.",
+          "seo_phrase": "Vojinovic Tower Vushtrri: Medieval Castle Landmark",
+          "seo_keywords": [
+            "vojinovic tower",
+            "vushtrri castle",
+            "vushtrri tower",
+            "kosovo fortresses"
+          ],
+          "type": "historic_site"
         },
         {
           "name": "Zvečan Fortress Day Trip",
@@ -2892,26 +2857,12 @@
           "commons_file": "Ura.jpg"
         },
         {
-          "name": "Met Podujevë Mosque",
-          "wiki_title": "Podujevë",
-          "lat": 42.9101,
-          "lng": 21.1902,
           "order_index": 3,
-          "description": "Met Podujevë Mosque in Podujeva, Kosovo.",
-          "seo_phrase": "Met Podujevë Mosque — Podujeva, Kosovo",
-          "seo_keywords": [
-            "Met Podujevë Mosque",
-            "Podujeva",
-            "Kosovo",
-            "travel",
-            "landmarks"
-          ],
           "seo_priority": 92,
           "search_intent": [
             "informational",
             "travel_planning"
           ],
-          "type": "church",
           "best_season": [
             "spring",
             "summer",
@@ -2919,8 +2870,20 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Xhamia_e_%C3%87arshis%C3%AB_n%C3%AB_Prishtin%C3%AB.jpg",
-          "commons_file": "Xhamia e Çarshisë në Prishtinë.jpg"
+          "nearby_places": [],
+          "name": "Zahir Pajaziti Square",
+          "wiki_title": "Podujevo",
+          "lat": 42.9128,
+          "lng": 21.1932,
+          "description": "The central civic square of Podujeva with memorials and the pulse of everyday town life.",
+          "seo_phrase": "Zahir Pajaziti Square Podujeva: Central Town Plaza",
+          "seo_keywords": [
+            "zahir pajaziti square",
+            "podujeva square",
+            "podujeva center",
+            "llap region"
+          ],
+          "type": "landmark"
         },
         {
           "name": "Podujeva City Park",
@@ -3164,35 +3127,32 @@
           "commons_file": "Clock Tower in Rahovec.jpg"
         },
         {
-          "name": "Halveti Tekke of Rahovec",
-          "wiki_title": "Rahovec",
-          "lat": 42.3998,
-          "lng": 20.6558,
           "order_index": 1,
-          "description": "Halveti Tekke of Rahovec in Rahovec, Kosovo.",
-          "seo_phrase": "Halveti Tekke of Rahovec — Rahovec, Kosovo",
-          "seo_keywords": [
-            "Halveti Tekke of Rahovec",
-            "Rahovec",
-            "Kosovo",
-            "travel",
-            "landmarks"
-          ],
           "seo_priority": 94,
           "search_intent": [
             "informational",
             "travel_planning"
           ],
-          "type": "landmark",
           "best_season": [
             "spring",
             "summer",
-            "autumn",
-            "winter"
+            "autumn"
           ],
           "visit_duration_hours": 1,
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Teqja_e_Sheh_Eminit_Gjakov%C3%AB.jpg",
-          "commons_file": "Teqja e Sheh Eminit Gjakovë.jpg"
+          "nearby_places": [],
+          "name": "Rahovec Vineyard Hills",
+          "wiki_title": "Rahovec",
+          "lat": 42.38,
+          "lng": 20.654,
+          "description": "Rolling vineyard hills around Rahovec, Kosovo's best-known wine country with valley panoramas.",
+          "seo_phrase": "Rahovec Vineyard Hills: Kosovo Wine Country Views",
+          "seo_keywords": [
+            "rahovec vineyards",
+            "kosovo wine",
+            "rahovec hills",
+            "rahovec viewpoints"
+          ],
+          "type": "nature"
         },
         {
           "name": "Fshajt Bridge",
@@ -3319,35 +3279,32 @@
           "commons_file": "Kisha e Shën Palit dhe Shën Pjetrit Gjakovë.jpg"
         },
         {
-          "name": "Hadum Mosque Trip",
-          "wiki_title": "Hadum Mosque",
-          "lat": 42.3822,
-          "lng": 20.4278,
           "order_index": 6,
-          "description": "Hadum Mosque Trip in Rahovec, Kosovo.",
-          "seo_phrase": "Hadum Mosque Trip — Rahovec, Kosovo",
-          "seo_keywords": [
-            "Hadum Mosque Trip",
-            "Rahovec",
-            "Kosovo",
-            "travel",
-            "landmarks"
-          ],
           "seo_priority": 89,
           "search_intent": [
             "informational",
             "travel_planning"
           ],
-          "type": "church",
           "best_season": [
             "spring",
             "summer",
-            "autumn",
-            "winter"
+            "autumn"
           ],
           "visit_duration_hours": 1,
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Xhamia_e_Hadumit_Gjakove.jpg",
-          "commons_file": "Xhamia e Hadumit Gjakove.jpg"
+          "nearby_places": [],
+          "name": "White Drin Waterfall Trip",
+          "wiki_title": "White Drin Waterfall",
+          "lat": 42.354,
+          "lng": 20.541,
+          "description": "A scenic day trip to the White Drin waterfall and canyon landscapes near the Rahovec region.",
+          "seo_phrase": "White Drin Waterfall Trip from Rahovec",
+          "seo_keywords": [
+            "white drin waterfall",
+            "rahovec day trip",
+            "kosovo waterfalls",
+            "drin canyon"
+          ],
+          "type": "nature"
         },
         {
           "name": "Marash Plane Tree Trip",

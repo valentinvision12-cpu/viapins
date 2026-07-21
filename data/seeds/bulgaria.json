@@ -202,16 +202,31 @@
           "commons_file": "Plovdiv old town view.jpg"
         },
         {
-          "name": "Dzhumaya Mosque",
-          "wiki_title": "Dzhumaya Mosque",
-          "lat": 42.1472,
-          "lng": 24.7478,
-          "seo_phrase": "Dzhumaya Mosque — 14th-century Ottoman mosque in central Plovdiv",
+          "name": "Plovdiv Kapana Creative District",
+          "wiki_title": "Kapana",
+          "lat": 42.1485,
+          "lng": 24.7485,
+          "seo_phrase": "Plovdiv Kapana Creative District",
           "seo_keywords": [
-            "Dzhumaya Mosque Plovdiv",
-            "Plovdiv mosque",
-            "Ottoman Plovdiv"
-          ]
+            "Plovdiv Kapana Creative District",
+            "travel",
+            "landmarks"
+          ],
+          "description": "Artsy maze of cafés, galleries, and murals beside Plovdiv's old town.",
+          "type": "landmark",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
         },
         {
           "name": "Hisar Kapia",
@@ -1592,16 +1607,30 @@
           ]
         },
         {
-          "name": "Temple of Cybele",
-          "wiki_title": "Temple of Cybele, Balchik",
-          "lat": 43.4217,
-          "lng": 28.1622,
-          "seo_phrase": "Temple of Cybele — ancient sanctuary ruins near the palace gardens",
+          "name": "Balchik White Cliffs Walk",
+          "wiki_title": "Balchik",
+          "lat": 43.4075,
+          "lng": 28.1645,
+          "seo_phrase": "Balchik White Cliffs Walk",
           "seo_keywords": [
-            "Temple of Cybele Balchik",
-            "ancient Balchik",
-            "Thracian sanctuary"
-          ]
+            "Balchik White Cliffs Walk",
+            "travel",
+            "landmarks"
+          ],
+          "description": "Chalk cliff paths above the Black Sea near Balchik Palace gardens.",
+          "type": "nature",
+          "seo_priority": 85,
+          "search_intent": [
+            "informational",
+            "travel_planning"
+          ],
+          "best_season": [
+            "spring",
+            "summer",
+            "autumn"
+          ],
+          "visit_duration_hours": 1.5,
+          "nearby_places": []
         },
         {
           "name": "Balchik Marina",

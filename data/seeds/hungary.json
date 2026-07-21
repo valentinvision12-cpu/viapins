@@ -207,28 +207,24 @@
           ]
         },
         {
-          "name": "Great Synagogue",
-          "wiki_title": "Great Synagogue (Budapest)",
-          "lat": 47.4994,
-          "lng": 19.0673,
+          "name": "Dohány Street Area Walk",
+          "wiki_title": "Budapest",
+          "lat": 47.4955,
+          "lng": 19.061,
           "order_index": 5,
-          "description": "Europe's largest synagogue showcasing extraordinary Moorish-Byzantine architecture",
-          "seo_phrase": "Great Synagogue Budapest: Monumental Moorish Architecture & Jewish Heritage",
+          "description": "Central Pest neighbourhood walk near cafés, courtyards, and the river approaches.",
+          "seo_phrase": "Dohány Street Area Walk",
           "seo_keywords": [
-            "Great Synagogue Budapest",
-            "Jewish heritage",
-            "Moorish architecture",
-            "Holocaust memorial",
-            "religious monument"
+            "Dohány Street Area Walk",
+            "travel",
+            "landmarks"
           ],
-          "commons_file": "81/Budapest - Synagogue2.jpg/1280px-Budapest - Synagogue2.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Budapest_-_Synagogue2.jpg/1280px-Budapest_-_Synagogue2.jpg",
           "seo_priority": 88,
           "search_intent": [
             "travel_planning",
             "travel_planning"
           ],
-          "type": "church",
+          "type": "landmark",
           "best_season": [
             "spring",
             "summer",
@@ -787,16 +783,14 @@
           "visit_duration_hours": 2
         },
         {
-          "name": "New Synagogue (Szeged)",
-          "wiki_title": "New Synagogue (Szeged)",
-          "lat": 46.2547,
-          "lng": 20.1454,
+          "name": "Szeged City Hall",
+          "wiki_title": "Szeged City Hall",
+          "lat": 46.253,
+          "lng": 20.148,
           "order_index": 3,
-          "seo_phrase": "New Synagogue (Szeged) — Szeged, Hungary",
+          "seo_phrase": "Szeged City Hall",
           "seo_keywords": [
-            "New Synagogue (Szeged)",
-            "Szeged",
-            "Hungary",
+            "Szeged City Hall",
             "travel",
             "landmarks"
           ],
@@ -805,13 +799,15 @@
             "informational",
             "travel_planning"
           ],
-          "type": "church",
+          "type": "landmark",
           "best_season": [
             "spring",
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1
+          "visit_duration_hours": 1,
+          "description": "Eclectic city hall on Szeged's main square, a landmark of the rebuilt city.",
+          "nearby_places": []
         },
         {
           "name": "Reök Palace",
@@ -1000,16 +996,14 @@
       },
       "places": [
         {
-          "name": "Mosque of pasha Qasim",
-          "wiki_title": "Mosque of pasha Qasim",
-          "lat": 46.0744,
-          "lng": 18.2328,
+          "name": "Széchenyi Square Arcade Walk",
+          "wiki_title": "Széchenyi Square, Pécs",
+          "lat": 46.0775,
+          "lng": 18.2278,
           "order_index": 0,
-          "seo_phrase": "Mosque of pasha Qasim — Pécs, Hungary",
+          "seo_phrase": "Széchenyi Square Arcade Walk",
           "seo_keywords": [
-            "Mosque of pasha Qasim",
-            "Pécs",
-            "Hungary",
+            "Széchenyi Square Arcade Walk",
             "travel",
             "landmarks"
           ],
@@ -1018,13 +1012,15 @@
             "informational",
             "travel_planning"
           ],
-          "type": "church",
+          "type": "landmark",
           "best_season": [
             "spring",
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1
+          "visit_duration_hours": 1,
+          "description": "Main square of Pécs with cafés under the arcades of the historic centre.",
+          "nearby_places": []
         },
         {
           "name": "Pécs Cathedral",
@@ -2312,16 +2308,14 @@
           "visit_duration_hours": 1
         },
         {
-          "name": "Kecskemét Synagogue",
-          "wiki_title": "Kecskemét Synagogue",
-          "lat": 46.9065,
-          "lng": 19.6902,
+          "name": "Kecskemét Art Nouveau Walk",
+          "wiki_title": "Kecskemét",
+          "lat": 46.9068,
+          "lng": 19.6915,
           "order_index": 5,
-          "seo_phrase": "Kecskemét Synagogue — Kecskemét, Hungary",
+          "seo_phrase": "Kecskemét Art Nouveau Walk",
           "seo_keywords": [
-            "Kecskemét Synagogue",
-            "Kecskemét",
-            "Hungary",
+            "Kecskemét Art Nouveau Walk",
             "travel",
             "landmarks"
           ],
@@ -2330,13 +2324,15 @@
             "informational",
             "travel_planning"
           ],
-          "type": "church",
+          "type": "landmark",
           "best_season": [
             "spring",
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1
+          "visit_duration_hours": 1,
+          "description": "Walk among Kecskemét's celebrated Art Nouveau civic buildings around the main square.",
+          "nearby_places": []
         },
         {
           "name": "Kodály Institute",
@@ -2660,16 +2656,14 @@
           "visit_duration_hours": 1
         },
         {
-          "name": "Temple of Isis (Savaria)",
-          "wiki_title": "Temple of Isis (Savaria)",
-          "lat": 47.223,
-          "lng": 16.624,
+          "name": "Szombathely Main Square Fountain",
+          "wiki_title": "Szombathely",
+          "lat": 47.2308,
+          "lng": 16.6215,
           "order_index": 7,
-          "seo_phrase": "Temple of Isis (Savaria) — Szombathely, Hungary",
+          "seo_phrase": "Szombathely Main Square Fountain",
           "seo_keywords": [
-            "Temple of Isis (Savaria)",
-            "Szombathely",
-            "Hungary",
+            "Szombathely Main Square Fountain",
             "travel",
             "landmarks"
           ],
@@ -2684,7 +2678,9 @@
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1
+          "visit_duration_hours": 1,
+          "description": "Central square fountain and café life in Szombathely's historic centre.",
+          "nearby_places": []
         },
         {
           "name": "Saint Martin's Church, Szombathely",
@@ -2714,16 +2710,14 @@
           "visit_duration_hours": 1
         },
         {
-          "name": "Szombathely Synagogue",
-          "wiki_title": "Szombathely Synagogue",
-          "lat": 47.2303,
-          "lng": 16.6208,
+          "name": "Szombathely Theatre Square",
+          "wiki_title": "Szombathely",
+          "lat": 47.2315,
+          "lng": 16.622,
           "order_index": 9,
-          "seo_phrase": "Szombathely Synagogue — Szombathely, Hungary",
+          "seo_phrase": "Szombathely Theatre Square",
           "seo_keywords": [
-            "Szombathely Synagogue",
-            "Szombathely",
-            "Hungary",
+            "Szombathely Theatre Square",
             "travel",
             "landmarks"
           ],
@@ -2732,13 +2726,15 @@
             "informational",
             "travel_planning"
           ],
-          "type": "church",
+          "type": "landmark",
           "best_season": [
             "spring",
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1
+          "visit_duration_hours": 1,
+          "description": "Theatre and civic square area anchoring evening life in Szombathely.",
+          "nearby_places": []
         }
       ]
     },
@@ -2928,16 +2924,14 @@
           "visit_duration_hours": 1
         },
         {
-          "name": "Eger Minaret",
-          "wiki_title": "Eger Minaret",
-          "lat": 47.9036,
-          "lng": 20.3781,
+          "name": "Eger Thermal Bath Park",
+          "wiki_title": "Eger",
+          "lat": 47.9025,
+          "lng": 20.3715,
           "order_index": 6,
-          "seo_phrase": "Eger Minaret — Eger, Hungary",
+          "seo_phrase": "Eger Thermal Bath Park",
           "seo_keywords": [
-            "Eger Minaret",
-            "Eger",
-            "Hungary",
+            "Eger Thermal Bath Park",
             "travel",
             "landmarks"
           ],
@@ -2946,13 +2940,15 @@
             "informational",
             "travel_planning"
           ],
-          "type": "landmark",
+          "type": "nature",
           "best_season": [
             "spring",
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1
+          "visit_duration_hours": 1,
+          "description": "Parkland around Eger's thermal baths, popular after castle visits.",
+          "nearby_places": []
         },
         {
           "name": "Archbishop's Palace, Eger",

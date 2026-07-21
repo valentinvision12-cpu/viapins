@@ -1,5 +1,7 @@
 import { isBadImageUrl } from "./wiki-image";
 import { isValidMapLocation } from "./place-links";
+import { isDeathRelatedPlace } from "./death-place-filter";
+import { isNonChristianReligiousPlace } from "./non-christian-place-filter";
 
 export type PlaceCoverSource = {
   name: string;
@@ -50,9 +52,14 @@ export type PlaceMapFilter = {
   description?: string;
 };
 
-/** Show all landmarks with valid GPS — never hide places from the list or map. */
+/** Valid GPS pins only — also hide death sites and non-Christian religious landmarks. */
 export function filterPlacesForDisplay<T extends PlaceMapFilter>(places: T[]): T[] {
-  return places.filter((p) => isValidMapLocation(p.lat, p.lng, p.name));
+  return places.filter(
+    (p) =>
+      isValidMapLocation(p.lat, p.lng, p.name) &&
+      !isDeathRelatedPlace(p.name, p.description) &&
+      !isNonChristianReligiousPlace(p.name, p.description)
+  );
 }
 
 /** Map uses the same pins as the list — accuracy comes from Google Place ID + coords in DB. */

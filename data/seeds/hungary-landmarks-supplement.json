@@ -1,110 +1,524 @@
 {
   "Debrecen": [
-    { "name": "Great Reformed Church of Debrecen", "wiki_title": "Great Reformed Church of Debrecen", "lat": 47.53194, "lng": 21.62583 },
-    { "name": "Déri Museum", "wiki_title": "Déri Museum", "lat": 47.53306, "lng": 21.6225 },
-    { "name": "Debrecen Zoo", "wiki_title": "Debrecen Zoo", "lat": 47.5339, "lng": 21.6036 },
-    { "name": "Aquaticum Debrecen", "wiki_title": "Aquaticum Debrecen", "lat": 47.5347, "lng": 21.6272 },
-    { "name": "St. Anne's Cathedral, Debrecen", "wiki_title": "St. Anne's Cathedral, Debrecen", "lat": 47.5289, "lng": 21.6214 },
-    { "name": "Csokonai Theatre", "wiki_title": "Csokonai Theatre", "lat": 47.5317, "lng": 21.6234 },
-    { "name": "Nagyerdei Park", "wiki_title": "Nagyerdei Park", "lat": 47.5569, "lng": 21.625 },
-    { "name": "Reformed College of Debrecen", "wiki_title": "Reformed College of Debrecen", "lat": 47.5322, "lng": 21.6256 },
-    { "name": "University of Debrecen", "wiki_title": "University of Debrecen", "lat": 47.5486, "lng": 21.6228 },
-    { "name": "Nagyerdei Water Tower", "wiki_title": "Nagyerdei Water Tower", "lat": 47.5542, "lng": 21.6278 }
+    {
+      "name": "Great Reformed Church of Debrecen",
+      "wiki_title": "Great Reformed Church of Debrecen",
+      "lat": 47.53194,
+      "lng": 21.62583
+    },
+    {
+      "name": "Déri Museum",
+      "wiki_title": "Déri Museum",
+      "lat": 47.53306,
+      "lng": 21.6225
+    },
+    {
+      "name": "Debrecen Zoo",
+      "wiki_title": "Debrecen Zoo",
+      "lat": 47.5339,
+      "lng": 21.6036
+    },
+    {
+      "name": "Aquaticum Debrecen",
+      "wiki_title": "Aquaticum Debrecen",
+      "lat": 47.5347,
+      "lng": 21.6272
+    },
+    {
+      "name": "St. Anne's Cathedral, Debrecen",
+      "wiki_title": "St. Anne's Cathedral, Debrecen",
+      "lat": 47.5289,
+      "lng": 21.6214
+    },
+    {
+      "name": "Csokonai Theatre",
+      "wiki_title": "Csokonai Theatre",
+      "lat": 47.5317,
+      "lng": 21.6234
+    },
+    {
+      "name": "Nagyerdei Park",
+      "wiki_title": "Nagyerdei Park",
+      "lat": 47.5569,
+      "lng": 21.625
+    },
+    {
+      "name": "Reformed College of Debrecen",
+      "wiki_title": "Reformed College of Debrecen",
+      "lat": 47.5322,
+      "lng": 21.6256
+    },
+    {
+      "name": "University of Debrecen",
+      "wiki_title": "University of Debrecen",
+      "lat": 47.5486,
+      "lng": 21.6228
+    },
+    {
+      "name": "Nagyerdei Water Tower",
+      "wiki_title": "Nagyerdei Water Tower",
+      "lat": 47.5542,
+      "lng": 21.6278
+    }
   ],
   "Szeged": [
-    { "name": "Votive Church of Szeged", "wiki_title": "Votive Church of Szeged", "lat": 46.2528, "lng": 20.1489 },
-    { "name": "Dóm Square (Szeged)", "wiki_title": "Dóm Square (Szeged)", "lat": 46.2525, "lng": 20.1486 },
-    { "name": "Móra Ferenc Museum", "wiki_title": "Móra Ferenc Museum", "lat": 46.2539, "lng": 20.148 },
-    { "name": "New Synagogue (Szeged)", "wiki_title": "New Synagogue (Szeged)", "lat": 46.2547, "lng": 20.1454 },
-    { "name": "Reök Palace", "wiki_title": "Reök Palace", "lat": 46.2541, "lng": 20.1467 },
-    { "name": "Anna Spring, Szeged", "wiki_title": "Anna Spring, Szeged", "lat": 46.2497, "lng": 20.1328 },
-    { "name": "Klauzál Square", "wiki_title": "Klauzál Square", "lat": 46.2558, "lng": 20.1472 },
-    { "name": "National Memorial Hall (Hungary)", "wiki_title": "National Memorial Hall (Hungary)", "lat": 46.2561, "lng": 20.1488 },
-    { "name": "Szeged Botanical Garden", "wiki_title": "Szeged Botanical Garden", "lat": 46.2469, "lng": 20.1456 },
-    { "name": "Szeged Water Tower", "wiki_title": "Szeged Water Tower", "lat": 46.2428, "lng": 20.1603 }
+    {
+      "name": "Votive Church of Szeged",
+      "wiki_title": "Votive Church of Szeged",
+      "lat": 46.2528,
+      "lng": 20.1489
+    },
+    {
+      "name": "Dóm Square (Szeged)",
+      "wiki_title": "Dóm Square (Szeged)",
+      "lat": 46.2525,
+      "lng": 20.1486
+    },
+    {
+      "name": "Móra Ferenc Museum",
+      "wiki_title": "Móra Ferenc Museum",
+      "lat": 46.2539,
+      "lng": 20.148
+    },
+    {
+      "name": "Reök Palace",
+      "wiki_title": "Reök Palace",
+      "lat": 46.2541,
+      "lng": 20.1467
+    },
+    {
+      "name": "Anna Spring, Szeged",
+      "wiki_title": "Anna Spring, Szeged",
+      "lat": 46.2497,
+      "lng": 20.1328
+    },
+    {
+      "name": "Klauzál Square",
+      "wiki_title": "Klauzál Square",
+      "lat": 46.2558,
+      "lng": 20.1472
+    },
+    {
+      "name": "National Memorial Hall (Hungary)",
+      "wiki_title": "National Memorial Hall (Hungary)",
+      "lat": 46.2561,
+      "lng": 20.1488
+    },
+    {
+      "name": "Szeged Botanical Garden",
+      "wiki_title": "Szeged Botanical Garden",
+      "lat": 46.2469,
+      "lng": 20.1456
+    },
+    {
+      "name": "Szeged Water Tower",
+      "wiki_title": "Szeged Water Tower",
+      "lat": 46.2428,
+      "lng": 20.1603
+    }
   ],
   "Pécs": [
-    { "name": "Mosque of pasha Qasim", "wiki_title": "Mosque of pasha Qasim", "lat": 46.0744, "lng": 18.2328 },
-    { "name": "Pécs Cathedral", "wiki_title": "Pécs Cathedral", "lat": 46.0789, "lng": 18.2236 },
-    { "name": "Zsolnay Cultural Quarter", "wiki_title": "Zsolnay Cultural Quarter", "lat": 46.0717, "lng": 18.2411 },
-    { "name": "Király Street, Pécs", "wiki_title": "Király Street, Pécs", "lat": 46.0742, "lng": 18.2315 },
-    { "name": "Pécs TV Tower", "wiki_title": "Pécs TV Tower", "lat": 46.0322, "lng": 18.2553 },
-    { "name": "Csontváry Museum", "wiki_title": "Csontváry Museum", "lat": 46.0756, "lng": 18.2304 },
-    { "name": "Victor Vasarely Museum", "wiki_title": "Victor Vasarely Museum", "lat": 46.0761, "lng": 18.2312 },
-    { "name": "Széchenyi Square, Pécs", "wiki_title": "Széchenyi Square, Pécs", "lat": 46.0747, "lng": 18.2329 },
-    { "name": "National Theatre of Pécs", "wiki_title": "National Theatre of Pécs", "lat": 46.0697, "lng": 18.2371 },
-    { "name": "Tettye ruins", "wiki_title": "Tettye ruins", "lat": 46.0739, "lng": 18.2567 }
+    {
+      "name": "Pécs Cathedral",
+      "wiki_title": "Pécs Cathedral",
+      "lat": 46.0789,
+      "lng": 18.2236
+    },
+    {
+      "name": "Zsolnay Cultural Quarter",
+      "wiki_title": "Zsolnay Cultural Quarter",
+      "lat": 46.0717,
+      "lng": 18.2411
+    },
+    {
+      "name": "Király Street, Pécs",
+      "wiki_title": "Király Street, Pécs",
+      "lat": 46.0742,
+      "lng": 18.2315
+    },
+    {
+      "name": "Pécs TV Tower",
+      "wiki_title": "Pécs TV Tower",
+      "lat": 46.0322,
+      "lng": 18.2553
+    },
+    {
+      "name": "Csontváry Museum",
+      "wiki_title": "Csontváry Museum",
+      "lat": 46.0756,
+      "lng": 18.2304
+    },
+    {
+      "name": "Victor Vasarely Museum",
+      "wiki_title": "Victor Vasarely Museum",
+      "lat": 46.0761,
+      "lng": 18.2312
+    },
+    {
+      "name": "Széchenyi Square, Pécs",
+      "wiki_title": "Széchenyi Square, Pécs",
+      "lat": 46.0747,
+      "lng": 18.2329
+    },
+    {
+      "name": "National Theatre of Pécs",
+      "wiki_title": "National Theatre of Pécs",
+      "lat": 46.0697,
+      "lng": 18.2371
+    },
+    {
+      "name": "Tettye ruins",
+      "wiki_title": "Tettye ruins",
+      "lat": 46.0739,
+      "lng": 18.2567
+    }
   ],
   "Győr": [
-    { "name": "Győr Basilica", "wiki_title": "Győr Basilica", "lat": 47.6872, "lng": 17.6348 },
-    { "name": "Püspökvár, Győr", "wiki_title": "Bishop's Castle (Győr)", "lat": 47.6869, "lng": 17.6356 },
-    { "name": "Carmelite Church (Győr)", "wiki_title": "Carmelite Church (Győr)", "lat": 47.6864, "lng": 17.6341 },
-    { "name": "Győr City Hall", "wiki_title": "Győr City Hall", "lat": 47.6848, "lng": 17.6345 },
-    { "name": "Rába Quelle", "wiki_title": "Rába Quelle", "lat": 47.6836, "lng": 17.6392 },
-    { "name": "Aranypatkó", "wiki_title": "Aranypatkó", "lat": 47.6872, "lng": 17.6342 },
-    { "name": "Széchenyi Square, Győr", "wiki_title": "Széchenyi Square, Győr", "lat": 47.6875, "lng": 17.634 },
-    { "name": "Radó Island", "wiki_title": "Radó Island", "lat": 47.6828, "lng": 17.6372 },
-    { "name": "Rába Island", "wiki_title": "Rába Island", "lat": 47.6825, "lng": 17.6369 },
-    { "name": "Győr National Theatre", "wiki_title": "Győr National Theatre", "lat": 47.6856, "lng": 17.6339 }
+    {
+      "name": "Győr Basilica",
+      "wiki_title": "Győr Basilica",
+      "lat": 47.6872,
+      "lng": 17.6348
+    },
+    {
+      "name": "Püspökvár, Győr",
+      "wiki_title": "Bishop's Castle (Győr)",
+      "lat": 47.6869,
+      "lng": 17.6356
+    },
+    {
+      "name": "Carmelite Church (Győr)",
+      "wiki_title": "Carmelite Church (Győr)",
+      "lat": 47.6864,
+      "lng": 17.6341
+    },
+    {
+      "name": "Győr City Hall",
+      "wiki_title": "Győr City Hall",
+      "lat": 47.6848,
+      "lng": 17.6345
+    },
+    {
+      "name": "Rába Quelle",
+      "wiki_title": "Rába Quelle",
+      "lat": 47.6836,
+      "lng": 17.6392
+    },
+    {
+      "name": "Aranypatkó",
+      "wiki_title": "Aranypatkó",
+      "lat": 47.6872,
+      "lng": 17.6342
+    },
+    {
+      "name": "Széchenyi Square, Győr",
+      "wiki_title": "Széchenyi Square, Győr",
+      "lat": 47.6875,
+      "lng": 17.634
+    },
+    {
+      "name": "Radó Island",
+      "wiki_title": "Radó Island",
+      "lat": 47.6828,
+      "lng": 17.6372
+    },
+    {
+      "name": "Rába Island",
+      "wiki_title": "Rába Island",
+      "lat": 47.6825,
+      "lng": 17.6369
+    },
+    {
+      "name": "Győr National Theatre",
+      "wiki_title": "Győr National Theatre",
+      "lat": 47.6856,
+      "lng": 17.6339
+    }
   ],
   "Miskolc": [
-    { "name": "Diósgyőr Castle", "wiki_title": "Diósgyőr Castle", "lat": 48.0986, "lng": 20.6898 },
-    { "name": "Cave Bath, Miskolctapolca", "wiki_title": "Cave Bath, Miskolctapolca", "lat": 48.0622, "lng": 20.3533 },
-    { "name": "Lillafüred", "wiki_title": "Lillafüred", "lat": 48.105, "lng": 20.6244 },
-    { "name": "Szinva Terrace", "wiki_title": "Szinva Terrace", "lat": 48.1036, "lng": 20.7792 },
-    { "name": "Avas Church (Miskolc)", "wiki_title": "Avas Church (Miskolc)", "lat": 48.1058, "lng": 20.7833 },
-    { "name": "Greek Orthodox Church, Miskolc", "wiki_title": "Greek Orthodox Church, Miskolc", "lat": 48.1036, "lng": 20.7808 },
-    { "name": "Otto Herman Museum", "wiki_title": "Otto Herman Museum", "lat": 48.1039, "lng": 20.7786 },
-    { "name": "Wooden Church, Miskolc", "wiki_title": "Wooden Church, Miskolc", "lat": 48.1042, "lng": 20.7795 },
-    { "name": "Miskolc National Theatre", "wiki_title": "Miskolc National Theatre", "lat": 48.1033, "lng": 20.7781 },
-    { "name": "Massa Museum", "wiki_title": "Massa Museum", "lat": 48.1011, "lng": 20.7758 }
+    {
+      "name": "Diósgyőr Castle",
+      "wiki_title": "Diósgyőr Castle",
+      "lat": 48.0986,
+      "lng": 20.6898
+    },
+    {
+      "name": "Cave Bath, Miskolctapolca",
+      "wiki_title": "Cave Bath, Miskolctapolca",
+      "lat": 48.0622,
+      "lng": 20.3533
+    },
+    {
+      "name": "Lillafüred",
+      "wiki_title": "Lillafüred",
+      "lat": 48.105,
+      "lng": 20.6244
+    },
+    {
+      "name": "Szinva Terrace",
+      "wiki_title": "Szinva Terrace",
+      "lat": 48.1036,
+      "lng": 20.7792
+    },
+    {
+      "name": "Avas Church (Miskolc)",
+      "wiki_title": "Avas Church (Miskolc)",
+      "lat": 48.1058,
+      "lng": 20.7833
+    },
+    {
+      "name": "Greek Orthodox Church, Miskolc",
+      "wiki_title": "Greek Orthodox Church, Miskolc",
+      "lat": 48.1036,
+      "lng": 20.7808
+    },
+    {
+      "name": "Otto Herman Museum",
+      "wiki_title": "Otto Herman Museum",
+      "lat": 48.1039,
+      "lng": 20.7786
+    },
+    {
+      "name": "Wooden Church, Miskolc",
+      "wiki_title": "Wooden Church, Miskolc",
+      "lat": 48.1042,
+      "lng": 20.7795
+    },
+    {
+      "name": "Miskolc National Theatre",
+      "wiki_title": "Miskolc National Theatre",
+      "lat": 48.1033,
+      "lng": 20.7781
+    },
+    {
+      "name": "Massa Museum",
+      "wiki_title": "Massa Museum",
+      "lat": 48.1011,
+      "lng": 20.7758
+    }
   ],
   "Nyíregyháza": [
-    { "name": "Sóstó Zoo", "wiki_title": "Sóstó Zoo", "lat": 47.985, "lng": 21.6956 },
-    { "name": "Sóstó Open Air Museum", "wiki_title": "Sóstó Open Air Museum", "lat": 47.9842, "lng": 21.6978 },
-    { "name": "Central Square, Nyíregyháza", "wiki_title": "Central Square, Nyíregyháza", "lat": 47.955, "lng": 21.717 },
-    { "name": "Church of Our Lady, Nyíregyháza", "wiki_title": "Church of Our Lady, Nyíregyháza", "lat": 47.9542, "lng": 21.7208 },
-    { "name": "András Jósa Museum", "wiki_title": "András Jósa Museum", "lat": 47.9556, "lng": 21.7189 },
-    { "name": "Hungarian Greek Catholic Cathedral, Nyíregyháza", "wiki_title": "Hungarian Greek Catholic Cathedral, Nyíregyháza", "lat": 47.9531, "lng": 21.7217 },
-    { "name": "Nyíregyháza Railway Station", "wiki_title": "Nyíregyháza railway station", "lat": 47.9553, "lng": 21.7097 },
-    { "name": "Nyíregyháza Water Tower", "wiki_title": "Nyíregyháza Water Tower", "lat": 47.9533, "lng": 21.7167 },
-    { "name": "Nyíregyháza Reformed Church", "wiki_title": "Nyíregyháza Reformed Church", "lat": 47.9548, "lng": 21.7205 },
-    { "name": "Sóstói Lake", "wiki_title": "Sóstói Lake", "lat": 47.9828, "lng": 21.6925 }
+    {
+      "name": "Sóstó Zoo",
+      "wiki_title": "Sóstó Zoo",
+      "lat": 47.985,
+      "lng": 21.6956
+    },
+    {
+      "name": "Sóstó Open Air Museum",
+      "wiki_title": "Sóstó Open Air Museum",
+      "lat": 47.9842,
+      "lng": 21.6978
+    },
+    {
+      "name": "Central Square, Nyíregyháza",
+      "wiki_title": "Central Square, Nyíregyháza",
+      "lat": 47.955,
+      "lng": 21.717
+    },
+    {
+      "name": "Church of Our Lady, Nyíregyháza",
+      "wiki_title": "Church of Our Lady, Nyíregyháza",
+      "lat": 47.9542,
+      "lng": 21.7208
+    },
+    {
+      "name": "András Jósa Museum",
+      "wiki_title": "András Jósa Museum",
+      "lat": 47.9556,
+      "lng": 21.7189
+    },
+    {
+      "name": "Hungarian Greek Catholic Cathedral, Nyíregyháza",
+      "wiki_title": "Hungarian Greek Catholic Cathedral, Nyíregyháza",
+      "lat": 47.9531,
+      "lng": 21.7217
+    },
+    {
+      "name": "Nyíregyháza Railway Station",
+      "wiki_title": "Nyíregyháza railway station",
+      "lat": 47.9553,
+      "lng": 21.7097
+    },
+    {
+      "name": "Nyíregyháza Water Tower",
+      "wiki_title": "Nyíregyháza Water Tower",
+      "lat": 47.9533,
+      "lng": 21.7167
+    },
+    {
+      "name": "Nyíregyháza Reformed Church",
+      "wiki_title": "Nyíregyháza Reformed Church",
+      "lat": 47.9548,
+      "lng": 21.7205
+    },
+    {
+      "name": "Sóstói Lake",
+      "wiki_title": "Sóstói Lake",
+      "lat": 47.9828,
+      "lng": 21.6925
+    }
   ],
   "Kecskemét": [
-    { "name": "Kecskemét City Hall", "wiki_title": "Kecskemét City Hall", "lat": 46.9064, "lng": 19.6919 },
-    { "name": "Cifra Palace", "wiki_title": "Cifra Palace", "lat": 46.9072, "lng": 19.6906 },
-    { "name": "Katona József Theatre", "wiki_title": "Katona József Theatre", "lat": 46.9068, "lng": 19.6925 },
-    { "name": "Piarist Church of Kecskemét", "wiki_title": "Piarist Church of Kecskemét", "lat": 46.9075, "lng": 19.6912 },
-    { "name": "Great Church, Kecskemét", "wiki_title": "Great Church, Kecskemét", "lat": 46.9061, "lng": 19.6933 },
-    { "name": "Kecskemét Synagogue", "wiki_title": "Kecskemét Synagogue", "lat": 46.9065, "lng": 19.6902 },
-    { "name": "Kodály Institute", "wiki_title": "Kodály Institute", "lat": 46.9081, "lng": 19.6897 },
-    { "name": "Hungarian Museum of Photography", "wiki_title": "Hungarian Museum of Photography", "lat": 46.9078, "lng": 19.6889 },
-    { "name": "Kecskemét Main Square", "wiki_title": "Kecskemét Main Square", "lat": 46.907, "lng": 19.6915 },
-    { "name": "Franciscan Church, Kecskemét", "wiki_title": "Franciscan Church, Kecskemét", "lat": 46.9055, "lng": 19.6928 }
+    {
+      "name": "Kecskemét City Hall",
+      "wiki_title": "Kecskemét City Hall",
+      "lat": 46.9064,
+      "lng": 19.6919
+    },
+    {
+      "name": "Cifra Palace",
+      "wiki_title": "Cifra Palace",
+      "lat": 46.9072,
+      "lng": 19.6906
+    },
+    {
+      "name": "Katona József Theatre",
+      "wiki_title": "Katona József Theatre",
+      "lat": 46.9068,
+      "lng": 19.6925
+    },
+    {
+      "name": "Piarist Church of Kecskemét",
+      "wiki_title": "Piarist Church of Kecskemét",
+      "lat": 46.9075,
+      "lng": 19.6912
+    },
+    {
+      "name": "Great Church, Kecskemét",
+      "wiki_title": "Great Church, Kecskemét",
+      "lat": 46.9061,
+      "lng": 19.6933
+    },
+    {
+      "name": "Kodály Institute",
+      "wiki_title": "Kodály Institute",
+      "lat": 46.9081,
+      "lng": 19.6897
+    },
+    {
+      "name": "Hungarian Museum of Photography",
+      "wiki_title": "Hungarian Museum of Photography",
+      "lat": 46.9078,
+      "lng": 19.6889
+    },
+    {
+      "name": "Kecskemét Main Square",
+      "wiki_title": "Kecskemét Main Square",
+      "lat": 46.907,
+      "lng": 19.6915
+    },
+    {
+      "name": "Franciscan Church, Kecskemét",
+      "wiki_title": "Franciscan Church, Kecskemét",
+      "lat": 46.9055,
+      "lng": 19.6928
+    }
   ],
   "Szombathely": [
-    { "name": "Savaria Museum", "wiki_title": "Savaria Museum", "lat": 47.2294, "lng": 16.6217 },
-    { "name": "Iseum Savariense", "wiki_title": "Iseum Savariense", "lat": 47.2228, "lng": 16.6244 },
-    { "name": "Szombathely Cathedral", "wiki_title": "Szombathely Cathedral", "lat": 47.2308, "lng": 16.6222 },
-    { "name": "Romkert (Savaria)", "wiki_title": "Romkert (Savaria)", "lat": 47.2236, "lng": 16.6233 },
-    { "name": "Kámon Arboretum", "wiki_title": "Kámon Arboretum", "lat": 47.2086, "lng": 16.6411 },
-    { "name": "Vas County Museum", "wiki_title": "Vas County Museum", "lat": 47.2294, "lng": 16.6217 },
-    { "name": "Main Square, Szombathely", "wiki_title": "Main Square, Szombathely", "lat": 47.2286, "lng": 16.6225 },
-    { "name": "Temple of Isis (Savaria)", "wiki_title": "Temple of Isis (Savaria)", "lat": 47.223, "lng": 16.624 },
-    { "name": "Saint Martin's Church, Szombathely", "wiki_title": "Saint Martin's Church, Szombathely", "lat": 47.2298, "lng": 16.6212 },
-    { "name": "Szombathely Synagogue", "wiki_title": "Szombathely Synagogue", "lat": 47.2303, "lng": 16.6208 }
+    {
+      "name": "Savaria Museum",
+      "wiki_title": "Savaria Museum",
+      "lat": 47.2294,
+      "lng": 16.6217
+    },
+    {
+      "name": "Iseum Savariense",
+      "wiki_title": "Iseum Savariense",
+      "lat": 47.2228,
+      "lng": 16.6244
+    },
+    {
+      "name": "Szombathely Cathedral",
+      "wiki_title": "Szombathely Cathedral",
+      "lat": 47.2308,
+      "lng": 16.6222
+    },
+    {
+      "name": "Romkert (Savaria)",
+      "wiki_title": "Romkert (Savaria)",
+      "lat": 47.2236,
+      "lng": 16.6233
+    },
+    {
+      "name": "Kámon Arboretum",
+      "wiki_title": "Kámon Arboretum",
+      "lat": 47.2086,
+      "lng": 16.6411
+    },
+    {
+      "name": "Vas County Museum",
+      "wiki_title": "Vas County Museum",
+      "lat": 47.2294,
+      "lng": 16.6217
+    },
+    {
+      "name": "Main Square, Szombathely",
+      "wiki_title": "Main Square, Szombathely",
+      "lat": 47.2286,
+      "lng": 16.6225
+    },
+    {
+      "name": "Saint Martin's Church, Szombathely",
+      "wiki_title": "Saint Martin's Church, Szombathely",
+      "lat": 47.2298,
+      "lng": 16.6212
+    }
   ],
   "Eger": [
-    { "name": "Eger Castle", "wiki_title": "Eger Castle", "lat": 47.9047, "lng": 20.3789 },
-    { "name": "Eger Cathedral", "wiki_title": "Eger Cathedral", "lat": 47.8994, "lng": 20.3744 },
-    { "name": "Minorite Church, Eger", "wiki_title": "Minorite Church, Eger", "lat": 47.9022, "lng": 20.3753 },
-    { "name": "Valley of the Beautiful Woman", "wiki_title": "Valley of the Beautiful Woman", "lat": 47.8936, "lng": 20.3522 },
-    { "name": "Dobó Square", "wiki_title": "Dobó Square", "lat": 47.9025, "lng": 20.3769 },
-    { "name": "Lyceum (Eger)", "wiki_title": "Lyceum (Eger)", "lat": 47.902, "lng": 20.3775 },
-    { "name": "Eger Minaret", "wiki_title": "Eger Minaret", "lat": 47.9036, "lng": 20.3781 },
-    { "name": "Archbishop's Palace, Eger", "wiki_title": "Archbishop's Palace, Eger", "lat": 47.9028, "lng": 20.377 },
-    { "name": "Serbian Orthodox Church, Eger", "wiki_title": "Serbian Orthodox Church, Eger", "lat": 47.9015, "lng": 20.3758 },
-    { "name": "Egri Road Beatles Museum", "wiki_title": "Egri Road Beatles Museum", "lat": 47.9033, "lng": 20.3792 }
+    {
+      "name": "Eger Castle",
+      "wiki_title": "Eger Castle",
+      "lat": 47.9047,
+      "lng": 20.3789
+    },
+    {
+      "name": "Eger Cathedral",
+      "wiki_title": "Eger Cathedral",
+      "lat": 47.8994,
+      "lng": 20.3744
+    },
+    {
+      "name": "Minorite Church, Eger",
+      "wiki_title": "Minorite Church, Eger",
+      "lat": 47.9022,
+      "lng": 20.3753
+    },
+    {
+      "name": "Valley of the Beautiful Woman",
+      "wiki_title": "Valley of the Beautiful Woman",
+      "lat": 47.8936,
+      "lng": 20.3522
+    },
+    {
+      "name": "Dobó Square",
+      "wiki_title": "Dobó Square",
+      "lat": 47.9025,
+      "lng": 20.3769
+    },
+    {
+      "name": "Lyceum (Eger)",
+      "wiki_title": "Lyceum (Eger)",
+      "lat": 47.902,
+      "lng": 20.3775
+    },
+    {
+      "name": "Archbishop's Palace, Eger",
+      "wiki_title": "Archbishop's Palace, Eger",
+      "lat": 47.9028,
+      "lng": 20.377
+    },
+    {
+      "name": "Serbian Orthodox Church, Eger",
+      "wiki_title": "Serbian Orthodox Church, Eger",
+      "lat": 47.9015,
+      "lng": 20.3758
+    },
+    {
+      "name": "Egri Road Beatles Museum",
+      "wiki_title": "Egri Road Beatles Museum",
+      "lat": 47.9033,
+      "lng": 20.3792
+    }
   ]
 }
