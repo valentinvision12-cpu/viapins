@@ -1700,26 +1700,28 @@
           "nearby_places": []
         },
         {
-          "name": "Taifa of Granada",
-          "wiki_title": "Taifa of Granada",
-          "lat": 37.16666667,
-          "lng": -3.58333333,
+          "name": "Mirador de San Nicolás",
+          "wiki_title": "Mirador de San Nicolás",
+          "lat": 37.1808,
+          "lng": -3.5927,
           "order_index": 7,
-          "description": "Taifa of Granada — a notable landmark in Granada, Spain.",
-          "seo_phrase": "Taifa of Granada",
+          "description": "Albaicín terrace with the classic postcard view of the Alhambra and Sierra Nevada.",
+          "seo_phrase": "Mirador de San Nicolás Granada Viewpoint Guide",
           "seo_keywords": [
-            "Granada",
+            "Mirador de San Nicolás",
+            "Granada viewpoint",
+            "Albaicin",
             "Spain",
             "travel"
           ],
-          "commons_file": "Location map Taifa of Granada.svg/800px-Location map Taifa of Granada.svg.png",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Location_map_Taifa_of_Granada.svg/800px-Location_map_Taifa_of_Granada.svg.png",
-          "seo_priority": 85,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Alhambra_from_Mirador_de_San_Nicolas.jpg/1280px-Alhambra_from_Mirador_de_San_Nicolas.jpg",
+          "commons_file": "Alhambra from Mirador de San Nicolas.jpg",
+          "seo_priority": 90,
           "search_intent": [
             "travel_planning",
-            "travel_planning"
+            "informational"
           ],
-          "type": "landmark",
+          "type": "viewpoint",
           "best_season": [
             "spring",
             "summer",
@@ -1727,7 +1729,11 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [
+            "Alhambra",
+            "Granada Cathedral"
+          ],
+          "maps_query": "Mirador de San Nicolás, Granada, Spain"
         },
         {
           "name": "Gate of the Pomegranates",
@@ -1749,7 +1755,7 @@
             "travel_planning",
             "travel_planning"
           ],
-          "type": "church",
+          "type": "landmark",
           "best_season": [
             "spring",
             "summer",
@@ -1761,24 +1767,25 @@
           "maps_query": "Gate of the Pomegranates, Granada, Spain"
         },
         {
-          "name": "Vega de Granada",
-          "wiki_title": "Vega de Granada",
-          "lat": 37.1875,
-          "lng": -3.61083333,
+          "name": "Plaza Nueva",
+          "wiki_title": "Plaza Nueva, Granada",
+          "lat": 37.1769,
+          "lng": -3.5965,
           "order_index": 9,
-          "description": "Vega de Granada — a notable landmark in Granada, Spain.",
-          "seo_phrase": "Vega de Granada",
+          "description": "Lively central square at the foot of the Albaicín, lined with cafés and historic buildings.",
+          "seo_phrase": "Plaza Nueva Granada City Square Guide",
           "seo_keywords": [
+            "Plaza Nueva",
             "Granada",
             "Spain",
             "travel"
           ],
-          "commons_file": "LocationVega de Granada.png",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/LocationVega_de_Granada.png",
-          "seo_priority": 85,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Plaza_Nueva_Granada_Spain.jpg/1280px-Plaza_Nueva_Granada_Spain.jpg",
+          "commons_file": "Plaza Nueva Granada Spain.jpg",
+          "seo_priority": 88,
           "search_intent": [
             "travel_planning",
-            "travel_planning"
+            "informational"
           ],
           "type": "landmark",
           "best_season": [
@@ -1788,7 +1795,11 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [
+            "Royal Chapel of Granada",
+            "Granada Cathedral"
+          ],
+          "maps_query": "Plaza Nueva, Granada, Spain"
         }
       ]
     },

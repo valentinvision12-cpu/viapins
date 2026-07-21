@@ -31,6 +31,9 @@ function pageShareUrl(locale: string, path: string) {
   return `${base}/${locale}${path.startsWith("/") ? path : `/${path}`}`;
 }
 
+/** Keep city guides fresh after seed/DB landmark swaps (maps → real photos). */
+export const revalidate = 60;
+
 type Props = {
   params: Promise<{ locale: string; country: string; city: string }>;
 };

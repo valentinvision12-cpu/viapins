@@ -58,7 +58,7 @@ export function filterPlacesForDisplay<T extends PlaceMapFilter>(places: T[]): T
     (p) =>
       isValidMapLocation(p.lat, p.lng, p.name) &&
       !isDeathRelatedPlace(p.name, p.description) &&
-      !isNonChristianReligiousPlace(p.name, p.description)
+      !isNonChristianReligiousPlace(p.name, p.description, p.image_url)
   );
 }
 

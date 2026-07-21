@@ -50,14 +50,22 @@ const CHRISTIAN_TEMPLE_OR_SHRINE =
 
 export function isNonChristianReligiousPlace(
   name: string,
-  description?: string | null
+  description?: string | null,
+  imageUrl?: string | null
 ): boolean {
   const n = (name || "").trim();
   if (!n) return false;
 
   // Mosque–Cathedral / Mezquita-Iglesia / similar hybrids → exclude
-  if (/\b(mosque|mezquita|masjid|synagogue|tekke|džamij|dzamij|cami)\b/i.test(n)) {
+  if (/\b(mosque|mezquita|masjid|synagogue|tekke|džamij|dzamij|cami|xhamia)\b/i.test(n)) {
     return true;
+  }
+
+  if (imageUrl && /mosque|xhamia|masjid|mezquita|minaret|synagogue|tekke|church.?and.?mosque/i.test(imageUrl)) {
+    // Keep Christian places even if a shared photo filename mentions a mosque
+    if (!(CHRISTIAN_KEEP.test(n) || CHRISTIAN_TEMPLE_OR_SHRINE.test(n))) {
+      return true;
+    }
   }
 
   if (CHRISTIAN_KEEP.test(n) || CHRISTIAN_TEMPLE_OR_SHRINE.test(n)) {
@@ -69,7 +77,7 @@ export function isNonChristianReligiousPlace(
   if (description) {
     const d = description;
     if (
-      /\b(mosque|synagogue|hindu temple|buddhist temple|shinto shrine|tekke|masjid)\b/i.test(
+      /\b(mosque|synagogue|hindu temple|buddhist temple|shinto shrine|tekke|masjid|xhamia|camii)\b/i.test(
         d
       ) &&
       !CHRISTIAN_KEEP.test(n)

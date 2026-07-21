@@ -275,8 +275,8 @@ export async function getPublishedDestinations(): Promise<DestinationCard[]> {
 
 const getCachedPublishedDestinations = unstable_cache(
   async () => getPublishedDestinations(),
-  ["published-destinations-v3"],
-  { revalidate: 300, tags: ["destinations"] }
+  ["published-destinations-v4"],
+  { revalidate: 60, tags: ["destinations"] }
 );
 
 /** Cached home catalog (5 min). Invalidate via revalidateTag("destinations") on publish. */
@@ -306,8 +306,8 @@ export async function getDestinationByCityCountry(
 const getCachedDestinationBySlugs = unstable_cache(
   async (countrySlug: string, citySlug: string) =>
     fetchDestinationByCityCountry(countrySlug, citySlug),
-  ["destination-by-slugs-v1"],
-  { revalidate: 300, tags: ["destinations"] }
+  ["destination-by-slugs-v2"],
+  { revalidate: 60, tags: ["destinations"] }
 );
 
 async function fetchDestinationByCityCountry(
