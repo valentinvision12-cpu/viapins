@@ -24,7 +24,7 @@
     "signIn": "Sign In",
     "signOut": "Sign Out",
     "home": "Explore",
-    "adventures": "Routes",
+    "adventures": "Road trips",
     "discover": "Discover",
     "community": "Community"
   },
@@ -32,7 +32,7 @@
     "heroEyebrow": "Free travel guides",
     "heroTitle": "Explore the world's",
     "heroTitleAccent": " finest cities",
-    "heroSubtitle": "Ten curated landmarks per city. Save favorites, book tours or tickets, and open your route in Google Maps.",
+    "heroSubtitle": "Ten curated landmarks per city. Tap to build your route, then open it in Google Maps.",
     "heroSearchCta": "Search",
     "heroPopular": "Popular",
     "heroCta": "Choose Your City",
@@ -45,6 +45,7 @@
     "heroRouteCaption": "Real cities · Real landmarks · Your custom route",
     "searchPlaceholder": "Where to?",
     "themesLookingFor": "What are you looking for?",
+    "themesBrowse": "Browse by theme",
     "inspireMe": "Inspire Me",
     "destinationsTitle": "Cities to explore",
     "destinationsCount": "cities",
@@ -215,6 +216,14 @@
   },
   "affiliates": {
     "sectionTitle": "Plan your trip"
+  },
+  "stays": {
+    "title": "Where to stay in {city}",
+    "subtitle": "Hotels near your route in {city}, {country}. Partner checkout — no Booking branding on ViaPins.",
+    "backToCity": "Back to {city} guide",
+    "cityLink": "Hotels in {city}",
+    "metaTitle": "Hotels in {city}, {country}",
+    "metaDescription": "Find places to stay in {city}. Curated hotel search via our travel partners."
   },
   "adventuresHub": {
     "metaTitle": "Road Trip Adventures by Country",
@@ -607,7 +616,7 @@
   },
   "cityPage": {
     "landmarksTitle": "{count} must-see places",
-    "landmarksHint": "add to your route or save with ♥",
+    "landmarksHint": "tap to add to your route",
     "addAllToRoute": "Add all {count} to my trip",
     "allInRoute": "All {count} added ✓",
     "landmarksBadge": "{count} landmarks",
@@ -633,11 +642,11 @@
     "stickyShare": "Share"
   },
   "actionLegend": {
-    "title": "Two taps — that's it",
+    "title": "One tap — that's it",
     "heartLabel": "Save",
-    "heartDesc": "My Trip · your collection",
+    "heartDesc": "On place detail page only",
     "plusLabel": "Route",
-    "plusDesc": "Today's walking list"
+    "plusDesc": "Tap any place to build your day"
   },
   "continueTrip": {
     "title": "Continue where you left off",
@@ -703,24 +712,29 @@
     "reviewsEmpty": "No public reviews yet — be the first to rate this place.",
     "reviewsCount": "{count, plural, one {# review} other {# reviews}}",
     "nearbyTitle": "Nearby in this city",
-    "anonymous": "Traveler"
+    "anonymous": "Traveler",
+    "savePlace": "Save place",
+    "saved": "Saved"
   },
   "cityGuides": {
     "eyebrow": "City guide",
     "dayLabel": "Day {day}",
     "things-to-do": {
+      "chipLabel": "Things to do",
       "title": "Things to do in {city}",
       "intro": "The best places to visit in {city}, {country} — {count} curated landmarks.",
       "metaTitle": "Things to do in {city}, {country}",
       "metaDescription": "Top things to do in {city}. Photos, tips, and maps."
     },
     "3-day-itinerary": {
+      "chipLabel": "3-day itinerary",
       "title": "3-day itinerary for {city}",
       "intro": "A simple 3-day plan for {city}, {country} using {count} must-see stops.",
       "metaTitle": "3-day itinerary: {city}, {country}",
       "metaDescription": "Plan 3 days in {city} with a clear day-by-day route."
     },
     "hidden-gems": {
+      "chipLabel": "Hidden gems",
       "title": "Hidden gems in {city}",
       "intro": "Quieter corners and lesser-known spots around {city}, {country}.",
       "metaTitle": "Hidden gems in {city}, {country}",

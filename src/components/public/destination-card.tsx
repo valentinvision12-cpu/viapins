@@ -7,6 +7,7 @@ import { Layers, ArrowRight, MapPin } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import { motion } from "framer-motion";
 import type { DestinationCard as DestinationCardType } from "@/actions/get-destinations";
+import { fallbackImageUrl } from "@/lib/fallback-image";
 
 interface Props {
   destination: DestinationCardType;
@@ -62,7 +63,17 @@ export function DestinationCard({
           onError={() => setImgFailed(true)}
           unoptimized={IMAGE_UNOPTIMIZED}
         />
-        ) : null}
+        ) : (
+          <Image
+            src={fallbackImageUrl(`${destination.city}-${destination.country}`, 1000, 720)}
+            alt={destination.city}
+            fill
+            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+            className="object-cover"
+            referrerPolicy={IMAGE_REFERRER_POLICY}
+            unoptimized={IMAGE_UNOPTIMIZED}
+          />
+        )}
 
         <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/15 to-transparent" />
 

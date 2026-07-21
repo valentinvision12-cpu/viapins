@@ -1,7 +1,6 @@
 "use client";
 
 import { useRouteCart } from "@/lib/context/route-cart-context";
-import { useFavorites } from "@/lib/context/favorites-context";
 
 interface Props {
   dark?: boolean;
@@ -9,8 +8,7 @@ interface Props {
 
 export function NavTripBadge({ dark = false }: Props) {
   const { totalItems } = useRouteCart();
-  const { totalFavorites } = useFavorites();
-  const count = totalItems + totalFavorites;
+  const count = totalItems;
 
   if (count === 0) return null;
 

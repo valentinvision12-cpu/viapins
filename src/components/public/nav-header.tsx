@@ -2,7 +2,6 @@
 
 import { useTranslations } from "next-intl";
 import { Link, usePathname } from "@/i18n/navigation";
-import { Briefcase } from "lucide-react";
 import { SiteLogo } from "@/components/public/site-logo";
 import { LanguageSwitcher } from "@/components/language-switcher";
 import { UserNav } from "@/components/public/user-nav";
@@ -18,7 +17,7 @@ export function NavHeader() {
 
   const isDarkHeroPage = pathname.includes("/explore/");
   const isMyTrip = pathname.includes("/my-passport");
-  const isCommunity = pathname.includes("/discover");
+  const isAdventures = pathname.includes("/adventures");
   const isExplore = pathname === "/" || pathname === "";
 
   useEffect(() => {
@@ -87,6 +86,13 @@ export function NavHeader() {
             {t("home")}
           </Link>
           <Link
+            href="/adventures"
+            className={linkClass(isAdventures)}
+            style={linkStyle(isAdventures)}
+          >
+            {t("adventures")}
+          </Link>
+          <Link
             href="/my-passport"
             className={cn(
               "inline-flex items-center gap-2",
@@ -97,28 +103,9 @@ export function NavHeader() {
             {t("myPassport")}
             <NavTripBadge dark={dark} />
           </Link>
-          <Link
-            href="/discover"
-            className={linkClass(isCommunity)}
-            style={linkStyle(isCommunity)}
-          >
-            {t("community")}
-          </Link>
         </nav>
 
         <div className="flex items-center gap-2 shrink-0">
-          <Link
-            href="/my-passport"
-            className={cn(
-              "md:hidden inline-flex items-center gap-1 px-2.5 py-1.5 rounded-xl border text-xs font-medium transition-all",
-              dark
-                ? "border-white/15 text-white/70"
-                : "border-stone-200 text-stone-600 bg-stone-50"
-            )}
-          >
-            <Briefcase className="w-3.5 h-3.5" />
-            <NavTripBadge dark={dark} />
-          </Link>
           <UserNav dark={dark} />
         </div>
       </div>

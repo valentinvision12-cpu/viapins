@@ -2,6 +2,7 @@ import { isBadImageUrl } from "./wiki-image";
 import { isValidMapLocation } from "./place-links";
 import { isDeathRelatedPlace } from "./death-place-filter";
 import { isNonChristianReligiousPlace } from "./non-christian-place-filter";
+import { isMapOrNonLandmarkPlace } from "./map-place-filter";
 
 export type PlaceCoverSource = {
   name: string;
@@ -52,12 +53,13 @@ export type PlaceMapFilter = {
   description?: string;
 };
 
-/** Valid GPS pins only — also hide death sites and non-Christian religious landmarks. */
+/** Valid GPS pins only — also hide death sites, map-entities, and non-Christian religious landmarks. */
 export function filterPlacesForDisplay<T extends PlaceMapFilter>(places: T[]): T[] {
   return places.filter(
     (p) =>
       isValidMapLocation(p.lat, p.lng, p.name) &&
       !isDeathRelatedPlace(p.name, p.description) &&
+      !isMapOrNonLandmarkPlace(p.name) &&
       !isNonChristianReligiousPlace(p.name, p.description, p.image_url)
   );
 }

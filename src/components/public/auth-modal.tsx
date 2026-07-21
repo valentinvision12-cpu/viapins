@@ -6,7 +6,6 @@ import { motion, AnimatePresence } from "framer-motion";
 import { useTranslations, useLocale } from "next-intl";
 import { X, Globe, Mail, CheckCircle2, AlertCircle, Loader2 } from "lucide-react";
 import type { RouteCartItem } from "@/lib/context/route-cart-context";
-import { useAdBlock } from "@/components/public/adblock-detector";
 import { buildOAuthRedirectTo, OAUTH_PERSIST_QUERY } from "@/i18n/routing";
 
 interface Props {
@@ -35,7 +34,6 @@ const GoogleIcon = () => (
 export function AuthModal({ isOpen, onClose, pendingItems, routeTitle, onAuthSuccess }: Props) {
   const t = useTranslations("auth");
   const locale = useLocale();
-  const { adBlockDetected } = useAdBlock();
   const [email, setEmail] = useState("");
   const [step, setStep] = useState<Step>("idle");
   const [errorMsg, setErrorMsg] = useState("");
@@ -156,14 +154,6 @@ export function AuthModal({ isOpen, onClose, pendingItems, routeTitle, onAuthSuc
                     <p className="text-amber-400/60 text-xs">{t("supabaseMissingDesc")}</p>
                   </div>
 
-                ) : adBlockDetected ? (
-                  <div className="text-center py-4 px-4 bg-amber-500/10 border border-amber-500/20 rounded-2xl space-y-2">
-                    <p className="text-amber-200 text-sm font-medium">Account creation is paused</p>
-                    <p className="text-amber-300/70 text-xs leading-relaxed">
-                      Please disable your ad blocker for ViaPins to create an account and save routes to your passport.
-                      Browsing remains free.
-                    </p>
-                  </div>
                 ) : step === "sent" ? (
                   <div className="text-center py-6">
                     <CheckCircle2 className="w-12 h-12 text-emerald-400 mx-auto mb-3" />

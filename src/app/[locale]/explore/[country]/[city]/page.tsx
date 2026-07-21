@@ -115,6 +115,8 @@ const TAG_COLORS: Record<string, string> = {
 export default async function ExploreCityPage({ params }: Props) {
   const { locale, country, city } = await params;
   const tCity = await getTranslations({ locale, namespace: "cityPage" });
+  const tGuides = await getTranslations({ locale, namespace: "cityGuides" });
+  const tStays = await getTranslations({ locale, namespace: "stays" });
 
   const rawDestination = await getDestinationByCityCountry(country, city).then(
     (d) => d ?? getDemoDestination(country, city)
@@ -273,19 +275,25 @@ export default async function ExploreCityPage({ params }: Props) {
           <div className="mb-8 flex flex-wrap gap-2">
             {(
               [
-                ["things-to-do", "Things to do"],
-                ["3-day-itinerary", "3-day itinerary"],
-                ["hidden-gems", "Hidden gems"],
+                "things-to-do",
+                "3-day-itinerary",
+                "hidden-gems",
               ] as const
-            ).map(([slug, label]) => (
+            ).map((slug) => (
               <Link
                 key={slug}
                 href={`/explore/${country}/${city}/guide/${slug}`}
                 className="rounded-full border border-stone-200 bg-white px-3.5 py-1.5 text-xs font-semibold text-stone-700 transition-colors hover:border-amber-300 hover:text-amber-800"
               >
-                {label}
+                {tGuides(`${slug}.chipLabel`)}
               </Link>
             ))}
+            <Link
+              href={`/explore/${country}/${city}/stays`}
+              className="rounded-full border border-stone-200 bg-white px-3.5 py-1.5 text-xs font-semibold text-stone-700 transition-colors hover:border-amber-300 hover:text-amber-800"
+            >
+              {tStays("cityLink", { city: destination.city })}
+            </Link>
           </div>
 
           <div className="flex items-center gap-2.5 mb-6">

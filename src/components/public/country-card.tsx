@@ -50,7 +50,7 @@ export function CountryCard({ country, index }: Props) {
               images={slideshowImages}
               alt={`${country.country} travel guide`}
               className="absolute inset-0 transition-transform duration-700 group-hover:scale-[1.04]"
-              intervalMs={slideshowImages.length > 1 ? 5200 : 0}
+              intervalMs={0}
               sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/15 to-black/5 pointer-events-none" />

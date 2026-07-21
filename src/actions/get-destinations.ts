@@ -306,7 +306,7 @@ export async function getDestinationByCityCountry(
 const getCachedDestinationBySlugs = unstable_cache(
   async (countrySlug: string, citySlug: string) =>
     fetchDestinationByCityCountry(countrySlug, citySlug),
-  ["destination-by-slugs-v3"],
+  ["destination-by-slugs-v4"],
   { revalidate: 60, tags: ["destinations"] }
 );
 

@@ -8,22 +8,25 @@ interface Props {
   active: string | null;
   onChange: (theme: string | null) => void;
   available: ThemeFilter[];
+  compact?: boolean;
 }
 
-export function ThemeFilterBar({ active, onChange, available }: Props) {
+export function ThemeFilterBar({ active, onChange, available, compact = false }: Props) {
   const t = useTranslations("themes");
   const tHome = useTranslations("home");
 
   if (available.length === 0) return null;
 
   return (
-    <div className="flex flex-col items-center gap-4 px-4">
-      <h2
-        className="text-sm sm:text-base font-medium tracking-wide"
-        style={{ color: LUXURY.textSecondary }}
-      >
-        {tHome("themesLookingFor")}
-      </h2>
+    <div className={`flex flex-col items-center gap-4 px-4 ${compact ? "py-0" : ""}`}>
+      {!compact && (
+        <h2
+          className="text-sm sm:text-base font-medium tracking-wide"
+          style={{ color: LUXURY.textSecondary }}
+        >
+          {tHome("themesLookingFor")}
+        </h2>
+      )}
       <div className="flex flex-wrap justify-center gap-2">
         {available.map((key) => {
           const isActive = active === key;

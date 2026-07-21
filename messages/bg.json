@@ -24,7 +24,7 @@
     "signIn": "Вход",
     "signOut": "Изход",
     "home": "Разгледай",
-    "adventures": "Маршрути",
+    "adventures": "Road trip",
     "discover": "Открий",
     "community": "Общност"
   },
@@ -32,7 +32,7 @@
     "heroEyebrow": "Безплатни туристически гидове",
     "heroTitle": "Открий най-красивите",
     "heroTitleAccent": " градове в света",
-    "heroSubtitle": "По 10 подбрани забележителности на град. Запази любими, резервирай турове или билети и отвори маршрута в Google Maps.",
+    "heroSubtitle": "По 10 подбрани забележителности на град. Докосни, за да създадеш маршрут, и го отвори в Google Maps.",
     "heroSearchCta": "Търси",
     "heroPopular": "Популярни",
     "heroCta": "Избери град",
@@ -45,6 +45,7 @@
     "heroRouteCaption": "Реални градове · Реални места · Твоят маршрут",
     "searchPlaceholder": "Накъде?",
     "themesLookingFor": "Какво търсиш?",
+    "themesBrowse": "Филтрирай по тема",
     "inspireMe": "Вдъхнови ме",
     "destinationsTitle": "Градове за разглеждане",
     "destinationsCount": "града",
@@ -167,7 +168,7 @@
   },
   "cityPage": {
     "landmarksTitle": "{count} задължителни места",
-    "landmarksHint": "добавяй в маршрута или запазвай с ♥",
+    "landmarksHint": "докосни, за да добавиш в маршрута",
     "addAllToRoute": "Добави всички {count} в пътуването",
     "allInRoute": "Всички {count} са добавени ✓",
     "landmarksBadge": "{count} забележителности",
@@ -423,6 +424,14 @@
   "affiliates": {
     "sectionTitle": "Планирай пътуването"
   },
+  "stays": {
+    "title": "Къде да нощувате в {city}",
+    "subtitle": "Хотели близо до маршрута ви в {city}, {country}. Партньорско плащане — без Booking branding в ViaPins.",
+    "backToCity": "Обратно към гида за {city}",
+    "cityLink": "Хотели в {city}",
+    "metaTitle": "Хотели в {city}, {country}",
+    "metaDescription": "Намерете място за нощувка в {city}. Подбран hotel search чрез travel partners."
+  },
   "adventureBanner": {
     "title": "{country} — пътуване с кола",
     "subtitle": "Живописни пътища извън градските гидове · отвори в Maps",
@@ -464,24 +473,29 @@
     "reviewsEmpty": "Все още няма публични отзиви — бъдете първият, който оцени това място.",
     "reviewsCount": "{count, plural, one {# отзив} other {# отзива}}",
     "nearbyTitle": "Наблизо в този град",
-    "anonymous": "Пътешественик"
+    "anonymous": "Пътешественик",
+    "savePlace": "Запази място",
+    "saved": "Запазено"
   },
   "cityGuides": {
     "eyebrow": "Градски гид",
     "dayLabel": "Ден {day}",
     "things-to-do": {
+      "chipLabel": "Какво да правите",
       "title": "Какво да правите в {city}",
       "intro": "Най-добрите места за посещение в {city}, {country} — {count} подбрани забележителности.",
       "metaTitle": "Какво да правите в {city}, {country}",
       "metaDescription": "Топ неща за правене в {city}. Снимки, съвети и карти."
     },
     "3-day-itinerary": {
+      "chipLabel": "3-дневен маршрут",
       "title": "3-дневен маршрут за {city}",
       "intro": "Прост 3-дневен план за {city}, {country} с {count} задължителни спирки.",
       "metaTitle": "3-дневен маршрут: {city}, {country}",
       "metaDescription": "Планирайте 3 дни в {city} с ясен дневен маршрут."
     },
     "hidden-gems": {
+      "chipLabel": "Скрити съкровища",
       "title": "Скрити съкровища в {city}",
       "intro": "По-тихи кътчета и по-малко известни места около {city}, {country}.",
       "metaTitle": "Скрити съкровища в {city}, {country}",

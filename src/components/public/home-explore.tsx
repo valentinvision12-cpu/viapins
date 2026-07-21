@@ -1,6 +1,8 @@
 "use client";
 
 import { useState, useCallback, useMemo, useEffect } from "react";
+import { ChevronDown } from "lucide-react";
+import { useTranslations } from "next-intl";
 import { HeroMap } from "@/components/public/hero-map";
 import { CountriesGrid } from "@/components/public/countries-grid";
 import { SearchResultsGrid } from "@/components/public/search-results-grid";
@@ -16,8 +18,10 @@ interface Props {
 }
 
 export function HomeExplore({ countries, searchIndex, cities }: Props) {
+  const tHome = useTranslations("home");
   const [searchQuery, setSearchQuery] = useState("");
   const [theme, setTheme] = useState<string | null>(null);
+  const [themesOpen, setThemesOpen] = useState(false);
 
   const scrollToDestinations = useCallback(() => {
     document.getElementById("destinations")?.scrollIntoView({ behavior: "smooth" });
@@ -38,7 +42,6 @@ export function HomeExplore({ countries, searchIndex, cities }: Props) {
     [cities]
   );
 
-  // Clear active theme if it no longer has matching destinations
   useEffect(() => {
     if (theme && !availableThemes.includes(theme as (typeof availableThemes)[number])) {
       setTheme(null);
@@ -69,6 +72,13 @@ export function HomeExplore({ countries, searchIndex, cities }: Props) {
     });
   }, [searchIndex, theme, themedCountries, cityTagsByKey]);
 
+  function handleThemeChange(next: string | null) {
+    setTheme(next);
+    if (next) {
+      document.getElementById("destinations")?.scrollIntoView({ behavior: "smooth" });
+    }
+  }
+
   return (
     <>
       <HeroMap
@@ -77,20 +87,59 @@ export function HomeExplore({ countries, searchIndex, cities }: Props) {
         onSearchSubmit={scrollToDestinations}
       />
 
-      <div className="pb-6 pt-2" style={{ background: LUXURY.section }}>
-        <ThemeFilterBar
-          active={theme}
-          onChange={setTheme}
-          available={availableThemes}
-        />
-      </div>
-
       {isSearching ? (
         <SearchResultsGrid items={themedSearchIndex} query={searchQuery} />
       ) : (
-        <CountriesGrid countries={themedCountries} />
+        <>
+          <div id="destinations">
+            <CountriesGrid countries={themedCountries} />
+          </div>
+
+          {availableThemes.length > 0 && (
+            <section
+              className="border-t py-8 sm:py-10"
+              style={{
+                background: LUXURY.section,
+                borderColor: LUXURY.bronzeBorder,
+              }}
+            >
+              <div className="container max-w-4xl mx-auto px-4 sm:px-6">
+                <button
+                  type="button"
+                  onClick={() => setThemesOpen((open) => !open)}
+                  className="mx-auto flex w-full max-w-md items-center justify-center gap-2 rounded-full border px-4 py-2.5 text-sm font-medium transition-colors"
+                  style={{
+                    background: LUXURY.creamCard,
+                    borderColor: LUXURY.bronzeBorder,
+                    color: LUXURY.textSecondary,
+                  }}
+                >
+                  {tHome("themesBrowse")}
+                  {theme && (
+                    <span className="rounded-full bg-stone-900 px-2 py-0.5 text-[10px] font-semibold text-white">
+                      1
+                    </span>
+                  )}
+                  <ChevronDown
+                    className={`h-4 w-4 transition-transform ${themesOpen ? "rotate-180" : ""}`}
+                  />
+                </button>
+
+                {themesOpen && (
+                  <div className="mt-6">
+                    <ThemeFilterBar
+                      active={theme}
+                      onChange={handleThemeChange}
+                      available={availableThemes}
+                      compact
+                    />
+                  </div>
+                )}
+              </div>
+            </section>
+          )}
+        </>
       )}
     </>
   );
 }
-

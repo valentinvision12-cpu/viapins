@@ -8,7 +8,7 @@ import { Link } from "@/i18n/navigation";
 import { getDestinationByCityCountry } from "@/actions/get-destinations";
 import { getDemoDestination } from "@/lib/demo-data";
 import { listPublicPlaceReviews } from "@/actions/travel-posts";
-import { PlaceCard } from "@/components/public/place-card";
+import { PlaceCard, PlaceDetailActions } from "@/components/public/place-card";
 import { NavHeader } from "@/components/public/nav-header";
 import { MapsPlaceLink } from "@/components/public/maps-place-link";
 import { findPlaceBySlug, placeSlug } from "@/lib/place-slug";
@@ -144,6 +144,17 @@ export default async function PlacePage({ params }: Props) {
         </div>
 
         <div className="container mx-auto max-w-4xl px-6 py-8">
+          <PlaceDetailActions
+            placeId={place.id}
+            name={place.name}
+            city={destination.city}
+            country={destination.country}
+            imageUrl={place.image_url}
+            lat={place.lat}
+            lng={place.lng}
+            orderIndex={place.order_index}
+          />
+
           <div className="mb-6">
             <MapsPlaceLink
               lat={place.lat}

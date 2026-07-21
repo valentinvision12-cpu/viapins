@@ -11,15 +11,17 @@ type PlaceLike = {
 };
 
 /**
- * Best-effort: fill ONLY empty image_urls before render (max ~1.2s).
- * Bad URLs are left to PlaceCard client fallback so TTFB stays fast.
+ * Best-effort: fill empty OR bad image_urls before render (max ~1.2s).
+ * Remaining gaps are healed by PlaceCard client fallback.
  */
 export async function ensurePlacesHaveImages<T extends PlaceLike>(
   places: T[],
   city: string,
   country: string
 ): Promise<T[]> {
-  const needs = places.filter((p) => !p.image_url?.trim());
+  const needs = places.filter(
+    (p) => !p.image_url?.trim() || isBadImageUrl(p.image_url)
+  );
   if (needs.length === 0) return places;
 
   const supabase = createServiceClient();

@@ -3,17 +3,12 @@
 import { useState, useEffect } from "react";
 import Image from "next/image";
 import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
-import { motion, AnimatePresence } from "framer-motion";
-import {
-  MapPin, BookOpen, ChevronDown, Plus, Check, ExternalLink, Compass,
-} from "lucide-react";
+import { MapPin, Plus, Check, Compass } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { useRouteCart, type RouteCartItem } from "@/lib/context/route-cart-context";
 import type { AdventurePlace, AdventureTag } from "@/lib/adventure-types";
 import { buildPlaceSeo } from "@/lib/seo";
-import { wikipediaUrl } from "@/lib/place-links";
 import { getPlaceContent } from "@/lib/content-locale";
-import { MapsPlaceLink } from "@/components/public/maps-place-link";
 import { fallbackImageUrl } from "@/lib/fallback-image";
 
 interface Props {
@@ -25,12 +20,10 @@ interface Props {
 
 export function AdventurePlaceCard({ place, locale, index, stopNumber }: Props) {
   const t = useTranslations("adventure");
-  const tPlace = useTranslations("place");
   const tRoute = useTranslations("route");
-  const [wikiOpen, setWikiOpen] = useState(false);
   const _fallback = fallbackImageUrl(`${place.name}-${place.country}`);
   const [imgSrc, setImgSrc] = useState(place.image_url || _fallback);
-  const { addItem, removeItem, isInCart } = useRouteCart();
+  const { addItem, removeItem, isInCart, openPanel } = useRouteCart();
 
   const tagLabels: Record<AdventureTag, string> = {
     hidden_gem: t("tagHiddenGem"),
@@ -47,10 +40,7 @@ export function AdventurePlaceCard({ place, locale, index, stopNumber }: Props) 
   }, [place.image_url]);
 
   const inCart = isInCart(place.id);
-  const { description, wiki_text, wiki_title, maps_query, maps_url } = getPlaceContent(
-    place.translations,
-    locale
-  );
+  const { description } = getPlaceContent(place.translations, locale);
   const placeSeo = buildPlaceSeo({
     name: place.name,
     city: place.region,
@@ -62,40 +52,41 @@ export function AdventurePlaceCard({ place, locale, index, stopNumber }: Props) 
   function handleCartToggle() {
     if (inCart) {
       removeItem(place.id);
-    } else {
-      const item: RouteCartItem = {
-        id: place.id,
-        name: place.name,
-        city: place.region,
-        country: place.country,
-        region: place.region,
-        lat: place.lat,
-        lng: place.lng,
-        image_url: place.image_url,
-        order_index: place.order_index,
-        mode: "adventure",
-        requires_car: place.requires_car,
-      };
-      addItem(item);
+      return;
     }
+    const item: RouteCartItem = {
+      id: place.id,
+      name: place.name,
+      city: place.region,
+      country: place.country,
+      region: place.region,
+      lat: place.lat,
+      lng: place.lng,
+      image_url: place.image_url,
+      order_index: place.order_index,
+      mode: "adventure",
+      requires_car: place.requires_car,
+    };
+    const added = addItem(item);
+    if (added) openPanel();
   }
 
-  const wikiUrl = wikipediaUrl(place.wiki_title ?? wiki_title ?? place.name);
-
   return (
-    <motion.article
+    <article
       id={`adventure-${place.id}`}
-      initial={{ opacity: 0, y: 24 }}
-      animate={{ opacity: 1, y: 0 }}
-      transition={{ duration: 0.45, delay: index * 0.06, ease: [0.22, 1, 0.36, 1] }}
-      className={`group relative rounded-2xl border overflow-hidden transition-all duration-300 ${
+      className={`group relative overflow-hidden rounded-2xl border transition-all duration-300 ${
         inCart
           ? "border-orange-300 bg-orange-50/60 shadow-md shadow-orange-100"
-          : "border-stone-100 bg-white shadow-sm hover:shadow-md hover:border-stone-200"
+          : "border-stone-100 bg-white shadow-sm hover:border-stone-200 hover:shadow-md"
       }`}
     >
-      <div className="flex flex-col sm:flex-row gap-0">
-        <div className="relative sm:w-56 flex-shrink-0 h-48 sm:h-auto overflow-hidden sm:rounded-l-2xl">
+      <div className="flex flex-col gap-0 sm:flex-row">
+        <button
+          type="button"
+          onClick={handleCartToggle}
+          className="relative h-48 flex-shrink-0 overflow-hidden sm:h-auto sm:w-56 sm:rounded-l-2xl"
+          aria-label={inCart ? tRoute("removeFromRoute") : t("addStop")}
+        >
           {imgSrc ? (
             <Image
               src={imgSrc}
@@ -117,102 +108,66 @@ export function AdventurePlaceCard({ place, locale, index, stopNumber }: Props) 
                     else setImgSrc("");
                   });
               }}
-              unoptimized={IMAGE_UNOPTIMIZED} />
+              unoptimized={IMAGE_UNOPTIMIZED}
+            />
           ) : (
-            <div className="w-full h-full bg-gradient-to-br from-orange-100 to-amber-200 flex items-center justify-center">
-              <Compass className="w-10 h-10 text-orange-300/80" />
+            <div className="flex h-full w-full items-center justify-center bg-gradient-to-br from-orange-100 to-amber-200">
+              <Compass className="h-10 w-10 text-orange-300/80" />
             </div>
           )}
 
           <div className="absolute top-3 left-3 flex flex-col gap-1.5">
             <div
-              className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold shadow-md ${
-                inCart ? "text-white bg-orange-500" : "bg-white/90 text-stone-700"
+              className={`flex h-8 w-8 items-center justify-center rounded-full text-sm font-bold shadow-md ${
+                inCart ? "bg-orange-500 text-white" : "bg-white/90 text-stone-700"
               }`}
             >
               {stopNumber}
             </div>
-            <div className="px-2 py-0.5 rounded-full bg-black/55 backdrop-blur-sm text-white text-[10px] font-semibold">
+            <div className="rounded-full bg-black/55 px-2 py-0.5 text-[10px] font-semibold text-white backdrop-blur-sm">
               {t("dayLabel", { day: place.day })}
             </div>
           </div>
-        </div>
+        </button>
 
-        <div className="flex-1 p-5 min-w-0">
-          <div className="flex items-start justify-between gap-3 mb-2">
-            <div className="flex-1 min-w-0">
-              <h3 className="text-stone-900 font-bold text-lg leading-tight">
-                {place.name}
-              </h3>
-              <p className="inline-flex items-center gap-1 mt-1 text-orange-600/80 text-xs font-medium">
-                <MapPin className="w-3 h-3" />
+        <div className="min-w-0 flex-1 p-5">
+          <div className="mb-2 flex items-start justify-between gap-3">
+            <div className="min-w-0 flex-1">
+              <h3 className="text-lg font-bold leading-tight text-stone-900">{place.name}</h3>
+              <p className="mt-1 inline-flex items-center gap-1 text-xs font-medium text-orange-600/80">
+                <MapPin className="h-3 w-3" />
                 {place.region} · {t("stopLabel", { number: stopNumber })}
               </p>
-              <MapsPlaceLink
-                lat={place.lat}
-                lng={place.lng}
-                name={place.name}
-                city={place.region}
-                country={place.country}
-                mapsQuery={maps_query}
-                mapsUrl={maps_url}
-                translations={place.translations}
-                locale={locale}
-                className="inline-flex items-center gap-1 mt-0.5 text-stone-400 hover:text-stone-600 text-xs transition-colors"
-              />
-              <a
-                href={wikiUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-1 mt-0.5 ml-3 text-stone-400 hover:text-stone-600 text-xs transition-colors"
-              >
-                Wikipedia
-                <ExternalLink className="w-2.5 h-2.5" />
-              </a>
             </div>
 
-            <motion.button
+            <button
+              type="button"
               onClick={handleCartToggle}
-              whileTap={{ scale: 0.92 }}
-              className={`flex-shrink-0 flex items-center gap-1.5 px-3.5 py-2 rounded-xl text-xs font-semibold transition-all duration-200 border ${
+              className={`flex flex-shrink-0 items-center gap-1.5 rounded-xl border px-3.5 py-2 text-xs font-semibold transition-all duration-200 ${
                 inCart
-                  ? "text-white border-transparent shadow-sm bg-orange-500"
-                  : "border-stone-300 bg-stone-50 text-stone-700 hover:border-orange-400 hover:text-orange-700 hover:bg-orange-50"
+                  ? "border-transparent bg-orange-500 text-white shadow-sm"
+                  : "border-stone-300 bg-stone-50 text-stone-700 hover:border-orange-400 hover:bg-orange-50 hover:text-orange-700"
               }`}
             >
-              <AnimatePresence mode="wait">
-                {inCart ? (
-                  <motion.span
-                    key="check"
-                    initial={{ scale: 0, rotate: -90 }}
-                    animate={{ scale: 1, rotate: 0 }}
-                    exit={{ scale: 0 }}
-                    className="flex items-center gap-1"
-                  >
-                    <Check className="w-3.5 h-3.5" />
-                    {t("inAdventure")}
-                  </motion.span>
-                ) : (
-                  <motion.span
-                    key="plus"
-                    initial={{ scale: 0 }}
-                    animate={{ scale: 1 }}
-                    exit={{ scale: 0 }}
-                    className="flex items-center gap-1"
-                  >
-                    <Plus className="w-3.5 h-3.5" />
-                    {t("addStop")}
-                  </motion.span>
-                )}
-              </AnimatePresence>
-            </motion.button>
+              {inCart ? (
+                <>
+                  <Check className="h-3.5 w-3.5" />
+                  {t("inAdventure")}
+                </>
+              ) : (
+                <>
+                  <Plus className="h-3.5 w-3.5" />
+                  {t("addStop")}
+                </>
+              )}
+            </button>
           </div>
 
-          <div className="flex flex-wrap gap-1.5 mb-3">
+          <div className="mb-3 flex flex-wrap gap-1.5">
             {place.tags.map((tag) => (
               <span
                 key={tag}
-                className="px-2 py-0.5 rounded-full text-[10px] font-medium bg-orange-50 text-orange-700 border border-orange-100"
+                className="rounded-full border border-orange-100 bg-orange-50 px-2 py-0.5 text-[10px] font-medium text-orange-700"
               >
                 {tagLabels[tag]}
               </span>
@@ -220,44 +175,10 @@ export function AdventurePlaceCard({ place, locale, index, stopNumber }: Props) 
           </div>
 
           {description && (
-            <p className="text-stone-500 text-sm leading-relaxed line-clamp-3 mb-4">
-              {description}
-            </p>
-          )}
-
-          {wiki_text && (
-            <div>
-              <button
-                onClick={() => setWikiOpen((o) => !o)}
-                className="flex items-center gap-1.5 text-xs font-medium text-orange-700 hover:opacity-80 transition-opacity"
-              >
-                <BookOpen className="w-3.5 h-3.5" />
-                {wikiOpen ? tPlace("hideHistory") : tPlace("readHistory")}
-                <ChevronDown
-                  className={`w-3.5 h-3.5 transition-transform duration-200 ${
-                    wikiOpen ? "rotate-180" : ""
-                  }`}
-                />
-              </button>
-              <AnimatePresence>
-                {wikiOpen && (
-                  <motion.div
-                    initial={{ height: 0, opacity: 0 }}
-                    animate={{ height: "auto", opacity: 1 }}
-                    exit={{ height: 0, opacity: 0 }}
-                    transition={{ duration: 0.25, ease: "easeInOut" }}
-                    className="overflow-hidden"
-                  >
-                    <p className="mt-3 pt-3 border-t border-stone-100 text-stone-600 text-sm leading-relaxed">
-                      {wiki_text}
-                    </p>
-                  </motion.div>
-                )}
-              </AnimatePresence>
-            </div>
+            <p className="line-clamp-3 text-sm leading-relaxed text-stone-500">{description}</p>
           )}
         </div>
       </div>
-    </motion.article>
+    </article>
   );
 }

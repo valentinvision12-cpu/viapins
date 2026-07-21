@@ -1,7 +1,7 @@
 "use client";
 
 import { useTranslations } from "next-intl";
-import { MapPin, Car, X } from "lucide-react";
+import { X } from "lucide-react";
 import { useRouteCart } from "@/lib/context/route-cart-context";
 
 export function RouteCartAlert() {
@@ -12,11 +12,6 @@ export function RouteCartAlert() {
 
   const isModeMismatch = blockNotice.reason === "mode_mismatch";
   const isAdventure = blockNotice.attemptedMode === "adventure";
-  const title = isModeMismatch
-    ? t("modeMismatchTitle")
-    : isAdventure
-      ? t("differentCountryTitle")
-      : t("differentCityTitle");
 
   const message = isModeMismatch
     ? t(
@@ -49,57 +44,36 @@ export function RouteCartAlert() {
 
   return (
     <div
-      className="fixed top-[calc(var(--site-header-height,4.75rem)+var(--smart-ad-height,0px)+0.75rem)] left-1/2 -translate-x-1/2 z-[45] w-full max-w-md px-4"
-      role="alert"
+      className="fixed inset-x-0 bottom-[calc(4.5rem+env(safe-area-inset-bottom,0px))] z-[45] px-4 md:bottom-6 md:left-auto md:right-6 md:max-w-sm md:px-0"
+      role="status"
+      aria-live="polite"
     >
-      <div
-        className="rounded-2xl border shadow-lg p-4"
-        style={{
-          background: "#FDFBF7",
-          borderColor: "rgba(154,123,79,0.35)",
-          boxShadow: "0 8px 32px rgba(44,36,22,0.12)",
-        }}
-      >
-        <div className="flex items-start gap-3">
-          <div
-            className="w-9 h-9 rounded-xl flex items-center justify-center flex-shrink-0"
-            style={{ background: "rgba(154,123,79,0.12)" }}
-          >
-            {isAdventure || blockNotice.attemptedMode === "adventure" ? (
-              <Car className="w-4 h-4" style={{ color: "#9A7B4F" }} />
-            ) : (
-              <MapPin className="w-4 h-4" style={{ color: "#9A7B4F" }} />
-            )}
-          </div>
-          <div className="flex-1 min-w-0">
-            <p className="text-sm font-semibold text-stone-900">{title}</p>
-            <p className="text-xs text-stone-600 mt-1 leading-relaxed">{message}</p>
-            <div className="flex flex-wrap gap-2 mt-3">
-              <button
-                type="button"
-                onClick={startNewRouteForBlocked}
-                className="text-xs font-semibold px-3 py-1.5 rounded-full text-white"
-                style={{ background: "#9A7B4F" }}
-              >
-                {startLabel}
-              </button>
-              <button
-                type="button"
-                onClick={dismissBlock}
-                className="text-xs font-medium px-3 py-1.5 rounded-full border text-stone-600"
-                style={{ borderColor: "rgba(154,123,79,0.25)" }}
-              >
-                {t("keepCurrentRoute")}
-              </button>
-            </div>
-          </div>
+      <div className="rounded-2xl border border-stone-200 bg-white/95 p-3 shadow-lg backdrop-blur-md">
+        <div className="flex items-start gap-2.5">
+          <p className="flex-1 text-xs leading-relaxed text-stone-600">{message}</p>
           <button
             type="button"
             onClick={dismissBlock}
-            className="p-1 text-stone-400 hover:text-stone-600"
+            className="p-0.5 text-stone-400 hover:text-stone-600"
             aria-label="Close"
           >
-            <X className="w-4 h-4" />
+            <X className="h-3.5 w-3.5" />
+          </button>
+        </div>
+        <div className="mt-2.5 flex gap-2">
+          <button
+            type="button"
+            onClick={startNewRouteForBlocked}
+            className="rounded-full bg-stone-900 px-3 py-1.5 text-[11px] font-semibold text-white"
+          >
+            {startLabel}
+          </button>
+          <button
+            type="button"
+            onClick={dismissBlock}
+            className="rounded-full border border-stone-200 px-3 py-1.5 text-[11px] font-medium text-stone-600"
+          >
+            {t("keepCurrentRoute")}
           </button>
         </div>
       </div>

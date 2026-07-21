@@ -3,9 +3,16 @@
 import { useState, useEffect } from "react";
 import Image from "next/image";
 import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
-import { Plus, Check, ChevronRight } from "lucide-react";
-import { useTranslations } from "next-intl";
+import { Plus, Check, ChevronRight, Heart, Building2, ExternalLink } from "lucide-react";
+import { useTranslations, useLocale } from "next-intl";
 import { useRouteCart } from "@/lib/context/route-cart-context";
+import { useFavorites } from "@/lib/context/favorites-context";
+import { useAffiliateConfig } from "@/components/public/trip-extras-section";
+import {
+  buildAffiliateUrl,
+  getActivePartners,
+  type AffiliateLinkContext,
+} from "@/lib/affiliates";
 import { isBadImageUrl } from "@/lib/wiki-image";
 import { buildPlaceSeo } from "@/lib/seo";
 import { Link } from "@/i18n/navigation";
@@ -124,7 +131,15 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
               sizes="(max-width: 640px) 100vw, 208px"
               className="object-cover transition-transform duration-500 group-hover:scale-[1.03]"
               referrerPolicy={IMAGE_REFERRER_POLICY}
-              onError={() => setImgSrc("")}
+              onError={() => {
+                setImgSrc("");
+                fetch(`/api/places/${place.id}/image?refresh=1`)
+                  .then((r) => r.json())
+                  .then((data: { url?: string }) => {
+                    if (data.url && !isBadImageUrl(data.url)) setImgSrc(data.url);
+                  })
+                  .catch(() => {});
+              }}
               unoptimized={IMAGE_UNOPTIMIZED}
             />
           ) : (
@@ -207,5 +222,183 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
         </div>
       </div>
     </article>
+  );
+}
+
+interface DetailActionsProps {
+  placeId: string;
+  name: string;
+  city: string;
+  country: string;
+  imageUrl: string;
+  lat: number;
+  lng: number;
+  orderIndex?: number;
+}
+
+export function PlaceDetailActions({
+  placeId,
+  name,
+  city,
+  country,
+  imageUrl,
+  lat,
+  lng,
+  orderIndex = 0,
+}: DetailActionsProps) {
+  const tRoute = useTranslations("route");
+  const tPlace = useTranslations("placePage");
+  const { addItem, removeItem, isInCart, openPanel } = useRouteCart();
+  const { isFavorite, toggleFavorite } = useFavorites();
+
+  const inRoute = isInCart(placeId);
+  const saved = isFavorite(placeId);
+
+  function handleRouteToggle() {
+    if (inRoute) {
+      removeItem(placeId);
+      return;
+    }
+    const added = addItem({
+      id: placeId,
+      name,
+      city,
+      country,
+      lat,
+      lng,
+      image_url: imageUrl,
+      order_index: orderIndex,
+      mode: "city",
+    });
+    if (added) openPanel();
+  }
+
+  function handleSaveToggle() {
+    toggleFavorite({
+      place_id: placeId,
+      name,
+      city,
+      country,
+      image_url: imageUrl,
+      lat,
+      lng,
+    });
+  }
+
+  return (
+    <div className="mb-6 flex flex-wrap items-center gap-2">
+      <button
+        type="button"
+        onClick={handleRouteToggle}
+        className={`inline-flex items-center gap-2 rounded-full px-4 py-2.5 text-sm font-semibold transition-colors ${
+          inRoute
+            ? "bg-stone-900 text-white"
+            : "bg-[oklch(0.72_0.13_82)] text-[oklch(0.12_0.008_260)] hover:opacity-90"
+        }`}
+      >
+        {inRoute ? (
+          <>
+            <Check className="h-4 w-4" />
+            {tRoute("removeFromRoute")}
+          </>
+        ) : (
+          <>
+            <Plus className="h-4 w-4" />
+            {tRoute("addToRoute")}
+          </>
+        )}
+      </button>
+
+      <button
+        type="button"
+        onClick={handleSaveToggle}
+        aria-pressed={saved}
+        className={`inline-flex items-center gap-2 rounded-full border px-4 py-2.5 text-sm font-medium transition-colors ${
+          saved
+            ? "border-red-200 bg-red-50 text-red-600"
+            : "border-stone-200 bg-white text-stone-700 hover:border-stone-300"
+        }`}
+      >
+        <Heart className={`h-4 w-4 ${saved ? "fill-current" : ""}`} />
+        {saved ? tPlace("saved") : tPlace("savePlace")}
+      </button>
+    </div>
+  );
+}
+
+interface StaysPanelProps {
+  city: string;
+  country: string;
+  countrySlug: string;
+  lat?: number;
+  lng?: number;
+}
+
+export function StaysCityPanel({
+  city,
+  country,
+  countrySlug,
+  lat,
+  lng,
+}: StaysPanelProps) {
+  const config = useAffiliateConfig();
+  const locale = useLocale();
+  const t = useTranslations("stays");
+  const ctx: AffiliateLinkContext = {
+    city,
+    country,
+    country_slug: countrySlug,
+    locale,
+    lat,
+    lng,
+    is_adventure: false,
+  };
+
+  const hotels = getActivePartners(config, ctx, 1).filter(
+    (p) => p.category === "hotels"
+  );
+  if (!hotels.length) return null;
+
+  const disclosure =
+    locale === "bg" ? config.disclosure_bg : config.disclosure_en;
+
+  return (
+    <div className="rounded-3xl border border-stone-200 bg-white p-6 shadow-sm">
+      <h1 className="text-2xl font-bold text-stone-900 sm:text-3xl">
+        {t("title", { city })}
+      </h1>
+      <p className="mt-2 max-w-xl text-sm leading-relaxed text-stone-600">
+        {t("subtitle", { city, country })}
+      </p>
+
+      <div className="mt-6 space-y-2">
+        {hotels.map((partner) => {
+          const href = buildAffiliateUrl(partner.url_template, ctx);
+          if (!href) return null;
+          return (
+            <a
+              key={partner.id}
+              href={href}
+              target="_blank"
+              rel="noopener noreferrer sponsored"
+              className="group flex items-center gap-3 rounded-xl border border-stone-100 bg-stone-50 px-3 py-2.5 transition-colors hover:border-stone-200"
+            >
+              <div className="flex h-9 w-9 flex-shrink-0 items-center justify-center rounded-lg bg-white">
+                <Building2 className="h-4 w-4 text-stone-600" />
+              </div>
+              <div className="min-w-0 flex-1">
+                <p className="text-sm font-medium leading-tight text-stone-900">
+                  {partner.label}
+                </p>
+                <p className="truncate text-xs text-stone-400">{partner.description}</p>
+              </div>
+              <ExternalLink className="h-3.5 w-3.5 flex-shrink-0 text-stone-300 group-hover:text-stone-500" />
+            </a>
+          );
+        })}
+      </div>
+
+      <p className="mt-4 text-[10px] leading-relaxed text-stone-400">{disclosure}</p>
+    </div>
   );
 }
