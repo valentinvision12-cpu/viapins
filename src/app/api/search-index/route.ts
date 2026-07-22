@@ -7,8 +7,8 @@ export const revalidate = 300;
 /** Lightweight destination index for the Cmd+K command palette. */
 export async function GET() {
   try {
-    const { countries, cities } = await getPublishedHomeData();
-    const items = buildSearchIndex(countries, cities).map((item) => ({
+    const { countries, destinations } = await getPublishedHomeData();
+    const items = buildSearchIndex(countries, destinations).map((item) => ({
       type: item.type,
       name: item.name,
       country: item.country,
