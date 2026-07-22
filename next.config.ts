@@ -42,6 +42,21 @@ const nextConfig: NextConfig = {
       },
     ];
   },
+  async redirects() {
+    return [
+      // Migration 010 turned ü into "-" (Düsseldorf → d-sseldorf)
+      {
+        source: "/:locale/explore/germany/d-sseldorf",
+        destination: "/:locale/explore/germany/dusseldorf",
+        permanent: true,
+      },
+      {
+        source: "/:locale/explore/germany/d-sseldorf/:path*",
+        destination: "/:locale/explore/germany/dusseldorf/:path*",
+        permanent: true,
+      },
+    ];
+  },
   async rewrites() {
     return [
       { source: "/favicon.ico", destination: "/icon.png" },

@@ -2,14 +2,7 @@ import type { MetadataRoute } from "next";
 import { getCachedHomeDestinations } from "@/actions/get-destinations";
 import { DEMO_DESTINATIONS } from "@/lib/demo-data";
 import { getSiteUrl, SEO_LOCALES } from "@/lib/seo";
-
-function slugify(str: string) {
-  return str
-    .toLowerCase()
-    .trim()
-    .replace(/\s+/g, "-")
-    .replace(/[^\w-]/g, "");
-}
+import { slugify } from "@/lib/utils";
 
 function localeAlternates(path: string): Record<string, string> {
   const baseUrl = getSiteUrl();

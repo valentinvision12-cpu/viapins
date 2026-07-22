@@ -4,7 +4,7 @@ import { unstable_cache } from "next/cache";
 import { createClient as createSupabaseJs } from "@supabase/supabase-js";
 import { createClient } from "@/lib/supabase/server";
 import { createServiceClient } from "@/lib/supabase/service";
-import { slugify } from "@/lib/utils";
+import { legacyHyphenSlug, slugify } from "@/lib/utils";
 import {
   FEATURED_COUNTRY_ORDER,
   TOP_COUNTRIES_HOME,
@@ -306,9 +306,26 @@ export async function getDestinationByCityCountry(
 const getCachedDestinationBySlugs = unstable_cache(
   async (countrySlug: string, citySlug: string) =>
     fetchDestinationByCityCountry(countrySlug, citySlug),
-  ["destination-by-slugs-v4"],
+  ["destination-by-slugs-v5"],
   { revalidate: 60, tags: ["destinations"] }
 );
+
+function cityMatchesSlug(city: string, citySlug: string): boolean {
+  return (
+    slugify(city) === citySlug ||
+    legacyHyphenSlug(city) === citySlug ||
+    citySlug.replace(/-/g, "") === slugify(city).replace(/-/g, "")
+  );
+}
+
+function citySearchHint(citySlug: string): string {
+  const parts = citySlug.replace(/-/g, " ").trim().split(/\s+/).filter(Boolean);
+  // "d-sseldorf" → first token "d" is useless; use a longer fragment
+  if ((parts[0]?.length ?? 0) <= 1 && parts.length > 1) {
+    return parts.slice(1).join(" ").slice(0, 24) || citySlug.replace(/-/g, "");
+  }
+  return parts[0] || citySlug;
+}
 
 async function fetchDestinationByCityCountry(
   countrySlug: string,
@@ -331,8 +348,27 @@ async function fetchDestinationByCityCountry(
       return toDestinationDetail(bySlug as DestRow);
     }
 
+    // seo/cover missing → retry same slug filters without those columns
+    // (otherwise umlaut cities like d-sseldorf never resolve)
+    if (
+      missingColumn(slugErr, "seo") ||
+      missingColumn(slugErr, "cover_image")
+    ) {
+      const { data: bySlugRetry, error: retryErr } = await supabase
+        .from("destinations")
+        .select(DESTINATION_DETAIL_LEGACY)
+        .eq("published", true)
+        .eq("country_slug", countrySlug)
+        .eq("city_slug", citySlug)
+        .maybeSingle();
+
+      if (!retryErr && bySlugRetry) {
+        return toDestinationDetail(bySlugRetry as DestRow);
+      }
+    }
+
     // Missing columns OR empty/unbackfilled slugs → city hint (never full table)
-    const cityHint = citySlug.replace(/-/g, " ").split(" ")[0] || citySlug;
+    const cityHint = citySearchHint(citySlug);
     const detailSelect =
       missingColumn(slugErr, "seo") || missingColumn(slugErr, "cover_image")
         ? DESTINATION_DETAIL_LEGACY
@@ -365,7 +401,7 @@ async function fetchDestinationByCityCountry(
 
     const match = (candidates as DestRow[] | null)?.find(
       (d) =>
-        slugify(d.country) === countrySlug && slugify(d.city) === citySlug
+        slugify(d.country) === countrySlug && cityMatchesSlug(d.city, citySlug)
     );
     return match ? toDestinationDetail(match) : null;
   } catch (err) {
