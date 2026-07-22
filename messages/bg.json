@@ -83,7 +83,21 @@
     "browseAllCountries": "Разгледай всички {count} дестинации",
     "allDestinationsTitle": "Всички дестинации",
     "metaTitle": "ViaPins | Градски гидове и Road Trips",
-    "metaDescription": "Открийте селектирани градски маршрути и живописни пътешествия. Създайте своя маршрут и го стартирайте директно в Google Maps."
+    "metaDescription": "Открийте селектирани градски маршрути и живописни пътешествия. Създайте своя маршрут и го стартирайте директно в Google Maps.",
+    "commandKHint": "Търсене"
+  },
+  "commandPalette": {
+    "title": "Търсене във ViaPins",
+    "placeholder": "Напиши град (напр. Madrid, Barcelona)…",
+    "close": "Затвори търсенето",
+    "loading": "Зареждане на дестинации…",
+    "hint": "Започни да пишеш, за да търсиш във всички дестинации…",
+    "hintSecondary": "Градове и държави от нашите гидове.",
+    "emptyHint": "Провери правописа или опитай друг град.",
+    "shortcutHint": "⌘K за отваряне навсякъде",
+    "escHint": "Esc за затваряне",
+    "navigateHint": "↑↓ навигация · Enter отваря",
+    "resultsCount": "{count} намерени резултата"
   },
   "language": {
     "selectLanguage": "Избери език",

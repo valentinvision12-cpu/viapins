@@ -83,7 +83,21 @@
     "browseAllCountries": "Browse all {count} destinations",
     "allDestinationsTitle": "All destinations",
     "metaTitle": "ViaPins | City Guides & Scenic Road Trips",
-    "metaDescription": "Discover curated city walks and scenic road trips. Build your perfect 10-stop route and launch it instantly in Google Maps."
+    "metaDescription": "Discover curated city walks and scenic road trips. Build your perfect 10-stop route and launch it instantly in Google Maps.",
+    "commandKHint": "Search"
+  },
+  "commandPalette": {
+    "title": "Search ViaPins",
+    "placeholder": "Type a city (e.g. Madrid, Barcelona)…",
+    "close": "Close search",
+    "loading": "Loading destinations…",
+    "hint": "Start typing to search across all destinations…",
+    "hintSecondary": "Cities and countries from our guides.",
+    "emptyHint": "Check for typos or try another city.",
+    "shortcutHint": "⌘K to open anywhere",
+    "escHint": "Esc to close",
+    "navigateHint": "↑↓ navigate · Enter open",
+    "resultsCount": "{count} results found"
   },
   "language": {
     "selectLanguage": "Choose Language",

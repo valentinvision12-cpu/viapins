@@ -3,9 +3,10 @@
 import Image from "next/image";
 import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
 import { useTranslations } from "next-intl";
-import { Search } from "lucide-react";
+import { Command, Search } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import { LUXURY, COMPASS } from "@/lib/luxury-palette";
+import { openCommandPalette } from "@/components/public/command-palette";
 
 const COMPASS_IMAGE = "/images/hero-luxury-compass.png";
 
@@ -77,11 +78,13 @@ export function HeroMap({
           <span className="text-[#D9472C]">{t("heroTitleAccent")}</span>
         </h1>
 
-        <p className="text-base sm:text-lg mb-7 max-w-xl mx-auto font-medium leading-relaxed" style={{ color: LUXURY.textSecondary }}>
+        <p
+          className="text-base sm:text-lg mb-7 max-w-xl mx-auto font-medium leading-relaxed"
+          style={{ color: LUXURY.textSecondary }}
+        >
           {t("heroPromise")}
         </p>
 
-        {/* Single primary action — Booking/Airbnb pattern, no competing CTAs */}
         <div
           className="rounded-2xl md:rounded-full p-2 shadow-xl mb-5 text-left"
           style={{
@@ -94,7 +97,11 @@ export function HeroMap({
             className="flex flex-col md:flex-row md:items-center gap-2"
             onSubmit={(e) => {
               e.preventDefault();
-              onSearchSubmit();
+              if (searchQuery.trim()) {
+                onSearchSubmit();
+                return;
+              }
+              openCommandPalette();
             }}
           >
             <div className="relative flex-1">
@@ -107,10 +114,24 @@ export function HeroMap({
                 value={searchQuery}
                 onChange={(e) => onSearchChange(e.target.value)}
                 placeholder={t("searchPlaceholder")}
-                className="w-full rounded-xl md:rounded-full pl-12 pr-4 py-3.5 md:py-4 text-base outline-none min-h-[48px] bg-transparent"
+                className="w-full rounded-xl md:rounded-full pl-12 pr-16 py-3.5 md:py-4 text-base outline-none min-h-[48px] bg-transparent"
                 style={{ color: LUXURY.text }}
                 aria-label={t("searchPlaceholder")}
               />
+              <button
+                type="button"
+                onClick={openCommandPalette}
+                className="absolute right-2 top-1/2 -translate-y-1/2 hidden md:inline-flex items-center gap-1 rounded-lg border px-2 py-1 font-mono text-[10px] transition-colors hover:bg-stone-50"
+                style={{
+                  borderColor: LUXURY.bronzeBorder,
+                  color: LUXURY.textMuted,
+                  background: LUXURY.section,
+                }}
+                aria-label={t("commandKHint")}
+              >
+                <Command className="w-3 h-3" />
+                <span>K</span>
+              </button>
             </div>
             <button
               type="submit"
@@ -159,7 +180,7 @@ function HeroLuxuryCompass() {
       className="absolute left-1/2 top-[32%] sm:top-[36%] -translate-x-1/2 -translate-y-1/2 pointer-events-none select-none z-[4] w-[min(88vw,680px)] h-[min(42vw,320px)] sm:h-[min(58vw,460px)] md:w-[640px] md:h-[430px]"
     >
       <div
-        className="absolute inset-0 opacity-[0.2] sm:opacity-[0.32]"
+        className="absolute inset-0 opacity-[0.2] sm:opacity-[0.32] animate-slow-zoom"
         style={{
           filter: "saturate(1.1) contrast(1.04)",
           WebkitMaskImage:
@@ -176,11 +197,11 @@ function HeroLuxuryCompass() {
           className="object-cover object-center"
           unoptimized={IMAGE_UNOPTIMIZED}
           priority
-              referrerPolicy={IMAGE_REFERRER_POLICY} />
+          referrerPolicy={IMAGE_REFERRER_POLICY}
+        />
       </div>
 
-      {/* Rotating dial — hidden on small phones to keep hero clean */}
-      <div className="absolute left-1/2 top-[46%] -translate-x-1/2 -translate-y-1/2 w-[7.5rem] h-[7.5rem] sm:w-[11rem] sm:h-[11rem] md:w-[12.5rem] md:h-[12.5rem] hidden sm:block">
+      <div className="absolute left-1/2 top-[46%] -translate-x-1/2 -translate-y-1/2 w-[7.5rem] h-[7.5rem] sm:w-[11rem] sm:h-[11rem] md:w-[12.5rem] md:h-[12.5rem] hidden sm:block animate-float">
         <div
           className="absolute inset-0 rounded-full"
           style={{
@@ -200,7 +221,8 @@ function HeroLuxuryCompass() {
               height={800}
               className="w-full h-full object-cover object-center scale-[2.8]"
               unoptimized={IMAGE_UNOPTIMIZED}
-              referrerPolicy={IMAGE_REFERRER_POLICY} />
+              referrerPolicy={IMAGE_REFERRER_POLICY}
+            />
           </div>
         </div>
         <div

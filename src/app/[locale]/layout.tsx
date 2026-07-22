@@ -9,6 +9,7 @@ import { FavoritesProvider } from "@/lib/context/favorites-context";
 import { AffiliateProvider } from "@/components/public/trip-extras-section";
 import { RouteCart } from "@/components/public/route-cart";
 import { RouteCartAlert } from "@/components/public/route-cart-alert";
+import { CommandPalette } from "@/components/public/command-palette";
 import { AdBlockProvider } from "@/components/public/adblock-detector";
 import { GuardianAgent } from "@/components/public/guardian-agent";
 import { MobileBottomNav } from "@/components/public/mobile-bottom-nav";
@@ -51,6 +52,7 @@ export default async function LocaleLayout({ children, params }: Props) {
                   {children}
                   <RouteCartAlert />
                   <RouteCart />
+                  <CommandPalette />
                   <MobileBottomNav />
                 </FavoritesProvider>
               </RouteCartProvider>

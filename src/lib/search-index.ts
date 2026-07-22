@@ -37,6 +37,7 @@ export function filterSearchResults(
   return items.filter(
     (item) =>
       item.name.toLowerCase().includes(q) ||
-      item.country.toLowerCase().includes(q)
+      item.country.toLowerCase().includes(q) ||
+      (item.subtitle?.toLowerCase().includes(q) ?? false)
   );
 }

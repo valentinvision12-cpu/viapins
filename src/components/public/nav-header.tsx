@@ -6,9 +6,11 @@ import { SiteLogo } from "@/components/public/site-logo";
 import { LanguageSwitcher } from "@/components/language-switcher";
 import { UserNav } from "@/components/public/user-nav";
 import { NavTripBadge } from "@/components/public/nav-trip-badge";
+import { openCommandPalette } from "@/components/public/command-palette";
 import { cn } from "@/lib/utils";
 import { LUXURY } from "@/lib/luxury-palette";
 import { useEffect, useState } from "react";
+import { Command, Search } from "lucide-react";
 
 export function NavHeader() {
   const t = useTranslations("nav");
@@ -107,6 +109,46 @@ export function NavHeader() {
         </nav>
 
         <div className="flex items-center gap-2 shrink-0">
+          <button
+            type="button"
+            onClick={openCommandPalette}
+            className={cn(
+              "inline-flex items-center gap-1.5 rounded-full border px-2.5 py-1.5 text-xs font-medium transition-colors",
+              dark
+                ? "border-white/20 bg-white/10 text-white/80 hover:bg-white/15 hover:text-white"
+                : "hover:opacity-90"
+            )}
+            style={
+              dark
+                ? undefined
+                : {
+                    borderColor: LUXURY.bronzeBorder,
+                    background: LUXURY.creamCard,
+                    color: LUXURY.textSecondary,
+                  }
+            }
+            aria-label="Search"
+          >
+            <Search className="h-3.5 w-3.5" />
+            <span className="hidden sm:inline">Search</span>
+            <kbd
+              className={cn(
+                "hidden md:inline-flex items-center gap-0.5 rounded-md border px-1.5 py-0.5 font-mono text-[10px]",
+                dark ? "border-white/15 bg-black/20 text-white/55" : ""
+              )}
+              style={
+                dark
+                  ? undefined
+                  : {
+                      borderColor: LUXURY.bronzeBorder,
+                      color: LUXURY.textMuted,
+                      background: LUXURY.section,
+                    }
+              }
+            >
+              <Command className="h-2.5 w-2.5" />K
+            </kbd>
+          </button>
           <UserNav dark={dark} />
         </div>
       </div>
