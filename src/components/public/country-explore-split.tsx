@@ -50,31 +50,31 @@ export function CountryExploreSplit({ countryName, cities, adventure }: Props) {
   }
 
   return (
-    <section className="container max-w-7xl mx-auto px-5 sm:px-8 py-10 sm:py-14">
-      <div className="text-center mb-8 sm:mb-10">
+    <section className="container max-w-7xl mx-auto px-5 sm:px-8 py-12 sm:py-16 border-t border-stone-200/70">
+      <div className="text-center mb-10 sm:mb-12">
         <h2
-          className="text-2xl sm:text-3xl font-bold tracking-tight mb-5"
+          className="text-3xl sm:text-4xl font-bold tracking-tight mb-8"
           style={{ color: LUXURY.text }}
         >
           {t("exploreModesTitle", { country: countryName })}
         </h2>
 
         <div
-          className="inline-flex relative rounded-full p-1 border"
+          className="inline-flex relative rounded-full p-1.5 border shadow-inner"
           role="tablist"
           aria-label={t("exploreModesTitle", { country: countryName })}
           style={{
-            background: LUXURY.creamCard,
+            background: "#F3F0EA",
             borderColor: LUXURY.bronzeBorder,
           }}
         >
           <div
             aria-hidden
-            className="absolute top-1 bottom-1 rounded-full transition-all duration-300 ease-out shadow-sm"
+            className="absolute top-1.5 bottom-1.5 rounded-full transition-all duration-300 ease-out shadow-md"
             style={{
               background: LUXURY.text,
-              width: "calc(50% - 4px)",
-              left: activeTab === "cities" ? "4px" : "calc(50%)",
+              width: "calc(50% - 6px)",
+              left: activeTab === "cities" ? "6px" : "calc(50%)",
             }}
           />
 
@@ -84,7 +84,7 @@ export function CountryExploreSplit({ countryName, cities, adventure }: Props) {
             aria-selected={activeTab === "cities"}
             onClick={() => setActiveTab("cities")}
             className={cn(
-              "relative z-10 inline-flex items-center justify-center gap-2 px-5 sm:px-8 py-2.5 rounded-full text-sm sm:text-base font-semibold transition-colors min-w-[9.5rem] sm:min-w-[11rem]",
+              "relative z-10 inline-flex items-center justify-center gap-2 px-7 sm:px-10 py-3 rounded-full text-sm sm:text-base font-semibold transition-colors min-w-[10.5rem] sm:min-w-[13rem]",
               activeTab === "cities" ? "text-white" : "hover:opacity-80"
             )}
             style={activeTab === "cities" ? undefined : { color: LUXURY.textSecondary }}
@@ -99,7 +99,7 @@ export function CountryExploreSplit({ countryName, cities, adventure }: Props) {
             aria-selected={activeTab === "road-trip"}
             onClick={() => setActiveTab("road-trip")}
             className={cn(
-              "relative z-10 inline-flex items-center justify-center gap-2 px-5 sm:px-8 py-2.5 rounded-full text-sm sm:text-base font-semibold transition-colors min-w-[9.5rem] sm:min-w-[11rem]",
+              "relative z-10 inline-flex items-center justify-center gap-2 px-7 sm:px-10 py-3 rounded-full text-sm sm:text-base font-semibold transition-colors min-w-[10.5rem] sm:min-w-[13rem]",
               activeTab === "road-trip" ? "text-white" : "hover:opacity-80"
             )}
             style={activeTab === "road-trip" ? undefined : { color: LUXURY.textSecondary }}
@@ -110,11 +110,11 @@ export function CountryExploreSplit({ countryName, cities, adventure }: Props) {
         </div>
       </div>
 
-      <div className="min-h-[320px]">
+      <div className="min-h-[420px]">
         {activeTab === "cities" ? (
           <div className="animate-fade-in">
             <p
-              className="text-center text-sm sm:text-base mb-8 max-w-2xl mx-auto"
+              className="text-center text-sm sm:text-base mb-10 max-w-2xl mx-auto leading-relaxed"
               style={{ color: LUXURY.textSecondary }}
             >
               {t("cityGuidesIntro")}
@@ -122,21 +122,29 @@ export function CountryExploreSplit({ countryName, cities, adventure }: Props) {
             {citiesGrid}
           </div>
         ) : (
-          <div className="animate-fade-in max-w-3xl mx-auto">
+          <div className="animate-fade-in max-w-5xl mx-auto">
             <p
-              className="text-center text-sm sm:text-base mb-8 max-w-2xl mx-auto"
+              className="text-center text-sm sm:text-base mb-10 max-w-2xl mx-auto leading-relaxed"
               style={{ color: LUXURY.textSecondary }}
             >
               {t("roadTripIntro")}
             </p>
-            <AdventureRouteCard
-              countrySlug={adventure.countrySlug}
-              countryName={adventure.countryName}
-              coverImage={adventure.coverImage}
-              totalDays={adventure.totalDays}
-              stopCount={adventure.stopCount}
-              subtitle={adventure.subtitle}
-            />
+            <div
+              className="rounded-2xl border p-2 sm:p-3 shadow-sm"
+              style={{
+                background: LUXURY.creamCard,
+                borderColor: LUXURY.bronzeBorder,
+              }}
+            >
+              <AdventureRouteCard
+                countrySlug={adventure.countrySlug}
+                countryName={adventure.countryName}
+                coverImage={adventure.coverImage}
+                totalDays={adventure.totalDays}
+                stopCount={adventure.stopCount}
+                subtitle={adventure.subtitle}
+              />
+            </div>
           </div>
         )}
       </div>

@@ -12,7 +12,6 @@ interface Props {
   ctaLabel: string;
   href?: string;
   onCta?: () => void;
-  /** Optional second discovery path (e.g. Road trips) */
   secondaryCtaLabel?: string;
   secondaryHref?: string;
 }
@@ -29,13 +28,13 @@ export function PassportEmptyState({
   secondaryHref,
 }: Props) {
   const primaryClass =
-    "inline-flex items-center justify-center gap-2 rounded-full px-5 py-2.5 text-sm font-semibold text-white transition-opacity hover:opacity-90";
+    "inline-flex items-center justify-center gap-2 rounded-full px-7 py-3 text-sm font-semibold text-white transition-opacity hover:opacity-90 shadow-sm";
   const secondaryClass =
-    "inline-flex items-center justify-center gap-2 rounded-full px-5 py-2.5 text-sm font-semibold transition-colors border";
+    "inline-flex items-center justify-center gap-2 rounded-full px-7 py-3 text-sm font-semibold transition-colors border";
 
   return (
     <div
-      className="flex flex-col items-center rounded-2xl border px-6 py-14 text-center sm:px-8 sm:py-16"
+      className="flex flex-col items-center rounded-2xl border px-6 py-16 text-center sm:px-10 sm:py-20"
       style={{
         background: PASSPORT.card,
         borderColor: PASSPORT.cardBorder,
@@ -43,24 +42,24 @@ export function PassportEmptyState({
       }}
     >
       <div
-        className="mb-4 flex h-14 w-14 items-center justify-center rounded-2xl"
+        className="mb-6 flex h-16 w-16 items-center justify-center rounded-full border shadow-sm"
         style={{
-          background: PASSPORT.accentSoft,
-          border: `1px solid ${PASSPORT.accentBorder}`,
+          background: "#fff",
+          borderColor: PASSPORT.cardBorder,
         }}
       >
-        <Icon className="h-6 w-6" style={{ color: PASSPORT.accent }} />
+        <Icon className="h-7 w-7" strokeWidth={1.5} style={{ color: PASSPORT.textMuted }} />
       </div>
-      <h3 className="text-base font-bold sm:text-lg" style={{ color: PASSPORT.text }}>
+      <h3 className="text-xl font-bold sm:text-2xl tracking-tight" style={{ color: PASSPORT.text }}>
         {title}
       </h3>
       <p
-        className="mt-2 max-w-sm text-sm leading-relaxed"
+        className="mt-3 max-w-md text-sm sm:text-base leading-relaxed"
         style={{ color: PASSPORT.textMuted }}
       >
         {description}
       </p>
-      <div className="mt-6 flex flex-col items-stretch justify-center gap-3 sm:flex-row sm:items-center">
+      <div className="mt-8 flex flex-col items-stretch justify-center gap-3 sm:flex-row sm:items-center">
         {onCta ? (
           <button
             type="button"
@@ -68,12 +67,10 @@ export function PassportEmptyState({
             className={primaryClass}
             style={{ background: PASSPORT.accent }}
           >
-            <Compass className="h-4 w-4" />
             {ctaLabel}
           </button>
         ) : (
           <Link href={href} className={primaryClass} style={{ background: PASSPORT.accent }}>
-            <Compass className="h-4 w-4" />
             {ctaLabel}
           </Link>
         )}
@@ -82,7 +79,7 @@ export function PassportEmptyState({
             href={secondaryHref}
             className={secondaryClass}
             style={{
-              background: PASSPORT.card,
+              background: "#fff",
               borderColor: PASSPORT.cardBorder,
               color: PASSPORT.text,
             }}

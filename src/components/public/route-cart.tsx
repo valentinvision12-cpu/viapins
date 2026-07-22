@@ -444,7 +444,7 @@ export function RouteCart() {
                     onClick={() => setPanelOpen(false)}
                     className="block text-center text-stone-400 hover:text-stone-700 text-xs py-1"
                   >
-                    → {t("cartOpenMyTrip")}
+                    {t("cartOpenMyTrip")}
                   </Link>
                 )}
               </div>

@@ -35,10 +35,10 @@ export function buildAdventureSubtitle(
   if (regions.length >= 2) {
     const head = regions.slice(0, -1).join(", ");
     const last = regions[regions.length - 1];
-    return `Through ${head}, and ${last}.`;
+    return `A curated journey through ${head}, and ${last}.`;
   }
   if (regions.length === 1) {
-    return `A scenic drive through ${regions[0]} and beyond.`;
+    return `A curated journey through ${regions[0]}.`;
   }
 
   const stopNames = places

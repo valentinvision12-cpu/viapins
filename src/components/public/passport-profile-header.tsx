@@ -46,6 +46,7 @@ export function PassportProfileHeader({
   onEditIdentity,
 }: Props) {
   const t = useTranslations("myTrip");
+  const tTrips = useTranslations("MyTrips");
   const [avatar, setAvatar] = useState(avatarUrl ?? "");
   const [uploading, setUploading] = useState(false);
   const [message, setMessage] = useState<{ type: "ok" | "err"; text: string } | null>(null);
@@ -150,7 +151,7 @@ export function PassportProfileHeader({
               ViaPins
             </p>
             <p className="mt-0.5 text-[11px] font-semibold tracking-wide text-white/90">
-              Travel Passport
+              {tTrips("title")}
             </p>
           </div>
 
