@@ -48,7 +48,7 @@
     "heroTitle": "Открий най-красивите",
     "heroTitleAccent": " градове в света",
     "heroSubtitle": "Курирани градски гидове и живописни road trips за съвременния пътешественик.",
-    "heroPromise": "Курирани градски гидове и живописни road trips за съвременния пътешественик.",
+    "heroPromise": "Селектирани градски маршрути и живописни пътешествия — готови за Google Maps.",
     "heroSearchCta": "Търси",
     "heroPopular": "Популярни",
     "heroCta": "Избери град",
@@ -74,14 +74,16 @@
     "searchEmpty": "Нищо не е намерено — опитай друго име.",
     "searchTypeCountry": "Държава",
     "searchTypeCity": "Град",
-    "heroAdventuresCta": "Открий road trips",
+    "heroAdventuresCta": "Виж Road Trips",
     "heroAdventuresHint": "Живописни спирки · маршрут по дни · отвори в Google Maps",
     "popularDestinations": "Популярни дестинации",
     "trendingNow": "Разгледай градове",
     "featuredDestinationsTitle": "Започни оттук",
     "featuredDestinationsHint": "Подбрани дестинации за следващото ти пътуване.",
     "browseAllCountries": "Разгледай всички {count} дестинации",
-    "allDestinationsTitle": "Всички дестинации"
+    "allDestinationsTitle": "Всички дестинации",
+    "metaTitle": "ViaPins | Градски гидове и Road Trips",
+    "metaDescription": "Открийте селектирани градски маршрути и живописни пътешествия. Създайте своя маршрут и го стартирайте директно в Google Maps."
   },
   "language": {
     "selectLanguage": "Избери език",
@@ -170,16 +172,16 @@
     "bookAndShop": "Резервации и пазаруване"
   },
   "meta": {
-    "defaultTitle": "ViaPins — Безплатни туристически гидове и планиране на маршрути",
-    "defaultDescription": "Безплатни подбрани гидове за Европа и Азия. Разгледай топ забележителности в 50+ града, създавай GPS маршрути и запазвай любими места. Без приложение.",
+    "defaultTitle": "ViaPins | Градски гидове и Road Trips",
+    "defaultDescription": "Открийте селектирани градски маршрути и живописни пътешествия. Създайте своя маршрут и го стартирайте директно в Google Maps.",
     "separator": " | "
   },
   "CountryExplore": {
     "exploreModesTitle": "Как искаш да преживееш {country}?",
     "tabCityGuides": "Градски гидове",
-    "tabRoadTrip": "Road trip",
-    "roadTripIntro": "Пропусни стандартните спирки. Открий подбран маршрут с кола из държавата.",
-    "cityGuidesIntro": "Гмурни се в градовете, забележителностите и местните пешеходни маршрути."
+    "tabRoadTrip": "Road Trip",
+    "roadTripIntro": "Живописни маршрути и подбрани спирки",
+    "cityGuidesIntro": "Пешеходни маршрути в най-добрите градове"
   },
   "countryPage": {
     "pickCityTitle": "Избери град",
@@ -190,8 +192,8 @@
     "citiesLabel": "{count} града",
     "epicRoadTrips": "Епични пътувания",
     "epicRoadTripsDesc": "Остави градските гидове — живописни пътища, скрити спирки и маршрут ден по ден.",
-    "metaTitle": "Топ градове в {country} | Туристически гид",
-    "metaDescription": "Разгледай топ градовете в {country}. Избери град за 10 задължителни забележителности с GPS маршрути."
+    "metaTitle": "Разгледай {country} | Градски гидове и Road Trips | ViaPins",
+    "metaDescription": "Планирайте пътуването си до {country}. Открийте пешеходни градски гидове и незабравими road trips."
   },
   "cityPage": {
     "landmarksTitle": "{count} задължителни места",
@@ -431,13 +433,15 @@
     "cartSignInSave": "Влез, за да запазиш в Моите пътувания",
     "cartSavedToTrip": "Запазено в Моите пътувания",
     "cartClear": "Изчисти маршрута",
-    "cartOpenMyTrip": "Виж Моите пътувания",
+    "cartOpenMyTrip": "Виж в Моите пътувания",
     "cartDayTitle": "Твоят ден в {city}",
     "openInMaps": "Отвори в Google Maps",
     "cartOptimize": "Оптимизирай маршрута",
     "cartOptimized": "Оптимизиран!",
     "cartSavePassport": "Запази в Моите пътувания",
     "cartWalkMin": " мин пеша",
+    "walkTime": "≈ {minutes} мин пеша",
+    "totalWalkTime": "Общо пеша: ≈ {minutes} мин",
     "shareTitle": "Сподели маршрута",
     "shareMessage": "Нашият маршрут:",
     "shareCopy": "Копирай линк",
@@ -460,8 +464,8 @@
     "metaDescription": "Намерете място за нощувка в {city}. Подбран hotel search чрез travel partners."
   },
   "adventuresHub": {
-    "metaTitle": "Road trip приключения по държави",
-    "metaDescription": "Пътувания с кола из държави с подбрани спирки. Търси по държава — нужна е кола.",
+    "metaTitle": "Живописни пътешествия и Road Trips | ViaPins",
+    "metaDescription": "Разгледайте нашите селектирани road trips и живописни маршрути. Перфектното допълнение към градските ни гидове.",
     "badge": "ADVENTURE MODE",
     "title": "Road Trip приключения",
     "subtitle": "Избери държава — живописни спирки, маршрут по дни, GPS в Google Maps. Отделно от градските гидове.",

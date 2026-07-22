@@ -141,9 +141,6 @@ export function HeroMap({
             →
           </span>
         </Link>
-        <p className="mt-2 text-xs" style={{ color: LUXURY.textMuted }}>
-          {t("heroAdventuresHint")}
-        </p>
       </div>
 
       <div

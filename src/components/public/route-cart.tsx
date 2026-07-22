@@ -22,7 +22,7 @@ import { usePathname } from "@/i18n/navigation";
 import { slugify } from "@/lib/utils";
 import type { RouteScope } from "@/lib/route-scope";
 import { mapsPinLinkProps } from "@/components/public/maps-place-link";
-import { optimizeRoute, totalRouteKm, formatKm } from "@/lib/route-optimizer";
+import { optimizeRoute, totalRouteKm, formatKm, haversineKm } from "@/lib/route-optimizer";
 import { googleMapsRouteUrl } from "@/lib/collection-export";
 
 function cartMatchesPage(pathname: string, scope: RouteScope | null): boolean {
@@ -43,8 +43,10 @@ function cartMatchesPage(pathname: string, scope: RouteScope | null): boolean {
   return slugify(scope.city) === segment;
 }
 
-function estimateWalkMinutes(km: number): number {
-  return Math.max(15, Math.round((km / 4.5) * 60));
+/** Walking minutes at ~80 m/min pace */
+function getWalkMinutes(lat1: number, lon1: number, lat2: number, lon2: number) {
+  const distanceKm = haversineKm({ lat: lat1, lng: lon1 }, { lat: lat2, lng: lon2 });
+  return Math.max(1, Math.round((distanceKm * 1000) / 80));
 }
 
 export function RouteCart() {
@@ -132,7 +134,15 @@ export function RouteCart() {
     : `${cityLabel} Route`;
 
   const routeDistanceKm = items.length >= 2 ? totalRouteKm(items) : null;
-  const walkMinutes = routeDistanceKm != null ? estimateWalkMinutes(routeDistanceKm) : null;
+      const legWalkMinutes = !isAdventure
+    ? items.map((_, idx) => {
+        if (idx === 0) return 0;
+        const prev = items[idx - 1];
+        const item = items[idx];
+        return getWalkMinutes(prev.lat, prev.lng, item.lat, item.lng);
+      })
+    : [];
+  const totalWalkMins = legWalkMinutes.reduce((sum, m) => sum + m, 0);
   const canOptimize = !isAdventure && items.length >= 3;
   const coverImages = items.filter((i) => i.image_url).slice(0, 3);
 
@@ -263,7 +273,9 @@ export function RouteCart() {
                     <p className="text-stone-400 text-xs">
                       {totalItems} {placeWord}
                       {routeDistanceKm !== null && ` · ${formatKm(routeDistanceKm)}`}
-                      {walkMinutes != null && ` · ~${walkMinutes}${t("cartWalkMin")}`}
+                      {!isAdventure && totalWalkMins > 0 && (
+                        <> · {t("totalWalkTime", { minutes: totalWalkMins })}</>
+                      )}
                     </p>
                   </div>
                 </div>
@@ -318,68 +330,77 @@ export function RouteCart() {
                 </div>
               )}
 
-              <div className="flex-1 overflow-y-auto px-4 py-3 space-y-2 min-h-0">
-                {items.map((item, idx) => (
-                  <div
-                    key={item.id}
-                    className="flex items-center gap-3 p-2.5 rounded-xl bg-white border border-stone-100"
-                  >
-                    <div
-                      className="w-6 h-6 rounded-full flex items-center justify-center text-xs font-bold flex-shrink-0 text-white"
-                      style={{ background: isAdventure ? "#ea580c" : "oklch(0.68 0.16 82)" }}
-                    >
-                      {idx + 1}
-                    </div>
-                    {item.image_url && (
-                      <div className="relative w-9 h-9 rounded-lg overflow-hidden flex-shrink-0">
-                        <Image
-                          src={item.image_url}
-                          alt=""
-                          fill
-                          sizes="36px"
-                          className="object-cover"
-                          unoptimized={IMAGE_UNOPTIMIZED}
-                          referrerPolicy={IMAGE_REFERRER_POLICY}
-                        />
-                      </div>
-                    )}
-                    <div className="flex-1 min-w-0">
-                      <p className="text-stone-900 text-sm font-medium truncate">{item.name}</p>
-                      <p className="text-stone-400 text-xs truncate">
-                        {item.region ?? item.city}
-                      </p>
-                    </div>
-                    {(() => {
-                      const pin = mapsPinLinkProps(
-                        item.lat,
-                        item.lng,
-                        item.name,
-                        item.region ?? item.city,
-                        item.country
-                      );
-                      if (!pin) return null;
-                      return (
-                        <a
-                          href={pin.href}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          title={pin.title}
-                          className="p-1.5 rounded-lg text-stone-300 hover:text-blue-600 flex-shrink-0"
+              <div className="flex-1 overflow-y-auto px-4 py-3 min-h-0">
+                {items.map((item, idx) => {
+                  const walkMins = legWalkMinutes[idx] ?? 0;
+                  return (
+                    <div key={item.id} className="flex flex-col">
+                      {!isAdventure && idx > 0 && walkMins > 0 && (
+                        <div className="flex items-center gap-2 pl-4 py-2 border-l-2 border-dashed border-stone-300 ml-4">
+                          <span className="text-xs font-medium text-stone-500 bg-stone-100 px-2 py-1 rounded-md">
+                            {t("walkTime", { minutes: walkMins })}
+                          </span>
+                        </div>
+                      )}
+                      <div className="flex items-center gap-3 p-2.5 rounded-xl bg-white border border-stone-100 mb-2">
+                        <div
+                          className="w-6 h-6 rounded-full flex items-center justify-center text-xs font-bold flex-shrink-0 text-white"
+                          style={{ background: isAdventure ? "#ea580c" : "oklch(0.68 0.16 82)" }}
                         >
-                          <MapPin className="w-4 h-4" />
-                        </a>
-                      );
-                    })()}
-                    <button
-                      type="button"
-                      onClick={() => removeItem(item.id)}
-                      className="p-1 rounded-lg text-stone-300 hover:text-red-500 flex-shrink-0"
-                      aria-label={`Remove ${item.name}`}
-                    >
-                      <X className="w-3.5 h-3.5" />
-                    </button>
-                  </div>
-                ))}
+                          {idx + 1}
+                        </div>
+                        {item.image_url && (
+                          <div className="relative w-9 h-9 rounded-lg overflow-hidden flex-shrink-0">
+                            <Image
+                              src={item.image_url}
+                              alt=""
+                              fill
+                              sizes="36px"
+                              className="object-cover"
+                              unoptimized={IMAGE_UNOPTIMIZED}
+                              referrerPolicy={IMAGE_REFERRER_POLICY}
+                            />
+                          </div>
+                        )}
+                        <div className="flex-1 min-w-0">
+                          <p className="text-stone-900 text-sm font-medium truncate">{item.name}</p>
+                          <p className="text-stone-400 text-xs truncate">
+                            {item.region ?? item.city}
+                          </p>
+                        </div>
+                        {(() => {
+                          const pin = mapsPinLinkProps(
+                            item.lat,
+                            item.lng,
+                            item.name,
+                            item.region ?? item.city,
+                            item.country
+                          );
+                          if (!pin) return null;
+                          return (
+                            <a
+                              href={pin.href}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              title={pin.title}
+                              className="p-1.5 rounded-lg text-stone-300 hover:text-blue-600 flex-shrink-0"
+                            >
+                              <MapPin className="w-4 h-4" />
+                            </a>
+                          );
+                        })()}
+                        <button
+                          type="button"
+                          onClick={() => removeItem(item.id)}
+                          className="p-1 rounded-lg text-stone-300 hover:text-red-500 flex-shrink-0"
+                          aria-label={`Remove ${item.name}`}
+                        >
+                          <X className="w-3.5 h-3.5" />
+                        </button>
+                      </div>
+                    </div>
+                  );
+                })}
               </div>
 
               <TripExtrasSection
@@ -392,60 +413,65 @@ export function RouteCart() {
                 lng={routeCentroid.lng}
               />
 
-              <div className="px-4 pb-8 pt-2 border-t border-stone-100 flex-shrink-0 space-y-2 bg-white">
-                {saveSuccess && (
-                  <div className="flex items-center justify-center gap-2 py-2 text-emerald-600 text-sm">
-                    <Check className="w-4 h-4" /> {t("cartSavedToTrip")}
+              <div className="px-4 pb-8 pt-3 border-t border-stone-100 flex-shrink-0 space-y-3 bg-white">
+                {!isAdventure && totalWalkMins > 0 && (
+                  <p className="text-sm font-medium text-stone-600 text-center">
+                    {t("totalWalkTime", { minutes: totalWalkMins })}
+                  </p>
+                )}
+
+                {saveSuccess ? (
+                  <div className="flex items-center justify-between w-full p-3 rounded-xl border border-emerald-200 bg-emerald-50 text-emerald-700">
+                    <span className="flex items-center gap-2 text-sm font-semibold">
+                      <Check className="w-4 h-4" /> {t("cartSavedToTrip")}
+                    </span>
+                    <Link
+                      href="/my-passport"
+                      onClick={() => setPanelOpen(false)}
+                      className="text-sm underline font-medium hover:text-emerald-800"
+                    >
+                      {t("cartOpenMyTrip")}
+                    </Link>
                   </div>
-                )}
-                {saveError && (
-                  <p className="text-red-500 text-xs text-center">{saveError}</p>
-                )}
-
-                <div className="flex gap-2">
-                  <button
-                    type="button"
-                    onClick={handleSave}
-                    disabled={isPending || saveSuccess}
-                    className="flex-1 flex items-center justify-center gap-1.5 py-3 rounded-xl bg-stone-900 text-white text-sm font-semibold hover:bg-stone-800 disabled:opacity-50 min-h-[48px]"
-                  >
-                    {isPending ? (
-                      <Loader2 className="w-4 h-4 animate-spin" />
-                    ) : saveSuccess ? (
-                      <Check className="w-4 h-4" />
-                    ) : (
-                      <BookMarked className="w-4 h-4" />
+                ) : (
+                  <>
+                    {saveError && (
+                      <p className="text-red-500 text-xs text-center">{saveError}</p>
                     )}
-                    {isLoggedIn ? t("cartSavePassport") : t("cartSignInSave")}
-                  </button>
+                    <div className="flex gap-2">
+                      <button
+                        type="button"
+                        onClick={handleSave}
+                        disabled={isPending}
+                        className="flex-1 flex items-center justify-center gap-1.5 py-3 rounded-xl border-2 border-stone-200 text-stone-700 text-sm font-semibold hover:border-stone-300 hover:bg-stone-50 disabled:opacity-50 min-h-[48px]"
+                      >
+                        {isPending ? (
+                          <Loader2 className="w-4 h-4 animate-spin" />
+                        ) : (
+                          <BookMarked className="w-4 h-4" />
+                        )}
+                        {isLoggedIn ? t("cartSavePassport") : t("cartSignInSave")}
+                      </button>
 
-                  <button
-                    type="button"
-                    onClick={() => setShareOpen(true)}
-                    className="flex items-center justify-center gap-1.5 px-4 py-3 rounded-xl border border-stone-200 text-stone-600 hover:bg-stone-50 min-h-[48px]"
-                    aria-label={t("shareTitle")}
-                  >
-                    <Share2 className="w-4 h-4" />
-                  </button>
+                      <button
+                        type="button"
+                        onClick={() => setShareOpen(true)}
+                        className="flex items-center justify-center gap-1.5 px-4 py-3 rounded-xl border border-stone-200 text-stone-600 hover:bg-stone-50 min-h-[48px]"
+                        aria-label={t("shareTitle")}
+                      >
+                        <Share2 className="w-4 h-4" />
+                      </button>
 
-                  <button
-                    type="button"
-                    onClick={() => { clearCart(); setPanelOpen(false); }}
-                    className="p-3 rounded-xl border border-stone-200 text-stone-400 hover:text-red-500 min-h-[48px]"
-                    title={t("cartClear")}
-                  >
-                    <Trash2 className="w-4 h-4" />
-                  </button>
-                </div>
-
-                {isLoggedIn && (
-                  <Link
-                    href="/my-passport"
-                    onClick={() => setPanelOpen(false)}
-                    className="block text-center text-stone-400 hover:text-stone-700 text-xs py-1"
-                  >
-                    {t("cartOpenMyTrip")}
-                  </Link>
+                      <button
+                        type="button"
+                        onClick={() => { clearCart(); setPanelOpen(false); }}
+                        className="p-3 rounded-xl border border-stone-200 text-stone-400 hover:text-red-500 min-h-[48px]"
+                        title={t("cartClear")}
+                      >
+                        <Trash2 className="w-4 h-4" />
+                      </button>
+                    </div>
+                  </>
                 )}
               </div>
             </motion.div>

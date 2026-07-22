@@ -16,21 +16,21 @@ type Props = { params: Promise<{ locale: string }> };
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
-  const t = await getTranslations({ locale, namespace: "meta" });
+  const t = await getTranslations({ locale, namespace: "home" });
   const siteUrl = getSiteUrl();
   const ogImage = `${siteUrl}${SITE_LOGO_PATH}`;
   const alternates = buildLocaleAlternates("/");
   return {
-    title: t("defaultTitle"),
-    description: t("defaultDescription"),
+    title: t("metaTitle"),
+    description: t("metaDescription"),
     keywords: ["travel guide", "Europe travel", "Asia travel", "landmarks", "route planner", "free travel", "city guide"],
     alternates: {
       canonical: `${siteUrl}/${locale}`,
       languages: alternates.languages,
     },
     openGraph: {
-      title: t("defaultTitle"),
-      description: t("defaultDescription"),
+      title: t("metaTitle"),
+      description: t("metaDescription"),
       url: `${siteUrl}/${locale}`,
       siteName: SITE_NAME,
       type: "website",
@@ -39,8 +39,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     twitter: {
       card: "summary_large_image",
-      title: t("defaultTitle"),
-      description: t("defaultDescription"),
+      title: t("metaTitle"),
+      description: t("metaDescription"),
       images: [ogImage],
     },
     robots: {

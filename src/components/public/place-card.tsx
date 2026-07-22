@@ -116,12 +116,10 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
       }`}
     >
       <div className="flex flex-col sm:flex-row gap-0">
-        <button
-          type="button"
-          onClick={handleToggle}
-          className="relative sm:w-56 flex-shrink-0 h-48 sm:min-h-[11.5rem] sm:h-auto overflow-hidden sm:rounded-l-2xl bg-stone-100 text-left cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2"
-          aria-pressed={inTrip}
-          aria-label={inTrip ? t("removeFromRoute") : t("addToRoute")}
+        <Link
+          href={detailHref}
+          className="relative sm:w-56 flex-shrink-0 h-48 sm:min-h-[11.5rem] sm:h-auto overflow-hidden sm:rounded-l-2xl bg-stone-100 focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2"
+          aria-label={place.name}
         >
           {imgSrc ? (
             <Image
@@ -154,25 +152,7 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
           >
             {index + 1}
           </div>
-
-          <div
-            className={`absolute bottom-3 right-3 flex items-center gap-1 px-2.5 py-1 rounded-full text-xs font-semibold shadow-sm ${
-              inTrip ? "bg-white/95 text-amber-800" : "bg-stone-900/85 text-white"
-            }`}
-          >
-            {inTrip ? (
-              <>
-                <Check className="w-3.5 h-3.5" />
-                {t("inRoute")}
-              </>
-            ) : (
-              <>
-                <Plus className="w-3.5 h-3.5" />
-                {t("addShort")}
-              </>
-            )}
-          </div>
-        </button>
+        </Link>
 
         <div className="flex-1 p-4 sm:p-5 min-w-0 flex flex-col">
           <div className="flex items-start justify-between gap-3 mb-2">

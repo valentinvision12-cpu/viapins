@@ -20,7 +20,6 @@ interface Props {
 
 export function AdventurePlaceCard({ place, locale, index, stopNumber }: Props) {
   const t = useTranslations("adventure");
-  const tRoute = useTranslations("route");
   const _fallback = fallbackImageUrl(`${place.name}-${place.country}`);
   const [imgSrc, setImgSrc] = useState(place.image_url || _fallback);
   const { addItem, removeItem, isInCart, openPanel } = useRouteCart();
@@ -81,12 +80,7 @@ export function AdventurePlaceCard({ place, locale, index, stopNumber }: Props) 
       }`}
     >
       <div className="flex flex-col gap-0 sm:flex-row">
-        <button
-          type="button"
-          onClick={handleCartToggle}
-          className="relative h-48 flex-shrink-0 overflow-hidden sm:h-auto sm:w-56 sm:rounded-l-2xl"
-          aria-label={inCart ? tRoute("removeFromRoute") : t("addStop")}
-        >
+        <div className="relative h-48 flex-shrink-0 overflow-hidden sm:h-auto sm:w-56 sm:rounded-l-2xl">
           {imgSrc ? (
             <Image
               src={imgSrc}
@@ -128,7 +122,7 @@ export function AdventurePlaceCard({ place, locale, index, stopNumber }: Props) 
               {t("dayLabel", { day: place.day })}
             </div>
           </div>
-        </button>
+        </div>
 
         <div className="min-w-0 flex-1 p-5">
           <div className="mb-2 flex items-start justify-between gap-3">
