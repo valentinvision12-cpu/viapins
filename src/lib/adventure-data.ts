@@ -82,7 +82,7 @@ export async function getAdventureCountrySlugs(): Promise<string[]> {
 export async function getAdventureSummaries(): Promise<
   Pick<
     AdventureCollection,
-    "country" | "slug" | "title" | "subtitle" | "totalDays" | "places"
+    "country" | "slug" | "title" | "subtitle" | "totalDays" | "places" | "heroImage"
   >[]
 > {
   if (!supabaseConfigured()) return [];
@@ -90,7 +90,7 @@ export async function getAdventureSummaries(): Promise<
   const supabase = await createClient();
   const { data } = await supabase
     .from("adventure_collections")
-    .select("country, slug, title, subtitle, total_days, places")
+    .select("country, slug, title, subtitle, total_days, places, hero_image")
     .eq("published", true);
 
   return (data ?? []).map((row) => ({
@@ -100,6 +100,7 @@ export async function getAdventureSummaries(): Promise<
     subtitle: row.subtitle as string,
     totalDays: row.total_days as number,
     places: (row.places as AdventurePlace[]) ?? [],
+    heroImage: (row.hero_image as string | null) ?? "",
   }));
 }
 

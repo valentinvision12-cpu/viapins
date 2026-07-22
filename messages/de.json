@@ -15,9 +15,12 @@
     "delete": "Löschen",
     "edit": "Bearbeiten"
   },
+  "MyTrips": {
+    "title": "Meine Reisen"
+  },
   "nav": {
     "explore": "Entdecken",
-    "myPassport": "Meine Orte",
+    "myPassport": "Meine Reisen",
     "signIn": "Anmelden",
     "signOut": "Abmelden",
     "home": "Entdecken",
@@ -120,7 +123,7 @@
     "carRequired": "Auto empfohlen",
     "heroSubtitle": "Versteckte Juwelen, Denkmäler und Naturwunder abseits der Städte.",
     "stops": "Stopps",
-    "infoStrip": "Diese Orte liegen landesweit verstreut — Auto erforderlich. In My Passport speichern.",
+    "infoStrip": "Diese Orte liegen landesweit verstreut — Auto erforderlich. In Meine Reisen speichern.",
     "pickYourStops": "Wählen Sie Ihre Stopps",
     "plannerTitle": "Empfohlene Route — in dieser Reihenfolge besuchen",
     "plannerSubtitle": "{days}-Tage-Roadtrip. Folgen Sie den Nummern.",

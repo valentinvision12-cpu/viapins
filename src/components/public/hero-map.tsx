@@ -4,6 +4,7 @@ import Image from "next/image";
 import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
 import { useTranslations } from "next-intl";
 import { Search } from "lucide-react";
+import { Link } from "@/i18n/navigation";
 import { LUXURY, COMPASS } from "@/lib/luxury-palette";
 
 const COMPASS_IMAGE = "/images/hero-luxury-compass.png";
@@ -124,6 +125,20 @@ export function HeroMap({
             </button>
           </form>
         </div>
+
+        <Link
+          href="/adventures"
+          className="inline-flex items-center gap-2 mt-1 text-sm font-semibold transition-opacity hover:opacity-80"
+          style={{ color: LUXURY.textSecondary }}
+        >
+          {t("heroAdventuresCta")}
+          <span aria-hidden className="text-[#D9472C]">
+            →
+          </span>
+        </Link>
+        <p className="mt-1.5 text-xs" style={{ color: LUXURY.textMuted }}>
+          {t("heroAdventuresHint")}
+        </p>
       </div>
 
       <div

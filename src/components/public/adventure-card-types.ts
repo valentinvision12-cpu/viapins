@@ -6,4 +6,6 @@ export interface AdventureCardSummary {
   subtitle: string;
   stopCount: number;
   totalDays: number;
+  /** Hero or first-stop image URL; empty if none */
+  coverImage: string;
 }

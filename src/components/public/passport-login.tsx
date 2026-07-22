@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { createBrowserClient } from "@supabase/ssr";
 import { motion } from "framer-motion";
-import { Heart, Map, Stamp, Globe, Sparkles } from "lucide-react";
+import { Heart, Car, Sparkles } from "lucide-react";
 import { useTranslations, useLocale } from "next-intl";
 import { usePathname } from "@/i18n/navigation";
 import { PASSPORT } from "@/lib/luxury-palette";
@@ -22,16 +22,15 @@ function GoogleIcon() {
 
 export function PassportLogin() {
   const t = useTranslations("auth");
+  const tTrips = useTranslations("MyTrips");
   const locale = useLocale();
   const pathname = usePathname();
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
 
   const perks = [
-    { icon: Heart, title: t("passportPerkSaveTitle"), desc: t("passportPerkSaveDesc") },
-    { icon: Map, title: t("passportPerkRoutesTitle"), desc: t("passportPerkRoutesDesc") },
-    { icon: Stamp, title: t("passportPerkVisitedTitle"), desc: t("passportPerkVisitedDesc") },
-    { icon: Globe, title: t("passportPerkExploreTitle"), desc: t("passportPerkExploreDesc") },
+    { icon: Heart, text: tTrips("featureSavePlaces") },
+    { icon: Car, text: tTrips("featureTrackRoutes") },
   ];
 
   const supabase = createBrowserClient(
@@ -99,44 +98,41 @@ export function PassportLogin() {
               className="mb-3 text-3xl font-black tracking-tight sm:text-4xl"
               style={{ color: PASSPORT.text }}
             >
-              {t("passportHeroTitle")}
+              {tTrips("title")}
             </h1>
             <p
               className="mx-auto max-w-sm text-base leading-relaxed"
               style={{ color: PASSPORT.textMuted }}
             >
-              {t("passportHeroSubtitle")}
+              {tTrips("loginSubtitle")}
             </p>
           </div>
 
-          <div className="mb-8 grid grid-cols-2 gap-3">
+          <ul className="mb-8 space-y-3">
             {perks.map((p, i) => (
-              <motion.div
-                key={p.title}
+              <motion.li
+                key={p.text}
                 initial={{ opacity: 0, y: 10 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.08 + i * 0.06 }}
-                className="rounded-2xl border p-4 transition-shadow hover:shadow-md"
+                className="flex items-start gap-3 rounded-2xl border p-4"
                 style={{
                   background: "rgba(255,255,255,0.7)",
                   borderColor: PASSPORT.cardBorder,
                 }}
               >
                 <div
-                  className="mb-3 flex h-9 w-9 items-center justify-center rounded-xl"
+                  className="flex h-9 w-9 flex-shrink-0 items-center justify-center rounded-xl"
                   style={{ background: PASSPORT.accentSoft }}
                 >
                   <p.icon className="h-4 w-4" style={{ color: PASSPORT.accent }} />
                 </div>
-                <p className="text-sm font-bold leading-snug" style={{ color: PASSPORT.text }}>
-                  {p.title}
+                <p className="pt-1.5 text-sm font-medium leading-snug" style={{ color: PASSPORT.text }}>
+                  {p.text}
                 </p>
-                <p className="mt-1 text-xs leading-snug" style={{ color: PASSPORT.textMuted }}>
-                  {p.desc}
-                </p>
-              </motion.div>
+              </motion.li>
             ))}
-          </div>
+          </ul>
 
           <div
             className="rounded-2xl border p-5"

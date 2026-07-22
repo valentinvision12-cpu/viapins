@@ -12,8 +12,8 @@ type Props = { params: Promise<{ locale: string }> };
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
-  const t = await getTranslations({ locale, namespace: "myTrip" });
-  return { title: t("metaTitle") };
+  const t = await getTranslations({ locale, namespace: "MyTrips" });
+  return { title: t("title") };
 }
 
 export default async function MyPassportPage({ params }: Props) {
@@ -73,28 +73,6 @@ export default async function MyPassportPage({ params }: Props) {
         style={{ background: PASSPORT.bgGradient, color: PASSPORT.text }}
       >
         <div className="container mx-auto max-w-6xl px-6 py-10 sm:py-12">
-          {!user && (
-            <div className="mb-10 flex items-center gap-4">
-              <div
-                className="flex h-14 w-14 flex-shrink-0 items-center justify-center rounded-2xl shadow-sm"
-                style={{
-                  background: PASSPORT.accentSoft,
-                  border: `1px solid ${PASSPORT.accentBorder}`,
-                }}
-              >
-                <Briefcase className="h-7 w-7" style={{ color: PASSPORT.accent }} />
-              </div>
-              <div>
-                <h1 className="text-2xl font-bold" style={{ color: PASSPORT.text }}>
-                  {t("title")}
-                </h1>
-                <p className="mt-0.5 text-sm" style={{ color: PASSPORT.textMuted }}>
-                  {t("subtitle")}
-                </p>
-              </div>
-            </div>
-          )}
-
           {!isConfigured ? (
             <div
               className="rounded-2xl border py-20 text-center"

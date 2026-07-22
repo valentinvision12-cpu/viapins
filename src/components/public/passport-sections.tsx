@@ -299,9 +299,14 @@ export function PassportSections({
   simplified = false,
 }: Props) {
   const t = useTranslations("myTrip");
-  const visibleTabs = simplified ? TABS.filter((t) => t.id === "trips" || t.id === "places") : TABS;
+  const tTrips = useTranslations("MyTrips");
+  const visibleTabs = simplified ? TABS.filter((tab) => tab.id === "trips" || tab.id === "places") : TABS;
   const { favorites: liveFavorites } = useFavorites();
-  const [tab, setTab] = useState<PassportSectionTab>(defaultTab);
+  const [tab, setTab] = useState<PassportSectionTab>(
+    simplified && (defaultTab === "collections" || defaultTab === "posts")
+      ? "trips"
+      : defaultTab
+  );
   const [tripFilter, setTripFilter] = useState<TripFilter>("all");
   const [placesView, setPlacesView] = useState<PlacesView>("grid");
   const [clientReady, setClientReady] = useState(false);
@@ -311,13 +316,24 @@ export function PassportSections({
     setClientReady(true);
     try {
       const stored = localStorage.getItem(TAB_STORAGE_KEY) as PassportSectionTab | null;
-      if (stored && visibleTabs.some((x) => x.id === stored)) setTab(stored);
+      if (stored && visibleTabs.some((x) => x.id === stored)) {
+        setTab(stored);
+      } else if (simplified) {
+        setTab("trips");
+      }
       const view = localStorage.getItem(PLACES_VIEW_KEY) as PlacesView | null;
       if (view === "grid" || view === "list") setPlacesView(view);
     } catch {
       /* ignore */
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps -- hydrate once from storage
   }, []);
+
+  function tabLabel(labelKey: (typeof TABS)[number]["labelKey"]) {
+    if (simplified && labelKey === "passportTabTrips") return tTrips("tabsTrips");
+    if (simplified && labelKey === "passportTabPlaces") return tTrips("tabsPlaces");
+    return t(labelKey);
+  }
 
   function selectTab(next: PassportSectionTab) {
     setTab(next);
@@ -405,7 +421,7 @@ export function PassportSections({
               >
                 <Icon className="h-3.5 w-3.5 flex-shrink-0 sm:h-4 sm:w-4" />
                 <span className="whitespace-nowrap">
-                  {t(labelKey)}
+                  {tabLabel(labelKey)}
                   {count > 0 ? (
                     <span className="font-bold tabular-nums opacity-80">
                       {" "}
@@ -472,7 +488,10 @@ export function PassportSections({
                       icon={Map}
                       title={t("passportEmptyTripsFilterTitle")}
                       description={t("passportEmptyTripsFilterDesc")}
-                      ctaLabel={t("passportEmptyTripsCta")}
+                      ctaLabel={tTrips("ctaExploreCities")}
+                      href="/"
+                      secondaryCtaLabel={tTrips("ctaDiscoverRoadTrips")}
+                      secondaryHref="/adventures"
                     />
                   ) : (
                     <div className="space-y-4">
@@ -485,9 +504,12 @@ export function PassportSections({
               ) : (
                 <PassportEmptyState
                   icon={Map}
-                  title={t("passportEmptyTripsTitle")}
-                  description={t("passportEmptyTripsDesc")}
-                  ctaLabel={t("passportEmptyTripsCta")}
+                  title={tTrips("emptyTripsTitle")}
+                  description={tTrips("emptyTripsDesc")}
+                  ctaLabel={tTrips("ctaExploreCities")}
+                  href="/"
+                  secondaryCtaLabel={tTrips("ctaDiscoverRoadTrips")}
+                  secondaryHref="/adventures"
                 />
               )}
             </div>
@@ -578,14 +600,15 @@ export function PassportSections({
             ) : (
               <PassportEmptyState
                 icon={Heart}
-                title={t("passportEmptyPlacesTitle")}
-                description={t("passportEmptyPlacesDesc")}
-                ctaLabel={t("passportEmptyPlacesCta")}
+                title={tTrips("emptyPlacesTitle")}
+                description={tTrips("emptyPlacesDesc")}
+                ctaLabel={tTrips("ctaExplorePlaces")}
+                href="/"
               />
             ))}
 
           {/* ── Collections ── */}
-          {tab === "collections" &&
+          {!simplified && tab === "collections" &&
             (collections.length > 0 ? (
               <div className="space-y-3">
                 <p className="text-xs leading-relaxed" style={{ color: PASSPORT.textMuted }}>
@@ -616,7 +639,7 @@ export function PassportSections({
             ))}
 
           {/* ── Posts ── */}
-          {tab === "posts" && (
+          {!simplified && tab === "posts" && (
             <div className="space-y-4">
               <div className="flex items-center justify-between gap-3">
                 <p className="text-sm" style={{ color: PASSPORT.textMuted }}>

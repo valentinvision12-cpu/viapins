@@ -12,9 +12,12 @@ interface Props {
   ctaLabel: string;
   href?: string;
   onCta?: () => void;
+  /** Optional second discovery path (e.g. Road trips) */
+  secondaryCtaLabel?: string;
+  secondaryHref?: string;
 }
 
-/** Friendly empty panel for passport tabs — CTA leads back into discovery. */
+/** Friendly empty panel for passport tabs — CTAs lead back into discovery. */
 export function PassportEmptyState({
   icon: Icon = Compass,
   title,
@@ -22,9 +25,13 @@ export function PassportEmptyState({
   ctaLabel,
   href = "/",
   onCta,
+  secondaryCtaLabel,
+  secondaryHref,
 }: Props) {
-  const ctaClass =
-    "mt-6 inline-flex items-center gap-2 rounded-full px-5 py-2.5 text-sm font-semibold text-white transition-opacity hover:opacity-90";
+  const primaryClass =
+    "inline-flex items-center justify-center gap-2 rounded-full px-5 py-2.5 text-sm font-semibold text-white transition-opacity hover:opacity-90";
+  const secondaryClass =
+    "inline-flex items-center justify-center gap-2 rounded-full px-5 py-2.5 text-sm font-semibold transition-colors border";
 
   return (
     <div
@@ -53,22 +60,37 @@ export function PassportEmptyState({
       >
         {description}
       </p>
-      {onCta ? (
-        <button
-          type="button"
-          onClick={onCta}
-          className={ctaClass}
-          style={{ background: PASSPORT.accent }}
-        >
-          <Compass className="h-4 w-4" />
-          {ctaLabel}
-        </button>
-      ) : (
-        <Link href={href} className={ctaClass} style={{ background: PASSPORT.accent }}>
-          <Compass className="h-4 w-4" />
-          {ctaLabel}
-        </Link>
-      )}
+      <div className="mt-6 flex flex-col items-stretch justify-center gap-3 sm:flex-row sm:items-center">
+        {onCta ? (
+          <button
+            type="button"
+            onClick={onCta}
+            className={primaryClass}
+            style={{ background: PASSPORT.accent }}
+          >
+            <Compass className="h-4 w-4" />
+            {ctaLabel}
+          </button>
+        ) : (
+          <Link href={href} className={primaryClass} style={{ background: PASSPORT.accent }}>
+            <Compass className="h-4 w-4" />
+            {ctaLabel}
+          </Link>
+        )}
+        {secondaryCtaLabel && secondaryHref ? (
+          <Link
+            href={secondaryHref}
+            className={secondaryClass}
+            style={{
+              background: PASSPORT.card,
+              borderColor: PASSPORT.cardBorder,
+              color: PASSPORT.text,
+            }}
+          >
+            {secondaryCtaLabel}
+          </Link>
+        ) : null}
+      </div>
     </div>
   );
 }

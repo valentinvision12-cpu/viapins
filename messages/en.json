@@ -15,11 +15,26 @@
     "delete": "Delete",
     "edit": "Edit"
   },
+  "MyTrips": {
+    "title": "My Trips",
+    "loginSubtitle": "Save routes and places from Explore and Road trips — all in one hub.",
+    "featureSavePlaces": "Save landmarks from city guides with one tap",
+    "featureTrackRoutes": "Bookmark city routes and country road trips for later",
+    "tabsTrips": "Saved Trips",
+    "tabsPlaces": "Saved Places",
+    "emptyTripsTitle": "No trips saved yet",
+    "emptyTripsDesc": "Start planning your next journey. Browse city guides or discover scenic road trips.",
+    "emptyPlacesTitle": "No places saved yet",
+    "emptyPlacesDesc": "See a landmark you like? Tap the heart while exploring — it appears here.",
+    "ctaExploreCities": "Explore cities",
+    "ctaDiscoverRoadTrips": "Discover road trips",
+    "ctaExplorePlaces": "Explore destinations"
+  },
   "nav": {
     "explore": "Explore",
     "myPassport": "My Trips",
     "myTrip": "My Trips",
-    "myTrips": "Saved",
+    "myTrips": "My Trips",
     "myRoute": "Route",
     "signIn": "Sign In",
     "signOut": "Sign Out",
@@ -58,10 +73,14 @@
     "searchEmpty": "Nothing found — try another name.",
     "searchTypeCountry": "Country",
     "searchTypeCity": "City",
-    "heroAdventuresCta": "Road Trip Adventures",
-    "heroAdventuresHint": "10 countries · car routes · hidden gems",
+    "heroAdventuresCta": "Looking for road trips? Explore Adventures",
+    "heroAdventuresHint": "Scenic stops · day-by-day routes · open in Google Maps",
     "popularDestinations": "Popular Destinations",
-    "trendingNow": "Explore Cities"
+    "trendingNow": "Explore Cities",
+    "featuredDestinationsTitle": "Trending destinations",
+    "featuredDestinationsHint": "Curated country guides to start with",
+    "browseAllCountries": "Browse all {count} countries",
+    "allDestinationsTitle": "All countries"
   },
   "language": {
     "selectLanguage": "Choose Language",
@@ -178,7 +197,7 @@
     "cartMapsHint": "Tap 📍 next to any stop to open in Google Maps",
     "cartSave": "Save",
     "cartSignInSave": "Sign in & Save",
-    "cartSavedToTrip": "Saved to My Passport!",
+    "cartSavedToTrip": "Saved to My Trips!",
     "cartClear": "Clear route",
     "cartOpenMyTrip": "Open My Trips →",
     "cartDayTitle": "Your day in {city}",
@@ -227,16 +246,20 @@
   },
   "adventuresHub": {
     "metaTitle": "Road Trip Adventures by Country",
-    "metaDescription": "Country-wide road trips with 10 curated stops. Search by country, car required.",
+    "metaDescription": "Country-wide road trips with curated scenic stops. Search by country, car required.",
     "badge": "ADVENTURE MODE",
     "title": "Road Trip Adventures",
-    "subtitle": "Pick a country — 10 scenic stops, day-by-day route, GPS in Google Maps. Separate from city guides.",
+    "subtitle": "Pick a country — scenic stops, day-by-day route, GPS in Google Maps. Separate from city guides.",
     "searchPlaceholder": "Search country…",
     "countriesCount": "countries with adventure routes",
     "empty": "No adventures match your search yet.",
     "stops": "stops",
     "days": "days",
-    "backToCities": "← Back to city guides"
+    "backToCities": "← Back to city guides",
+    "featuredTitle": "Featured road trips",
+    "featuredHint": "Standout routes worth starting with",
+    "allDestinationsTitle": "All countries",
+    "searchResultsTitle": "Matching countries"
   },
   "adventure": {
     "backHome": "Back to destinations",
@@ -344,9 +367,9 @@
     "noDestinations": "No destinations available yet."
   },
   "myTrip": {
-    "title": "My Places",
+    "title": "My Trips",
     "subtitle": "Your saved places and routes",
-    "metaTitle": "My Places",
+    "metaTitle": "My Trips",
     "statsCountries": "Countries",
     "statsPlaces": "Saved",
     "statsRoutes": "Routes",
@@ -405,8 +428,8 @@
     "passportBioPlaceholder": "Your travel story starts here — add a short bio soon.",
     "passportSectionsLabel": "Passport sections",
     "passportTabPosts": "Posts",
-    "passportTabTrips": "Trips",
-    "passportTabPlaces": "Places",
+    "passportTabTrips": "Saved Trips",
+    "passportTabPlaces": "Saved Places",
     "passportTabCollections": "Collections",
     "passportTripsAll": "All",
     "passportTripsPlanning": "Planning",
@@ -418,14 +441,14 @@
     "passportPlacesGrid": "Grid",
     "passportPlacesList": "List",
     "passportPlacesCount": "{count, plural, one {# saved place} other {# saved places}}",
-    "passportEmptyTripsTitle": "No trips yet? Start exploring",
-    "passportEmptyTripsDesc": "Add landmarks to a route, save it, and build a full travel story — days, places, and memories in one trip.",
-    "passportEmptyTripsCta": "Plan a trip",
+    "passportEmptyTripsTitle": "No trips saved yet",
+    "passportEmptyTripsDesc": "Start planning your next journey. Browse city guides or discover scenic road trips.",
+    "passportEmptyTripsCta": "Explore cities",
     "passportEmptyTripsFilterTitle": "Nothing in this filter",
     "passportEmptyTripsFilterDesc": "Try All, Planning, or Completed — or create a new route while exploring.",
-    "passportEmptyPlacesTitle": "No saved places yet",
-    "passportEmptyPlacesDesc": "Tap the heart on any landmark to save it here — your wishlist of dreams and discoveries.",
-    "passportEmptyPlacesCta": "Discover places",
+    "passportEmptyPlacesTitle": "No places saved yet",
+    "passportEmptyPlacesDesc": "See a landmark you like? Tap the heart while exploring — it appears here.",
+    "passportEmptyPlacesCta": "Explore destinations",
     "passportEmptyCollectionsTitle": "No collections yet",
     "passportEmptyCollectionsDesc": "Save places across a country and we’ll group them into private collections you can share and plan from — Dream Japan, Best Beaches, and more.",
     "passportEmptyCollectionsCta": "Explore destinations",
@@ -653,6 +676,13 @@
     "progress": "{city} — {count} of {total} in your route",
     "cta": "Continue"
   },
+  "CountryExplore": {
+    "exploreModesTitle": "How do you want to explore {country}?",
+    "tabCityGuides": "City Guides",
+    "tabRoadTrip": "Road Trip",
+    "roadTripIntro": "Skip the standard stops. Discover our curated country driving route.",
+    "cityGuidesIntro": "Dive into cities, landmarks, and walking itineraries."
+  },
   "countryPage": {
     "pickCityTitle": "Choose a city",
     "pickCityDesc": "Each city includes 10 curated landmarks with photos, stories, and verified GPS pins.",
@@ -686,7 +716,7 @@
   },
   "favorites": {
     "nudgeTitle": "Save {name}?",
-    "nudgeDesc": "Sign in to keep it in My Trip forever",
+    "nudgeDesc": "Sign in to keep it in My Trips forever",
     "nudgeSignIn": "Sign in"
   },
   "adventureBanner": {

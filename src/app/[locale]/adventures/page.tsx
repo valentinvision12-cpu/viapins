@@ -5,6 +5,12 @@ import { AdventuresHub } from "@/components/public/adventures-hub";
 import { getAdventureSummaries } from "@/lib/adventure-data";
 import { getCountryDisplayName, getCountryFlagUrl } from "@/lib/country-meta";
 import { FEATURED_COUNTRY_ORDER } from "@/lib/featured-countries";
+import {
+  buildAdventureSubtitle,
+  resolveAdventureCoverImage,
+  resolveAdventureTotalDays,
+} from "@/lib/adventure-hub";
+import type { AdventureCardSummary } from "@/components/public/adventure-card-types";
 
 type Props = { params: Promise<{ locale: string }> };
 
@@ -20,16 +26,17 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function AdventuresPage({ params }: Props) {
   await params;
 
-  const adventureCards = (await getAdventureSummaries())
+  const adventureCards: AdventureCardSummary[] = (await getAdventureSummaries())
     .map((a) => {
       const country = getCountryDisplayName(a.country);
       return {
         country,
         slug: a.slug,
         flag: getCountryFlagUrl(country, 80),
-        subtitle: a.subtitle,
+        subtitle: buildAdventureSubtitle(country, a.subtitle, a.places),
         stopCount: a.places.length,
-        totalDays: a.totalDays,
+        totalDays: resolveAdventureTotalDays(a.totalDays, a.places),
+        coverImage: resolveAdventureCoverImage(a.heroImage, a.places),
       };
     })
     .sort((a, b) => {

@@ -7,11 +7,10 @@ import {
   getCountryBySlug,
   getCitiesByCountrySlug,
 } from "@/actions/get-destinations";
-import { DestinationCard } from "@/components/public/destination-card";
 import { NavHeader } from "@/components/public/nav-header";
-import { AdventureRouteCard } from "@/components/public/adventure-route-card";
 import { CountryHeroCover } from "@/components/public/country-hero-cover";
 import { ShareDestinationButton } from "@/components/public/share-destination-button";
+import { CountryExploreSplit } from "@/components/public/country-explore-split";
 import { SITE_LOGO_PATH, SITE_NAME } from "@/lib/site-brand";
 import { ContinentBadge } from "@/components/public/continent-badge";
 import { CountryFlag } from "@/components/public/country-flag";
@@ -139,6 +138,18 @@ export default async function ExploreCountryPage({ params }: Props) {
     })),
   });
 
+  const adventureSummary =
+    showAdventure && adventure
+      ? {
+          countrySlug,
+          countryName: country.country,
+          coverImage: adventureCover,
+          totalDays: adventure.totalDays,
+          stopCount: adventurePlaces.length,
+          subtitle: adventure.subtitle,
+        }
+      : null;
+
   return (
     <>
       <script
@@ -201,39 +212,11 @@ export default async function ExploreCountryPage({ params }: Props) {
           </div>
         </section>
 
-        <section className="container max-w-7xl mx-auto px-5 sm:px-8 py-10 sm:py-14">
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 sm:gap-6">
-            {data.cities.map((city, i) => (
-              <DestinationCard
-                key={city.id}
-                destination={city}
-                index={i}
-                priority={i < 3}
-              />
-            ))}
-          </div>
-
-          {showAdventure && adventure && (
-            <div className="mt-14 pt-10 border-t border-stone-200/80">
-              <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 tracking-tight mb-2">
-                {tCountry("epicRoadTrips")}
-              </h2>
-              <p className="text-stone-500 text-sm sm:text-base mb-6 max-w-2xl">
-                {tCountry("epicRoadTripsDesc")}
-              </p>
-              <div className="max-w-3xl">
-                <AdventureRouteCard
-                  countrySlug={countrySlug}
-                  countryName={country.country}
-                  coverImage={adventureCover}
-                  totalDays={adventure.totalDays}
-                  stopCount={adventurePlaces.length}
-                  subtitle={adventure.subtitle}
-                />
-              </div>
-            </div>
-          )}
-        </section>
+        <CountryExploreSplit
+          countryName={country.country}
+          cities={data.cities}
+          adventure={adventureSummary}
+        />
 
         <footer className="border-t border-stone-200 py-8 text-center bg-[#F8F6F1]">
           <p className="text-stone-400 text-xs">

@@ -11,6 +11,12 @@ import { LUXURY } from "@/lib/luxury-palette";
 
 interface Props {
   countries: CountryCardType[];
+  /** Override section heading (default: home.countriesTitle) */
+  title?: string;
+  /** Override section subtitle; pass empty string to hide */
+  subtitle?: string;
+  /** When false, render a flat grid without Europe/Asia banners */
+  showContinentSections?: boolean;
 }
 
 function ContinentSectionBanner({
@@ -78,7 +84,12 @@ function ContinentSectionBanner({
   );
 }
 
-export function CountriesGrid({ countries }: Props) {
+export function CountriesGrid({
+  countries,
+  title,
+  subtitle,
+  showContinentSections = true,
+}: Props) {
   const t = useTranslations("home");
   const tContinents = useTranslations("continents");
 
@@ -92,16 +103,24 @@ export function CountriesGrid({ countries }: Props) {
     [countries]
   );
 
+  const heading = title ?? t("countriesTitle");
+  const sub =
+    subtitle === undefined
+      ? `${countries.length} ${t("countriesCount")} · Tap a country to explore cities and landmarks`
+      : subtitle;
+
   return (
-    <section id="destinations" className="py-10 md:py-14 px-6" style={{ background: LUXURY.section }}>
+    <section className="py-10 md:py-14 px-6" style={{ background: LUXURY.section }}>
       <div className="container max-w-7xl mx-auto">
         <div className="mb-8">
           <h2 className="text-2xl md:text-3xl font-bold tracking-tight" style={{ color: LUXURY.text }}>
-            {t("countriesTitle")}
+            {heading}
           </h2>
-          <p className="text-sm mt-1.5" style={{ color: LUXURY.textMuted }}>
-            {countries.length} {t("countriesCount")} · Tap a country to explore cities and landmarks
-          </p>
+          {sub ? (
+            <p className="text-sm mt-1.5" style={{ color: LUXURY.textMuted }}>
+              {sub}
+            </p>
+          ) : null}
         </div>
 
         {countries.length === 0 ? (
@@ -110,6 +129,12 @@ export function CountriesGrid({ countries }: Props) {
             <p className="text-lg" style={{ color: LUXURY.textSecondary }}>
               {t("countriesEmpty")}
             </p>
+          </div>
+        ) : !showContinentSections ? (
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {countries.map((country, i) => (
+              <CountryCard key={country.slug} country={country} index={i} />
+            ))}
           </div>
         ) : (
           <>

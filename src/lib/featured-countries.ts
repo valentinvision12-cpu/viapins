@@ -49,5 +49,17 @@ export const FEATURED_COUNTRY_ORDER = [
   "Japan",
 ] as const;
 
-/** Hero quick-picks count */
-export const TOP_COUNTRIES_HOME = 6;
+/** Curated home “Featured” row — premium destinations, not the full catalog */
+export const HOME_FEATURED_COUNTRIES = [
+  "Italy",
+  "France",
+  "Spain",
+  "Japan",
+  "Greece",
+  "Portugal",
+  "United Kingdom",
+  "Germany",
+] as const;
+
+/** Hero quick-picks / featured count on home */
+export const TOP_COUNTRIES_HOME = 8;

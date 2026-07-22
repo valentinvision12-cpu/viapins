@@ -15,9 +15,12 @@
     "delete": "Eliminar",
     "edit": "Editar"
   },
+  "MyTrips": {
+    "title": "Mis Viajes"
+  },
   "nav": {
     "explore": "Explorar",
-    "myPassport": "Mis Lugares",
+    "myPassport": "Mis Viajes",
     "signIn": "Iniciar Sesión",
     "signOut": "Cerrar Sesión",
     "home": "Explorar",
@@ -139,7 +142,7 @@
     "carRequired": "Coche recomendado",
     "heroSubtitle": "Joyas ocultas, monumentos y maravillas naturales fuera de las ciudades.",
     "stops": "paradas",
-    "infoStrip": "Estos lugares están repartidos por el país — necesitas coche. Guarda tu ruta en My Passport.",
+    "infoStrip": "Estos lugares están repartidos por el país — necesitas coche. Guarda tu ruta en Mis Viajes.",
     "pickYourStops": "Elige tus paradas",
     "plannerTitle": "Ruta recomendada — visita en este orden",
     "plannerSubtitle": "Road trip de {days} días. Sigue los números para no perderte.",
@@ -315,9 +318,9 @@
     "discoverAnonymous": "Traveler",
     "collectionMakePublic": "Make public",
     "collectionMakePrivate": "Make private",
-    "title": "My Places",
+    "title": "Mis Viajes",
     "subtitle": "Your saved places and routes",
-    "metaTitle": "My Places",
+    "metaTitle": "Mis Viajes",
     "statsCountries": "Countries",
     "statsPlaces": "Saved",
     "statsRoutes": "Routes",

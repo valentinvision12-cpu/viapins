@@ -8,9 +8,9 @@ import { useTranslations } from "next-intl";
 import { motion } from "framer-motion";
 
 const NAV_ITEMS = [
-  { key: "explore", href: "/", icon: "Globe", labelKey: "home" },
-  { key: "route", icon: "MapPin", labelKey: "myRoute" },
-  { key: "saved", href: "/my-passport", icon: "Bookmark", labelKey: "myTrips" },
+  { key: "explore", href: "/", icon: "Globe", labelKey: "home", namespace: "nav" as const },
+  { key: "route", icon: "MapPin", labelKey: "myRoute", namespace: "nav" as const },
+  { key: "saved", href: "/my-passport", icon: "Bookmark", labelKey: "title", namespace: "MyTrips" as const },
 ] as const;
 
 function matchKey(pathname: string, key: string): boolean {
@@ -24,9 +24,14 @@ const ICON_MAP: Record<string, React.ElementType> = { Globe, MapPin, Bookmark };
 export function MobileBottomNav() {
   const pathname = usePathname();
   const { totalItems, openPanel } = useRouteCart();
-  const t = useTranslations("nav");
+  const tNav = useTranslations("nav");
+  const tTrips = useTranslations("MyTrips");
 
   if (pathname.includes("/my-passport")) return null;
+
+  function labelFor(item: (typeof NAV_ITEMS)[number]) {
+    return item.namespace === "MyTrips" ? tTrips(item.labelKey) : tNav(item.labelKey);
+  }
 
   return (
     <nav className="fixed inset-x-0 bottom-0 z-40 md:hidden">
@@ -37,6 +42,7 @@ export function MobileBottomNav() {
             const active = item.key === "route" ? false : matchKey(pathname, item.key);
             const showBadge = item.key === "route" && totalItems > 0;
             const Icon = ICON_MAP[item.icon];
+            const label = labelFor(item);
 
             if (item.key === "route") {
               return (
@@ -59,7 +65,7 @@ export function MobileBottomNav() {
                       </span>
                     )}
                   </div>
-                  <span className="text-[10px] font-medium leading-none">{t(item.labelKey)}</span>
+                  <span className="text-[10px] font-medium leading-none">{label}</span>
                 </button>
               );
             }
@@ -83,7 +89,7 @@ export function MobileBottomNav() {
                   className={`w-5 h-5 relative z-10 ${active ? "stroke-[2.5px]" : "stroke-[1.75px]"}`}
                 />
                 <span className={`text-[10px] font-medium relative z-10 leading-none ${active ? "font-semibold" : ""}`}>
-                  {t(item.labelKey)}
+                  {label}
                 </span>
               </Link>
             );

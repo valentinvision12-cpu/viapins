@@ -19,6 +19,7 @@ interface UserNavProps {
 
 export function UserNav({ dark = false }: UserNavProps) {
   const t = useTranslations("nav");
+  const tTrips = useTranslations("MyTrips");
   const [user, setUser] = useState<SupabaseUser | null>(null);
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
@@ -114,7 +115,7 @@ export function UserNav({ dark = false }: UserNavProps) {
               className="flex items-center gap-2.5 px-3.5 py-2.5 text-white/70 hover:text-white hover:bg-white/6 text-sm transition-colors"
             >
               <Briefcase className="w-3.5 h-3.5" />
-              {t("myPassport")}
+              {tTrips("title")}
               <NavTripBadge dark />
             </Link>
             <button

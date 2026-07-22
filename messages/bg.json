@@ -15,11 +15,26 @@
     "delete": "Изтрий",
     "edit": "Редактирай"
   },
+  "MyTrips": {
+    "title": "Моите пътувания",
+    "loginSubtitle": "Запази маршрути и места от Разгледай и Road trips — всичко на едно място.",
+    "featureSavePlaces": "Запазвай забележителности от градските гидове с едно докосване",
+    "featureTrackRoutes": "Запазвай градски маршрути и country road trips за по-късно",
+    "tabsTrips": "Запазени пътувания",
+    "tabsPlaces": "Запазени места",
+    "emptyTripsTitle": "Все още няма запазени пътувания",
+    "emptyTripsDesc": "Започни следващото пътуване. Разгледай градски гидове или открий живописни road trips.",
+    "emptyPlacesTitle": "Все още няма запазени места",
+    "emptyPlacesDesc": "Хареса ли ти забележителност? Докосни сърцето докато разглеждаш — появява се тук.",
+    "ctaExploreCities": "Разгледай градове",
+    "ctaDiscoverRoadTrips": "Открий road trips",
+    "ctaExplorePlaces": "Разгледай дестинации"
+  },
   "nav": {
     "explore": "Разгледай",
     "myPassport": "Моите пътувания",
     "myTrip": "Моите пътувания",
-    "myTrips": "Запазено",
+    "myTrips": "Моите пътувания",
     "myRoute": "Маршрут",
     "signIn": "Вход",
     "signOut": "Изход",
@@ -58,10 +73,14 @@
     "searchEmpty": "Нищо не е намерено — опитай друго име.",
     "searchTypeCountry": "Държава",
     "searchTypeCity": "Град",
-    "heroAdventuresCta": "Пътни приключения",
-    "heroAdventuresHint": "10 държави · автомобилни маршрути · скрити места",
+    "heroAdventuresCta": "Търсиш road trip? Виж приключенията",
+    "heroAdventuresHint": "Живописни спирки · маршрут по дни · отвори в Google Maps",
     "popularDestinations": "Популярни дестинации",
-    "trendingNow": "Разгледай градове"
+    "trendingNow": "Разгледай градове",
+    "featuredDestinationsTitle": "Топ дестинации",
+    "featuredDestinationsHint": "Подбрани държавни гидове, с които да започнеш",
+    "browseAllCountries": "Виж всички {count} държави",
+    "allDestinationsTitle": "Всички държави"
   },
   "language": {
     "selectLanguage": "Избери език",
@@ -154,6 +173,13 @@
     "defaultDescription": "Безплатни подбрани гидове за Европа и Азия. Разгледай топ забележителности в 50+ града, създавай GPS маршрути и запазвай любими места. Без приложение.",
     "separator": " | "
   },
+  "CountryExplore": {
+    "exploreModesTitle": "Как искаш да разгледаш {country}?",
+    "tabCityGuides": "Градски гидове",
+    "tabRoadTrip": "Road trip",
+    "roadTripIntro": "Остави стандартните спирки. Открий подбран маршрут с кола из държавата.",
+    "cityGuidesIntro": "Влез в градовете, забележителностите и пешеходните маршрути."
+  },
   "countryPage": {
     "pickCityTitle": "Избери град",
     "pickCityDesc": "Всеки град включва 10 подбрани забележителности със снимки, истории и проверени GPS координати.",
@@ -194,9 +220,9 @@
     "stickyShare": "Сподели"
   },
   "myTrip": {
-    "title": "Моите места",
+    "title": "Моите пътувания",
     "subtitle": "Запазени места и маршрути",
-    "metaTitle": "Моите места",
+    "metaTitle": "Моите пътувания",
     "statsCountries": "Държави",
     "statsPlaces": "Запазени",
     "statsRoutes": "Маршрути",
@@ -231,8 +257,8 @@
     "passportBioPlaceholder": "Твоята туристическа история започва тук — скоро ще добавиш кратко био.",
     "passportSectionsLabel": "Секции в паспорта",
     "passportTabPosts": "Публикации",
-    "passportTabTrips": "Пътувания",
-    "passportTabPlaces": "Места",
+    "passportTabTrips": "Запазени пътувания",
+    "passportTabPlaces": "Запазени места",
     "passportTabCollections": "Колекции",
     "passportTripsAll": "Всички",
     "passportTripsPlanning": "Планирани",
@@ -240,14 +266,14 @@
     "passportEmptyPostsTitle": "Все още няма публикации",
     "passportEmptyPostsDesc": "Сподели първия си туристически спомен — снимки, съвети и лична оценка, свързани с реално място.",
     "passportEmptyPostsCta": "Започни да разглеждаш",
-    "passportEmptyTripsTitle": "Нямаш пътувания? Започни да разглеждаш",
-    "passportEmptyTripsDesc": "Добавяй забележителности в маршрут, запази го и създай пълна туристическа история — дни, места и спомени в едно пътуване.",
-    "passportEmptyTripsCta": "Планирай пътуване",
+    "passportEmptyTripsTitle": "Все още няма запазени пътувания",
+    "passportEmptyTripsDesc": "Започни следващото пътуване. Разгледай градски гидове или открий живописни road trips.",
+    "passportEmptyTripsCta": "Разгледай градове",
     "passportEmptyTripsFilterTitle": "Няма нищо в този филтър",
     "passportEmptyTripsFilterDesc": "Опитай Всички, Планирани или Завършени — или създай нов маршрут докато разглеждаш.",
     "passportEmptyPlacesTitle": "Все още няма запазени места",
-    "passportEmptyPlacesDesc": "Докосни сърцето на забележителност, за да я запазиш тук — списъкът с мечти и открития.",
-    "passportEmptyPlacesCta": "Открий места",
+    "passportEmptyPlacesDesc": "Хареса ли ти забележителност? Докосни сърцето докато разглеждаш — появява се тук.",
+    "passportEmptyPlacesCta": "Разгледай дестинации",
     "passportEmptyCollectionsTitle": "Все още няма колекции",
     "passportEmptyCollectionsDesc": "Запазвай места в една държава и ще ги групираме в колекции, които можеш да споделяш и планираш.",
     "passportEmptyCollectionsCta": "Разгледай дестинации",
@@ -402,7 +428,7 @@
     "addShort": "Добави",
     "cartSave": "Запази",
     "cartSignInSave": "Влез и запази",
-    "cartSavedToTrip": "Запазено в Моите места!",
+    "cartSavedToTrip": "Запазено в Моите пътувания!",
     "cartClear": "Изчисти маршрута",
     "cartOpenMyTrip": "Отвори Моите пътувания →",
     "cartDayTitle": "Твоят ден в {city}",
@@ -432,6 +458,23 @@
     "metaTitle": "Хотели в {city}, {country}",
     "metaDescription": "Намерете място за нощувка в {city}. Подбран hotel search чрез travel partners."
   },
+  "adventuresHub": {
+    "metaTitle": "Road trip приключения по държави",
+    "metaDescription": "Пътувания с кола из държави с подбрани спирки. Търси по държава — нужна е кола.",
+    "badge": "ADVENTURE MODE",
+    "title": "Road Trip приключения",
+    "subtitle": "Избери държава — живописни спирки, маршрут по дни, GPS в Google Maps. Отделно от градските гидове.",
+    "searchPlaceholder": "Търси държава…",
+    "countriesCount": "държави с adventure маршрути",
+    "empty": "Няма приключения, които да съвпадат с търсенето.",
+    "stops": "спирки",
+    "days": "дни",
+    "backToCities": "← Обратно към градските гидове",
+    "featuredTitle": "Избрани road trips",
+    "featuredHint": "Маршрути, с които си струва да започнеш",
+    "allDestinationsTitle": "Всички държави",
+    "searchResultsTitle": "Резултати от търсенето"
+  },
   "adventureBanner": {
     "title": "{country} — пътуване с кола",
     "subtitle": "Живописни пътища извън градските гидове · отвори в Maps",
@@ -442,7 +485,7 @@
   },
   "favorites": {
     "nudgeTitle": "Запази {name}?",
-    "nudgeDesc": "Влез, за да го запазиш в Моите места завинаги",
+    "nudgeDesc": "Влез, за да го запазиш в Моите пътувания завинаги",
     "nudgeSignIn": "Вход"
   },
   "cityRelated": {

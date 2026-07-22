@@ -12,6 +12,7 @@ import { useEffect, useState } from "react";
 
 export function NavHeader() {
   const t = useTranslations("nav");
+  const tTrips = useTranslations("MyTrips");
   const pathname = usePathname();
   const [scrolled, setScrolled] = useState(false);
 
@@ -100,7 +101,7 @@ export function NavHeader() {
             )}
             style={linkStyle(isMyTrip)}
           >
-            {t("myPassport")}
+            {tTrips("title")}
             <NavTripBadge dark={dark} />
           </Link>
         </nav>
