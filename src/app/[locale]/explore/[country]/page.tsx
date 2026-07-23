@@ -25,6 +25,7 @@ import {
   getSiteUrl,
 } from "@/lib/seo";
 import { buildCountryJsonLd } from "@/lib/seo-schema";
+import { JsonLd } from "@/lib/schema/JsonLd";
 
 type Props = {
   params: Promise<{ locale: string; country: string }>;
@@ -97,7 +98,7 @@ export default async function ExploreCountryPage({ params }: Props) {
   if (!country || !data) notFound();
 
   const adventurePlaces = adventure
-    ? filterPlacesForDisplay(adventure.places)
+    ? filterPlacesForDisplay(adventure.places, adventure.country || country.country)
     : [];
   const showAdventure = adventurePlaces.length > 0;
   const adventureCover =
@@ -152,10 +153,7 @@ export default async function ExploreCountryPage({ params }: Props) {
 
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
+      <JsonLd data={jsonLd} />
 
       <NavHeader />
 

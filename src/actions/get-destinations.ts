@@ -15,7 +15,13 @@ import {
   getCountryDisplayName,
 } from "@/lib/country-meta";
 import { getCountryContinent, type Continent } from "@/lib/country-continents";
-import { pickCityCoverFromPlaces, pickCountryCoversFromCities } from "@/lib/city-cover";
+import {
+  blankDuplicatePlaceImages,
+  filterPlacesForDisplay,
+  filterPlacesWithPhoto,
+  pickCityCoverFromPlaces,
+  pickCountryCoversFromCities,
+} from "@/lib/city-cover";
 import { isBadImageUrl } from "@/lib/wiki-image";
 import type { DestinationSeo } from "@/lib/seo";
 
@@ -101,7 +107,7 @@ const DESTINATION_LIST_LIGHT = `
 
 const DESTINATION_LIST_WITH_COVERS = `
   id, city, country, tags, cover_image, place_count, country_slug, city_slug,
-  places(image_url, order_index)
+  places(name, image_url, lat, lng, order_index)
 `;
 
 const DESTINATION_LIST_LIGHT_NO_SLUG = `
@@ -110,12 +116,12 @@ const DESTINATION_LIST_LIGHT_NO_SLUG = `
 
 const DESTINATION_LIST_LEGACY_NESTED = `
   id, city, country, tags, cover_image,
-  places(id, name, image_url, order_index)
+  places(id, name, image_url, lat, lng, order_index)
 `;
 
 const DESTINATION_LIST_LEGACY_MIN = `
   id, city, country, tags,
-  places(id, name, image_url, order_index)
+  places(id, name, image_url, lat, lng, order_index)
 `;
 
 const DESTINATION_DETAIL_SELECT = `
@@ -172,18 +178,41 @@ function isWeakCoverUrl(url: string): boolean {
   return false;
 }
 
+function placeDescription(place: {
+  translations?: Record<string, { description?: string }>;
+}): string | undefined {
+  return (
+    place.translations?.en?.description ||
+    place.translations?.bg?.description ||
+    undefined
+  );
+}
+
 function toDestinationCard(dest: DestRow): DestinationCard {
   const places = dest.places ?? [];
+  const displayPlaces = filterPlacesForDisplay(
+    places.map((p) => ({
+      ...p,
+      lat: p.lat ?? 0,
+      lng: p.lng ?? 0,
+      description: placeDescription(p),
+    })),
+    dest.country
+  );
   const storedCover = dest.cover_image?.trim() ?? "";
-  const fromPlaces = pickCityCoverFromPlaces(places);
+  const fromPlaces = pickCityCoverFromPlaces(
+    filterPlacesWithPhoto(displayPlaces, dest.country)
+  );
   // Prefer a real landmark photo over destination.cover_image (often stale/404).
   const coverImage =
     fromPlaces ||
     (storedCover && !isWeakCoverUrl(storedCover) ? storedCover : "");
   const placeCount =
-    typeof dest.place_count === "number" && dest.place_count > 0
-      ? dest.place_count
-      : places.length;
+    displayPlaces.length > 0
+      ? displayPlaces.length
+      : typeof dest.place_count === "number" && dest.place_count > 0
+        ? dest.place_count
+        : places.length;
 
   return {
     id: dest.id,
@@ -200,9 +229,21 @@ function toDestinationCard(dest: DestRow): DestinationCard {
 }
 
 function toDestinationDetail(dest: DestRow): DestinationDetail {
-  const places = (dest.places ?? []) as DestinationDetail["places"];
+  const rawPlaces = (dest.places ?? []) as DestinationDetail["places"];
+  const places = blankDuplicatePlaceImages(
+    filterPlacesForDisplay(
+      rawPlaces.map((p) => ({
+        ...p,
+        description: placeDescription(p),
+        country: dest.country,
+      })),
+      dest.country
+    )
+  ).sort((a, b) => a.order_index - b.order_index);
   const storedCover = dest.cover_image?.trim() ?? "";
-  const fromPlaces = pickCityCoverFromPlaces(places);
+  const fromPlaces = pickCityCoverFromPlaces(
+    filterPlacesWithPhoto(places, dest.country)
+  );
   const coverImage =
     fromPlaces ||
     (storedCover && !isWeakCoverUrl(storedCover) ? storedCover : "");
@@ -213,7 +254,7 @@ function toDestinationDetail(dest: DestRow): DestinationDetail {
     tags: dest.tags ?? [],
     coverImage,
     seo: dest.seo ?? {},
-    places: [...places].sort((a, b) => a.order_index - b.order_index),
+    places,
   };
 }
 
@@ -275,7 +316,7 @@ export async function getPublishedDestinations(): Promise<DestinationCard[]> {
 
 const getCachedPublishedDestinations = unstable_cache(
   async () => getPublishedDestinations(),
-  ["published-destinations-v4"],
+  ["published-destinations-v5"],
   { revalidate: 60, tags: ["destinations"] }
 );
 
@@ -306,7 +347,7 @@ export async function getDestinationByCityCountry(
 const getCachedDestinationBySlugs = unstable_cache(
   async (countrySlug: string, citySlug: string) =>
     fetchDestinationByCityCountry(countrySlug, citySlug),
-  ["destination-by-slugs-v4"],
+  ["destination-by-slugs-v6"],
   { revalidate: 60, tags: ["destinations"] }
 );
 

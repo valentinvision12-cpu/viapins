@@ -10,6 +10,7 @@ import { getDemoDestination, type DemoDestination } from "@/lib/demo-data";
 import {
   filterPlacesForDisplay,
   filterPlacesWithPhoto,
+  blankDuplicatePlaceImages,
   pickCityCoverFromPlaces,
   resolveCityCoverFromDb,
 } from "@/lib/city-cover";
@@ -23,6 +24,7 @@ import { AdventureLinkBanner } from "@/components/public/adventure-link-banner";
 import { CityRelated } from "@/components/public/city-related";
 import { buildCitySeo, buildCityPageUrl, buildLocaleAlternates, getSiteUrl } from "@/lib/seo";
 import { buildCityJsonLd } from "@/lib/seo-schema";
+import { JsonLd } from "@/lib/schema/JsonLd";
 import { SITE_NAME } from "@/lib/site-brand";
 import { hasAdventureMode } from "@/lib/adventure-data";
 
@@ -128,11 +130,12 @@ export default async function ExploreCityPage({ params }: Props) {
 
   if ("wiki_title" in rawDestination) {
     const demo = rawDestination as DemoDestination;
-    const countryName = demo.country;
-    const places = filterPlacesForDisplay(demo.places);
+    const places = blankDuplicatePlaceImages(
+      filterPlacesForDisplay(demo.places, demo.country)
+    );
     const resolvedHero =
       demo.cityImage ||
-      pickCityCoverFromPlaces(filterPlacesWithPhoto(demo.places)) ||
+      pickCityCoverFromPlaces(filterPlacesWithPhoto(places, demo.country)) ||
       "";
 
     destination = { ...demo, cityImage: resolvedHero, places };
@@ -140,14 +143,16 @@ export default async function ExploreCityPage({ params }: Props) {
   } else {
     const dbDest = rawDestination as DestinationDetail;
     const resolvedPlaces = await ensurePlacesHaveImages(
-      filterPlacesForDisplay(dbDest.places),
+      blankDuplicatePlaceImages(
+        filterPlacesForDisplay(dbDest.places, dbDest.country)
+      ),
       dbDest.city,
       dbDest.country
     );
     destination = { ...dbDest, places: resolvedPlaces };
     heroImage = resolveCityCoverFromDb(
       dbDest.coverImage,
-      filterPlacesWithPhoto(resolvedPlaces)
+      filterPlacesWithPhoto(resolvedPlaces, dbDest.country)
     );
   }
 
@@ -175,10 +180,7 @@ export default async function ExploreCityPage({ params }: Props) {
 
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
+      <JsonLd data={jsonLd} />
 
       <NavHeader />
 

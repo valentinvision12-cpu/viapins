@@ -62,10 +62,10 @@
           ]
         },
         {
-          "name": "Monte Carlo",
+          "name": "Opera de Monte-Carlo",
           "wiki_title": "Monte Carlo",
-          "lat": 43.73972222,
-          "lng": 7.42722222,
+          "lat": 43.7386,
+          "lng": 7.4286,
           "order_index": 1,
           "description": "Monte Carlo — a notable landmark in Monte Carlo, Monaco.",
           "seo_phrase": "Monte Carlo",
@@ -75,7 +75,7 @@
             "travel"
           ],
           "commons_file": "da/Panorama von Monaco-La Turbie.jpg/800px-Panorama von Monaco-La Turbie.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Panorama_von_Monaco-La_Turbie.jpg/800px-Panorama_von_Monaco-La_Turbie.jpg",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "informational",
@@ -89,7 +89,15 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Opera house adjacent to the casino.",
+              "wiki_title": "Opéra de Monte-Carlo",
+              "maps_query": "Opera de Monte-Carlo, Monte Carlo",
+              "maps_url": ""
+            }
+          }
         },
         {
           "name": "Monaco-Ville",
@@ -1423,10 +1431,10 @@
       },
       "places": [
         {
-          "name": "Jardin Exotique",
+          "name": "Exotic Garden of Monaco",
           "wiki_title": "Jardin Exotique, Monaco",
-          "lat": 43.73138889,
-          "lng": 7.41388889,
+          "lat": 43.7314,
+          "lng": 7.4139,
           "order_index": 0,
           "description": "Jardin Exotique, Monaco — a notable landmark in Monaco-Ville, Monaco.",
           "seo_phrase": "Jardin Exotique",
@@ -1450,7 +1458,15 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Cliffside botanical garden overlooking Monaco.",
+              "wiki_title": "Jardin Exotique de Monaco",
+              "maps_query": "Jardin Exotique de Monaco",
+              "maps_url": ""
+            }
+          }
         },
         {
           "name": "Jardin Exotique de Monaco",
