@@ -22,7 +22,8 @@ import { CityProgress } from "@/components/public/city-progress";
 import { AdventureLinkBanner } from "@/components/public/adventure-link-banner";
 import { CityRelated } from "@/components/public/city-related";
 import { buildCitySeo, buildCityPageUrl, buildLocaleAlternates, getSiteUrl } from "@/lib/seo";
-import { buildCityJsonLd } from "@/lib/seo-schema";
+import { JsonLd } from "@/lib/schema/JsonLd";
+import { generateSchema, buildCityFaqs } from "@/lib/schema";
 import { SITE_NAME } from "@/lib/site-brand";
 import { hasAdventureMode } from "@/lib/adventure-data";
 
@@ -160,7 +161,7 @@ export default async function ExploreCityPage({ params }: Props) {
     topPlaceNames: destination.places.map((p) => p.name),
   });
 
-  const jsonLd = buildCityJsonLd({
+  const jsonLd = generateSchema("city", {
     city: destination.city,
     country: destination.country,
     locale,
@@ -170,15 +171,33 @@ export default async function ExploreCityPage({ params }: Props) {
     description: seo.description,
     intro: seo.intro,
     keywords: seo.keywords,
-    places: destination.places,
-  });
+    places: destination.places.map((place) => {
+      const withMeta = place as typeof place & {
+        category?: string;
+        type?: string;
+        tags?: string[];
+        slug?: string;
+      };
+      return {
+        id: place.id,
+        name: place.name,
+        slug: withMeta.slug,
+        lat: place.lat,
+        lng: place.lng,
+        image_url: place.image_url,
+        translations: place.translations,
+        seoKeywords: place.translations?.en?.seo_keywords,
+        category: withMeta.category ?? withMeta.type,
+        type: withMeta.type,
+        tags: withMeta.tags,
+      };
+    }),
+    faqs: buildCityFaqs(destination.city, destination.country),
+  }).jsonLd;
 
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
+      <JsonLd data={jsonLd} />
 
       <NavHeader />
 
