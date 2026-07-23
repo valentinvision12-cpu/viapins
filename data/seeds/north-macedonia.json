@@ -1002,10 +1002,10 @@
           "maps_query": "Музеј на христијанската и муслиманската култура, Bitola, North Macedonia"
         },
         {
-          "name": "Battle of Setina",
+          "name": "Heraclea Lyncestis",
           "wiki_title": "Battle of Setina",
-          "lat": 40.86666667,
-          "lng": 21.61666667,
+          "lat": 41.011,
+          "lng": 21.342,
           "order_index": 8,
           "description": "Battle of Setina — a notable landmark in Bitola, North Macedonia.",
           "seo_phrase": "Battle of Setina",
@@ -1015,7 +1015,7 @@
             "travel"
           ],
           "commons_file": "34/John Harris Valda - Basil II at battle near Setania (Setina) in 1017.jpg/800px-John Harris Valda - Basil II at battle near Setania (Setina) in 1017.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/John_Harris_Valda_-_Basil_II_at_battle_near_Setania_%28Setina%29_in_1017.jpg/800px-John_Harris_Valda_-_Basil_II_at_battle_near_Setania_%28Setina%29_in_1017.jpg",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "informational",
@@ -1029,7 +1029,15 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Ancient archaeological site near Bitola.",
+              "wiki_title": "Heraclea Lyncestis",
+              "maps_query": "Heraclea Lyncestis, Bitola",
+              "maps_url": ""
+            }
+          }
         },
         {
           "name": "Музеј на Битола",
@@ -1119,10 +1127,10 @@
           "maps_query": "Црква \"Пресвета Богородица\", Gostivar, North Macedonia"
         },
         {
-          "name": "Popova Shapka",
+          "name": "Vardar Spring Area Gostivar",
           "wiki_title": "Popova Shapka",
-          "lat": 42.0133337,
-          "lng": 20.887997,
+          "lat": 41.7985,
+          "lng": 20.9105,
           "order_index": 1,
           "description": "Popova Shapka is a visitor landmark in Gostivar, North Macedonia.",
           "seo_phrase": "Popova Shapka in Gostivar",
@@ -1131,7 +1139,7 @@
             "Gostivar",
             "North Macedonia"
           ],
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Skopska_Crna_Gora-MKD.JPG/800px-Skopska_Crna_Gora-MKD.JPG",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "informational",
@@ -1146,13 +1154,21 @@
           ],
           "visit_duration_hours": 1,
           "nearby_places": [],
-          "maps_query": "Popova Shapka, Gostivar, North Macedonia"
+          "maps_query": "Popova Shapka, Gostivar, North Macedonia",
+          "translations": {
+            "en": {
+              "description": "Upper Vardar riverfront walks near Gostivar.",
+              "wiki_title": "Gostivar",
+              "maps_query": "Vardar River, Gostivar",
+              "maps_url": ""
+            }
+          }
         },
         {
-          "name": "Tetovo",
+          "name": "Gostivar City Park",
           "wiki_title": "Tetovo",
-          "lat": 42,
-          "lng": 20.96666667,
+          "lat": 41.7958,
+          "lng": 20.9098,
           "order_index": 2,
           "description": "Tetovo — a notable landmark in Gostivar, North Macedonia.",
           "seo_phrase": "Tetovo",
@@ -1162,7 +1178,7 @@
             "travel"
           ],
           "commons_file": "e2/20090715 Tetovo view from the mountain.jpg/800px-20090715 Tetovo view from the mountain.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20090715_Tetovo_view_from_the_mountain.jpg/800px-20090715_Tetovo_view_from_the_mountain.jpg",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "informational",
@@ -1176,13 +1192,21 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Green park near the center of Gostivar.",
+              "wiki_title": "Gostivar",
+              "maps_query": "City Park, Gostivar",
+              "maps_url": ""
+            }
+          }
         },
         {
-          "name": "Kičevo",
+          "name": "Clock Tower Gostivar",
           "wiki_title": "Kičevo",
-          "lat": 41.51777778,
-          "lng": 20.96555556,
+          "lat": 41.7972,
+          "lng": 20.9072,
           "order_index": 3,
           "description": "Kičevo — a notable landmark in Gostivar, North Macedonia.",
           "seo_phrase": "Kičevo",
@@ -1192,7 +1216,7 @@
             "travel"
           ],
           "commons_file": "b1/Kicevo 11-08-2006.jpg/800px-Kicevo 11-08-2006.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kicevo_11-08-2006.jpg/800px-Kicevo_11-08-2006.jpg",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "informational",
@@ -1206,13 +1230,21 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Local clock tower landmark in Gostivar.",
+              "wiki_title": "Gostivar",
+              "maps_query": "Clock Tower, Gostivar",
+              "maps_url": ""
+            }
+          }
         },
         {
-          "name": "Debar",
+          "name": "Gostivar Town Square",
           "wiki_title": "Debar",
-          "lat": 41.51666667,
-          "lng": 20.53333333,
+          "lat": 41.7965,
+          "lng": 20.9085,
           "order_index": 4,
           "description": "Debar — a notable landmark in Gostivar, North Macedonia.",
           "seo_phrase": "Debar",
@@ -1222,7 +1254,7 @@
             "travel"
           ],
           "commons_file": "93/Debar.jpg/800px-Debar.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Debar.jpg/800px-Debar.jpg",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "informational",
@@ -1236,7 +1268,15 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Central square and meeting point in Gostivar.",
+              "wiki_title": "Gostivar",
+              "maps_query": "Main Square, Gostivar",
+              "maps_url": ""
+            }
+          }
         },
         {
           "name": "Saint Jovan Bigorski Monastery",
@@ -1299,10 +1339,10 @@
           "nearby_places": []
         },
         {
-          "name": "Lešok Monastery",
+          "name": "Church of St. Demetrius Gostivar",
           "wiki_title": "Lešok Monastery",
-          "lat": 42.06388889,
-          "lng": 21.03277778,
+          "lat": 41.7968,
+          "lng": 20.9112,
           "order_index": 7,
           "description": "Lešok Monastery — a notable landmark in Gostivar, North Macedonia.",
           "seo_phrase": "Lešok Monastery",
@@ -1312,7 +1352,7 @@
             "travel"
           ],
           "commons_file": "dc/Lešočki na esen (4).JPG/800px-Lešočki na esen (4).JPG",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Le%C5%A1o%C4%8Dki_na_esen_%284%29.JPG/800px-Le%C5%A1o%C4%8Dki_na_esen_%284%29.JPG",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "informational",
@@ -1326,7 +1366,15 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Important Orthodox church in Gostivar.",
+              "wiki_title": "Gostivar",
+              "maps_query": "St Demetrius Church, Gostivar",
+              "maps_url": ""
+            }
+          }
         },
         {
           "name": "Mavrovi Anovi",
@@ -1414,10 +1462,10 @@
       },
       "places": [
         {
-          "name": "Štip",
+          "name": "Church of St. Nicholas Veles",
           "wiki_title": "Štip",
-          "lat": 41.73750278,
-          "lng": 22.19355833,
+          "lat": 41.7162,
+          "lng": 21.7741,
           "order_index": 0,
           "description": "Štip — a notable landmark in Veles, North Macedonia.",
           "seo_phrase": "Štip",
@@ -1427,7 +1475,7 @@
             "travel"
           ],
           "commons_file": "e9/Štip 23.JPG/800px-Štip 23.JPG",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/%C5%A0tip_23.JPG/800px-%C5%A0tip_23.JPG",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "informational",
@@ -1441,13 +1489,21 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Historic Orthodox church in the old quarter of Veles.",
+              "wiki_title": "Veles, North Macedonia",
+              "maps_query": "St Nicholas Church, Veles",
+              "maps_url": ""
+            }
+          }
         },
         {
-          "name": "Tauresium",
+          "name": "Fortress Hill Veles",
           "wiki_title": "Tauresium",
-          "lat": 41.89805556,
-          "lng": 21.61138889,
+          "lat": 41.7175,
+          "lng": 21.7732,
           "order_index": 1,
           "description": "Tauresium — a notable landmark in Veles, North Macedonia.",
           "seo_phrase": "Tauresium",
@@ -1457,7 +1513,7 @@
             "travel"
           ],
           "commons_file": "f7/Tauresium, Macedonia2.JPG/800px-Tauresium, Macedonia2.JPG",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Tauresium%2C_Macedonia2.JPG/800px-Tauresium%2C_Macedonia2.JPG",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "informational",
@@ -1471,22 +1527,30 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Viewpoint and historic fortification site above Veles.",
+              "wiki_title": "Veles, North Macedonia",
+              "maps_query": "Kale, Veles, North Macedonia",
+              "maps_url": ""
+            }
+          }
         },
         {
-          "name": "Kilkis",
-          "wiki_title": "Kilkis",
-          "lat": 40.9937,
-          "lng": 22.875,
+          "name": "International Palace",
+          "wiki_title": "International Palace",
+          "lat": 41.7169825,
+          "lng": 21.7820478,
           "order_index": 2,
-          "description": "Kilkis — a notable landmark in Veles, North Macedonia.",
-          "seo_phrase": "Kilkis",
+          "description": "International Palace is a visitor landmark in Veles, North Macedonia.",
+          "seo_phrase": "International Palace in Veles",
           "seo_keywords": [
+            "International Palace",
             "Veles",
             "North Macedonia",
             "travel"
           ],
-          "commons_file": "00/White Kilkis.jpg/800px-White Kilkis.jpg",
           "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/White_Kilkis.jpg/800px-White_Kilkis.jpg",
           "seo_priority": 85,
           "search_intent": [
@@ -1501,13 +1565,14 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "maps_query": "International Palace, Veles, North Macedonia"
         },
         {
-          "name": "Battle of Krivolak",
+          "name": "Veles Clock Tower",
           "wiki_title": "Battle of Krivolak",
-          "lat": 41.5272,
-          "lng": 22.1208,
+          "lat": 41.715,
+          "lng": 21.775,
           "order_index": 3,
           "description": "Battle of Krivolak — a notable landmark in Veles, North Macedonia.",
           "seo_phrase": "Battle of Krivolak",
@@ -1517,7 +1582,7 @@
             "travel"
           ],
           "commons_file": "7a/French soldiers-salonika-1915.jpg/800px-French soldiers-salonika-1915.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/French_soldiers-salonika-1915.jpg/800px-French_soldiers-salonika-1915.jpg",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "informational",
@@ -1531,22 +1596,30 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Historic clock tower overlooking Veles.",
+              "wiki_title": "Veles, North Macedonia",
+              "maps_query": "Veles Clock Tower, Veles",
+              "maps_url": ""
+            }
+          }
         },
         {
-          "name": "Transportation Center Skopje",
-          "wiki_title": "Transportation Center Skopje",
-          "lat": 41.9909,
-          "lng": 21.4465,
+          "name": "Стар Мост",
+          "wiki_title": "Стар Мост",
+          "lat": 41.7121791,
+          "lng": 21.7850341,
           "order_index": 4,
-          "description": "Transportation Center Skopje — a notable landmark in Veles, North Macedonia.",
-          "seo_phrase": "Transportation Center Skopje",
+          "description": "Стар Мост is a visitor landmark in Veles, North Macedonia.",
+          "seo_phrase": "Стар Мост in Veles",
           "seo_keywords": [
+            "Стар Мост",
             "Veles",
             "North Macedonia",
             "travel"
           ],
-          "commons_file": "Skopje Train Station from Mount Vodno.JPG",
           "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Skopje_Train_Station_from_Mount_Vodno.JPG",
           "seo_priority": 85,
           "search_intent": [
@@ -1561,7 +1634,8 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "maps_query": "Стар Мост, Veles, North Macedonia"
         },
         {
           "name": "Veles railway station",
@@ -1594,10 +1668,10 @@
           "nearby_places": []
         },
         {
-          "name": "Veles",
+          "name": "Veles Old Bazaar",
           "wiki_title": "Veles, North Macedonia",
-          "lat": 41.72,
-          "lng": 21.79333333,
+          "lat": 41.7158,
+          "lng": 21.7758,
           "order_index": 6,
           "description": "Veles, North Macedonia — a notable landmark in Veles, North Macedonia.",
           "seo_phrase": "Veles",
@@ -1607,7 +1681,7 @@
             "travel"
           ],
           "commons_file": "e9/Veles X17.jpg/800px-Veles X17.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Veles_X17.jpg/800px-Veles_X17.jpg",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "informational",
@@ -1621,13 +1695,21 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Traditional streets and shops in the historic center.",
+              "wiki_title": "Veles, North Macedonia",
+              "maps_query": "Old Bazaar, Veles, North Macedonia",
+              "maps_url": ""
+            }
+          }
         },
         {
-          "name": "Prilep",
+          "name": "Clock Tower Veles",
           "wiki_title": "Prilep",
-          "lat": 41.34444444,
-          "lng": 21.55277778,
+          "lat": 41.7155,
+          "lng": 21.7752,
           "order_index": 7,
           "description": "Prilep — a notable landmark in Veles, North Macedonia.",
           "seo_phrase": "Prilep",
@@ -1637,7 +1719,7 @@
             "travel"
           ],
           "commons_file": "bb/Panorama of Prilep, 2019.jpg/800px-Panorama of Prilep, 2019.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Panorama_of_Prilep%2C_2019.jpg/800px-Panorama_of_Prilep%2C_2019.jpg",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "informational",
@@ -1651,13 +1733,21 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Ottoman-era clock tower above the old town of Veles.",
+              "wiki_title": "Veles, North Macedonia",
+              "maps_query": "Clock Tower, Veles, North Macedonia",
+              "maps_url": ""
+            }
+          }
         },
         {
-          "name": "Vardar",
+          "name": "Veles Riverside Promenade",
           "wiki_title": "Vardar",
-          "lat": 41.94083333,
-          "lng": 22.7175,
+          "lat": 41.7148,
+          "lng": 21.7765,
           "order_index": 8,
           "description": "Vardar — a notable landmark in Veles, North Macedonia.",
           "seo_phrase": "Vardar",
@@ -1667,7 +1757,7 @@
             "travel"
           ],
           "commons_file": "8d/Vardar Skopje 2.jpg/800px-Vardar Skopje 2.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Vardar_Skopje_2.jpg/800px-Vardar_Skopje_2.jpg",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "informational",
@@ -1681,13 +1771,21 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Walkway along the Vardar River through central Veles.",
+              "wiki_title": "Veles, North Macedonia",
+              "maps_query": "Vardar Promenade, Veles",
+              "maps_url": ""
+            }
+          }
         },
         {
-          "name": "Kumanovo",
+          "name": "Memorial Ossuary Veles",
           "wiki_title": "Kumanovo",
-          "lat": 42.13583333,
-          "lng": 21.71805556,
+          "lat": 41.7135,
+          "lng": 21.7802,
           "order_index": 9,
           "description": "Kumanovo — a notable landmark in Veles, North Macedonia.",
           "seo_phrase": "Kumanovo",
@@ -1697,7 +1795,7 @@
             "travel"
           ],
           "commons_file": "20/Куманово.jpg/800px-Куманово.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%D0%9A%D1%83%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE.jpg/800px-%D0%9A%D1%83%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE.jpg",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "informational",
@@ -1711,7 +1809,15 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Hilltop WWII memorial overlooking Veles.",
+              "wiki_title": "Veles, North Macedonia",
+              "maps_query": "Memorial Ossuary, Veles",
+              "maps_url": ""
+            }
+          }
         }
       ]
     },
@@ -1769,19 +1875,19 @@
           "nearby_places": []
         },
         {
-          "name": "Vinica",
-          "wiki_title": "Vinica, North Macedonia",
-          "lat": 41.86666667,
-          "lng": 22.5,
+          "name": "Museum Teracotta",
+          "wiki_title": "Museum Teracotta",
+          "lat": 41.8841902,
+          "lng": 22.5049622,
           "order_index": 1,
-          "description": "Vinica, North Macedonia — a notable landmark in Vinica, North Macedonia.",
-          "seo_phrase": "Vinica",
+          "description": "Museum Teracotta is a visitor landmark in Vinica, North Macedonia.",
+          "seo_phrase": "Museum Teracotta in Vinica",
           "seo_keywords": [
+            "Museum Teracotta",
             "Vinica",
             "North Macedonia",
             "travel"
           ],
-          "commons_file": "37/Makedonij.JPG/800px-Makedonij.JPG",
           "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Makedonij.JPG/800px-Makedonij.JPG",
           "seo_priority": 85,
           "search_intent": [
@@ -1796,13 +1902,14 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "maps_query": "Museum Teracotta, Vinica, North Macedonia"
         },
         {
-          "name": "Delčevo",
+          "name": "Vinica Culture House",
           "wiki_title": "Delčevo",
-          "lat": 41.96666667,
-          "lng": 22.76666667,
+          "lat": 41.8829,
+          "lng": 22.5098,
           "order_index": 2,
           "description": "Delčevo — a notable landmark in Vinica, North Macedonia.",
           "seo_phrase": "Delčevo",
@@ -1812,7 +1919,7 @@
             "travel"
           ],
           "commons_file": "96/Grad Delcevo.JPG/800px-Grad Delcevo.JPG",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Grad_Delcevo.JPG/800px-Grad_Delcevo.JPG",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "informational",
@@ -1826,7 +1933,15 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Local cultural center hosting events and exhibitions.",
+              "wiki_title": "Vinica, North Macedonia",
+              "maps_query": "Culture House, Vinica, North Macedonia",
+              "maps_url": ""
+            }
+          }
         },
         {
           "name": "Jakimovo",
@@ -1889,19 +2004,19 @@
           "nearby_places": []
         },
         {
-          "name": "Lake Prespa",
-          "wiki_title": "Lake Prespa",
-          "lat": 40.9,
-          "lng": 21.03333333,
+          "name": "Destroyed Unknown Monument",
+          "wiki_title": "Destroyed Unknown Monument",
+          "lat": 41.8698611,
+          "lng": 22.5259342,
           "order_index": 5,
-          "description": "Lake Prespa — a notable landmark in North Macedonia, North Macedonia.",
-          "seo_phrase": "Lake Prespa",
+          "description": "Destroyed Unknown Monument is a visitor landmark in Vinica, North Macedonia.",
+          "seo_phrase": "Destroyed Unknown Monument in Vinica",
           "seo_keywords": [
-            "North Macedonia",
+            "Destroyed Unknown Monument",
+            "Vinica",
             "North Macedonia",
             "travel"
           ],
-          "commons_file": "5f/Liqeni Prespes. Ishulli Mali Gradit. Korce. Albania.jpg/800px-Liqeni Prespes. Ishulli Mali Gradit. Korce. Albania.jpg",
           "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Liqeni_Prespes._Ishulli_Mali_Gradit._Korce._Albania.jpg/800px-Liqeni_Prespes._Ishulli_Mali_Gradit._Korce._Albania.jpg",
           "seo_priority": 85,
           "search_intent": [
@@ -1916,13 +2031,14 @@
             "winter"
           ],
           "visit_duration_hours": 3,
-          "nearby_places": []
+          "nearby_places": [],
+          "maps_query": "Destroyed Unknown Monument, Vinica, North Macedonia"
         },
         {
-          "name": "Prosek",
+          "name": "Vinica City Park",
           "wiki_title": "Prosek, North Macedonia",
-          "lat": 41.4008,
-          "lng": 22.2634,
+          "lat": 41.8826,
+          "lng": 22.5078,
           "order_index": 6,
           "description": "Prosek, North Macedonia — a notable landmark in North Macedonia, North Macedonia.",
           "seo_phrase": "Prosek",
@@ -1932,7 +2048,7 @@
             "travel"
           ],
           "commons_file": "32/Prosek.png/800px-Prosek.png",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Prosek.png/800px-Prosek.png",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "informational",
@@ -1946,13 +2062,21 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Central green space and walking paths in Vinica.",
+              "wiki_title": "Vinica, North Macedonia",
+              "maps_query": "City Park, Vinica, North Macedonia",
+              "maps_url": ""
+            }
+          }
         },
         {
-          "name": "Museum of the Republic of North Macedonia",
+          "name": "Vinica Town Square",
           "wiki_title": "Museum of the Republic of North Macedonia",
-          "lat": 42.0025,
-          "lng": 21.43583333,
+          "lat": 41.8831,
+          "lng": 22.5091,
           "order_index": 7,
           "description": "Museum of the Republic of North Macedonia — a notable landmark in North Macedonia, North Macedonia.",
           "seo_phrase": "Museum of the Republic of North Macedonia",
@@ -1962,7 +2086,7 @@
             "travel"
           ],
           "commons_file": "89/Museum of Macedonia 1.jpg/800px-Museum of Macedonia 1.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Museum_of_Macedonia_1.jpg/800px-Museum_of_Macedonia_1.jpg",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "informational",
@@ -1976,13 +2100,21 @@
             "winter"
           ],
           "visit_duration_hours": 2,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Main square and civic heart of Vinica.",
+              "wiki_title": "Vinica, North Macedonia",
+              "maps_query": "Main Square, Vinica, North Macedonia",
+              "maps_url": ""
+            }
+          }
         },
         {
-          "name": "National Gallery (North Macedonia)",
+          "name": "Church of the Holy Trinity Vinica",
           "wiki_title": "National Gallery (North Macedonia)",
-          "lat": 41.9986,
-          "lng": 21.4356,
+          "lat": 41.8842,
+          "lng": 22.5115,
           "order_index": 8,
           "description": "National Gallery (North Macedonia) — a notable landmark in North Macedonia, North Macedonia.",
           "seo_phrase": "National Gallery (North Macedonia)",
@@ -1992,7 +2124,7 @@
             "travel"
           ],
           "commons_file": "58/Daut Pasha Hamam.jpg/800px-Daut Pasha Hamam.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Daut_Pasha_Hamam.jpg/800px-Daut_Pasha_Hamam.jpg",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "informational",
@@ -2006,13 +2138,21 @@
             "winter"
           ],
           "visit_duration_hours": 2,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Local Orthodox church and neighborhood landmark in Vinica.",
+              "wiki_title": "Vinica, North Macedonia",
+              "maps_query": "Holy Trinity Church, Vinica, North Macedonia",
+              "maps_url": ""
+            }
+          }
         },
         {
-          "name": "Mogila",
+          "name": "Goce Delčev Monument Vinica",
           "wiki_title": "Mogila, North Macedonia",
-          "lat": 41.10805556,
-          "lng": 21.37833333,
+          "lat": 41.8822,
+          "lng": 22.5082,
           "order_index": 9,
           "description": "Mogila, North Macedonia — a notable landmark in North Macedonia, North Macedonia.",
           "seo_phrase": "Mogila",
@@ -2022,7 +2162,7 @@
             "travel"
           ],
           "commons_file": "68/Камбанарија Могила 09.JPG/800px-Камбанарија Могила 09.JPG",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/%D0%9A%D0%B0%D0%BC%D0%B1%D0%B0%D0%BD%D0%B0%D1%80%D0%B8%D1%98%D0%B0_%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D0%B0_09.JPG/800px-%D0%9A%D0%B0%D0%BC%D0%B1%D0%B0%D0%BD%D0%B0%D1%80%D0%B8%D1%98%D0%B0_%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D0%B0_09.JPG",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "informational",
@@ -2036,7 +2176,15 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Central memorial dedicated to Goce Delčev in Vinica.",
+              "wiki_title": "Vinica, North Macedonia",
+              "maps_query": "Goce Delcev Monument, Vinica",
+              "maps_url": ""
+            }
+          }
         }
       ]
     },
@@ -2185,20 +2333,20 @@
           "maps_query": "terminal mitnitsa tetovo, Tetovo, North Macedonia"
         },
         {
-          "name": "Assembly of North Macedonia",
-          "wiki_title": "Assembly of North Macedonia",
-          "lat": 41.99269444,
-          "lng": 21.43247222,
+          "name": "Tetovo City Museum",
+          "wiki_title": "Šarena Mosque",
+          "lat": 42.0082,
+          "lng": 20.9718,
           "order_index": 4,
-          "description": "Assembly of North Macedonia — a notable landmark in North Macedonia, North Macedonia.",
-          "seo_phrase": "Assembly of North Macedonia",
+          "description": "Šarena Mosque is a visitor landmark in Tetovo, North Macedonia.",
+          "seo_phrase": "Šarena Mosque in Tetovo",
           "seo_keywords": [
-            "North Macedonia",
+            "Šarena Mosque",
+            "Tetovo",
             "North Macedonia",
             "travel"
           ],
-          "commons_file": "Лого на Собрание на Северна Македонија.png",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/%D0%9B%D0%BE%D0%B3%D0%BE_%D0%BD%D0%B0_%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%98%D0%B0.png",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "informational",
@@ -2212,13 +2360,22 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "maps_query": "Šarena Mosque, Tetovo, North Macedonia",
+          "translations": {
+            "en": {
+              "description": "Local history museum showcasing Tetovo's heritage.",
+              "wiki_title": "Tetovo",
+              "maps_query": "City Museum, Tetovo",
+              "maps_url": ""
+            }
+          }
         },
         {
-          "name": "Memorial House of Mother Teresa",
+          "name": "Pena River Bridge Tetovo",
           "wiki_title": "Memorial House of Mother Teresa",
-          "lat": 41.99381,
-          "lng": 21.43084,
+          "lat": 42.0091,
+          "lng": 20.9705,
           "order_index": 5,
           "description": "Memorial House of Mother Teresa — a notable landmark in North Macedonia, North Macedonia.",
           "seo_phrase": "Memorial House of Mother Teresa",
@@ -2228,7 +2385,7 @@
             "travel"
           ],
           "commons_file": "e2/Memorial House of Mother Teresa.jpg/800px-Memorial House of Mother Teresa.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Memorial_House_of_Mother_Teresa.jpg/800px-Memorial_House_of_Mother_Teresa.jpg",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "informational",
@@ -2242,13 +2399,21 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Central bridge and riverside viewpoint in Tetovo.",
+              "wiki_title": "Tetovo",
+              "maps_query": "Pena Bridge, Tetovo",
+              "maps_url": ""
+            }
+          }
         },
         {
-          "name": "Sobranie Palace",
+          "name": "Tetovo Cultural Center",
           "wiki_title": "Sobranie Palace",
-          "lat": 41.99269444,
-          "lng": 21.43247222,
+          "lat": 42.0075,
+          "lng": 20.9725,
           "order_index": 6,
           "description": "Sobranie Palace — a notable landmark in North Macedonia, North Macedonia.",
           "seo_phrase": "Sobranie Palace",
@@ -2258,7 +2423,7 @@
             "travel"
           ],
           "commons_file": "38/Skopje, Macedonia (17106382131).jpg/800px-Skopje, Macedonia (17106382131).jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Skopje%2C_Macedonia_%2817106382131%29.jpg/800px-Skopje%2C_Macedonia_%2817106382131%29.jpg",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "informational",
@@ -2272,13 +2437,21 @@
             "winter"
           ],
           "visit_duration_hours": 1.5,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Cultural venue for concerts and local events.",
+              "wiki_title": "Tetovo",
+              "maps_query": "Cultural Center, Tetovo",
+              "maps_url": ""
+            }
+          }
         },
         {
-          "name": "Feudal Tower",
+          "name": "Baltepe Hill Viewpoint",
           "wiki_title": "Feudal Tower (Skopje)",
-          "lat": 41.9944,
-          "lng": 21.4314,
+          "lat": 42.0165,
+          "lng": 20.9655,
           "order_index": 7,
           "description": "Историческа отбранителна кула от късния средновековен или османски период.",
           "seo_phrase": "Феудална кула Скопие – Отбранителна средновековна архитектура",
@@ -2289,7 +2462,7 @@
             "отбранителна кула"
           ],
           "commons_file": "Feudal Tower Skopje.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Feudal_Tower_Skopje.jpg",
+          "image_url": "",
           "seo_priority": 80,
           "search_intent": [
             "informational",
@@ -2306,7 +2479,15 @@
           "nearby_places": [
             "Mother Teresa Memorial House",
             "Macedonia Square"
-          ]
+          ],
+          "translations": {
+            "en": {
+              "description": "Hill viewpoint above Tetovo with panoramic views.",
+              "wiki_title": "Tetovo",
+              "maps_query": "Baltepe, Tetovo",
+              "maps_url": ""
+            }
+          }
         },
         {
           "name": "Pena River Walk Tetovo",
@@ -2589,20 +2770,20 @@
           "nearby_places": []
         },
         {
-          "name": "Black Drin River Springs",
-          "wiki_title": "Black Drin",
-          "lat": 41.1775,
-          "lng": 20.6778,
+          "name": "St. Erasmus Cave Church",
+          "wiki_title": "St. Erasmus Cave Church",
+          "lat": 41.1407,
+          "lng": 20.7629,
           "order_index": 1,
-          "description": "Black Drin River Springs — Struga, North Macedonia.",
-          "seo_phrase": "Black Drin River Springs",
+          "description": "St. Erasmus Cave Church is a visitor landmark in Struga, North Macedonia.",
+          "seo_phrase": "St. Erasmus Cave Church in Struga",
           "seo_keywords": [
-            "Black Drin River Springs",
+            "St. Erasmus Cave Church",
             "Struga",
-            "North Macedonia"
+            "North Macedonia",
+            "travel"
           ],
-          "commons_file": "Struga (North Macedonia).jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Struga_%28North_Macedonia%29.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Theodor_Duca_of_St._Erasmus_-Oh.jpg",
           "seo_priority": 88,
           "search_intent": [
             "informational",
@@ -2616,7 +2797,8 @@
             "winter"
           ],
           "visit_duration_hours": 3,
-          "nearby_places": []
+          "nearby_places": [],
+          "maps_query": "St. Erasmus Cave Church, Struga, North Macedonia"
         }
       ]
     }
