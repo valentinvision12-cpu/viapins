@@ -18,11 +18,11 @@ interface Props {
   stopNumber: number;
 }
 
-export function AdventurePlaceCard({ place, locale, index, stopNumber }: Props) {
+export function AdventurePlaceCard({ place, locale, stopNumber }: Props) {
   const t = useTranslations("adventure");
   const _fallback = fallbackImageUrl(`${place.name}-${place.country}`);
   const [imgSrc, setImgSrc] = useState(place.image_url || _fallback);
-  const { addItem, removeItem, isInCart, openPanel } = useRouteCart();
+  const { addItem, removeItem, isInCart } = useRouteCart();
 
   const tagLabels: Record<AdventureTag, string> = {
     hidden_gem: t("tagHiddenGem"),
@@ -65,9 +65,9 @@ export function AdventurePlaceCard({ place, locale, index, stopNumber }: Props) 
       order_index: place.order_index,
       mode: "adventure",
       requires_car: place.requires_car,
+      day: place.day,
     };
-    const added = addItem(item);
-    if (added) openPanel();
+    addItem(item);
   }
 
   return (

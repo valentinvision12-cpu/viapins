@@ -52,7 +52,7 @@ interface Props {
 export function PlaceCard({ place, locale, city, country, index }: Props) {
   const t = useTranslations("route");
   const [imgSrc, setImgSrc] = useState(place.image_url || "");
-  const { addItem, removeItem, isInCart, openPanel } = useRouteCart();
+  const { addItem, removeItem, isInCart } = useRouteCart();
 
   useEffect(() => {
     setImgSrc(place.image_url || "");
@@ -91,7 +91,7 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
       removeItem(place.id);
       return;
     }
-    const added = addItem({
+    addItem({
       id: place.id,
       name: place.name,
       city,
@@ -102,7 +102,6 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
       order_index: place.order_index,
       mode: "city",
     });
-    if (added) openPanel();
   }
 
   return (
@@ -228,7 +227,7 @@ export function PlaceDetailActions({
 }: DetailActionsProps) {
   const tRoute = useTranslations("route");
   const tPlace = useTranslations("placePage");
-  const { addItem, removeItem, isInCart, openPanel } = useRouteCart();
+  const { addItem, removeItem, isInCart } = useRouteCart();
   const { isFavorite, toggleFavorite } = useFavorites();
 
   const inRoute = isInCart(placeId);
@@ -239,7 +238,7 @@ export function PlaceDetailActions({
       removeItem(placeId);
       return;
     }
-    const added = addItem({
+    addItem({
       id: placeId,
       name,
       city,
@@ -250,7 +249,6 @@ export function PlaceDetailActions({
       order_index: orderIndex,
       mode: "city",
     });
-    if (added) openPanel();
   }
 
   function handleSaveToggle() {
