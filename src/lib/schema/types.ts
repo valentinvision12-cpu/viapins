@@ -84,7 +84,13 @@ export interface AttractionEntity {
   openingHours?: string | string[];
   address?: string;
   seoKeywords?: string[];
-  translations?: Record<string, PlaceTranslation>;
+  translations?: Record<
+    string,
+    Partial<PlaceTranslation> & {
+      maps_query?: string;
+      maps_url?: string;
+    }
+  >;
 }
 
 export interface ItineraryStop {

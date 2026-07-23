@@ -371,6 +371,10 @@ export function generateSchema(
 export function generateSchema(
   pageType: SchemaPageType,
   data: ViaPinsSchemaInput
+): SchemaEngineResult;
+export function generateSchema(
+  pageType: SchemaPageType,
+  data: ViaPinsSchemaInput
 ): SchemaEngineResult {
   switch (pageType) {
     case "home":
@@ -401,10 +405,7 @@ export function buildPageSeo(input: {
   ogType?: "website" | "article";
   noIndex?: boolean;
 }) {
-  const result = generateSchema(
-    input.pageType,
-    input.data as never
-  );
+  const result = (generateSchema as (pageType: SchemaPageType, data: ViaPinsSchemaInput) => SchemaEngineResult)(input.pageType, input.data);
   const metadata = buildSchemaMetadata({
     title: input.title,
     description: input.description,
