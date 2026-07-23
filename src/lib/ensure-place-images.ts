@@ -11,8 +11,8 @@ type PlaceLike = {
 };
 
 /**
- * Best-effort: fill empty OR bad image_urls before render (max ~1.2s).
- * Remaining gaps are healed by PlaceCard client fallback.
+ * Best-effort: fill empty OR bad image_urls before render (max ~2.5s).
+ * Dedupes against sibling place photos. PlaceCard client fallback heals the rest.
  */
 export async function ensurePlacesHaveImages<T extends PlaceLike>(
   places: T[],
@@ -33,7 +33,8 @@ export async function ensurePlacesHaveImages<T extends PlaceLike>(
 
   const updates = new Map<string, string>();
 
-  const work = needs.slice(0, 3).map(async (place) => {
+  // Heal more than a few places — cities often have several map/dup photos.
+  const work = needs.slice(0, 10).map(async (place) => {
     const en = place.translations?.en;
     try {
       const url = await resolvePlaceImage(
@@ -66,7 +67,7 @@ export async function ensurePlacesHaveImages<T extends PlaceLike>(
 
   await Promise.race([
     Promise.all(work),
-    new Promise((r) => setTimeout(r, 1200)),
+    new Promise((r) => setTimeout(r, 2500)),
   ]);
 
   if (updates.size === 0) return places;
