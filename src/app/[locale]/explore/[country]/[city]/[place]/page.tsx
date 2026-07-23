@@ -14,6 +14,8 @@ import { MapsPlaceLink } from "@/components/public/maps-place-link";
 import { findPlaceBySlug, placeSlug } from "@/lib/place-slug";
 import { getPlaceContent } from "@/lib/content-locale";
 import { buildLocaleAlternates, getSiteUrl } from "@/lib/seo";
+import { JsonLd } from "@/lib/schema/JsonLd";
+import { generateSchema } from "@/lib/schema";
 import { SITE_NAME } from "@/lib/site-brand";
 import { PASSPORT } from "@/lib/luxury-palette";
 
@@ -25,6 +27,9 @@ type PlaceRow = {
   lat: number;
   lng: number;
   order_index?: number;
+  category?: string;
+  type?: string;
+  tags?: string[];
   translations: Record<
     string,
     {
@@ -99,8 +104,45 @@ export default async function PlacePage({ params }: Props) {
       ? reviews.reduce((s, r) => s + r.rating, 0) / reviews.length
       : 0;
 
+  const slug = placeSlug(place.name, place.id);
+  const jsonLd = generateSchema("attraction", {
+    locale,
+    country: destination.country,
+    city: destination.city,
+    countrySlug: country,
+    citySlug: city,
+    placeSlug: slug,
+    place: {
+      id: place.id,
+      name: place.name,
+      lat: place.lat,
+      lng: place.lng,
+      image_url: place.image_url,
+      translations: place.translations,
+      category: place.category ?? place.type,
+      type: place.type,
+      tags: place.tags,
+    },
+    description:
+      description?.slice(0, 500) ||
+      `Visit ${place.name} in ${destination.city}, ${destination.country}.`,
+    heroImage: place.image_url,
+    reviews: reviews.map((r) => ({
+      authorName: r.authorName,
+      rating: r.rating,
+      title: r.title,
+      body: r.tip,
+      date: r.date,
+    })),
+    aggregateRating:
+      reviews.length > 0
+        ? { ratingValue: avgRating, reviewCount: reviews.length }
+        : undefined,
+  }).jsonLd;
+
   return (
     <>
+      <JsonLd data={jsonLd} />
       <NavHeader />
       <main className="min-h-screen bg-stone-50 pt-20">
         <div className="relative h-56 w-full overflow-hidden sm:h-72 md:h-80">

@@ -9,6 +9,7 @@ import { Link } from "@/i18n/navigation";
 import { NavHeader } from "@/components/public/nav-header";
 import { LUXURY } from "@/lib/luxury-palette";
 import { buildLocaleAlternates, getSiteUrl } from "@/lib/seo";
+import { JsonLd } from "@/lib/schema/JsonLd";
 import { buildHomeJsonLd } from "@/lib/seo-schema";
 import { SITE_LOGO_PATH, SITE_NAME } from "@/lib/site-brand";
 
@@ -66,10 +67,7 @@ export default async function HomePage({ params }: Props) {
 
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
+      <JsonLd data={jsonLd} />
 
       <NavHeader />
 
