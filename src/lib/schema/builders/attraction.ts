@@ -55,7 +55,7 @@ export function buildAttractionEntityNode(
     city: data.city,
     country: data.country,
     locale: data.locale,
-    translations: data.place.translations,
+    translations: data.place.translations as Record<string, import("@/lib/seo").PlaceTranslation> | undefined,
     seo_keywords: data.place.seoKeywords,
   });
 
