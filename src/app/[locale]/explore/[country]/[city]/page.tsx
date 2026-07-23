@@ -186,7 +186,7 @@ export default async function ExploreCityPage({ params }: Props) {
         lng: place.lng,
         image_url: place.image_url,
         translations: place.translations,
-        seoKeywords: place.translations?.en?.seo_keywords,
+        seoKeywords: (place.translations?.en as { seo_keywords?: string[] } | undefined)?.seo_keywords,
         category: withMeta.category ?? withMeta.type,
         type: withMeta.type,
         tags: withMeta.tags,
