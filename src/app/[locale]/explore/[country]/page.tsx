@@ -24,7 +24,8 @@ import {
   buildLocaleAlternates,
   getSiteUrl,
 } from "@/lib/seo";
-import { buildCountryJsonLd } from "@/lib/seo-schema";
+import { JsonLd } from "@/lib/schema/JsonLd";
+import { generateSchema, buildCountryFaqs } from "@/lib/schema";
 
 type Props = {
   params: Promise<{ locale: string; country: string }>;
@@ -124,7 +125,7 @@ export default async function ExploreCountryPage({ params }: Props) {
     coverImage = curated[0] ?? "";
   }
 
-  const jsonLd = buildCountryJsonLd({
+  const jsonLd = generateSchema("country", {
     country: country.country,
     locale,
     countrySlug,
@@ -136,7 +137,8 @@ export default async function ExploreCountryPage({ params }: Props) {
       coverImage: c.coverImage,
       placeCount: c.placeCount,
     })),
-  });
+    faqs: buildCountryFaqs(country.country),
+  }).jsonLd;
 
   const adventureSummary =
     showAdventure && adventure
@@ -152,10 +154,7 @@ export default async function ExploreCountryPage({ params }: Props) {
 
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
+      <JsonLd data={jsonLd} />
 
       <NavHeader />
 

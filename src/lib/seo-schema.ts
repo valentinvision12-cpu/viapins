@@ -1,14 +1,21 @@
 /**
- * Legacy SEO schema adapters — delegate to the enterprise schema engine.
+ * Legacy SEO schema adapters - delegate to the enterprise schema engine.
  */
 
 import { generateSchema } from "@/lib/schema";
+import {
+  buildAdventureFaqs,
+  buildCityFaqs,
+  buildCountryFaqs,
+} from "@/lib/schema/faqs";
 import type {
   AttractionEntity,
   CitySchemaData,
   CountrySchemaData,
   HomeSchemaData,
+  ItineraryStop,
   JsonLdGraph,
+  TripSchemaData,
 } from "@/lib/schema/types";
 import type { PlaceTranslation } from "./seo";
 
@@ -38,6 +45,7 @@ export interface CitySchemaInput {
   intro: string;
   keywords: string[];
   places: SchemaPlace[];
+  faqs?: CitySchemaData["faqs"];
 }
 
 function toAttractionEntity(place: SchemaPlace): AttractionEntity {
@@ -68,6 +76,7 @@ export function buildCityJsonLd(input: CitySchemaInput): JsonLdGraph {
     keywords: input.keywords,
     heroImage: input.heroImage,
     places: input.places.map(toAttractionEntity),
+    faqs: input.faqs ?? buildCityFaqs(input.city, input.country),
   };
   return generateSchema("city", data).jsonLd;
 }
@@ -89,6 +98,7 @@ export function buildCountryJsonLd(input: {
     coverImage?: string;
     placeCount: number;
   }[];
+  faqs?: CountrySchemaData["faqs"];
 }): JsonLdGraph {
   const data: CountrySchemaData = {
     locale: input.locale,
@@ -102,6 +112,38 @@ export function buildCountryJsonLd(input: {
       coverImage: c.coverImage,
       placeCount: c.placeCount,
     })),
+    faqs: input.faqs ?? buildCountryFaqs(input.country),
   };
   return generateSchema("country", data).jsonLd;
+}
+
+export function buildAdventureJsonLd(input: {
+  locale: string;
+  country: string;
+  countrySlug: string;
+  title: string;
+  description: string;
+  heroImage?: string;
+  totalDays?: number;
+  stops: ItineraryStop[];
+  faqs?: TripSchemaData["faqs"];
+}): JsonLdGraph {
+  const data: TripSchemaData = {
+    locale: input.locale,
+    country: input.country,
+    countrySlug: input.countrySlug,
+    title: input.title,
+    description: input.description,
+    heroImage: input.heroImage,
+    totalDays: input.totalDays,
+    stops: input.stops,
+    faqs:
+      input.faqs ??
+      buildAdventureFaqs(
+        input.country,
+        input.totalDays ?? 1,
+        input.stops.length
+      ),
+  };
+  return generateSchema("trip", data).jsonLd;
 }

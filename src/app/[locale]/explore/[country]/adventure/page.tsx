@@ -13,6 +13,8 @@ import { AdventureRoutePlanner } from "@/components/public/adventure-route-plann
 import { AdventurePlaceCard } from "@/components/public/adventure-place-card";
 import { AdventureProgress } from "@/components/public/adventure-progress";
 import { getSiteUrl } from "@/lib/seo";
+import { JsonLd } from "@/lib/schema/JsonLd";
+import { generateSchema, buildAdventureFaqs } from "@/lib/schema";
 import { SITE_NAME } from "@/lib/site-brand";
 
 type Props = {
@@ -66,8 +68,46 @@ export default async function AdventurePage({ params }: Props) {
     ),
   ].slice(0, 3);
 
+  const description =
+    collection.seo?.description ??
+    collection.seo?.intro ??
+    collection.subtitle;
+  const title =
+    collection.seo?.title ??
+    `${collection.country} Adventure Road Trip`;
+  const jsonLd = generateSchema("trip", {
+    locale,
+    country: collection.country,
+    countrySlug: country,
+    title,
+    description,
+    heroImage: coverImages[0] ?? heroImage,
+    totalDays: collection.totalDays,
+    stops: collection.places
+      .slice()
+      .sort((a, b) => a.order_index - b.order_index)
+      .map((place) => ({
+        name: place.name,
+        description:
+          place.translations?.en?.description ??
+          place.translations?.bg?.description,
+        day: place.day,
+        lat: place.lat,
+        lng: place.lng,
+        category: place.tags?.[0],
+        tags: place.tags,
+        imageUrl: place.image_url,
+      })),
+    faqs: buildAdventureFaqs(
+      collection.country,
+      collection.totalDays,
+      collection.places.length
+    ),
+  }).jsonLd;
+
   return (
     <>
+      <JsonLd data={jsonLd} />
       <NavHeader />
       <AdventureProgress country={collection.country} totalPlaces={collection.places.length} />
 

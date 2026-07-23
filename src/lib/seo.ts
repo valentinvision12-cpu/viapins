@@ -1,3 +1,4 @@
+import { SITE_DEFAULT_URL } from "@/lib/site-brand";
 /**
  * SEO helpers — long-tail titles, descriptions, keywords.
  * Auto-generates defaults; seed files can override per city/place.
@@ -55,11 +56,27 @@ export interface PlaceSeoOutput {
 }
 
 export function getSiteUrl(): string {
-  const url =
-    process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "") ??
-    process.env.NEXT_PUBLIC_APP_URL?.replace(/\/$/, "") ??
-    "https://viapins.com";
-  return url;
+  const candidates = [
+    process.env.NEXT_PUBLIC_SITE_URL,
+    process.env.NEXT_PUBLIC_APP_URL,
+  ]
+    .map((u) => u?.replace(/\/$/, ""))
+    .filter((u): u is string => Boolean(u));
+
+  const isVercelAppHost = (url: string): boolean => {
+    try {
+      return /\.vercel\.app$/i.test(new URL(url).hostname);
+    } catch {
+      return /vercel\.app/i.test(url);
+    }
+  };
+
+  for (const url of candidates) {
+    // Never emit preview/deployment hosts in canonical schema or OG URLs.
+    if (!isVercelAppHost(url)) return url;
+  }
+
+  return SITE_DEFAULT_URL;
 }
 
 function resolveLocaleSeo(
