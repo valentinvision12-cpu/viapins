@@ -2760,10 +2760,10 @@
           "maps_query": "Trenčiansky hrad, Trenčín, Slovakia"
         },
         {
-          "name": "Battle of Trenčín",
+          "name": "Parish Church of the Nativity of the Virgin Mary",
           "wiki_title": "Battle of Trenčín",
-          "lat": 48.85668194,
-          "lng": 18.011055,
+          "lat": 48.8945,
+          "lng": 18.041,
           "order_index": 9,
           "description": "Battle of Trenčín — a notable landmark in Trenčín, Slovakia.",
           "seo_phrase": "Battle of Trenčín",
@@ -2773,7 +2773,7 @@
             "travel"
           ],
           "commons_file": "TN battle memorial.JPG/800px-TN battle memorial.JPG",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TN_battle_memorial.JPG/1280px-TN_battle_memorial.JPG",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "travel_planning",
@@ -2787,7 +2787,15 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Historic parish church below Trenčín Castle.",
+              "wiki_title": "Trenčín",
+              "maps_query": "Parish Church of the Nativity of the Virgin Mary, Trenčín",
+              "maps_url": ""
+            }
+          }
         }
       ]
     },

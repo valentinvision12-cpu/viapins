@@ -27,18 +27,18 @@
       },
       "places": [
         {
-          "name": "Monas",
-          "wiki_title": "National Monument (Indonesia)",
-          "lat": -6.175392,
-          "lng": 106.827153,
+          "name": "Batavia Castle",
+          "wiki_title": "Batavia Castle",
+          "lat": -6.1275,
+          "lng": 106.81138889,
           "order_index": 0,
-          "description": "Indonesia's towering National Monument crowns Merdeka Square and offers elevator views over the capital's sprawl.",
-          "seo_phrase": "Monas Jakarta | National Monument & Merdeka Square Guide",
+          "description": "Batavia Castle is a visitor landmark in Jakarta, Indonesia.",
+          "seo_phrase": "Batavia Castle in Jakarta",
           "seo_keywords": [
-            "Monas Jakarta",
-            "National Monument Indonesia",
-            "Merdeka Square",
-            "Jakarta landmarks"
+            "Batavia Castle",
+            "Jakarta",
+            "Indonesia",
+            "travel"
           ],
           "seo_priority": 98,
           "search_intent": [
@@ -52,7 +52,9 @@
             "autumn"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Andries_Beeckman_-_The_Castle_of_Batavia.jpg/960px-Andries_Beeckman_-_The_Castle_of_Batavia.jpg",
+          "maps_query": "Batavia Castle, Jakarta, Indonesia"
         },
         {
           "name": "Merdeka Square",
@@ -485,17 +487,18 @@
           "nearby_places": []
         },
         {
-          "name": "Kotagede",
-          "wiki_title": "Kotagede",
-          "lat": -7.8317,
-          "lng": 110.3994,
+          "name": "Fort Vredeburg Museum",
+          "wiki_title": "Fort Vredeburg Museum",
+          "lat": -7.800375,
+          "lng": 110.366378,
           "order_index": 6,
-          "description": "Kotagede's silver workshops and mosque quarter preserve the legacy of the Mataram kingdom's first capital.",
-          "seo_phrase": "Kotagede Yogyakarta | Silver Village & Old Mataram",
+          "description": "Fort Vredeburg Museum is a visitor landmark in Yogyakarta, Indonesia.",
+          "seo_phrase": "Fort Vredeburg Museum in Yogyakarta",
           "seo_keywords": [
-            "Kotagede",
-            "Yogyakarta silver",
-            "Mataram heritage"
+            "Fort Vredeburg Museum",
+            "Yogyakarta",
+            "Indonesia",
+            "travel"
           ],
           "seo_priority": 91,
           "search_intent": [
@@ -509,7 +512,9 @@
             "autumn"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Fort_Vredeburg_1.jpg/960px-Fort_Vredeburg_1.jpg",
+          "maps_query": "Fort Vredeburg Museum, Yogyakarta, Indonesia"
         },
         {
           "name": "Alun-Alun Kidul",
@@ -618,17 +623,18 @@
       },
       "places": [
         {
-          "name": "Sacred Monkey Forest Sanctuary",
-          "wiki_title": "Ubud Monkey Forest",
-          "lat": -8.5185,
-          "lng": 110.2592,
+          "name": "Mount Batur",
+          "wiki_title": "Mount Batur",
+          "lat": -8.23888889,
+          "lng": 115.3775,
           "order_index": 0,
-          "description": "Lush forest temples shelter hundreds of long-tailed macaques amid mossy statues and jungle paths.",
-          "seo_phrase": "Ubud Monkey Forest | Sacred Sanctuary & Temples",
+          "description": "Mount Batur is a visitor landmark in Ubud, Indonesia.",
+          "seo_phrase": "Mount Batur in Ubud",
           "seo_keywords": [
-            "Ubud Monkey Forest",
-            "Sacred Monkey Forest",
-            "Bali temples"
+            "Mount Batur",
+            "Ubud",
+            "Indonesia",
+            "travel"
           ],
           "seo_priority": 98,
           "search_intent": [
@@ -642,20 +648,23 @@
             "autumn"
           ],
           "visit_duration_hours": 3,
-          "nearby_places": []
+          "nearby_places": [],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/View_Of_Mt.Batur_on_April_8th_2026.jpg/960px-View_Of_Mt.Batur_on_April_8th_2026.jpg",
+          "maps_query": "Mount Batur, Ubud, Indonesia"
         },
         {
-          "name": "Ubud Palace",
-          "wiki_title": "Ubud Palace",
-          "lat": -8.5069,
-          "lng": 110.2625,
+          "name": "Puri Lukisan Museum",
+          "wiki_title": "Puri Lukisan Museum",
+          "lat": -8.50509722,
+          "lng": 115.26027778,
           "order_index": 1,
-          "description": "Puri Saren Agung hosts evening dance performances in the heart of Ubud's royal quarter.",
-          "seo_phrase": "Ubud Palace | Puri Saren Agung & Balinese Dance",
+          "description": "Puri Lukisan Museum is a visitor landmark in Ubud, Indonesia.",
+          "seo_phrase": "Puri Lukisan Museum in Ubud",
           "seo_keywords": [
-            "Ubud Palace",
-            "Puri Saren Agung",
-            "Balinese dance Ubud"
+            "Puri Lukisan Museum",
+            "Ubud",
+            "Indonesia",
+            "travel"
           ],
           "seo_priority": 95,
           "search_intent": [
@@ -669,20 +678,23 @@
             "autumn"
           ],
           "visit_duration_hours": 1.5,
-          "nearby_places": []
+          "nearby_places": [],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Puri_Lukisan_Museum4.JPG/960px-Puri_Lukisan_Museum4.JPG",
+          "maps_query": "Puri Lukisan Museum, Ubud, Indonesia"
         },
         {
-          "name": "Ubud Art Market",
-          "wiki_title": "Ubud Art Market",
-          "lat": -8.5064,
-          "lng": 110.2633,
+          "name": "Agung Rai Museum of Art",
+          "wiki_title": "Agung Rai Museum of Art",
+          "lat": -8.5184,
+          "lng": 115.2621,
           "order_index": 2,
-          "description": "Morning stalls overflow with batik, wood carvings, and souvenirs steps from the palace gates.",
-          "seo_phrase": "Ubud Art Market | Batik & Handicrafts Shopping",
+          "description": "Agung Rai Museum of Art is a visitor landmark in Ubud, Indonesia.",
+          "seo_phrase": "Agung Rai Museum of Art in Ubud",
           "seo_keywords": [
-            "Ubud Art Market",
-            "Pasar Seni Ubud",
-            "Bali shopping"
+            "Agung Rai Museum of Art",
+            "Ubud",
+            "Indonesia",
+            "travel"
           ],
           "seo_priority": 92,
           "search_intent": [
@@ -696,20 +708,23 @@
             "autumn"
           ],
           "visit_duration_hours": 1.5,
-          "nearby_places": []
+          "nearby_places": [],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/AgungRaiMuseum.JPG/960px-AgungRaiMuseum.JPG",
+          "maps_query": "Agung Rai Museum of Art, Ubud, Indonesia"
         },
         {
-          "name": "Pura Taman Saraswati",
-          "wiki_title": "Pura Taman Saraswati",
-          "lat": -8.5058,
-          "lng": 110.2614,
+          "name": "Ubud Palace",
+          "wiki_title": "Ubud Palace",
+          "lat": -8.5068,
+          "lng": 115.2626,
           "order_index": 3,
-          "description": "This water temple honors the goddess of learning with a lotus pond and carved gates on Jalan Raya Ubud.",
-          "seo_phrase": "Pura Taman Saraswati | Lotus Temple Ubud",
+          "description": "Ubud Palace is a visitor landmark in Ubud, Indonesia.",
+          "seo_phrase": "Ubud Palace in Ubud",
           "seo_keywords": [
-            "Pura Taman Saraswati",
-            "Saraswati temple Ubud",
-            "Bali water temple"
+            "Ubud Palace",
+            "Ubud",
+            "Indonesia",
+            "travel"
           ],
           "seo_priority": 90,
           "search_intent": [
@@ -723,20 +738,23 @@
             "autumn"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Ubud_Palace_%282022%29.jpg/960px-Ubud_Palace_%282022%29.jpg",
+          "maps_query": "Ubud Palace, Ubud, Indonesia"
         },
         {
-          "name": "Campuhan Ridge Walk",
-          "wiki_title": "Campuhan Ridge Walk",
-          "lat": -8.5102,
-          "lng": 110.2542,
+          "name": "Museum Puri Lukisan",
+          "wiki_title": "Museum Puri Lukisan",
+          "lat": -8.5050909,
+          "lng": 115.2603669,
           "order_index": 4,
-          "description": "An easy ridge trail above the Ayung River valley delivers classic Ubud rice-field panoramas at sunrise.",
-          "seo_phrase": "Campuhan Ridge Walk | Ubud Sunrise Trail Guide",
+          "description": "Museum Puri Lukisan is a visitor landmark in Ubud, Indonesia.",
+          "seo_phrase": "Museum Puri Lukisan in Ubud",
           "seo_keywords": [
-            "Campuhan Ridge Walk",
-            "Ubud hiking",
-            "Bali rice terraces"
+            "Museum Puri Lukisan",
+            "Ubud",
+            "Indonesia",
+            "travel"
           ],
           "seo_priority": 94,
           "search_intent": [
@@ -750,20 +768,22 @@
             "autumn"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "maps_query": "Museum Puri Lukisan, Ubud, Indonesia"
         },
         {
           "name": "Blanco Renaissance Museum",
           "wiki_title": "Blanco Renaissance Museum",
-          "lat": -8.5056,
-          "lng": 110.2669,
+          "lat": -8.5058,
+          "lng": 115.2543,
           "order_index": 5,
-          "description": "The flamboyant former studio of Antonio Blanco showcases his portraits amid hilltop gardens.",
-          "seo_phrase": "Blanco Renaissance Museum | Antonio Blanco Art Ubud",
+          "description": "Blanco Renaissance Museum is a visitor landmark in Ubud, Indonesia.",
+          "seo_phrase": "Blanco Renaissance Museum in Ubud",
           "seo_keywords": [
-            "Blanco Museum",
-            "Ubud art",
-            "Bali museums"
+            "Blanco Renaissance Museum",
+            "Ubud",
+            "Indonesia",
+            "travel"
           ],
           "seo_priority": 88,
           "search_intent": [
@@ -777,20 +797,23 @@
             "autumn"
           ],
           "visit_duration_hours": 2,
-          "nearby_places": []
+          "nearby_places": [],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Antonio_Blanco_le_mus%C3%A9e.JPG/960px-Antonio_Blanco_le_mus%C3%A9e.JPG",
+          "maps_query": "Blanco Renaissance Museum, Ubud, Indonesia"
         },
         {
-          "name": "ARMA Museum",
-          "wiki_title": "Agung Rai Museum of Art",
-          "lat": -8.5181,
-          "lng": 110.2622,
+          "name": "Agung Rai Museum of Art (ARMA)",
+          "wiki_title": "Agung Rai Museum of Art (ARMA)",
+          "lat": -8.5228684,
+          "lng": 115.2647695,
           "order_index": 6,
-          "description": "ARMA pairs classical and contemporary Balinese art with cultural workshops in a tranquil compound.",
-          "seo_phrase": "ARMA Museum Ubud | Balinese Art & Culture",
+          "description": "Agung Rai Museum of Art (ARMA) is a visitor landmark in Ubud, Indonesia.",
+          "seo_phrase": "Agung Rai Museum of Art (ARMA) in Ubud",
           "seo_keywords": [
-            "ARMA Museum",
-            "Agung Rai Museum",
-            "Ubud museums"
+            "Agung Rai Museum of Art (ARMA)",
+            "Ubud",
+            "Indonesia",
+            "travel"
           ],
           "seo_priority": 89,
           "search_intent": [
@@ -804,20 +827,22 @@
             "autumn"
           ],
           "visit_duration_hours": 2,
-          "nearby_places": []
+          "nearby_places": [],
+          "maps_query": "Agung Rai Museum of Art (ARMA), Ubud, Indonesia"
         },
         {
           "name": "Neka Art Museum",
           "wiki_title": "Neka Art Museum",
-          "lat": -8.5092,
-          "lng": 110.2486,
+          "lat": -8.4918274,
+          "lng": 115.2536121,
           "order_index": 7,
-          "description": "Neka surveys Balinese painting schools from wayang styles to modern masters in curated galleries.",
-          "seo_phrase": "Neka Art Museum | Balinese Painting Collections Ubud",
+          "description": "Neka Art Museum is a visitor landmark in Ubud, Indonesia.",
+          "seo_phrase": "Neka Art Museum in Ubud",
           "seo_keywords": [
             "Neka Art Museum",
-            "Balinese painting",
-            "Ubud art"
+            "Ubud",
+            "Indonesia",
+            "travel"
           ],
           "seo_priority": 87,
           "search_intent": [
@@ -831,20 +856,22 @@
             "autumn"
           ],
           "visit_duration_hours": 2,
-          "nearby_places": []
+          "nearby_places": [],
+          "maps_query": "Neka Art Museum, Ubud, Indonesia"
         },
         {
-          "name": "The Yoga Barn",
-          "wiki_title": "The Yoga Barn",
-          "lat": -8.5139,
-          "lng": 110.2653,
+          "name": "Don Antonio Blanco Museum",
+          "wiki_title": "Don Antonio Blanco Museum",
+          "lat": -8.5048652,
+          "lng": 115.253963,
           "order_index": 8,
-          "description": "The Yoga Barn is Ubud's renowned wellness campus for daily classes, retreats, and plant-based dining.",
-          "seo_phrase": "The Yoga Barn Ubud | Yoga Retreats & Wellness",
+          "description": "Don Antonio Blanco Museum is a visitor landmark in Ubud, Indonesia.",
+          "seo_phrase": "Don Antonio Blanco Museum in Ubud",
           "seo_keywords": [
-            "Yoga Barn Ubud",
-            "Ubud yoga",
-            "Bali wellness"
+            "Don Antonio Blanco Museum",
+            "Ubud",
+            "Indonesia",
+            "travel"
           ],
           "seo_priority": 86,
           "search_intent": [
@@ -858,20 +885,22 @@
             "autumn"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "maps_query": "Don Antonio Blanco Museum, Ubud, Indonesia"
         },
         {
-          "name": "Pura Dalem Agung",
-          "wiki_title": "Pura Dalem Agung Padangtegal",
-          "lat": -8.5187,
-          "lng": 110.2586,
+          "name": "Njana Tilem Museum",
+          "wiki_title": "Njana Tilem Museum",
+          "lat": -8.5362423,
+          "lng": 115.2718111,
           "order_index": 9,
-          "description": "The main death temple of Padangtegal anchors the monkey forest with towering meru shrines.",
-          "seo_phrase": "Pura Dalem Agung | Padangtegal Temple Ubud",
+          "description": "Njana Tilem Museum is a visitor landmark in Ubud, Indonesia.",
+          "seo_phrase": "Njana Tilem Museum in Ubud",
           "seo_keywords": [
-            "Pura Dalem Agung",
-            "Ubud temple",
-            "Padangtegal"
+            "Njana Tilem Museum",
+            "Ubud",
+            "Indonesia",
+            "travel"
           ],
           "seo_priority": 85,
           "search_intent": [
@@ -885,7 +914,8 @@
             "autumn"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "maps_query": "Njana Tilem Museum, Ubud, Indonesia"
         }
       ]
     },
@@ -1424,17 +1454,18 @@
           "nearby_places": []
         },
         {
-          "name": "Arab Quarter (Sunan Ampel area)",
-          "wiki_title": "Ampel Mosque",
-          "lat": -7.2292,
-          "lng": 112.7358,
+          "name": "Heroes Monument",
+          "wiki_title": "Heroes Monument",
+          "lat": -7.24611111,
+          "lng": 112.7375,
           "order_index": 8,
-          "description": "The Ampel quarter around Sunan Ampel Mosque is Surabaya's historic Arab district of souks and dates.",
-          "seo_phrase": "Surabaya Arab Quarter | Ampel Mosque & Souks",
+          "description": "Heroes Monument is a visitor landmark in Surabaya, Indonesia.",
+          "seo_phrase": "Heroes Monument in Surabaya",
           "seo_keywords": [
-            "Ampel Surabaya",
-            "Sunan Ampel Mosque",
-            "Arab Quarter Surabaya"
+            "Heroes Monument",
+            "Surabaya",
+            "Indonesia",
+            "travel"
           ],
           "seo_priority": 93,
           "search_intent": [
@@ -1448,7 +1479,9 @@
             "autumn"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Tugu_Pahlawan_Surabaya.jpg/960px-Tugu_Pahlawan_Surabaya.jpg",
+          "maps_query": "Heroes Monument, Surabaya, Indonesia"
         },
         {
           "name": "Submarine Monument (Monkasel)",
@@ -1665,17 +1698,18 @@
           "nearby_places": []
         },
         {
-          "name": "Malang Flower Market Area",
-          "wiki_title": "Malang",
-          "lat": -7.97,
-          "lng": 112.63,
+          "name": "Cathedral of Our Lady of Mount Carmel",
+          "wiki_title": "Cathedral of Our Lady of Mount Carmel, Malang",
+          "lat": -7.9684,
+          "lng": 112.6235,
           "order_index": 6,
-          "description": "Colourful local market streets near central Malang, popular for photos and snacks.",
-          "seo_phrase": "Malang Flower Market Area",
+          "description": "Cathedral of Our Lady of Mount Carmel is a visitor landmark in Malang, Indonesia.",
+          "seo_phrase": "Cathedral of Our Lady of Mount Carmel in Malang",
           "seo_keywords": [
-            "Malang Flower Market Area",
-            "travel",
-            "landmarks"
+            "Cathedral of Our Lady of Mount Carmel",
+            "Malang",
+            "Indonesia",
+            "travel"
           ],
           "seo_priority": 86,
           "search_intent": [
@@ -1689,7 +1723,9 @@
             "autumn"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Katedral_Ijen_Malang.JPG/960px-Katedral_Ijen_Malang.JPG",
+          "maps_query": "Cathedral of Our Lady of Mount Carmel, Malang, Indonesia"
         },
         {
           "name": "Senaputra Park",
@@ -1746,17 +1782,18 @@
           "nearby_places": []
         },
         {
-          "name": "Malang Tempo Doeloe area",
-          "wiki_title": "Malang",
-          "lat": -7.9786,
-          "lng": 112.6325,
+          "name": "Museum Angkut",
+          "wiki_title": "Museum Angkut",
+          "lat": -7.87906,
+          "lng": 112.51986,
           "order_index": 9,
-          "description": "Lanes around Ijen and Trunojoyo evoke 'tempo doeloe' Malang with cafes in restored shophouses.",
-          "seo_phrase": "Malang Tempo Doeloe | Heritage Cafes & Shophouses",
+          "description": "Museum Angkut is a visitor landmark in Malang, Indonesia.",
+          "seo_phrase": "Museum Angkut in Malang",
           "seo_keywords": [
-            "Tempo Doeloe Malang",
-            "Malang old town",
-            "heritage cafes"
+            "Museum Angkut",
+            "Malang",
+            "Indonesia",
+            "travel"
           ],
           "seo_priority": 85,
           "search_intent": [
@@ -1770,7 +1807,9 @@
             "autumn"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Museum_angkut.jpg/960px-Museum_angkut.jpg",
+          "maps_query": "Museum Angkut, Malang, Indonesia"
         }
       ]
     },
@@ -1798,17 +1837,18 @@
       },
       "places": [
         {
-          "name": "Maimun Palace",
-          "wiki_title": "Maimun Palace",
-          "lat": -3.5753,
-          "lng": 98.6836,
+          "name": "Rahmat International Wildlife Museum & Gallery",
+          "wiki_title": "Rahmat International Wildlife Museum & Gallery",
+          "lat": 3.58,
+          "lng": 98.67,
           "order_index": 0,
-          "description": "The yellow Maimun Palace blends Malay, Indian, and European styles as a symbol of Deli sultanate.",
-          "seo_phrase": "Maimun Palace Medan | Deli Sultanate Landmark",
+          "description": "Rahmat International Wildlife Museum & Gallery is a visitor landmark in Medan, Indonesia.",
+          "seo_phrase": "Rahmat International Wildlife Museum & Gallery in Medan",
           "seo_keywords": [
-            "Maimun Palace",
-            "Medan palace",
-            "North Sumatra"
+            "Rahmat International Wildlife Museum & Gallery",
+            "Medan",
+            "Indonesia",
+            "travel"
           ],
           "seo_priority": 97,
           "search_intent": [
@@ -1822,7 +1862,9 @@
             "autumn"
           ],
           "visit_duration_hours": 1.5,
-          "nearby_places": []
+          "nearby_places": [],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Primate_Taxidermy%2C_Rahmat_International_Wildlife_Museum_and_Gallery.jpg/960px-Primate_Taxidermy%2C_Rahmat_International_Wildlife_Museum_and_Gallery.jpg",
+          "maps_query": "Rahmat International Wildlife Museum & Gallery, Medan, Indonesia"
         },
         {
           "name": "Medan City Hall Park",
@@ -1852,17 +1894,18 @@
           "nearby_places": []
         },
         {
-          "name": "Tjong A Fie Mansion",
-          "wiki_title": "Tjong A Fie Mansion",
-          "lat": -3.5856,
-          "lng": 98.6814,
+          "name": "Maimun Palace",
+          "wiki_title": "Maimun Palace",
+          "lat": 3.57527778,
+          "lng": 98.68388889,
           "order_index": 2,
-          "description": "This restored Chinese mansion tells the story of a Medan tycoon amid carved courtyards.",
-          "seo_phrase": "Tjong A Fie Mansion | Historic Medan Merchant Home",
+          "description": "Maimun Palace is a visitor landmark in Medan, Indonesia.",
+          "seo_phrase": "Maimun Palace in Medan",
           "seo_keywords": [
-            "Tjong A Fie Mansion",
-            "Medan heritage",
-            "Chinese mansion"
+            "Maimun Palace",
+            "Medan",
+            "Indonesia",
+            "travel"
           ],
           "seo_priority": 94,
           "search_intent": [
@@ -1876,20 +1919,23 @@
             "autumn"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Istana_Maimoon.jpg/960px-Istana_Maimoon.jpg",
+          "maps_query": "Maimun Palace, Medan, Indonesia"
         },
         {
-          "name": "Merdeka Walk",
-          "wiki_title": "Merdeka Walk",
-          "lat": -3.5892,
-          "lng": 98.6736,
+          "name": "Tjong A Fie Mansion",
+          "wiki_title": "Tjong A Fie Mansion",
+          "lat": 3.5852,
+          "lng": 98.6755,
           "order_index": 3,
-          "description": "Merdeka Walk is Medan's pedestrian dining promenade with local snacks and evening buzz.",
-          "seo_phrase": "Merdeka Walk Medan | Pedestrian Food Street",
+          "description": "Restored Chinese-Malay heritage mansion on Kesawan street with period rooms and courtyard.",
+          "seo_phrase": "Tjong A Fie Mansion Medan Heritage Guide",
           "seo_keywords": [
-            "Merdeka Walk",
-            "Medan food",
-            "North Sumatra"
+            "Tjong A Fie Mansion",
+            "Medan",
+            "Indonesia",
+            "travel"
           ],
           "seo_priority": 90,
           "search_intent": [
@@ -1902,21 +1948,26 @@
             "summer",
             "autumn"
           ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
+          "visit_duration_hours": 1.5,
+          "nearby_places": [
+            "Kesawan Heritage Street"
+          ],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tjong_A_Fie_Mansion.jpg/1280px-Tjong_A_Fie_Mansion.jpg",
+          "maps_query": "Tjong A Fie Mansion, Medan, Indonesia"
         },
         {
-          "name": "Tip Top Restaurant",
-          "wiki_title": "Tip Top Restaurant",
-          "lat": -3.5853,
-          "lng": 98.6819,
+          "name": "Museum Daerah Sumatera Utara",
+          "wiki_title": "Museum Daerah Sumatera Utara",
+          "lat": 3.5679356,
+          "lng": 98.6962956,
           "order_index": 4,
-          "description": "Tip Top has served ice cream and Dutch-influenced dishes from a colonial-era storefront since 1934.",
-          "seo_phrase": "Tip Top Restaurant Medan | Colonial-Era Dining",
+          "description": "Museum Daerah Sumatera Utara is a visitor landmark in Medan, Indonesia.",
+          "seo_phrase": "Museum Daerah Sumatera Utara in Medan",
           "seo_keywords": [
-            "Tip Top Medan",
-            "Medan restaurant",
-            "colonial cafe"
+            "Museum Daerah Sumatera Utara",
+            "Medan",
+            "Indonesia",
+            "travel"
           ],
           "seo_priority": 88,
           "search_intent": [
@@ -1930,7 +1981,8 @@
             "autumn"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "maps_query": "Museum Daerah Sumatera Utara, Medan, Indonesia"
         },
         {
           "name": "Kesawan Heritage Street",
@@ -1987,17 +2039,18 @@
           "nearby_places": []
         },
         {
-          "name": "Rahmat International Wildlife Museum",
-          "wiki_title": "Rahmat International Wildlife Museum",
-          "lat": -3.5603,
-          "lng": 98.6542,
+          "name": "Museum Situs Kota China",
+          "wiki_title": "Museum Situs Kota China",
+          "lat": 3.72304,
+          "lng": 98.6567458,
           "order_index": 7,
-          "description": "Rahmat's wildlife museum displays taxidermy dioramas from around the world in a modern hall.",
-          "seo_phrase": "Rahmat Wildlife Museum Medan | Global Taxidermy Collection",
+          "description": "Museum Situs Kota China is a visitor landmark in Medan, Indonesia.",
+          "seo_phrase": "Museum Situs Kota China in Medan",
           "seo_keywords": [
-            "Rahmat Wildlife Museum",
-            "Medan museum",
-            "wildlife museum"
+            "Museum Situs Kota China",
+            "Medan",
+            "Indonesia",
+            "travel"
           ],
           "seo_priority": 83,
           "search_intent": [
@@ -2011,20 +2064,22 @@
             "autumn"
           ],
           "visit_duration_hours": 2,
-          "nearby_places": []
+          "nearby_places": [],
+          "maps_query": "Museum Situs Kota China, Medan, Indonesia"
         },
         {
-          "name": "Medan Post Office",
-          "wiki_title": "Medan Post Office",
-          "lat": -3.5897,
-          "lng": 98.6753,
+          "name": "Rahmat International Wildlife Museum and Gallery",
+          "wiki_title": "Rahmat International Wildlife Museum and Gallery",
+          "lat": 3.5791616,
+          "lng": 98.6677106,
           "order_index": 8,
-          "description": "The heritage post office building anchors colonial architecture along Medan's main axis.",
-          "seo_phrase": "Medan Post Office | Colonial Heritage Building",
+          "description": "Rahmat International Wildlife Museum and Gallery is a visitor landmark in Medan, Indonesia.",
+          "seo_phrase": "Rahmat International Wildlife Museum and Gallery in Medan",
           "seo_keywords": [
-            "Medan Post Office",
-            "Kantor Pos Medan",
-            "heritage Medan"
+            "Rahmat International Wildlife Museum and Gallery",
+            "Medan",
+            "Indonesia",
+            "travel"
           ],
           "seo_priority": 86,
           "search_intent": [
@@ -2038,20 +2093,22 @@
             "autumn"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "maps_query": "Rahmat International Wildlife Museum and Gallery, Medan, Indonesia"
         },
         {
-          "name": "Kesawan Historic District",
-          "wiki_title": "Kesawan",
-          "lat": -3.5875,
-          "lng": 98.6808,
+          "name": "Museum Uang Sumatera",
+          "wiki_title": "Museum Uang Sumatera",
+          "lat": 3.5820045,
+          "lng": 98.682363,
           "order_index": 9,
-          "description": "Kesawan preserves shophouses and the old commercial spine of Dutch-era Medan.",
-          "seo_phrase": "Kesawan Historic District | Old Medan Commercial Quarter",
+          "description": "Museum Uang Sumatera is a visitor landmark in Medan, Indonesia.",
+          "seo_phrase": "Museum Uang Sumatera in Medan",
           "seo_keywords": [
-            "Kesawan Medan",
-            "historic Medan",
-            "North Sumatra heritage"
+            "Museum Uang Sumatera",
+            "Medan",
+            "Indonesia",
+            "travel"
           ],
           "seo_priority": 91,
           "search_intent": [
@@ -2065,7 +2122,8 @@
             "autumn"
           ],
           "visit_duration_hours": 1.5,
-          "nearby_places": []
+          "nearby_places": [],
+          "maps_query": "Museum Uang Sumatera, Medan, Indonesia"
         }
       ]
     },

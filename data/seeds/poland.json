@@ -1929,10 +1929,10 @@
           "nearby_places": []
         },
         {
-          "name": "Toruń",
+          "name": "Planetarium Toruń",
           "wiki_title": "Toruń",
-          "lat": 53.02222222,
-          "lng": 18.61111111,
+          "lat": 53.0155,
+          "lng": 18.598,
           "order_index": 1,
           "description": "Toruń — a notable landmark in Torun, Poland.",
           "seo_phrase": "Toruń",
@@ -1942,7 +1942,7 @@
             "travel"
           ],
           "commons_file": "Stare Miasto, Ratusz Staromiejski w Toruniu.jpg/800px-Stare Miasto, Ratusz Staromiejski w Toruniu.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Stare_Miasto%2C_Ratusz_Staromiejski_w_Toruniu.jpg/800px-Stare_Miasto%2C_Ratusz_Staromiejski_w_Toruniu.jpg",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "travel_planning",
@@ -1956,7 +1956,15 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "City planetarium and astronomy centre.",
+              "wiki_title": "Toruń",
+              "maps_query": "Planetarium, Toruń",
+              "maps_url": ""
+            }
+          }
         },
         {
           "name": "Co-Cathedral Basilica of the Most Holy Trinity",
@@ -2018,10 +2026,10 @@
           "nearby_places": []
         },
         {
-          "name": "Chełmża",
+          "name": "Living Museum of Gingerbread",
           "wiki_title": "Chełmża",
-          "lat": 53.18472222,
-          "lng": 18.60416667,
+          "lat": 53.0108,
+          "lng": 18.606,
           "order_index": 4,
           "description": "Chełmża — a notable landmark in Torun, Poland.",
           "seo_phrase": "Chełmża",
@@ -2031,7 +2039,7 @@
             "travel"
           ],
           "commons_file": "Chełmża - widok rynku. - panoramio (2).jpg/800px-Chełmża - widok rynku. - panoramio (2).jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Che%C5%82m%C5%BCa_-_widok_rynku._-_panoramio_%282%29.jpg/800px-Che%C5%82m%C5%BCa_-_widok_rynku._-_panoramio_%282%29.jpg",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "travel_planning",
@@ -2045,44 +2053,22 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
-          "name": "Toruń Cathedral",
-          "wiki_title": "Toruń Cathedral",
-          "lat": 53.009264,
-          "lng": 18.60613,
-          "order_index": 5,
-          "description": "Toruń Cathedral — a notable landmark in Torun, Poland.",
-          "seo_phrase": "Toruń Cathedral",
-          "seo_keywords": [
-            "Torun",
-            "Poland",
-            "travel"
-          ],
-          "commons_file": "Widok kościóła św. Janów w Toruniu, ulica Żeglarska.Widok z platformy widokowej - panoramio.jpg/800px-Widok kościóła św. Janów w Toruniu, ulica Żeglarska.Widok z platformy widokowej - panoramio.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Widok_ko%C5%9Bci%C3%B3%C5%82a_%C5%9Bw._Jan%C3%B3w_w_Toruniu%2C_ulica_%C5%BBeglarska.Widok_z_platformy_widokowej_-_panoramio.jpg/800px-Widok_ko%C5%9Bci%C3%B3%C5%82a_%C5%9Bw._Jan%C3%B3w_w_Toruniu%2C_ulica_%C5%BBeglarska.Widok_z_platformy_widokowej_-_panoramio.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "church",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Interactive gingerbread museum in Toruń.",
+              "wiki_title": "Toruń",
+              "maps_query": "Living Museum of Gingerbread, Toruń",
+              "maps_url": ""
+            }
+          }
         },
         {
           "name": "Toruń Castle",
           "wiki_title": "Toruń Castle",
           "lat": 53.00944444,
           "lng": 18.61083333,
-          "order_index": 6,
+          "order_index": 5,
           "description": "Toruń Castle — a top landmark in Torun, Poland.",
           "seo_phrase": "Chełmno Land",
           "seo_keywords": [
@@ -2107,40 +2093,11 @@
           "nearby_places": []
         },
         {
-          "name": "Co-Cathedral Basilica of the Most Holy Trinity",
-          "wiki_title": "Co-Cathedral Basilica of the Most Holy Trinity, Chełmża",
-          "lat": 53.1864,
-          "lng": 18.614,
-          "order_index": 7,
-          "description": "Co-Cathedral Basilica of the Most Holy Trinity — a top landmark in Torun, Poland.",
-          "seo_phrase": "Archcathedral Basilica of the Assumption of the Blessed Virgin Mary and St. Andrew",
-          "seo_keywords": [
-            "Torun",
-            "Poland",
-            "travel"
-          ],
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bazylika_konkatedralna_%C5%9Bw._Tr%C3%B3jcy_w_Che%C5%82m%C5%BCy.jpg/960px-Bazylika_konkatedralna_%C5%9Bw._Tr%C3%B3jcy_w_Che%C5%82m%C5%BCy.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "church",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
-        },
-        {
           "name": "Medieval Town of Toruń",
           "wiki_title": "Medieval Town of Toruń",
           "lat": 53.01,
           "lng": 18.61944444,
-          "order_index": 8,
+          "order_index": 6,
           "description": "Medieval Town of Toruń — a notable landmark in Torun, Poland.",
           "seo_phrase": "Medieval Town of Toruń",
           "seo_keywords": [
@@ -2166,33 +2123,49 @@
           "nearby_places": []
         },
         {
-          "name": "Co-Cathedral Basilica of the Most Holy Trinity",
-          "wiki_title": "Co-Cathedral Basilica of the Most Holy Trinity, Chełmża",
-          "lat": 53.1864,
-          "lng": 18.614,
+          "name": "Old Town Hall Toruń",
+          "lat": 53.0103,
+          "lng": 18.6045,
+          "image_url": "",
+          "order_index": 7,
+          "translations": {
+            "en": {
+              "description": "Gothic town hall on the Old Town Market Square.",
+              "wiki_title": "Toruń Town Hall",
+              "maps_query": "Old Town Hall Toruń, Toruń, Poland",
+              "maps_url": ""
+            }
+          }
+        },
+        {
+          "name": "Copernicus House",
+          "lat": 53.0097,
+          "lng": 18.6058,
+          "image_url": "",
+          "order_index": 8,
+          "translations": {
+            "en": {
+              "description": "Museum in the house associated with Copernicus.",
+              "wiki_title": "Nicolaus Copernicus",
+              "maps_query": "Copernicus House, Toruń, Poland",
+              "maps_url": ""
+            }
+          }
+        },
+        {
+          "name": "Leaning Tower of Toruń",
+          "lat": 53.0089,
+          "lng": 18.6028,
+          "image_url": "",
           "order_index": 9,
-          "description": "Co-Cathedral Basilica of the Most Holy Trinity — a top landmark in Torun, Poland.",
-          "seo_phrase": "Włocławek Cathedral",
-          "seo_keywords": [
-            "Torun",
-            "Poland",
-            "travel"
-          ],
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bazylika_konkatedralna_%C5%9Bw._Tr%C3%B3jcy_w_Che%C5%82m%C5%BCy.jpg/960px-Bazylika_konkatedralna_%C5%9Bw._Tr%C3%B3jcy_w_Che%C5%82m%C5%BCy.jpg",
-          "seo_priority": 85,
-          "search_intent": [
-            "travel_planning",
-            "travel_planning"
-          ],
-          "type": "church",
-          "best_season": [
-            "spring",
-            "summer",
-            "autumn",
-            "winter"
-          ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
+          "translations": {
+            "en": {
+              "description": "Medieval defensive tower with a notable lean.",
+              "wiki_title": "Leaning Tower of Toruń",
+              "maps_query": "Leaning Tower of Toruń, Toruń, Poland",
+              "maps_url": ""
+            }
+          }
         }
       ]
     },

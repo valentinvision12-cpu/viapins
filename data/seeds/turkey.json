@@ -2429,10 +2429,10 @@
           ]
         },
         {
-          "name": "Pergamon Acropolis",
+          "name": "Bergama Museum",
           "wiki_title": "Pergamon",
-          "lat": 39.1325,
-          "lng": 27.1839,
+          "lat": 39.11666667,
+          "lng": 27.17583333,
           "order_index": 7,
           "description": "The hilltop acropolis of ancient Pergamon with sweeping views over Bergama and the surrounding valleys.",
           "seo_phrase": "Pergamon Acropolis Bergama: Ancient Hilltop City Guide",
@@ -2458,7 +2458,16 @@
           "nearby_places": [
             "Pergamon Acropolis",
             "Theatre of Pergamon"
-          ]
+          ],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/BergamaMuseumHadrian.jpg/960px-BergamaMuseumHadrian.jpg",
+          "translations": {
+            "en": {
+              "description": "Bergama Museum is a museum in Bergama district of İzmir Province, Turkey.",
+              "wiki_title": "Bergama Museum",
+              "maps_query": "Bergama Museum, Bergama, Turkey",
+              "maps_url": ""
+            }
+          }
         },
         {
           "name": "Pergamon Theatre",
@@ -2718,17 +2727,18 @@
           ]
         },
         {
-          "name": "Ankara Roman Baths Area",
-          "wiki_title": "Roman Baths of Ankara",
-          "lat": 39.9445,
-          "lng": 32.8585,
+          "name": "Ulucanlar Prison Museum",
+          "wiki_title": "Ulucanlar Prison Museum",
+          "lat": 39.93848,
+          "lng": 32.87311,
           "order_index": 5,
-          "description": "Open-air Roman baths complex north of Ankara's Ulus district.",
-          "seo_phrase": "Ankara Roman Baths Area",
+          "description": "Ulucanlar Prison Museum is a visitor landmark in Ankara, Turkey.",
+          "seo_phrase": "Ulucanlar Prison Museum in Ankara",
           "seo_keywords": [
-            "Ankara Roman Baths Area",
-            "travel",
-            "landmarks"
+            "Ulucanlar Prison Museum",
+            "Ankara",
+            "Turkey",
+            "travel"
           ],
           "seo_priority": 88,
           "search_intent": [
@@ -2745,7 +2755,9 @@
           "visit_duration_hours": 1,
           "nearby_places": [
             "Roman Baths of Ankara"
-          ]
+          ],
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ankara%2C_Turkey_-_panoramio_%28223%29.jpg/960px-Ankara%2C_Turkey_-_panoramio_%28223%29.jpg",
+          "maps_query": "Ulucanlar Prison Museum, Ankara, Turkey"
         },
         {
           "name": "Gençlik Park",
@@ -2782,21 +2794,20 @@
           ]
         },
         {
-          "name": "CerModern",
-          "wiki_title": "CerModern",
-          "lat": 39.9333,
-          "lng": 32.8458,
+          "name": "Republic Museum",
+          "wiki_title": "Republic Museum",
+          "lat": 39.94111111,
+          "lng": 32.85166667,
           "order_index": 7,
-          "description": "A sleek, contemporary art museum housed within a beautifully restored old railway workshop compound.",
-          "seo_phrase": "CerModern Ankara | Contemporary Art Center Guide",
+          "description": "Republic Museum is a visitor landmark in Ankara, Turkey.",
+          "seo_phrase": "Republic Museum in Ankara",
           "seo_keywords": [
-            "CerModern Ankara",
-            "contemporary art galleries",
-            "railway workshop arts",
-            "modern cultural center"
+            "Republic Museum",
+            "Ankara",
+            "Turkey",
+            "travel"
           ],
-          "commons_file": "CerModern Art Center Ankara.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/CerModern_Art_Center_Ankara.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ankara_asv2021-10_img71_Republic_Museum.jpg/960px-Ankara_asv2021-10_img71_Republic_Museum.jpg",
           "seo_priority": 84,
           "search_intent": [
             "local",
@@ -2812,7 +2823,8 @@
           "visit_duration_hours": 1,
           "nearby_places": [
             "Gençlik Park"
-          ]
+          ],
+          "maps_query": "Republic Museum, Ankara, Turkey"
         },
         {
           "name": "Erimtan Archaeology Museum",

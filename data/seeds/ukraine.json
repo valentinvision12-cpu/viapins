@@ -1879,7 +1879,7 @@
             "travel"
           ],
           "commons_file": "Костьол Св.Петра i Павла.jpg/800px-Костьол Св.Петра i Павла.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/%D0%9A%D0%BE%D1%81%D1%82%D1%8C%D0%BE%D0%BB_%D0%A1%D0%B2.%D0%9F%D0%B5%D1%82%D1%80%D0%B0_i_%D0%9F%D0%B0%D0%B2%D0%BB%D0%B0.jpg/800px-%D0%9A%D0%BE%D1%81%D1%82%D1%8C%D0%BE%D0%BB_%D0%A1%D0%B2.%D0%9F%D0%B5%D1%82%D1%80%D0%B0_i_%D0%9F%D0%B0%D0%B2%D0%BB%D0%B0.jpg",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "travel_planning",
@@ -1957,10 +1957,10 @@
           "nearby_places": []
         },
         {
-          "name": "Siege of Kamenets",
+          "name": "Old Town Hall Kamianets-Podilskyi",
           "wiki_title": "Siege of Kamenets",
-          "lat": 48.67333333,
-          "lng": 26.5625,
+          "lat": 48.6735,
+          "lng": 26.5725,
           "order_index": 5,
           "description": "Siege of Kamenets — a notable landmark in Kamianets-Podilskyi, Ukraine.",
           "seo_phrase": "Siege of Kamenets",
@@ -1970,7 +1970,7 @@
             "travel"
           ],
           "commons_file": "KamianecPod1875.jpg/800px-KamianecPod1875.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/KamianecPod1875.jpg/800px-KamianecPod1875.jpg",
+          "image_url": "",
           "seo_priority": 85,
           "search_intent": [
             "travel_planning",
@@ -1984,7 +1984,15 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "translations": {
+            "en": {
+              "description": "Historic town hall in the old town.",
+              "wiki_title": "Kamianets-Podilskyi",
+              "maps_query": "Old Town Hall Kamianets-Podilskyi, Kamianets-Podilskyi",
+              "maps_url": ""
+            }
+          }
         },
         {
           "name": "Kudryntsi Castle",
@@ -2164,24 +2172,24 @@
           "maps_query": "Nevytske Castle, Uzhhorod, Ukraine"
         },
         {
-          "name": "Mukachevo",
-          "wiki_title": "Mukachevo",
-          "lat": 48.45,
-          "lng": 22.75,
+          "name": "Uzhhorod Philharmonic Hall",
+          "wiki_title": "Uzhhorod",
+          "lat": 48.6228,
+          "lng": 22.3015,
           "order_index": 1,
-          "description": "Mukachevo — a notable landmark in Uzhhorod, Ukraine.",
-          "seo_phrase": "Mukachevo",
+          "description": "Concert hall in a landmark historic building facing the city center of Uzhhorod.",
+          "seo_phrase": "Uzhhorod Philharmonic Hall Concert Guide",
           "seo_keywords": [
+            "Uzhhorod Philharmonic",
             "Uzhhorod",
             "Ukraine",
             "travel"
           ],
-          "commons_file": "Munkacsivar.jpg/800px-Munkacsivar.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Munkacsivar.jpg/800px-Munkacsivar.jpg",
-          "seo_priority": 85,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Uzhhorod_Philharmonic.jpg/1280px-Uzhhorod_Philharmonic.jpg",
+          "seo_priority": 88,
           "search_intent": [
             "travel_planning",
-            "travel_planning"
+            "informational"
           ],
           "type": "landmark",
           "best_season": [
@@ -2191,7 +2199,8 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "maps_query": "Philharmonic Hall, Uzhhorod, Ukraine"
         },
         {
           "name": "Ruthenian Greek Catholic Church",
@@ -2459,24 +2468,24 @@
       },
       "places": [
         {
-          "name": "Volhynia",
-          "wiki_title": "Volhynia",
-          "lat": 50.73888889,
-          "lng": 25.32333333,
+          "name": "Lutsk Drama Theater",
+          "wiki_title": "Lutsk",
+          "lat": 50.7472,
+          "lng": 25.3258,
           "order_index": 0,
-          "description": "Volhynia — a notable landmark in Lutsk, Ukraine.",
-          "seo_phrase": "Volhynia",
+          "description": "Main drama theater and cultural landmark on the historic streets of Lutsk.",
+          "seo_phrase": "Lutsk Drama Theater Culture Guide",
           "seo_keywords": [
+            "Lutsk Drama Theater",
             "Lutsk",
             "Ukraine",
             "travel"
           ],
-          "commons_file": "В'їзна (Надбрамна) башта замку Луцьк.jpg/800px-В'їзна (Надбрамна) башта замку Луцьк.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/%D0%92%27%D1%97%D0%B7%D0%BD%D0%B0_%28%D0%9D%D0%B0%D0%B4%D0%B1%D1%80%D0%B0%D0%BC%D0%BD%D0%B0%29_%D0%B1%D0%B0%D1%88%D1%82%D0%B0_%D0%B7%D0%B0%D0%BC%D0%BA%D1%83_%D0%9B%D1%83%D1%86%D1%8C%D0%BA.jpg/800px-%D0%92%27%D1%97%D0%B7%D0%BD%D0%B0_%28%D0%9D%D0%B0%D0%B4%D0%B1%D1%80%D0%B0%D0%BC%D0%BD%D0%B0%29_%D0%B1%D0%B0%D1%88%D1%82%D0%B0_%D0%B7%D0%B0%D0%BC%D0%BA%D1%83_%D0%9B%D1%83%D1%86%D1%8C%D0%BA.jpg",
-          "seo_priority": 85,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Lutsk_Drama_Theatre.jpg/1280px-Lutsk_Drama_Theatre.jpg",
+          "seo_priority": 90,
           "search_intent": [
             "travel_planning",
-            "travel_planning"
+            "informational"
           ],
           "type": "landmark",
           "best_season": [
@@ -2485,8 +2494,9 @@
             "autumn",
             "winter"
           ],
-          "visit_duration_hours": 1,
-          "nearby_places": []
+          "visit_duration_hours": 1.5,
+          "nearby_places": [],
+          "maps_query": "Drama Theater, Lutsk, Ukraine"
         },
         {
           "name": "Музей історії Луцького братства",
@@ -2816,20 +2826,20 @@
           "maps_query": "Church of the Nativity of Jesus Christ, Ternopil, Ukraine"
         },
         {
-          "name": "Ukrainian Catholic Archeparchy of Ternopil–Zboriv",
-          "wiki_title": "Ukrainian Catholic Archeparchy of Ternopil–Zboriv",
-          "lat": 49.5667,
-          "lng": 25.6,
+          "name": "Saints Peter and Paul Church",
+          "wiki_title": "Saints Peter and Paul Church, Butsniv",
+          "lat": 49.47916667,
+          "lng": 25.57666667,
           "order_index": 1,
-          "description": "Ukrainian Catholic Archeparchy of Ternopil–Zboriv — a notable landmark in Ternopil, Ukraine.",
-          "seo_phrase": "Ukrainian Catholic Archeparchy of Ternopil–Zboriv",
+          "description": "Saints Peter and Paul Church is a visitor landmark in Ternopil, Ukraine.",
+          "seo_phrase": "Saints Peter and Paul Church in Ternopil",
           "seo_keywords": [
+            "Saints Peter and Paul Church",
             "Ternopil",
             "Ukraine",
             "travel"
           ],
-          "commons_file": "Домініканський костел у Тернополі.jpg/800px-Домініканський костел у Тернополі.jpg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/%D0%94%D0%BE%D0%BC%D1%96%D0%BD%D1%96%D0%BA%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%81%D1%82%D0%B5%D0%BB_%D1%83_%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D1%96.jpg/800px-%D0%94%D0%BE%D0%BC%D1%96%D0%BD%D1%96%D0%BA%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%81%D1%82%D0%B5%D0%BB_%D1%83_%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D1%96.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/%D0%A6%D0%B5%D1%80%D0%BA%D0%B2%D0%B0_%D1%81%D0%B2%D1%8F%D1%82%D0%B8%D1%85_%D0%B0%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%BB%D1%96%D0%B2_%D0%9F%D0%B5%D1%82%D1%80%D0%B0_%D1%96_%D0%9F%D0%B0%D0%B2%D0%BB%D0%B0_%D0%91%D1%83%D1%86%D0%BD%D1%96%D0%B2.jpg/960px-%D0%A6%D0%B5%D1%80%D0%BA%D0%B2%D0%B0_%D1%81%D0%B2%D1%8F%D1%82%D0%B8%D1%85_%D0%B0%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%BB%D1%96%D0%B2_%D0%9F%D0%B5%D1%82%D1%80%D0%B0_%D1%96_%D0%9F%D0%B0%D0%B2%D0%BB%D0%B0_%D0%91%D1%83%D1%86%D0%BD%D1%96%D0%B2.jpg",
           "seo_priority": 85,
           "search_intent": [
             "travel_planning",
@@ -2843,7 +2853,8 @@
             "winter"
           ],
           "visit_duration_hours": 1,
-          "nearby_places": []
+          "nearby_places": [],
+          "maps_query": "Saints Peter and Paul Church, Ternopil, Ukraine"
         },
         {
           "name": "Church of St. Mary of the Perpetual Assistance",
