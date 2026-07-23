@@ -53,7 +53,7 @@ export default async function AdventurePage({ params }: Props) {
   const raw = await getAdventureCollection(country);
   if (!raw) notFound();
 
-  const resolvedPlaces = filterPlacesForDisplay(raw.places);
+  const resolvedPlaces = filterPlacesForDisplay(raw.places, raw.country);
   const heroImage =
     raw.heroImage?.trim() ||
     pickCityCoverFromPlaces(resolvedPlaces) ||

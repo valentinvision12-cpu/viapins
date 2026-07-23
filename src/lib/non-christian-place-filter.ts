@@ -8,6 +8,8 @@ const CHRISTIAN_KEEP =
   /\b(church|cathedral|chapel|basilica|monastery|abbey|orthodox|catholic|christian|baptist|lutheran|protestant|anglican|sacred heart|co-cathedral|concathedral)\b/i;
 
 const NON_CHRISTIAN_NAME = [
+  /\bxhamia\b/i,
+  /\bcamii\b/i,
   /\bmosque\b/i,
   /\bmasjid\b/i,
   /\bmezquita\b/i,
@@ -38,11 +40,17 @@ const NON_CHRISTIAN_NAME = [
   /\bborobudur\b/i,
   /\bsri mariamman\b/i,
   /\btemple of all religions\b/i,
-  /\b\w+\s+shrine\b/i,
-  /\bshrine\b/i,
-  /\btemple\b/i,
-  /\bwat\b/i,
+  /\bhindu temple\b/i,
+  /\bbuddhist temple\b/i,
+  /\bshinto shrine\b/i,
+  /\bjapanese shrine\b/i,
+  /\b\w+\s+jinja\b/i,
+  /\bwat\s+\w+/i,
 ];
+
+/** Ancient / tourist archaeological temples — keep as landmarks. */
+const KEEP_ARCHAEOLOGICAL_TEMPLE =
+  /\b(roman|greek|hellenic|hellenistic|ancient|classical|olympian|parthenon|apollo|zeus|athena|artemis|poseidon|hercules|hera|augustus|hadrian|trajan|jupiter|diana|venus|mars|vesta|isis|mithra|cybele|castor|pollux)\b/i;
 
 /** Phrases that look like temples/shrines but are Christian — still kept via CHRISTIAN_KEEP. */
 const CHRISTIAN_TEMPLE_OR_SHRINE =
@@ -57,7 +65,7 @@ export function isNonChristianReligiousPlace(
   if (!n) return false;
 
   // Mosque–Cathedral / Mezquita-Iglesia / similar hybrids → exclude
-  if (/\b(mosque|mezquita|masjid|synagogue|tekke|džamij|dzamij|cami|xhamia)\b/i.test(n)) {
+  if (/\b(mosque|mezquita|masjid|synagogue|tekke|džamij|dzamij|cami|xhamia|camii)\b/i.test(n)) {
     return true;
   }
 
@@ -72,7 +80,17 @@ export function isNonChristianReligiousPlace(
     return false;
   }
 
+  // Keep Roman / ancient archaeological temples (Évora, Olympia, etc.)
+  if (/\btemple\b/i.test(n) && KEEP_ARCHAEOLOGICAL_TEMPLE.test(n)) {
+    return false;
+  }
+
   if (NON_CHRISTIAN_NAME.some((p) => p.test(n))) return true;
+
+  // Bare "temple"/"shrine" without archaeological context → exclude non-Christian
+  if (/\b(temple|shrine)\b/i.test(n) && !KEEP_ARCHAEOLOGICAL_TEMPLE.test(n)) {
+    return true;
+  }
 
   if (description) {
     const d = description;

@@ -98,7 +98,7 @@ export default async function ExploreCountryPage({ params }: Props) {
   if (!country || !data) notFound();
 
   const adventurePlaces = adventure
-    ? filterPlacesForDisplay(adventure.places)
+    ? filterPlacesForDisplay(adventure.places, adventure.country || country.country)
     : [];
   const showAdventure = adventurePlaces.length > 0;
   const adventureCover =

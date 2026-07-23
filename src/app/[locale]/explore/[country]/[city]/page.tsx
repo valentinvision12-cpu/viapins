@@ -10,6 +10,7 @@ import { getDemoDestination, type DemoDestination } from "@/lib/demo-data";
 import {
   filterPlacesForDisplay,
   filterPlacesWithPhoto,
+  blankDuplicatePlaceImages,
   pickCityCoverFromPlaces,
   resolveCityCoverFromDb,
 } from "@/lib/city-cover";
@@ -129,11 +130,12 @@ export default async function ExploreCityPage({ params }: Props) {
 
   if ("wiki_title" in rawDestination) {
     const demo = rawDestination as DemoDestination;
-    const countryName = demo.country;
-    const places = filterPlacesForDisplay(demo.places);
+    const places = blankDuplicatePlaceImages(
+      filterPlacesForDisplay(demo.places, demo.country)
+    );
     const resolvedHero =
       demo.cityImage ||
-      pickCityCoverFromPlaces(filterPlacesWithPhoto(demo.places)) ||
+      pickCityCoverFromPlaces(filterPlacesWithPhoto(places, demo.country)) ||
       "";
 
     destination = { ...demo, cityImage: resolvedHero, places };
@@ -141,14 +143,16 @@ export default async function ExploreCityPage({ params }: Props) {
   } else {
     const dbDest = rawDestination as DestinationDetail;
     const resolvedPlaces = await ensurePlacesHaveImages(
-      filterPlacesForDisplay(dbDest.places),
+      blankDuplicatePlaceImages(
+        filterPlacesForDisplay(dbDest.places, dbDest.country)
+      ),
       dbDest.city,
       dbDest.country
     );
     destination = { ...dbDest, places: resolvedPlaces };
     heroImage = resolveCityCoverFromDb(
       dbDest.coverImage,
-      filterPlacesWithPhoto(resolvedPlaces)
+      filterPlacesWithPhoto(resolvedPlaces, dbDest.country)
     );
   }
 
