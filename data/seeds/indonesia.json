@@ -3021,8 +3021,8 @@
     "totalDays": 10,
     "seo": {
       "title": "Indonesia Road Trip — Islands & Volcano Adventure",
-      "description": "Plan an Indonesia road trip with GPS stops, Komodo, Bromo, Raja Ampat, and rainforest wildlife.",
-      "intro": "Explore Indonesia beyond the cities with this island-hopping and nature adventure route.",
+        "description": "Plan an Indonesia road trip with GPS stops, Komodo, Piaynemo, Lake Toba, and rainforest wildlife.",
+        "intro": "Explore Indonesia beyond the cities with this island-hopping and nature adventure route.",
       "keywords": [
         "Indonesia road trip",
         "Indonesia Komodo",
@@ -3135,11 +3135,11 @@
         "type": "nature"
       },
       {
-        "name": "Komodo National Park",
-        "wiki_title": "Komodo National Park",
+        "name": "Padar Island Viewpoint",
+        "wiki_title": "Padar Island",
         "region": "East Nusa Tenggara",
-        "lat": -8.55,
-        "lng": 119.45,
+        "lat": -8.6492,
+        "lng": 119.5835,
         "day": 4,
         "order_index": 3,
         "requires_car": true,
@@ -3151,11 +3151,11 @@
           "summer",
           "autumn"
         ],
-        "description": "Komodo dragons roam islands of savanna and reef, accessible by liveaboard from Labuan Bajo.",
-        "seo_phrase": "Komodo National Park | Dragons & Island Hopping",
+        "description": "Steep trail to Padar's ridge overlook of three crescent beaches inside Komodo National Park.",
+        "seo_phrase": "Padar Island Viewpoint | Komodo Triple-Bay Lookout",
         "seo_keywords": [
+          "Padar Island",
           "Komodo National Park",
-          "Komodo dragons",
           "Labuan Bajo tours"
         ],
         "seo_priority": 99,
@@ -3164,15 +3164,17 @@
           "summer",
           "autumn"
         ],
-        "visit_duration_hours": 4,
-        "type": "nature"
+        "visit_duration_hours": 3,
+        "type": "viewpoint",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Padar_Island%2C_Komodo_National_Park%2C_Indonesia%2C_20250822_0911_2638.jpg/1280px-Padar_Island%2C_Komodo_National_Park%2C_Indonesia%2C_20250822_0911_2638.jpg",
+        "maps_query": "Padar Island, Komodo National Park, Indonesia"
       },
       {
-        "name": "Raja Ampat",
-        "wiki_title": "Raja Ampat",
+        "name": "Piaynemo Viewpoint",
+        "wiki_title": "Raja Ampat Islands",
         "region": "West Papua",
-        "lat": -0.2333,
-        "lng": 130.5167,
+        "lat": -0.4435,
+        "lng": 130.2212,
         "day": 5,
         "order_index": 4,
         "requires_car": true,
@@ -3184,12 +3186,12 @@
           "summer",
           "autumn"
         ],
-        "description": "Raja Ampat's karst isles and coral reefs rank among the richest marine habitats on Earth.",
-        "seo_phrase": "Raja Ampat Islands | World-Class Diving & Reefs",
+        "description": "Iconic wooden stair viewpoint over Piaynemo's karst islets and turquoise lagoons in Raja Ampat.",
+        "seo_phrase": "Piaynemo Viewpoint Raja Ampat | Karst Island Lookout",
         "seo_keywords": [
-          "Raja Ampat",
-          "West Papua diving",
-          "Indonesia islands"
+          "Piaynemo",
+          "Raja Ampat viewpoint",
+          "West Papua islands"
         ],
         "seo_priority": 98,
         "best_season": [
@@ -3197,15 +3199,17 @@
           "summer",
           "autumn"
         ],
-        "visit_duration_hours": 4,
-        "type": "nature"
+        "visit_duration_hours": 3,
+        "type": "viewpoint",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pulau_Piaynemo%2C_Raja_Ampat.jpg/1280px-Pulau_Piaynemo%2C_Raja_Ampat.jpg",
+        "maps_query": "Piaynemo, Raja Ampat, Indonesia"
       },
       {
-        "name": "Lake Toba",
-        "wiki_title": "Lake Toba",
+        "name": "Tuk Tuk Peninsula",
+        "wiki_title": "Tuktuk",
         "region": "North Sumatra",
-        "lat": 2.6848,
-        "lng": 98.874,
+        "lat": 2.6658,
+        "lng": 98.8586,
         "day": 6,
         "order_index": 5,
         "requires_car": true,
@@ -3217,12 +3221,12 @@
           "summer",
           "autumn"
         ],
-        "description": "Vast Lake Toba fills a supervolcano caldera with Batak villages on Samosir Island.",
-        "seo_phrase": "Lake Toba | Samosir Island & Batak Culture",
+        "description": "Tuk Tuk peninsula on Samosir Island — the main lakeside base for exploring Lake Toba.",
+        "seo_phrase": "Tuk Tuk Lake Toba | Samosir Peninsula Stay Hub",
         "seo_keywords": [
+          "Tuk Tuk",
           "Lake Toba",
-          "Samosir Island",
-          "North Sumatra"
+          "Samosir Island"
         ],
         "seo_priority": 95,
         "best_season": [
@@ -3231,14 +3235,16 @@
           "autumn"
         ],
         "visit_duration_hours": 4,
-        "type": "nature"
+        "type": "landmark",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lake_Toba%3B_View_of_Tuktuk_from_Lake_Toba_04.JPG/1280px-Lake_Toba%3B_View_of_Tuktuk_from_Lake_Toba_04.JPG",
+        "maps_query": "Tuk Tuk, Samosir, North Sumatra, Indonesia"
       },
       {
         "name": "Tumpak Sewu Waterfall",
         "wiki_title": "Tumpak Sewu",
         "region": "East Java",
-        "lat": -8.2333,
-        "lng": 112.9167,
+        "lat": -8.2304,
+        "lng": 112.9178,
         "day": 7,
         "order_index": 6,
         "requires_car": true,
@@ -3264,7 +3270,9 @@
           "autumn"
         ],
         "visit_duration_hours": 4,
-        "type": "nature"
+        "type": "nature",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Tumpak_sewu_waterfall.jpg/1280px-Tumpak_sewu_waterfall.jpg",
+        "maps_query": "Tumpak Sewu Waterfall, Lumajang, Indonesia"
       },
       {
         "name": "Bunaken National Park",
@@ -3300,11 +3308,11 @@
         "type": "nature"
       },
       {
-        "name": "Tanjung Puting National Park",
-        "wiki_title": "Tanjung Puting National Park",
+        "name": "Camp Leakey",
+        "wiki_title": "Camp Leakey",
         "region": "Central Kalimantan",
-        "lat": -3.1,
-        "lng": 111.95,
+        "lat": -2.7608,
+        "lng": 111.9389,
         "day": 9,
         "order_index": 8,
         "requires_car": true,
@@ -3316,12 +3324,12 @@
           "summer",
           "autumn"
         ],
-        "description": "Houseboat cruises on the Sekonyer River bring orangutans and proboscis monkeys into view.",
-        "seo_phrase": "Tanjung Puting | Orangutan River Safari Borneo",
+        "description": "Historic orangutan research camp on the Sekonyer River inside Tanjung Puting National Park.",
+        "seo_phrase": "Camp Leakey | Orangutan River Safari Stop",
         "seo_keywords": [
+          "Camp Leakey",
           "Tanjung Puting",
-          "orangutan Borneo",
-          "Kalimantan river cruise"
+          "orangutan Borneo"
         ],
         "seo_priority": 92,
         "best_season": [
@@ -3330,7 +3338,9 @@
           "autumn"
         ],
         "visit_duration_hours": 4,
-        "type": "nature"
+        "type": "nature",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tanjung_Puting.jpg/1280px-Tanjung_Puting.jpg",
+        "maps_query": "Camp Leakey, Tanjung Puting, Indonesia"
       },
       {
         "name": "Wae Rebo Village",
