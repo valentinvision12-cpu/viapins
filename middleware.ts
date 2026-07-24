@@ -138,7 +138,7 @@ async function handleAdminRoute(request: NextRequest): Promise<NextResponse> {
     return NextResponse.redirect(loginUrl);
   }
 
-  // Authenticated but not admin → bounce to public site
+  // Authenticated but not admin → login with clear error (not public site)
   if (user && !isLoginPage) {
     const { data: profile } = await supabase
       .from("profiles")
@@ -147,11 +147,14 @@ async function handleAdminRoute(request: NextRequest): Promise<NextResponse> {
       .single();
 
     if (!profile?.is_admin) {
-      return NextResponse.redirect(new URL("/en", request.url));
+      const loginUrl = new URL("/admin/login", request.url);
+      loginUrl.searchParams.set("error", "not_admin");
+      loginUrl.searchParams.set("redirectTo", request.nextUrl.pathname);
+      return NextResponse.redirect(loginUrl);
     }
   }
 
-  // Already on login page and authenticated admin → go to dashboard
+  // Already on login page and authenticated admin → honor redirectTo or dashboard
   if (user && isLoginPage) {
     const { data: profile } = await supabase
       .from("profiles")
@@ -160,7 +163,10 @@ async function handleAdminRoute(request: NextRequest): Promise<NextResponse> {
       .single();
 
     if (profile?.is_admin) {
-      return NextResponse.redirect(new URL("/admin", request.url));
+      const dest =
+        request.nextUrl.searchParams.get("redirectTo") || "/admin";
+      const safeDest = dest.startsWith("/admin") ? dest : "/admin";
+      return NextResponse.redirect(new URL(safeDest, request.url));
     }
   }
 

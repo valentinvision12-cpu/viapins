@@ -1,6 +1,6 @@
 "use client";
 
-import { Suspense, useState, useTransition } from "react";
+import { Suspense, useEffect, useState, useTransition } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { createClient } from "@/lib/supabase/client";
 import { SITE_NAME } from "@/lib/site-brand";
@@ -10,35 +10,66 @@ function AdminLoginForm() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const redirectTo = searchParams.get("redirectTo") ?? "/admin";
+  const urlError = searchParams.get("error");
 
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [showPassword, setShowPassword] = useState(false);
-  const [error, setError] = useState<string | null>(null);
+  const [error, setError] = useState<string | null>(
+    urlError === "not_admin"
+      ? "Този акаунт не е администратор. Влез с админ имейл."
+      : null
+  );
   const [isPending, startTransition] = useTransition();
 
   const supabase = createClient();
+
+  // Clear non-admin session so the admin form can sign in cleanly.
+  useEffect(() => {
+    if (urlError !== "not_admin") return;
+    void supabase.auth.signOut();
+  }, [urlError, supabase.auth]);
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     setError(null);
 
     startTransition(async () => {
-      const { error } = await supabase.auth.signInWithPassword({
-        email: email.trim(),
-        password,
-      });
+      const { data: signInData, error: signInError } =
+        await supabase.auth.signInWithPassword({
+          email: email.trim(),
+          password,
+        });
 
-      if (error) {
+      if (signInError) {
         setError(
-          error.message === "Invalid login credentials"
+          signInError.message === "Invalid login credentials"
             ? "Невалиден имейл или парола."
             : "Възникна грешка. Моля, опитайте отново."
         );
         return;
       }
 
-      router.push(redirectTo);
+      const userId = signInData.user?.id;
+      if (!userId) {
+        setError("Влизането не успя. Опитай отново.");
+        return;
+      }
+
+      const { data: profile } = await supabase
+        .from("profiles")
+        .select("is_admin")
+        .eq("id", userId)
+        .maybeSingle();
+
+      if (!profile?.is_admin) {
+        await supabase.auth.signOut();
+        setError("Този акаунт не е администратор. Нужен е админ достъп.");
+        return;
+      }
+
+      const safeDest = redirectTo.startsWith("/admin") ? redirectTo : "/admin";
+      router.push(safeDest);
       router.refresh();
     });
   }
