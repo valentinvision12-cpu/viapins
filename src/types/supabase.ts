@@ -261,6 +261,7 @@ export type Database = {
           social_links: Json;
           ad_scripts: Json;
           affiliate_config: Json;
+          indexing_config?: Json;
           updated_at: string;
         };
         Insert: {
@@ -269,6 +270,7 @@ export type Database = {
           social_links?: Json;
           ad_scripts?: Json;
           affiliate_config?: Json;
+          indexing_config?: Json;
           updated_at?: string;
         };
         Update: {
@@ -276,6 +278,7 @@ export type Database = {
           social_links?: Json;
           ad_scripts?: Json;
           affiliate_config?: Json;
+          indexing_config?: Json;
           updated_at?: string;
         };
         Relationships: [];

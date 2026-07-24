@@ -23,6 +23,20 @@ const BLOCKED_PATTERNS = [
 export async function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
+  // SEO / machine-readable endpoints — never locale-prefix these
+  if (
+    pathname === "/robots.txt" ||
+    pathname === "/sitemap.xml" ||
+    pathname.startsWith("/sitemap/") ||
+    pathname === "/feed.xml" ||
+    pathname === "/llms.txt" ||
+    pathname === "/indexnow-key.txt" ||
+    pathname === "/manifest.webmanifest" ||
+    pathname === "/manifest.json"
+  ) {
+    return NextResponse.next();
+  }
+
   // Block obvious attack patterns
   const fullUrl = pathname + request.nextUrl.search;
   for (const pattern of BLOCKED_PATTERNS) {
@@ -199,8 +213,9 @@ export const config = {
      * - _next/static  (static assets)
      * - _next/image   (image optimisation)
      * - favicon.ico
+     * - SEO endpoints (robots, sitemap, feed, llms, indexnow)
      * - common image / font extensions
      */
-    "/((?!_next/static|_next/image|favicon.ico|.*\\.(?:svg|png|jpg|jpeg|gif|webp|ico|woff|woff2)$).*)",
+    "/((?!_next/static|_next/image|favicon.ico|robots\\.txt|sitemap\\.xml|feed\\.xml|llms\\.txt|indexnow-key\\.txt|.*\\.(?:svg|png|jpg|jpeg|gif|webp|ico|woff|woff2)$).*)",
   ],
 };

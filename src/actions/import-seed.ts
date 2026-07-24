@@ -16,26 +16,26 @@ import { readFileSync } from "fs";
 
 import { join } from "path";
 
+import { slugify } from "@/lib/utils";
+
+import {
+  notifyEntireSiteBackground,
+  notifySearchEnginesBackground,
+  urlsForCountry,
+} from "@/lib/search-engines";
+
 
 
 export type ImportSeedResult =
-
   | {
-
       success: true;
-
       imported: number;
-
       total: number;
-
+      country?: string;
       stats: ReturnType<typeof seedStats>;
-
       adventure?: ReturnType<typeof adventureSeedStats>;
-
       cities: { city: string; placeCount: number; destinationId: string }[];
-
     }
-
   | { success: false; error: string };
 
 
@@ -90,6 +90,26 @@ export async function importSeedAction(
 
     revalidatePath("/[locale]/explore/[country]/adventure", "page");
 
+    try {
+      const countrySlug = slugify(result.country || result.stats.country);
+      if (countrySlug) {
+        void urlsForCountry(countrySlug)
+          .then((urls) => {
+            notifySearchEnginesBackground(urls, {
+              source: "import-seed",
+              type: "URL_UPDATED",
+            });
+          })
+          .catch(() => {
+            notifyEntireSiteBackground({ source: "import-seed-fallback" });
+          });
+      } else {
+        notifyEntireSiteBackground({ source: "import-seed" });
+      }
+    } catch (err) {
+      console.error("[indexing] import-seed notify", err);
+    }
+
     return {
 
       success: true,
@@ -97,6 +117,8 @@ export async function importSeedAction(
       imported: result.imported,
 
       total: result.total,
+
+      country: result.country,
 
       stats: result.stats,
 

@@ -3,6 +3,10 @@
 import { createClient } from "@/lib/supabase/server";
 import { revalidatePath, revalidateTag } from "next/cache";
 import { slugify } from "@/lib/utils";
+import {
+  notifySearchEnginesBackground,
+  urlsForDestination,
+} from "@/lib/search-engines";
 import type { GenerationResult } from "./generate-destination";
 
 export type PublishResult =
@@ -137,6 +141,20 @@ export async function publishDestinationAction(
       revalidateTag("destinations");
     } catch {
       /* ignore — cache invalidation must not fail publish */
+    }
+
+    try {
+      const urls = urlsForDestination({
+        countrySlug,
+        citySlug,
+        placeNames: data.places.map((p) => p.name),
+      });
+      notifySearchEnginesBackground(urls, {
+        source: "publish-destination",
+        type: "URL_UPDATED",
+      });
+    } catch (err) {
+      console.error("[indexing] publish-destination notify", err);
     }
 
     return { success: true, destinationId };

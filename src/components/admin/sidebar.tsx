@@ -15,6 +15,7 @@ import {
   FileJson,
   Users,
   Compass,
+  Radar,
 } from "lucide-react";
 
 const NAV_ITEMS = [
@@ -38,6 +39,11 @@ const NAV_ITEMS = [
     href: "/admin/import",
     label: "Качи държава",
     icon: FileJson,
+  },
+  {
+    href: "/admin/indexing",
+    label: "Индексиране",
+    icon: Radar,
   },
   {
     href: "/admin/users",

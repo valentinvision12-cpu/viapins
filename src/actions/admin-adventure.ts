@@ -7,6 +7,10 @@ import { createServiceClient } from "@/lib/supabase/service";
 import type { SupabaseClient } from "@supabase/supabase-js";
 import { importAdventureFromSeedFile } from "@/lib/import-country-core";
 import type { AdventureCollection } from "@/lib/adventure-types";
+import {
+  notifySearchEnginesBackground,
+  urlsForAdventure,
+} from "@/lib/search-engines";
 
 export type AdminAdventureRow = {
   country: string;
@@ -104,6 +108,17 @@ export async function toggleAdventurePublishedAction(
     revalidatePath("/admin/adventures");
     revalidatePath(`/admin/adventures/${slug}`);
     revalidatePath("/");
+
+    try {
+      const urls = urlsForAdventure(slug.toLowerCase());
+      notifySearchEnginesBackground(urls, {
+        source: "toggle-adventure",
+        type: currentlyPublished ? "URL_DELETED" : "URL_UPDATED",
+      });
+    } catch (err) {
+      console.error("[indexing] toggle-adventure notify", err);
+    }
+
     return { success: true };
   } catch (err) {
     return {
@@ -137,6 +152,16 @@ export async function importAdventureFromSeedAction(
     revalidatePath(`/admin/adventures/${result.slug}`);
     revalidatePath("/");
     revalidatePath("/[locale]/adventures", "page");
+
+    try {
+      const urls = urlsForAdventure(result.slug.toLowerCase());
+      notifySearchEnginesBackground(urls, {
+        source: "import-adventure",
+        type: "URL_UPDATED",
+      });
+    } catch (err) {
+      console.error("[indexing] import-adventure notify", err);
+    }
 
     return { success: true, stopCount: result.stopCount };
   } catch (err) {
