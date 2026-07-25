@@ -1,8 +1,26 @@
+import type { Metadata } from "next";
 import { SITE_DEFAULT_URL } from "@/lib/site-brand";
 /**
  * SEO helpers — long-tail titles, descriptions, keywords.
  * Auto-generates defaults; seed files can override per city/place.
  */
+
+/**
+ * Search Console / Bing / Yandex verification tokens from env.
+ * Unused vars are omitted from the metadata object.
+ */
+export function buildVerificationMetadata(): NonNullable<Metadata["verification"]> {
+  const google = process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION?.trim();
+  const bing = process.env.NEXT_PUBLIC_BING_SITE_VERIFICATION?.trim();
+  const yandex = process.env.NEXT_PUBLIC_YANDEX_VERIFICATION?.trim();
+  const other: Record<string, string | (string | number)[]> = {};
+  if (bing) other["msvalidate.01"] = bing;
+  return {
+    ...(google ? { google } : {}),
+    ...(yandex ? { yandex } : {}),
+    ...(Object.keys(other).length ? { other } : {}),
+  };
+}
 
 export type Locale = "en" | "bg" | "es" | "fr" | "de" | "it";
 
@@ -185,15 +203,34 @@ export function buildLocaleAlternates(path: string): {
 } {
   const siteUrl = getSiteUrl();
   const normalized = path.startsWith("/") ? path : `/${path}`;
-  const bare = normalized.replace(/^\/(en|es|fr|de|it)(?=\/|$)/, "") || "/";
-  const languages: Record<string, string> = { "x-default": `${siteUrl}/en${bare === "/" ? "" : bare}` };
+  // Strip any supported locale prefix (including bg — previously missing).
+  const bare =
+    normalized.replace(/^\/(en|bg|es|fr|de|it)(?=\/|$)/, "") || "/";
+  const suffix = bare === "/" ? "" : bare;
+  const languages: Record<string, string> = {
+    "x-default": `${siteUrl}/en${suffix}`,
+  };
   for (const locale of SEO_LOCALES) {
-    languages[locale] = `${siteUrl}/${locale}${bare === "/" ? "" : bare}`;
+    languages[locale] = `${siteUrl}/${locale}${suffix}`;
   }
   return {
+    // Canonical defaults to English map entry; pages should override with
+    // the current locale URL when emitting Metadata.alternates.canonical.
     canonical: languages.en,
     languages,
   };
+}
+
+/** Absolute canonical URL for the current locale + bare path. */
+export function buildCanonicalUrl(locale: string, path: string): string {
+  const siteUrl = getSiteUrl();
+  const normalized = path.startsWith("/") ? path : `/${path}`;
+  const bare =
+    normalized.replace(/^\/(en|bg|es|fr|de|it)(?=\/|$)/, "") || "/";
+  const safeLocale = (SEO_LOCALES as readonly string[]).includes(locale)
+    ? locale
+    : "en";
+  return `${siteUrl}/${safeLocale}${bare === "/" ? "" : bare}`;
 }
 
 export function buildCountryPageUrl(locale: string, countrySlug: string): string {
