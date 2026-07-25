@@ -1,7 +1,8 @@
 import { createServiceClient } from "@/lib/supabase/service";
 import { countryLabel } from "@/lib/analytics/geo";
 
-export const LIVE_WINDOW_MS = 5 * 60 * 1000;
+/** Drop stale presence quickly; leave beacon clears on last-tab close. */
+export const LIVE_WINDOW_MS = 45 * 1000;
 
 export type LiveVisitor = {
   sessionId: string;

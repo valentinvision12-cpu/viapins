@@ -10,7 +10,7 @@ type Body = {
   path?: string;
   locale?: string;
   referrer?: string;
-  type?: "pageview" | "heartbeat";
+  type?: "pageview" | "heartbeat" | "leave";
 };
 
 const SESSION_RE = /^[a-zA-Z0-9_-]{8,64}$/;
@@ -40,6 +40,24 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ ok: false, error: "bad session" }, { status: 400 });
   }
 
+  const type =
+    body.type === "heartbeat"
+      ? "heartbeat"
+      : body.type === "leave"
+        ? "leave"
+        : "pageview";
+
+  if (type === "leave") {
+    const { error } = await supabase
+      .from("visitor_presence")
+      .delete()
+      .eq("session_id", sessionId);
+    if (error) {
+      console.error("[analytics/collect] leave", error.message);
+    }
+    return NextResponse.json({ ok: true });
+  }
+
   const path = sanitizePath(body.path);
   if (!path) {
     return NextResponse.json({ ok: true, skipped: true });
@@ -49,7 +67,6 @@ export async function POST(req: NextRequest) {
     typeof body.locale === "string" ? body.locale.slice(0, 8) : null;
   const referrer =
     typeof body.referrer === "string" ? body.referrer.slice(0, 500) : null;
-  const type = body.type === "heartbeat" ? "heartbeat" : "pageview";
   const { countryCode, city } = countryFromHeaders(req.headers);
   const ua = (req.headers.get("user-agent") || "").slice(0, 240);
   const now = new Date().toISOString();

@@ -70,12 +70,14 @@ function StatCard({
   icon: Icon,
   accent,
   pulse,
+  hint,
 }: {
   label: string;
   value: number | string;
   icon: React.ElementType;
   accent: string;
   pulse?: boolean;
+  hint?: string;
 }) {
   return (
     <div className="bg-white rounded-2xl border border-gray-100 p-5 shadow-sm">
@@ -89,6 +91,9 @@ function StatCard({
         </div>
       </div>
       <p className="text-3xl font-bold text-gray-900 tabular-nums">{value}</p>
+      {hint ? (
+        <p className="mt-1.5 text-[11px] leading-snug text-gray-400">{hint}</p>
+      ) : null}
     </div>
   );
 }
@@ -158,6 +163,7 @@ export function AnalyticsPanel({
           icon={Activity}
           accent="bg-emerald-50 text-emerald-600"
           pulse={data.liveCount > 0}
+          hint="1 браузър = 1 посетител (табовете не се броят отделно)"
         />
         <StatCard
           label="Прегледи днес"
