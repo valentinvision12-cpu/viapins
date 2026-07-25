@@ -211,6 +211,147 @@ export function commonsFileUrl(fileName: string, width = 900): string {
   return `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(clean)}?width=${width}`;
 }
 
+/** Extract Commons file name from upload.wikimedia.org or Special:FilePath URL. */
+export function extractCommonsFileName(url: string): string | null {
+   if (!url?.trim()) return null;
+   try {
+    const u = new URL(url.trim());
+    const pathname = decodeURIComponent(u.pathname)
+
+    const specialMatch = pathname.match(/Special:FilePath\/([^/?#]+)/i)
+    if (specialMatch?.[1]) {
+      const name = decodeURIComponent(specialMatch[1])
+        .replace(/^File:/i, "")
+        .trim();
+      return name || null;
+    }
+
+    const commonsIdx = pathname.toLowerCase().indexOf("/commons/");
+    if (commonsIdx === -1) return null;
+
+    let rest = pathname.slice(commonsIdx + "/commons/".length);
+    if (rest.toLowerCase().startsWith("thumb/")) {
+      rest = rest.slice("thumb/".length);
+    }
+
+    const parts = rest.split("/").filter(Boolean);
+    if (parts.length < 3) return null;
+    const name = parts[2].replace(/^File:/i, "").trim();
+    return name || null;
+  } catch {
+   return null;
+ }
+}
+
+/** Non-thumb original commons paths are brittle (often 404 after renames). */
+export function isFragileWikimediaUrl(url: string): boolean {
+  if (!url?.trim()) return false;
+  try {
+    const u = new URL(url.trim());
+    if (!/^upload\.wikimedia\.org$/i.test(u.hostname)) return false;
+    const pathLower = u.pathname.toLowerCase();
+    return pathLower.includes("/commons/") && !pathLower.includes("/thumb/");
+  } catch {
+   return false;
+  }
+}
+
+/** Thin Commons thumb lookup for repair — skips size/license/bad-name filters. */
+async function getCommonsFileThumbRaw(
+  fileName: string,
+  thumbSize: number
+): Promise<string> {
+  const title = fileName.startsWith("File:") ? fileName : `File:${fileName}`;
+  const p = new URLSearchParams({
+    action: "query",
+    titles: title,
+    prop: "imageinfo",
+    iiprop: "url",
+    iiurlwidth: String(Math.max(thumbSize, 640)),
+    redirects: "1",
+    format: "json",
+  });
+  const data = await fetchJSON(`${COMMONS_API}?${p}`);
+  const page = firstPage(data);
+  if (!page || (page as { missing?: unknown }).missing !== undefined) return "";
+  const info = (
+    (page as { imageinfo?: { thumburl?: string; url?: string }[] })?.imageinfo ??
+    []
+  )[0];
+  if (!info) return "";
+  return info.thumburl || info.url || "";
+}
+
+/** Rewrite non-thumb upload path to a /thumb/ URL (CDN may still serve it). */
+function rewriteFragileToThumbUrl(url: string, width = 1280): string {
+  try {
+    const u = new URL(url.trim());
+    if (!/^upload\.wikimedia\.org$/i.test(u.hostname)) return "";
+    const pathLower = u.pathname.toLowerCase();
+    if (!pathLower.includes("/commons/") || pathLower.includes("/thumb/")) {
+      return "";
+    }
+    const fileName = extractCommonsFileName(url);
+    if (!fileName) return "";
+    // Insert /thumb/ after /commons/ and append /NNNpx-File
+    const pathname = decodeURIComponent(u.pathname);
+    const commonsIdx = pathname.toLowerCase().indexOf("/commons/");
+    const after = pathname.slice(commonsIdx + "/commons/".length);
+    const parts = after.split("/").filter(Boolean);
+    if (parts.length < 3) return "";
+    const [h1, h2] = parts;
+    const encoded = encodeURIComponent(fileName).replace(/%2F/gi, "/");
+    u.pathname = `/wikipedia/commons/thumb/${h1}/${h2}/${encoded}/${width}px-${encoded}`;
+    return u.toString();
+  } catch {
+    return "";
+  }
+}
+
+/**
+ * Re-resolve a Wikimedia URL to a current live thumb via Commons API.
+ * Returns "" if not a commons URL or file missing.
+ */
+export async function repairWikimediaUrl(
+  url: string,
+  width = 1280
+): Promise<string> {
+  const fileName = extractCommonsFileName(url);
+  if (!fileName) return "";
+
+  // Prefer filtered resolver; fall back to raw API then verified path rewrite.
+  const viaFiltered = await getCommonsFileThumb(fileName, width);
+  if (viaFiltered) return viaFiltered;
+
+  const viaRaw = await getCommonsFileThumbRaw(fileName, width);
+  if (viaRaw) return viaRaw;
+
+  const rewritten = rewriteFragileToThumbUrl(url, width);
+  if (!rewritten || rewritten === url) return "";
+  try {
+    const ctrl = new AbortController();
+    const t = setTimeout(() => ctrl.abort(), 12000);
+    const res = await fetch(rewritten, {
+      method: "GET",
+      redirect: "follow",
+      signal: ctrl.signal,
+      headers: {
+        "User-Agent": UA,
+        Range: "bytes=0-1023",
+        Accept: "image/*,*/*",
+      },
+    });
+    clearTimeout(t);
+    const ct = (res.headers.get("content-type") || "").toLowerCase();
+    if ((res.ok || res.status === 206) && ct.startsWith("image/")) {
+      return rewritten;
+    }
+  } catch {
+    /* ignore */
+  }
+  return "";
+}
+
 async function getCommonsFileThumb(
   fileName: string,
   thumbSize: number
