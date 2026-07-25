@@ -25,7 +25,8 @@ export function AdventureRoutePlanner({ places, totalDays }: Props) {
 
   const sortedPlaces = useMemo(() => sortByRecommendedOrder(places), [places]);
 
-  const allInCart = sortedPlaces.every((p) => isInCart(p.id));
+  const allInCart =
+    sortedPlaces.length > 0 && sortedPlaces.every((p) => isInCart(p.id));
   const isAdventureCart = cartMode === "adventure" || cartMode === null;
 
   function handleAddFullRoute() {
@@ -44,7 +45,7 @@ export function AdventureRoutePlanner({ places, totalDays }: Props) {
       >
         <div className="px-5 py-4 border-b border-orange-100 bg-gradient-to-r from-orange-50 to-amber-50/50">
           <div className="flex items-start gap-3">
-            <div className="w-10 h-10 rounded-xl bg-orange-500 flex items-center justify-center flex-shrink-0">
+            <div className="w-10 h-10 rounded-full bg-orange-500 flex items-center justify-center flex-shrink-0 shadow-sm shadow-orange-200">
               <RouteIcon className="w-5 h-5 text-white" />
             </div>
             <div className="flex-1 min-w-0">
@@ -65,7 +66,7 @@ export function AdventureRoutePlanner({ places, totalDays }: Props) {
             type="button"
             onClick={handleAddFullRoute}
             disabled={allInCart}
-            className="w-full flex items-center justify-center gap-2 py-3 rounded-xl font-semibold text-sm transition-all disabled:opacity-60 bg-orange-500 text-white hover:bg-orange-600"
+            className="w-full flex items-center justify-center gap-2 py-3.5 rounded-2xl font-semibold text-sm transition-all disabled:opacity-90 disabled:cursor-default bg-orange-500 text-white hover:bg-orange-600 shadow-md shadow-orange-200/60"
           >
             {allInCart || addedFlash ? (
               <><Check className="w-4 h-4" />{t("fullRouteAdded")}</>

@@ -80,7 +80,7 @@ export function AdventurePlaceCard({ place, locale, index, stopNumber }: Props) 
       }`}
     >
       <div className="flex flex-col gap-0 sm:flex-row">
-        <div className="relative h-48 flex-shrink-0 overflow-hidden sm:h-auto sm:w-56 sm:rounded-l-2xl">
+        <div className="relative h-48 w-full flex-shrink-0 overflow-hidden sm:h-auto sm:min-h-[11.5rem] sm:w-56 sm:self-stretch sm:rounded-l-2xl bg-gradient-to-br from-orange-100 to-amber-200">
           {imgSrc ? (
             <Image
               src={imgSrc}
@@ -90,17 +90,9 @@ export function AdventurePlaceCard({ place, locale, index, stopNumber }: Props) 
               className="object-cover transition-transform duration-500 group-hover:scale-[1.03]"
               referrerPolicy={IMAGE_REFERRER_POLICY}
               onError={() => {
-                fetch(`/api/places/${place.id}/image?refresh=1`)
-                  .then((r) => r.json())
-                  .then((data: { url?: string }) => {
-                    if (data.url) setImgSrc(data.url);
-                    else if (imgSrc !== _fallback) setImgSrc(_fallback);
-                    else setImgSrc("");
-                  })
-                  .catch(() => {
-                    if (imgSrc !== _fallback) setImgSrc(_fallback);
-                    else setImgSrc("");
-                  });
+                // Adventure place IDs are not in `places` table — resolve via fallback only.
+                if (imgSrc !== _fallback) setImgSrc(_fallback);
+                else setImgSrc("");
               }}
               unoptimized={IMAGE_UNOPTIMIZED}
             />

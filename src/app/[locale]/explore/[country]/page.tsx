@@ -18,7 +18,7 @@ import { getAdventureCollection } from "@/lib/adventure-data";
 import { getCountryContinent } from "@/lib/country-continents";
 import { resolveCountryCoverImages } from "@/lib/country-covers";
 import { isBadImageUrl } from "@/lib/wiki-image";
-import { filterPlacesForDisplay, pickCityCoverFromPlaces } from "@/lib/city-cover";
+import { pickCityCoverFromPlaces } from "@/lib/city-cover";
 import {
   buildCountryPageUrl,
   buildLocaleAlternates,
@@ -97,10 +97,11 @@ export default async function ExploreCountryPage({ params }: Props) {
 
   if (!country || !data) notFound();
 
-  const adventurePlaces = adventure
-    ? filterPlacesForDisplay(adventure.places, adventure.country || country.country)
-    : [];
-  const showAdventure = adventurePlaces.length > 0;
+  // Show Road trip tab whenever an adventure collection exists.
+  // Never run city "vague place" filters on curated adventure stops —
+  // that wiped national parks and hid the road buttons entirely.
+  const adventurePlaces = adventure?.places ?? [];
+  const showAdventure = Boolean(adventure);
   const adventureCover =
     (adventure?.heroImage?.trim() && !isBadImageUrl(adventure.heroImage)
       ? adventure.heroImage

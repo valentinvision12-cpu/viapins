@@ -1,18 +1,19 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
-import { ArrowLeft, Car, Compass, Mountain } from "lucide-react";
+import { ArrowLeft, Car, Compass, MapPin, Mountain } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import { getAdventureCollection } from "@/lib/adventure-data";
 import { getCountryDisplayName } from "@/lib/country-meta";
 import { CountryHeroCover } from "@/components/public/country-hero-cover";
 import { isBadImageUrl } from "@/lib/wiki-image";
-import { filterPlacesForDisplay, pickCityCoverFromPlaces } from "@/lib/city-cover";
+import { pickCityCoverFromPlaces } from "@/lib/city-cover";
+import { isValidMapLocation } from "@/lib/place-links";
 import { NavHeader } from "@/components/public/nav-header";
 import { AdventureRoutePlanner } from "@/components/public/adventure-route-planner";
 import { AdventurePlaceCard } from "@/components/public/adventure-place-card";
 import { AdventureProgress } from "@/components/public/adventure-progress";
-import { getSiteUrl } from "@/lib/seo";
+import { getSiteUrl, buildLocaleAlternates } from "@/lib/seo";
 import { JsonLd } from "@/lib/schema/JsonLd";
 import { generateSchema, buildAdventureFaqs } from "@/lib/schema";
 import { SITE_NAME } from "@/lib/site-brand";
@@ -31,17 +32,30 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const title = seo?.title ?? `${collection.title}${t("separator")}${t("defaultTitle")}`;
   const description = seo?.description ?? collection.subtitle;
   const pageUrl = `${getSiteUrl()}/${locale}/explore/${country}/adventure`;
+  const path = `/explore/${country}/adventure`;
+  const alternates = buildLocaleAlternates(path);
 
   return {
     title,
     description,
-    alternates: { canonical: pageUrl },
+    alternates: { canonical: pageUrl, languages: alternates.languages },
     openGraph: {
       title,
       description,
       url: pageUrl,
       type: "article",
       images: collection.heroImage ? [{ url: collection.heroImage }] : [],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      images: collection.heroImage ? [collection.heroImage] : [],
+    },
+    robots: {
+      index: true,
+      follow: true,
+      googleBot: { index: true, follow: true, "max-image-preview": "large" },
     },
   };
 }
@@ -53,7 +67,12 @@ export default async function AdventurePage({ params }: Props) {
   const raw = await getAdventureCollection(country);
   if (!raw) notFound();
 
-  const resolvedPlaces = filterPlacesForDisplay(raw.places, raw.country);
+  // Adventure stops are curated (national parks, scenic drives, etc.).
+  // Do NOT apply city landmark / vague-zone filters — they hide the whole route.
+  // Only drop pins with unusable coordinates (validCoord coerces string lat/lng).
+  const resolvedPlaces = (raw.places ?? []).filter((p) =>
+    isValidMapLocation(Number(p.lat), Number(p.lng), p.name)
+  );
   const heroImage =
     raw.heroImage?.trim() ||
     pickCityCoverFromPlaces(resolvedPlaces) ||
@@ -131,11 +150,11 @@ export default async function AdventurePage({ params }: Props) {
             </Link>
 
             <div className="flex items-center gap-2 mb-2">
-              <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-orange-500/25 border border-orange-400/30 text-orange-100 text-xs font-semibold">
+              <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-orange-500 text-white text-xs font-semibold shadow-sm shadow-orange-900/20">
                 <Compass className="w-3.5 h-3.5" />
-                Adventure Mode
+                {t("modeBadge")}
               </span>
-              <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-white/10 border border-white/15 text-white/80 text-xs">
+              <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-black/40 border border-white/15 text-white/90 text-xs backdrop-blur-sm">
                 <Car className="w-3.5 h-3.5" />
                 {t("carRequired")}
               </span>
@@ -176,8 +195,10 @@ export default async function AdventurePage({ params }: Props) {
 
         {/* Places detail list */}
         <section className="container max-w-6xl mx-auto px-6 py-6">
-          <h2 className="text-stone-800 font-bold text-lg mb-2 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-orange-500" />
+          <h2 className="text-stone-800 font-bold text-lg mb-3 flex items-center gap-2.5 pb-3 border-b border-stone-200/80">
+            <span className="flex h-7 w-7 items-center justify-center rounded-full bg-orange-500 text-white shadow-sm shadow-orange-200">
+              <MapPin className="w-3.5 h-3.5" />
+            </span>
             {t("allStopsDetail")}
           </h2>
           <p className="text-stone-400 text-sm mb-6">{t("allStopsHint")}</p>
