@@ -11,34 +11,27 @@ export type PlaceCoverSource = {
   order_index: number;
 };
 
-/** Best cover from existing places — prefers Wikimedia thumbs, skips maps / empty URLs. */
-/** Best cover from existing places - prefers Wikimedia thumbs, skips fragile non-thumb URLs unless no alternative. */
+/** Best cover from existing places — prefers thumbs, then any usable URL. */
 export function pickCityCoverFromPlaces(places: PlaceCoverSource[]): string {
   const sorted = [...places].sort((a, b) => a.order_index - b.order_index);
   const usable = sorted.filter(
     (p) => p.image_url?.trim() && !isBadImageUrl(p.image_url)
   );
+  // Prefer stable thumbs, but fall back to originals so cities are never blank.
   const nonFragile = usable.filter((p) => !isFragileWikimediaUrl(p.image_url));
-  // Never pick fragile originals for covers — they frequently 404.
-  const pool = nonFragile;
-  const thumb = pool.find((p) => new RegExp("/thumb/", "i").test(p.image_url));
+  const pool = nonFragile.length > 0 ? nonFragile : usable;
+  const thumb = pool.find((p) => /\/thumb\//i.test(p.image_url));
   if (thumb) return thumb.image_url;
   return pool[0]?.image_url ?? "";
 }
 
+/** Hero/cover from DB — prefer stored cover, else best place photo. */
 export function resolveCityCoverFromDb(
   storedCover: string | undefined,
   places: PlaceCoverSource[] = []
 ): string {
   const trimmed = storedCover?.trim() ?? "";
-  // Skip fragile non-thumb Commons originals — they often 404.
-  if (
-    trimmed &&
-    !isBadImageUrl(trimmed) &&
-    !isFragileWikimediaUrl(trimmed)
-  ) {
-    return trimmed;
-  }
+  if (trimmed && !isBadImageUrl(trimmed)) return trimmed;
   return pickCityCoverFromPlaces(places);
 }
 

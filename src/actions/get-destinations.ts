@@ -22,7 +22,7 @@ import {
   pickCityCoverFromPlaces,
   pickCountryCoversFromCities,
 } from "@/lib/city-cover";
-import { isBadImageUrl, isFragileWikimediaUrl } from "@/lib/wiki-image";
+import { isBadImageUrl } from "@/lib/wiki-image";
 import type { DestinationSeo } from "@/lib/seo";
 
 /**
@@ -171,8 +171,6 @@ type DestRow = {
 
 function isWeakCoverUrl(url: string): boolean {
   if (!url?.trim() || isBadImageUrl(url)) return true;
-  // Non-thumb Commons originals frequently 404 after renames.
-  if (isFragileWikimediaUrl(url)) return true;
   const u = url.toLowerCase();
   // Stock Unsplash/picsum used as "covers" look wrong for named cities
   if (u.includes("images.unsplash.com")) return true;
