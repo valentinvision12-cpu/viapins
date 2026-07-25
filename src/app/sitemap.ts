@@ -1,9 +1,11 @@
 import type { MetadataRoute } from "next";
 import { getSiteUrl, SEO_LOCALES } from "@/lib/seo";
 import { collectAllPathBatches } from "@/lib/sitemap-catalog";
-
-/** Soft cap per child sitemap (well under Google's 50k limit). */
-const URLS_PER_SITEMAP = 10_000;
+import {
+  getPathsPerSitemapChunk,
+  listSitemapChunkIds,
+  parseSitemapChunkId,
+} from "@/lib/sitemap-chunks";
 
 function localeAlternates(path: string): Record<string, string> {
   const baseUrl = getSiteUrl();
@@ -39,26 +41,25 @@ function pushLocalized(
 }
 
 /**
- * Split into multiple sitemaps — Next.js serves an index at /sitemap.xml
- * and children at /sitemap/{id}.xml.
+ * Child sitemaps at /sitemap/{id}.xml.
+ * Index is served by src/app/sitemap.xml/route.ts (Next does not expose /sitemap.xml
+ * reliably when generateSitemaps() is used).
  */
 export async function generateSitemaps() {
-  const batches = await collectAllPathBatches();
-  // Each path expands to SEO_LOCALES.length URLs.
-  const totalUrls = batches.length * SEO_LOCALES.length;
-  const count = Math.max(1, Math.ceil(totalUrls / URLS_PER_SITEMAP));
-  return Array.from({ length: count }, (_, id) => ({ id }));
+  return listSitemapChunkIds();
 }
 
 export default async function sitemap(props: {
   id: number | Promise<number | string>;
 }): Promise<MetadataRoute.Sitemap> {
   const rawId = await props.id;
-  const id = typeof rawId === "number" ? rawId : Number(rawId) || 0;
-  const batches = await collectAllPathBatches();
+  const id = parseSitemapChunkId(
+    typeof rawId === "number" || typeof rawId === "string" ? rawId : String(rawId)
+  );
+  if (id === null) return [];
 
-  // Slice by expanded URL budget (paths × locales).
-  const pathsPerChunk = Math.max(1, Math.floor(URLS_PER_SITEMAP / SEO_LOCALES.length));
+  const batches = await collectAllPathBatches();
+  const pathsPerChunk = getPathsPerSitemapChunk();
   const slice = batches.slice(id * pathsPerChunk, (id + 1) * pathsPerChunk);
 
   const entries: MetadataRoute.Sitemap = [];

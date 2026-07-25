@@ -225,9 +225,9 @@ export const config = {
      * - _next/static  (static assets)
      * - _next/image   (image optimisation)
      * - favicon.ico
-     * - SEO endpoints (robots, sitemap, feed, llms, indexnow)
+     * - SEO endpoints (robots, sitemap.xml, sitemap/*, feed, llms, indexnow)
      * - common image / font extensions
      */
-    "/((?!_next/static|_next/image|favicon.ico|robots\\.txt|sitemap\\.xml|feed\\.xml|llms\\.txt|indexnow-key\\.txt|.*\\.(?:svg|png|jpg|jpeg|gif|webp|ico|woff|woff2)$).*)",
+    "/((?!_next/static|_next/image|favicon.ico|robots\\.txt|sitemap(?:\\.xml|/)|feed\\.xml|llms\\.txt|indexnow-key\\.txt|.*\\.(?:svg|png|jpg|jpeg|gif|webp|ico|woff|woff2)$).*)",
   ],
 };

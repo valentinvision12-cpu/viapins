@@ -43,7 +43,7 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ["/admin/", "/api/", "/embed/"],
       },
     ],
-    // Next.js generateSitemaps() serves a functional sitemap index at /sitemap.xml
+    // Index XML from src/app/sitemap.xml/route.ts (children: /sitemap/{id}.xml)
     sitemap: `${BASE_URL}/sitemap.xml`,
     host: BASE_URL,
   };
