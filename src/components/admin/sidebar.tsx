@@ -16,6 +16,7 @@ import {
   Users,
   Compass,
   Radar,
+  Activity,
 } from "lucide-react";
 
 const NAV_ITEMS = [
@@ -24,6 +25,11 @@ const NAV_ITEMS = [
     label: "Начало",
     icon: LayoutDashboard,
     exact: true,
+  },
+  {
+    href: "/admin/analytics",
+    label: "Аналитика",
+    icon: Activity,
   },
   {
     href: "/admin/destinations",

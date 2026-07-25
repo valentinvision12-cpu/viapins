@@ -226,6 +226,22 @@ export default async function AdminDashboardPage() {
         />
       </div>
 
+      <div className="mb-10 p-5 rounded-2xl border border-emerald-200 bg-emerald-50/80 flex items-start justify-between gap-4">
+        <div>
+          <h2 className="text-sm font-bold text-emerald-900 mb-1">Аналитика на живо</h2>
+          <p className="text-sm text-emerald-900/75 leading-relaxed">
+            Виж колко души са на сайта сега, от коя държава идват и историята на трафика.
+          </p>
+        </div>
+        <Link
+          href="/admin/analytics"
+          className="shrink-0 inline-flex items-center gap-1 rounded-xl bg-emerald-600 px-4 py-2 text-sm font-semibold text-white hover:bg-emerald-700"
+        >
+          Отвори
+          <ArrowRight className="w-4 h-4" />
+        </Link>
+      </div>
+
       {/* AI Generator teaser (Module 2) */}
       <div className="mb-8 p-5 rounded-2xl bg-gradient-to-r from-[oklch(0.22_0.07_250)] to-[oklch(0.28_0.10_265)] text-white">
         <div className="flex items-center gap-3 mb-2">

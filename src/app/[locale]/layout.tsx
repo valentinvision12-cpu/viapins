@@ -13,6 +13,7 @@ import { CommandPalette } from "@/components/public/command-palette";
 import { AdBlockProvider } from "@/components/public/adblock-detector";
 import { GuardianAgent } from "@/components/public/guardian-agent";
 import { MobileBottomNav } from "@/components/public/mobile-bottom-nav";
+import { AnalyticsBeacon } from "@/components/public/analytics-beacon";
 import { getAffiliateConfig } from "@/lib/affiliates-data";
 
 type Props = {
@@ -54,6 +55,7 @@ export default async function LocaleLayout({ children, params }: Props) {
                   <RouteCart />
                   <CommandPalette />
                   <MobileBottomNav />
+                  <AnalyticsBeacon locale={locale} />
                 </FavoritesProvider>
               </RouteCartProvider>
             </AffiliateProvider>
