@@ -12,10 +12,12 @@ import {
   Heart,
   FolderOpen,
   Navigation,
-  ExternalLink,
   Star,
   LayoutGrid,
   List,
+  Plus,
+  Check,
+  RouteIcon,
 } from "lucide-react";
 import type { SavedRoute } from "@/actions/get-my-routes";
 import type { FavoritePlace } from "@/actions/favorites";
@@ -29,7 +31,8 @@ import { PassportEmptyState } from "@/components/public/passport-empty-state";
 import { PassportPostComposer } from "@/components/public/passport-post-composer";
 import { mapsPinLinkProps } from "@/components/public/maps-place-link";
 import { useFavorites } from "@/lib/context/favorites-context";
-import { buildCountryCollections } from "@/lib/collection-export";
+import { useRouteCart } from "@/lib/context/route-cart-context";
+import { buildCountryCollections, groupPlacesByCountry } from "@/lib/collection-export";
 import { fallbackImageUrl } from "@/lib/fallback-image";
 import { cn } from "@/lib/utils";
 import { PASSPORT } from "@/lib/luxury-palette";
@@ -48,7 +51,7 @@ interface Props {
   locale?: string;
   username?: string | null;
   defaultTab?: PassportSectionTab;
-  /** When true, only Trips + Places tabs (no collections/posts). */
+  /** When true, only Saved + Tours tabs (no collections/posts). */
   simplified?: boolean;
 }
 
@@ -66,15 +69,38 @@ const TABS: {
     | "passportTabCollections"
     | "passportTabPosts";
 }[] = [
-  { id: "trips", icon: Map, labelKey: "passportTabTrips" },
   { id: "places", icon: Heart, labelKey: "passportTabPlaces" },
+  { id: "trips", icon: Map, labelKey: "passportTabTrips" },
   { id: "collections", icon: FolderOpen, labelKey: "passportTabCollections" },
   { id: "posts", icon: Camera, labelKey: "passportTabPosts" },
 ];
 
+function routeCountry(route: SavedRoute, fallback: string): string {
+  const fromRoute = route.country?.trim();
+  if (fromRoute) return fromRoute;
+  const fromPlace = route.route_places.find((p) => p.country?.trim())?.country?.trim();
+  return fromPlace || fallback;
+}
+
+function groupRoutesByCountry(
+  routes: SavedRoute[],
+  otherLabel: string
+): Array<[string, SavedRoute[]]> {
+  const map = new Map<string, SavedRoute[]>();
+  for (const route of routes) {
+    const key = routeCountry(route, otherLabel);
+    const list = map.get(key) ?? [];
+    list.push(route);
+    map.set(key, list);
+  }
+  return [...map.entries()].sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0]));
+}
+
 function PlaceGridCard({ place, index }: { place: FavoritePlace; index: number }) {
   const t = useTranslations("myTrip");
   const { toggleFavorite } = useFavorites();
+  const { addItem, removeItem, isInCart, openPanel, totalItems } = useRouteCart();
+  const inTour = isInCart(place.place_id);
   const pin = mapsPinLinkProps(
     place.lat,
     place.lng,
@@ -82,6 +108,26 @@ function PlaceGridCard({ place, index }: { place: FavoritePlace; index: number }
     place.city,
     place.country
   );
+
+  function handleAddTour() {
+    if (inTour) {
+      removeItem(place.place_id);
+      return;
+    }
+    const added = addItem({
+      id: place.place_id,
+      name: place.name,
+      city: place.city,
+      country: place.country,
+      lat: place.lat,
+      lng: place.lng,
+      image_url: place.image_url,
+      order_index: totalItems,
+      mode: "adventure",
+      region: place.city,
+    });
+    if (added) openPanel();
+  }
 
   return (
     <motion.article
@@ -104,8 +150,9 @@ function PlaceGridCard({ place, index }: { place: FavoritePlace; index: number }
           sizes="(max-width: 640px) 50vw, 33vw"
           className="object-cover transition-transform duration-500 group-hover:scale-[1.04]"
           unoptimized={IMAGE_UNOPTIMIZED}
-              referrerPolicy={IMAGE_REFERRER_POLICY} />
-        <div className="absolute inset-0 bg-gradient-to-t from-black/45 via-transparent to-transparent" />
+          referrerPolicy={IMAGE_REFERRER_POLICY}
+        />
+        <div className="absolute inset-0 bg-gradient-to-t from-black/55 via-transparent to-transparent" />
         <button
           type="button"
           onClick={() => toggleFavorite(place)}
@@ -115,18 +162,44 @@ function PlaceGridCard({ place, index }: { place: FavoritePlace; index: number }
         >
           <Heart className="h-4 w-4 fill-red-500 text-red-500" />
         </button>
-        {pin ? (
-          <a
-            href={pin.href}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="absolute bottom-2 right-2 inline-flex items-center gap-1 rounded-full bg-white/92 px-2.5 py-1.5 text-[10px] font-semibold text-stone-700"
-            onClick={(e) => e.stopPropagation()}
+        <div className="absolute inset-x-2 bottom-2 flex items-center gap-1.5">
+          {pin ? (
+            <a
+              href={pin.href}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex flex-1 items-center justify-center gap-1 rounded-full bg-white/95 px-2.5 py-1.5 text-[10px] font-semibold text-stone-700 shadow-sm"
+              onClick={(e) => e.stopPropagation()}
+              title={pin.title}
+              aria-label={t("navigate")}
+            >
+              <Navigation className="h-3 w-3 shrink-0" style={{ color: PASSPORT.accent }} />
+              {t("navigate")}
+            </a>
+          ) : null}
+          <button
+            type="button"
+            onClick={(e) => {
+              e.stopPropagation();
+              handleAddTour();
+            }}
+            className={cn(
+              "inline-flex flex-1 items-center justify-center gap-1 rounded-full px-2.5 py-1.5 text-[10px] font-semibold shadow-sm transition-colors",
+              inTour
+                ? "bg-stone-900 text-white"
+                : "bg-white/95 text-stone-700 hover:bg-white"
+            )}
+            title={inTour ? t("passportInTour") : t("passportAddToTour")}
+            aria-label={inTour ? t("passportInTour") : t("passportAddToTour")}
           >
-            <Navigation className="h-3 w-3" style={{ color: PASSPORT.accent }} />
-            {t("navigate")}
-          </a>
-        ) : null}
+            {inTour ? (
+              <Check className="h-3 w-3 shrink-0" />
+            ) : (
+              <Plus className="h-3 w-3 shrink-0" style={{ color: PASSPORT.accent }} />
+            )}
+            {inTour ? t("passportInTour") : t("passportAddToTour")}
+          </button>
+        </div>
       </div>
       <div className="p-3">
         <h3 className="truncate text-sm font-semibold" style={{ color: PASSPORT.text }}>
@@ -147,6 +220,8 @@ function PlaceGridCard({ place, index }: { place: FavoritePlace; index: number }
 function PlaceListRow({ place, index }: { place: FavoritePlace; index: number }) {
   const t = useTranslations("myTrip");
   const { toggleFavorite } = useFavorites();
+  const { addItem, removeItem, isInCart, openPanel, totalItems } = useRouteCart();
+  const inTour = isInCart(place.place_id);
   const pin = mapsPinLinkProps(
     place.lat,
     place.lng,
@@ -154,6 +229,26 @@ function PlaceListRow({ place, index }: { place: FavoritePlace; index: number })
     place.city,
     place.country
   );
+
+  function handleAddTour() {
+    if (inTour) {
+      removeItem(place.place_id);
+      return;
+    }
+    const added = addItem({
+      id: place.place_id,
+      name: place.name,
+      city: place.city,
+      country: place.country,
+      lat: place.lat,
+      lng: place.lng,
+      image_url: place.image_url,
+      order_index: totalItems,
+      mode: "adventure",
+      region: place.city,
+    });
+    if (added) openPanel();
+  }
 
   return (
     <motion.article
@@ -176,7 +271,8 @@ function PlaceListRow({ place, index }: { place: FavoritePlace; index: number })
           sizes="64px"
           className="object-cover"
           unoptimized={IMAGE_UNOPTIMIZED}
-              referrerPolicy={IMAGE_REFERRER_POLICY} />
+          referrerPolicy={IMAGE_REFERRER_POLICY}
+        />
       </div>
       <div className="min-w-0 flex-1">
         <h3 className="truncate text-sm font-semibold" style={{ color: PASSPORT.text }}>
@@ -196,14 +292,37 @@ function PlaceListRow({ place, index }: { place: FavoritePlace; index: number })
             href={pin.href}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex h-9 w-9 items-center justify-center rounded-full border transition-colors hover:bg-black/[0.03]"
+            className="inline-flex h-9 items-center gap-1 rounded-full border px-2.5 text-[11px] font-semibold transition-colors hover:bg-black/[0.03]"
             style={{ borderColor: PASSPORT.cardBorder, color: PASSPORT.accent }}
             title={pin.title}
             aria-label={t("navigate")}
           >
-            <ExternalLink className="h-3.5 w-3.5" />
+            <Navigation className="h-3.5 w-3.5" />
+            <span className="hidden sm:inline">{t("navigate")}</span>
           </a>
         ) : null}
+        <button
+          type="button"
+          onClick={handleAddTour}
+          className={cn(
+            "inline-flex h-9 items-center gap-1 rounded-full border px-2.5 text-[11px] font-semibold transition-colors",
+            inTour
+              ? "border-stone-800 bg-stone-900 text-white"
+              : "hover:bg-black/[0.03]"
+          )}
+          style={
+            inTour
+              ? undefined
+              : { borderColor: PASSPORT.cardBorder, color: PASSPORT.text }
+          }
+          title={inTour ? t("passportInTour") : t("passportAddToTour")}
+          aria-label={inTour ? t("passportInTour") : t("passportAddToTour")}
+        >
+          {inTour ? <Check className="h-3.5 w-3.5" /> : <Plus className="h-3.5 w-3.5" />}
+          <span className="hidden sm:inline">
+            {inTour ? t("passportInTour") : t("passportAddToTour")}
+          </span>
+        </button>
         <button
           type="button"
           onClick={() => toggleFavorite(place)}
@@ -216,6 +335,30 @@ function PlaceListRow({ place, index }: { place: FavoritePlace; index: number })
         </button>
       </div>
     </motion.article>
+  );
+}
+
+function CountrySectionHeader({
+  country,
+  countLabel,
+}: {
+  country: string;
+  countLabel: string;
+}) {
+  return (
+    <div className="mb-3 flex items-end justify-between gap-3 border-b pb-2"
+      style={{ borderColor: PASSPORT.cardBorder }}
+    >
+      <div className="flex min-w-0 items-center gap-2">
+        <MapPin className="h-4 w-4 shrink-0" style={{ color: PASSPORT.accent }} />
+        <h3 className="truncate text-base font-bold tracking-tight" style={{ color: PASSPORT.text }}>
+          {country}
+        </h3>
+      </div>
+      <p className="shrink-0 text-xs font-medium" style={{ color: PASSPORT.textMuted }}>
+        {countLabel}
+      </p>
+    </div>
   );
 }
 
@@ -283,7 +426,7 @@ function PostsEmpty({ onCompose }: { onCompose: () => void }) {
 }
 
 /**
- * Full passport tab system — Trips · Places · Collections · Posts.
+ * Full passport tab system — Saved · Tours · Collections · Posts.
  * Bound only to getPassportProfile() props (no extra fetches).
  */
 export function PassportSections({
@@ -295,16 +438,18 @@ export function PassportSections({
   posts = [],
   locale = "en",
   username = null,
-  defaultTab = "trips",
+  defaultTab = "places",
   simplified = false,
 }: Props) {
   const t = useTranslations("myTrip");
   const tTrips = useTranslations("MyTrips");
-  const visibleTabs = simplified ? TABS.filter((tab) => tab.id === "trips" || tab.id === "places") : TABS;
+  const visibleTabs = simplified
+    ? TABS.filter((tab) => tab.id === "places" || tab.id === "trips")
+    : TABS;
   const { favorites: liveFavorites } = useFavorites();
   const [tab, setTab] = useState<PassportSectionTab>(
     simplified && (defaultTab === "collections" || defaultTab === "posts")
-      ? "trips"
+      ? "places"
       : defaultTab
   );
   const [tripFilter, setTripFilter] = useState<TripFilter>("all");
@@ -319,7 +464,7 @@ export function PassportSections({
       if (stored && visibleTabs.some((x) => x.id === stored)) {
         setTab(stored);
       } else if (simplified) {
-        setTab("trips");
+        setTab("places");
       }
       const view = localStorage.getItem(PLACES_VIEW_KEY) as PlacesView | null;
       if (view === "grid" || view === "list") setPlacesView(view);
@@ -362,6 +507,13 @@ export function PassportSections({
     return buildCountryCollections(initialFavorites);
   }, [clientReady, liveFavorites, initialCollections, initialFavorites]);
 
+  const placesByCountry = useMemo(() => {
+    const map = groupPlacesByCountry(placesList);
+    return [...map.entries()].sort(
+      (a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0])
+    );
+  }, [placesList]);
+
   const allTrips = useMemo(
     () => [...savedRoutes, ...visitedRoutes, ...sharedRoutes],
     [savedRoutes, visitedRoutes, sharedRoutes]
@@ -375,6 +527,11 @@ export function PassportSections({
         : tripFilter === "visited"
           ? visitedRoutes
           : sharedRoutes;
+
+  const tripsByCountry = useMemo(
+    () => groupRoutesByCountry(trips, t("passportOtherCountry")),
+    [trips, t]
+  );
 
   const counts: Record<PassportSectionTab, number> = {
     trips: allTrips.length,
@@ -446,76 +603,7 @@ export function PassportSections({
           exit={{ opacity: 0, y: -6 }}
           transition={{ duration: 0.22, ease: [0.22, 1, 0.36, 1] }}
         >
-          {/* ── Trips ── */}
-          {tab === "trips" && (
-            <div className="space-y-4">
-              {allTrips.length > 0 ? (
-                <>
-                  <div className="flex flex-wrap gap-2">
-                    {(
-                      [
-                        ["all", t("passportTripsAll"), allTrips.length],
-                        ["saved", t("passportTripsPlanning"), savedRoutes.length],
-                        ["visited", t("passportTripsCompleted"), visitedRoutes.length],
-                        ...(sharedRoutes.length > 0
-                          ? ([["shared", t("passportTripsShared"), sharedRoutes.length]] as const)
-                          : []),
-                      ] as const
-                    ).map(([id, label, count]) => (
-                      <button
-                        key={id}
-                        type="button"
-                        onClick={() => setTripFilter(id)}
-                        className="rounded-full px-3 py-1.5 text-xs font-semibold transition-colors"
-                        style={
-                          tripFilter === id
-                            ? { background: PASSPORT.accent, color: "#fff" }
-                            : {
-                                background: PASSPORT.card,
-                                color: PASSPORT.textSecondary,
-                                border: `1px solid ${PASSPORT.cardBorder}`,
-                              }
-                        }
-                      >
-                        {label}{" "}
-                        <span className="opacity-70">({count})</span>
-                      </button>
-                    ))}
-                  </div>
-
-                  {trips.length === 0 ? (
-                    <PassportEmptyState
-                      icon={Map}
-                      title={t("passportEmptyTripsFilterTitle")}
-                      description={t("passportEmptyTripsFilterDesc")}
-                      ctaLabel={tTrips("ctaExploreCities")}
-                      href="/"
-                      secondaryCtaLabel={tTrips("ctaDiscoverRoadTrips")}
-                      secondaryHref="/adventures"
-                    />
-                  ) : (
-                    <div className="space-y-4">
-                      {trips.map((route) => (
-                        <PassportRouteCard key={route.id} route={route} />
-                      ))}
-                    </div>
-                  )}
-                </>
-              ) : (
-                <PassportEmptyState
-                  icon={Map}
-                  title={tTrips("emptyTripsTitle")}
-                  description={tTrips("emptyTripsDesc")}
-                  ctaLabel={tTrips("ctaExploreCities")}
-                  href="/"
-                  secondaryCtaLabel={tTrips("ctaDiscoverRoadTrips")}
-                  secondaryHref="/adventures"
-                />
-              )}
-            </div>
-          )}
-
-          {/* ── Places ── */}
+          {/* ── Saved places (grouped by country) ── */}
           {tab === "places" &&
             (placesList.length > 0 ? (
               <div className="space-y-4">
@@ -569,33 +657,53 @@ export function PassportSections({
                   </div>
                 </div>
 
-                <AnimatePresence mode="wait">
-                  {placesView === "grid" ? (
-                    <motion.div
-                      key="grid"
-                      initial={{ opacity: 0 }}
-                      animate={{ opacity: 1 }}
-                      exit={{ opacity: 0 }}
-                      className="grid grid-cols-2 gap-3 sm:grid-cols-3 sm:gap-4"
-                    >
-                      {placesList.map((place, i) => (
-                        <PlaceGridCard key={place.place_id} place={place} index={i} />
-                      ))}
-                    </motion.div>
-                  ) : (
-                    <motion.div
-                      key="list"
-                      initial={{ opacity: 0 }}
-                      animate={{ opacity: 1 }}
-                      exit={{ opacity: 0 }}
-                      className="space-y-2"
-                    >
-                      {placesList.map((place, i) => (
-                        <PlaceListRow key={place.place_id} place={place} index={i} />
-                      ))}
-                    </motion.div>
-                  )}
-                </AnimatePresence>
+                <div className="space-y-8">
+                  {placesByCountry.map(([country, countryPlaces]) => (
+                    <section key={country} aria-label={country}>
+                      <CountrySectionHeader
+                        country={country}
+                        countLabel={t("passportCountryPlaces", {
+                          count: countryPlaces.length,
+                        })}
+                      />
+                      <AnimatePresence mode="wait">
+                        {placesView === "grid" ? (
+                          <motion.div
+                            key={`${country}-grid`}
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            exit={{ opacity: 0 }}
+                            className="grid grid-cols-2 gap-3 sm:grid-cols-3 sm:gap-4"
+                          >
+                            {countryPlaces.map((place, i) => (
+                              <PlaceGridCard
+                                key={place.place_id}
+                                place={place}
+                                index={i}
+                              />
+                            ))}
+                          </motion.div>
+                        ) : (
+                          <motion.div
+                            key={`${country}-list`}
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            exit={{ opacity: 0 }}
+                            className="space-y-2"
+                          >
+                            {countryPlaces.map((place, i) => (
+                              <PlaceListRow
+                                key={place.place_id}
+                                place={place}
+                                index={i}
+                              />
+                            ))}
+                          </motion.div>
+                        )}
+                      </AnimatePresence>
+                    </section>
+                  ))}
+                </div>
               </div>
             ) : (
               <PassportEmptyState
@@ -606,6 +714,87 @@ export function PassportSections({
                 href="/"
               />
             ))}
+
+          {/* ── Tours (grouped by country) ── */}
+          {tab === "trips" && (
+            <div className="space-y-4">
+              {allTrips.length > 0 ? (
+                <>
+                  <div className="flex flex-wrap gap-2">
+                    {(
+                      [
+                        ["all", t("passportTripsAll"), allTrips.length],
+                        ["saved", t("passportTripsPlanning"), savedRoutes.length],
+                        ["visited", t("passportTripsCompleted"), visitedRoutes.length],
+                        ...(sharedRoutes.length > 0
+                          ? ([["shared", t("passportTripsShared"), sharedRoutes.length]] as const)
+                          : []),
+                      ] as const
+                    ).map(([id, label, count]) => (
+                      <button
+                        key={id}
+                        type="button"
+                        onClick={() => setTripFilter(id)}
+                        className="rounded-full px-3 py-1.5 text-xs font-semibold transition-colors"
+                        style={
+                          tripFilter === id
+                            ? { background: PASSPORT.accent, color: "#fff" }
+                            : {
+                                background: PASSPORT.card,
+                                color: PASSPORT.textSecondary,
+                                border: `1px solid ${PASSPORT.cardBorder}`,
+                              }
+                        }
+                      >
+                        {label}{" "}
+                        <span className="opacity-70">({count})</span>
+                      </button>
+                    ))}
+                  </div>
+
+                  {trips.length === 0 ? (
+                    <PassportEmptyState
+                      icon={Map}
+                      title={t("passportEmptyTripsFilterTitle")}
+                      description={t("passportEmptyTripsFilterDesc")}
+                      ctaLabel={tTrips("ctaExploreCities")}
+                      href="/"
+                      secondaryCtaLabel={tTrips("ctaDiscoverRoadTrips")}
+                      secondaryHref="/adventures"
+                    />
+                  ) : (
+                    <div className="space-y-8">
+                      {tripsByCountry.map(([country, countryTrips]) => (
+                        <section key={country} aria-label={country}>
+                          <CountrySectionHeader
+                            country={country}
+                            countLabel={t("passportCountryTrips", {
+                              count: countryTrips.length,
+                            })}
+                          />
+                          <div className="space-y-4">
+                            {countryTrips.map((route) => (
+                              <PassportRouteCard key={route.id} route={route} />
+                            ))}
+                          </div>
+                        </section>
+                      ))}
+                    </div>
+                  )}
+                </>
+              ) : (
+                <PassportEmptyState
+                  icon={RouteIcon}
+                  title={tTrips("emptyTripsTitle")}
+                  description={tTrips("emptyTripsDesc")}
+                  ctaLabel={tTrips("ctaExploreCities")}
+                  href="/"
+                  secondaryCtaLabel={tTrips("ctaDiscoverRoadTrips")}
+                  secondaryHref="/adventures"
+                />
+              )}
+            </div>
+          )}
 
           {/* ── Collections ── */}
           {!simplified && tab === "collections" &&

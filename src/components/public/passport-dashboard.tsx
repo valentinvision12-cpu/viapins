@@ -65,7 +65,7 @@ export function PassportDashboard({ profile, locale, statsItems }: Props) {
         favorites={profile.favorites}
         locale={locale}
         username={user.username}
-        defaultTab="trips"
+        defaultTab="places"
         simplified
       />
 

@@ -7,6 +7,7 @@ import {
   SITE_LOGO_PATH,
   SITE_NAME,
 } from "@/lib/site-brand";
+import { buildVerificationMetadata } from "@/lib/seo";
 import "./globals.css";
 
 export const viewport: Viewport = {
@@ -16,11 +17,13 @@ export const viewport: Viewport = {
   themeColor: "#FDFBF7",
 };
 
+const verification = buildVerificationMetadata();
+
 export const metadata: Metadata = {
   metadataBase: new URL(
     process.env.NEXT_PUBLIC_SITE_URL ??
-    process.env.NEXT_PUBLIC_APP_URL ??
-    "https://viapins.com"
+      process.env.NEXT_PUBLIC_APP_URL ??
+      "https://viapins.com"
   ),
   title: {
     template: SITE_METADATA_TEMPLATE,
@@ -36,6 +39,7 @@ export const metadata: Metadata = {
     "landmarks",
     "attractions",
     "travel map",
+    "ViaPins",
   ],
   authors: [{ name: SITE_NAME }],
   creator: SITE_NAME,
@@ -62,7 +66,19 @@ export const metadata: Metadata = {
   robots: {
     index: true,
     follow: true,
-    googleBot: { index: true, follow: true },
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+      "max-video-preview": -1,
+    },
+  },
+  ...(Object.keys(verification).length > 0 ? { verification } : {}),
+  alternates: {
+    types: {
+      "application/rss+xml": "/feed.xml",
+    },
   },
 };
 
