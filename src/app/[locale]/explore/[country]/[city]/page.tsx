@@ -22,9 +22,13 @@ import { NavHeader } from "@/components/public/nav-header";
 import { CityProgress } from "@/components/public/city-progress";
 import { AdventureLinkBanner } from "@/components/public/adventure-link-banner";
 import { CityRelated } from "@/components/public/city-related";
+import { RelatedContent } from "@/components/public/related-content";
+import { LinkedProse } from "@/components/public/linked-prose";
+import { AnswerFirstLead } from "@/components/public/answer-first";
 import { buildCitySeo, buildCityPageUrl, buildLocaleAlternates, getSiteUrl } from "@/lib/seo";
 import { JsonLd } from "@/lib/schema/JsonLd";
 import { generateSchema, buildCityFaqs } from "@/lib/schema";
+import { FaqSection } from "@/components/public/faq-section";
 import { SITE_NAME } from "@/lib/site-brand";
 import { hasAdventureMode } from "@/lib/adventure-data";
 
@@ -62,6 +66,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     "";
   const pageUrl = buildCityPageUrl(locale, country, city);
   const alternates = buildLocaleAlternates(`/explore/${country}/${city}`);
+  const indexable = destination.places.length > 0;
 
   return {
     title: seo.title,
@@ -95,10 +100,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       images: heroImage ? [heroImage] : [],
     },
     robots: {
-      index: true,
+      index: indexable,
       follow: true,
       googleBot: {
-        index: true,
+        index: indexable,
         follow: true,
         "max-image-preview": "large",
         "max-snippet": -1,
@@ -165,6 +170,7 @@ export default async function ExploreCityPage({ params }: Props) {
     topPlaceNames: destination.places.map((p) => p.name),
   });
 
+  const faqs = buildCityFaqs(destination.city, destination.country);
   const jsonLd = generateSchema("city", {
     city: destination.city,
     country: destination.country,
@@ -196,8 +202,10 @@ export default async function ExploreCityPage({ params }: Props) {
         tags: withMeta.tags,
       };
     }),
-    faqs: buildCityFaqs(destination.city, destination.country),
+    faqs,
   }).jsonLd;
+
+  const pagePath = `/explore/${country}/${city}`;
 
   return (
     <>
@@ -206,7 +214,7 @@ export default async function ExploreCityPage({ params }: Props) {
       <NavHeader />
 
       <main className="bg-[#F8F6F1]">
-        <section className="relative h-[48vh] min-h-[360px] flex items-end">
+        <header className="relative h-[48vh] min-h-[360px] flex items-end">
           <Image
             src={
               heroImage ||
@@ -280,75 +288,108 @@ export default async function ExploreCityPage({ params }: Props) {
               </span>
             </div>
           </div>
-        </section>
+        </header>
 
         <CityProgress city={destination.city} totalPlaces={destination.places.length} />
 
-        <section className="container max-w-7xl mx-auto px-4 sm:px-6 py-6 sm:py-10 pb-10">
-          <AdventureLinkBanner
-            countrySlug={country}
-            countryName={destination.country}
-            show={await hasAdventureMode(country)}
-          />
+        <article>
+          <section className="container max-w-7xl mx-auto px-4 sm:px-6 py-6 sm:py-10 pb-10">
+            <AdventureLinkBanner
+              countrySlug={country}
+              countryName={destination.country}
+              show={await hasAdventureMode(country)}
+            />
 
-          <p className="text-stone-600 text-base leading-relaxed mb-8 max-w-3xl">
-            {seo.intro}
-          </p>
+            <LinkedProse
+              text={seo.intro}
+              currentPath={pagePath}
+              locale={locale}
+              maxLinks={4}
+              className="text-stone-600 text-base leading-relaxed mb-8 max-w-3xl"
+            />
 
-          <div className="mb-8 flex flex-wrap gap-2">
-            {(
-              [
-                "things-to-do",
-                "3-day-itinerary",
-                "hidden-gems",
-              ] as const
-            ).map((slug) => (
+            <div className="mb-8 flex flex-wrap gap-2">
+              {(
+                [
+                  "things-to-do",
+                  "3-day-itinerary",
+                  "hidden-gems",
+                ] as const
+              ).map((slug) => (
+                <Link
+                  key={slug}
+                  href={`/explore/${country}/${city}/guide/${slug}`}
+                  className="rounded-full border border-stone-200 bg-white px-3.5 py-1.5 text-xs font-semibold text-stone-700 transition-colors hover:border-amber-300 hover:text-amber-800"
+                >
+                  {tGuides(`${slug}.chipLabel`)}
+                </Link>
+              ))}
               <Link
-                key={slug}
-                href={`/explore/${country}/${city}/guide/${slug}`}
+                href={`/explore/${country}/${city}/stays`}
                 className="rounded-full border border-stone-200 bg-white px-3.5 py-1.5 text-xs font-semibold text-stone-700 transition-colors hover:border-amber-300 hover:text-amber-800"
               >
-                {tGuides(`${slug}.chipLabel`)}
+                {tStays("cityLink", { city: destination.city })}
               </Link>
-            ))}
-            <Link
-              href={`/explore/${country}/${city}/stays`}
-              className="rounded-full border border-stone-200 bg-white px-3.5 py-1.5 text-xs font-semibold text-stone-700 transition-colors hover:border-amber-300 hover:text-amber-800"
-            >
-              {tStays("cityLink", { city: destination.city })}
-            </Link>
-          </div>
+            </div>
 
-          <div className="flex items-center gap-2.5 mb-6">
-            <Compass
-              className="w-4.5 h-4.5"
-              style={{ color: "oklch(0.68 0.16 82)" }}
-            />
-            <h2 className="text-lg font-bold text-stone-900">
-              {tCity("landmarksTitle", { count: destination.places.length })}
-            </h2>
-            <span className="text-stone-400 text-sm">
-              — {tCity("landmarksHint")}
-            </span>
-          </div>
-
-          <div className="space-y-4">
-            {destination.places.map((place, i) => (
-              <PlaceCard
-                key={place.id}
-                place={place}
-                locale={locale}
-                city={destination.city}
-                country={destination.country}
-                index={i}
+            <div className="flex items-center gap-2.5 mb-2">
+              <Compass
+                className="w-4.5 h-4.5"
+                style={{ color: "oklch(0.68 0.16 82)" }}
               />
-            ))}
-          </div>
-        </section>
+              <h2 className="text-lg font-bold text-stone-900">
+                {tCity("landmarksTitle", { count: destination.places.length })}
+              </h2>
+              <span className="text-stone-400 text-sm">
+                — {tCity("landmarksHint")}
+              </span>
+            </div>
+            <AnswerFirstLead
+              heading={`Best landmarks in ${destination.city}`}
+              cityName={destination.city}
+              countryName={destination.country}
+              facts={[
+                `${destination.places.length} curated landmarks`,
+                destination.places[0]?.name
+                  ? `Start with ${destination.places[0].name}`
+                  : "",
+              ]}
+              className="mb-6 max-w-3xl text-sm leading-relaxed text-stone-600"
+            />
 
-        <div className="border-t border-stone-100">
-          <CityRelated currentCity={city} locale={locale} />
-        </div>
+            <div className="space-y-4">
+              {destination.places.map((place, i) => (
+                <PlaceCard
+                  key={place.id}
+                  place={place}
+                  locale={locale}
+                  city={destination.city}
+                  country={destination.country}
+                  index={i}
+                />
+              ))}
+            </div>
+          </section>
+
+          <div className="border-t border-stone-100">
+            <CityRelated currentCity={city} locale={locale} />
+          </div>
+
+          <RelatedContent
+            locale={locale}
+            currentPath={pagePath}
+            countrySlug={country}
+            citySlug={city}
+            countryName={destination.country}
+            cityName={destination.city}
+            tags={destination.tags}
+            keywords={seo.keywords}
+            limit={5}
+            className="container max-w-4xl mx-auto px-6 pt-6 pb-10 border-t border-stone-100"
+          />
+
+          <FaqSection items={faqs} />
+        </article>
 
         <footer className="border-t border-stone-200 py-8 text-center bg-[#F8F6F1]">
           <p className="text-stone-400 text-xs">

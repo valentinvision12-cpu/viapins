@@ -1,4 +1,5 @@
 import { createSign } from "crypto";
+import { toIndexingUrl } from "./config";
 import type { IndexingChannelResult, IndexingNotifyType } from "./types";
 
 const TOKEN_URL = "https://oauth2.googleapis.com/token";
@@ -121,7 +122,9 @@ export async function submitGoogleIndexing(
     return { ok: false, error: "Google Indexing credentials not configured" };
   }
 
-  const cleaned = [...new Set(urls.map((u) => u.trim()).filter(Boolean))];
+  const cleaned = [
+    ...new Set(urls.map((u) => toIndexingUrl(u.trim())).filter(Boolean)),
+  ];
   if (cleaned.length === 0) {
     return { ok: false, error: "No URLs to submit" };
   }

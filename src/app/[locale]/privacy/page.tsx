@@ -3,13 +3,25 @@ import { NavHeader } from "@/components/public/nav-header";
 import { Link } from "@/i18n/navigation";
 import { ArrowLeft } from "lucide-react";
 import { SITE_NAME, SITE_PRIVACY_EMAIL } from "@/lib/site-brand";
+import { buildLocaleAlternates, getSiteUrl } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: "Privacy Policy",
-  description: `Privacy Policy for ${SITE_NAME}.`,
-};
+type Props = { params: Promise<{ locale: string }> };
 
-export default function PrivacyPage() {
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { locale } = await params;
+  const path = "/privacy";
+  const pageUrl = `${getSiteUrl()}/${locale}${path}`;
+  const alternates = buildLocaleAlternates(path);
+  return {
+    title: "Privacy Policy",
+    description: `Privacy Policy for ${SITE_NAME}.`,
+    alternates: { canonical: pageUrl, languages: alternates.languages },
+    robots: { index: true, follow: true },
+  };
+}
+
+export default async function PrivacyPage({ params }: Props) {
+  await params;
   return (
     <>
       <NavHeader />

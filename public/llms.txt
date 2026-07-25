@@ -1,0 +1,21 @@
+# ViaPins
+> Travel guides with GPS routes for destinations worldwide.
+
+Site: https://viapins.com
+Sitemap: https://viapins.com/sitemap.xml
+Robots: https://viapins.com/robots.txt
+
+## Primary sections
+- Country hubs: /{locale}/explore/{country}
+- City guides: /{locale}/explore/{country}/{city}
+- Landmarks: /{locale}/explore/{country}/{city}/{place}
+- City guide pages: /{locale}/explore/{country}/{city}/guide/{things-to-do|3-day-itinerary|hidden-gems}
+- Stays: /{locale}/explore/{country}/{city}/stays
+- Adventures: /{locale}/adventures and /{locale}/explore/{country}/adventure
+- Search: /{locale}/search?q=
+
+## Locales
+en, bg, es, fr, de, it
+
+## Contact
+hello@viapins.com

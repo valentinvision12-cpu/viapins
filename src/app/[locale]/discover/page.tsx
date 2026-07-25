@@ -5,25 +5,40 @@ import { NavHeader } from "@/components/public/nav-header";
 import { DiscoveryFeed } from "@/components/public/discovery-feed";
 import { PASSPORT } from "@/lib/luxury-palette";
 import { SITE_NAME } from "@/lib/site-brand";
+import { buildLocaleAlternates, getSiteUrl } from "@/lib/seo";
+import { JsonLd } from "@/lib/schema/JsonLd";
+import { generateSchema } from "@/lib/schema";
 
 type Props = { params: Promise<{ locale: string }> };
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "myTrip" });
+  const path = "/discover";
+  const pageUrl = `${getSiteUrl()}/${locale}${path}`;
+  const alternates = buildLocaleAlternates(path);
   return {
     title: `${t("discoverTitle")} | ${SITE_NAME}`,
     description: t("discoverSubtitle"),
+    alternates: { canonical: pageUrl, languages: alternates.languages },
+    robots: { index: true, follow: true },
   };
 }
 
 export default async function DiscoverPage({ params }: Props) {
-  const { locale: _locale } = await params;
+  const { locale } = await params;
   const t = await getTranslations("myTrip");
   const items = await getDiscoveryFeed(48);
+  const jsonLd = generateSchema("collection", {
+    locale,
+    title: t("discoverTitle"),
+    description: t("discoverSubtitle"),
+    path: "/discover",
+  }).jsonLd;
 
   return (
     <>
+      <JsonLd data={jsonLd} />
       <NavHeader />
       <main
         className="min-h-screen pt-20"

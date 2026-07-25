@@ -3,13 +3,25 @@ import { NavHeader } from "@/components/public/nav-header";
 import { Link } from "@/i18n/navigation";
 import { ArrowLeft } from "lucide-react";
 import { SITE_NAME, SITE_DEFAULT_URL, SITE_LEGAL_EMAIL } from "@/lib/site-brand";
+import { buildLocaleAlternates, getSiteUrl } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: "Terms of Service",
-  description: `Terms of Service for ${SITE_NAME}.`,
-};
+type Props = { params: Promise<{ locale: string }> };
 
-export default function TermsPage() {
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { locale } = await params;
+  const path = "/terms";
+  const pageUrl = `${getSiteUrl()}/${locale}${path}`;
+  const alternates = buildLocaleAlternates(path);
+  return {
+    title: "Terms of Service",
+    description: `Terms of Service for ${SITE_NAME}.`,
+    alternates: { canonical: pageUrl, languages: alternates.languages },
+    robots: { index: true, follow: true },
+  };
+}
+
+export default async function TermsPage({ params }: Props) {
+  await params;
   return (
     <>
       <NavHeader />

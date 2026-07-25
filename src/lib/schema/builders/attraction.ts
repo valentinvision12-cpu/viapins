@@ -10,6 +10,7 @@ import {
   buildReviewNodes,
   computeAggregateRating,
 } from "./review";
+import { buildAggregateOfferNode } from "./offer";
 import {
   buildEntityId,
   buildGeoCoordinates,
@@ -22,6 +23,7 @@ import {
   buildAttractionPageUrl,
   buildCityPageUrl,
 } from "./destination";
+import type { SchemaOfferInput } from "../types";
 
 export { buildAttractionPageUrl } from "./destination";
 
@@ -70,6 +72,13 @@ export function buildAttractionEntityNode(
   const aggregateRating = buildAggregateRatingNode(pageUrl, aggregateInput);
   const reviewNodes = buildReviewNodes(pageUrl, data.reviews);
 
+  const offerList: SchemaOfferInput[] = Array.isArray(data.offers)
+    ? data.offers
+    : data.offers
+      ? [data.offers]
+      : [];
+  const offersNode = buildAggregateOfferNode(offerList);
+
   const entity = stripUndefined({
     "@type": types,
     "@id": entityId,
@@ -92,6 +101,7 @@ export function buildAttractionEntityNode(
       : undefined,
     openingHoursSpecification: buildOpeningHours(data.place.openingHours),
     keywords: placeSeo.seoKeywords.join(", "),
+    offers: offersNode,
     aggregateRating: aggregateRating
       ? { "@id": aggregateRating["@id"] }
       : undefined,

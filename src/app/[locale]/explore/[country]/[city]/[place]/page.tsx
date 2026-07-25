@@ -11,9 +11,13 @@ import { listPublicPlaceReviews } from "@/actions/travel-posts";
 import { PlaceCard, PlaceDetailActions } from "@/components/public/place-card";
 import { NavHeader } from "@/components/public/nav-header";
 import { MapsPlaceLink } from "@/components/public/maps-place-link";
+import { LinkedProse } from "@/components/public/linked-prose";
+import { RelatedContent } from "@/components/public/related-content";
+import { AnswerFirstLead } from "@/components/public/answer-first";
 import { findPlaceBySlug, placeSlug } from "@/lib/place-slug";
 import { getPlaceContent } from "@/lib/content-locale";
 import { buildLocaleAlternates, getSiteUrl } from "@/lib/seo";
+import { isThinPlaceContent } from "@/lib/seo/content-quality";
 import { JsonLd } from "@/lib/schema/JsonLd";
 import { generateSchema } from "@/lib/schema";
 import { SITE_NAME } from "@/lib/site-brand";
@@ -55,13 +59,19 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!place) return {};
 
   const title = `${place.name} — ${destination.city}, ${destination.country} | ${SITE_NAME}`;
-  const { description } = getPlaceContent(place.translations, locale);
+  const { description, wiki_text } = getPlaceContent(place.translations, locale);
   const desc =
     description?.slice(0, 160) ||
     `Visit ${place.name} in ${destination.city}. Tips, reviews, and nearby places.`;
   const path = `/explore/${country}/${city}/${placeSlug(place.name, place.id)}`;
   const pageUrl = `${getSiteUrl()}/${locale}${path}`;
   const alternates = buildLocaleAlternates(path);
+  const indexable = !isThinPlaceContent({
+    description,
+    wiki_text,
+    translations: place.translations,
+    locale,
+  });
 
   return {
     title,
@@ -76,6 +86,22 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       images: place.image_url
         ? [{ url: place.image_url, width: 1200, height: 630, alt: place.name }]
         : [],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description: desc,
+      images: place.image_url ? [place.image_url] : [],
+    },
+    robots: {
+      index: indexable,
+      follow: true,
+      googleBot: {
+        index: indexable,
+        follow: true,
+        "max-image-preview": "large",
+        "max-snippet": -1,
+      },
     },
   };
 }
@@ -105,6 +131,12 @@ export default async function PlacePage({ params }: Props) {
       : 0;
 
   const slug = placeSlug(place.name, place.id);
+  const pagePath = `/explore/${country}/${city}/${slug}`;
+  const placeKeywords =
+    (place.translations?.en as { seo_keywords?: string[] } | undefined)
+      ?.seo_keywords ??
+    place.tags ??
+    [];
   const jsonLd = generateSchema("attraction", {
     locale,
     country: destination.country,
@@ -145,7 +177,7 @@ export default async function PlacePage({ params }: Props) {
       <JsonLd data={jsonLd} />
       <NavHeader />
       <main className="min-h-screen bg-stone-50 pt-20">
-        <div className="relative h-56 w-full overflow-hidden sm:h-72 md:h-80">
+        <header className="relative h-56 w-full overflow-hidden sm:h-72 md:h-80">
           {place.image_url ? (
             <Image
               src={place.image_url}
@@ -183,9 +215,9 @@ export default async function PlacePage({ params }: Props) {
               )}
             </div>
           </div>
-        </div>
+        </header>
 
-        <div className="container mx-auto max-w-4xl px-6 py-8">
+        <article className="container mx-auto max-w-4xl px-6 py-8">
           <PlaceDetailActions
             placeId={place.id}
             name={place.name}
@@ -212,27 +244,66 @@ export default async function PlacePage({ params }: Props) {
             />
           </div>
 
-          {description ? (
-            <p className="max-w-2xl text-base leading-relaxed text-stone-700">
-              {description}
-            </p>
-          ) : null}
-          {(() => {
-            const desc = description?.trim() ?? "";
-            const wiki = wiki_text?.trim() ?? "";
-            if (!wiki) return null;
-            if (desc && (wiki === desc || desc.startsWith(wiki) || wiki.startsWith(desc))) {
-              return null;
-            }
-            return (
-              <p className="mt-4 max-w-2xl text-sm leading-relaxed text-stone-500">
-                {wiki_text}
-              </p>
-            );
-          })()}
+          <section aria-labelledby="place-overview-heading">
+            <h2 id="place-overview-heading" className="sr-only">
+              About {place.name}
+            </h2>
+            {description ? (
+              <LinkedProse
+                text={description}
+                currentPath={pagePath}
+                locale={locale}
+                maxLinks={4}
+                className="max-w-2xl text-base leading-relaxed text-stone-700"
+              />
+            ) : (
+              <AnswerFirstLead
+                heading={`What is ${place.name}?`}
+                placeName={place.name}
+                cityName={destination.city}
+                countryName={destination.country}
+                className="max-w-2xl text-base leading-relaxed text-stone-700"
+              />
+            )}
+            {(() => {
+              const desc = description?.trim() ?? "";
+              const wiki = wiki_text?.trim() ?? "";
+              if (!wiki) return null;
+              if (desc && (wiki === desc || desc.startsWith(wiki) || wiki.startsWith(desc))) {
+                return null;
+              }
+              return (
+                <LinkedProse
+                  text={wiki_text}
+                  currentPath={pagePath}
+                  locale={locale}
+                  maxLinks={3}
+                  className="mt-4 max-w-2xl text-sm leading-relaxed text-stone-500"
+                />
+              );
+            })()}
+          </section>
 
-          <section className="mt-10">
-            <h2 className="text-lg font-bold text-stone-900">{t("reviewsTitle")}</h2>
+          <section className="mt-10" aria-labelledby="place-reviews-heading">
+            <h2 id="place-reviews-heading" className="text-lg font-bold text-stone-900">
+              {t("reviewsTitle")}
+            </h2>
+            <AnswerFirstLead
+              heading={t("reviewsTitle")}
+              placeName={place.name}
+              cityName={destination.city}
+              countryName={destination.country}
+              facts={[
+                reviews.length > 0
+                  ? `${reviews.length} traveler reviews, average ${avgRating.toFixed(1)}/5`
+                  : "No public reviews yet",
+              ]}
+              existing={
+                reviews[0]
+                  ? `${reviews[0].title}. ${reviews[0].tip ?? ""}`
+                  : t("reviewsEmpty")
+              }
+            />
             {reviews.length === 0 ? (
               <p className="mt-3 text-sm text-stone-500">{t("reviewsEmpty")}</p>
             ) : (
@@ -280,11 +351,18 @@ export default async function PlacePage({ params }: Props) {
           </section>
 
           {nearby.length > 0 && (
-            <section className="mt-12">
-              <h2 className="mb-4 text-lg font-bold text-stone-900">
+            <section className="mt-12" aria-labelledby="place-nearby-heading">
+              <h2 id="place-nearby-heading" className="mb-2 text-lg font-bold text-stone-900">
                 {t("nearbyTitle")}
               </h2>
-              <div className="space-y-4">
+              <AnswerFirstLead
+                heading={t("nearbyTitle")}
+                cityName={destination.city}
+                countryName={destination.country}
+                facts={[`${nearby.length} nearby stops in ${destination.city}`]}
+                existing={`Combine ${place.name} with other landmarks in ${destination.city}.`}
+              />
+              <div className="mt-4 space-y-4">
                 {nearby.map((p, index) => (
                   <div key={p.id}>
                     <Link
@@ -305,7 +383,30 @@ export default async function PlacePage({ params }: Props) {
               </div>
             </section>
           )}
-        </div>
+
+          <RelatedContent
+            locale={locale}
+            currentPath={pagePath}
+            countrySlug={country}
+            citySlug={city}
+            countryName={destination.country}
+            cityName={destination.city}
+            tags={destination.tags}
+            keywords={placeKeywords}
+            nearbyPlaces={destination.places
+              .filter((p) => p.id !== place.id)
+              .map((p) => ({ id: p.id, name: p.name }))}
+            excludePlaceIds={nearby.map((p) => p.id)}
+            limit={5}
+            className="mt-12 border-t border-stone-200 pt-10"
+          />
+        </article>
+
+        <footer className="border-t border-stone-200 py-8 text-center">
+          <p className="text-xs text-stone-400">
+            © {new Date().getFullYear()} {SITE_NAME}
+          </p>
+        </footer>
       </main>
     </>
   );

@@ -98,6 +98,7 @@ export async function generateMetadata({ searchParams }: Props): Promise<Metadat
   return {
     title: cities ? `${cities} Route · ${SITE_NAME}` : `Shared Route · ${SITE_NAME}`,
     description: `A curated travel route with ${places.length} landmarks. View, navigate, and clone this route.`,
+    robots: { index: false, follow: true },
   };
 }
 

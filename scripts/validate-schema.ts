@@ -3,6 +3,8 @@ import {
   generateSchema,
   resolveAttractionTypes,
   REVIEW_THRESHOLD,
+  buildOfferNode,
+  buildProductWithOffers,
 } from "../src/lib/schema/index";
 import type { JsonLdGraph, JsonLdNode } from "../src/lib/schema/types";
 
@@ -179,5 +181,99 @@ assert.deepEqual(resolveAttractionTypes("medieval_castle"), [
   "Castle",
 ]);
 console.log("OK classifier");
+
+const guide = graphOf(
+  generateSchema("guide", {
+    locale: "en",
+    country: "France",
+    city: "Paris",
+    countrySlug: "france",
+    citySlug: "paris",
+    guideSlug: "things-to-do",
+    title: "Things to Do in Paris",
+    description: "Top landmarks in Paris",
+    datePublished: "2024-01-01T00:00:00.000Z",
+    dateModified: "2024-06-01T00:00:00.000Z",
+    places: [
+      { id: "p1", name: "Louvre Museum" },
+      { id: "p2", name: "Eiffel Tower" },
+    ],
+  })
+);
+assert.ok(byType(guide, "Article"));
+assert.ok(byType(guide, "ItemList"));
+assert.ok(byType(guide, "BreadcrumbList"));
+const article = byType(guide, "Article");
+assert.equal(article?.headline, "Things to Do in Paris");
+assert.ok(article?.mainEntity);
+console.log("OK guide");
+
+assert.equal(buildOfferNode(undefined), undefined);
+assert.equal(
+  buildOfferNode({ price: "", priceCurrency: "EUR" }),
+  undefined
+);
+assert.equal(
+  buildProductWithOffers({
+    name: "Ticket",
+    offers: { price: "", priceCurrency: "EUR" },
+  }),
+  undefined
+);
+const pricedOffer = buildOfferNode({
+  price: 19.5,
+  priceCurrency: "EUR",
+  availability: "https://schema.org/InStock",
+});
+assert.ok(pricedOffer);
+assert.equal(pricedOffer?.["@type"], "Offer");
+assert.equal(pricedOffer?.price, 19.5);
+
+const withOffer = graphOf(
+  generateSchema("attraction", {
+    locale: "en",
+    country: "Italy",
+    city: "Rome",
+    countrySlug: "italy",
+    citySlug: "rome",
+    placeSlug: "colosseum",
+    place: { id: "c1", name: "Colosseum", category: "historic_site" },
+    description: "Amphitheatre",
+    offers: { price: 18, priceCurrency: "EUR" },
+  })
+);
+const attractionEntity = node(withOffer, "#entity");
+assert.ok(attractionEntity?.offers);
+assert.equal(
+  (attractionEntity?.offers as { "@type"?: string })?.["@type"],
+  "Offer"
+);
+
+const noOffer = graphOf(
+  generateSchema("attraction", {
+    locale: "en",
+    country: "Italy",
+    city: "Rome",
+    countrySlug: "italy",
+    citySlug: "rome",
+    placeSlug: "colosseum",
+    place: { id: "c1", name: "Colosseum", category: "historic_site" },
+    description: "Amphitheatre",
+  })
+);
+assert.equal(node(noOffer, "#entity")?.offers, undefined);
+console.log("OK offer price-gated");
+
+const collection = graphOf(
+  generateSchema("collection", {
+    locale: "en",
+    title: "Adventures",
+    description: "Road trip hubs",
+    path: "/adventures",
+  })
+);
+assert.ok(typesOf(node(collection, "#webpage")).includes("CollectionPage"));
+assert.ok(byType(collection, "BreadcrumbList"));
+console.log("OK collection hub");
 
 console.log("All schema validations passed.");

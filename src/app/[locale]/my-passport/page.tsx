@@ -13,7 +13,10 @@ type Props = { params: Promise<{ locale: string }> };
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "MyTrips" });
-  return { title: t("title") };
+  return {
+    title: t("title"),
+    robots: { index: false, follow: false },
+  };
 }
 
 export default async function MyPassportPage({ params }: Props) {

@@ -297,7 +297,11 @@ export function IndexingPanel({ initialState }: Props) {
                 : "Google не е настроен"
             }
           />
-          <StatusBadge ok={Boolean(state.siteUrl)} label={state.siteUrl} />
+          <StatusBadge ok={Boolean(state.siteUrl)} label={`Индексира: ${state.siteUrl}`} />
+          <p className="w-full text-xs text-gray-500 mt-1">
+            Локалният админ пише в живата база. Сигналите към търсачките винаги
+            са за viapins.com (не localhost).
+          </p>
         </div>
         <p className="text-xs text-gray-500">
           Приблизително{" "}
@@ -451,8 +455,10 @@ export function IndexingPanel({ initialState }: Props) {
         </button>
 
         <p className="text-xs text-gray-500 mb-5 leading-relaxed">
-          Google Indexing API има ~200 URL/ден квота. При пълен сайт: IndexNow
-          за всички URL-и + sitemap ping + ограничен брой към Google.
+          <strong>Целият сайт</strong> → IndexNow (всички URL-и) + sitemap ping
+          към Google/Bing. Не пълни Google Indexing API накуп (квота ~200/ден).
+          Нови страници отиват към Google автоматично при publish. Повторно
+          натискане е безопасно — търсачките игнорират дубликати.
         </p>
 
         <label className="text-xs font-medium text-gray-600">

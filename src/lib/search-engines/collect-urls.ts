@@ -1,4 +1,4 @@
-import { getSiteUrl, SEO_LOCALES } from "@/lib/seo";
+import { SEO_LOCALES } from "@/lib/seo";
 import { placeSlug } from "@/lib/place-slug";
 import {
   getCachedSitemapCatalog,
@@ -6,10 +6,11 @@ import {
   placePaths,
   staysPathsForCities,
 } from "@/lib/sitemap-data";
-import { getAdventureCountrySlugs } from "@/lib/adventure-data";
+import { collectAllCatalogPaths } from "@/lib/sitemap-catalog";
+import { getIndexingSiteUrl } from "./config";
 
 function absoluteLocalized(path: string): string[] {
-  const site = getSiteUrl().replace(/\/$/, "");
+  const site = getIndexingSiteUrl().replace(/\/$/, "");
   const bare = path.startsWith("/") ? path : `/${path}`;
   return SEO_LOCALES.map((locale) => `${site}/${locale}${bare === "/" ? "" : bare}`);
 }
@@ -34,7 +35,14 @@ export function urlsForDestination(opts: {
   urls.push(...absoluteLocalized(`/explore/${countrySlug}/${citySlug}`));
 
   if (opts.includeGuides !== false) {
-    for (const path of guidePathsForCities([{ countrySlug, citySlug }])) {
+    for (const path of guidePathsForCities([
+      {
+        countrySlug,
+        citySlug,
+        lastModified: new Date(),
+        indexable: true,
+      },
+    ])) {
       urls.push(...absoluteLocalized(path));
     }
   }
@@ -74,8 +82,12 @@ export function urlsForAdventure(countrySlug: string): string[] {
 /** Rough URL set for one country (cities + places already in catalog). */
 export async function urlsForCountry(countrySlug: string): Promise<string[]> {
   const { cities, places } = await getCachedSitemapCatalog();
-  const countryCities = cities.filter((c) => c.countrySlug === countrySlug);
-  const countryPlaces = places.filter((p) => p.countrySlug === countrySlug);
+  const countryCities = cities.filter(
+    (c) => c.countrySlug === countrySlug && c.indexable
+  );
+  const countryPlaces = places.filter(
+    (p) => p.countrySlug === countrySlug && p.indexable
+  );
   const urls: string[] = [
     ...absoluteLocalized(`/explore/${countrySlug}`),
     ...absoluteLocalized(`/explore/${countrySlug}/adventure`),
@@ -98,42 +110,14 @@ export async function urlsForCountry(countrySlug: string): Promise<string[]> {
 }
 
 /**
- * Collect (almost) all public indexable URLs — mirrors sitemap.ts path set.
+ * Collect (almost) all public indexable URLs — mirrors sitemap catalog path set.
  */
 export async function collectAllSiteUrls(): Promise<string[]> {
-  const urls: string[] = [
-    ...absoluteLocalized(""),
-    ...absoluteLocalized("/adventures"),
-    ...absoluteLocalized("/discover"),
-    ...absoluteLocalized("/search"),
-    ...absoluteLocalized("/terms"),
-    ...absoluteLocalized("/privacy"),
-  ];
-
-  const { cities, places } = await getCachedSitemapCatalog();
-  const countrySet = new Set(cities.map((c) => c.countrySlug));
-
-  for (const countrySlug of countrySet) {
-    urls.push(...absoluteLocalized(`/explore/${countrySlug}`));
-  }
-  for (const city of cities) {
-    urls.push(
-      ...absoluteLocalized(`/explore/${city.countrySlug}/${city.citySlug}`)
-    );
-  }
-  for (const slug of await getAdventureCountrySlugs()) {
-    urls.push(...absoluteLocalized(`/explore/${slug}/adventure`));
-  }
-  for (const path of guidePathsForCities(cities)) {
+  const paths = await collectAllCatalogPaths();
+  const urls: string[] = [];
+  for (const path of paths) {
     urls.push(...absoluteLocalized(path));
   }
-  for (const path of staysPathsForCities(cities)) {
-    urls.push(...absoluteLocalized(path));
-  }
-  for (const path of placePaths(places)) {
-    urls.push(...absoluteLocalized(path));
-  }
-
   return unique(urls);
 }
 

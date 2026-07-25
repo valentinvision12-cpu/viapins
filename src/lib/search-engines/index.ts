@@ -12,6 +12,8 @@ export {
   DEFAULT_INDEXING_PREFS,
   GOOGLE_DAILY_SOFT_CAP,
   GOOGLE_FULL_SITE_CAP,
+  getIndexingSiteUrl,
+  toIndexingUrl,
 } from "./config";
 
 export {

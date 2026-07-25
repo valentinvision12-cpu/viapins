@@ -35,6 +35,22 @@ export type IndexingConfig = {
   last_runs?: IndexingRunEntry[];
   /** Optional IndexNow key when env INDEXNOW_KEY is empty (safe — key is public). */
   indexnow_key?: string;
+  /** Module 5 SEO Growth Dashboard state (linking batch, etc.). */
+  seo_growth?: {
+    linkingBatch?: {
+      status: "idle" | "running" | "done" | "error";
+      offset: number;
+      chunkSize: number;
+      processedDestinations: number;
+      processedPlaces: number;
+      linksFound: number;
+      totalDestinationsEstimate: number;
+      startedAt?: string;
+      finishedAt?: string;
+      lastError?: string;
+      lastMessage?: string;
+    };
+  };
 };
 
 export type NotifyOptions = {

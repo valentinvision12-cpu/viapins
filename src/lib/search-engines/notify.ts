@@ -1,6 +1,5 @@
 import {
   GOOGLE_DAILY_SOFT_CAP,
-  GOOGLE_FULL_SITE_CAP,
 } from "./config";
 import { collectAllSiteUrls } from "./collect-urls";
 import { submitIndexNow } from "./indexnow";
@@ -87,19 +86,54 @@ export function notifySearchEnginesBackground(
 }
 
 /**
- * Full-site submit: IndexNow for all URLs, sitemap ping,
- * Google capped (quota).
+ * Full-site submit:
+ * - IndexNow gets ALL urls (Bing/Yandex/… handle bulk)
+ * - Sitemap ping tells Google/Bing to recrawl sitemap.xml
+ * - Google Indexing API is NOT bulk-flooded here (quota ~200/day).
+ *   New pages still get Google push via auto-notify on publish.
  */
 export async function notifyEntireSite(
   options: NotifyOptions = {}
 ): Promise<NotifyResult> {
   const urls = await collectAllSiteUrls();
-  return notifySearchEngines(urls, {
-    ...options,
-    source: options.source ?? "entire-site",
-    force: options.force ?? true,
-    googleCap: options.googleCap ?? GOOGLE_FULL_SITE_CAP,
+  const prefs = await getIndexingPrefs();
+
+  // Force IndexNow + sitemap; keep Google off for bulk "entire site"
+  // unless caller explicitly sets googleCap > 0.
+  const googleCap =
+    typeof options.googleCap === "number" ? options.googleCap : 0;
+
+  const type = options.type ?? "URL_UPDATED";
+  const source = options.source ?? "entire-site";
+  const cleaned = [...new Set(urls.map((u) => u.trim()).filter(Boolean))];
+
+  const result: NotifyResult = { urlCount: cleaned.length, type };
+
+  if (prefs.indexnow || options.force) {
+    result.indexnow = await submitIndexNow(cleaned);
+  }
+
+  if (googleCap > 0 && (prefs.google || options.force)) {
+    result.google = await submitGoogleIndexing(cleaned, type, googleCap);
+  }
+
+  if (prefs.sitemap_ping || options.force) {
+    result.sitemapPing = await pingSitemaps();
+  }
+
+  await appendIndexingRun({
+    at: new Date().toISOString(),
+    source,
+    urlCount: cleaned.length,
+    type,
+    channels: {
+      ...(result.indexnow ? { indexnow: result.indexnow } : {}),
+      ...(result.google ? { google: result.google } : {}),
+      ...(result.sitemapPing ? { sitemap_ping: result.sitemapPing } : {}),
+    },
   });
+
+  return result;
 }
 
 export function notifyEntireSiteBackground(options: NotifyOptions = {}): void {

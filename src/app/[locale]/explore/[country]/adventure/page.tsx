@@ -16,6 +16,10 @@ import { AdventureProgress } from "@/components/public/adventure-progress";
 import { getSiteUrl, buildLocaleAlternates } from "@/lib/seo";
 import { JsonLd } from "@/lib/schema/JsonLd";
 import { generateSchema, buildAdventureFaqs } from "@/lib/schema";
+import { FaqSection } from "@/components/public/faq-section";
+import { RelatedContent } from "@/components/public/related-content";
+import { AnswerFirstLead } from "@/components/public/answer-first";
+import { LinkedProse } from "@/components/public/linked-prose";
 import { SITE_NAME } from "@/lib/site-brand";
 
 type Props = {
@@ -94,6 +98,11 @@ export default async function AdventurePage({ params }: Props) {
   const title =
     collection.seo?.title ??
     `${collection.country} Adventure Road Trip`;
+  const faqs = buildAdventureFaqs(
+    collection.country,
+    collection.totalDays,
+    collection.places.length
+  );
   const jsonLd = generateSchema("trip", {
     locale,
     country: collection.country,
@@ -117,12 +126,10 @@ export default async function AdventurePage({ params }: Props) {
         tags: place.tags,
         imageUrl: place.image_url,
       })),
-    faqs: buildAdventureFaqs(
-      collection.country,
-      collection.totalDays,
-      collection.places.length
-    ),
+    faqs,
   }).jsonLd;
+
+  const pagePath = `/explore/${country}/adventure`;
 
   return (
     <>
@@ -132,7 +139,7 @@ export default async function AdventurePage({ params }: Props) {
 
       <main className="min-h-screen bg-[#F8F6F1]">
         {/* Hero */}
-        <section className="relative min-h-[40vh] sm:min-h-[400px] h-[48vh] max-h-[560px] overflow-hidden">
+        <header className="relative min-h-[40vh] sm:min-h-[400px] h-[48vh] max-h-[560px] overflow-hidden">
           <CountryHeroCover
             country={collection.country}
             coverImages={coverImages}
@@ -174,49 +181,82 @@ export default async function AdventurePage({ params }: Props) {
               </span>
             </div>
           </div>
-        </section>
+        </header>
 
-        {/* Info strip */}
-        <section className="border-b border-orange-100 bg-orange-50/50">
-          <div className="container max-w-6xl mx-auto px-6 py-4">
-            <p className="text-stone-600 text-sm leading-relaxed max-w-3xl">
-              {collection.seo?.intro ?? t("infoStrip")}
-            </p>
-          </div>
-        </section>
-
-        {/* Curated route planner + map */}
-        <AdventureRoutePlanner
-          places={collection.places}
-          country={collection.country}
-          totalDays={collection.totalDays}
-          locale={locale}
-        />
-
-        {/* Places detail list */}
-        <section className="container max-w-6xl mx-auto px-6 py-6">
-          <h2 className="text-stone-800 font-bold text-lg mb-3 flex items-center gap-2.5 pb-3 border-b border-stone-200/80">
-            <span className="flex h-7 w-7 items-center justify-center rounded-full bg-orange-500 text-white shadow-sm shadow-orange-200">
-              <MapPin className="w-3.5 h-3.5" />
-            </span>
-            {t("allStopsDetail")}
-          </h2>
-          <p className="text-stone-400 text-sm mb-6">{t("allStopsHint")}</p>
-          <div className="space-y-5">
-            {collection.places
-              .slice()
-              .sort((a, b) => a.order_index - b.order_index)
-              .map((place, i) => (
-              <AdventurePlaceCard
-                key={place.id}
-                place={place}
+        <article>
+          {/* Info strip */}
+          <section className="border-b border-orange-100 bg-orange-50/50">
+            <div className="container max-w-6xl mx-auto px-6 py-4">
+              <LinkedProse
+                text={collection.seo?.intro ?? t("infoStrip")}
+                currentPath={pagePath}
                 locale={locale}
-                index={i}
-                stopNumber={place.order_index + 1}
+                maxLinks={4}
+                className="text-stone-600 text-sm leading-relaxed max-w-3xl"
               />
-            ))}
-          </div>
-        </section>
+            </div>
+          </section>
+
+          {/* Curated route planner + map */}
+          <AdventureRoutePlanner
+            places={collection.places}
+            country={collection.country}
+            totalDays={collection.totalDays}
+            locale={locale}
+          />
+
+          {/* Places detail list */}
+          <section
+            className="container max-w-6xl mx-auto px-6 py-6"
+            aria-labelledby="adventure-stops-heading"
+          >
+            <h2
+              id="adventure-stops-heading"
+              className="text-stone-800 font-bold text-lg mb-2 flex items-center gap-2.5 pb-3 border-b border-stone-200/80"
+            >
+              <span className="flex h-7 w-7 items-center justify-center rounded-full bg-orange-500 text-white shadow-sm shadow-orange-200">
+                <MapPin className="w-3.5 h-3.5" />
+              </span>
+              {t("allStopsDetail")}
+            </h2>
+            <AnswerFirstLead
+              heading={t("allStopsDetail")}
+              countryName={collection.country}
+              facts={[
+                `${collection.places.length} stops`,
+                `${collection.totalDays} days`,
+              ]}
+              existing={faqs[0]?.answer ?? t("allStopsHint")}
+              className="text-stone-500 text-sm mb-6 max-w-3xl"
+            />
+            <div className="space-y-5">
+              {collection.places
+                .slice()
+                .sort((a, b) => a.order_index - b.order_index)
+                .map((place, i) => (
+                <AdventurePlaceCard
+                  key={place.id}
+                  place={place}
+                  locale={locale}
+                  index={i}
+                  stopNumber={place.order_index + 1}
+                />
+              ))}
+            </div>
+          </section>
+
+          <RelatedContent
+            locale={locale}
+            currentPath={pagePath}
+            countrySlug={country}
+            countryName={collection.country}
+            tags={["adventure", "road-trip"]}
+            limit={5}
+            className="container max-w-4xl mx-auto px-6 pt-4 pb-10"
+          />
+
+          <FaqSection items={faqs} />
+        </article>
 
         <footer className="border-t border-stone-200 py-8 text-center text-stone-300 text-xs">
           © {new Date().getFullYear()} {SITE_NAME}

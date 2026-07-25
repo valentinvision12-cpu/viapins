@@ -11,20 +11,37 @@ import {
   resolveAdventureTotalDays,
 } from "@/lib/adventure-hub";
 import type { AdventureCardSummary } from "@/components/public/adventure-card-types";
+import { buildLocaleAlternates, getSiteUrl } from "@/lib/seo";
+import { SITE_NAME } from "@/lib/site-brand";
+import { JsonLd } from "@/lib/schema/JsonLd";
+import { generateSchema } from "@/lib/schema";
 
 type Props = { params: Promise<{ locale: string }> };
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "adventuresHub" });
+  const path = "/adventures";
+  const pageUrl = `${getSiteUrl()}/${locale}${path}`;
+  const alternates = buildLocaleAlternates(path);
   return {
     title: t("metaTitle"),
     description: t("metaDescription"),
+    alternates: { canonical: pageUrl, languages: alternates.languages },
+    openGraph: {
+      title: t("metaTitle"),
+      description: t("metaDescription"),
+      url: pageUrl,
+      siteName: SITE_NAME,
+      type: "website",
+    },
+    robots: { index: true, follow: true },
   };
 }
 
 export default async function AdventuresPage({ params }: Props) {
-  await params;
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: "adventuresHub" });
 
   const adventureCards: AdventureCardSummary[] = (await getAdventureSummaries())
     .map((a) => {
@@ -51,8 +68,16 @@ export default async function AdventuresPage({ params }: Props) {
       return ai !== bi ? ai - bi : a.country.localeCompare(b.country);
     });
 
+  const jsonLd = generateSchema("collection", {
+    locale,
+    title: t("metaTitle"),
+    description: t("metaDescription"),
+    path: "/adventures",
+  }).jsonLd;
+
   return (
     <>
+      <JsonLd data={jsonLd} />
       <NavHeader />
       <main>
         <AdventuresHub adventures={adventureCards} />

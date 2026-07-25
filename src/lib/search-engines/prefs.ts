@@ -1,6 +1,5 @@
 import { createServiceClient } from "@/lib/supabase/service";
-import { getSiteUrl } from "@/lib/seo";
-import { DEFAULT_INDEXING_PREFS, MAX_LAST_RUNS } from "./config";
+import { DEFAULT_INDEXING_PREFS, MAX_LAST_RUNS, getIndexingSiteUrl } from "./config";
 import { estimateSiteUrlCount } from "./collect-urls";
 import { isGoogleIndexingConfigured } from "./google-indexing";
 import type {
@@ -143,7 +142,7 @@ export async function indexingStatusSnapshot(opts?: {
   );
 
   return {
-    siteUrl: getSiteUrl(),
+    siteUrl: getIndexingSiteUrl(),
     indexNowConfigured,
     googleConfigured: isGoogleIndexingConfigured(),
     prefs,

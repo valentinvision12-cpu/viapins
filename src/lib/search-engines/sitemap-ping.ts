@@ -1,13 +1,12 @@
-import { getSiteUrl } from "@/lib/seo";
-import { SITEMAP_PING_TARGETS } from "./config";
+import { getIndexingSiteUrl, SITEMAP_PING_TARGETS } from "./config";
 import type { IndexingChannelResult } from "./types";
 
 /**
  * Ping major search engines that the sitemap was updated.
- * Google officially deprecated /ping but still responds; Bing accepts it.
+ * Always pings the production sitemap (viapins.com), even from local admin.
  */
 export async function pingSitemaps(): Promise<IndexingChannelResult> {
-  const siteUrl = getSiteUrl().replace(/\/$/, "");
+  const siteUrl = getIndexingSiteUrl().replace(/\/$/, "");
   const sitemapUrl = `${siteUrl}/sitemap.xml`;
 
   const errors: string[] = [];

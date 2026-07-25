@@ -7,13 +7,16 @@ export type SchemaPageType =
   | "country"
   | "city"
   | "attraction"
-  | "trip";
+  | "trip"
+  | "guide"
+  | "collection";
 
 export type SchemaOrgType =
   | "WebSite"
   | "Organization"
   | "WebPage"
   | "CollectionPage"
+  | "Article"
   | "BreadcrumbList"
   | "ListItem"
   | "ItemList"
@@ -54,7 +57,10 @@ export type SchemaOrgType =
   | "EntryPoint"
   | "Person"
   | "ContactPoint"
-  | "Brand";
+  | "Brand"
+  | "Product"
+  | "Offer"
+  | "AggregateOffer";
 
 export type SchemaTypeArray = SchemaOrgType[];
 
@@ -131,6 +137,23 @@ export interface SchemaAggregateRatingInput {
   worstRating?: number;
 }
 
+/** Offer is only emitted when price + priceCurrency are real values. */
+export interface SchemaOfferInput {
+  price: number | string;
+  priceCurrency: string;
+  availability?: string;
+  url?: string;
+  validFrom?: string;
+  validThrough?: string;
+}
+
+export interface SchemaProductOfferInput {
+  name: string;
+  description?: string;
+  image?: string;
+  offers: SchemaOfferInput | SchemaOfferInput[];
+}
+
 export interface SchemaImageInput {
   url: string;
   width?: number;
@@ -204,6 +227,8 @@ export interface AttractionSchemaData {
   faqs?: SchemaFaqItem[];
   reviews?: SchemaReviewInput[];
   aggregateRating?: SchemaAggregateRatingInput;
+  /** Only emitted in JSON-LD when price is provided. */
+  offers?: SchemaOfferInput | SchemaOfferInput[];
 }
 
 export interface TripSchemaData {
@@ -219,12 +244,39 @@ export interface TripSchemaData {
   faqs?: SchemaFaqItem[];
 }
 
+export interface GuideSchemaData {
+  locale: string;
+  country: string;
+  city: string;
+  countrySlug: string;
+  citySlug: string;
+  guideSlug: string;
+  title: string;
+  description: string;
+  heroImage?: string;
+  datePublished?: string;
+  dateModified?: string;
+  places: AttractionEntity[];
+  breadcrumbs?: SchemaBreadcrumbItem[];
+}
+
+export interface CollectionSchemaData {
+  locale: string;
+  title: string;
+  description: string;
+  /** Path without locale, e.g. "/adventures" or "/discover". */
+  path: string;
+  breadcrumbs?: SchemaBreadcrumbItem[];
+}
+
 export type ViaPinsSchemaInput =
   | HomeSchemaData
   | CountrySchemaData
   | CitySchemaData
   | AttractionSchemaData
-  | TripSchemaData;
+  | TripSchemaData
+  | GuideSchemaData
+  | CollectionSchemaData;
 
 export interface SchemaEngineResult {
   jsonLd: JsonLdGraph;

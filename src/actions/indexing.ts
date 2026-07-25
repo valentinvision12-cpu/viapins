@@ -232,7 +232,7 @@ export async function submitEntireSiteAction(): Promise<ActionResult> {
     return {
       success: true,
       result,
-      message: `Целият сайт: ${result.urlCount} URL-а (Google е ограничен заради квота)`,
+      message: `IndexNow: ${result.urlCount} URL-а + sitemap ping. Google bulk API е спрян при пълен сайт (ползва се при ново съдържание).`,
     };
   } catch (err) {
     return {

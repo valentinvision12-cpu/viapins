@@ -17,6 +17,7 @@ import {
   Compass,
   Radar,
   Activity,
+  TrendingUp,
 } from "lucide-react";
 
 const NAV_ITEMS = [
@@ -50,6 +51,12 @@ const NAV_ITEMS = [
     href: "/admin/indexing",
     label: "Индексиране",
     icon: Radar,
+  },
+  {
+    href: "/admin/seo",
+    label: "SEO 10x Growth",
+    icon: TrendingUp,
+    badge: "Модул 5",
   },
   {
     href: "/admin/users",

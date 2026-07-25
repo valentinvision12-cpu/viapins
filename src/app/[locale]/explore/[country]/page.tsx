@@ -26,6 +26,9 @@ import {
 } from "@/lib/seo";
 import { JsonLd } from "@/lib/schema/JsonLd";
 import { generateSchema, buildCountryFaqs } from "@/lib/schema";
+import { FaqSection } from "@/components/public/faq-section";
+import { RelatedContent } from "@/components/public/related-content";
+import { AnswerFirstLead } from "@/components/public/answer-first";
 
 type Props = {
   params: Promise<{ locale: string; country: string }>;
@@ -33,8 +36,17 @@ type Props = {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, country: countrySlug } = await params;
-  const country = await getCountryBySlug(countrySlug);
+  const [country, citiesData] = await Promise.all([
+    getCountryBySlug(countrySlug),
+    getCitiesByCountrySlug(countrySlug),
+  ]);
   if (!country) return {};
+
+  const totalPlaces = (citiesData?.cities ?? []).reduce(
+    (sum, c) => sum + (c.placeCount ?? 0),
+    0
+  );
+  const indexable = totalPlaces > 0;
 
   const t = await getTranslations({ locale, namespace: "countryPage" });
   const title = t("metaTitle", { country: country.country });
@@ -72,10 +84,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       images: [ogImage],
     },
     robots: {
-      index: true,
+      index: indexable,
       follow: true,
       googleBot: {
-        index: true,
+        index: indexable,
         follow: true,
         "max-image-preview": "large",
         "max-snippet": -1,
@@ -126,6 +138,7 @@ export default async function ExploreCountryPage({ params }: Props) {
     coverImage = curated[0] ?? "";
   }
 
+  const faqs = buildCountryFaqs(country.country);
   const jsonLd = generateSchema("country", {
     country: country.country,
     locale,
@@ -138,7 +151,7 @@ export default async function ExploreCountryPage({ params }: Props) {
       coverImage: c.coverImage,
       placeCount: c.placeCount,
     })),
-    faqs: buildCountryFaqs(country.country),
+    faqs,
   }).jsonLd;
 
   const adventureSummary =
@@ -153,6 +166,8 @@ export default async function ExploreCountryPage({ params }: Props) {
         }
       : null;
 
+  const pagePath = `/explore/${countrySlug}`;
+
   return (
     <>
       <JsonLd data={jsonLd} />
@@ -160,7 +175,7 @@ export default async function ExploreCountryPage({ params }: Props) {
       <NavHeader />
 
       <main className="bg-[#F8F6F1]">
-        <section className="relative h-[52vh] min-h-[390px] max-h-[620px] flex items-end overflow-hidden">
+        <header className="relative h-[52vh] min-h-[390px] max-h-[620px] flex items-end overflow-hidden">
           <CountryHeroCover
             country={country.country}
             coverImages={coverImages}
@@ -210,13 +225,51 @@ export default async function ExploreCountryPage({ params }: Props) {
               </p>
             </div>
           </div>
-        </section>
+        </header>
 
-        <CountryExploreSplit
-          countryName={country.country}
-          cities={data.cities}
-          adventure={adventureSummary}
-        />
+        <article>
+          <section
+            className="container max-w-7xl mx-auto px-5 sm:px-8 pt-8 pb-2"
+            aria-labelledby="country-explore-heading"
+          >
+            <h2
+              id="country-explore-heading"
+              className="text-lg font-bold text-stone-900"
+            >
+              Explore {country.country}
+            </h2>
+            <AnswerFirstLead
+              heading={`Where to go in ${country.country}?`}
+              countryName={country.country}
+              facts={[
+                `${country.cityCount} cities`,
+                showAdventure ? "Road-trip adventure available" : "",
+                data.cities[0]?.city
+                  ? `Popular start: ${data.cities[0].city}`
+                  : "",
+              ]}
+              existing={faqs[0]?.answer}
+            />
+          </section>
+
+          <CountryExploreSplit
+            countryName={country.country}
+            cities={data.cities}
+            adventure={adventureSummary}
+          />
+
+          <RelatedContent
+            locale={locale}
+            currentPath={pagePath}
+            countrySlug={countrySlug}
+            countryName={country.country}
+            tags={country.tags}
+            limit={5}
+            className="container max-w-4xl mx-auto px-6 pt-6 pb-10"
+          />
+
+          <FaqSection items={faqs} />
+        </article>
 
         <footer className="border-t border-stone-200 py-8 text-center bg-[#F8F6F1]">
           <p className="text-stone-400 text-xs">

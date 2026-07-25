@@ -101,3 +101,38 @@ export function getDefaultTripBreadcrumbs(
     { name: "Adventure", url: tripUrl },
   ];
 }
+
+export function getDefaultGuideBreadcrumbs(
+  locale: string,
+  siteUrl: string,
+  country: string,
+  countrySlug: string,
+  city: string,
+  citySlug: string,
+  guideTitle: string,
+  guideUrl: string
+): SchemaBreadcrumbItem[] {
+  return [
+    ...getDefaultCityBreadcrumbs(
+      locale,
+      siteUrl,
+      country,
+      countrySlug,
+      city,
+      citySlug
+    ),
+    { name: guideTitle, url: guideUrl },
+  ];
+}
+
+export function getDefaultCollectionBreadcrumbs(
+  locale: string,
+  siteUrl: string,
+  title: string,
+  pageUrl: string
+): SchemaBreadcrumbItem[] {
+  return [
+    { name: "Home", url: `${siteUrl}/${locale}` },
+    { name: title, url: pageUrl },
+  ];
+}

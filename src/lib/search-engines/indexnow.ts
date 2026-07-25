@@ -1,5 +1,9 @@
-import { getSiteUrl } from "@/lib/seo";
-import { INDEXNOW_BATCH_SIZE, INDEXNOW_ENDPOINT } from "./config";
+import {
+  getIndexingSiteUrl,
+  INDEXNOW_BATCH_SIZE,
+  INDEXNOW_ENDPOINT,
+  toIndexingUrl,
+} from "./config";
 import { resolveIndexNowKey } from "./prefs";
 import type { IndexingChannelResult } from "./types";
 
@@ -14,6 +18,7 @@ function resolveHost(siteUrl: string): string {
 /**
  * Submit URLs to IndexNow (Bing / Yandex / Naver / Seznam, …).
  * Batches at INDEXNOW_BATCH_SIZE.
+ * Always uses the public production origin (viapins.com), even from local admin.
  */
 export async function submitIndexNow(
   urls: string[]
@@ -23,12 +28,18 @@ export async function submitIndexNow(
     return { ok: false, error: "INDEXNOW_KEY is not configured" };
   }
 
-  const cleaned = [...new Set(urls.map((u) => u.trim()).filter(Boolean))];
+  const cleaned = [
+    ...new Set(
+      urls
+        .map((u) => toIndexingUrl(u.trim()))
+        .filter(Boolean)
+    ),
+  ];
   if (cleaned.length === 0) {
     return { ok: false, error: "No URLs to submit" };
   }
 
-  const siteUrl = getSiteUrl().replace(/\/$/, "");
+  const siteUrl = getIndexingSiteUrl().replace(/\/$/, "");
   const host = resolveHost(siteUrl);
   const keyLocation = `${siteUrl}/indexnow-key.txt`;
 

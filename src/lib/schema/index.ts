@@ -2,7 +2,9 @@ import { SITE_FULL_NAME } from "@/lib/site-brand";
 import type {
   AttractionSchemaData,
   CitySchemaData,
+  CollectionSchemaData,
   CountrySchemaData,
+  GuideSchemaData,
   HomeSchemaData,
   JsonLdNode,
   SchemaEngineResult,
@@ -15,7 +17,9 @@ import {
   buildBreadcrumbNode,
   getDefaultAttractionBreadcrumbs,
   getDefaultCityBreadcrumbs,
+  getDefaultCollectionBreadcrumbs,
   getDefaultCountryBreadcrumbs,
+  getDefaultGuideBreadcrumbs,
   getDefaultHomeBreadcrumbs,
   getDefaultTripBreadcrumbs,
 } from "./builders/breadcrumb";
@@ -29,6 +33,10 @@ import {
   buildCountryPageUrl,
 } from "./builders/destination";
 import { buildTripEntityNodes, buildTripPageUrl } from "./builders/trip";
+import {
+  buildGuideEntityNodes,
+  buildGuidePageUrl,
+} from "./builders/article";
 import { buildSchemaMetadata } from "./metadata";
 import {
   buildEntityId,
@@ -348,6 +356,105 @@ function buildTripSchema(data: TripSchemaData): SchemaEngineResult {
   };
 }
 
+function buildGuideSchema(data: GuideSchemaData): SchemaEngineResult {
+  const siteUrl = getSchemaSiteUrl();
+  const pageUrl = buildGuidePageUrl(
+    data.locale,
+    data.countrySlug,
+    data.citySlug,
+    data.guideSlug
+  );
+  const webpageId = buildWebpageId(pageUrl);
+  const entityId = buildEntityId(pageUrl);
+  const websiteId = buildWebsiteId(siteUrl);
+  const orgId = buildOrganizationId(siteUrl);
+
+  const globalNodes = buildGlobalEntityNodes({ locale: data.locale, siteUrl });
+  const entityNodes = buildGuideEntityNodes(data, webpageId);
+  const breadcrumbs =
+    data.breadcrumbs ??
+    getDefaultGuideBreadcrumbs(
+      data.locale,
+      siteUrl,
+      data.country,
+      data.countrySlug,
+      data.city,
+      data.citySlug,
+      data.title,
+      pageUrl
+    );
+  const breadcrumbNode = buildBreadcrumbNode(pageUrl, breadcrumbs);
+
+  const webpage = buildWebPageNode({
+    pageUrl,
+    webpageId,
+    entityId,
+    websiteId,
+    orgId,
+    name: data.title,
+    description: data.description,
+    locale: data.locale,
+    breadcrumbId: breadcrumbNode["@id"] as string,
+    heroImage: data.heroImage,
+    pageTypes: "WebPage",
+  });
+
+  return {
+    jsonLd: createGraph([
+      ...globalNodes,
+      ...entityNodes,
+      breadcrumbNode,
+      webpage,
+    ]),
+    canonicalUrl: pageUrl,
+    webpageId,
+    entityId,
+  };
+}
+
+function buildCollectionSchema(data: CollectionSchemaData): SchemaEngineResult {
+  const siteUrl = getSchemaSiteUrl();
+  const bare = data.path.startsWith("/") ? data.path : `/${data.path}`;
+  const pageUrl =
+    bare === "/"
+      ? `${siteUrl}/${data.locale}`
+      : `${siteUrl}/${data.locale}${bare}`;
+  const webpageId = buildWebpageId(pageUrl);
+  const entityId = webpageId;
+  const websiteId = buildWebsiteId(siteUrl);
+  const orgId = buildOrganizationId(siteUrl);
+
+  const globalNodes = buildGlobalEntityNodes({ locale: data.locale, siteUrl });
+  const breadcrumbs =
+    data.breadcrumbs ??
+    getDefaultCollectionBreadcrumbs(
+      data.locale,
+      siteUrl,
+      data.title,
+      pageUrl
+    );
+  const breadcrumbNode = buildBreadcrumbNode(pageUrl, breadcrumbs);
+
+  const webpage = stripUndefined({
+    "@type": ["WebPage", "CollectionPage"],
+    "@id": webpageId,
+    url: pageUrl,
+    name: data.title,
+    description: data.description,
+    inLanguage: data.locale,
+    isPartOf: { "@id": websiteId },
+    publisher: { "@id": orgId },
+    breadcrumb: { "@id": breadcrumbNode["@id"] },
+  }) as JsonLdNode;
+
+  return {
+    jsonLd: createGraph([...globalNodes, breadcrumbNode, webpage]),
+    canonicalUrl: pageUrl,
+    webpageId,
+    entityId,
+  };
+}
+
 export function generateSchema(
   pageType: "home",
   data: HomeSchemaData
@@ -369,6 +476,14 @@ export function generateSchema(
   data: TripSchemaData
 ): SchemaEngineResult;
 export function generateSchema(
+  pageType: "guide",
+  data: GuideSchemaData
+): SchemaEngineResult;
+export function generateSchema(
+  pageType: "collection",
+  data: CollectionSchemaData
+): SchemaEngineResult;
+export function generateSchema(
   pageType: SchemaPageType,
   data: ViaPinsSchemaInput
 ): SchemaEngineResult;
@@ -387,6 +502,10 @@ export function generateSchema(
       return buildAttractionSchema(data as AttractionSchemaData);
     case "trip":
       return buildTripSchema(data as TripSchemaData);
+    case "guide":
+      return buildGuideSchema(data as GuideSchemaData);
+    case "collection":
+      return buildCollectionSchema(data as CollectionSchemaData);
     default: {
       const _exhaustive: never = pageType;
       throw new Error(`Unsupported schema page type: ${_exhaustive}`);
@@ -429,7 +548,9 @@ export type {
   AttractionEntity,
   AttractionSchemaData,
   CitySchemaData,
+  CollectionSchemaData,
   CountrySchemaData,
+  GuideSchemaData,
   HomeSchemaData,
   ItineraryStop,
   JsonLdGraph,
@@ -437,7 +558,9 @@ export type {
   SchemaEngineResult,
   SchemaFaqItem,
   SchemaMetadataInput,
+  SchemaOfferInput,
   SchemaPageType,
+  SchemaProductOfferInput,
   TripSchemaData,
   ViaPinsSchemaInput,
 } from "./types";
@@ -449,3 +572,9 @@ export {
   buildCityFaqs,
   buildCountryFaqs,
 } from "./faqs";
+export {
+  buildAggregateOfferNode,
+  buildOfferNode,
+  buildProductWithOffers,
+  hasRealPrice,
+} from "./builders/offer";
