@@ -37,12 +37,11 @@ export default async function ProtectedAdminLayout({
       .from("profiles")
       .select("is_admin, full_name, email, avatar_url")
       .eq("id", user.id)
-      .single();
+      .maybeSingle();
 
-  // Same rule in the React layout (middleware is the primary gate).
-  if (!profile?.is_admin) {
-    redirect("/admin/login?error=not_admin");
-  }
+    if (!profile?.is_admin) {
+      redirect("/admin/login?error=not_admin");
+    }
   }
 
   return (

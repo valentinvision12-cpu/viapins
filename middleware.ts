@@ -131,11 +131,15 @@ async function handleAdminRoute(request: NextRequest): Promise<NextResponse> {
 
   const isLoginPage = request.nextUrl.pathname === "/admin/login";
 
-  // Not authenticated → redirect to login
+  // Not authenticated → redirect to login (keep target path)
   if (!user && !isLoginPage) {
-    const loginUrl = new URL("/admin/login", request.url);
-    loginUrl.searchParams.set("redirectTo", request.nextUrl.pathname);
-    return NextResponse.redirect(loginUrl);
+    const dest = request.nextUrl.pathname || "/admin";
+    return NextResponse.redirect(
+      new URL(
+        `/admin/login?redirectTo=${encodeURIComponent(dest)}`,
+        request.url
+      )
+    );
   }
 
   // Authenticated but not admin → login with clear error (not public site)
@@ -144,13 +148,16 @@ async function handleAdminRoute(request: NextRequest): Promise<NextResponse> {
       .from("profiles")
       .select("is_admin")
       .eq("id", user.id)
-      .single();
+      .maybeSingle();
 
     if (!profile?.is_admin) {
-      const loginUrl = new URL("/admin/login", request.url);
-      loginUrl.searchParams.set("error", "not_admin");
-      loginUrl.searchParams.set("redirectTo", request.nextUrl.pathname);
-      return NextResponse.redirect(loginUrl);
+      const dest = request.nextUrl.pathname || "/admin";
+      return NextResponse.redirect(
+        new URL(
+          `/admin/login?error=not_admin&redirectTo=${encodeURIComponent(dest)}`,
+          request.url
+        )
+      );
     }
   }
 
@@ -160,11 +167,10 @@ async function handleAdminRoute(request: NextRequest): Promise<NextResponse> {
       .from("profiles")
       .select("is_admin")
       .eq("id", user.id)
-      .single();
+      .maybeSingle();
 
     if (profile?.is_admin) {
-      const dest =
-        request.nextUrl.searchParams.get("redirectTo") || "/admin";
+      const dest = request.nextUrl.searchParams.get("redirectTo") || "/admin";
       const safeDest = dest.startsWith("/admin") ? dest : "/admin";
       return NextResponse.redirect(new URL(safeDest, request.url));
     }
