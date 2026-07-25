@@ -1,4 +1,4 @@
-import { isBadImageUrl } from "./wiki-image";
+import { isBadImageUrl, isFragileWikimediaUrl } from "./wiki-image";
 import { isValidMapLocation } from "./place-links";
 import { isDeathRelatedPlace } from "./death-place-filter";
 import { isNonChristianReligiousPlace } from "./non-christian-place-filter";
@@ -12,23 +12,33 @@ export type PlaceCoverSource = {
 };
 
 /** Best cover from existing places — prefers Wikimedia thumbs, skips maps / empty URLs. */
+/** Best cover from existing places - prefers Wikimedia thumbs, skips fragile non-thumb URLs unless no alternative. */
 export function pickCityCoverFromPlaces(places: PlaceCoverSource[]): string {
   const sorted = [...places].sort((a, b) => a.order_index - b.order_index);
   const usable = sorted.filter(
     (p) => p.image_url?.trim() && !isBadImageUrl(p.image_url)
   );
-  const thumb = usable.find((p) => /\/thumb\//i.test(p.image_url));
+  const nonFragile = usable.filter((p) => !isFragileWikimediaUrl(p.image_url));
+  // Never pick fragile originals for covers — they frequently 404.
+  const pool = nonFragile;
+  const thumb = pool.find((p) => new RegExp("/thumb/", "i").test(p.image_url));
   if (thumb) return thumb.image_url;
-  return usable[0]?.image_url ?? "";
+  return pool[0]?.image_url ?? "";
 }
 
-/** Hero/cover from DB only — no live Wikipedia. */
 export function resolveCityCoverFromDb(
   storedCover: string | undefined,
   places: PlaceCoverSource[] = []
 ): string {
   const trimmed = storedCover?.trim() ?? "";
-  if (trimmed && !isBadImageUrl(trimmed)) return trimmed;
+  // Skip fragile non-thumb Commons originals — they often 404.
+  if (
+    trimmed &&
+    !isBadImageUrl(trimmed) &&
+    !isFragileWikimediaUrl(trimmed)
+  ) {
+    return trimmed;
+  }
   return pickCityCoverFromPlaces(places);
 }
 
