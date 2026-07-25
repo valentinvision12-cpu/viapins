@@ -311,7 +311,7 @@ export function AnalyticsPanel({
         </h2>
         {data.live.length === 0 ? (
           <p className="text-sm text-gray-400">
-            В момента няма никой онлайн (прозорец: последните 2 минути).
+            В момента няма никой онлайн (прозорец: последните 5 минути).
           </p>
         ) : (
           <div className="overflow-x-auto">

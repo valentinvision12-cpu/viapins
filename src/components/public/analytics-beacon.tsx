@@ -4,7 +4,7 @@ import { useEffect, useRef } from "react";
 import { usePathname } from "next/navigation";
 
 const STORAGE_KEY = "vp_sid";
-const HEARTBEAT_MS = 30_000;
+const HEARTBEAT_MS = 15_000;
 
 function getSessionId(): string {
   try {

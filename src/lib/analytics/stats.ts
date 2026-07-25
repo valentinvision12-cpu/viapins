@@ -1,7 +1,7 @@
 import { createServiceClient } from "@/lib/supabase/service";
 import { countryLabel } from "@/lib/analytics/geo";
 
-export const LIVE_WINDOW_MS = 2 * 60 * 1000;
+export const LIVE_WINDOW_MS = 5 * 60 * 1000;
 
 export type LiveVisitor = {
   sessionId: string;
