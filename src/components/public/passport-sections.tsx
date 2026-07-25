@@ -7,7 +7,7 @@ import { useTranslations } from "next-intl";
 import { motion, AnimatePresence } from "framer-motion";
 import {
   Camera,
-  Map,
+  Map as MapIcon,
   MapPin,
   Heart,
   FolderOpen,
@@ -62,7 +62,7 @@ const PLACES_VIEW_KEY = "viapins_passport_places_view";
 
 const TABS: {
   id: PassportSectionTab;
-  icon: typeof Map;
+  icon: typeof MapIcon;
   labelKey:
     | "passportTabTrips"
     | "passportTabPlaces"
@@ -70,7 +70,7 @@ const TABS: {
     | "passportTabPosts";
 }[] = [
   { id: "places", icon: Heart, labelKey: "passportTabPlaces" },
-  { id: "trips", icon: Map, labelKey: "passportTabTrips" },
+  { id: "trips", icon: MapIcon, labelKey: "passportTabTrips" },
   { id: "collections", icon: FolderOpen, labelKey: "passportTabCollections" },
   { id: "posts", icon: Camera, labelKey: "passportTabPosts" },
 ];
@@ -754,7 +754,7 @@ export function PassportSections({
 
                   {trips.length === 0 ? (
                     <PassportEmptyState
-                      icon={Map}
+                      icon={MapIcon}
                       title={t("passportEmptyTripsFilterTitle")}
                       description={t("passportEmptyTripsFilterDesc")}
                       ctaLabel={tTrips("ctaExploreCities")}
