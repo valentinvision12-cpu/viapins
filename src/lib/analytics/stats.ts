@@ -90,7 +90,9 @@ export async function getAnalyticsSnapshot(): Promise<AnalyticsSnapshot> {
   const [liveRes, views24Res, views14Res] = await Promise.all([
     supabase
       .from("visitor_presence")
-      .select("session_id, path, locale, country_code, city, referrer, last_seen")
+      .select(
+        "session_id, path, locale, country_code, city, referrer, last_seen, user_agent, net_key"
+      )
       .gte("last_seen", liveSince)
       .order("last_seen", { ascending: false })
       .limit(200),
@@ -106,11 +108,37 @@ export async function getAnalyticsSnapshot(): Promise<AnalyticsSnapshot> {
       .limit(50000),
   ]);
 
-  const liveRows = liveRes.data ?? [];
+  let liveRows = liveRes.data ?? [];
+  // Column may not exist until migration 019 is applied.
+  if (liveRes.error?.message?.includes("net_key")) {
+    const fallback = await supabase
+      .from("visitor_presence")
+      .select(
+        "session_id, path, locale, country_code, city, referrer, last_seen, user_agent"
+      )
+      .gte("last_seen", liveSince)
+      .order("last_seen", { ascending: false })
+      .limit(200);
+    liveRows = (fallback.data ?? []).map((r) => ({ ...r, net_key: null }));
+  }
+
   const views24 = views24Res.data ?? [];
   const views14 = views14Res.data ?? [];
 
-  const live: LiveVisitor[] = liveRows.map((r) => ({
+  // One live person per network fingerprint (IP+UA) or UA+city fallback.
+  const dedupedRows: typeof liveRows = [];
+  const seen = new Set<string>();
+  for (const r of liveRows) {
+    const fp =
+      (typeof r.net_key === "string" && r.net_key) ||
+      `${r.country_code ?? ""}|${r.city ?? ""}|${(r.user_agent as string | null)?.slice(0, 80) ?? ""}` ||
+      r.session_id;
+    if (seen.has(fp)) continue;
+    seen.add(fp);
+    dedupedRows.push(r);
+  }
+
+  const live: LiveVisitor[] = dedupedRows.map((r) => ({
     sessionId: r.session_id,
     path: r.path || "/",
     locale: r.locale,

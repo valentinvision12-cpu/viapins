@@ -1,3 +1,4 @@
+import { createHash } from "crypto";
 import { NextRequest, NextResponse } from "next/server";
 import { createServiceClient } from "@/lib/supabase/service";
 import { countryFromHeaders } from "@/lib/analytics/geo";
@@ -20,6 +21,19 @@ function sanitizePath(raw: unknown): string {
   const path = raw.split("?")[0].split("#")[0].slice(0, 300);
   if (path.startsWith("/admin") || path.startsWith("/api")) return "";
   return path || "/";
+}
+
+/** One person ≈ one IP + browser UA. */
+function netKeyFromRequest(req: NextRequest, ua: string): string {
+  const ip =
+    req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() ||
+    req.headers.get("x-real-ip")?.trim() ||
+    req.headers.get("cf-connecting-ip")?.trim() ||
+    "unknown";
+  return createHash("sha256")
+    .update(`${ip}|${ua.slice(0, 80)}`)
+    .digest("hex")
+    .slice(0, 32);
 }
 
 export async function POST(req: NextRequest) {
@@ -47,13 +61,13 @@ export async function POST(req: NextRequest) {
         ? "leave"
         : "pageview";
 
+  const ua = (req.headers.get("user-agent") || "").slice(0, 240);
+  const netKey = netKeyFromRequest(req, ua);
+
   if (type === "leave") {
-    const { error } = await supabase
-      .from("visitor_presence")
-      .delete()
-      .eq("session_id", sessionId);
-    if (error) {
-      console.error("[analytics/collect] leave", error.message);
+    await supabase.from("visitor_presence").delete().eq("session_id", sessionId);
+    if (ua) {
+      await supabase.from("visitor_presence").delete().eq("user_agent", ua);
     }
     return NextResponse.json({ ok: true });
   }
@@ -68,10 +82,8 @@ export async function POST(req: NextRequest) {
   const referrer =
     typeof body.referrer === "string" ? body.referrer.slice(0, 500) : null;
   const { countryCode, city } = countryFromHeaders(req.headers);
-  const ua = (req.headers.get("user-agent") || "").slice(0, 240);
   const now = new Date().toISOString();
 
-  // Preserve existing geo when edge headers are missing (e.g. local dev).
   let resolvedCountry = countryCode;
   let resolvedCity = city;
   if (!resolvedCountry) {
@@ -84,6 +96,22 @@ export async function POST(req: NextRequest) {
     if (!resolvedCity && existing?.city) resolvedCity = existing.city;
   }
 
+  // Drop older duplicate live rows from the same IP+browser (old per-tab ids).
+  // Prefer net_key when migration 019 is applied; always also collapse by UA.
+  if (ua) {
+    await supabase
+      .from("visitor_presence")
+      .delete()
+      .eq("user_agent", ua)
+      .neq("session_id", sessionId);
+  } else {
+    await supabase
+      .from("visitor_presence")
+      .delete()
+      .eq("net_key", netKey)
+      .neq("session_id", sessionId);
+  }
+
   const { error: presenceErr } = await supabase.from("visitor_presence").upsert(
     {
       session_id: sessionId,
@@ -93,12 +121,31 @@ export async function POST(req: NextRequest) {
       city: resolvedCity,
       referrer,
       user_agent: ua || null,
+      net_key: netKey,
       last_seen: now,
     },
     { onConflict: "session_id" }
   );
 
-  if (presenceErr) {
+  // If net_key column missing, retry without it so analytics keeps working.
+  if (presenceErr?.message?.includes("net_key")) {
+    const { error: retryErr } = await supabase.from("visitor_presence").upsert(
+      {
+        session_id: sessionId,
+        path,
+        locale,
+        country_code: resolvedCountry,
+        city: resolvedCity,
+        referrer,
+        user_agent: ua || null,
+        last_seen: now,
+      },
+      { onConflict: "session_id" }
+    );
+    if (retryErr) {
+      console.error("[analytics/collect] presence", retryErr.message);
+    }
+  } else if (presenceErr) {
     console.error("[analytics/collect] presence", presenceErr.message);
   }
 

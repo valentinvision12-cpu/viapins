@@ -4,10 +4,12 @@ import { useEffect, useRef } from "react";
 import { usePathname } from "next/navigation";
 
 const VISITOR_KEY = "vp_vid";
+const COOKIE_KEY = "vp_vid";
 const LEGACY_SESSION_KEY = "vp_sid";
 const TAB_COUNT_KEY = "vp_tab_count";
 const TAB_FLAG_KEY = "vp_tab_open";
 const HEARTBEAT_MS = 12_000;
+const COOKIE_MAX_AGE = 60 * 60 * 24 * 365;
 
 type CollectType = "pageview" | "heartbeat" | "leave";
 
@@ -18,17 +20,54 @@ function newId(): string {
   return `v${Date.now().toString(36)}${Math.random().toString(36).slice(2, 10)}`;
 }
 
-/** One ID per browser (all tabs) — not per tab. */
+function validId(id: string | null | undefined): id is string {
+  return !!id && /^[a-zA-Z0-9_-]{8,64}$/.test(id);
+}
+
+function readCookie(name: string): string | null {
+  try {
+    const match = document.cookie
+      .split("; ")
+      .find((row) => row.startsWith(`${name}=`));
+    return match ? decodeURIComponent(match.split("=").slice(1).join("=")) : null;
+  } catch {
+    return null;
+  }
+}
+
+function writeCookie(name: string, value: string) {
+  try {
+    document.cookie = `${name}=${encodeURIComponent(value)}; path=/; max-age=${COOKIE_MAX_AGE}; SameSite=Lax`;
+  } catch {
+    /* ignore */
+  }
+}
+
+/**
+ * One visitor ID per browser across all tabs.
+ * Cookie first (shared), then localStorage — never re-seed from old per-tab session ids.
+ */
 function getVisitorId(): string {
   try {
-    const existing = localStorage.getItem(VISITOR_KEY);
-    if (existing && /^[a-zA-Z0-9_-]{8,64}$/.test(existing)) return existing;
+    const fromCookie = readCookie(COOKIE_KEY);
+    if (validId(fromCookie)) {
+      try {
+        localStorage.setItem(VISITOR_KEY, fromCookie);
+      } catch {
+        /* ignore */
+      }
+      return fromCookie;
+    }
 
-    // Migrate old per-tab session ids so reloads don't invent a new visitor.
-    const legacy = sessionStorage.getItem(LEGACY_SESSION_KEY);
-    const id =
-      legacy && /^[a-zA-Z0-9_-]{8,64}$/.test(legacy) ? legacy : newId();
+    const fromLs = localStorage.getItem(VISITOR_KEY);
+    if (validId(fromLs)) {
+      writeCookie(COOKIE_KEY, fromLs);
+      return fromLs;
+    }
+
+    const id = newId();
     localStorage.setItem(VISITOR_KEY, id);
+    writeCookie(COOKIE_KEY, id);
     try {
       sessionStorage.removeItem(LEGACY_SESSION_KEY);
     } catch {
@@ -36,7 +75,11 @@ function getVisitorId(): string {
     }
     return id;
   } catch {
-    return newId();
+    const fromCookie = readCookie(COOKIE_KEY);
+    if (validId(fromCookie)) return fromCookie;
+    const id = newId();
+    writeCookie(COOKIE_KEY, id);
+    return id;
   }
 }
 
@@ -80,7 +123,7 @@ function send(type: CollectType, path: string, locale: string) {
     headers: { "Content-Type": "application/json" },
     body: payload,
     keepalive: true,
-    credentials: "omit",
+    credentials: "same-origin",
   }).catch(() => {});
 }
 
@@ -94,7 +137,6 @@ export function AnalyticsBeacon({ locale }: { locale: string }) {
     pathRef.current = pathname;
   }, [pathname]);
 
-  // Track open-tab count so leave only fires when the last public tab closes.
   useEffect(() => {
     try {
       if (!sessionStorage.getItem(TAB_FLAG_KEY)) {
