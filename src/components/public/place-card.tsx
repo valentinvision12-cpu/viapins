@@ -1,8 +1,6 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import Image from "next/image";
-import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
 import { Plus, Check, ChevronRight, Heart, Building2, ExternalLink } from "lucide-react";
 import { useTranslations, useLocale } from "next-intl";
 import { useRouteCart } from "@/lib/context/route-cart-context";
@@ -19,6 +17,7 @@ import { Link } from "@/i18n/navigation";
 import { getPlaceContent } from "@/lib/content-locale";
 import { placeSlug } from "@/lib/place-slug";
 import { slugify } from "@/lib/utils";
+import { SafeCoverImage } from "@/components/public/safe-cover-image";
 
 interface PlaceData {
   id: string;
@@ -51,11 +50,19 @@ interface Props {
 
 export function PlaceCard({ place, locale, city, country, index }: Props) {
   const t = useTranslations("route");
-  const [imgSrc, setImgSrc] = useState(place.image_url || "");
+  const primaryUrl =
+    place.image_url?.trim() && !isBadImageUrl(place.image_url)
+      ? place.image_url.trim()
+      : "";
+  const [imgSrc, setImgSrc] = useState(primaryUrl);
   const { addItem, removeItem, isInCart, openPanel } = useRouteCart();
 
   useEffect(() => {
-    setImgSrc(place.image_url || "");
+    const next =
+      place.image_url?.trim() && !isBadImageUrl(place.image_url)
+        ? place.image_url.trim()
+        : "";
+    setImgSrc(next);
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [place.image_url]);
 
@@ -66,7 +73,9 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
     fetch(`/api/places/${place.id}/image`)
       .then((r) => r.json())
       .then((data: { url?: string }) => {
-        if (!cancelled && data.url) setImgSrc(data.url);
+        if (!cancelled && data.url && !isBadImageUrl(data.url)) {
+          setImgSrc(data.url);
+        }
       })
       .catch(() => {});
     return () => {
@@ -118,34 +127,30 @@ export function PlaceCard({ place, locale, city, country, index }: Props) {
       <div className="flex flex-col sm:flex-row gap-0">
         <Link
           href={detailHref}
-          className="relative sm:w-56 flex-shrink-0 h-48 sm:min-h-[11.5rem] sm:h-auto overflow-hidden sm:rounded-l-2xl bg-stone-100 focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2"
+          className="relative sm:w-56 flex-shrink-0 h-48 sm:min-h-[11.5rem] sm:h-auto overflow-hidden sm:rounded-l-2xl bg-stone-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2"
           aria-label={place.name}
         >
-          {imgSrc ? (
-            <Image
-              src={imgSrc}
-              alt={placeSeo.imageAlt}
-              fill
-              sizes="(max-width: 640px) 100vw, 208px"
-              className="object-cover transition-transform duration-500 group-hover:scale-[1.03]"
-              referrerPolicy={IMAGE_REFERRER_POLICY}
-              onError={() => {
-                setImgSrc("");
-                fetch(`/api/places/${place.id}/image?refresh=1`)
-                  .then((r) => r.json())
-                  .then((data: { url?: string }) => {
-                    if (data.url && !isBadImageUrl(data.url)) setImgSrc(data.url);
-                  })
-                  .catch(() => {});
-              }}
-              unoptimized={IMAGE_UNOPTIMIZED}
-            />
-          ) : (
-            <div className="absolute inset-0 bg-gradient-to-br from-stone-200 to-stone-300" aria-hidden />
-          )}
+          <SafeCoverImage
+            src={imgSrc}
+            alt={placeSeo.imageAlt}
+            fallbackSeed={`${place.name}-${city}`}
+            sizes="(max-width: 640px) 100vw, 208px"
+            width={640}
+            height={480}
+            imageClassName="transition-transform duration-500 group-hover:scale-[1.03]"
+            gradientClassName="bg-gradient-to-br from-stone-200 via-stone-300 to-stone-400"
+            onPrimaryError={() => {
+              fetch(`/api/places/${place.id}/image?refresh=1`)
+                .then((r) => r.json())
+                .then((data: { url?: string }) => {
+                  if (data.url && !isBadImageUrl(data.url)) setImgSrc(data.url);
+                })
+                .catch(() => {});
+            }}
+          />
 
           <div
-            className={`absolute top-3 left-3 w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold shadow-sm ${
+            className={`absolute top-3 left-3 z-10 w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold shadow-sm ${
               inTrip ? "text-white" : "bg-white/95 text-stone-700"
             }`}
             style={inTrip ? { background: "oklch(0.68 0.16 82)" } : undefined}

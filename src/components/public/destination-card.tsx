@@ -1,13 +1,11 @@
 "use client";
 
-import Image from "next/image";
-import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
 import { useEffect, useState } from "react";
 import { Layers, ArrowRight, MapPin } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import { motion } from "framer-motion";
 import type { DestinationCard as DestinationCardType } from "@/actions/get-destinations";
-import { fallbackImageUrl } from "@/lib/fallback-image";
+import { SafeCoverImage } from "@/components/public/safe-cover-image";
 
 interface Props {
   destination: DestinationCardType;
@@ -40,40 +38,19 @@ export function DestinationCard({
   showCountry = false,
 }: Props) {
   const gradient = gradientForCity(destination.city);
-  const [imgSrc, setImgSrc] = useState(destination.coverImage || "");
-  const [imgFailed, setImgFailed] = useState(false);
-
-  useEffect(() => {
-    setImgSrc(destination.coverImage || "");
-    setImgFailed(false);
-  }, [destination.coverImage]);
 
   const cardContent = (
     <div className="rounded-2xl overflow-hidden shadow-md transition-all duration-300 group-hover:shadow-xl group-hover:-translate-y-1 border border-stone-200/60">
       <div className={`relative h-60 sm:h-52 overflow-hidden bg-gradient-to-br ${gradient}`}>
-        {imgSrc && !imgFailed ? (
-        <Image
-          src={imgSrc}
+        <SafeCoverImage
+          src={destination.coverImage}
           alt={destination.city}
-          fill
+          fallbackSeed={`${destination.city}-${destination.country}`}
           sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-          className="object-cover transition-transform duration-500 group-hover:scale-105"
           priority={priority}
-          referrerPolicy={IMAGE_REFERRER_POLICY}
-          onError={() => setImgFailed(true)}
-          unoptimized={IMAGE_UNOPTIMIZED}
+          imageClassName="transition-transform duration-500 group-hover:scale-105"
+          gradientClassName={`bg-gradient-to-br ${gradient}`}
         />
-        ) : (
-          <Image
-            src={fallbackImageUrl(`${destination.city}-${destination.country}`, 1000, 720)}
-            alt={destination.city}
-            fill
-            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-            className="object-cover"
-            referrerPolicy={IMAGE_REFERRER_POLICY}
-            unoptimized={IMAGE_UNOPTIMIZED}
-          />
-        )}
 
         <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/15 to-transparent" />
 

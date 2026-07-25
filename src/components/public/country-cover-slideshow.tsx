@@ -5,6 +5,7 @@ import Image from "next/image";
 import { IMAGE_UNOPTIMIZED, IMAGE_REFERRER_POLICY } from "@/lib/image-runtime";
 import { cn } from "@/lib/utils";
 import { fallbackImageUrl } from "@/lib/fallback-image";
+import { isBadImageUrl } from "@/lib/wiki-image";
 
 /** Card grid — slow enough to read the landmark */
 export const COVER_SLIDE_INTERVAL_CARD_MS = 14_000;
@@ -31,15 +32,22 @@ export function CountryCoverSlideshow({
   sizes = "100vw",
   priority = false,
 }: Props) {
-  const slides = images.filter(Boolean);
+  const slides = images
+    .map((u) => u?.trim())
+    .filter((u): u is string => !!u && !isBadImageUrl(u));
+  const fallback = fallbackImageUrl(alt, 1400, 900);
+
   const [active, setActive] = useState(0);
   const [failed, setFailed] = useState<Set<string>>(() => new Set());
   const [paused, setPaused] = useState(false);
+  const [fallbackFailed, setFallbackFailed] = useState(false);
 
   const visible = slides.filter((u) => !failed.has(u));
 
   useEffect(() => {
     setActive(0);
+    setFailed(new Set());
+    setFallbackFailed(false);
   }, [slides.join("|")]);
 
   useEffect(() => {
@@ -51,21 +59,31 @@ export function CountryCoverSlideshow({
     return () => clearInterval(id);
   }, [visible.length, intervalMs, paused]);
 
+  // All Wikimedia slides failed (or none provided) → picsum, then solid gradient
   if (visible.length === 0) {
     return (
-      <div className={cn("relative overflow-hidden", className)}>
-        <Image
-          src={fallbackImageUrl(alt, 1400, 900)}
-          alt={alt}
-          fill
-          sizes={sizes}
-          priority={priority}
-          className={cn(
-            "object-cover brightness-[0.96] contrast-[1.06] saturate-[1.04]",
-            imageClassName
-          )}
-              unoptimized={IMAGE_UNOPTIMIZED}
-              referrerPolicy={IMAGE_REFERRER_POLICY} />
+      <div
+        className={cn(
+          "relative overflow-hidden bg-gradient-to-br from-stone-400 via-stone-500 to-stone-700",
+          className
+        )}
+      >
+        {!fallbackFailed ? (
+          <Image
+            src={fallback}
+            alt={alt}
+            fill
+            sizes={sizes}
+            priority={priority}
+            className={cn(
+              "object-cover brightness-[0.96] contrast-[1.06] saturate-[1.04]",
+              imageClassName
+            )}
+            unoptimized={IMAGE_UNOPTIMIZED}
+            referrerPolicy={IMAGE_REFERRER_POLICY}
+            onError={() => setFallbackFailed(true)}
+          />
+        ) : null}
       </div>
     );
   }
@@ -74,7 +92,10 @@ export function CountryCoverSlideshow({
 
   return (
     <div
-      className={cn("relative overflow-hidden", className)}
+      className={cn(
+        "relative overflow-hidden bg-gradient-to-br from-stone-400 via-stone-500 to-stone-700",
+        className
+      )}
       onMouseEnter={() => setPaused(true)}
       onMouseLeave={() => setPaused(false)}
       onFocus={() => setPaused(true)}
@@ -95,8 +116,9 @@ export function CountryCoverSlideshow({
             imageClassName
           )}
           onError={() => setFailed((prev) => new Set(prev).add(src))}
-              unoptimized={IMAGE_UNOPTIMIZED}
-              referrerPolicy={IMAGE_REFERRER_POLICY} />
+          unoptimized={IMAGE_UNOPTIMIZED}
+          referrerPolicy={IMAGE_REFERRER_POLICY}
+        />
       ))}
 
       {visible.length > 1 && (
