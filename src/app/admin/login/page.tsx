@@ -62,7 +62,10 @@ function AdminLoginForm() {
         .eq("id", userId)
         .maybeSingle();
 
-      if (!profile?.is_admin) {
+      const isAdmin = Boolean(
+        (profile as { is_admin?: boolean } | null)?.is_admin
+      );
+      if (!isAdmin) {
         await supabase.auth.signOut();
         setError("Този акаунт не е администратор. Нужен е админ достъп.");
         return;
