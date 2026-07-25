@@ -7,6 +7,10 @@ import {
   parseSitemapChunkId,
 } from "@/lib/sitemap-chunks";
 
+/** Always fetch live catalog — build-time SSG left empty/partial urlsets on Vercel. */
+export const dynamic = "force-dynamic";
+export const revalidate = 3600;
+
 function localeAlternates(path: string): Record<string, string> {
   const baseUrl = getSiteUrl();
   const bare = path.startsWith("/") ? path : `/${path}`;
