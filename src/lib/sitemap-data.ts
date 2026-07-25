@@ -221,3 +221,30 @@ export function placePaths(places: SitemapPlace[]): string[] {
     .filter((p) => p.indexable)
     .map((p) => `/explore/${p.countrySlug}/${p.citySlug}/${p.placeSlug}`);
 }
+
+async function fetchAdventureCountrySlugs(): Promise<string[]> {
+  const supabase = createPublicReadClient();
+  if (!supabase) return [];
+  const { data, error } = await supabase
+    .from("adventure_collections")
+    .select("slug")
+    .eq("published", true);
+  if (error) {
+    console.error("[sitemap-data] adventure slugs:", error.message);
+    return [];
+  }
+  return (data ?? [])
+    .map((r) => String(r.slug ?? "").toLowerCase())
+    .filter(Boolean);
+}
+
+const getCachedAdventureCountrySlugsRaw = unstable_cache(
+  fetchAdventureCountrySlugs,
+  ["sitemap-adventure-slugs-v1"],
+  { revalidate: 3600, tags: ["adventures"] }
+);
+
+/** Cookie-free adventure slugs for sitemap/indexing (safe at build time). */
+export async function getCachedAdventureCountrySlugs(): Promise<string[]> {
+  return getCachedAdventureCountrySlugsRaw();
+}

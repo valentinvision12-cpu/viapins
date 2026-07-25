@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
-import { getAdventureCountrySlugs } from "@/lib/adventure-data";
 import {
+  getCachedAdventureCountrySlugs,
   getCachedSitemapCatalog,
   guidePathsForCities,
   placePaths,
@@ -141,7 +141,7 @@ export async function collectAllPathBatches(): Promise<SitemapPathBatch[]> {
     });
   }
 
-  for (const slug of await getAdventureCountrySlugs()) {
+  for (const slug of await getCachedAdventureCountrySlugs()) {
     batches.push({
       path: `/explore/${slug}/adventure`,
       changeFrequency: "weekly",
