@@ -14,6 +14,11 @@ import {
   type RouteScope,
   type BlockReason,
 } from "@/lib/route-scope";
+import {
+  addTourPlaceToRouteAction,
+  removeTourPlaceFromRouteAction,
+  saveTourToRouteAction,
+} from "@/actions/save-tour-to-route";
 
 export type RouteMode = "city" | "adventure";
 
@@ -60,6 +65,8 @@ interface RouteCartContextType {
   panelOpen: boolean;
   setPanelOpen: (open: boolean) => void;
   openPanel: () => void;
+  saveToRoute: (routeId: string) => Promise<{ success: boolean; error?: string }>;
+  isSaving: boolean;
 }
 
 const RouteCartContext = createContext<RouteCartContextType | null>(null);
@@ -71,6 +78,7 @@ export function RouteCartProvider({ children }: { children: ReactNode }) {
   const [hydrated, setHydrated] = useState(false);
   const [blockNotice, setBlockNotice] = useState<RouteBlockNotice | null>(null);
   const [panelOpen, setPanelOpen] = useState(false);
+  const [isSaving, setIsSaving] = useState(false);
 
   useEffect(() => {
     try {
@@ -196,6 +204,52 @@ export function RouteCartProvider({ children }: { children: ReactNode }) {
     [items]
   );
 
+  const saveToRoute = useCallback(
+    async (routeId: string): Promise<{ success: boolean; error?: string }> => {
+      if (!routeId?.trim()) {
+        return { success: false, error: "no_route" };
+      }
+
+      if (items.length === 0) {
+        return { success: false, error: "no_items" };
+      }
+
+      setIsSaving(true);
+      try {
+        const result = await saveTourToRouteAction({
+          routeId,
+          items: items.map((item, index) => ({
+            id: item.id,
+            name: item.name,
+            city: item.city,
+            country: item.country,
+            lat: item.lat,
+            lng: item.lng,
+            image_url: item.image_url,
+            order_index: index,
+            mode: item.mode ?? "city",
+            region: item.region ?? item.city,
+          })),
+        });
+
+        if (result.success) {
+          // Clear cart after successful save
+          setItems([]);
+          localStorage.removeItem(STORAGE_KEY);
+          return { success: true };
+        } else {
+          return { success: false, error: result.error };
+        }
+      } catch (err) {
+        console.error("[saveToRoute]", err);
+        return { success: false, error: "save_failed" };
+      } finally {
+        setIsSaving(false);
+      }
+    },
+    [items]
+  );
+
   const scope = getCartScope(items);
   const cartMode = scope?.mode ?? null;
 
@@ -220,6 +274,8 @@ export function RouteCartProvider({ children }: { children: ReactNode }) {
         panelOpen,
         setPanelOpen,
         openPanel,
+        saveToRoute,
+        isSaving,
       }}
     >
       {children}
