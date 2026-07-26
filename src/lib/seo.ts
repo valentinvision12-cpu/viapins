@@ -10,7 +10,7 @@ import { SITE_DEFAULT_URL } from "@/lib/site-brand";
  * Unused vars are omitted from the metadata object.
  */
 export function buildVerificationMetadata(): NonNullable<Metadata["verification"]> {
-  const google = process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION?.trim() || "zkVmmjDmW2s_oTBNcjr8ItC-Q53beaCS3z_N3CuvnHg";
+  const google = process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION?.trim();
   const bing = process.env.NEXT_PUBLIC_BING_SITE_VERIFICATION?.trim();
   const yandex = process.env.NEXT_PUBLIC_YANDEX_VERIFICATION?.trim();
   const other: Record<string, string | (string | number)[]> = {};
