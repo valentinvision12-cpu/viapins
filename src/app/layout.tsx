@@ -80,6 +80,9 @@ export const metadata: Metadata = {
       "application/rss+xml": "/feed.xml",
     },
   },
+  other: {
+    "google-site-verification": "zkVmmjDmW2s_oTBNcjr8ItC-Q53beaCS3z_N3CuvnHg",
+  },
 };
 
 export default function RootLayout({
