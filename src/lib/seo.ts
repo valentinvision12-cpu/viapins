@@ -10,7 +10,7 @@ import { SITE_DEFAULT_URL } from "@/lib/site-brand";
  * Unused vars are omitted from the metadata object.
  */
 export function buildVerificationMetadata(): NonNullable<Metadata["verification"]> {
-  const google = process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION?.trim();
+  const google = process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION?.trim() || "zkVmmjDmW2s_oTBNcjr8ItC-Q53beaCS3z_N3CuvnHg";
   const bing = process.env.NEXT_PUBLIC_BING_SITE_VERIFICATION?.trim();
   const yandex = process.env.NEXT_PUBLIC_YANDEX_VERIFICATION?.trim();
   const other: Record<string, string | (string | number)[]> = {};
@@ -130,7 +130,7 @@ export function buildCitySeo(input: CitySeoInput): CitySeoOutput {
 
   const description =
     custom?.description ??
-    `Discover ${placeCount} must-see landmarks in ${city}, ${country}. Free GPS travel guide with photos, history${topNames ? ` — including ${topNames}` : ""}. Plan your perfect itinerary in minutes.`;
+    `Discover ${placeCount} must-see landmarks in ${city}, ${country}. Free GPS travel guide with photos, history${topNames ? ` — including ${topNames}` : ""}. Plan your perfect itinerary in mi[...]
 
   const h1Subtitle =
     custom?.h1_subtitle ??
@@ -138,7 +138,7 @@ export function buildCitySeo(input: CitySeoInput): CitySeoOutput {
 
   const intro =
     custom?.intro ??
-    `Planning a trip to ${city}? This free guide covers the ${placeCount} best places to visit in ${city}, ${country} — from iconic landmarks to hidden gems. Save your favorites, build a GPS route in Google Maps, and explore at your own pace. No app required.`;
+    `Planning a trip to ${city}? This free guide covers the ${placeCount} best places to visit in ${city}, ${country} — from iconic landmarks to hidden gems. Save your favorites, build a GPS ro[...]
 
   const keywords = custom?.keywords ?? [
     `things to do in ${city}`,
